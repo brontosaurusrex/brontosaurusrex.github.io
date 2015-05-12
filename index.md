@@ -259,7 +259,7 @@ I would add an Adblock Plus extension right away
 
 <a href="http://shrani.si/f/2E/MY/4dE12bs6/iceweasel.png"><img src="http://shrani.si/t/2E/MY/4dE12bs6/iceweasel.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
-warning: Scrollbar anywhere and dwm wm do not like each other.
+note: Scrollbar anywhere and dwm wm do not like each other.
 
 test the alias "open" and viewnior, as user
 
