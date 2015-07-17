@@ -636,9 +636,10 @@ Note: Lightdm does not source .profile, so make sure that user bin path is added
 
 sudo
 
-    apt-get install evince vlc smplayer catfish
-    apt-get install --no-install-recommends file-roller
+    apt-get install atril vlc smplayer catfish
+    apt-get install --no-install-recommends engrampa 
 
+note: atril is mate version of evince & engrampa is mate version of file-roller
 note: something about .config/Trolltech.conf and qt4-qtconfig (qtconfig)
 
 Neither vlc, nor smplayer are working correctly in vbox enviroment for me, possibly missing stuff.
@@ -749,7 +750,7 @@ sudo
 
     apt-get install gtk3-engines-* ?
 
-    apt-get install --no-install-recommends fonts-dejavu fonts-droid ttf-freefont ttf-liberation gdebi gtk2-engines-pixbuf gtk2-engines-murrine gtk2-engines-oxygen gtk2-engines-xfce xfce4-appfinder file-roller
+    apt-get install --no-install-recommends fonts-dejavu fonts-droid ttf-freefont ttf-liberation gdebi gtk2-engines-pixbuf gtk2-engines-murrine gtk2-engines-oxygen gtk2-engines-xfce xfce4-appfinder engrampa
 
     apt-get install libreoffice libreoffice-gtk
 
@@ -766,7 +767,7 @@ Infinality related stuff skipped here.
 
 <a href="http://shrani.si/f/1/ML/2e0k1KMM/realhardwarei3.png"><img src="http://shrani.si/t/1/ML/2e0k1KMM/realhardwarei3.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
-"Problems" were a. video playback related, tearing. I did not dig into compton setting this time, just removed it from autostart. b. gtk3 apps like catfish or file-roller do look fugly. c. added xfce4-power-manager in the openbox/autostart.
+"Problems" were a. video playback related, tearing. I did not dig into compton setting this time, just removed it from autostart. b. gtk3 apps like catfish do look fugly. 
 
 #### asus eee
 
