@@ -35,6 +35,9 @@ as su
 
 reboot ?
 
+Note: if there is no root password entered in the Debian installer, sudo is installed and the first user created (ie, in the installer) is added to the "sudo" group automatically.
+<http://crunchbang.org/forums/viewtopic.php?pid=430287#p430287>
+
 ### virtualbox related
 
 Insert Guest additions cd, it should appear in /media/cdrom
