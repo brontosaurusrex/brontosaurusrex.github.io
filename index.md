@@ -4,8 +4,8 @@
 
 Attention: This is brainstorm and execution in single step, so consider this document experimental.
 
-install Debian Jessie
--------------------------
+
+## install Debian Jessie
 
 Base is what we want and nothing else
 
@@ -27,7 +27,7 @@ as su
 Note: terminator and thunar will bring in lots of stuff    
 Note: Installing xsettingsd stoped tint2 to fill .xsession-errors <https://code.google.com/p/xsettingsd/>
 
-### sudo
+## sudo
 
 as su
 
@@ -39,7 +39,7 @@ reboot ?
 Hint: if there is no root password entered in the Debian installer, sudo is installed and the first user created (ie, in the installer) is added to the "sudo" group automatically.
 <http://crunchbang.org/forums/viewtopic.php?pid=430287#p430287>
 
-### virtualbox related
+## virtualbox related
 
 Insert Guest additions cd, it should appear in /media/cdrom
 
@@ -54,7 +54,7 @@ sudo
     ./VBoxLinuxAdditions.run
     reboot
 
-### cont
+## cont 
 
 sudo 
 
@@ -84,7 +84,7 @@ sudo
     syntax on
     set ruler
 
-### network manager
+## network manager
 
 sudo
 
@@ -125,7 +125,7 @@ The network applet should show up on tint2
 
 <a href="http://shrani.si/f/2o/PM/1aLoN4EY/network.png"><img src="http://shrani.si/t/2o/PM/1aLoN4EY/network.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
-### openbox autostart, basic
+## openbox autostart, basic
 
     cd
     vi .config/openbox/autostart 
@@ -141,7 +141,7 @@ test
 
 and compton and tint2 should sit there.
 
-### terminator
+## terminator
 
 sudo
 
@@ -181,7 +181,7 @@ sudo
 
 then you can use transfer alias to upload files from command line, more info at <http://transfer.sh>.
 
-### default xdg directories
+## default xdg directories
 
     cd /etc/xdg
 
@@ -213,7 +213,7 @@ voila. More <https://wiki.archlinux.org/index.php/Xdg_user_directories#Creating_
 
 
 
-### usability & preparing for scripts
+## usability & preparing for scripts
 
 Certainly my idea of "usability" can be just mine, so you can skip this part freely.
 
@@ -287,9 +287,9 @@ test ffmpeg_static with some noio to null encoding
     cd ~/source/postbang/ && git pull && cp ./bin/noio ~/bin/
     noio
 
-### makeup
+## makeup
 
-#### infinality font stuff
+### infinality font stuff
 
 sudo
 
@@ -310,7 +310,7 @@ sudo
 
 Note: If this infinality thing doesn't want to cooperate, skip it, font rendering is pretty good in jessie by default.
 
-#### openbox, openbox menu logic and beauty
+### openbox, openbox menu logic and beauty
 
     cp -b ~/source/postbang/.config/openbox/rc.xml ~/.config/openbox/
     openbox --restart
@@ -321,7 +321,7 @@ Should give you:
 - additional mice behaviour, for example middle mouse button on tint2 will kill that app
 - and so on
 
-#### tint2
+### tint2
 
 as user
 
@@ -338,7 +338,7 @@ Everything should look like this now
 
 <a href="http://shrani.si/f/3O/Yh/4QvwRs8F/likethis.png"><img src="http://shrani.si/t/3O/Yh/4QvwRs8F/likethis.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
-#### icons
+### icons
 
 sudo
 
@@ -373,7 +373,7 @@ p.s. another nice icon set:
 <http://pobtott.deviantart.com/art/Any-Color-You-Like-175624910>
 
 
-#### themes
+### themes
 
     cd
     mkdir .themes
@@ -393,13 +393,13 @@ logout, login and it could look like this:
 
 <a href="http://shrani.si/f/2e/8N/2kLZW6BM/themed.png"><img src="http://shrani.si/t/2e/8N/2kLZW6BM/themed.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
-#### some more fonts and gdebi
+### some more fonts and gdebi
 
 sudo
 
     apt-get install --no-install-recommends fonts-dejavu fonts-droid ttf-freefont ttf-liberation gdebi
 
-#### wallpaper
+### wallpaper
 
 sudo
 
@@ -429,7 +429,7 @@ p.s. luxRender Debian-like swirl
 <http://shrani.si/f/44/HW/4c0Czz2S/swirllux.png>
 <http://shrani.si/f/2q/10a/11vEdHZ2/swirldali3post28bpc.png>
 
-#### obmenu and obapps
+### obmenu and obapps
 
 sudo
 
@@ -452,7 +452,7 @@ user
 
     obapps & obmenu
 
-### openbox menu, the king of the castle
+## openbox menu, the king of the castle
 
 Came up with this, totally "passive";
 
@@ -471,7 +471,7 @@ scrot
 
 <a href="http://shrani.si/f/3E/bN/3lmn3xpx/almost.png"><img src="http://shrani.si/t/3E/bN/3lmn3xpx/almost.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
-### geany makeup
+## geany makeup
 
 user
     
@@ -482,7 +482,7 @@ user
 
 <a href="http://shrani.si/f/L/xp/tdwm7S0/geany.png"><img src="http://shrani.si/t/L/xp/tdwm7S0/geany.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
-### conky
+## conky
 
 sudo
 
@@ -502,7 +502,7 @@ scrot
 
 <a href="http://shrani.si/f/1d/JI/1iOXK5j4/pretty.png"><img src="http://shrani.si/t/1d/JI/1iOXK5j4/pretty.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
-### volti
+## volti
 
 Only if you really need to have that volume applet
 
@@ -523,7 +523,7 @@ to
 or alternative: volumeicon-alsa
 
 
-### gimp and inkscape
+## gimp and inkscape
 
 sudo
 
@@ -536,7 +536,7 @@ You will probably want to install some custom icon theme for gimp, like
 <a href="http://shrani.si/f/U/E6/4JbrV9sC/gimp.png"><img src="http://shrani.si/t/U/E6/4JbrV9sC/gimp.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
 
-### utility
+## utility
 
 sudo
 
@@ -546,11 +546,11 @@ sudo
 offtopic, a nice online font thingy <http://bluejamesbond.github.io/CharacterMap/>
 
 
-### 3rd party apps
+## 3rd party apps
 
 Blender, Sublime, fadein <http://www.fadeinpro.com/page.pl?content=download>
 
-### Some hotkeys
+## Some hotkeys
 
     super + (super is right cmd on osx)
     t       terminator
@@ -567,7 +567,7 @@ Blender, Sublime, fadein <http://www.fadeinpro.com/page.pl?content=download>
     alt +
     f2      gmrun
 
-### Darth Vader breathing, login sound
+## Darth Vader breathing, login sound
 
 user
 
@@ -583,7 +583,7 @@ so autostart might look like
 
     nitrogen --restore & compton & tint2 & conky & volti &  mpv ~/audio_fx/vader.mp3 & 
 
-### time, timezone
+## time, timezone
 
 <https://wiki.archlinux.org/index.php/Time>
 
@@ -602,19 +602,19 @@ user
     timedatectl 
 
 
-### disabling services
+## disabling services
 
 sudo 
 
     systemctl disable ModemManager.service
 
 
-### custom scripts 
+## custom scripts 
 
 duh,radio,play,rplay,invaders,myip    
 (Check postbang/bin and copy needed to user bin)
 
-### login manager and autologin
+## login manager and autologin
 
 sudo
 
@@ -636,7 +636,7 @@ under
 
 Note: Lightdm does not source .profile, so make sure that user bin path is added in .xsessionrc instead
 
-### more stuff and flash, optional
+## more stuff and flash, optional
 
 sudo
 
@@ -656,9 +656,9 @@ to update flash, sudo
 
     update-flashplugin-nonfree --install
 
-### things
+## things
 
-#### opensnap (optional)
+### opensnap (optional)
 
 Opensnap brings the Aero Snap feature to Openbox.
 <https://github.com/lawl/opensnap>
@@ -688,7 +688,7 @@ scrot
 
 <a href="http://shrani.si/f/4/Rs/1jQqz1kh/opensnap.png"><img src="http://shrani.si/t/4/Rs/1jQqz1kh/opensnap.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
-#### notify-send and replacing notification thingy
+### notify-send and replacing notification thingy
 
 sudo 
 
@@ -704,7 +704,7 @@ bronto-moded dunstrc should be in .config/dunst/dunstrc
 
 <a href="http://shrani.si/f/15/Do/WW1ZmZ6/dunst.png"><img src="http://shrani.si/t/15/Do/WW1ZmZ6/dunst.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
-#### various system tools
+### various system tools
 
 sudo 
 
@@ -712,7 +712,7 @@ sudo
 
 from : <http://crunchbang.org/forums/viewtopic.php?id=38994> (wally)
 
-#### nemo (behaves nicely with gnome-search-tool)
+### nemo (behaves nicely with gnome-search-tool)
 
 note: this did not make it, I'am back to thunar.
 
@@ -728,7 +728,7 @@ or use dconf-editor.
 
 <http://shrani.si/f/1X/zx/2kVbese0/nemo.png>
 
-### Problems to fix/things to add/modify:
+## Problems to fix/things to add/modify:
 - xfce4-power-manager?
 - png wallpapers are fat, test bpg lossless (perhaps 8bpc 4:2:2)
 - automounting usb drives? android phones?
@@ -744,7 +744,7 @@ or use dconf-editor.
 
 Note: This is probably pretty much it.
 
-### p.s. the magic install-all apt-get lines
+## the magic install-all apt-get lines
 
 sudo
 
@@ -766,15 +766,15 @@ sudo
 
 Infinality related stuff skipped here.
 
-### Real hardware
+## Real hardware
 
-#### some i3 desktop
+### some i3 desktop
 
 <a href="http://shrani.si/f/1/ML/2e0k1KMM/realhardwarei3.png"><img src="http://shrani.si/t/1/ML/2e0k1KMM/realhardwarei3.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
 "Problems" were a. video playback related, tearing. I did not dig into compton setting this time, just removed it from autostart. b. gtk3 apps like catfish do look fugly. 
 
-#### asus eee
+### asus eee
 
 <a href="http://shrani.si/f/17/2c/4znL9NdL/eee.png"><img src="http://shrani.si/t/17/2c/4znL9NdL/eee.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
@@ -795,14 +795,14 @@ and reboot.
 
 google-earth related < not fixed.
 
-#### some dwm screenshots
+### some dwm screenshots
 
 <a href="http://shrani.si/f/A/10o/3ZOfBr7/1/dwmprettycool.png"><img src="http://shrani.si/t/A/10o/3ZOfBr7/1/dwmprettycool.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
 <a href="http://shrani.si/f/35/BC/2JpUougU/1/doing.png"><img src="http://shrani.si/t/35/BC/2JpUougU/1/doing.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
 
-#### Brought to you by:
+### Brought to you by:
 
 ![](http://shrani.si/f/1w/129/4XbHQNtV/brontolabs.png "brontolabs")   
 
