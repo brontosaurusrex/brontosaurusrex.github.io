@@ -2,7 +2,7 @@
 
  the manual approach to post-banging the Jessie, work in progress
 
-Warning: This is brainstorm and execution in single step, so consider this document experimental.
+Attention: This is brainstorm and execution in single step, so consider this document experimental.
 
 ## install Debian Jessie
 
@@ -35,7 +35,7 @@ as su
 
 reboot ?
 
-Note: if there is no root password entered in the Debian installer, sudo is installed and the first user created (ie, in the installer) is added to the "sudo" group automatically.
+Hint: if there is no root password entered in the Debian installer, sudo is installed and the first user created (ie, in the installer) is added to the "sudo" group automatically.
 <http://crunchbang.org/forums/viewtopic.php?pid=430287#p430287>
 
 ### virtualbox related
