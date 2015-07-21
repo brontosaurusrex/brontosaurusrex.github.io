@@ -761,6 +761,7 @@ sudo
 
     apt-get install lightdm
 
+    apt-get install xdotool xrandr   
 
 Infinality related stuff skipped here.
 
