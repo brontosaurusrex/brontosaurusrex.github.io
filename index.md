@@ -793,6 +793,11 @@ and reboot.
 
 google-earth related < not fixed.
 
+#### some dwm screenshots
+
+<a href="http://shrani.si/f/A/10o/3ZOfBr7/1/dwmprettycool.png"><img src="http://shrani.si/t/A/10o/3ZOfBr7/1/dwmprettycool.jpg" style="border: 0px;" alt="Shrani.si"/></a>
+<a href="http://shrani.si/f/35/BC/2JpUougU/1/doing.png"><img src="http://shrani.si/t/35/BC/2JpUougU/1/doing.jpg" style="border: 0px;" alt="Shrani.si"/></a>
+
 
 #### Brought to you by:
 
