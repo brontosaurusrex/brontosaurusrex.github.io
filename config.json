@@ -1,10 +1,7 @@
 {
-
-
-    "useSideMenu": false,
+    "useSideMenu": true,
     "lineBreaks": "gfm",
-    "additionalFooterText": "",
+    "additionalFooterText": "brontolabs 2015 | ",
     "anchorCharacter": "&#x2693;",
     "title": "postbang 2015"
-
 }

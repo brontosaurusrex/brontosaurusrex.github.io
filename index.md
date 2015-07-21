@@ -4,7 +4,8 @@
 
 Attention: This is brainstorm and execution in single step, so consider this document experimental.
 
-## install Debian Jessie
+install Debian Jessie
+-------------------------
 
 Base is what we want and nothing else
 
