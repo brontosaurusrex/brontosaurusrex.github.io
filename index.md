@@ -762,7 +762,7 @@ sudo
 
     apt-get install lightdm
 
-    apt-get install xdotool xrandr   
+    apt-get install xdotool xrandr tree 
 
 Infinality related stuff skipped here.
 
