@@ -520,7 +520,7 @@ to
 
 <a href="http://shrani.si/f/2R/Rf/3kz8EUdL/volti2.png"><img src="http://shrani.si/t/2R/Rf/3kz8EUdL/volti2.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
-or alternative: volumeicon-alsa
+or alternative: volumeicon-alsa <http://crunchbang.org/forums/viewtopic.php?pid=435857#p435857>
 
 
 ## gimp and inkscape
