@@ -1,8 +1,8 @@
 # Jessie from netinstall (postbang)
 
- the manual approach to post-banging the Jessie, work in progress
+Manual approach to post-banging the Debian Jessie, work in progress
 
-Attention: This is brainstorm and execution in single step, so consider this document experimental.
+Attention: This is brainstorming and execution in single step, so consider this document experimental.
 
 
 ## install Debian Jessie
@@ -10,7 +10,7 @@ Attention: This is brainstorm and execution in single step, so consider this doc
 Base is what we want and nothing else
 
 <https://www.debian.org/devel/debian-installer>
-or with non-free stuff
+or with non-free stuff  
 <http://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/>
 
 Basic eth0 /etc/network/interfaces
@@ -737,7 +737,7 @@ or use dconf-editor.
 - disable root?
 - when things settle down, do a script that installs everything.
 - <s>theme errors</s> < seems like they mostly fixed themselves
-- <s>better name than "postbang": icebreaker? iceberg?</s> < actually present icebreaker for the community respin and keep postbang for this experiment
+- <s>better name than "postbang": icebreaker? iceberg?</s> 
 - <s>gksu</s> < seems to be working
 - <s>Add that flat-pinkMarker theme</s> < done
 - <s>xdg? seems to be making a Desktop folder in user home ....</s> < fixed, was an iceweasel behaviour
