@@ -493,7 +493,7 @@ make /usr/share/applications/menu.desktop with content like
     MimeType=
     StartupNotify=true
     
-install xdotool and make sure that png icon is on the correct spot. Should look like this:
+install xdotool and make sure that [png icon](https://raw.githubusercontent.com/brontosaurusrex/postbang/master/images/debian.png "This is the one I'am using") is on the correct spot. Should look like this:
 
 <a href="http://shrani.si/f/t/Om/QnmtcB7/openboxmenubutton.png"><img src="http://shrani.si/t/t/Om/QnmtcB7/openboxmenubutton.jpg" style="border: 0px;" alt="Shrani.si"/></a>  
 
