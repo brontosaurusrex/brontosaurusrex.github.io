@@ -471,6 +471,33 @@ scrot
 
 <a href="http://shrani.si/f/3E/bN/3lmn3xpx/almost.png"><img src="http://shrani.si/t/3E/bN/3lmn3xpx/almost.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
+## opening openbox menu with a button on tint2
+
+Add launcher to tint2rc, like
+
+    launcher_item_app = /usr/share/applications/menu.desktop
+
+make /usr/share/applications/menu.desktop with content like
+
+    [Desktop Entry]
+    Encoding=UTF-8
+    Name=Tint2 Openbox Menu
+    Comment=Tint2 Openbox Menu Hack
+    X-GNOME-FullName=Openbox Menu
+    Exec=xdotool key super+space
+    Terminal=false
+    X-MultipleArgs=false
+    Type=Application
+    Icon=/home/ticho/images/debian.png
+    Categories=Menu;
+    MimeType=
+    StartupNotify=true
+    
+install xdotool and make sure that png icon is on the correct spot. Should look like this:
+
+
+    
+
 ## geany makeup
 
 user
