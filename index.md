@@ -495,8 +495,7 @@ make /usr/share/applications/menu.desktop with content like
     
 install xdotool and make sure that png icon is on the correct spot. Should look like this:
 
-<a href="http://shrani.si/f/Y/KK/1qJJuyih/openboxmenubutton.png"><img src="http://shrani.si/t/Y/KK/1qJJuyih/openboxmenubutton.jpg" style="border: 0px;" alt="Shrani.si"/></a>
-    
+<a href="http://shrani.si/f/t/Om/QnmtcB7/openboxmenubutton.png"><img src="http://shrani.si/t/t/Om/QnmtcB7/openboxmenubutton.jpg" style="border: 0px;" alt="Shrani.si"/></a>  
 
 ## geany makeup
 
