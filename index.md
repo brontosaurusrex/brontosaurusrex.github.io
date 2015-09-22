@@ -823,4 +823,4 @@ and reboot.
 
 ![](http://shrani.si/f/1w/129/4XbHQNtV/brontolabs.png "brontolabs")   
 
-[gimmick:theme](amelia)
+[gimmick:theme](yeti)
