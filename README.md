@@ -1,3 +1,3 @@
 # brontosaurusrex.github.io
 
-some guides could be here.
+My blog will be here.
