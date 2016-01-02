@@ -116,8 +116,8 @@ h1, h2, h3, h4, h5, h6 {
   .brontologo {
     margin: auto; 
     width: 850px;
-    margin-top: -9rem;
-    margin-bottom: -9rem;
+    margin-top: -3rem;
+    margin-bottom: -3rem;
   }
 
 @media (max-width: 48rem) {
