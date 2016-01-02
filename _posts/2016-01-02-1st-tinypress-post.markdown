@@ -9,7 +9,7 @@ layout: post
 <https://github.com/tinypressco/lanyon>
 
 ## So the evil plan is
-- Configure this lanyon theme until it fits.
+- Configure this lanyon theme until it fits (This is jekyll theme btw)
 - Use tinypress to post blog posts
 - Add google search to the page at a later date perhaps
 - Write
