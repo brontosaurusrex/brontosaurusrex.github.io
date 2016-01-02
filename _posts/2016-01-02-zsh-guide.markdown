@@ -1,0 +1,6 @@
+---
+published: true
+title: zsh guide
+layout: post
+---
+<http://zsh.sourceforge.net/Guide/zshguide.html>
