@@ -12,3 +12,4 @@ layout: post
 - Configure this lanyon theme until it fits.
 - Use tinypress to post blog posts
 - Add google search to the page at a later date perhaps
+- Write
