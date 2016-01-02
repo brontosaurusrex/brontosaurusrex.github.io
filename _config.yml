@@ -1,8 +1,8 @@
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
-url: http://tinypressco.github.io
-title: TinyPress
-tagline: TinyPress
-description: The world's best GitHub writing platform.
+url: http://brontosaurusrex.github.io
+title: brontosaurusrex
+tagline: Linux and video and stuff
+description: The world's best GitHub blog.
 paginate: 5
