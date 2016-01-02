@@ -1,13 +1,8 @@
-# Site settings
-title: http://brontosaurusrex.github.io
-email: your_email@example.com
-author: brontosaurusrex
-description: "Linux, Video, Audio"
-baseurl: ""
-url: "http://brontosaurusrex.github.io"
-google_analytics: 
-
-# Build settings
+excerpt_separator: ""
+pygments: true
 markdown: kramdown
-permalink: pretty
-paginate: 7
+url: http://tinypressco.github.io
+title: TinyPress
+tagline: TinyPress
+description: The world's best GitHub writing platform.
+paginate: 5

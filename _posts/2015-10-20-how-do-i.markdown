@@ -1,0 +1,40 @@
+---
+published: true
+title: How do I ...
+layout: post
+---
+Hi everyone! 
+
+This is a collection of "How tos" that I hope act as a resource for some of the more manual/confusing aspects of TinyPress currently. Keep in mind literally everything on this list is being worked on to make automated, or generally better. 
+
+Also, keep in mind this is a live updating list that will continuously grow.
+
+### How do I add syntax highlighting to a post?
+
+I can't show you via typing, because the editor will attempt to render my examples... haha, so here's an image of the syntax for doing highlighting. Keep in mind this is default Jekyll style syntax highlighting! 
+
+This syntax...
+
+![](http://i.imgur.com/hmktzEK.png)
+
+Will render to look like...
+![](http://i.imgur.com/INeqGCO.png)
+
+
+This will render using the CSS file you have in your repository. Each theme comes with a default syntax highlighting CSS file, and most themes include more than one. You can find them in your /css folder on GitHub, and if you want to switch them you simply goto your head file in the /includes folder and swap one version out for the other! :)
+
+### How do I backdate posts?
+
+Click "Advanced Options" below your existing post, and then modify the date shown in the image below.
+
+![](http://i.imgur.com/2EgPaBY.png)
+
+Then hit "Post", and go back to your /posts page. You will see it created another post, for the date you just specified. At this point you have two versions - one in the old date, and one in the new date - so you can just delete the date you don't want and in a matter of minutes you're newly dated post will be live on your blog.
+
+<hr />
+
+### How do I add style to a post?
+
+Goto your GitHub repository for the blog, and dig into the CSS folder to find the basecss file. You can then add CSS to the bottom of this file if you wish for your specific post. You can also add direct HTML and CSS inline into your post on TinyPress. Keep in mind TinyPress simply renders Markdown, and it's totally valid to write actual HTML with <style> </style> blocks inside of a TinyPress post!
+
+![](http://i.imgur.com/Pq5LwAH.png)
