@@ -1,13 +1,13 @@
 # Site settings
-title: Pixyll
+title: http://brontosaurusrex.github.io
 email: your_email@example.com
-author: John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author: brontosaurusrex
+description: "Linux, Video, Audio"
 baseurl: ""
-url: "http://pixyll.com"
+url: "http://brontosaurusrex.github.io"
 google_analytics: 
 
 # Build settings
 markdown: kramdown
 permalink: pretty
-paginate: 3
+paginate: 7
