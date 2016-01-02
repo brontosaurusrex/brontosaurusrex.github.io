@@ -21,5 +21,3 @@ One could do a combo of serial and parallel as well:
 
 some good reading
 <http://mywiki.wooledge.org/ProcessManagement>
-
-p.s. In case of (cp a b; cp c d) & it appears that one could not get the PIDS of this two, since we are not direct parent, but rather parent of the parent … (unless perhaps writing pids to file < to test)
