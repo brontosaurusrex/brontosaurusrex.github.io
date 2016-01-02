@@ -12,13 +12,12 @@ description:      'Worst blog in the universe.'
 url:              http://brontosaurusrex.github.io
 
 author:
-  name:           'unnamed'
-  url:            ttp://brontosaurusrex.github.io
+  name:           'brontosaurusrex'
+  url:            http://brontosaurusrex.github.io
 
-paginate:         5
+paginate:         7
 
 # Custom vars
-version:          
 
 github:
   repo:           https://github.com/brontosaurusrex/postbang
