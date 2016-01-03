@@ -34,11 +34,11 @@
  * Update the foundational and global aspects of the page.
  */
 
-/* Prevent scroll on narrow devices */
+/* Prevent scroll on narrow devices 
 html,
 body {
   overflow-x: hidden;
-}
+} */
 
 html {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
