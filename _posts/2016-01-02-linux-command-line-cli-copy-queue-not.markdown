@@ -1,6 +1,6 @@
 ---
 published: true
-title: linux command line (cli) copy queue … not
+title: linux command line copy queue
 layout: post
 ---
 parallel
