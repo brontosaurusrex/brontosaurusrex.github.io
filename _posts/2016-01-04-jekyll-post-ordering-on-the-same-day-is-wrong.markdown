@@ -5,3 +5,6 @@ layout: post
 ---
 possible fix, but tinypress doesn't support this  
 <http://stackoverflow.com/questions/26196559/jekyll-post-order/27720333#27720333>
+
+opened an issue here  
+<https://github.com/tinypressco/tinypressco.github.io/issues/17>
