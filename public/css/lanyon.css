@@ -567,6 +567,8 @@ input[type="text"] {
 	border-radius: 5px;
 	opacity: 0.8;
     filter: alpha(opacity=80); /* For IE8 and earlier */
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  	font-size: .875rem; /* 15px */
 }
 
 
