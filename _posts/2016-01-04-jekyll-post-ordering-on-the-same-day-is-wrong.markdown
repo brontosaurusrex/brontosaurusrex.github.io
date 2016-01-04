@@ -1,6 +1,6 @@
 ---
 published: true
-title: jekyll post ordering on the same day is wrong
+title: tinypress/jekyll post ordering on the same day is wrong
 layout: post
 ---
 possible fix, but tinypress doesn't support this  
