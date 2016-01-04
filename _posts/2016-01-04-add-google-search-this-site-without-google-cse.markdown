@@ -7,9 +7,8 @@ layout: post
     <div class="sidebar-item">
     google this site:
     <form method="get" action="http://www.google.com/search">
-    <input type="text" name="q" size="25"
-    maxlength="255" value="" />
-    <input type="hidden"  name="sitesearch" value="brontosaurusrex.github.io"> 
+    <input type="text" name="q" size="25" maxlength="255" value="">
+    <input type="hidden" name="sitesearch" value="brontosaurusrex.github.io"> 
     </form>
     </div>
     <!-- end google search -->
