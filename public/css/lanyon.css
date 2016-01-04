@@ -37,7 +37,9 @@
 /* Prevent scroll on narrow devices */
 html,
 body {
-  overflow-x: hidden;
+    overflow-x: hidden;
+    background-image: url("/public/bright.png");
+    background-repeat: repeat;
 } 
 
 html {
