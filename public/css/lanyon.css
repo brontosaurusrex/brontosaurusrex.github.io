@@ -569,6 +569,7 @@ input[type="text"] {
     filter: alpha(opacity=80); /* For IE8 and earlier */
     font-family: "PT Sans", Helvetica, Arial, sans-serif;
   	font-size: .875rem; /* 15px */
+  	width: 100%;
 }
 
 
