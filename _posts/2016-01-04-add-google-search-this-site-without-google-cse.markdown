@@ -1,6 +1,6 @@
 ---
 published: true
-title: Add google search this site without google cse
+title: 'google search this site' (without google cse)
 layout: post
 ---
     <!-- google search by bronto -->
