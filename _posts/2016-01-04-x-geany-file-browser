@@ -1,6 +1,6 @@
 ---
 published: true
-title: geany, file browser
+title: x geany, file browser
 layout: post
 ---
 Geany has a 'file browser' plugin, which you can enable in 'tools/Plugin manager' and it is simpler than any project management as 'projects' are usually inside a directory anyway.
