@@ -21,15 +21,27 @@
         </div>
       </div>
 
-<!-- google search by bronto -->
 
-<!-- end google search -->
 
       <a href="/"><img class="brontologo" src="/public/bronto.png"></a>
 
       <div class="container content">
 
-        
+            <!-- google search by bronto, q=site:http:%2F%2Fbrontosaurusrex.github.io -->
+            <script>
+              (function() {
+                var cx = '005683427561140006858:rhcpbsgxcne';
+                var gcse = document.createElement('script');
+                gcse.type = 'text/javascript';
+                gcse.async = true;
+                gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                    '//cse.google.com/cse.js?cx=' + cx;
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(gcse, s);
+              })();
+            </script>
+            <gcse:search></gcse:search>
+            <!-- end google search -->
       
         {{ content }}
 
