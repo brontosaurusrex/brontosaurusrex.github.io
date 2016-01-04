@@ -557,7 +557,7 @@ a.pagination-item:hover {
 /* this should apply to searchform only by bronto */
 
 input[type="text"] {	
-	font-size: 26px;
+/*	font-size: 26px; */
 	color: #fff;
 	background-color: #191C1E;
 	border: none ;
