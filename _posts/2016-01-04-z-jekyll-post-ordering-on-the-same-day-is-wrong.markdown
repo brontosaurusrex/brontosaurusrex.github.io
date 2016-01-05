@@ -6,7 +6,7 @@ layout: post
 possible fix, but tinypress doesn't support this  
 <http://stackoverflow.com/questions/26196559/jekyll-post-order/27720333#27720333>
 
-edit: workaround is to use alphabet in first field (filename) of the advanced options.
+edit: fairly decent workaround is to use alphabet in first field (filename) of the advanced options.
 ![Alt text](http://shrani.si/f/1v/bL/K2Fng1I/workaround.png)
 
 opened an issue here  
