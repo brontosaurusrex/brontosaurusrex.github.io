@@ -5,6 +5,6 @@ layout: post
 ---
 Fracture modifier  
 
-<iframe width="820" height="400" src="https://www.youtube.com/embed/3TAoJyqaWAA" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/3TAoJyqaWAA" frameborder="0" allowfullscreen></iframe>
   
 and [more](http://www.blender.org/development/blender-branches-to-watch-in-2016/).
