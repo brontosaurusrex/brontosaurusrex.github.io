@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: How about just title in front matter?
+categories: jekyll, github, blogging
 ---
 Nope, will not work.  
 This is probably the "ideal" front-matter (+01:00 stands for time-zone)
