@@ -18,5 +18,8 @@ Clock is important, so that same-day posts will show in correct order.
 
 Jekyll YAML <http://jekyllrb.com/docs/frontmatter/>
     
- 
+q. what would be the "procedure" for vim to generate front-matter                   
+a. http://vimhelp.appspot.com/autocmd.txt.html#skeleton                 
+q. what language is that?                            
+a. vim's own, vimscript/viml 
 
