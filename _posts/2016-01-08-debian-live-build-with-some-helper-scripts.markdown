@@ -1,6 +1,6 @@
 ---
 published: true
-title: Debian live-build with some helper scripts
+title: Debian liveBuild with some helper scripts
 layout: post
 ---
 > I've created a live-build development environment for those
