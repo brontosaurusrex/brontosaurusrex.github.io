@@ -3,6 +3,6 @@ published: true
 title: arch
 layout: post
 ---
-[![archcompton.th.png](https://cdn.scrot.moe/images/2016/01/11/archcompton.th.png)](https://cdn.scrot.moe/images/2016/01/11/archcompton.png)
+[![reallyarchy.th.png](https://cdn.scrot.moe/images/2016/01/11/reallyarchy.th.png)](https://cdn.scrot.moe/images/2016/01/11/reallyarchy.png)
 
 arch + postbang makeup layer basically.
