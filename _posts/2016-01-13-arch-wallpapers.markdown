@@ -7,4 +7,4 @@ layout: post
 [![arch_logo5_ps4b.th.png](https://cdn.scrot.moe/images/2016/01/13/arch_logo5_ps4b.th.png)](https://cdn.scrot.moe/images/2016/01/13/arch_logo5_ps4b.png)
 [![arch_logo5_ps3.th.png](https://cdn.scrot.moe/images/2016/01/13/arch_logo5_ps3.th.png)](https://cdn.scrot.moe/images/2016/01/13/arch_logo5_ps3.png)
 
-(blender, low poly trees CC MrLarin, scene & render by /me)
+(blender, <a href="http://www.blendswap.com/blends/view/77271">low poly trees CC MrLarin</a>, scene & render by /me)
