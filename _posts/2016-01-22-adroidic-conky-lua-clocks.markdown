@@ -11,3 +11,5 @@ more:
 
 quick try:
 <https://cdn.scrot.moe/images/2016/01/22/easyclock.png>
+
+p.s. conky19-lua-nv is the one you want from aur.
