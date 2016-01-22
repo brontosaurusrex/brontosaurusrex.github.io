@@ -8,3 +8,5 @@ layout: post
 <img src="https://raw.githubusercontent.com/easysid/conky_configs/master/min_clock/min_clock.png">
 more:  
 <https://github.com/easysid/conky_configs>
+
+quick [![try](https://cdn.scrot.moe/images/2016/01/22/easyclock.png)](try).
