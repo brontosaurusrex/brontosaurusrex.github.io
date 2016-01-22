@@ -1,0 +1,8 @@
+---
+published: true
+title: say osx
+layout: post
+---
+To get a list of installed voices
+
+    say -v "?"
