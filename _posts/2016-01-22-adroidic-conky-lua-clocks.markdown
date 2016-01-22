@@ -9,4 +9,4 @@ layout: post
 more:  
 <https://github.com/easysid/conky_configs>
 
-quick [![try](https://cdn.scrot.moe/images/2016/01/22/easyclock.png)](try).
+quick [![try](try)](https://cdn.scrot.moe/images/2016/01/22/easyclock.png).
