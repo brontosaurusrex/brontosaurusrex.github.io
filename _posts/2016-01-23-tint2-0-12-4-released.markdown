@@ -1,0 +1,6 @@
+---
+published: true
+title: tint2 0.12.4 released
+layout: post
+---
+<https://forums.bunsenlabs.org/viewtopic.php?id=1151>
