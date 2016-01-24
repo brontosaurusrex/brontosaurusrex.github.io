@@ -23,3 +23,6 @@ paginate:         7
 github:
   repo:           https://github.com/brontosaurusrex/postbang
 
+gems: 
+  - jekyll-sitemap
+
