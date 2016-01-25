@@ -10,3 +10,9 @@ Especially stupidly named like posts of this blog (2016-01-25-old-irix-error.mar
 
 will give alphabetical listing of files, to open the last one: shift+G and enter.  
 more: <http://stackoverflow.com/questions/573039/shortcut-to-open-file-in-vim>
+
+To browse recently opened files: 
+
+    :browse old
+
+more: <http://stackoverflow.com/questions/3171284/recent-file-history-in-vim>
