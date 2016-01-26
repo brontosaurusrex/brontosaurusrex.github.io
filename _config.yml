@@ -26,3 +26,22 @@ github:
 gems: 
   - jekyll-sitemap
 
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://brontosaurusrex.github.io/'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "time"
+        field:
+          element: "hidden"
+          value: "CURRENT_DATETIME"
