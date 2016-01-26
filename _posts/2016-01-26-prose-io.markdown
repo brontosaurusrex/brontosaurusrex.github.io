@@ -1,9 +1,10 @@
 ---
+published: true
 layout: post
 time: "2016-01-26 23:15 +0100"
-published: true
 title: prose.io
 ---
+
 
 
 
@@ -32,8 +33,8 @@ Testig [prose.io](http://prose.io) with this thing added to config.yml:
             field:
               element: "hidden"
               value: "post"
+          - name: "published"
+            field:
+              element: "hidden"
+              value: "true"
 
-And trying to figure out: 
- 
-- how is one supposed to paste code-blocks?
-- whats up with published false?
