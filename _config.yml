@@ -1,7 +1,9 @@
 # Dependencies
 markdown:       redcarpet
 highlighter: 	pygments
-gems: 		[jekyll-paginate]
+gems: 		[jekyll-paginate, jekyll-sitemap]
+
+
 
 # Permalinks
 permalink:        pretty
@@ -22,9 +24,6 @@ paginate:         7
 
 github:
   repo:           https://github.com/brontosaurusrex/postbang
-
-gems: 
-  - jekyll-sitemap
 
 prose:
   rooturl: '_posts'
