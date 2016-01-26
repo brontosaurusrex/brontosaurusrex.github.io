@@ -45,7 +45,8 @@ prose:
         field:
           element: "hidden"
           value: "CURRENT_DATETIME"
-      - name: "published"
+      - name: "layout"
         field:
           element: "hidden"
-          value: "true"
+          value: "post"
+
