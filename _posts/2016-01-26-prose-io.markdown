@@ -34,5 +34,5 @@ Testig [prose.io](http://prose.io) with this thing added to config.yml:
               value: "post"
 
 And trying to figure out   
-- how is one supposed to paste code-blocks ....
-- whats up with published false
+- how is one supposed to paste code-blocks?.
+- whats up with published false?
