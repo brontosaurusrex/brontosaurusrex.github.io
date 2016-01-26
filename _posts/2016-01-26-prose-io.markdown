@@ -5,6 +5,7 @@ published: true
 title: prose.io
 ---
 
+
 Testig [prose.io](http://prose.io) with this thing added to config.yml:
 
     prose:
@@ -31,4 +32,6 @@ Testig [prose.io](http://prose.io) with this thing added to config.yml:
               element: "hidden"
               value: "post"
 
-And trying to figure out how is one supposed to paste code-blocks ....      
+And trying to figure out how is one supposed to paste code-blocks ....
+
+
