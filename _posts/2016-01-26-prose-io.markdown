@@ -22,7 +22,7 @@ Testing [prose.io](http://prose.io) with this thing added to config.yml:
             field:
               element: "text"
               label: "title"
-          - name: "time"
+          - name: "date"
             field:
               element: "hidden"
               value: "CURRENT_DATETIME"
