@@ -5,10 +5,7 @@ time: "2016-01-26 23:15 +0100"
 title: prose.io
 ---
 
-
-
-
-Testig [prose.io](http://prose.io) with this thing added to config.yml:
+Testing [prose.io](http://prose.io) with this thing added to config.yml:
 
     prose:
       rooturl: '_posts'
@@ -37,4 +34,3 @@ Testig [prose.io](http://prose.io) with this thing added to config.yml:
             field:
               element: "hidden"
               value: "true"
-
