@@ -1,0 +1,41 @@
+---
+layout: post
+time: "2016-01-26 23:15 +0100"
+published: false
+title: prose.io
+---
+
+Testig [prose.io](http://prose.io) with this thing added to _config.yml:
+
+    prose:
+      rooturl: '_posts'
+      siteurl: 'http://brontosaurusrex.github.io/'
+      media: 'media'
+      ignore:
+        - index.md
+        - _config.yml
+        - /_layouts
+        - /_includes
+      metadata:
+        _posts:
+          - name: "title"
+            field:
+              element: "text"
+              label: "title"
+          - name: "time"
+            field:
+              element: "hidden"
+              value: "CURRENT_DATETIME"
+          - name: "layout"
+            field:
+              element: "hidden"
+              value: "post"
+          - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
+
+And trying to figure out how is one supposed to paste code-blocks ....
+
+
+      
