@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: "2016-01-27 13:50 +0100"
+date: "2016-01-25 13:50 +0100"
 title: opening files with vim
 ---
 
