@@ -38,8 +38,8 @@
 html,
 body {
     overflow-x: hidden;
-   /* background-image: url("/public/bright.png");
-    background-repeat: repeat; */
+   background-image: url("/public/vintageBWbright.png");
+    background-repeat: repeat; 
 } 
 
 html {
@@ -553,9 +553,9 @@ a.pagination-item:hover {
 
   color: black; 
   text-align: center;
-  padding:        1rem;
+  padding:        3rem;
   width: 100%;
-  background-color: #eeeeee;
+
   
 
 }
