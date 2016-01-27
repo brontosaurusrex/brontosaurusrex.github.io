@@ -38,8 +38,8 @@
 html,
 body {
     overflow-x: hidden;
-   background-image: url("/public/vintageBWbright.png");
-    background-repeat: repeat; 
+   /* background-image: url("/public/bright.png");
+    background-repeat: repeat; */
 } 
 
 html {
@@ -119,7 +119,8 @@ h1, h2, h3, h4, h5, h6 {
     margin: auto; 
     width: 850px;
     margin-top:     -5rem;
-    margin-bottom:   0rem;
+    margin-bottom:  -2rem;
+    z-index: -10;
   }
 
 @media (max-width: 48rem) {
@@ -320,10 +321,13 @@ a.sidebar-nav-item:focus {
 .post-title,
 .post-title a {
   color: #303030;
+  background: rgba(255, 255, 255, .9);
 }
 .page-title,
 .post-title {
   margin-top: 0;
+  
+  
 }
 
 /* Meta data line below post title */
@@ -553,10 +557,14 @@ a.pagination-item:hover {
 
   color: black; 
   text-align: center;
-  padding:        3rem;
+  padding:        1rem;
+  padding-bottom: 6rem;
+  padding-top:    4rem;
   width: 100%;
+  background-color: #fcfcfc;
 
-  
+
+  border-top: dotted #cccccc 1px;  
 
 }
 
@@ -578,4 +586,8 @@ input[type="text"] {
 }
 
 
+.content {
 
+	background: rgba(255, 255, 255, .9);
+
+}
