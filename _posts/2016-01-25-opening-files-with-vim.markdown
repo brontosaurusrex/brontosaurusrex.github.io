@@ -1,9 +1,11 @@
 ---
 published: true
-title: opening files with vim
 layout: post
+date: "2016-01-27 13:50 +0100"
+title: opening files with vim
 ---
-Especially stupidly named like posts of this blog (`2016-01-25-old-irix-error.markdown` for example):
+
+Especially stupidly named like posts of this blog, like _2016-01-25-old-irix-error.markdown_
 
     vim
     :e.
