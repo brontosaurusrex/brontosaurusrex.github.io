@@ -7,4 +7,15 @@ title: lightning project
 
 <http://www.creativeshrimp.com/book>  
 <https://www.youtube.com/watch?v=dtXkvqLsllw>  
-p.s. prose.io seems to be almost impossible to use with android tablet, can't _paste_ url for some reason.
+
+Sibl type of lightning is supposedly supported in blender  
+<http://hdrlabs.com/sibl/archive.html>  
+<http://hdrlabs.com/sibl/framework.html>  
+
+The idea is to have multiple images
+
+- a super high res panorama as camera background
+- a high res HDR as specular component for reflection
+- a blurred low res HDR as diffuse environment lighting
+
++ sun lamp.
