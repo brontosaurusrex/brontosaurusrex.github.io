@@ -9,7 +9,7 @@ title: lightning project
 <http://www.creativeshrimp.com/book>  
 <https://www.youtube.com/watch?v=dtXkvqLsllw>  
 
-Sibl type of lightning is supposedly supported in blender  
+sIBL type of lightning is supposedly supported in blender  
 <http://hdrlabs.com/sibl/archive.html>  
 <http://hdrlabs.com/sibl/framework.html>  
 
