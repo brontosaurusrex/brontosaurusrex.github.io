@@ -6,5 +6,5 @@ title: lightning project
 ---
 
 <http://www.creativeshrimp.com/lighting-tutorials-my-way-to-write-a-book.html>  
-Prose.io seems to be almost impossible to use with android tablet.  
-<https://www.youtube.com/watch?v=dtXkvqLsllw>
+<https://www.youtube.com/watch?v=dtXkvqLsllw>  
+p.s.prose.io seems to be almost impossible to use with android tablet, can't _paste_ url for some reason.
