@@ -6,6 +6,7 @@ title: lightning project
 ---
 
 
+
 <http://www.creativeshrimp.com/book>  
 <https://www.youtube.com/watch?v=dtXkvqLsllw>  
 
@@ -20,3 +21,4 @@ The idea is to have multiple images
 - a blurred low res HDR as diffuse environment lighting  
 and a
 + sun lamp.
+
