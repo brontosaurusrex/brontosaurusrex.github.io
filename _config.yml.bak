@@ -1,6 +1,9 @@
 # Dependencies
-markdown:         redcarpet
-pygments:         true
+markdown:       redcarpet
+highlighter: 	pygments
+gems: 		[jekyll-paginate, jekyll-sitemap]
+
+
 
 # Permalinks
 permalink:        pretty
@@ -8,7 +11,7 @@ permalink:        pretty
 # Setup
 title:            brontosaurusrex.github.io
 tagline:          'Linux, Video, Audio'
-description:      'Worst blog in the universe.'
+description:      'brontosaurusrex.github.io'
 url:              http://brontosaurusrex.github.io
 
 author:
@@ -21,3 +24,31 @@ paginate:         7
 
 github:
   repo:           https://github.com/brontosaurusrex/postbang
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://brontosaurusrex.github.io/'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "date"
+        field:
+          element: "hidden"
+          value: "CURRENT_DATETIME"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
