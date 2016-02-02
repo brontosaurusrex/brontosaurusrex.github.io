@@ -11,5 +11,3 @@ edit: According to kramdown docs, that should NOT be the case
 
 Illustration of the problem, where red arrows represent expected line breaks:  
 ![linebreaks.png]({{site.baseurl}}/media/linebreaks.png)
-
-
