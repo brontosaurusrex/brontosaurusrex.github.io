@@ -18,4 +18,5 @@ Alternative tree generator (to included sapling)
 edit: low poly tree, concept art  
 
 ![lowPolyConceptArt.png]({{site.baseurl}}/media/lowPolyConceptArt.png)
-Leaves should have mix of diffuse and translucent shader.
+Leaves should have mix of diffuse and translucent shader.  
+<http://www.blenderguru.com/articles/cycles-shader-encyclopedia/>
