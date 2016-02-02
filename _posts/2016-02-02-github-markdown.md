@@ -11,3 +11,5 @@ edit: According to kramdown docs, that should NOT be the case
 
 Illustration of the problem, where red arrows represent expected line breaks:  
 ![linebreaks.png]({{site.baseurl}}/media/linebreaks.png)
+
+edit: Same behaviour if running jekyll offline, so I guess this is jekyll specific bug of some sort.
