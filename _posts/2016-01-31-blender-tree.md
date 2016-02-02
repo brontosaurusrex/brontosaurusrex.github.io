@@ -5,7 +5,10 @@ date: "2016-01-31 13:45 +0100"
 title: blender tree
 ---
 
+
 <http://youtu.be/FzbE7tN_YIY>
 
 Alternative tree generator (to included sapling)  
 <http://blenderartists.org/forum/showthread.php?282550-A-new-tree-add-on>
+
+(Been watching nature closely to find a tree that would look as silly as one made by sapling and the city trees that were chopped by human do resemble the look slightly, while each one is still way pretier/more unique than whatever I could pull out of sapling.)
