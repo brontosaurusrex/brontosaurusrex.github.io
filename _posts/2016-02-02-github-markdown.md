@@ -6,3 +6,6 @@ title: github markdown
 ---
 
 It appears that changing markdown to kramdown (in config.yml) broke line breaks of this blog, as if kramdown does not support double-space as line-break, under investigation ... < The change was requested by github build bot.
+
+edit: According to kramdown docs, that should NOT be the case  
+<http://kramdown.gettalong.org/quickref.html>
