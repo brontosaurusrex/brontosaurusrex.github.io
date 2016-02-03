@@ -12,8 +12,6 @@ Alternative tree generator (to included sapling)
 
 (Been watching nature closely to find a tree that would look as silly as one made by sapling and the city trees that were chopped by human do resemble the look slightly, while each one is still way pretier/more unique than whatever I could pull out of sapling.)
 
-<!-- more -->
-
 edit: low poly tree, concept art  
 
 ![lowPolyConceptArt.png]({{site.baseurl}}/media/lowPolyConceptArt.png)
