@@ -9,7 +9,7 @@ title: About
 
 "We" do NOT track, log, spy or are in any way aware of the user presence on this site. This blog is currently hosted on github, so they may.
 
-## The thinkering and developement part
+## Thinkering and development
 
 <https://forums.bunsenlabs.org/viewtopic.php?pid=16524#p16524>
 
