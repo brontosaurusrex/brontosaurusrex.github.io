@@ -11,7 +11,7 @@ title: About
 
 ## The thinkering and developement part
 
-coming soon.
+<https://forums.bunsenlabs.org/viewtopic.php?pid=16524#p16524>
 
 ## Comments?
 
