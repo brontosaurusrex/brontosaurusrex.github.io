@@ -16,3 +16,8 @@ coming soon.
 ## Comments?
 
 So this is statically build site and I don't particulary fancy the idea of plugin in disqus or any 3rd party service like that, but you may use githubs "issues" device for expressing your thoughts (Link should be hidden in that hamburger menu). 
+
+## Me?
+
+Videographer, Linux entusiast, Blender noob, slightly interested in web as well, always wanted to fly.
+
