@@ -14,6 +14,3 @@ Example material node
 ![materialMix.png]({{site.baseurl}}/media/materialMix.png)
 
 The more color variants could be probably achieved by using [object info](http://i.stack.imgur.com/Jbzml.png) and ramp nodes as drivers for colors.
-
-luxrender tests
-[![test_lux.th.png](https://cdn.scrot.moe/images/2016/02/11/test_lux.th.png)](https://cdn.scrot.moe/images/2016/02/11/test_lux.png)
