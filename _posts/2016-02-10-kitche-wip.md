@@ -6,8 +6,7 @@ title: kitsch wip
 ---
 
 | [![kitche_ps2.th.png](https://cdn.scrot.moe/images/2016/02/10/kitche_ps2.th.png)](https://cdn.scrot.moe/images/2016/02/11/kitche_ps2b.png) | [![kitsch2_ps.th.png](https://cdn.scrot.moe/images/2016/02/11/kitsch2_ps.th.png)](https://cdn.scrot.moe/images/2016/02/11/kitsch2_ps.png) |
-| [![kitsch2_ps3.th.png](https://cdn.scrot.moe/images/2016/02/11/kitsch2_ps3.th.png)](https://cdn.scrot.moe/images/2016/02/11/kitsch2_ps3.png) | 
- [![kitsch2_ps4.th.png](https://cdn.scrot.moe/images/2016/02/11/kitsch2_ps4.th.png)](https://cdn.scrot.moe/images/2016/02/11/kitsch2_ps4.png) |
+| [![kitsch2_ps3.th.png](https://cdn.scrot.moe/images/2016/02/11/kitsch2_ps3.th.png)](https://cdn.scrot.moe/images/2016/02/11/kitsch2_ps3.png) | [![kitsch2_ps4.th.png](https://cdn.scrot.moe/images/2016/02/11/kitsch2_ps4.th.png)](https://cdn.scrot.moe/images/2016/02/11/kitsch2_ps4.png) |
 
 (cycles, no volumetric materials)
 
