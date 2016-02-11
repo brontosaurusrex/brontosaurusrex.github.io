@@ -10,5 +10,7 @@ title: kitsch wip
 
 (cycles, no volumetric materials)
 
+The 2nd one is probably worth rerendering with a lot more samples.
+
 luxrender tests
 [![test_lux.th.png](https://cdn.scrot.moe/images/2016/02/11/test_lux.th.png)](https://cdn.scrot.moe/images/2016/02/11/test_lux.png)
