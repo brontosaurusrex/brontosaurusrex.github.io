@@ -22,4 +22,3 @@ So this is statically build site and I don't particulary fancy the idea of plugi
 
 Videographer, Linux entusiast, Blender noob, slightly interested in web as well, always wanted to fly.
 
-![about_work.jpg]({{site.baseurl}}/media/about_work.jpg)
