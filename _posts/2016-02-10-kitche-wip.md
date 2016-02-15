@@ -17,5 +17,8 @@ Example material node
 The more color variants could be probably achieved by using [object info](http://i.stack.imgur.com/Jbzml.png) and ramp nodes as drivers for colors.
 
 edit: (info/random > ramp > mostly colors and texture scaling)
+
 [![materiali2_ps.th.png](https://cdn.scrot.moe/images/2016/02/15/materiali2_ps.th.png)](https://cdn.scrot.moe/images/2016/02/15/materiali2_ps.png) 
 [![materiali2_ps2.th.png](https://cdn.scrot.moe/images/2016/02/15/materiali2_ps2.th.png)](https://cdn.scrot.moe/images/2016/02/15/materiali2_ps2.png)
+
+Unfortunatelly some of the cubes are crossing each other, which seems to be the native particles-generator behaviour, could be solved with some bullet-physics.
