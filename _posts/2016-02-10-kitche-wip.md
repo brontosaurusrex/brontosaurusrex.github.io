@@ -22,3 +22,5 @@ edit: (info/random > ramp > mostly colors and texture scaling)
 [![materiali2_ps2.th.png](https://cdn.scrot.moe/images/2016/02/15/materiali2_ps2.th.png)](https://cdn.scrot.moe/images/2016/02/15/materiali2_ps2.png)
 
 Unfortunatelly some of the cubes are crossing each other, which seems to be the native particles-generator behaviour, could be solved with some bullet-physics.
+
+Also uniquness is not achived, something went wrong with the combination of particles and random object nodes.
