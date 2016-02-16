@@ -7,6 +7,7 @@ title: kitsch wip
 
 
 
+
 [![kitche_ps2.th.png](https://cdn.scrot.moe/images/2016/02/10/kitche_ps2.th.png)](https://cdn.scrot.moe/images/2016/02/11/kitche_ps2b.png)[![kitsch2_ps.th.png](https://cdn.scrot.moe/images/2016/02/11/kitsch2_ps.th.png)](https://cdn.scrot.moe/images/2016/02/11/kitsch2_ps.png)[![kitsch2_ps3.th.png](https://cdn.scrot.moe/images/2016/02/11/kitsch2_ps3.th.png)](https://cdn.scrot.moe/images/2016/02/11/kitsch2_ps3.png)[![kitsch2_ps4.th.png](https://cdn.scrot.moe/images/2016/02/11/kitsch2_ps4.th.png)](https://cdn.scrot.moe/images/2016/02/11/kitsch2_ps4.png)[![kitsch_combo.th.png](https://cdn.scrot.moe/images/2016/02/15/kitsch_combo.th.png)](https://cdn.scrot.moe/images/2016/02/15/kitsch_combo.png)
 
 (cycles, no volumetric materials)
@@ -23,4 +24,4 @@ edit: (info/random > ramp > mostly colors and texture scaling)
 
 Unfortunatelly some of the cubes are crossing each other, which seems to be the native particles-generator behaviour, could be solved with some bullet-physics.
 
-Also uniquness is not achived, something went wrong with the combination of particles and random object nodes.
+Also uniqueness is not achived, something went wrong with the combination of particles and random object nodes.
