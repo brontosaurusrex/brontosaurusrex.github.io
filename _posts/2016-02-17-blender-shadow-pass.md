@@ -5,4 +5,4 @@ date: "2016-02-17 16:33 +0100"
 title: "Blender, shadow pass"
 ---
 
-[http://www.blendertutor.com/shadow-pass-in-cycles/](http://www.blendertutor.com/shadow-pass-in-cycles/)
+[https://www.youtube.com/watch?v=Ke7plNnwYl0](https://www.youtube.com/watch?v=Ke7plNnwYl0)
