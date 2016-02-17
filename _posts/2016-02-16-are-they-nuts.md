@@ -14,4 +14,4 @@ title: Are they nuts
 
 Material is way too simple, scratches should be used added to pointiness to reveal silver material, both materials would need another fresnell component and more.
 
-Lightning as a combo between hdri and some random sun lamp is almost good enough (For interior where multiple lamps of different temperature are not uncommon), for exteriors learning how to use IBL sets seems crucial (annoyingly crash work flow thought).
+Lightning as a combo between hdri and some random sun lamp is almost good enough (For interior where multiple lamps of different temperature are not uncommon), for exteriors learning how to use IBL sets seems crucial (annoyingly crashy workflow thought).
