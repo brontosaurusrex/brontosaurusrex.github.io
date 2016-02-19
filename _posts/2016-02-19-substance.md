@@ -7,7 +7,7 @@ title: substance
 
 [Substance](https://www.allegorithmic.com/) 
 
-> 3D Painting Software
-> Material Creation Software
+> 3D Painting Software  
+> Material Creation Software  
 > Image-to-Material Generation Tool
 
