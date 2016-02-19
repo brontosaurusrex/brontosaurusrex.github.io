@@ -15,6 +15,6 @@ Material is way too simple, scratches should be used added to pointiness to reve
 
 Lightning as a combo between hdri and some random sun lamp is almost good enough (For interior where multiple lamps of different temperature are not uncommon), for exteriors learning how to use IBL sets seems crucial (annoyingly crashy workflow thought).
 
-edit: More [complex material node](({{site.baseurl}}/media/crazyBump_materialNode.png)) with some help from [crazybump.](http://www.crazybump.com/)
+edit: More [complex material node]({{site.baseurl}}/media/crazyBump_materialNode.png) with some help from [crazybump.](http://www.crazybump.com/)
 
 [![nut6_ps.th.png](https://cdn.scrot.moe/images/2016/02/19/nut6_ps.th.png)](https://cdn.scrot.moe/images/2016/02/19/nut6_ps.png)
