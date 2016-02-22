@@ -7,5 +7,6 @@ title: "wordpress security :)"
 
 It appears that Wordpress needs a "[virus](https://wordpress.org/plugins/wordfence/)" scanner, makes you wonder about all things starting with "W".
 
-![wordpress]({{site.baseurl}}/media/wp.png)
+![wp.png]({{site.baseurl}}/media/wp.png)
+
 
