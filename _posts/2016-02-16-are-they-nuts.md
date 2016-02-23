@@ -10,7 +10,7 @@ title: Are they nuts
 [![nut2_ps2.th.png](https://cdn.scrot.moe/images/2016/02/16/nut2_ps2.th.png)](https://cdn.scrot.moe/images/2016/02/16/nut2_ps2.png)
 [![nut3_ps.th.png](https://cdn.scrot.moe/images/2016/02/16/nut3_ps.th.png)](https://cdn.scrot.moe/images/2016/02/16/nut3_ps.png)
 [![nut3_ps2.th.png](https://cdn.scrot.moe/images/2016/02/16/nut3_ps2.th.png)](https://cdn.scrot.moe/images/2016/02/16/nut3_ps2.png)
-[![nut2b_ps2.th.png](https://cdn.scrot.moe/images/2016/02/23/nut2b_ps2.th.png)](https://cdn.scrot.moe/images/2016/02/23/nut2b_ps2.png)  
+[![nut2b_ps2.th.png](https://cdn.scrot.moe/images/2016/02/23/nut2b_ps2.th.png)](https://cdn.scrot.moe/images/2016/02/23/nut2b_ps2.png) < same as 1st two, but rerendered with more samples.    
 [Nut material node.]({{site.baseurl}}/media/nutMaterial.png)
 
 Material is way too simple, scratches should be used added to pointiness to reveal silver material, both materials would need another fresnell component and more.
