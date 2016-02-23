@@ -5,8 +5,6 @@ date: "2016-02-19 19:34 +0100"
 title: simple skin shader wip
 ---
 
-
-
 [![pig_skinShader_wip.th.png](https://cdn.scrot.moe/images/2016/02/19/pig_skinShader_wip.th.png)](https://cdn.scrot.moe/images/2016/02/19/pig_skinShader_wip.png)
 
 [![pig6_ps.th.png](https://cdn.scrot.moe/images/2016/02/22/pig6_ps.th.png)](https://cdn.scrot.moe/images/2016/02/22/pig6_ps.png)
