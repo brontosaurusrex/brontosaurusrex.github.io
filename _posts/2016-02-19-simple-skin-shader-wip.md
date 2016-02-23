@@ -9,7 +9,8 @@ title: simple skin shader wip
 
 [![pig6_ps.th.png](https://cdn.scrot.moe/images/2016/02/22/pig6_ps.th.png)](https://cdn.scrot.moe/images/2016/02/22/pig6_ps.png)
 
-final node and a baking example (You will have to be unwrap expert first)  
+final node and a baking example (You will have to be unwrap expert first)
+
 [![pig8_bake.th.png](https://cdn.scrot.moe/images/2016/02/23/pig8_bake.th.png)](https://cdn.scrot.moe/images/2016/02/23/pig8_bake.png)
 
 p.s. IOR list
