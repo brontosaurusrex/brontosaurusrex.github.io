@@ -29,8 +29,7 @@ Bunch of questions arises:
 1. Whats up with raw out of the box without some stupid external recorder? There is no cached  mode of some sort?
 1. What kind of external monitor (mounted on camera or not) should I get and will it preview/render s-log stuff properly?
 1. Is my editing monitor LUT friendly? (research)
-1. How expensive are the cards? (In my case I need just one or two to cover about 1 hour of recording)
-1. Storage  
+1. How expensive are the cards? (In my case I need just one or two to cover about 1 hour of recording)  
 **XQD memory cards, probably 3 x 32GB is what I need for an hour of XAVC-I.** < That alone comes in about 900 eur, ups.
 1. canon mic inputs?  
 **Yes, two.**
