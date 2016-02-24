@@ -30,7 +30,7 @@ Bunch of questions arises:
 1. What kind of external monitor (mounted on camera or not) should I get and will it preview/render s-log stuff properly?
 1. Is my editing monitor LUT friendly? (research)
 1. How expensive are the cards? (In my case I need just one or two to cover about 1 hour of recording)
-1. Storage
+1. Storage  
 **XQD memory cards, probably 3 x 32GB is what I need for an hour of XAVC-I.**
 1. canon mic inputs?  
 **Yes, two.**
