@@ -6,6 +6,7 @@ title: "Sony PXW-FS7 review"
 ---
 
 
+
 fs7
 
 [https://vimeo.com/127445062](https://vimeo.com/127445062)
@@ -27,6 +28,7 @@ Bunch of questions arises:
 - What kind of external monitor (mounted on camera or not) should I get and will it preview/render s-log stuff properly?
 - How expensive are the cards? (In my case I need just one or two to cover about 1 hour of recording)
 - canon mic inputs?
+- How would I hack myself to not hate sony (that much)?
 
 fs5 rigged
 
