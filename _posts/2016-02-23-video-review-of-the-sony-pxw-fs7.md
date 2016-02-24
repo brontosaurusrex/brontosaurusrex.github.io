@@ -17,7 +17,7 @@ Bunch of questions arises:
 1. rolling shutter? ("No" is right answer here)  
 **Yes :/**
 1. What do I need to use canon SLR lens? Any problems to expect there?  
-**Expensive metabones adapter.**
+**Expensive metabones adapter. (EF adapter)**
 1. Does fs5 have better ergonomics, less hacks to the body needed? 
 1. If fs5, can I live with XAVC long gop (If the camera is twice as cheep I could)  
 **The difference in price is about 1/4.**
