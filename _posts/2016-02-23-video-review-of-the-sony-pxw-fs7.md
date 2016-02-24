@@ -5,7 +5,7 @@ date: "2016-02-23 13:09 +0100"
 title: "Sony PXW-FS7 review"
 ---
 
-
+fs7
 
 [https://vimeo.com/127445062](https://vimeo.com/127445062)
 
@@ -24,4 +24,8 @@ Bunch of questions arises:
 - Would cine gamma and S-log work together or how is that working?
 - Whats up with raw out of the box without some stupid external recorder?
 - What kind of external monitor (mounted on camera or not) should I get and will it preview/render s-log stuff properly?
+
+fs5 rigged
+
+![](http://www.newsshooter.com/wp-content/uploads/2015/11/IMG_0190-600x468.jpg)
 
