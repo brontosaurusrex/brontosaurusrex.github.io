@@ -23,7 +23,7 @@ Bunch of questions arises:
 1. Does fs5 have better ergonomics, less hacks to the body needed? 
 1. If fs5, can I live with XAVC long gop (If the camera is twice as cheep I could)  
 **The difference in price is about 1/4.**
-1. Why would I need a plugin for basic grading, does Adobe have "interpret footage, S-log3" option? And why not?
+1. Why would I need a plugin for basic grading, does Adobe have "interpret footage, S-log3" option? And why not?  
 **Something about Lumetri and loading the correct LUT.**
 1. Yeah picture looks very correct, but also very boring and that film stuff post isn't helping, what's wrong with cine gamma thingy? (Or what was it called)
 1. Would cine gamma and S-log work together or how is that working?  
