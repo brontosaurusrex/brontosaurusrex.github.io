@@ -5,7 +5,6 @@ date: "2016-02-23 13:09 +0100"
 title: "Sony PXW-FS7 review"
 ---
 
-
 [https://vimeo.com/127445062](https://vimeo.com/127445062)
 
 ![fs7](http://static.bhphoto.com/images/images500x500/sony_pxw_fs7_compact_4k_xdcam_with_1411575619000_1082825.jpg 'fs7')
@@ -17,7 +16,8 @@ Bunch of questions arises:
 1. Is the sensor covered the same in 4k and HD mode?
 1. rolling shutter? ("No" is right answer here)  
 Yes :/
-1. What do I need to use canon SLR lens? Any problems to expect there?
+1. What do I need to use canon SLR lens? Any problems to expect there?  
+Expensive metabones adapter.
 1. Does fs5 have better ergonomics, less hacks to the body needed? 
 1. If fs5, can I live with XAVC long gop (If the camera is twice as cheep I could)
 1. Why would I need a plugin for basic grading, does Adobe have "interpret footage, S-log3" option? And why not?
