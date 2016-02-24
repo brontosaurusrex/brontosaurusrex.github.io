@@ -33,9 +33,10 @@ Bunch of questions arises:
 1. canon mic inputs?
 1. What is in the box?  
 [https://www.youtube.com/watch?v=Tplq3jZxwK4](https://www.youtube.com/watch?v=Tplq3jZxwK4) (ok, It is a really pretty camera)
-1. Do I need separatedly purchased shoulder rig?
+1. Do I need separatedly purchased shoulder rig?  
+Yes, and some sort of system to allow moving viewfinder farther away from the eye. 
 
-![fs5 rigged](http://www.newsshooter.com/wp-content/uploads/2015/11/IMG_0190-600x468.jpg 'fs5 rigged')
-(fs5 rigged)
+![](http://extrashot.co.uk/wp-content/uploads/2015/05/FS7_Recoil-Rig_2.png 'fs7 rigged')
 
+More:  
 [Ursa vs fs7 vs fs5.](http://nofilmschool.com/boards/discussions/why-fs5-instead-fs7-or-ursa-mini-46k)
