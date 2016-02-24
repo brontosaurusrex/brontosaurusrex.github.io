@@ -15,7 +15,8 @@ Bunch of questions arises:
 1. What is the actual sensor size (in mm)?  
 23.6 mm x 13.3 mm (basically same as 7d at 22.3 x 14.9 mm)
 1. Is the sensor covered the same in 4k and HD mode?
-1. rolling shutter? ("No" is right answer here)
+1. rolling shutter? ("No" is right answer here)  
+Yes :/
 1. What do I need to use canon SLR lens? Any problems to expect there?
 1. Does fs5 have better ergonomics, less hacks to the body needed? 
 1. If fs5, can I live with XAVC long gop (If the camera is twice as cheep I could)
