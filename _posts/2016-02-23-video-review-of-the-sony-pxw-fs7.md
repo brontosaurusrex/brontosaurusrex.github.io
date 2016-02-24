@@ -41,4 +41,4 @@ Bunch of questions arises:
 ![](http://extrashot.co.uk/wp-content/uploads/2015/05/FS7_Recoil-Rig_2.png 'fs7 rigged')
 
 More:  
-[Ursa vs fs7 vs fs5.](http://nofilmschool.com/boards/discussions/why-fs5-instead-fs7-or-ursa-mini-46k)
+[Ursa vs fs7 vs fs5.](http://nofilmschool.com/boards/discussions/why-fs5-instead-fs7-or-ursa-mini-46k) < Does not apply to my type of usage.
