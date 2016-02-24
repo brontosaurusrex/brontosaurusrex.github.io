@@ -27,3 +27,4 @@ Bunch of questions arises:
 1. How would I hack myself to not hate sony (that much)?
 
 ![fs5 rigged](http://www.newsshooter.com/wp-content/uploads/2015/11/IMG_0190-600x468.jpg 'fs5 rigged')
+(fs5 rigged)
