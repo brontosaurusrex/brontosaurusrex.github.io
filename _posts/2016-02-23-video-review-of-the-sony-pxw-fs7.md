@@ -5,13 +5,15 @@ date: "2016-02-23 13:09 +0100"
 title: "Sony PXW-FS7 review"
 ---
 
+
 [https://vimeo.com/127445062](https://vimeo.com/127445062)
 
 ![fs7](http://static.bhphoto.com/images/images500x500/sony_pxw_fs7_compact_4k_xdcam_with_1411575619000_1082825.jpg 'fs7')
 
 Bunch of questions arises:
 
-1. What is the actual sensor size (in mm)?
+1. What is the actual sensor size (in mm)?  
+23.6 mm x 13.3 mm (basically same as 7d at 22.3 x 14.9 mm)
 1. Is the sensor covered the same in 4k and HD mode?
 1. rolling shutter? ("No" is right answer here)
 1. What do I need to use canon SLR lens? Any problems to expect there?
