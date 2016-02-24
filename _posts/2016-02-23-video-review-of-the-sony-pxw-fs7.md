@@ -7,7 +7,7 @@ title: "Sony PXW-FS7 review"
 
 [https://vimeo.com/127445062](https://vimeo.com/127445062)
 
-![fs7](http://static.bhphoto.com/images/images500x500/sony_pxw_fs7_compact_4k_xdcam_with_1411575619000_1082825.jpg)
+![fs7](http://static.bhphoto.com/images/images500x500/sony_pxw_fs7_compact_4k_xdcam_with_1411575619000_1082825.jpg 'fs7')
 
 Bunch of questions arises:
 
@@ -26,4 +26,4 @@ Bunch of questions arises:
 1. canon mic inputs?
 1. How would I hack myself to not hate sony (that much)?
 
-![fs5 rigged](http://www.newsshooter.com/wp-content/uploads/2015/11/IMG_0190-600x468.jpg)
+![fs5 rigged](http://www.newsshooter.com/wp-content/uploads/2015/11/IMG_0190-600x468.jpg 'fs5 rigged')
