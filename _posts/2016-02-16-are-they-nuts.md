@@ -13,7 +13,7 @@ title: Are they nuts
 [![nut3_ps2.th.png](https://cdn.scrot.moe/images/2016/02/16/nut3_ps2.th.png)](https://cdn.scrot.moe/images/2016/02/16/nut3_ps2.png)
 [![nut2b_ps2.th.png](https://cdn.scrot.moe/images/2016/02/23/nut2b_ps2.th.png)](https://cdn.scrot.moe/images/2016/02/23/nut2b_ps2.png)  
 
-(same as 1st two, but rerendered with more samples.)
+(Same as 1st two, but rerendered with more samples and slightly different post.)
 
 [Nut material node.]({{site.baseurl}}/media/nutMaterial.png)
 
