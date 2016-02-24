@@ -27,7 +27,8 @@ Expensive metabones adapter.
 1. What kind of external monitor (mounted on camera or not) should I get and will it preview/render s-log stuff properly?
 1. How expensive are the cards? (In my case I need just one or two to cover about 1 hour of recording)
 1. canon mic inputs?
-1. How would I hack myself to not hate sony (that much)?
+1. What is in the box?
+1. Do I need separatedly purchased shoulder rig?
 
 ![fs5 rigged](http://www.newsshooter.com/wp-content/uploads/2015/11/IMG_0190-600x468.jpg 'fs5 rigged')
 (fs5 rigged)
