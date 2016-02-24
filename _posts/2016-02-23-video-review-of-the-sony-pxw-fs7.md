@@ -15,9 +15,9 @@ fs7
 
 Bunch of questions arises:
 
-- What is the actual sensor size (in mm)?
-- Is the sensor covered the same in 4k and HD mode?
-- rolling shutter? ("No" is right answer here)
+1. What is the actual sensor size (in mm)?
+1. Is the sensor covered the same in 4k and HD mode?
+1. rolling shutter? ("No" is right answer here)
 - What do I need to use canon SLR lens? Any problems to expect there?
 - Does fs5 have better ergonomics, less hacks to the body needed? 
 - If fs5, can I live with XAVC long gop (If the camera is twice as cheep I could)
