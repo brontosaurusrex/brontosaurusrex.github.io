@@ -23,5 +23,5 @@ Bunch of questions arises:
 - Yeah picture looks very correct, but also very boring and that film stuff post isn't helping, what's wrong with cine gamma thingy? (Or what was it called)
 - Would cine gamma and S-log work together or how is that working?
 - Whats up with raw out of the box without some stupid external recorder?
-- ...
+- What kind of external monitor (mounted on camera or not) should I get and will it preview/render s-log stuff properly?
 
