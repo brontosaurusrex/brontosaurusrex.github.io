@@ -37,7 +37,7 @@ Bunch of questions arises:
 1. What is in the box?  
 [https://www.youtube.com/watch?v=Tplq3jZxwK4](https://www.youtube.com/watch?v=Tplq3jZxwK4)
 1. Do I need separatedly purchased shoulder rig?  
-**Yes, and [some sort of system](http://cvp.com/index.php?t=product/zacuto+usa_z-s7r) to allow moving viewfinder [farther away](https://vimeo.com/115828767) from the eye.** 
+**Probably yes, and [some sort of system](http://cvp.com/index.php?t=product/zacuto+usa_z-s7r) to allow moving viewfinder [farther away](https://vimeo.com/115828767) from the eye.** 
 
 ![](http://extrashot.co.uk/wp-content/uploads/2015/05/FS7_Recoil-Rig_2.png 'fs7 rigged')
 
