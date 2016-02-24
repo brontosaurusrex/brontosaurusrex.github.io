@@ -32,7 +32,7 @@ Bunch of questions arises:
 1. How expensive are the cards? (In my case I need just one or two to cover about 1 hour of recording)
 1. canon mic inputs?
 1. What is in the box?  
-[https://www.youtube.com/watch?v=Tplq3jZxwK4](https://www.youtube.com/watch?v=Tplq3jZxwK4) (ok, It is a really pretty camera)
+[https://www.youtube.com/watch?v=Tplq3jZxwK4](https://www.youtube.com/watch?v=Tplq3jZxwK4)
 1. Do I need separatedly purchased shoulder rig?  
 **Yes, and [some sort of system](http://cvp.com/index.php?t=product/zacuto+usa_z-s7r) to allow moving viewfinder farther away from the eye.** 
 
