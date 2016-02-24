@@ -13,7 +13,8 @@ Bunch of questions arises:
 
 1. What is the actual sensor size (in mm)?  
 **23.6 mm x 13.3 mm** (basically same as 7d at 22.3 x 14.9 mm)
-1. Is the sensor covered the same in 4k and HD mode?
+1. Is the sensor covered the same in 4k and HD mode?  
+**I guess.**
 1. rolling shutter? ("No" is right answer here)  
 **Yes :/**
 1. What do I need to use canon SLR lens? Any problems to expect there?  
