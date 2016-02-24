@@ -12,15 +12,15 @@ title: "Sony PXW-FS7 review"
 Bunch of questions arises:
 
 1. What is the actual sensor size (in mm)?  
-23.6 mm x 13.3 mm (basically same as 7d at 22.3 x 14.9 mm)
+**23.6 mm x 13.3 mm** (basically same as 7d at 22.3 x 14.9 mm)
 1. Is the sensor covered the same in 4k and HD mode?
 1. rolling shutter? ("No" is right answer here)  
-Yes :/
+**Yes :/**
 1. What do I need to use canon SLR lens? Any problems to expect there?  
-Expensive metabones adapter.
+**Expensive metabones adapter.**
 1. Does fs5 have better ergonomics, less hacks to the body needed? 
 1. If fs5, can I live with XAVC long gop (If the camera is twice as cheep I could)  
-The difference in price is about 1/4.
+**The difference in price is about 1/4.**
 1. Why would I need a plugin for basic grading, does Adobe have "interpret footage, S-log3" option? And why not?
 1. Yeah picture looks very correct, but also very boring and that film stuff post isn't helping, what's wrong with cine gamma thingy? (Or what was it called)
 1. Would cine gamma and S-log work together or how is that working?
