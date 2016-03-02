@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: "2016-03-02 11:02 +0100"
-title: "PXW-FS7 CINE EI thing"
+title: "PXW-FS7 CINE-EI SUMMARY thing"
 ---
 
 > CineEI allows you to “rate” the camera at different ISO.  
