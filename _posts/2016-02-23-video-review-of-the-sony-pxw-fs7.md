@@ -40,7 +40,7 @@ Bunch of questions arises:
 >
 > When viewing via a 709 LUT you expose using normal 709 exposure levels. Basically if it looks right in the viewfinder or on the monitor (via the 709 LUT) it almost certainly is right.
 >
-> When I shoot with my FS7 I normally rate the camera at between 800 and 1000EI. I find that 5 stops of over exposure range is plenty for most situations and I prefer the decrease in noise in the final pictures. But please, test and experiment for yourself.
+> When I shoot with my FS7 I normally rate the camera at between 800 and 1000EI. I find that 5 stops of over exposure range is plenty for most situations and I prefer the decrease in noise in the final pictures. But please, test and experiment for yourself.  
 1. Whats up with raw out of the box without some stupid external recorder? There is no cached  mode of some sort?
 1. What kind of external monitor (mounted on camera or not) should I get and will it preview/render s-log stuff properly?
 1. Is my editing monitor LUT friendly? (research)
