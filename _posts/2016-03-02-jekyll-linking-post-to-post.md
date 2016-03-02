@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: "2016-03-02 12:27 +0100"
-title: jekyll linking post to post
+title: Jekyll linking post to post
 ---
 
 Example:
