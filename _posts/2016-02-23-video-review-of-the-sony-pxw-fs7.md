@@ -28,19 +28,6 @@ Bunch of questions arises:
 1. Yeah picture looks very correct, but also very boring and that film stuff post isn't helping, what's wrong with cine gamma thingy? (Cine EI)
 1. Would Cine EI and S-log work together or how is that working?  
 **Yes they would and that is probably wrong question. Lots of [reading here](http://www.xdcam-user.com/2014/12/ultimate-guide-for-cine-ei-on-the-sony-pxw-fs7/).**  
-_CineEI allows you to “rate” the camera at different ISO.  
-
-You MUST use a LUT for CineEI to work as designed.  
-
-A low EI number will result in a brighter exposure which will improve the signal to noise ratio giving a cleaner picture or allow you to see more shadow detail. However you will loose some over exposure headroom.
-
-A high EI number will result in a darker exposure which will improve the over exposure headroom but decrease the under exposure range. The signal to noise ratio is worse so the final picture may end up with more noise.
-
-A 1D LUT will not clip and appear to overexpose as readily as a 3D LOOK when using a low EI, so a 1D LUT may be preferable.
-
-When viewing via a 709 LUT you expose using normal 709 exposure levels. Basically if it looks right in the viewfinder or on the monitor (via the 709 LUT) it almost certainly is right.
-
-When I shoot with my FS7 I normally rate the camera at between 800 and 1000EI. I find that 5 stops of over exposure range is plenty for most situations and I prefer the decrease in noise in the final pictures. But please, test and experiment for yourself._
 1. Whats up with raw out of the box without some stupid external recorder? There is no cached  mode of some sort?
 1. What kind of external monitor (mounted on camera or not) should I get and will it preview/render s-log stuff properly?
 1. Is my editing monitor LUT friendly? (research)
