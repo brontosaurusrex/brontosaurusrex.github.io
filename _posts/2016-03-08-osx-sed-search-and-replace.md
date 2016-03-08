@@ -8,3 +8,5 @@ title: osx sed search and replace
 search for cdn.scrot and replace with scrot on all files in current dir:
 
     sed -i '' -e 's/cdn\.scrot/scrot/g' *
+    
+p.s. Dot is escaped using backslash.
