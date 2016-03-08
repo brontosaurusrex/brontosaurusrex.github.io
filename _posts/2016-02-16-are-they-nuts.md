@@ -7,11 +7,11 @@ title: Are they nuts
 
 
 
-[![nut2_ps.th.png](https://cdn.scrot.moe/images/2016/02/16/nut2_ps.th.png)](https://cdn.scrot.moe/images/2016/02/16/nut2_ps.png)
-[![nut2_ps2.th.png](https://cdn.scrot.moe/images/2016/02/16/nut2_ps2.th.png)](https://cdn.scrot.moe/images/2016/02/16/nut2_ps2.png)
-[![nut3_ps.th.png](https://cdn.scrot.moe/images/2016/02/16/nut3_ps.th.png)](https://cdn.scrot.moe/images/2016/02/16/nut3_ps.png)
-[![nut3_ps2.th.png](https://cdn.scrot.moe/images/2016/02/16/nut3_ps2.th.png)](https://cdn.scrot.moe/images/2016/02/16/nut3_ps2.png)
-[![nut2b_ps2.th.png](https://cdn.scrot.moe/images/2016/02/23/nut2b_ps2.th.png)](https://cdn.scrot.moe/images/2016/02/23/nut2b_ps2.png)  
+[![nut2_ps.th.png](https://scrot.moe/images/2016/02/16/nut2_ps.th.png)](https://scrot.moe/images/2016/02/16/nut2_ps.png)
+[![nut2_ps2.th.png](https://scrot.moe/images/2016/02/16/nut2_ps2.th.png)](https://scrot.moe/images/2016/02/16/nut2_ps2.png)
+[![nut3_ps.th.png](https://scrot.moe/images/2016/02/16/nut3_ps.th.png)](https://scrot.moe/images/2016/02/16/nut3_ps.png)
+[![nut3_ps2.th.png](https://scrot.moe/images/2016/02/16/nut3_ps2.th.png)](https://scrot.moe/images/2016/02/16/nut3_ps2.png)
+[![nut2b_ps2.th.png](https://scrot.moe/images/2016/02/23/nut2b_ps2.th.png)](https://scrot.moe/images/2016/02/23/nut2b_ps2.png)  
 
 (Same as 1st two, but rerendered with more samples and slightly different post.)
 
@@ -23,4 +23,4 @@ Lightning as a combo between hdri and some random sun lamp is almost good enough
 
 edit: More [complex material node]({{site.baseurl}}/media/crazyBump_materialNode.png) with some help from [crazybump.](http://www.crazybump.com/)
 
-[![nut6_ps.th.png](https://cdn.scrot.moe/images/2016/02/19/nut6_ps.th.png)](https://cdn.scrot.moe/images/2016/02/19/nut6_ps.png)
+[![nut6_ps.th.png](https://scrot.moe/images/2016/02/19/nut6_ps.th.png)](https://scrot.moe/images/2016/02/19/nut6_ps.png)

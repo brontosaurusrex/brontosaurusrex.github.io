@@ -10,6 +10,6 @@ more:
 <https://github.com/easysid/conky_configs>
 
 quick try:
-[![easyclock0ed2d.th.png](https://cdn.scrot.moe/images/2016/01/22/easyclock0ed2d.th.png)](https://cdn.scrot.moe/images/2016/01/22/easyclock0ed2d.png)
+[![easyclock0ed2d.th.png](https://scrot.moe/images/2016/01/22/easyclock0ed2d.th.png)](https://scrot.moe/images/2016/01/22/easyclock0ed2d.png)
 
 p.s. conky19-lua-nv is the one you want from aur.

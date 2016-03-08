@@ -21,4 +21,4 @@ Leaves should have mix of diffuse and translucent shader.
 
 edit2: And a blender "wall"
 
-[![bronto_tree3_k4_ps.th.png](https://cdn.scrot.moe/images/2016/02/04/bronto_tree3_k4_ps.th.png)](https://cdn.scrot.moe/images/2016/02/04/bronto_tree3_k4_ps.png)
+[![bronto_tree3_k4_ps.th.png](https://scrot.moe/images/2016/02/04/bronto_tree3_k4_ps.th.png)](https://scrot.moe/images/2016/02/04/bronto_tree3_k4_ps.png)

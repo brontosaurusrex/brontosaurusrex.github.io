@@ -11,4 +11,4 @@ In material node there must be active image texture loaded node, unwrap, click b
 
 [Blender manual.](https://www.blender.org/manual/render/workflows/bake.html#workflow)
 
-[![pig8_bake.th.png](https://cdn.scrot.moe/images/2016/02/23/pig8_bake.th.png)](https://cdn.scrot.moe/images/2016/02/23/pig8_bake.png)
+[![pig8_bake.th.png](https://scrot.moe/images/2016/02/23/pig8_bake.th.png)](https://scrot.moe/images/2016/02/23/pig8_bake.png)
