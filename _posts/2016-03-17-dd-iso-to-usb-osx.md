@@ -8,7 +8,7 @@ title: "dd iso to usb, OSX"
 
 [http://osxdaily.com/2015/06/05/copy-iso-to-usb-drive-mac-os-x-command/](http://osxdaily.com/2015/06/05/copy-iso-to-usb-drive-mac-os-x-command/)
 
-## Short version:
+## Short version
 
 list drives
 
