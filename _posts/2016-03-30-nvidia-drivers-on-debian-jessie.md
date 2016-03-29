@@ -10,6 +10,9 @@ title: Nvidia drivers on Debian jessie
 
 Short story:
 
+a. Enable contrib & non-free in sources.list
+
+b.
     sudo apt-get install nvidia-driver nvidia-settings nvidia-xconfig 
     sudo nvidia-xconfig 
     sudo reboot
