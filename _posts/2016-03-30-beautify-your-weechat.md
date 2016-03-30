@@ -7,6 +7,7 @@ title: Beautify your WeeChat
 
 [http://dev.weechat.org/post/2011/08/28/Beautify-your-WeeChat](http://dev.weechat.org/post/2011/08/28/Beautify-your-WeeChat)
 
-![]({{site.baseurl}}/media/wee.png)
+![wee.png]({{site.baseurl}}/media/wee.png)
+
 
 
