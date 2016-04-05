@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: "2016-04-05 14:40 +0200"
-title: locale date
+title: locale date (Ubuntu server behaviour)
 ---
 
     sudo apt-get install language-pack-xy ?
@@ -20,3 +20,7 @@ still not working, but
     LC_ALL=sl_SI.UTF-8 date
     
 is.
+
+p.s. In scripts, this appears to work (just put it before any date call)
+
+    export LC_ALL=sl_SI.UTF-8
