@@ -26,4 +26,4 @@ p.s. In scripts, this appears to work (just put it before any date call)
 
     export LC_ALL=sl_SI.UTF-8
     
-p.s. On OSX and arch linux "LC_TIME=sl_SI.UTF-8 date" is working just fine. For arch I followed first two steps [explained here](https://wiki.archlinux.org/index.php/locale).
+p.s. On OSX and Arch Linux "LC_TIME=sl_SI.UTF-8 date" is working just fine. For Arch I followed first two steps [explained here](https://wiki.archlinux.org/index.php/locale).
