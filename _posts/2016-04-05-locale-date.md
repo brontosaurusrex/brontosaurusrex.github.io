@@ -5,6 +5,7 @@ date: "2016-04-05 14:40 +0200"
 title: locale date (Ubuntu server behaviour)
 ---
 
+
     sudo apt-get install language-pack-xy ?
     sudo locale-gen xy_XY.UTF-8
     sudo dpkg-reconfigure locales
@@ -15,7 +16,7 @@ And
 
 	LC_TIME=sl_SI.UTF-8 date
 	
-still not working, but
+still not working (same behaviour on Debian Jessie), but
 
     LC_ALL=sl_SI.UTF-8 date
     
