@@ -22,7 +22,7 @@ still not working (same behaviour on Debian Jessie), but
     
 is.
 
-p.s. In scripts, this appears to work (just put it before any date call)
+In scripts, this appears to work (just put it before any date call)
 
     export LC_ALL=sl_SI.UTF-8
     
