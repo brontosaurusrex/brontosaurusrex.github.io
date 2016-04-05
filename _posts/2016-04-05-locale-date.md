@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: "2016-04-05 14:40 +0200"
-title: locale date (Ubuntu server behaviour)
+title: locale date (Ubuntu server 14.04 trusty)
 ---
 
 
