@@ -7,4 +7,4 @@ title: io benchmark
 
 [https://www.howtoforge.com/how-to-benchmark-your-system-cpu-file-io-mysql-with-sysbench](https://www.howtoforge.com/how-to-benchmark-your-system-cpu-file-io-mysql-with-sysbench)
 
-Should work natively with OS X as well (with some help from brew).
+Should work natively with OS X as well (with some help from brew). 190 gigs seems to be a bit fat, how about 10 gigs?
