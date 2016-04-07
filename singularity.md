@@ -4,13 +4,13 @@ title: singularity
 published: true
 ---
 
-## Why
-
-ffdrop will be useless once main editing machines will be replaced with windows based ones. Scripting on windows is no fun.
-
 ## What is
 
 Transcoding Minimal Cli Debian Virtual Machine. Debian minimal iso installed in a server fashion, has ffmpeg, mediainfo ... (whatever the scripts will need), ssh server. User will connect to the machine via ssh exclusively. Version N may also have watch folder functionality.
+
+## Why
+
+ffdrop will be useless once main editing machines will be replaced with windows based ones. Scripting on windows is no fun.
 
 ## How
 
