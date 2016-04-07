@@ -12,4 +12,4 @@ title: Raspberry cases
 [http://www.modmypi.com/raspberry-pi/cases/iqaudio/pi-case-plus-smoked](http://www.modmypi.com/raspberry-pi/cases/iqaudio/pi-case-plus-smoked)  
 [http://www.modmypi.com/raspberry-pi/cases/modmypi-single-colour/modmypi-pi-b-plus2-head-case-cheshire-project-case](http://www.modmypi.com/raspberry-pi/cases/modmypi-single-colour/modmypi-pi-b-plus2-head-case-cheshire-project-case) <nice  
 [http://www.lincolnbinns.com/raspberry-pi-aluminium-enclosur/](http://www.lincolnbinns.com/raspberry-pi-aluminium-enclosur/) < nice  
-[https://www.raspberrypi.org/forums/viewtopic.php?f=40&t=6424](https://www.raspberrypi.org/forums/viewtopic.php?f=40&t=6424) < cardboard case  
+[https://www.raspberrypi.org/forums/viewtopic.php?f=40&t=6424](https://www.raspberrypi.org/forums/viewtopic.php?f=40&t=6424) < cardboard case (A nice starting material for mockups)
