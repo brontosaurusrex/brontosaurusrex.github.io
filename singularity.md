@@ -6,7 +6,7 @@ published: true
 
 ## What is
 
-Transcoding Minimal Cli Debian Virtual Machine. Debian minimal iso installed in a server fashion, has ffmpeg, mediainfo ... (whatever the scripts will need), ssh server. User will connect to the machine via ssh exclusively. Version N may also have watch folder functionality.
+Transcoding Minimal Cli Linux Virtual Machine. Debian minimal iso installed in a server fashion, has ffmpeg, mediainfo ... (whatever the scripts will need), ssh server. User will connect to the machine via ssh exclusively. Version N may also have watch folder functionality.
 
 ## Why
 
