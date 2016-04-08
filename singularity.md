@@ -69,7 +69,7 @@ Must be better than in ffdrop.
 
 ## VM
 
-Virtual machine is connected with 2 points, under read-only ~/input there should be everything that the host is offering as input files and under ~/output is where the results go (and temporary files and encoding logs). IO speed (to and from host) is expected trouble here. How much ram, how many cores to assign to it are open questions.
+Virtual machine is [connected with 2 points](https://forums.virtualbox.org/viewtopic.php?t=15868), under read-only ~/input there should be everything that the host is offering as input files and under ~/output is where the results go (and temporary files and encoding logs). IO speed (to and from host) is expected trouble here. How much ram, how many cores to assign to it are open questions.
 
 ### development VM
 
