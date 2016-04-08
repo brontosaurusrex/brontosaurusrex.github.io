@@ -22,7 +22,7 @@ Executable scripts in user ~/bin, modules sources from ~/bin/modules. Username =
 
 For example: timer, hasAudio, audioToAAC, isItMXF, encodeWithX264crf, ebur128 ... < written in reusable fashion (probably just bash functions).
 
-Example script without error catching (work in progress)
+Example pseudo script without error catching (work in progress)
 
     # includes
     source hasAudio,isItMXF,...
