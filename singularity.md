@@ -85,7 +85,7 @@ Final VM must be only armed with what is needed, another graphical VM shall be u
 
 ## git
 
-Virtual machine is a single download, but encoding scripts and modules (subroutines) have their own git with some minimal readme that explains how to use them on "any" Linux.
+Virtual machine is a single download, but encoding scripts and modules (subroutines) [have their own git](http://brontosaurusrex.github.io/singularity/) with some minimal readme that explains how to use them on "any" Linux.
 
 ## links
 
