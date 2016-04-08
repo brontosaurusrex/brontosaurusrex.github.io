@@ -73,7 +73,7 @@ Virtual machine is connected with 2 points, under read-only ~/input there should
 
 ### development VM
 
-Final VM must be only armed with what is needed, another graphical VM may be used for development.
+Final VM must be only armed with what is needed, another graphical VM shall be used for development.
 
 [![42.th.png](https://cdn.scrot.moe/images/2016/04/08/42.th.png)](https://cdn.scrot.moe/images/2016/04/08/42.png)
 
