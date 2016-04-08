@@ -73,7 +73,7 @@ Virtual machine is [connected with 2 points](https://forums.virtualbox.org/viewt
 
 Working example fstab entrie (Arch):
 
-    # virtual box shared folders, source is readonly.
+    # virtual box shared folders, source is readonly, tmp is readwrite.
     source		/home/ticho/input	vboxsf	uid=1000,gid=100,ro,dmode=700,fmode=600,comment=systemd.automount	0 0
     tmp		/home/ticho/output	vboxsf	uid=1000,gid=100,rw,dmode=700,fmode=600,comment=systemd.automount	0 0
 
