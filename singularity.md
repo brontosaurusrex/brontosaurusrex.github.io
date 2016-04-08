@@ -5,6 +5,7 @@ published: true
 ---
 
 
+
 ## What is
 
 Transcoding Minimal Cli Debian Virtual Machine. Debian minimal iso installed in a server fashion, has ffmpeg, mediainfo ... (whatever the scripts will need), ssh server. User will connect to the machine via ssh exclusively. Version N may also have watch folder functionality.
@@ -70,6 +71,12 @@ Must be better than in ffdrop.
 
 Virtual machine is connected with 2 points, under read-only ~/input there should be everything that the host is offering as input files and under ~/output is where the results go (and temporary files and encoding logs). IO speed (to and from host) is expected trouble here. How much ram, how many cores to assign to it are open questions.
 
+### development VM
+
+Final VM must be only armed with what is needed, another graphical VM may be used for development.
+
+[![42.th.png](https://cdn.scrot.moe/images/2016/04/08/42.th.png)](https://cdn.scrot.moe/images/2016/04/08/42.png)
+
 ## git
 
 Virtual machine is a single download, but encoding scripts and modules (subroutines) have their own git with some minimal readme that explains how to use them on "any" Linux.
@@ -77,4 +84,4 @@ Virtual machine is a single download, but encoding scripts and modules (subrouti
 ## links
 
 Advanced bash guide  
-[http://www.tldp.org/LDP/abs/html/abs-guide.html](http://www.tldp.org/LDP/abs/html/abs-guide.html)  
+[http://www.tldp.org/LDP/abs/html/abs-guide.html](http://www.tldp.org/LDP/abs/html/abs-guide.html)
