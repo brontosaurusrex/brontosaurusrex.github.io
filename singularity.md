@@ -91,3 +91,7 @@ Virtual machine is a single download, but encoding scripts and modules (subrouti
 
 Advanced bash guide  
 [http://www.tldp.org/LDP/abs/html/abs-guide.html](http://www.tldp.org/LDP/abs/html/abs-guide.html)
+
+## comments
+
+Your voice may be [heard here](https://github.com/brontosaurusrex/singularity/issues/new).
