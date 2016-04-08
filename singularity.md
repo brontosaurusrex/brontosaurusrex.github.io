@@ -4,6 +4,7 @@ title: singularity
 published: true
 ---
 
+
 ## What is
 
 Transcoding Minimal Cli Debian Virtual Machine. Debian minimal iso installed in a server fashion, has ffmpeg, mediainfo ... (whatever the scripts will need), ssh server. User will connect to the machine via ssh exclusively. Version N may also have watch folder functionality.
@@ -72,3 +73,8 @@ Virtual machine is connected with 2 points, under read-only ~/input there should
 ## git
 
 Virtual machine is a single download, but encoding scripts and modules (subroutines) have their own git with some minimal readme that explains how to use them on "any" Linux.
+
+## links
+
+Advanced bash guide  
+[http://www.tldp.org/LDP/abs/html/abs-guide.html](http://www.tldp.org/LDP/abs/html/abs-guide.html)  
