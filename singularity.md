@@ -4,6 +4,7 @@ title: singularity (name is work in progress as well)
 published: true
 ---
 
+
 ## What is
 
 Transcoding Minimal Cli Linux Virtual Machine. Debian minimal iso installed in a server fashion, has ffmpeg, mediainfo ... (whatever the scripts will need), ssh server. User will connect to the machine via ssh exclusively. Version N may also have watch folder functionality.
@@ -93,3 +94,6 @@ Advanced bash guide
 ## comments
 
 Your voice may be [heard here](https://github.com/brontosaurusrex/singularity/issues/new).
+
+![philosoraptor.jpg]({{site.baseurl}}/media/philosoraptor.jpg)
+
