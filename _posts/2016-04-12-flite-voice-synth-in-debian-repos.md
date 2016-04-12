@@ -6,5 +6,5 @@ title: flite voice synth (in Debian repos)
 ---
 
     flite -voice rms -t "everything has transpired according to my desire, step to the dark side" -o rms.wav
-    
-![rms.m4a]({{site.baseurl}}/media/rms.m4a)
+
+or [click here for AAC version.]({{site.baseurl}}/media/rms.m4a)
