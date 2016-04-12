@@ -6,4 +6,4 @@ title: Arch cheaters
 ---
 
 [http://arch-anywhere.org/](http://arch-anywhere.org/)  
-https://sourceforge.net/projects/architect-linux/  
+https://sourceforge.net/projects/architect-linux/
