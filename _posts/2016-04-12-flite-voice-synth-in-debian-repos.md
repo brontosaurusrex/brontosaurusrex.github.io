@@ -5,4 +5,10 @@ date: "2016-04-12 22:08 +0200"
 title: flite voice synth (in Debian repos)
 ---
 
-    flite -voice rms -t "everything has transpired according to my desire, step to the dark side" -o rms.wav
+direct playback
+
+    flite -voice rms "Everything that has transpired has done so according to my design. Step to the GPL side."
+
+to wav 
+
+    flite -voice rms "Everything that has transpired has done so according to my design. Step to the GPL side." -o rms.wav
