@@ -18,8 +18,9 @@ then
 and add something like;
 
 <pre># comment
-#               this must exists;
-//server/folder /home/user/mount/here cifs username=user,password=pass,domain=domain,uid=1000 0 0</pre>
+//server/folder /home/user/mount/here cifs nofail,username=user,password=pass,domain=domain,uid=1000 0 0</pre>
+
+p.s. You should probably add the nofail option as this will define the entrie as non-critical.
 
 test;
 
