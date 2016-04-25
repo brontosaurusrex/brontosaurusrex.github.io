@@ -10,3 +10,7 @@ categories:
   - Uncategorized
 ---
 <pre>sudo update-flashplugin-nonfree --install</pre>
+
+update:
+
+    aptitude install pepperflashplugin-nonfree browser-plugin-freshplayer-pepperflash
