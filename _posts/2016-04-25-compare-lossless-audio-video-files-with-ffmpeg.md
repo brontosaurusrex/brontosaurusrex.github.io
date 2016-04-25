@@ -12,8 +12,4 @@ with [-f md5](http://ffmpeg.org/ffmpeg-all.html#md5-1)
     echo "$flac"
     [ "$orig" == "$flac" ] && echo "fine" || echo "nope"
     
-or a oneliner
-
-    diff <(ffmpeg -i some.wav -loglevel warning -f md5 -) <(ffmpeg -i some.flac -loglevel warning -f md5 -) && echo "fine" || echo "nope"
-
-
+or a [oneliner](https://hydrogenaud.io/index.php/topic,111753.msg921119.html#msg921119).
