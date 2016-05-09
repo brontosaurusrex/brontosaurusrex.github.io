@@ -14,7 +14,7 @@ p.s. Yeah stick with Vorbis which seems to be decently supported on Android (Opu
 
 [http://caniuse.com/#search=opus](http://caniuse.com/#search=opus)
 
-p.s.2. Global all browsers included % support  
+p.s.2. Global all browsers included % support (full + partical)
 
     h.264       88.98%
     vp9         70.42%
