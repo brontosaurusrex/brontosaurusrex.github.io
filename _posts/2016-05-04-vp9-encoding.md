@@ -9,3 +9,5 @@ title: vp9 encoding
 Constant quality
 
     ffmpeg -i input.mp4 -c:v libvpx-vp9 -crf 10 -b:v 0 -c:a libvorbis output.webm
+    
+p.s. Actually audio could be opus unless there is some sort of browser compatibility mess.
