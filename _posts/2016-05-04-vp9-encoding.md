@@ -13,3 +13,10 @@ Constant quality
 p.s. Yeah stick with Vorbis which seems to be decently supported on Android (Opus isn't).
 
 [http://caniuse.com/#search=opus](http://caniuse.com/#search=opus)
+
+p.s.2. Global all browsers included % support  
+
+    h.264       88.98%
+    vp9         70.42%
+    
+Probably not even worth bothering with vp9 at this point.
