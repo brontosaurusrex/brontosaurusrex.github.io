@@ -8,4 +8,4 @@ title: badblocks
 
 [http://linux.die.net/man/8/badblocks](http://linux.die.net/man/8/badblocks)
 
-![hard disk]({{site.baseurl}}/http://2.bp.blogspot.com/-or2K1V3lbF0/VR7017d1CoI/AAAAAAAAAiA/-wwPvrKXZMU/s1600/internal-hdd-hero.png)
+![hard disk](http://2.bp.blogspot.com/-or2K1V3lbF0/VR7017d1CoI/AAAAAAAAAiA/-wwPvrKXZMU/s1600/internal-hdd-hero.png)
