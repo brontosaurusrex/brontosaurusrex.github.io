@@ -12,3 +12,4 @@ Tournament mesaurements
 
 ![figure_lesene_superca3.jpg]({{site.baseurl}}/media/figure_lesene_superca3.jpg)
 
+[Lanier Graham Chess Set](http://www.chesssetsproject.com/ratings/wood-chess-sets/lanier-graham-chess-set/)
