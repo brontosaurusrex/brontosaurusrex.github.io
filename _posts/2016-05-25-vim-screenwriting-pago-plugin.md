@@ -20,3 +20,5 @@ to ~/.vimrc
 
 Use a filename with extension .pago, like test.pago
 
+(And it doesn't work as expected, txt extensions also get screenwriting look ...)
+
