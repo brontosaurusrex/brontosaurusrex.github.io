@@ -13,4 +13,3 @@ and a line like
     URxvt.iconFile:    /home/ticho/.icons/papirus/32x32/apps/xterm-color.svg
     
 in .Xresources.
-
