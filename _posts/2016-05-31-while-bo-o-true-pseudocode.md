@@ -14,9 +14,9 @@ title: While Božo True (pseudocode)
     do
     
     	if DATE="$rojdan"
-    		echo beer && touch božo
+    	    echo beer && touch božo
     	else
-	    	echo "Še en tak dan"
+            echo "Še en tak dan"
 	    fi
 
     done
