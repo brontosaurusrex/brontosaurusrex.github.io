@@ -7,7 +7,7 @@ title: While Božo True (pseudocode)
 
     #!/bin/bash
     
-    rojdan="5.6."
+    rojdan="31.5."
     
     while božo true 
     
