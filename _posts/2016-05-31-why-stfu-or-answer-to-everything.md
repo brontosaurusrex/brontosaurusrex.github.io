@@ -23,6 +23,8 @@ or e. Could there be just nothing?
 which may lead to  
 f. Why?  
 (Adams tryed here with numerical/computerish 42 and creativistic 'We apologize for the inconvenience')
-**To which the most obvious answer is probably STFU. (Why > STFU)**.
-(It is not like that you personally should stfu, more like all the replicant infected beings could/should/might)
+**To which the most obvious answer is probably STFU. **
 
+** Why > STFU.**
+
+(It is not like that you personally should stfu, more like all the replicant infected beings could/should/might)
