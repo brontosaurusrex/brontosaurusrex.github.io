@@ -17,6 +17,6 @@ title: While Božo True (pseudocode)
     	    echo beer && touch božo
     	else
             echo "Še en tak dan"
-	    fi
+        fi
 
     done
