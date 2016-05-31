@@ -25,6 +25,6 @@ f. Why?
 (Adams tryed here with numerical/computerish 42 and creativistic 'We apologize for the inconvenience')
 **To which the most obvious answer is probably STFU.**
 
-**Why > STFU.**
+**Why > STFU (=answer to everything).**
 
 (It is not like that you personally should stfu, more like all the replicant infected beings could/should/might)
