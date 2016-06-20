@@ -11,3 +11,8 @@ This is how you would compare the hash
     
     ffmpeg -loglevel error -i lagarith.avi -pix_fmt rgb24 -f md5 -
     MD5=e5c2a75027370d945a736002dced8463
+    
+cli was
+
+    ffmpeg -i lagarith.avi -pix_fmt rgb24 -vcodec libx264rgb -qp 0 -preset veryslow lossless.mp4
+    
