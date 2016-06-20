@@ -16,3 +16,6 @@ cli was
 
     ffmpeg -i lagarith.avi -pix_fmt rgb24 -vcodec libx264rgb -qp 0 -preset veryslow lossless.mp4
     
+but they say that -pix_fmt rgb24 is not doing anything, so it should be
+
+    ffmpeg -i lagarith.avi -vcodec libx264rgb -qp 0 -preset veryslow lossless.mp4
