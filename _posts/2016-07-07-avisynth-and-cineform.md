@@ -12,3 +12,6 @@ It will take a while before one realizes what dlls go where, but after some pain
     audiodub(a,b)
     
 f*** windows.
+
+lsmash works  
+[http://forum.doom9.org/showthread.php?t=167435](http://forum.doom9.org/showthread.php?t=167435)  
