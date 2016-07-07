@@ -42,3 +42,6 @@ p.s. Other options are (from lsmash README)
     "Y8"
     "RGB24"
     "RGB32"
+    
+p.s.2. For just opening such videos in vdub, this mod might work (untested)  
+[https://sourceforge.net/projects/vdfiltermod/](https://sourceforge.net/projects/vdfiltermod/)
