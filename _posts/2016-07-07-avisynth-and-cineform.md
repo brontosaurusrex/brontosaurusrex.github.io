@@ -11,7 +11,7 @@ It will take a while before one realizes what dlls go where, but after some pain
     b=LSMASHAudioSource("cineform.mov")
     audiodub(a,b)
     
-f*** windows.
+Using 420, since this might get transcoded into h.264.
 
 lsmash works  
 [http://forum.doom9.org/showthread.php?t=167435](http://forum.doom9.org/showthread.php?t=167435)  
