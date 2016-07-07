@@ -43,5 +43,5 @@ p.s. Other options are (from lsmash README)
     "RGB24"
     "RGB32"
     
-p.s.2. For just opening such videos in vdub, this mod might work (untested)  
+p.s.2. For just opening such videos in vdub, this vdub mod will work:
 [https://sourceforge.net/projects/vdfiltermod/](https://sourceforge.net/projects/vdfiltermod/)
