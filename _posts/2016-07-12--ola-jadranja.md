@@ -6,3 +6,4 @@ title: Šola jadranja
 ---
 [http://www.navtikon.si/sola-jadranja/](http://www.navtikon.si/sola-jadranja/)  
 [http://www.spinaker.si/prakticni-tecaji/zacetni-tecaj-jadranja/](http://www.spinaker.si/prakticni-tecaji/zacetni-tecaj-jadranja/)
+[http://www.spinaker.si/videovsebine/](http://www.spinaker.si/videovsebine) < video
