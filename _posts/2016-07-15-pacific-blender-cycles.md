@@ -8,3 +8,5 @@ title: Pacific (Blender/Cycles)
 [![worldElevation5pacifikOrtoCam8bpc.th.png](https://cdn.scrot.moe/images/2016/07/15/worldElevation5pacifikOrtoCam8bpc.th.png)](https://scrot.moe/image/i7ae)
 
 3440x1440
+
+Debate: [https://forums.bunsenlabs.org/viewtopic.php?pid=32498#p32498](https://forums.bunsenlabs.org/viewtopic.php?pid=32498#p32498)
