@@ -10,3 +10,6 @@ title: Pacific (Blender/Cycles)
 3440x1440
 
 Debate: [https://forums.bunsenlabs.org/viewtopic.php?pid=32498#p32498](https://forums.bunsenlabs.org/viewtopic.php?pid=32498#p32498)
+
+And a more classic worldmap view  
+[![worldElevation4_8bpc.th.png](https://cdn.scrot.moe/images/2016/07/17/worldElevation4_8bpc.th.png)](https://cdn.scrot.moe/images/2016/07/17/worldElevation4_8bpc.png)
