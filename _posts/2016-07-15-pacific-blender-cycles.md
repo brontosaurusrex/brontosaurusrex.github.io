@@ -12,4 +12,7 @@ title: Pacific (Blender/Cycles)
 Debate: [https://forums.bunsenlabs.org/viewtopic.php?pid=32498#p32498](https://forums.bunsenlabs.org/viewtopic.php?pid=32498#p32498)
 
 And a more classic worldmap view  
-[![worldElevation4_8bpc.th.png](https://cdn.scrot.moe/images/2016/07/17/worldElevation4_8bpc.th.png)](https://cdn.scrot.moe/images/2016/07/17/worldElevation4_8bpc.png)
+[![worldElevation4_8bpc.th.png](https://cdn.scrot.moe/images/2016/07/17/worldElevation4_8bpc.th.png)](https://cdn.scrot.moe/images/2016/07/17/worldElevation4_8bpc.png)  
+and more  
+[https://cdn.scrot.moe/images/2016/07/17/worldElevation4bfix8bpc.png](https://cdn.scrot.moe/images/2016/07/17/worldElevation4bfix8bpc.png)
+[https://cdn.scrot.moe/images/2016/07/17/worldElevation4bDetail8bpc.png](https://cdn.scrot.moe/images/2016/07/17/worldElevation4bDetail8bpc.png)
