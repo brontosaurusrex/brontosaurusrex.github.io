@@ -16,3 +16,5 @@ And a more classic worldmap view
 and more  
 [https://cdn.scrot.moe/images/2016/07/17/worldElevation4bfix8bpc.png](https://cdn.scrot.moe/images/2016/07/17/worldElevation4bfix8bpc.png)
 [https://cdn.scrot.moe/images/2016/07/17/worldElevation4bDetail8bpc.png](https://cdn.scrot.moe/images/2016/07/17/worldElevation4bDetail8bpc.png)
+
+edit: Custom elevation profile from that bitmap can be achived by using ramp operator (texture tab), for example for making elevations close, but not 0 nonlinearly larger (I'd take a screenshot, but forgot how to do that on windows and printscreen is not working...). Again drivers are no no in this case as it seems.
