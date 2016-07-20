@@ -20,4 +20,5 @@ and more
 edit: Custom elevation profile from that bitmap can be achived by using ramp operator (texture tab), for example for making elevations close, but not 0 nonlinearly larger (I'd take a screenshot, but forgot how to do that on windows and printscreen is not working...). Again drivers are no no in this case as it seems.
 
 And the one with underwater elevation  
-[![worldElevationWithOceansAsWellb_8bpc.th.png](https://scrot.moe/images/2016/07/20/worldElevationWithOceansAsWellb_8bpc.th.png)](https://scrot.moe/images/2016/07/20/worldElevationWithOceansAsWellb_8bpc.png)
+[![worldElevationWithOceansAsWellb_8bpc.th.png](https://scrot.moe/images/2016/07/20/worldElevationWithOceansAsWellb_8bpc.th.png)](https://scrot.moe/images/2016/07/20/worldElevationWithOceansAsWellb_8bpc.png)  
+[![worldElevationWithOceansAsWellc_8bpc.th.png](https://scrot.moe/images/2016/07/20/worldElevationWithOceansAsWellc_8bpc.th.png)](https://scrot.moe/images/2016/07/20/worldElevationWithOceansAsWellc_8bpc.png)
