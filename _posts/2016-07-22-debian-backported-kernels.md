@@ -8,4 +8,5 @@ title: 'Debian, backported kernels'
 
     sudo apt-get install -t jessie-backports linux-image-amd64 linux-base
     
+Note: This are so called meta-packages, so stuff should update automagically from there on.  
 When: Probably mostly if there is a hardware problem with older kernels.
