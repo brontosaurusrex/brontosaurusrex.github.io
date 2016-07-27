@@ -16,3 +16,9 @@ user
     make
     
 to be continued ...
+
+minimum example, you need to pipe something in
+
+	echo "hello" | ./lemonbar -b -p
+    
+should display a lil hello in SW.
