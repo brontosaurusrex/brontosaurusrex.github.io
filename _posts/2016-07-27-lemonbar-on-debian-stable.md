@@ -22,3 +22,9 @@ minimum example, you need to pipe something in
 	echo "hello" | ./lemonbar -b -p
     
 should display a lil hello in SW.
+
+Launcher (working, but probably not the way to go)
+
+	echo "%{A:thunar &:}  thunar  %{A}" | ./lemonbar -p |  while read line; do eval "$line"; done &
+
+	
