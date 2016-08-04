@@ -6,4 +6,4 @@ title: Elementary os on design
 ---
 [https://elementary.io/docs/human-interface-guidelines#human-interface-guidelines](https://elementary.io/docs/human-interface-guidelines#human-interface-guidelines)
 
-![]({{site.baseurl}}/https://imgs.xkcd.com/comics/manuals.png)
+![](https://imgs.xkcd.com/comics/manuals.png)
