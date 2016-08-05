@@ -9,3 +9,4 @@ title: Mandelbulber2
 and 3440x1440 with some grain and salt  
 [![crash3_3440x1440_grunge.th.jpg](https://scrot.moe/images/2016/08/05/crash3_3440x1440_grunge.th.jpg)](https://scrot.moe/images/2016/08/05/crash3_3440x1440_grunge.jpg) 
 [![crash3_3440x1440_grunge2.th.jpg](https://scrot.moe/images/2016/08/05/crash3_3440x1440_grunge2.th.jpg)](https://scrot.moe/images/2016/08/05/crash3_3440x1440_grunge2.jpg)
+[![crash3_3440x1440_grunge3cb.th.jpg](https://scrot.moe/images/2016/08/05/crash3_3440x1440_grunge3cb.th.jpg)](https://scrot.moe/images/2016/08/05/crash3_3440x1440_grunge3cb.jpg)
