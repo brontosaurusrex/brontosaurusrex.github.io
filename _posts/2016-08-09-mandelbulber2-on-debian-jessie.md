@@ -1,0 +1,11 @@
+---
+published: true
+layout: post
+date: '2016-08-09 10:49 +0200'
+title: Mandelbulber2 on Debian jessie
+---
+[https://forums.bunsenlabs.org/viewtopic.php?pid=34563#p34563](https://forums.bunsenlabs.org/viewtopic.php?pid=34563#p34563)  
+[https://software.opensuse.org/download.html?project=home%3Astevepusser%3Amandelbulber2_2.08.3&package=mandelbulber2](https://software.opensuse.org/download.html?project=home%3Astevepusser%3Amandelbulber2_2.08.3&package=mandelbulber2)  
+
+[![mandel.th.png](https://www.scrot.moe/images/2016/08/09/mandel.th.png)](https://www.scrot.moe/image/lc60)
+
