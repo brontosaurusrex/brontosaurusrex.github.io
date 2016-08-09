@@ -9,3 +9,12 @@ title: Mandelbulber2 on Debian jessie
 
 [![mandel.th.png](https://www.scrot.moe/images/2016/08/09/mandel.th.png)](https://www.scrot.moe/image/lc60)
 
+## Network rendering example (Both machines running Debian)
+
+Main GUI machine is SERVER! (and not client)  
+2nd headless machine is a CLIENT, command like  
+
+    mandelbulber2 -n -q -H i5
+    
+should do it (i5 is a hostname of the SERVER machine)
+    
