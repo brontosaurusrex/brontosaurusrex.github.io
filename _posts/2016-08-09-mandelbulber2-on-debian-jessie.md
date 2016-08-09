@@ -17,4 +17,5 @@ Main GUI machine is SERVER! (and not client)
     mandelbulber2 -n -q -H i5
     
 should do it (i5 is a hostname of the SERVER machine)
-    
+
+[![mandelsheep.th.png](https://www.scrot.moe/images/2016/08/09/mandelsheep.th.png)](https://www.scrot.moe/images/2016/08/09/mandelsheep.png)
