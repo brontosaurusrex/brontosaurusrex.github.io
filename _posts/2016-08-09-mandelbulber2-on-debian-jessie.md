@@ -20,6 +20,14 @@ should do it (i5 is a hostname of the SERVER machine)
 
 [![mandelsheep.th.png](https://www.scrot.moe/images/2016/08/09/mandelsheep.th.png)](https://www.scrot.moe/images/2016/08/09/mandelsheep.png)
 
+## Queue
+
+Can be run on the same machine as 2nd instance, like
+
+    ./mandelbulber2 -q -f png16 # optionaly put nice -19 in front
+    
+Can queue use Network rendering? (To be continued)
+    
 and some renders  
 [![delicate_v2_6880x2880_downscale_ps2.th.jpg](https://scrot.moe/images/2016/08/09/delicate_v2_6880x2880_downscale_ps2.th.jpg)](https://scrot.moe/image/ls7L)
 [![jezek_ps1.th.png](https://scrot.moe/images/2016/08/10/jezek_ps1.th.png)](https://scrot.moe/image/lti3)
