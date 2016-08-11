@@ -30,5 +30,5 @@ Can queue use Network rendering? (To be continued)
     
 and some renders  
 [![delicate_v2_6880x2880_downscale_ps2.th.jpg](https://scrot.moe/images/2016/08/09/delicate_v2_6880x2880_downscale_ps2.th.jpg)](https://scrot.moe/image/ls7L)  
-[url=https://scrot.moe/image/7Mo6][img]https://scrot.moe/images/2016/08/11/delicate_v2_13760x5760_downscale_ps1.th.jpg[/img][/url]  
+[![delicate_v2_13760x5760_downscale_ps1.th.jpg](https://scrot.moe/images/2016/08/11/delicate_v2_13760x5760_downscale_ps1.th.jpg)](https://scrot.moe/image/7Mo6)    
 [![jezek_ps1.th.png](https://scrot.moe/images/2016/08/10/jezek_ps1.th.png)](https://scrot.moe/image/lti3)
