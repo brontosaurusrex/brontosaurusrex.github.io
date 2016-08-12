@@ -25,8 +25,11 @@ should do it (i5 is a hostname of the SERVER machine)
 Can be run on the same machine as 2nd instance, like
 
     ./mandelbulber2 -q -f png16 # optionaly put nice -19 in front
-    
-Can queue use Network rendering? (To be continued)
+
+## Questions
+
+1. Can queue use Network rendering? (To be continued)  
+1. Any nice tricks to store/read mandelbulber setting into image (png and jpg) itself? (exiftool perhaps?)
     
 ## Renders 
 [![delicate_v2_6880x2880_downscale_ps2.th.jpg](https://scrot.moe/images/2016/08/09/delicate_v2_6880x2880_downscale_ps2.th.jpg)](https://scrot.moe/image/ls7L)
