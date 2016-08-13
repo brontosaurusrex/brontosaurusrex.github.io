@@ -13,4 +13,8 @@ This
 
     mpv -fs https://dl.dropboxusercontent.com/u/94597638/slitherProProb.mp4 --audio-file="$(youtube-dl -f 140 -g https://www.youtube.com/watch?v=YknlWO9Lqvc)"
     
-will play both (youtube-dl used for resolving url), but -start command will start both track delayed.
+will play both (youtube-dl used for resolving url), but -start command will start both track delayed. And  
+
+    --audio-delay=<sec> 
+    
+is not working as expected.
