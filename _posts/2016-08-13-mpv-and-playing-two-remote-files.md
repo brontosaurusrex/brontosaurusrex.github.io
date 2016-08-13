@@ -18,3 +18,8 @@ will play both (youtube-dl used for resolving url), but -start command will star
     --audio-delay=<sec> 
     
 is not working as expected.
+
+Playing with fps to force video to be shorter and limiting the length 
+
+    mpv -fps 100 --no-correct-pts --length 180 -fs https://dl.dropboxusercontent.com/u/94597638/slitherProProb.mp4 --audio-file="$(youtube-dl -f 140 -g https://www.youtube.com/watch?v=YknlWO9Lqvc)"
+Playing: https://dl.dropboxusercontent.com/u/94597638/slitherProProb.mp4
