@@ -14,4 +14,4 @@ from: [http://unix.stackexchange.com/questions/284617/how-to-switch-arch-linux-t
 
 (Mostly to remove the virtualbox/dkms related breakdowns)
 
-
+[![archLTS.th.png](https://scrot.moe/images/2016/08/14/archLTS.th.png)](https://scrot.moe/images/2016/08/14/archLTS.png)
