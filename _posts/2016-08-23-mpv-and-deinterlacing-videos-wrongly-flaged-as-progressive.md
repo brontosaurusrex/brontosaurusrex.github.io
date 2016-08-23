@@ -15,8 +15,6 @@ should do the magic, but you actually need
     
 ## root
 
-The problem actually starts with ffmpeg, which will not detect interlaced cineform stuff as interlaced, workaround is to force interlaced prores transcoding like this
+The problem actually starts with ffmpeg, which will not detect interlaced cineform stuff as interlaced (my toPRORES script will encode that as progressive), workaround is to force interlaced prores transcoding like this
 
     ffmpeg -i in.mov -vf "setfield=tff, fieldorder=tff, scale=1920:1080" -c:v prores -profile:v 3 -pix_fmt yuv422p10le -acodec pcm_s16le out.mov
-    
-but not sure if scale=1920:1080 part is actually aware of the interlaced input (in most cases this is only vertical scaling, so it should not matter anyway..).
