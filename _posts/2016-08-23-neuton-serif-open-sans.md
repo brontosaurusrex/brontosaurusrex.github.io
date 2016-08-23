@@ -9,4 +9,6 @@ title: Neuton serif + open sans
 ![OswaldNeuton.PNG]({{site.baseurl}}/media/OswaldNeuton.PNG)
 
 p.s. popular  
-[https://fonts.google.com/?sort=popularity](https://fonts.google.com/?sort=popularity)
+[https://fonts.google.com/?sort=popularity](https://fonts.google.com/?sort=popularity)  
+Amatic+SC  
+[https://fonts.google.com/specimen/Amatic+SC](https://fonts.google.com/specimen/Amatic+SC)
