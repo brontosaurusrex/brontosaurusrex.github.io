@@ -4,7 +4,7 @@ layout: post
 date: '2016-08-23 23:17 +0200'
 title: text titles & linux
 ---
-1. Do a lyx/tex template ... (In correct proportions, not sure if pixels are a valid unit at all), also kerning is poor in anything non-english (using non-latex fonts < edit: perhaps one should get a latin-extended font from google fonts) as it seems
+1. Do a lyx/tex template ... (In correct proportions, not sure if pixels are a valid unit at all), also kerning is poor in anything non-english (using non-latex fonts) as it seems
 1. export as pdf
 1. convert +antialias -density 1200 that.pdf that.png # +antialias = disable antialias, and density 1200 should produce a huge file
 1. gimp that.png (or use convert again) with some blur + downsize to wanted size
