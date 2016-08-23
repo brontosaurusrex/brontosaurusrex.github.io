@@ -9,7 +9,7 @@ title: text titles & linux
 1. convert +antialias -density 1200 that.pdf that.png # +antialias = disable antialias, and density 1200 should produce a huge file
 1. gimp that.png (or use convert again) with some blur + downsize to wanted size
 
-tex template should have better command line handling value + I can ignore inkscape then.
+Tex template should have better command line handling value + I can ignore inkscape then.
 
 Example (but this was not blured, neither density was set high)  
 [![newfile2downsized_fill.th.png](https://cdn.scrot.moe/images/2016/08/23/newfile2downsized_fill.th.png)](https://cdn.scrot.moe/images/2016/08/23/newfile2downsized_fill.png)
