@@ -20,4 +20,8 @@ More about pipes
 
 > Most of the programs up until that time couldn't take standard input, because there wasn't the real need. They had file arguments. grep had a file argument, cat had a file argument. Thompson saw that that wasn't going to fit into this scheme of things, and he went in and changed all those programs in the same night. I don't know how. In the next morning we had this orgy of 'one-liners.' Everybody had one-liner. 'Look at this, look at that.'
 
+grep
+
+> One afternoon I asked Ken Thompson if he could lift the regular expression recognizer out of the editor and make a one-pass program to do it. He said yes. The next morning I found a note in my mail announcing a program named grep.
+
 
