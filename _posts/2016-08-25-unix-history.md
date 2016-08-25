@@ -10,7 +10,7 @@ title: Unix history
 
 > Thompson made it clear that there were certain aspects of the file system on the Multics project that he would have liked to see happen, but which were never implemented. A major example is "treating files and devices the same... having the same read calls." This meant that terminals would input and output data in the same format that mainframes did, leveling the playing field between users on different computers.
 
-> The idea of standard input and output for devices eventually found its way into Unix as pipes. Pipes enabled users and programmers to send one function's output into another function by simply placing a vertical line, a '|' between the two functions.
+> The idea of standard input and output for devices eventually found its way into Unix as pipes. Pipes enabled users and programmers to send one function's output into another function by simply placing a vertical line, a &#124; between the two functions.
 
 > This concept of building tools for one's own benefit, and adapting them to fit the needs of the group also stood out in Thompson's interview, as he explained his motivations for working on Unix. "I was more interested in myself. Just selfish notions of trying to get a environment to work in."
 
