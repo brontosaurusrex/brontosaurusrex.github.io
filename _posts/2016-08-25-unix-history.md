@@ -34,7 +34,7 @@ grep
 
 > One afternoon I asked Ken Thompson if he could lift the regular expression recognizer out of the editor and make a one-pass program to do it. He said yes. The next morning I found a note in my mail announcing a program named grep.
 
-Little languages (scripting languages)
+Little languages
 
 > According to the broad definition given by Kernighan, software tools such as eqn, tbl, and make can be considered little languages. Scripting languages are also little languages because they simplify tasks that would otherwise become complex under a full-scale language such as C.
 
