@@ -24,7 +24,7 @@ grep
 
 > One afternoon I asked Ken Thompson if he could lift the regular expression recognizer out of the editor and make a one-pass program to do it. He said yes. The next morning I found a note in my mail announcing a program named grep.
 
-Portability also assumes it should run on less powerfull hardware
+Portability (Also bringing up higher level language C and ditching assembler) also assumes it should run on less powerfull hardware
 
 > Unix came into many CS departments largely because it was the only powerful interactive system that could run on the sort of hardware (PDP-11s) that universities could afford in the mid '70s. In addition, Unix itself was also very inexpensive. Since source code was provided, it was a system that could be shaped to the requirements of a particular installation. It was written in a language considerably more attractive than assembly, and it was small enough to be studied and understood by individuals. (John Stoneback, "The Collegiate Community," Unix Review, October 1985, p. 27.)
 
