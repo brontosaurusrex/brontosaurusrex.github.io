@@ -16,4 +16,8 @@ title: Unix history
 
 > The basic construction of the compiler, of the co-generator for the compiler, was based on an idea that I heard about from someone at the Labs at Indian Hill — I never actually did find and read the thesis, but I had the ideas in it explained to me so that the co-generator for NB was... based on this Ph.D. thesis.
 
+More about pipes
+
+> Most of the programs up until that time couldn't take standard input, because there wasn't the real need. They had file arguments. grep had a file argument, cat had a file argument. Thompson saw that that wasn't going to fit into this scheme of things, and he went in and changed all those programs in the same night. I don't know how. In the next morning we had this orgy of 'one-liners.' Everybody had one-liner. 'Look at this, look at that.'
+
 
