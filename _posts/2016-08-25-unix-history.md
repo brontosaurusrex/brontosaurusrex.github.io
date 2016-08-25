@@ -14,4 +14,6 @@ title: Unix history
 
 > This concept of building tools for one's own benefit, and adapting them to fit the needs of the group also stood out in Thompson's interview, as he explained his motivations for working on Unix. "I was more interested in myself. Just selfish notions of trying to get a environment to work in."
 
+> The basic construction of the compiler, of the co-generator for the compiler, was based on an idea that I heard about from someone at the Labs at Indian Hill — I never actually did find and read the thesis, but I had the ideas in it explained to me so that the co-generator for NB was... based on this Ph.D. thesis.
+
 
