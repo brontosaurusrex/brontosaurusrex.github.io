@@ -6,4 +6,6 @@ title: Magic background color
 ---
     
     #315666
+    
+![315666.png]({{site.baseurl}}/media/315666.png)
 
