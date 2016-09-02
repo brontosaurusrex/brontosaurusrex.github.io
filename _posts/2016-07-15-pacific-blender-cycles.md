@@ -6,7 +6,7 @@ title: Pacific (Blender/Cycles)
 ---
 winner
 [![worldElevation5pacifik8bpc.th.png](https://cdn.scrot.moe/images/2016/07/15/worldElevation5pacifik8bpc.th.png)](https://cdn.scrot.moe/images/2016/07/15/worldElevation5pacifik8bpc.png)
-[![worldElevation5pacifikInfraredBlue8bpc.th.png](https://cdn.scrot.moe/images/2016/09/02/worldElevation5pacifikInfraredBlue8bpc.th.png)](https://scrot.moe/image/CBCz)
+[![worldElevation5pacifikInfraredBlue8bpc.th.png](https://cdn.scrot.moe/images/2016/09/02/worldElevation5pacifikInfraredBlue8bpc.th.png)](https://cdn.scrot.moe/images/2016/09/02/worldElevation5pacifikInfraredBlue8bpc.png)
 [![worldElevation5pacifikOrtoCam8bpc.th.png](https://cdn.scrot.moe/images/2016/07/15/worldElevation5pacifikOrtoCam8bpc.th.png)](https://cdn.scrot.moe/images/2016/07/15/worldElevation5pacifikOrtoCam8bpc.png)
 
 3440x1440
