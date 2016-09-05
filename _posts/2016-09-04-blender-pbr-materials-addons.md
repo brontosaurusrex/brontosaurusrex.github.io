@@ -17,3 +17,6 @@ Another PBR shader
 
 Theory (Andrew Price)  
 [https://www.youtube.com/watch?v=V3wghbZ-Vh4](https://www.youtube.com/watch?v=V3wghbZ-Vh4)
+
+PBR ENCYCLOPEDIA  
+[https://docs.google.com/document/d/1Fb9_KgCo0noxROKN4iT8ntTbx913e-t4Wc2nMRWPzNk/edit](https://docs.google.com/document/d/1Fb9_KgCo0noxROKN4iT8ntTbx913e-t4Wc2nMRWPzNk/edit)
