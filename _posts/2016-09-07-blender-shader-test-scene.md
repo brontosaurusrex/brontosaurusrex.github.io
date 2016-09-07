@@ -6,7 +6,7 @@ title: Blender shader test scene
 ---
 ![Dragon material test]({{site.baseurl}}/media/materialTestSceneDragonThumb1.png)
 
-Introducing Stanford Asian Dragon, faces reduced to around 350.000 to make it renderable.
+Introducing [Stanford Asian Dragon](http://graphics.stanford.edu/data/3Dscanrep/), faces reduced to around 350.000 to make it renderable.
 
 [download asian_dragon_hires.blend.zip]({{site.baseurl}}/blends/asian_dragon_hires.blend.zip)
 
