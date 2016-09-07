@@ -12,4 +12,4 @@ Introducing [Stanford Asian Dragon](http://graphics.stanford.edu/data/3Dscanrep/
 
 test renders (3440x1440)
 [![dragonMetalic_ps2.th.png](https://cdn.scrot.moe/images/2016/09/07/dragonMetalic_ps2.th.png)](https://cdn.scrot.moe/images/2016/09/07/dragonMetalic_ps2.png)
-[![dragonPlastic_ps2.th.png](https://cdn.scrot.moe/images/2016/09/07/dragonPlastic_ps2.th.png)](https://scrot.moe/image/N0Sn)
+[![dragonPlastic_ps2.th.png](https://cdn.scrot.moe/images/2016/09/07/dragonPlastic_ps2.th.png)](https://cdn.scrot.moe/images/2016/09/07/dragonPlastic_ps2.png)
