@@ -9,3 +9,5 @@ title: Blender shader test scene
 While Blender Suzy is a fine monkey, might just not be good enough for shader testing. Introducing Stanford Asian Dragon, faces reduced to around 350.000 to make it renderable.
 
 [blends/asian_dragon_hires.blend.zip]({{site.baseurl}}/blends/asian_dragon_hires.blend.zip)
+
+edit: Possible improvements: Bake [1 milinon](http://blender.stackexchange.com/questions/14975/baking-normals-from-high-to-low-poly-mesh-for-game-object) model into normal map and apply that to 350k model.
