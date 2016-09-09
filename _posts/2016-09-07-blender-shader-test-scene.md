@@ -7,10 +7,8 @@ title: Blender shader test scene
 Introducing [Stanford Asian Dragon](http://graphics.stanford.edu/data/3Dscanrep/), faces reduced to around 350.000 to make it renderable.
 
 Download  
-[asian_dragon.blend]({{site.baseurl}}/blends/asian_dragon_hires.blend.zip) < recommended  
-[asian_dragon_shadowCatch.blend]({{site.baseurl}}/blends/asian_dragon_hires_shadowCatch.blend.zip) < with shadow catching compositing node (not recommended)
-
-Edit: Shadow catcher ignores HDRI shadows at the moment
+[asian_dragon.blend]({{site.baseurl}}/blends/asian_dragon_hires.blend.zip) < simple
+[asian_dragon_shadowCatch.blend]({{site.baseurl}}/blends/asian_dragon_hires_shadowCatch.blend.zip) < with shadow catching compositing node 
 
 ![asian_dragon_brontosaurusrex3.png]({{site.baseurl}}/media/asian_dragon_brontosaurusrex3.png)
 
