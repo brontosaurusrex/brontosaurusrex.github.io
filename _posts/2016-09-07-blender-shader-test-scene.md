@@ -10,7 +10,7 @@ Download
 [asian_dragon.blend]({{site.baseurl}}/blends/asian_dragon_hires.blend.zip) < recommended  
 [asian_dragon_shadowCatch.blend]({{site.baseurl}}/blends/asian_dragon_hires_shadowCatch.blend.zip) < with shadow catching compositing node (not recommended)
 
-Edit: Shadow catcher ignores hdri shadows at the moment
+Edit: Shadow catcher ignores HDRI shadows at the moment
 
 ![asian_dragon_brontosaurusrex3.png]({{site.baseurl}}/media/asian_dragon_brontosaurusrex3.png)
 
