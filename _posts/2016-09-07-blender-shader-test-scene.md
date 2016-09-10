@@ -18,4 +18,4 @@ Introducing [Stanford Asian Dragon](http://graphics.stanford.edu/data/3Dscanrep/
 
 ## Substance painter experiment
 [![asian_dragon_substanceMachineLayout.th.png](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMachineLayout.th.png)](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMachineLayout.png)  
-(Reduces poligons even more, smoothed, quick UV unwrap, export as obj, load in Substance Painter ..., export textures, import those into blender, and the image is showing a "simple" material node)
+(Reduces poligons even more, smoothed, quick UV unwrap, export as obj, load in Substance Painter ..., export textures, import those into Blender, and the image is showing a "simple" material node)
