@@ -11,7 +11,7 @@ Introducing [Stanford Asian Dragon](http://graphics.stanford.edu/data/3Dscanrep/
 [asian_dragon_shadowCatch.blend]({{site.baseurl}}/blends/asian_dragon_hires_shadowCatch.blend.zip) < with [quasi shadow catching](https://cdn.scrot.moe/images/2016/09/09/quasiShadowCatcher.jpg) compositing node
 
 ## Shadow catcher (Compositing nodes)
-It turns out that shadow catcher is much easier to control by just using black and white levels of the RGB-curves node (a.), but one has to move the box-mask (b.) to the right.
+It turns out that shadow catcher is much easier to control by just using black and white levels of the RGB-curves node (a.) or a color-ramp (even better), but one has to move the box-mask (b.) to the right.
 ![shadowCatcherFix.jpg]({{site.baseurl}}/media/shadowCatcherFix.jpg)
 
 ## Test renders (3440x1440)
