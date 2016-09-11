@@ -19,10 +19,8 @@ It turns out that shadow catcher is much easier to control by just using black a
 [![dragonPlastic_ps2.th.png](https://cdn.scrot.moe/images/2016/09/07/dragonPlastic_ps2.th.png)](https://cdn.scrot.moe/images/2016/09/07/dragonPlastic_ps2.png)
 
 ## Substance painter experiment
-Reduced poligons even more, smoothed, quick UV unwrap, export as obj, load in Substance Painter ..., export textures, import those into Blender, and the image is showing a "simple" material node. Now the car-paint has no roughnes input, so the render is kinda wrong. p.s. And the metal mix part doesn't do anything in this case.  
+[Reduced poligons](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMachine3_ps1.png) even more, smoothed, quick UV unwrap, export as obj, load in Substance Painter ..., export textures, import those into Blender, and the image is showing a "simple" material node. Now the car-paint has no roughnes input, so the render is kinda wrong. p.s. And the metal mix part doesn't do anything in this case.  
 [![asian_dragon_substanceMachineLayout.th.png](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMachineLayout.th.png)](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMachineLayout.png)  
-[https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMachine3_ps1.png](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMachine3_ps1.png)
 
-Another one (metal node that is probably more correct in the PBR sense)  
+[Another one](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMetal_ps1.png) (metal node that is probably more correct in the PBR sense)  
 [![asian_dragon_substanceMetalLayout.th.png](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMetalLayout.th.png)](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMetalLayout.png)  
-https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMetal_ps1.png
