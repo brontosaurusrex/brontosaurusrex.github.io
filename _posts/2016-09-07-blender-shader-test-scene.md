@@ -24,4 +24,7 @@ It turns out that shadow catcher is much easier to control by just using black a
 [![asian_dragon_substanceMachineLayout.th.png](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMachineLayout.th.png)](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMachineLayout.png)  
 
 [Another one](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMetal_ps1.png) (metal node that is probably more correct in the PBR sense)  
-[![asian_dragon_substanceMetalLayout.th.png](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMetalLayout.th.png)](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMetalLayout.png)  
+[![asian_dragon_substanceMetalLayout.th.png](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMetalLayout.th.png)](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMetalLayout.png)
+
+And [one more](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMetal_2_ps1.png), using [some](http://www.blackhartfilms.com/blog/a-simple-pbr-shader-nodegroup-in-blender-3d) Substance PBR node (wrong, but interesting)  
+[![substance.th.jpg](https://cdn.scrot.moe/images/2016/09/11/substance.th.jpg)](https://cdn.scrot.moe/images/2016/09/11/substance.jpg)
