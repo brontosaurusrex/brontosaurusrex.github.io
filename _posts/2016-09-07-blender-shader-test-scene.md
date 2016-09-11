@@ -17,6 +17,7 @@ It turns out that shadow catcher is much easier to control by just using black a
 ## Test renders (3440x1440)
 [![dragonMetalic_ps2.th.png](https://cdn.scrot.moe/images/2016/09/07/dragonMetalic_ps2.th.png)](https://cdn.scrot.moe/images/2016/09/07/dragonMetalic_ps2.png)
 [![dragonPlastic_ps2.th.png](https://cdn.scrot.moe/images/2016/09/07/dragonPlastic_ps2.th.png)](https://cdn.scrot.moe/images/2016/09/07/dragonPlastic_ps2.png)
+[![asian_dragon_brontosaurusrex4blurShadow_fullRes_alpha_ps2.th.png](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_brontosaurusrex4blurShadow_fullRes_alpha_ps2.th.png)](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_brontosaurusrex4blurShadow_fullRes_alpha_ps2.png)
 
 ## Substance painter experiment
 [Reduced poligons](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMachine3_ps1.png) even more, smoothed, quick UV unwrap, export as obj, load in Substance Painter ..., export textures, import those into Blender, and the image is showing a "simple" material node. Now the car-paint has no roughnes input, so the render is kinda wrong. p.s. And the metal mix part doesn't do anything in this case.  
