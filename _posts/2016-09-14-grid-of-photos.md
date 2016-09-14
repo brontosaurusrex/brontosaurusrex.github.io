@@ -7,4 +7,4 @@ title: Grid of photos
 
     montage *.jpg logo: -geometry 400x800+5+5 -tile 5x5 tile.png
     
-
+[http://www.imagemagick.org/Usage/montage/](http://www.imagemagick.org/Usage/montage/)
