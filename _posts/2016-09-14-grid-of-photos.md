@@ -1,0 +1,10 @@
+---
+published: true
+layout: post
+date: '2016-09-14 11:00 +0200'
+title: Grid of photos
+---
+
+    montage *.jpg logo: -geometry 400x800+5+5 -tile 5x5 tile.png
+    
+
