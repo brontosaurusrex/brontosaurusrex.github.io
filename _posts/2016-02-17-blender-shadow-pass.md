@@ -17,7 +17,7 @@ Make a compositing node like this
 1. optional node to control shadow intensity 
 2. here you can plug your custom background
 
-Example scene 
+Example scene  
 [shadow_pass.blend.zip](/blends/shadow_pass.blend.zip)  
 and compositing node group scene  
 [shadowCatcherGroup.blend.zip](/blends/shadowCatcherGroup.blend.zip)
