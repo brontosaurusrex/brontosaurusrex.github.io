@@ -6,4 +6,4 @@ title: New FreeType font rendering for Debian jessie
 ---
 [https://forums.bunsenlabs.org/viewtopic.php?id=2753](https://forums.bunsenlabs.org/viewtopic.php?id=2753)
 
-I set the hinting to full (in ~/.config/fontconfig/fonts.conf).
+I set the hinting to _hintfull_ (in ~/.config/fontconfig/fonts.conf).
