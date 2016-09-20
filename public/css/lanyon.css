@@ -586,3 +586,9 @@ input[type="text"] {
 }
 
 
+/* image max width bronto */
+
+img {
+    max-width: 720px;
+}
+
