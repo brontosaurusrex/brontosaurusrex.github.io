@@ -11,9 +11,9 @@ Hair (looks the same as in 2.77)
 To test : Archimesh  
 [https://www.youtube.com/watch?v=fxIoDvJHl3Q](https://www.youtube.com/watch?v=fxIoDvJHl3Q)  
 [https://www.youtube.com/playlist?list=PLQAfj95MdhTJ7zifNb5ab-n-TI0GmKwWQ](https://www.youtube.com/playlist?list=PLQAfj95MdhTJ7zifNb5ab-n-TI0GmKwWQ)  
-Not a clue on how to use draw-on-surface thingy  
+Draw-on-surface thingy  
 [https://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.78/Modelling](https://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.78/Modelling)
-Edit: Ok, you have to start with "Create bezier" or something and then jump to edit mode and then ...
+You have to start with "Create bezier" or something and then jump to edit mode and then T options ...
 [![drawWacom.th.png](https://cdn.scrot.moe/images/2016/10/03/drawWacom.th.png)](https://cdn.scrot.moe/images/2016/10/03/drawWacom.png)
 Sapling addon (improved)  
 [![sapling.th.png](https://cdn.scrot.moe/images/2016/10/03/sapling.th.png)](https://www.scrot.moe/image/R26j)
