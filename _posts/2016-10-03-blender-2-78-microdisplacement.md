@@ -11,3 +11,5 @@ Hair (looks the same as in 2.77)
 To test : Archimesh  
 [https://www.youtube.com/watch?v=fxIoDvJHl3Q](https://www.youtube.com/watch?v=fxIoDvJHl3Q)  
 [https://www.youtube.com/playlist?list=PLQAfj95MdhTJ7zifNb5ab-n-TI0GmKwWQ](https://www.youtube.com/playlist?list=PLQAfj95MdhTJ7zifNb5ab-n-TI0GmKwWQ)  
+Not a clue on how to use draw-on-surface thingy  
+[https://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.78/Modelling](https://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.78/Modelling)
