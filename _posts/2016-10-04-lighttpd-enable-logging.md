@@ -4,16 +4,8 @@ layout: post
 date: '2016-10-04 10:07 +0200'
 title: lighttpd enable logging
 ---
-    sudo lighttpd-enable-mod accesslog
-    
-and by default it should show up in /var/log/lighttpd/access.log
-
-Other interesting mods are dir-listing and userdir (see /etc/lighttpd/conf-*)
-
-
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -88,3 +80,9 @@ Other interesting mods are dir-listing and userdir (see /etc/lighttpd/conf-*)
      sodipodi:nodetypes="cccc"
      inkscape:connector-curvature="0" />
 </svg>
+
+    sudo lighttpd-enable-mod accesslog
+    
+and by default it should show up in /var/log/lighttpd/access.log
+
+Other interesting mods are dir-listing and userdir (see /etc/lighttpd/conf-*)
