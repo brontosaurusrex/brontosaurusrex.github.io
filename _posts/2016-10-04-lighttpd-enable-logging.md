@@ -8,3 +8,5 @@ title: lighttpd enable logging
     
 and by default it should show up in /var/log/lighttpd/access.log
 
+Other interesting mods are dir-listing and userdir (see /etc/lighttpd/conf-*)
+
