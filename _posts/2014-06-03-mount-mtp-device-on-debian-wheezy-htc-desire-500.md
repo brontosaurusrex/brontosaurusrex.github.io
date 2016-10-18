@@ -49,3 +49,7 @@ and an unrelated scrot of mint17 in action
 Problems?
 
 > CHECK: that the usb cable you are using is one that is used for transferring data and not just one for charging the device! Some cheap tablets and mobiles for instance only have a charging cable! To the uninitiated, they both look the same!
+
+Note
+
+The performance is "catastrophic", so you better know in advance where your files are (An Android file-manager like ES file explorer is your friend.
