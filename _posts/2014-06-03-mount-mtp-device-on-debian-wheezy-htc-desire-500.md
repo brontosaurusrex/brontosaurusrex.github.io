@@ -54,4 +54,4 @@ Also on this specific phone one must enable development/usb debugging.
 
 Note
 
-The performance is "catastrophic", so you better know in advance where your files are (An Android file-manager like ES file explorer is your friend.
+The performance is "catastrophic", so you better know in advance where your files are. An Android file-manager like ES file explorer is your friend.
