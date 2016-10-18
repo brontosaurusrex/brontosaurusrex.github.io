@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: 2014-06-03T21:05:39.000Z
+date: '2016-10-18 10:25 +0200'
 id: 3214
 title: mount mtp device on Debian wheezy/jessie (htc desire 500)
 author: bronto saurus
