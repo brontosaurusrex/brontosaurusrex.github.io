@@ -1,10 +1,11 @@
 ---
-id: 3214
-title: mount mtp device on Debian wheezy (htc desire 500)
-date: 2014-06-03T21:05:39+00:00
-author: bronto saurus
+published: true
 layout: post
-guid: http://b.pwnz.org/?p=3214
+date: 2014-06-03T21:05:39.000Z
+id: 3214
+title: mount mtp device on Debian wheezy/jessie (htc desire 500)
+author: bronto saurus
+guid: 'http://b.pwnz.org/?p=3214'
 permalink: /2014/06/mount-mtp-device-on-debian-wheezy-htc-desire-500/
 categories:
   - Uncategorized
@@ -44,3 +45,7 @@ fi
 and an unrelated scrot of mint17 in action
   
 [<img src="http://shrani.si/t/3N/Fz/3yep5fFy/htc.jpg" style="border: 0px;" alt="Shrani.si" />](http://shrani.si/f/3N/Fz/3yep5fFy/htc.png)
+
+Problems?
+
+> CHECK: that the usb cable you are using is one that is used for transferring data and not just one for charging the device! Some cheap tablets and mobiles for instance only have a charging cable! To the uninitiated, they both look the same!
