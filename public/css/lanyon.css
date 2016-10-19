@@ -133,7 +133,7 @@ img {
     overflow: visible;
   }
   
-@media screen and (max-width: 48rem) {
+@media screen and (max-width: 600px) {
 
     .brontologo {
 
