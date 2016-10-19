@@ -114,10 +114,18 @@ h1, h2, h3, h4, h5, h6 {
   color: #c0c0c0;
   letter-spacing: 0;
 }
+
+/* image max width bronto */
+
+img {
+    max-width: 720px;
+}
+
+
 .brontologo {
     margin: auto; 
     width: 850px;
-
+    max-width: 100%;
     margin-top:     -5rem;
     margin-bottom:   0rem;
     z-index: -10;
@@ -125,15 +133,23 @@ h1, h2, h3, h4, h5, h6 {
     overflow: visible;
   }
   
+@media screen and (max-width: 48rem) {
+
+    .brontologo {
+
+    visibility: hidden;
+    display: none;
+  }
+
+
+}
+  
   
 @media (max-width: 48rem) {
   .masthead-title {
     text-align: center;
   }
   .masthead-title small {
-    display: none;
-  }
-    .brontologo {
     display: none;
   }
 
@@ -588,9 +604,4 @@ input[type="text"] {
 }
 
 
-/* image max width bronto */
-
-img {
-    max-width: 720px;
-}
 
