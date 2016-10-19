@@ -121,6 +121,8 @@ h1, h2, h3, h4, h5, h6 {
     margin-top:     -5rem;
     margin-bottom:   0rem;
     z-index: -10;
+    
+    overflow: visible;
   }
   
   
@@ -132,11 +134,7 @@ h1, h2, h3, h4, h5, h6 {
     display: none;
   }
     .brontologo {
-    margin: auto; 
-    max-width: 90%;
-    margin-top:     -5rem;
-    margin-bottom:   0rem;
-    z-index: -10;
+    display: none;
   }
 
 }
