@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #c0c0c0;
   letter-spacing: 0;
 }
-  .brontologo {
+.brontologo {
     margin: auto; 
     width: 850px;
     max-width: 90%;
@@ -123,6 +123,9 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom:   0rem;
     z-index: -10;
   }
+  
+  
+
 
 @media (max-width: 48rem) {
   .masthead-title {
@@ -131,7 +134,9 @@ h1, h2, h3, h4, h5, h6 {
   .masthead-title small {
     display: none;
   }
-
+  .brontologo {
+	display: none;
+  }  
 }
 
 
