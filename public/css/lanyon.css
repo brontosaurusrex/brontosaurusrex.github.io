@@ -38,8 +38,7 @@
 html,
 body {
     overflow-x: hidden;
-   /* background-image: url("/public/bright.png");
-    background-repeat: repeat; */
+
 } 
 
 html {
@@ -125,8 +124,6 @@ h1, h2, h3, h4, h5, h6 {
   }
   
   
-
-
 @media (max-width: 48rem) {
   .masthead-title {
     text-align: center;
@@ -134,9 +131,7 @@ h1, h2, h3, h4, h5, h6 {
   .masthead-title small {
     display: none;
   }
-  .brontologo {
-	display: none;
-  }  
+
 }
 
 
