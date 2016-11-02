@@ -8,7 +8,7 @@ title: Newest lighttpd in Debian Jessie
 
 ![](https://cdn.scrot.moe/images/2016/11/02/lighttpd_crop.png)
 
-And with some custom dirlist.css
+And with some custom dirlist.css (put in default server root, like /var/www/html)
 
     @import url(http://fonts.googleapis.com/css?family=Raleway:200,400,600);
     body, html { background: #EEE; margin:0; }
@@ -27,6 +27,11 @@ And with some custom dirlist.css
     a:hover { color: #000000; }
     
 modified version of [this](https://redmine.lighttpd.net/boards/3/topics/5418).
+
+And add to the lighttpd.conf (/etc/lighttpd/lighttpd.conf)
+
+    # alternative dirlisting css https://redmine.lighttpd.net/boards/3/topics/5418
+    dir-listing.external-css    = "/dirlist.css"
 
 ![](https://cdn.scrot.moe/images/2016/11/02/lighttpdDirlistCustom.png)
 
