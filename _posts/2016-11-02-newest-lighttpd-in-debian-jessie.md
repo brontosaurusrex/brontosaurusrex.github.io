@@ -19,14 +19,17 @@ And with some custom dirlist.css (put in default server root, like /var/www/html
     div.list { background: #EEE; padding: 20px 35px; }
     div.foot { color: #777; margin-top: 15px; padding: 20px 35px; }
     
-    td { padding: 0 20px; line-height: 35px; }
-    tr:hover { background: #EEE; }
+    td { padding: 0 20px; line-height: 35px; white-space: nowrap; }
     
-    a { color: #111111; text-decoration: none; }
+    tr:hover { background: #fff; }
+    
+    a { color: #111111; text-decoration: none; display: inline-block; width: 100%;  }
     a:visited { color: #666666; }
     a:hover { color: #000000; }
     
-modified version of [this](https://redmine.lighttpd.net/boards/3/topics/5418).
+    td a { min-width: 300px; }
+    
+(modified version of [this](https://redmine.lighttpd.net/boards/3/topics/5418)).
 
 And add to the lighttpd.conf (/etc/lighttpd/lighttpd.conf)
 
@@ -36,5 +39,3 @@ And add to the lighttpd.conf (/etc/lighttpd/lighttpd.conf)
 You get something pretty like
 
 ![](https://cdn.scrot.moe/images/2016/11/02/lighttpdDirlistCustom.png)
-
-
