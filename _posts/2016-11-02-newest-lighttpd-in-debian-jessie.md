@@ -7,3 +7,25 @@ title: Newest lighttpd in Debian Jessie
 [https://debian.lighttpd.net/](https://debian.lighttpd.net/) < repo (All i wanted was client-side sort-by-date option in dirlist.)
 
 ![](https://cdn.scrot.moe/images/2016/11/02/lighttpd_crop.png)
+
+And with some custom dirlist.css
+
+    @import url(http://fonts.googleapis.com/css?family=Raleway:200,400,600);
+    body, html { background: #EEE; margin:0; }
+    html { font: 18px/1.4 Raleway, 'Helvetica Neue', Helvetica, sans-serif; color: #2B2B2B; font-weight: 400; }
+    
+    h2 { font-weight: 200; font-size: 45px; margin: 20px 35px; }
+    
+    div.list { background: #EEE; padding: 20px 35px; }
+    div.foot { color: #777; margin-top: 15px; padding: 20px 35px; }
+    
+    td { padding: 0 20px; line-height: 35px; }
+    tr:hover { background: #EEE; }
+    
+    a { color: #111111; text-decoration: none; }
+    a:visited { color: #666666; }
+    a:hover { color: #000000; }
+    
+modified version of [this](https://redmine.lighttpd.net/boards/3/topics/5418).
+
+
