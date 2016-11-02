@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2016-10-18 12:15 +0200'
+date: '2016-11-02 12:05 +0200'
 id: 3469
 title: cut parts of video on linux (mpv player + ffmpeg)
 author: bronto saurus
