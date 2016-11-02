@@ -4,7 +4,7 @@ layout: post
 date: '2016-11-02 16:02 +0100'
 title: Newest lighttpd in Debian Jessie
 ---
-[https://debian.lighttpd.net/](https://debian.lighttpd.net/) < repo (All i wanted was client-side sort-by-date option in dirlist.)
+[https://debian.lighttpd.net/](https://debian.lighttpd.net/) < repo (All i wanted was client-side sort-by-date option in [dirlist](https://redmine.lighttpd.net/projects/lighttpd/wiki/Docs_ModDirlisting).)
 
 And with some custom dirlist.css (put in default server root, like /var/www/html)
 
