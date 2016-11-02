@@ -32,6 +32,5 @@ b. use ffmpeg to cut the video
 
 <pre>ffmpeg -i input.mp4 -ss 00:01:45.480 -to 00:01:46.606 (video,audio codec parameters here) part.mp4</pre>
 
-slightly related:
-  
+slightly related:  
 <http://crunchbang.org/forums/viewtopic.php?pid=399702#p399702>
