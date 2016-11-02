@@ -28,4 +28,6 @@ And with some custom dirlist.css
     
 modified version of [this](https://redmine.lighttpd.net/boards/3/topics/5418).
 
+![](https://cdn.scrot.moe/images/2016/11/02/lighttpdDirlistCustom.png)
+
 
