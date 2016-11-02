@@ -11,3 +11,14 @@ title: Swatch time bash script
 
 Tint2 integration with executor thing  
 [![beats.th.png](https://cdn.scrot.moe/images/2016/11/02/beats.th.png)](https://cdn.scrot.moe/images/2016/11/02/beats.png)
+
+    # E = EXECP
+    execp_centered = 0
+    execp_has_icon = 0
+    execp_command = beats
+    execp_interval = 5
+    execp_font = cuprum 13
+    execp_font_color = #111111 100
+    execp_padding = 2 0 2
+    #execp_background_id = 0
+    #execp_padding = 0 0 50
