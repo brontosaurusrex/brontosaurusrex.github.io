@@ -6,8 +6,6 @@ title: Newest lighttpd in Debian Jessie
 ---
 [https://debian.lighttpd.net/](https://debian.lighttpd.net/) < repo (All i wanted was client-side sort-by-date option in dirlist.)
 
-![](https://cdn.scrot.moe/images/2016/11/02/lighttpd_crop.png)
-
 And with some custom dirlist.css (put in default server root, like /var/www/html)
 
     @import url(http://fonts.googleapis.com/css?family=Raleway:200,400,600);
@@ -38,4 +36,4 @@ And add to the lighttpd.conf (/etc/lighttpd/lighttpd.conf)
     
 You get something pretty like
 
-![](https://cdn.scrot.moe/images/2016/11/02/lighttpdDirlistCustom.png)
+![](https://cdn.scrot.moe/images/2016/11/02/lightDirList2.png)
