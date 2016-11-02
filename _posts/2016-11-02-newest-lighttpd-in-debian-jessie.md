@@ -32,6 +32,8 @@ And add to the lighttpd.conf (/etc/lighttpd/lighttpd.conf)
 
     # alternative dirlisting css https://redmine.lighttpd.net/boards/3/topics/5418
     dir-listing.external-css    = "/dirlist.css"
+    
+You get something pretty like
 
 ![](https://cdn.scrot.moe/images/2016/11/02/lighttpdDirlistCustom.png)
 
