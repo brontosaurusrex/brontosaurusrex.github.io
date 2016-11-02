@@ -1,10 +1,11 @@
 ---
-id: 3469
-title: cut parts of video on linux (mpv player + ffmpeg 2014)
-date: 2014-10-15T17:39:41+00:00
-author: bronto saurus
+published: true
 layout: post
-guid: http://b.pwnz.org/?p=3469
+date: 2014-10-15T17:39:41.000Z
+id: 3469
+title: cut parts of video on linux (mpv player + ffmpeg)
+author: bronto saurus
+guid: 'http://b.pwnz.org/?p=3469'
 permalink: /2014/10/cut-parts-of-video-on-linux-mpv-player-ffmpeg-2014/
 categories:
   - Uncategorized
@@ -31,10 +32,6 @@ b. use ffmpeg to cut the video
 
 <pre>ffmpeg -i input.mp4 -ss 00:01:45.480 -to 00:01:46.606 (video,audio codec parameters here) part.mp4</pre>
 
-screenshot
-  
-[<img src="http://b.pwnz.org/wp-content/uploads/2014/10/mpvUndffmpeg-300x246.png" alt="mpvUndffmpeg" width="300" height="246" class="aligncenter size-medium wp-image-3475" />](http://b.pwnz.org/wp-content/uploads/2014/10/mpvUndffmpeg.png)
-
-related:
+slightly related:
   
 <http://crunchbang.org/forums/viewtopic.php?pid=399702#p399702>
