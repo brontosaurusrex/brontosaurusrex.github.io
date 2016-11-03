@@ -34,5 +34,4 @@ b. use ffmpeg to cut the video
     # -codec copy should copy all streams without reencoding, or replace
     # that with your video/audio encoder of choice
 
-slightly related:  
-<http://crunchbang.org/forums/viewtopic.php?pid=399702#p399702>
+slightly [related](http://crunchbang.org/forums/viewtopic.php?pid=399702#p399702).
