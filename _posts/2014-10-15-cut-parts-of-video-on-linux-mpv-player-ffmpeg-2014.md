@@ -12,11 +12,11 @@ categories:
 ---
 a. use mpv to locate the cut points;
 
-<pre>mpv --osd-fractions input.mp4</pre>
+    mpv --keep-open input.mov # --osd-fractions seems to be useless in 2016 versions
 
 To copy current video position to clipboard add
 
-<pre>Meta+c run "/bin/sh" "-c" "/bin/echo -n ${time-pos/full} | xsel --clipboard --input"</pre>
+    Meta+c run "/bin/sh" "-c" "/bin/echo -n ${time-pos/full} | xsel --clipboard --input"
 
 (Debian wheezy)
   
@@ -24,13 +24,13 @@ to .mpv/input.conf and then use Meta (Thats usually win-key to copy).
 
 or on osx that would be (Meta key is cmd in that case)
 
-<pre>Meta+c run "/bin/sh" "-c" "/bin/echo -n ${time-pos/full} | pbcopy"</pre>
+    Meta+c run "/bin/sh" "-c" "/bin/echo -n ${time-pos/full} | pbcopy"
 
 btw: Use , and . to move frame by frame.
 
 b. use ffmpeg to cut the video
 
-<pre>ffmpeg -i input.mp4 -ss 00:01:45.480 -to 00:01:46.606 (video,audio codec parameters here) part.mp4</pre>
+    ffmpeg -i input.mov -ss 00:01:45.480 -to 00:01:46.606 (video,audio codec parameters here) part.mov
 
 slightly related:  
 <http://crunchbang.org/forums/viewtopic.php?pid=399702#p399702>
