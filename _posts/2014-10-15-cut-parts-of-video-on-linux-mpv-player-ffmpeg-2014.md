@@ -32,6 +32,7 @@ b. use ffmpeg to cut the video
 
     ffmpeg -i input.mov -ss 00:01:45.480 -to 00:01:46.606 -codec copy part.mov
     # -codec copy should copy all streams without reencoding, or replace
-    # that with your video/audio encoder of choice
+    # that with your video/audio encoder of choice. 
+    # p.s. Non-I-frame stuff will (probably) not work well with -codec copy. 
 
 slightly [related](http://crunchbang.org/forums/viewtopic.php?pid=399702#p399702).
