@@ -14,8 +14,6 @@ Which sda would be actual (The one mounted as '/') can be figured out with
 
     lsblk -l | grep '/'
     
-b. Date of lost+found (better)
+b. Date of /lost+found (better). p.s. Another option may be /mnt
 
     sudo stat /lost+found/ | grep Change | awk '{print $2}'
-
-
