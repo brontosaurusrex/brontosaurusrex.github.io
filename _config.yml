@@ -12,11 +12,11 @@ permalink:        pretty
 title:            brontosaurusrex.github.io
 tagline:          'Linux, Video, Audio'
 description:      'brontosaurusrex.github.io'
-url:              http://brontosaurusrex.github.io
+url:              https://brontosaurusrex.github.io
 
 author:
   name:           'brontosaurusrex'
-  url:            http://brontosaurusrex.github.io
+  url:            https://brontosaurusrex.github.io
 
 paginate:         7
 
