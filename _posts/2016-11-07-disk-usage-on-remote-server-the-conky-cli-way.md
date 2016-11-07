@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2016-11-07 23:55 +0100'
-title: disk usage on remote server the conky-cli way
+title: disk usage the conky-cli way
 ---
 in .bash_aliases
 
@@ -28,3 +28,5 @@ should return something like
 
     ram 20%  |  cpu 1%  |  Mon  7. November 2016 23.58
     data1 disk ########################______ 19.9GiB free
+    
+(Especially nice on remote servers and ...)
