@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2016-11-07 11:59 +0100'
-title: neofecth sysinfo
+title: neofetch sysinfo
 ---
 [https://github.com/dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
 
