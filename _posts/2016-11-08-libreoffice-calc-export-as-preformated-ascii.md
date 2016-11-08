@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2016-11-08 00:37 +0100'
-title: 'libreoffice calc, export as preformated ascii'
+title: 'libreoffice calc, export as formated ascii'
 ---
 a. save as .csv (tick 'Edit filter settings')  
 b. 2nd window will appear (tick 'Fixed column width'), that's it
