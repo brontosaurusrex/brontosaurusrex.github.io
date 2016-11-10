@@ -11,3 +11,4 @@ title: bash oldest
 last N (No idea how silly this is)
 
     stat -c "%Y %n" ./*.* | sort -rn | head -n +3 | cut -d ' ' -f 1 --complement
+    # fails for files with spaces
