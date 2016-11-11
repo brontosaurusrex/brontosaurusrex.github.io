@@ -10,6 +10,8 @@ title: argumentum ad ignorantiam
 
 > Arguments that appeal to ignorance rely merely on the fact that the veracity of the proposition is not disproved to arrive at a definite conclusion. These arguments fail to appreciate that the limits of one's understanding or certainty do not change what is true. They do not inform upon reality. That is, whatever the reality is, it does not "wait" upon human logic or analysis to be formulated.
 
+![](http://www.trulyfallacious.com/wp-content/uploads/2013/08/appeal-to-ignorance-god-did-it.jpg)
+
 Is that compatible with  
 [https://en.wikipedia.org/wiki/Quantum_fluctuation]()   
 [https://en.wikipedia.org/wiki/Uncertainty_principle]() ?
