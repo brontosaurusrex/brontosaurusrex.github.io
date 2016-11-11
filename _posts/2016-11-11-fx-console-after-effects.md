@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2016-11-11 18:32 +0100'
-title: fx console (after effects)
+title: video copilot fx console (after effects)
 ---
 [http://www.videocopilot.net/blog/2016/11/fx-console-v1-0-1-new-enhancements-and-fixes/](http://www.videocopilot.net/blog/2016/11/fx-console-v1-0-1-new-enhancements-and-fixes/)
 
