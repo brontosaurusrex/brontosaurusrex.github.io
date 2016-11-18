@@ -94,5 +94,34 @@ So if i say
     somelist = [9,8,7]
     print sorted(somelist)
     # [7, 8, 9] < should happen
+    
+## List Comprehensions
+
+> Using a list comprehension, create a new list called "newlist" out of the list "numbers", which contains only the positive numbers from the list, as integers.
+
+After quite some trouble I got this
+
+    numbers = [34.6, -203.4, 44.9, 68.3, -12.2, 44.6, 12.7]
+    newlist = []
+    
+    for stuff in numbers:
+        
+        #print stuff
+        stuff = int(stuff)
+        
+        if stuff > 0: 
+            newlist.append(stuff)
+        
+    print newlist
+    
+which does work, but the official solution is this 3 liner
+
+    numbers = [34.6, -203.4, 44.9, 68.3, -12.2, 44.6, 12.7]
+    newlist = [int(x) for x in numbers if x > 0] # < what is this? Yeah that is an actual 'List Comprehension'
+    print(newlist)
+
+
+
+
 
     
