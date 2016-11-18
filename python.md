@@ -71,3 +71,7 @@ In this exercise, you will need to print an alphabetically sorted list of all fu
             find_members.append(member)
     
     print sorted(find_members)
+    
+find_members is a `list` type of structure (something similar to array) and `sorted` is a sorting thing
+    
+    
