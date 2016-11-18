@@ -109,7 +109,7 @@ After quite some trouble I got this
         #print stuff
         stuff = int(stuff)
         
-        if stuff > 0: 
+        if stuff > 0: # this should probably be if 'stuff >= 0:'
             newlist.append(stuff)
         
     print newlist
