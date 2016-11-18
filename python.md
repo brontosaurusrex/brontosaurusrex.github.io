@@ -50,7 +50,7 @@ This should also round corectly, giving 3.3466
         
 ## modules
 
-[](http://www.learnpython.org/en/Modules_and_Packages)
+[http://www.learnpython.org/en/Modules_and_Packages](http://www.learnpython.org/en/Modules_and_Packages)
 
     import urllib
     # which functions are implemented in each module
