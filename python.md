@@ -72,6 +72,11 @@ In this exercise, you will need to print an alphabetically sorted list of all fu
     
     print sorted(find_members)
     
-find_members is a `list` type of structure (something similar to array) and `sorted` is a sorting thing
-    
+find_members is a `list` type of structure (something similar to array) and `sorted` is a sorting thing (function)  
+So if i say
+
+    somelist = [9,8,7]
+    print sorted(somelist)
+    # [7, 8, 9] < should happen
+
     
