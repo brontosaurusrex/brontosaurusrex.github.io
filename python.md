@@ -20,6 +20,11 @@ This should also round corectly, giving 3.3466
     # call
     x = sum_two_numbers(1,2)
     print x
+    
+a placeholder `pass`
+    
+    def somefunc():
+        pass #this is a null statement/placeholder    
 
 ## objects
 
