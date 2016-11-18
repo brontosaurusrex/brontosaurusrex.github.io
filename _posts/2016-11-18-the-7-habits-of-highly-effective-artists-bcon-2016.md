@@ -23,4 +23,6 @@ title: 'The 7 Habits of Highly Effective Artists – BCON 2016 '
 
 > Get Feedback
 
+The ability to get feedback will make you a rockstar
+
 > Create What You Love
