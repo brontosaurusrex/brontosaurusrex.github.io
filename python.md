@@ -1,6 +1,6 @@
 ---
 layout: page
-title: python
+title: python learning notes
 published: true
 ---
 
