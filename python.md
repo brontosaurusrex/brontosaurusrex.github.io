@@ -11,6 +11,16 @@ published: true
 
 This should also round corectly, giving 3.3466
 
+## functions
+
+    # function
+    def sum_two_numbers(a, b):
+        return a + b
+    
+    # call
+    x = sum_two_numbers(1,2)
+    print x
+
 ## objects
 
     # Objects are an encapsulation of variables and functions into a single entity. Objects get their variables and functions from classes. Classes are essentially a template to create your objects. 
