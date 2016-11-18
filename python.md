@@ -20,7 +20,13 @@ This should also round corectly, giving 3.3466
     
         def function(self):
             print "This is a message inside the class."
-            
+    
+    # define object
     myobjectx = MyClass()    # assign the above class(template) to an object 
     print myobjectx.variable # the variable inside of the newly created object "myobjectx"
+    
+    # another object of the same class
+    myobjecty = MyClass()
+    myobjecty.variable = "yackity" # change variable
+    print myobjecty.variable
 
