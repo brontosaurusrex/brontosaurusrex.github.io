@@ -4,6 +4,10 @@ title: python learning notes
 published: true
 ---
 
+## learning links
+
+[http://learnpython.org/](http://learnpython.org/)
+
 ## echo floating point with 4 digits, "argument specifier"
 
     f=3.3465922378323784
