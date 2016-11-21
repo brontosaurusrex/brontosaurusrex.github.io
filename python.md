@@ -25,6 +25,26 @@ a placeholder `pass`
     
     def somefunc():
         pass #this is a null statement/placeholder    
+        
+## Can I have functions at the bottom of the script?
+
+As sort of the `gosub` old basic approach
+
+    def main():
+        # my code
+    
+    def other()
+        ....
+    
+    def another()
+        ....
+    
+    def andmore()
+        ....
+    
+    main()
+    
+People say yes.
 
 ## objects
 
