@@ -120,6 +120,14 @@ which does work, but the official solution is this 3 liner
     newlist = [int(x) for x in numbers if x > 0] # < what is this? Yeah that is an actual 'List Comprehension'
     print(newlist)
 
+## About printf style formatting
+
+    # example
+    print "Result: %d" % result
+    
+[https://en.wikipedia.org/wiki/Printf_format_string](https://en.wikipedia.org/wiki/Printf_format_string)
+
+The `% results` part seems to be called 'string interpolation'.
 
 
 
