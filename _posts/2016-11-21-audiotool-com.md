@@ -10,3 +10,5 @@ title: audiotool.com
 
 And some "results"  
 [https://www.audiotool.com/track/espresso](https://www.audiotool.com/track/espresso)
+
+<object height="116" width="100%">      <param name="movie" value="http://www.audiotool.com/embedplayer"></param> <param name="FlashVars" value="key=espresso&amp;autoplay=false&amp;pv=1.0&amp;platform=2"></param> <param name="allowscriptaccess" value="always"></param> <param name="allowFullScreen" value="true"></param> <param name="base" value="http://www.audiotool.com/"></param> <embed allowscriptaccess="always" base="http://www.audiotool.com/" allowfullscreen="true" height="116" src="http://www.audiotool.com/embedplayer" FlashVars="key=espresso&amp;autoplay=false&amp;pv=1.0&amp;platform=2" type="application/x-shockwave-flash" width="100%"></embed>    </object>
