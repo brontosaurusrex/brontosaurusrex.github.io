@@ -7,6 +7,9 @@ title: audiotool.com
 dubstep Loopbass  
 [https://www.youtube.com/watch?v=iZMsjr8ZwxQ](https://www.youtube.com/watch?v=iZMsjr8ZwxQ)
 
+dubstep drums
+[https://music.tutsplus.com/tutorials/dubstep-for-beginners-part-1-the-drums--audio-11974](https://music.tutsplus.com/tutorials/dubstep-for-beginners-part-1-the-drums--audio-11974)
+
 [![audiotool.th.png](https://cdn.scrot.moe/images/2016/11/23/audiotool.th.png)](https://cdn.scrot.moe/images/2016/11/23/audiotool.png)
 
 And some "results"  
