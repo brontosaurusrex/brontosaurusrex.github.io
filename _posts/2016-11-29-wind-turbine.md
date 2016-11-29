@@ -4,6 +4,7 @@ layout: post
 date: '2016-11-29 11:32 +0100'
 title: Wind turbine
 ---
+A turbine is an electromotor  
 [http://www.instructables.com/id/Windmill-School-Project/]()
 
 [http://www.instructables.com/id/How-to-build-floppy-drive-wind-generator/]()
