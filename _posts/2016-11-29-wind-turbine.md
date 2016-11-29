@@ -16,3 +16,6 @@ title: Wind turbine
 
 [https://www.aliexpress.com/item/5PCS-AC-Micro-wind-turbines-generator-Demonstration-generator-3-18V-0-03-0-3A-3000rpm/1681437906.html?spm=2114.40010208.4.2.WTKGSS]()
 
+Klopotec  
+[https://sl.wikipedia.org/wiki/Klopotec]()
+
