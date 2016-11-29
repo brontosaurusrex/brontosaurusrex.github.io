@@ -20,3 +20,5 @@ A turbine is an electromotor
 Klopotec  
 [https://sl.wikipedia.org/wiki/Klopotec](https://sl.wikipedia.org/wiki/Klopotec)
 
+![](https://ae01.alicdn.com/kf/HTB1xnptKVXXXXXOXVXXq6xXFXXXC/Newest-font-b-Micro-b-font-font-b-Wind-b-font-font-b-Turbines-b-font.jpg)
+
