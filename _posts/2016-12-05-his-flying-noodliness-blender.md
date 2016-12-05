@@ -13,3 +13,4 @@ title: 'His Flying Noodliness, Blender'
 
 1920x1200 with alpha  
 [![noodlines3b_ps1_alpha.th.png](https://cdn.scrot.moe/images/2016/12/05/noodlines3b_ps1_alpha.th.png)](https://cdn.scrot.moe/images/2016/12/05/noodlines3b_ps1_alpha.png)
+[![noodlines3b_ps2_mono_alpha.th.png](https://cdn.scrot.moe/images/2016/12/05/noodlines3b_ps2_mono_alpha.th.png)](https://cdn.scrot.moe/images/2016/12/05/noodlines3b_ps2_mono_alpha.png)
