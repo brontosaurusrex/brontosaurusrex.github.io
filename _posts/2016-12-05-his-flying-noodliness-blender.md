@@ -6,6 +6,7 @@ title: 'His Flying Noodliness, Blender'
 ---
 4k  
 [![noodlines4k_curves2_4k.th.png](https://cdn.scrot.moe/images/2016/12/05/noodlines4k_curves2_4k.th.png)](https://cdn.scrot.moe/images/2016/12/05/noodlines4k_curves2_4k.png)
+[![noodlines4k_curves4_8bpc.th.png](https://cdn.scrot.moe/images/2016/12/05/noodlines4k_curves4_8bpc.th.png)](https://cdn.scrot.moe/images/2016/12/05/noodlines4k_curves4_8bpc.png)
 
 1920x1200  
 [![noodlines4k_curves2_1920x1200.th.png](https://cdn.scrot.moe/images/2016/12/05/noodlines4k_curves2_1920x1200.th.png)](https://cdn.scrot.moe/images/2016/12/05/noodlines4k_curves2_1920x1200.png)
