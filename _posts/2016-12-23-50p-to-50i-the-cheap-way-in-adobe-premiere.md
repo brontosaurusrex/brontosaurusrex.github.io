@@ -6,7 +6,7 @@ title: 50p to 50i the cheap way in Adobe Premiere
 ---
 Two things and a half:
 
-a. RMB field options, enable flicker removal  
+a. RMB on clip, field options, enable flicker removal  
 b. In effects set Anti-flicker to 1,00.  
 c. Gaussian Blur = 2 (maybe)
 
