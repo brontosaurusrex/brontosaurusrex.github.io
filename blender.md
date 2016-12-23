@@ -38,6 +38,8 @@ published: true
 
 Add modifiers: subsurface (2) and edge split  
 Then you can modify edge sharpness by using n and Mean Creas, where 1 is the sharpest.
+ However this is pretty useless, as one should never have totaly sharp edges on anything, 
+ so use loops or something.
 
 ## addons
 
