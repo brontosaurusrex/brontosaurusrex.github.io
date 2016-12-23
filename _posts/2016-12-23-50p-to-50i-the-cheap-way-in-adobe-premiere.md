@@ -7,7 +7,7 @@ title: 50p to 50i the cheap way in Adobe Premiere
 Two things and a half:
 
 a. RMB field options, enable flicker removal  
-b. In effects set Anti-flicker to 1,00.
+b. In effects set Anti-flicker to 1,00.  
 c. Gaussian Blur = 2 (maybe)
 
 ![50pto50i_cheapo.PNG]({{site.baseurl}}/media/50pto50i_cheapo.PNG)
