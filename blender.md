@@ -26,6 +26,10 @@ published: true
     ctrl + b = bevel
     ctrl + m = mirror
     
+## object mode
+
+    shift + a = add stuff    
+    
 ## bezier
 
     ctrl + c = close curve
