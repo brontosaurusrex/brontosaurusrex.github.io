@@ -28,7 +28,8 @@ published: true
     
 ## object mode
 
-    shift + a = add stuff    
+    shift + a = add stuff
+    ctrl + alt + shift + c = set origin ...
     
 ## bezier
 
