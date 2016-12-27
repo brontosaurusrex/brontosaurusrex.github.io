@@ -20,5 +20,5 @@ I **almost** wonder what would [Slavoj Žižek](https://www.youtube.com/results?
 
 Now go and find that ctrl + žblj on your keyboard, ... sir.
 
-![]({{site.baseurl}}/media/fake.png)![fake.png]({{site.baseurl}}/media/fake.png)
+![fake]({{site.baseurl}}/media/fake.png)
 
