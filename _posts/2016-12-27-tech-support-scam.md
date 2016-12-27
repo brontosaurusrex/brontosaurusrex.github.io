@@ -10,7 +10,7 @@ Narration/Storytelling is interesting on more than one layer, mostly it is a que
 
 Interesting details from some of the catchers where 'Microsoft' is supposed to be something trusted and 'MS certificated guy' is not. 
 
-And from the opposite side there is this '[seven layer firewall](http://www.rationalsurvivability.com/blog/wp-content/media/2009/03/frogs-cc_sc0621.jpg)', just hillarious.
+And from the opposite side there is this '[seven layer firewall](https://openclipart.org/image/2400px/svg_to_png/63019/expert-fire-wall.png)', just hillarious.
 
 A sad clash of two cultures, slam-dog millionaire vs 'Legit' Microsoft generation (Not sure which one is worse).
 
