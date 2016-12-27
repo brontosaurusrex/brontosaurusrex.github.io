@@ -18,7 +18,7 @@ edit: The correct representation would probably be Darth Maul (and other dark fo
 
 A sad clash of two cultures, slam-dog millionaire vs 'Legit' Microsoft generation (Not sure which one is worse).
 
-Each&Everything nicely translates to another side of the ocean to the Rich&Fat.
+**Each&Everything** nicely translates to another side of the ocean to the **Rich&Fat**.
 
 I **almost** wonder what would [Slavoj Žižek](https://www.youtube.com/results?search_query=Slavoj+%C5%BDi%C5%BEek) said. 
 
