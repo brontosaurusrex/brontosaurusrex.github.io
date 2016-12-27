@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2016-12-27 11:57 +0100'
-title: 'Tech support scam, rant'
+title: 'Tech support scam, certified rant'
 ---
 [https://www.youtube.com/channel/UCQrAHGpBz3PqBV4-_9PdDcA](https://www.youtube.com/channel/UCQrAHGpBz3PqBV4-_9PdDcA)
 
