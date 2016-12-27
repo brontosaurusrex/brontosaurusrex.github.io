@@ -6,7 +6,7 @@ title: Tech support scam
 ---
 [https://www.youtube.com/channel/UCQrAHGpBz3PqBV4-_9PdDcA](https://www.youtube.com/channel/UCQrAHGpBz3PqBV4-_9PdDcA)
 
-Narrations are interesting on more than one layer, mostly it is a question (a game) of trust I guess. 
+Narration/Storytelling is interesting on more than one layer, mostly it is a question (a game) of trust I guess. 
 
 Interesting details from some of the catchers where 'Microsoft' is supposed to be something trusted and 'MS certificated guy' is not. 
 
