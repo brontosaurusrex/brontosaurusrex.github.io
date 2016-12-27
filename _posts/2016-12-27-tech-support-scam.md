@@ -12,6 +12,8 @@ Interesting details from some of the catchers where 'Microsoft' is supposed to b
 
 And from the opposite side there is this '[seven layer firewall](https://openclipart.org/image/2400px/svg_to_png/63019/expert-fire-wall.png)', [just](https://www.ibm.com/blogs/cloud-computing/wp-content/uploads/2014/01/robot-and-shield.jpg) [hillarious](http://cdn.mos.cms.futurecdn.net/849ca8918dfea9abf29a19e8a0238054-970-80.jpg).
 
+edit: The correct representation would probably be Darth Maul (and other dark forces) trying to break through/climb over 7 walls to attack you eee, however there is also a user in this picture, a Hutt.
+
 A sad clash of two cultures, slam-dog millionaire vs 'Legit' Microsoft generation (Not sure which one is worse).
 
 Each&Everything nicely translates to another side of the ocean to the Rich&Fat.
