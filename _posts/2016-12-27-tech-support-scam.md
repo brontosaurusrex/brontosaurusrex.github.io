@@ -19,3 +19,6 @@ Each&Everything nicely translates to another side of the ocean to the Rich&Fat.
 I **almost** wonder what would [Slavoj Žižek](https://www.youtube.com/results?search_query=Slavoj+%C5%BDi%C5%BEek) said. 
 
 Now go and find that ctrl + žblj on your keyboard, ... sir.
+
+![]({{site.baseurl}}/media/fake.png)![fake.png]({{site.baseurl}}/media/fake.png)
+
