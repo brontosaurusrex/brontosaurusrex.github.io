@@ -22,4 +22,4 @@ Now go and find that ctrl + žblj on your keyboard, ... sir.
 
 I'am
 ![fake]({{site.baseurl}}/media/fake.png)
-............... not.
+.....(pause)..... not.
