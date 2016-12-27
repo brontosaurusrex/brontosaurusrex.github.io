@@ -16,4 +16,4 @@ A sad clash of two cultures, slam-dog millionaire vs 'Legit' Microsoft generatio
 
 Each&Everything nicely translates to another side of the ocean to the Rich&Fat.
 
-I **almost** wonder what would Slavoj Žižek said. Now go and find tha ctrl + žblj on your keyboard.
+I **almost** wonder what would [Slavoj Žižek](https://www.youtube.com/results?search_query=Slavoj+%C5%BDi%C5%BEek) said. Now go and find tha ctrl + žblj on your keyboard.
