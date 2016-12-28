@@ -1,4 +1,8 @@
-[gimmick:theme](amelia)
+---
+layout: page
+title: postbang
+published: true
+---
 
 <img src="https://raw.githubusercontent.com/brontosaurusrex/titles/master/example.png" style="border:0;">
 
