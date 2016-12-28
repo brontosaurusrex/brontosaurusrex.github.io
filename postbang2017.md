@@ -554,6 +554,9 @@ You will probably want to install some custom icon theme for gimp, like
 
 - A nice script to compile the latest version of gimp:
 <https://forums.bunsenlabs.org/viewtopic.php?id=446>
+- Flatpak way
+<https://forums.bunsenlabs.org/viewtopic.php?id=3095>
+
 
 ## utility
 
