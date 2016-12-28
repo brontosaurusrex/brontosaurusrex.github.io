@@ -917,6 +917,10 @@ With slight reconfiguration the same make-up layer might work with other distros
 
 <a href="http://shrani.si/f/3s/dW/iXkZZPh/reallyarchy.png"><img src="http://shrani.si/t/3s/dW/iXkZZPh/reallyarchy.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
+## Thanks to
+
+Sector11: typos/wording/language
+
 ## Issues?
 
 You may explain yourself here (Or better correct me)  
