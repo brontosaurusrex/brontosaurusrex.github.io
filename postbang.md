@@ -6,7 +6,7 @@ published: true
 
 <img src="https://raw.githubusercontent.com/brontosaurusrex/titles/master/example.png" style="border:0;">
 
-# Jessie from netinstall = postbang
+# Jessie from netinstall + some customization = postbang
 
 ## What is this
 
@@ -37,9 +37,9 @@ as su
     apt-get install terminator rxvt-unicode vim vim-gtk thunar tint2 geany gmrun
     apt-get install htop mc inxi xsettingsd i3lock
 
-Note: They say that vim-gtk gives ability to yank (copy) text to x clipboard (either "*y or "+y should work)  
-Note: terminator and thunar will bring in lots of stuff    
-Note: Installing xsettingsd stoped tint2 to fill .xsession-errors <https://code.google.com/p/xsettingsd/>
+- They say that vim-gtk has the ability to yank (copy) text to x clipboard (either "*y or "+y should work)
+- terminator and thunar will bring in lots of stuff
+- Installing xsettingsd stopped tint2 to fill .xsession-errors https://code.google.com/p/xsettingsd/
 
 p.s. Possible future replacement for gmrun is called rofi
 
@@ -159,7 +159,7 @@ user
     ls -lha
     cp -b .config/terminator/config ~/.config/terminator/
 
-Note: You will probably want to adjust the `size = 850, 400` part of the terminator config.
+- You will probably want to adjust the `size = 850, 400` part of the terminator config.
 
 and bash related (backup those first, if you will)
 
@@ -266,7 +266,7 @@ I would add an Adblock Plus extension right away
 
 <a href="http://shrani.si/f/2E/MY/4dE12bs6/iceweasel.png"><img src="http://shrani.si/t/2E/MY/4dE12bs6/iceweasel.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
-note: Scrollbar anywhere and dwm wm do not like each other.
+- Scrollbar anywhere and dwm wm do not like each other.
 
 test the alias "open" and viewnior, as user
 
@@ -411,7 +411,7 @@ user
     cp ~/source/postbang/images/wallpapers/*.png ~/images/wallpapers/
     nitrogen
 
-Note: The magic background color is `#32383B`
+- The magic background color is `#32383B`
 
 Add directory images/wallpapers, select one of the wallpapers ....
 (btw: as with most of this guide this is single-user approach,)
@@ -552,7 +552,7 @@ You will probably want to install some custom icon theme for gimp, like
 
 <a href="http://shrani.si/f/U/E6/4JbrV9sC/gimp.png"><img src="http://shrani.si/t/U/E6/4JbrV9sC/gimp.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
-Note: A nice script to compile the latest version of gimp:
+- A nice script to compile the latest version of gimp:
 <https://forums.bunsenlabs.org/viewtopic.php?id=446>
 
 ## utility
@@ -690,7 +690,7 @@ under
 
     [SeatDefaults]
 
-Note: Lightdm does not source .profile, so make sure that user bin path is added in `.xsessionrc` instead
+- Lightdm does not source .profile, so make sure that user bin path is added in `.xsessionrc` instead
 
 ## more stuff
 
@@ -699,8 +699,8 @@ sudo
     apt-get install atril vlc smplayer catfish
     apt-get install --no-install-recommends engrampa 
 
-note: atril is mate version of evince & engrampa is mate version of file-roller
-note: something about .config/Trolltech.conf and qt4-qtconfig (qtconfig)
+- atril is mate version of evince & engrampa is mate version of file-roller
+- something about .config/Trolltech.conf and qt4-qtconfig (qtconfig)
 
 Neither vlc, nor smplayer are working correctly in vbox enviroment for me, possibly missing stuff.
 
