@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" height="768px" width="1024px">
 <defs>
-<style type="text/css"> @import url(http://fonts.googleapis.com/css?family=Pacifico:normal); </style>
+<style type="text/css"> @import url(https://fonts.googleapis.com/css?family=Pacifico:normal); </style>
+
 </defs>
 <clipPath id="cp1">
 <path fill-rule="evenodd" d="M 0,0 L 1024,0 L1024,768 L 0,768 z M 0,0 L 1280,0 L 1280,960 L 0,960 z">
