@@ -126,6 +126,8 @@ The network applet should show up on tint2 (Exec name is nm-applet and it should
 
 <a href="http://shrani.si/f/2o/PM/1aLoN4EY/network.png"><img src="http://shrani.si/t/2o/PM/1aLoN4EY/network.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
+Alternative: It was suggested that alternative to network manager is wicd / wicd-gtk.
+
 ## openbox autostart, basic
 
     cd
