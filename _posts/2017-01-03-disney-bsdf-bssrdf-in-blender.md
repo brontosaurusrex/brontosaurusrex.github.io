@@ -11,3 +11,5 @@ title: Disney BSDF/BSSRDF in Blender?
 [https://www.blender.org/development/the-top-30-blender-developers-2016/](https://www.blender.org/development/the-top-30-blender-developers-2016/)
 
 [http://blog.selfshadow.com/publications/s2015-shading-course/burley/s2015_pbs_disney_bsdf_notes.pdf](http://blog.selfshadow.com/publications/s2015-shading-course/burley/s2015_pbs_disney_bsdf_notes.pdf)
+
+![](http://blog.selfshadow.com/images/s2015-shading/title.jpg)
