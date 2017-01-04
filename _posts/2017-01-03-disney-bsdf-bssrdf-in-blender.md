@@ -6,6 +6,8 @@ title: Disney BSDF/BSSRDF in Blender?
 ---
 > Pascal (Germany) joined the Cycles team this year, contributing the implementation of the Disney BSDF/BSSRDF.
 
+[https://en.wikipedia.org/wiki/Bidirectional_reflectance_distribution_function](https://en.wikipedia.org/wiki/Bidirectional_reflectance_distribution_function)
+
 > This new physically based shading model  is able to reproduce a wide range of materials with only a few parameters.
 
 [https://www.blender.org/development/the-top-30-blender-developers-2016/](https://www.blender.org/development/the-top-30-blender-developers-2016/)
