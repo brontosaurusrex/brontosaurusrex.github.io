@@ -23,7 +23,7 @@ edit: Something in "These builds are for developer use only!"
 
 tl sss  
 tr dark metal  
-bl dialectic  
-br dialectic with some coating  
+bl dielectric  
+br dielectric with some coating  
 
-Note: After 27 minutes of rendering sss material is still noisy while metal and dialectics are basically done after about 3 minutes.
+Note: After 27 minutes of rendering sss material is still noisy while metal and dielectrics are basically done after about 3 minutes.
