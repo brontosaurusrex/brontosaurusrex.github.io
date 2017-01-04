@@ -22,6 +22,6 @@ edit: Something in "These builds are for developer use only!"
 [![disney27min.th.png](https://cdn.scrot.moe/images/2017/01/04/disney27min.th.png)](https://cdn.scrot.moe/images/2017/01/04/disney27min.png)
 
 tl sss  
-tr dark metal
+tr dark metal  
 bl dialectic  
 br dialectic with some coating   
