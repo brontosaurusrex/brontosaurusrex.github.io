@@ -15,3 +15,11 @@ title: Disney BSDF/BSSRDF in Blender?
 [https://disney-animation.s3.amazonaws.com/library/s2012_pbs_disney_brdf_notes_v2.pdf](https://disney-animation.s3.amazonaws.com/library/s2012_pbs_disney_brdf_notes_v2.pdf)
 
 ![](http://blog.selfshadow.com/images/s2015-shading/title.jpg)
+
+edit: Something in "These builds are for developer use only!"   
+[![disney27min.th.png](https://cdn.scrot.moe/images/2017/01/04/disney27min.th.png)](https://cdn.scrot.moe/images/2017/01/04/disney27min.png)
+
+tl sss  
+tr dark metal
+bl dialectic  
+br dialectic with some coating   
