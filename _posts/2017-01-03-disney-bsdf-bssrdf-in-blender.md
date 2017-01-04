@@ -27,3 +27,5 @@ bl dielectric
 br dielectric with some coating  
 
 Note: After 27 minutes of rendering sss material is still noisy while metal and dielectrics are basically done after about 3 minutes.
+
+Note2: Disney node inputs seems to be very [substance painter friendly](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMetalLayout.png) (I like!).
