@@ -18,7 +18,7 @@ title: Disney BSDF/BSSRDF in Blender?
 
 ![](http://blog.selfshadow.com/images/s2015-shading/title.jpg)
 
-edit: Something in "These builds are for developer use only!"   
+edit: Something in "These builds are for developer use only!": 
 [![disney27min.th.png](https://cdn.scrot.moe/images/2017/01/04/disney27min.th.png)](https://cdn.scrot.moe/images/2017/01/04/disney27min.png)
 
 tl sss  
