@@ -28,6 +28,9 @@ br dielectric with some coating
 
 Note: After 27 minutes of rendering sss material is still noisy while metal and dielectrics are basically done after about 3 minutes.
 
+13 hours later and different hdri  
+[![13hoursLater.th.png](https://cdn.scrot.moe/images/2017/01/05/13hoursLater.th.png)](https://cdn.scrot.moe/images/2017/01/05/13hoursLater.png)
+
 Note2: Disney node inputs seems to be very [substance painter friendly](https://cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMetalLayout.png) (I like!).
 
 Note3: There is no refractive shader/controler exposed (only with transparency). < No big deal.
