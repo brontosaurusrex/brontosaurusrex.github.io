@@ -9,3 +9,9 @@ title: Arecibo message
 Yellow are planets and 3rd one being a bit higher indicates the origin of message.
 
 ![Arecibo](https://upload.wikimedia.org/wikipedia/commons/5/55/Arecibo_message.svg)
+
+And Pluto was still considered a planet in 1974.
+
+                      Earth
+    Sun Mercury Venus       Mars Jupiter Saturn Uranus Neptune Pluto
+
