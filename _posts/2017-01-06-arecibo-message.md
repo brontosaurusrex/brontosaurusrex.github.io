@@ -21,3 +21,6 @@ And Pluto was still considered a planet in 1974.
 
 > In addition to showing position, the graphic provides a general, **not-to-scale size reference** of each planet and the Sun.
 
+![nyan.gif]({{site.baseurl}}/media/nyan.gif)
+
+
