@@ -12,3 +12,6 @@ opengl animation
 
 v2 (including simulation with 250 resolution)  
 [https://youtu.be/41QIqWKT8d4](https://youtu.be/41QIqWKT8d4)
+
+On being ascii
+[https://github.com/LeoColomb/FluidASCII](https://github.com/LeoColomb/FluidASCII)
