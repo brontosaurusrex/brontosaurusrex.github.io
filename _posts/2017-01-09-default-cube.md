@@ -1,0 +1,10 @@
+---
+published: true
+layout: post
+date: '2017-01-09 17:03 +0100'
+title: Default Cube
+---
+[https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps2.png](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps2.png)  
+[https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps1.png](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps1.png)  
+
+[![defaultCube_ps2.th.png](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps2.th.png)](https://scrot.moe/image/rl3u) [![defaultCube_ps1.th.png](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps1.th.png)](https://scrot.moe/image/r7iv)
