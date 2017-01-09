@@ -8,3 +8,5 @@ title: Default Cube
 
 [![defaultCube_ps2.th.png](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps2.th.png)](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps2.png) 
 [![defaultCube_ps1.th.png](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps1.th.png)](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps1.png)
+
+Grease pencil + wacom + cube + convert to curves (no extrude, just bevel > depth 0.02, resolution 3) + some pbr material nodes, cracks node used to drive metal rougness = huge amount of geometry. Rendered with Cycles in about 25 minutes on some GPU.
