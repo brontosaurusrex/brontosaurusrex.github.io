@@ -14,3 +14,6 @@ title: Default Cube
 Grease pencil + wacom + cube + convert to curves (no extrude, just bevel > depth 0.02, resolution 3) + some pbr material nodes, cracks node used to drive metal rougness = huge amount of geometry. Rendered with Cycles in about 25 minutes on some GPU.
 
 ![nodesCracks.png]({{site.baseurl}}/media/nodesCracks.png)
+
+And some test on more complex geometry  
+<a href="http://shrani.si/f/3k/Tn/1xR6SBTg/postbangps1.png"><img src="http://shrani.si/t/3k/Tn/1xR6SBTg/postbangps1.jpg" style="border: 0px;" alt="Shrani.si"/></a>
