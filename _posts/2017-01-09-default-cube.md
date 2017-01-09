@@ -6,7 +6,5 @@ title: Default Cube
 ---
 3440x1440
 
-[https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps2.png](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps2.png)  
-[https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps1.png](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps1.png)  
-
-[![defaultCube_ps2.th.png](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps2.th.png)](https://scrot.moe/image/rl3u) [![defaultCube_ps1.th.png](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps1.th.png)](https://scrot.moe/image/r7iv)
+[![defaultCube_ps2.th.png](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps2.th.png)](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps2.png) 
+[![defaultCube_ps1.th.png](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps1.th.png)](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps1.png)
