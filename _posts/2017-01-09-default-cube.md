@@ -8,6 +8,8 @@ title: Default Cube
 [![defaultCube_ps2.th.png](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps2.th.png)](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps2.png)
 [![defaultCube_ps1.th.png](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps1.th.png)](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps1.png)
 [![defaultCube2_ps1.th.png](https://cdn.scrot.moe/images/2017/01/10/defaultCube2_ps1.th.png)](https://cdn.scrot.moe/images/2017/01/10/defaultCube2_ps1.png)
+[![defaultCube3_ps2.th.png](https://cdn.scrot.moe/images/2017/01/10/defaultCube3_ps2.th.png)](https://cdn.scrot.moe/images/2017/01/10/defaultCube3_ps2.png) 
+[![defaultCube3_ps1.th.png](https://cdn.scrot.moe/images/2017/01/10/defaultCube3_ps1.th.png)](https://cdn.scrot.moe/images/2017/01/10/defaultCube3_ps1.png)
 
 1920x1200  
 [![defaultCube_ps1_1920x1200.th.png](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps1_1920x1200.th.png)](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps1_1920x1200.png)
