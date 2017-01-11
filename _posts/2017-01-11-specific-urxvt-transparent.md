@@ -8,7 +8,7 @@ start with
 
     urxvt -name transparent -depth 32 -bg rgba:2000/2000/2000/0000 -sh 0
     
-And exclude shadows in compton.conf
+And exclude shadows in ~/compton.conf
 
     shadow-exclude = [
 
