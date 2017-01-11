@@ -15,3 +15,5 @@ And exclude shadows in ~/compton.conf
     "name = 'transparent'"
 
     ];
+
+[![transparentUrxvt.th.png](https://cdn.scrot.moe/images/2017/01/11/transparentUrxvt.th.png)](https://cdn.scrot.moe/images/2017/01/11/transparentUrxvt.png)
