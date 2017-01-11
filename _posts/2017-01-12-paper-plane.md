@@ -6,3 +6,5 @@ title: 'paper plane '
 ---
 [![plane6_ps1.th.png](https://cdn.scrot.moe/images/2017/01/12/plane6_ps1.th.png)](https://cdn.scrot.moe/images/2017/01/12/plane6_ps1.png) 
 [![plane_ps1.th.png](https://cdn.scrot.moe/images/2017/01/12/plane_ps1.th.png)](https://cdn.scrot.moe/images/2017/01/12/plane_ps1.png)
+
+Unwrap/texturing part would need some work. Topology/bevels/etc as well.
