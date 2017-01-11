@@ -8,8 +8,13 @@ title: Default Cube (on  a bad hair day)
 [![defaultCube_ps2.th.png](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps2.th.png)](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps2.png)
 [![defaultCube_ps1.th.png](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps1.th.png)](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps1.png)
 [![defaultCube2_ps1.th.png](https://cdn.scrot.moe/images/2017/01/10/defaultCube2_ps1.th.png)](https://cdn.scrot.moe/images/2017/01/10/defaultCube2_ps1.png)
+
+low DOF  
 [![defaultCube3_ps2.th.png](https://cdn.scrot.moe/images/2017/01/10/defaultCube3_ps2.th.png)](https://cdn.scrot.moe/images/2017/01/10/defaultCube3_ps2.png) 
 [![defaultCube3_ps1.th.png](https://cdn.scrot.moe/images/2017/01/10/defaultCube3_ps1.th.png)](https://cdn.scrot.moe/images/2017/01/10/defaultCube3_ps1.png)
+
+Not-so-low DOF  
+[![defaultCube4_ps1.th.png](https://cdn.scrot.moe/images/2017/01/11/defaultCube4_ps1.th.png)](https://cdn.scrot.moe/images/2017/01/11/defaultCube4_ps1.png) [![defaultCube4_8bpc.th.png](https://cdn.scrot.moe/images/2017/01/11/defaultCube4_8bpc.th.png)](https://cdn.scrot.moe/images/2017/01/11/defaultCube4_8bpc.png)
 
 1920x1200  
 [![defaultCube_ps1_1920x1200.th.png](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps1_1920x1200.th.png)](https://cdn.scrot.moe/images/2017/01/09/defaultCube_ps1_1920x1200.png)
