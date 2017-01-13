@@ -18,3 +18,6 @@ v7 (3440x1440)
 
 v12 (3440x1440)  
 [![plane12_8bit_NR.th.png](https://cdn.scrot.moe/images/2017/01/13/plane12_8bit_NR.th.png)](https://cdn.scrot.moe/images/2017/01/13/plane12_8bit_NR.png)
+
+1920x1200  
+[![plane12_8bit_NR_1920x1200.th.png](https://cdn.scrot.moe/images/2017/01/13/plane12_8bit_NR_1920x1200.th.png)](https://cdn.scrot.moe/images/2017/01/13/plane12_8bit_NR_1920x1200.png)
