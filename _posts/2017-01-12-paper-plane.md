@@ -16,6 +16,6 @@ v12 (3440x1440 & 1920x1200)
 [![plane12_8bit_NR.th.png](https://cdn.scrot.moe/images/2017/01/13/plane12_8bit_NR.th.png)](https://cdn.scrot.moe/images/2017/01/13/plane12_8bit_NR.png)
 [![plane12_8bit_NR_1920x1200.th.png](https://cdn.scrot.moe/images/2017/01/13/plane12_8bit_NR_1920x1200.th.png)](https://cdn.scrot.moe/images/2017/01/13/plane12_8bit_NR_1920x1200.png)
 
-v12_cam3b (3440x1440 & 1920x1200)  
+v12_cam3b (3440x1440 & 1920x1200), photoshoped
 [![plane12_cam3b_ps1.th.jpg](https://cdn.scrot.moe/images/2017/01/14/plane12_cam3b_ps1.th.jpg)](https://cdn.scrot.moe/images/2017/01/14/plane12_cam3b_ps1.jpg) 
 [![plane12_cam3b_ps1_1920x1200.th.png](https://cdn.scrot.moe/images/2017/01/14/plane12_cam3b_ps1_1920x1200.th.png)](https://cdn.scrot.moe/images/2017/01/14/plane12_cam3b_ps1_1920x1200.png)
