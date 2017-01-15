@@ -22,4 +22,7 @@ v12_cam3b (3440x1440 & 1920x1200), photoshoped
 [![plane12_cam3b_ps1_1920x1200.th.png](https://cdn.scrot.moe/images/2017/01/14/plane12_cam3b_ps1_1920x1200.th.png)](https://cdn.scrot.moe/images/2017/01/14/plane12_cam3b_ps1_1920x1200.png)
 
 [Download]({{site.baseurl}}/blends/planeUV8.blend.zip) simplified (but with better uv unwrap) version of it.  
+
+[![planeUV8.th.png](https://cdn.scrot.moe/images/2017/01/15/planeUV8.th.png)](https://cdn.scrot.moe/images/2017/01/15/planeUV8.png)
+
 And there is a [video tutorial](https://youtu.be/SIFLTOvt60k) (mute).
