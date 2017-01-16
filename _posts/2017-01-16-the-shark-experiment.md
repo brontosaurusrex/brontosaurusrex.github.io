@@ -1,0 +1,15 @@
+---
+published: true
+layout: post
+date: '2017-01-16 20:20 +0100'
+title: The shark experiment
+---
+[![shark.th.jpg](https://cdn.scrot.moe/images/2017/01/16/shark.th.jpg)](https://cdn.scrot.moe/images/2017/01/16/shark.jpg)
+[![shark2.th.jpg](https://cdn.scrot.moe/images/2017/01/16/shark2.th.jpg)](https://cdn.scrot.moe/images/2017/01/16/shark2.jpg)
+
+That is probably not the way to combine bump with normal map (it is killing the shader).
+
+
+
+
+
