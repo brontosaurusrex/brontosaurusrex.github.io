@@ -25,6 +25,8 @@ published: true
     shift + r = repeat last step
     ctrl + b = bevel
     ctrl + m = mirror
+    r + yy = rotate around active edge?
+    ctrl + tab (+ 1,2,3) = mesh select mode
     
 ## object mode
 
@@ -35,13 +37,6 @@ published: true
 
     ctrl + c = close curve
     
-## hard-surface modelling
-
-Add modifiers: subsurface (2) and edge split  
-Then you can modify edge sharpness by using n and Mean Creas, where 1 is the sharpest.
- However this is pretty useless, as one should never have totaly sharp edges on anything, 
- so use loops or something.
-
 ## addons
 
 - booltool (bundled)
