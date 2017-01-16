@@ -4,7 +4,7 @@ layout: post
 date: '2017-01-17 00:32 +0100'
 title: 'Blender, stamping with normal brush to normal map'
 ---
-1. A new texture filled with default normal color, hex 8080FF, make it float. Save it.
+1. A new texture filled with default normal color, hex 8080FF, make it float. Save the image.
 2. unwrap the model
 3. switch to cycles, make the material node, for example:  
 
