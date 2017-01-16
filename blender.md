@@ -26,7 +26,7 @@ published: true
     ctrl + b = bevel
     ctrl + m = mirror
     r + yy = rotate around active edge?
-    ctrl + tab (+ 1,2,3) = mesh select mode
+    ctrl + tab (+ 1,2,3) = mesh select mode (edge, vertex, face)
     
 ## object mode
 
