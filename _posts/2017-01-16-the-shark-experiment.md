@@ -7,9 +7,4 @@ title: The shark experiment
 [![shark.th.jpg](https://cdn.scrot.moe/images/2017/01/16/shark.th.jpg)](https://cdn.scrot.moe/images/2017/01/16/shark.jpg)
 [![shark2.th.jpg](https://cdn.scrot.moe/images/2017/01/16/shark2.th.jpg)](https://cdn.scrot.moe/images/2017/01/16/shark2.jpg)
 
-That is probably not the way to combine bump with normal map (it is killing the shader). The solution is probably to draw this "panel" lines directly to normal map.
-
-
-
-
-
+That is probably not the way to combine bump with normal map (it is killing the shader). The solution is probably to draw this "panel" lines directly to normal map. < Besides baking, how?
