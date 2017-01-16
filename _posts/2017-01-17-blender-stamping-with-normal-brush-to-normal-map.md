@@ -10,6 +10,8 @@ title: 'Blender, stamping with normal brush to normal map'
 
     Image Texture >Color> Normal map >Normal> Diffuse BSDF > material
     
+![normalNode.jpg]({{site.baseurl}}/media/normalNode.jpg)
+    
 4. Find some normal stamps or make one (that matcap shader might be usefull), they should probably be square.
 5. Texture paint, be confused, load the brush to Texture, start stamping (Brush Mapping: View Plane)
 
