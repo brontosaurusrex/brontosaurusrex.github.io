@@ -11,6 +11,9 @@ title: 'Blender, stamping with normal brush to normal map'
     Image Texture >Color> Normal map >Normal> Diffuse BSDF > material
     
 4. Find some normal stamps or make one (that matcap shader might be usefull), they should probably be square.
+
+[![brush3.th.png](https://cdn.scrot.moe/images/2017/01/17/brush3.th.png)](https://scrot.moe/image/11dwL) [![brush.th.png](https://cdn.scrot.moe/images/2017/01/17/brush.th.png)](https://scrot.moe/image/11UQA)
+
 5. Texture paint, be confused, load the brush to Texture, start stamping (Brush Mapping: View Plane)
 
 If the stamps renders inset instead of outset then go to edit mode and a and ctrl+n. Or change your mind.
