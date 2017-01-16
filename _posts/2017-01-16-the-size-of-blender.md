@@ -7,3 +7,5 @@ title: The size of Blender
 [https://www.youtube.com/watch?v=CqSEtTF8hPE](https://www.youtube.com/watch?v=CqSEtTF8hPE)
 
 Jeff Bell and Ken Zorniak at Blender Conference 2016. (Maya no more)
+
+![](https://static01.nyt.com/images/2008/06/25/dining/25blender.600.nostroke.jpg)
