@@ -9,7 +9,7 @@ title: ffmpeg extract multiple audio tracks
 will take first 4 audio tracks in that mxf and "copy" them to some new wav files. Interesting part here is 0:a:0 which is actually track with id 1, should be easier to parse with some bash script, just counting audio tracks perhaps.
 
     # list audio channels
-    ffprobe TIG-SUSKIND-TP.mxf 2>&1 | grep Audio
+    ffprobe file.mxf 2>&1 | grep Audio
         Stream #0:1: Audio: pcm_s24le, 48000 Hz, 1 channels, s32 (24 bit), 1152 kb/s
         Stream #0:2: Audio: pcm_s24le, 48000 Hz, 1 channels, s32 (24 bit), 1152 kb/s
         Stream #0:3: Audio: pcm_s24le, 48000 Hz, 1 channels, s32 (24 bit), 1152 kb/s
@@ -20,7 +20,7 @@ will take first 4 audio tracks in that mxf and "copy" them to some new wav files
         Stream #0:8: Audio: pcm_s24le, 48000 Hz, 1 channels, s32 (24 bit), 1152 kb/s
     
     # count audio channels
-    ffprobe TIG-SUSKIND-TP.mxf 2>&1 | grep Audio | wc -l #
+    ffprobe file.mxf 2>&1 | grep Audio | wc -l #
     8
     
     # p.s. mediainfo only lists 7 channels for some reason
