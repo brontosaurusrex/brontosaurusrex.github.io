@@ -20,3 +20,7 @@ title: 'Blender, stamping with normal brush to normal map'
 If the stamps renders inset instead of outset then go to edit mode and a and ctrl+n. Or change your mind.
 
 [![normal2normal.th.png](https://cdn.scrot.moe/images/2017/01/17/normal2normal.th.png)](https://cdn.scrot.moe/images/2017/01/17/normal2normal.png)
+
+Notes: 
+- In edit mode "shift + numpad 7" will align view to selected poli.
+- Is there some sort of grid-snaping?
