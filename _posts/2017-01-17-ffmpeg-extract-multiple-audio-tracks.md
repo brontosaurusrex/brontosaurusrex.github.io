@@ -6,7 +6,7 @@ title: ffmpeg extract multiple audio tracks
 ---
     ffmpeg -i input.mxf -map 0:a:0 -c copy ~/output/a1.wav -map 0:a:1 -c copy ~/output/a2.wav -map 0:a:2 -c copy ~/output/a3.wav -map 0:a:3 -c copy ~/output/a4.wav
     
-will take first 4 audio tracks in that mxf and "copy" them to some new wav files. Interesting part here is 0:a:0 which is actually track with id 1, should be easier to parse with some bash script, just counting audio tracks perhaps.
+will take first 4 audio tracks in that mxf and "copy" them to some new wav files. Interesting part here is 0:a:0 which is actually track with id 1, asuming first audio track is always 0:a:0 it should be easier to parse with some bash script, just counting audio tracks perhaps (number of loops or something).
 
     # list audio channels
     ffprobe file.mxf 2>&1 | grep Audio
