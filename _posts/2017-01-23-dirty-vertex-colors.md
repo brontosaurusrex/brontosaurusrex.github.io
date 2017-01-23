@@ -8,4 +8,8 @@ Sort of ambient occlusion
 
 [https://www.blenderguru.com/tutorials/how-to-quickly-add-dirt-to-crevices/](https://www.blenderguru.com/tutorials/how-to-quickly-add-dirt-to-crevices/)
 
+Landscape Ant addon
+
+[![planetarium.th.png](https://cdn.scrot.moe/images/2017/01/23/planetarium.th.png)](https://cdn.scrot.moe/images/2017/01/23/planetarium.png)
+
 
