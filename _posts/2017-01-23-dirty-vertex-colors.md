@@ -9,3 +9,8 @@ Sort of ambient occlusion
 
 Landscape Ant addon  
 [![planetarium.th.png](https://cdn.scrot.moe/images/2017/01/23/planetarium.th.png)](https://cdn.scrot.moe/images/2017/01/23/planetarium2.png)
+
+[Material node](https://cdn.scrot.moe/images/2017/01/23/vertexAO.png).
+
+3440x1440  
+[![planetarium3_ps2.th.jpg](https://cdn.scrot.moe/images/2017/01/23/planetarium3_ps2.th.jpg)](https://cdn.scrot.moe/images/2017/01/23/planetarium3_ps2.jpg)
