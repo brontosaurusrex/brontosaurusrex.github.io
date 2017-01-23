@@ -14,3 +14,4 @@ Landscape Ant addon
 
 3440x1440  
 [![planetarium3_ps2.th.jpg](https://cdn.scrot.moe/images/2017/01/23/planetarium3_ps2.th.jpg)](https://cdn.scrot.moe/images/2017/01/23/planetarium3_ps2.jpg)
+[![planetarium4_ps4.th.png](https://cdn.scrot.moe/images/2017/01/23/planetarium4_ps4.th.png)](https://cdn.scrot.moe/images/2017/01/23/planetarium4_ps4.png)
