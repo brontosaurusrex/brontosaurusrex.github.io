@@ -25,7 +25,7 @@ Why is this not part of the shader nodes? This vertex map is kinda mesh-resoluti
 
 <s>Supposedly the use of geometry/pointiness with some color-ramp could be used.</s> < nope, tested.
 
-AO baking is an option. < tested
+AO baking is an option, results are slightly different. < tested
 
 Workaround for lack of resolution might be to use this dirt as a driver for some procedural texture position or use subdivided mesh for that (to increase resolution) < to test.
 
