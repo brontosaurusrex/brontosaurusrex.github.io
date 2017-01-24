@@ -25,6 +25,7 @@ Why is this not part of the shader nodes? This vertex map is kinda mesh-resoluti
 Workaround for lack of resolution might be to use this dirt as a driver for some procedural texture position or use subdivided mesh for that (to increase resolution) < to test.
 
 There is also cavity mask in Texture paint.  
+[https://www.blendernation.com/2015/02/25/cavity-mask-for-cycles-and-texture-paint/](https://www.blendernation.com/2015/02/25/cavity-mask-for-cycles-and-texture-paint/)
 
 [https://wiki.blender.org/index.php/User:Gregzaal/AO_node_proposal](https://wiki.blender.org/index.php/User:Gregzaal/AO_node_proposal)
 
