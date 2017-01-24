@@ -31,3 +31,6 @@ There is also cavity mask in Texture paint.
 
 On general surface dirt nodes (extremly good results)  
 [http://blender.stackexchange.com/questions/32494/how-to-make-dirty-looking-object](http://blender.stackexchange.com/questions/32494/how-to-make-dirty-looking-object)
+
+And the render layer part (microdisplacement)  
+[https://www.youtube.com/watch?v=hlh9rrjG29k](https://www.youtube.com/watch?v=hlh9rrjG29k)
