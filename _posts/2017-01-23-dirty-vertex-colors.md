@@ -23,5 +23,5 @@ Landscape Ant addon
 Why is this not part of the shader nodes?  
 [https://wiki.blender.org/index.php/User:Gregzaal/AO_node_proposal](https://wiki.blender.org/index.php/User:Gregzaal/AO_node_proposal)
 
-On general surface dirt nodes  
+On general surface dirt nodes (extremly good results)  
 [http://blender.stackexchange.com/questions/32494/how-to-make-dirty-looking-object](http://blender.stackexchange.com/questions/32494/how-to-make-dirty-looking-object)
