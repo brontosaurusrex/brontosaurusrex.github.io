@@ -20,5 +20,8 @@ Landscape Ant addon
 1920x1200  
 [![planetarium4_ps5_1920x1200.th.png](https://cdn.scrot.moe/images/2017/01/23/planetarium4_ps5_1920x1200.th.png)](https://cdn.scrot.moe/images/2017/01/23/planetarium4_ps5_1920x1200.png)
 
+Why is this not part of the shader nodes?  
+[https://wiki.blender.org/index.php/User:Gregzaal/AO_node_proposal](https://wiki.blender.org/index.php/User:Gregzaal/AO_node_proposal)
+
 On general surface dirt nodes  
 [http://blender.stackexchange.com/questions/32494/how-to-make-dirty-looking-object](http://blender.stackexchange.com/questions/32494/how-to-make-dirty-looking-object)
