@@ -20,7 +20,9 @@ Landscape Ant addon
 1920x1200  
 [![planetarium4_ps5_1920x1200.th.png](https://cdn.scrot.moe/images/2017/01/23/planetarium4_ps5_1920x1200.th.png)](https://cdn.scrot.moe/images/2017/01/23/planetarium4_ps5_1920x1200.png)
 
-Why is this not part of the shader nodes? (This vertex map is kinda mesh-resolution dependant) Workaround might be to use this dirt as a driver for some procedural texture position to hide the lack of resolution.  
+Why is this not part of the shader nodes? This vertex map is kinda mesh-resolution dependant. supposedly the use of geometry/pointiness with some color-ramp could be used. 
+
+Workaround for lack of resolution might be to use this dirt as a driver for some procedural texture position or use subdivided mesh for that (to increase resolution) < to test.  
 [https://wiki.blender.org/index.php/User:Gregzaal/AO_node_proposal](https://wiki.blender.org/index.php/User:Gregzaal/AO_node_proposal)
 
 On general surface dirt nodes (extremly good results)  
