@@ -21,6 +21,13 @@ Landscape Ant addon
 1920x1200  
 [![planetarium4_ps5_1920x1200.th.png](https://cdn.scrot.moe/images/2017/01/23/planetarium4_ps5_1920x1200.th.png)](https://cdn.scrot.moe/images/2017/01/23/planetarium4_ps5_1920x1200.png)
 
+Rerender, more samples, 1920x1200
+[![planetarium8_ps1_1920x1200.th.png](https://cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_1920x1200.th.png)](https://cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_1920x1200.png)
+3840x1200 (dual monitor)  
+[![planetarium8_ps1_3840x1200.th.png](https://cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_3840x1200.th.png)](https://cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_3840x1200.png)
+3440x1440  
+[![planetarium8_ps1_3440x1440.th.png](https://cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_3440x1440.th.png)](https://cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_3440x1440.png)
+
 Why is this not part of the shader nodes? This vertex map is kinda mesh-resolution dependant.
 
 <s>Supposedly the use of geometry/pointiness with some color-ramp could be used.</s> < nope, tested.
