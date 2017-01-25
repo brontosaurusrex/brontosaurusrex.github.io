@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2017-01-23 11:58 +0100'
-title: Dirty vertex colors
+title: Dirty vertex colors & planetarium experiment
 ---
 Sort of ambient occlusion  
 [https://www.blenderguru.com/tutorials/how-to-quickly-add-dirt-to-crevices/](https://www.blenderguru.com/tutorials/how-to-quickly-add-dirt-to-crevices/)
@@ -21,7 +21,9 @@ Landscape Ant addon
 1920x1200  
 [![planetarium4_ps5_1920x1200.th.png](https://cdn.scrot.moe/images/2017/01/23/planetarium4_ps5_1920x1200.th.png)](https://cdn.scrot.moe/images/2017/01/23/planetarium4_ps5_1920x1200.png)
 
-Rerender, more samples, 1920x1200
+Rerender, more samples, lower DOF
+
+1920x1200  
 [![planetarium8_ps1_1920x1200.th.png](https://cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_1920x1200.th.png)](https://cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_1920x1200.png)
 3840x1200 (dual monitor)  
 [![planetarium8_ps1_3840x1200.th.png](https://cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_3840x1200.th.png)](https://cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_3840x1200.png)
