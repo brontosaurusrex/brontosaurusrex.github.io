@@ -9,3 +9,6 @@ youtab
 
 frameserver  
 [http://peter.schlaile.de/blender/sequencer/frameserver.html](http://peter.schlaile.de/blender/sequencer/frameserver.html)
+
+Best of slither, coming sooner than soon  
+[![editingBlender.th.png](https://cdn.scrot.moe/images/2017/01/26/editingBlender.th.png)](https://cdn.scrot.moe/images/2017/01/26/editingBlender.png)
