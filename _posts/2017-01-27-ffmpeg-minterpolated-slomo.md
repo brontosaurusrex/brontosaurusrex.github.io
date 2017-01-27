@@ -6,5 +6,5 @@ title: ffmpeg minterpolated slomo
 ---
 [https://ffmpeg.org/ffmpeg-filters.html#minterpolate](https://ffmpeg.org/ffmpeg-filters.html#minterpolate)
 
-> minterpolate
+> minterpolate  
 > Convert the video to specified frame rate using motion interpolation.
