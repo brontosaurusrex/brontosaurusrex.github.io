@@ -9,7 +9,7 @@ title: ffmpeg minterpolated slomo
 > minterpolate  
 > Convert the video to specified frame rate using motion interpolation.
 
-Example, assuming input is 25 fps
+Example, assuming input and output are 25 fps
 
     ffmpeg -i in.mov -vf minterpolate=fps=50 -c:v prores -r 25 out.mov # < that didn't work
     
