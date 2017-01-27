@@ -11,4 +11,4 @@ title: ffmpeg minterpolated slomo
 
 Example, assuming input is 25 fps
 
-    ffmpeg -i in.mov -vf minterpolate=fps=50 -c:v prores -r 25 out.mov
+    ffmpeg -i in.mov -vf minterpolate=fps=50 -c:v prores -r 25 out.mov # < that didn't work
