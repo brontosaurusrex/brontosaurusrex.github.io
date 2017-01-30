@@ -8,7 +8,7 @@ title: BunsenLabs "Deuterium"
 
 ## distro
 
-Annoucement is kinda missing bunch of remove words.
+Annoucement is kinda missing bunch of remove words. Yes removing stuff is a big feature if you wanna stay #! friendly.
 
 ## element
 
