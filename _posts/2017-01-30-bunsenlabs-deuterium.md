@@ -6,6 +6,12 @@ title: BunsenLabs "Deuterium"
 ---
 [https://forums.bunsenlabs.org/viewtopic.php?id=3288](https://forums.bunsenlabs.org/viewtopic.php?id=3288)
 
+## distro
+
+Annoucement is kinda missing bunch of remove words.
+
+## element
+
 > Deuterium, also known as heavy hydrogen) is one of two stable isotopes of hydrogen. The nucleus of deuterium, called a deuteron, contains one proton and one neutron. 
 
 Also a building block for so called "heavy water".
