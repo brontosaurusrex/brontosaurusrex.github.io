@@ -12,3 +12,6 @@ Edit: some work
 [![brontoRenderCool_ps2.th.png](https://cdn.scrot.moe/images/2017/02/01/brontoRenderCool_ps2.th.png)](https://cdn.scrot.moe/images/2017/02/01/brontoRenderCool_ps2.png)
 
 [material node](https://cdn.scrot.moe/images/2017/02/01/materialNode.png)
+
+rotation of the model  
+[https://youtu.be/2UpGJdx0HVw](https://youtu.be/2UpGJdx0HVw)

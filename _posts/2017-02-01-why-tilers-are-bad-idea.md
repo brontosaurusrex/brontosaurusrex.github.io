@@ -9,7 +9,7 @@ title: Why tilers are bad idea
 - window has wrong margin/padding
 - use of mouse is limited
 - bad compatibility with other wm stuff (tint2)
-- extreme workflow jump when everything else uses floating paradigm (perhaps with slight tiling at the top)
+- extreme workflow jump when everything else uses floating paradigm
 
 Imho the only software that uses tiling pardigm at least half-correctly is Blender (yeah, not a wm).
 
