@@ -10,6 +10,9 @@ title: BunsenLabs "Deuterium"
 
 Annoucement is kinda missing bunch of remove words. Yes, removing stuff is a big feature if you wanna stay #! friendly.
 
+> Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+> Antoine de Saint-Exupery
+
 ## element
 
 > Deuterium, also known as heavy hydrogen) is one of two stable isotopes of hydrogen. The nucleus of deuterium, called a deuteron, contains one proton and one neutron. 
