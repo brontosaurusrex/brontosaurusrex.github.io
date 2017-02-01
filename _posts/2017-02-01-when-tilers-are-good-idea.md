@@ -6,4 +6,4 @@ title: When tilers are good idea
 ---
 [https://github.com/xhsdf/rtile](https://github.com/xhsdf/rtile)
 
-Ruby script for manual or automagic placement of windows.
+Ruby script for manual or automagic placement/tiling of windows.
