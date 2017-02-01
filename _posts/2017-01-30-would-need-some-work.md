@@ -18,3 +18,4 @@ rotation of the model
 
 Edit2: Some more work on eyes (3440x1440)    
 [![bronto17b_oci_3440x1440_ps1.th.png](https://cdn.scrot.moe/images/2017/02/01/bronto17b_oci_3440x1440_ps1.th.png)](https://cdn.scrot.moe/images/2017/02/01/bronto17b_oci_3440x1440_ps1.png)
+[![bronto17b_oci_3440x1440_ps2.th.png](https://cdn.scrot.moe/images/2017/02/01/bronto17b_oci_3440x1440_ps2.th.png)](https://cdn.scrot.moe/images/2017/02/01/bronto17b_oci_3440x1440_ps2.png)
