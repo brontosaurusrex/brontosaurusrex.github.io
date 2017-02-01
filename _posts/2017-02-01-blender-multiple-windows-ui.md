@@ -7,3 +7,5 @@ title: Blender multiple windows UI
 Somehow I didn't even know this was possible.
 
 [![blenderMultipleWindows2.th.png](https://cdn.scrot.moe/images/2017/02/01/blenderMultipleWindows2.th.png)](https://scrot.moe/image/1yJXd) [![blenderMultipleWindows.th.png](https://cdn.scrot.moe/images/2017/02/01/blenderMultipleWindows.th.png)](https://scrot.moe/image/1y2aY)
+
+Mouse on that split triangle, shift + lmb + drag. On linux closing window with alt+f4 did the closing part.
