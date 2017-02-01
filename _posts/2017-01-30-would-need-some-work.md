@@ -14,7 +14,8 @@ Edit: some work
 [material node](https://cdn.scrot.moe/images/2017/02/01/materialNode.png)
 
 rotation of the model  
-[https://youtu.be/2UpGJdx0HVw](https://youtu.be/2UpGJdx0HVw)
+[https://youtu.be/2UpGJdx0HVw](https://youtu.be/2UpGJdx0HVw)  
+[https://youtu.be/CDk0AqDYQWQ](https://youtu.be/CDk0AqDYQWQ)  
 
 Edit2: Some more work on eyes (3440x1440)    
 [![bronto17b_oci_3440x1440_ps1.th.png](https://cdn.scrot.moe/images/2017/02/01/bronto17b_oci_3440x1440_ps1.th.png)](https://cdn.scrot.moe/images/2017/02/01/bronto17b_oci_3440x1440_ps1.png)
