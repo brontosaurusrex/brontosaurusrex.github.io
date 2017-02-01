@@ -16,5 +16,5 @@ Edit: some work
 rotation of the model  
 [https://youtu.be/2UpGJdx0HVw](https://youtu.be/2UpGJdx0HVw)
 
-Edit2: Some more work, eyes  
+Edit2: Some more work on eyes (3440x1440)    
 [![bronto17b_oci_3440x1440_ps1.th.png](https://cdn.scrot.moe/images/2017/02/01/bronto17b_oci_3440x1440_ps1.th.png)](https://cdn.scrot.moe/images/2017/02/01/bronto17b_oci_3440x1440_ps1.png)
