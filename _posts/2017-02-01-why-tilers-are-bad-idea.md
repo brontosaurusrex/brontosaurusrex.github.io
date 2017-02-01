@@ -12,3 +12,5 @@ title: Why tilers are bad idea
 - extreme workflow jump when everything else uses floating paradigm (perhaps with slight tiling at the top)
 
 Imho the only software that uses tiling pardigm at least half-correctly is Blender (yeah, not a wm).
+
+[Old dwm scrot](http://shrani.si/f/J/Dt/2JyfnMqL/1/dwm.png).
