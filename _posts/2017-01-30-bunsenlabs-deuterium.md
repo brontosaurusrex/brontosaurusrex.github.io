@@ -13,6 +13,13 @@ Annoucement is kinda missing bunch of remove words. Yes, removing stuff is a big
 > Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
 > Antoine de Saint-Exupery
 
+And another thought
+
+    heridon wrote:
+    Colors are for content, not for UI!
+
+couldn't agree more, however it is not 100% clear if this a trendy thing or something more stable.
+
 ## element
 
 > Deuterium, also known as heavy hydrogen) is one of two stable isotopes of hydrogen. The nucleus of deuterium, called a deuteron, contains one proton and one neutron. 
