@@ -12,7 +12,9 @@ then
 
     mount -t ext4 -o loop,rw ./ubuntu.img /mnt
     
-That didn't work
+That didn't work.
 
+p.s. This  
+[https://bethesignal.org/blog/2011/01/05/how-to-mount-virtualbox-vdi-image/](https://bethesignal.org/blog/2011/01/05/how-to-mount-virtualbox-vdi-image/)
 
-
+didn't work either.
