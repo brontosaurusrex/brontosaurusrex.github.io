@@ -15,8 +15,8 @@ Annoucement is kinda missing bunch of remove words. Yes, removing stuff is a big
 
 And another thought
 
-    heridon wrote:
-    Colors are for content, not for UI!
+> heridon wrote:
+> Colors are for content, not for UI!
 
 couldn't agree more, however it is not 100% clear if this a trendy thing or something more stable.
 
