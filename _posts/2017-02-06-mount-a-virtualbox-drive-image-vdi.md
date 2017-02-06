@@ -11,4 +11,8 @@ title: Mount a VirtualBox drive image (vdi)?
 then
 
     mount -t ext4 -o loop,rw ./ubuntu.img /mnt
+    
+That didn't work
+
+
 
