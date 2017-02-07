@@ -43,4 +43,6 @@ published: true
 - floorgen (bundled?)
 - f2 (bundled?)
 - node wrangler (bundled)
+- Dynamic Sky (free)
+- Animation Nodes (free) < amazing!
 - hard ops (commercial)
