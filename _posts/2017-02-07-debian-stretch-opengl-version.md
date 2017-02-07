@@ -6,7 +6,7 @@ title: Debian Stretch OpenGL version?
 ---
 ![openGl.png]({{site.baseurl}}/media/openGl.png)
 
-Stretch in VirtualBox:
+Stretch in VirtualBox
 
     glxinfo | grep -i opengl
 
