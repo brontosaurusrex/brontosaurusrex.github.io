@@ -4,6 +4,8 @@ layout: post
 date: '2017-02-07 14:00 +0100'
 title: Debian Stretch OpenGL version?
 ---
+![openGl.png]({{site.baseurl}}/media/openGl.png)
+
 Stretch in VirtualBox:
 
     glxinfo | grep -i opengl
