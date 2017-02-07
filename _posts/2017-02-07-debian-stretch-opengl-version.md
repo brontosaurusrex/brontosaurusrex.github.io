@@ -38,4 +38,4 @@ Jessie on real hardware returns
     OpenGL ES profile shading language version string: OpenGL ES GLSL ES 1.0.16
     OpenGL ES profile extensions:
     
-What would that mean for Blender 2.8 happines, when released.
+What would that mean for Blender 2.8 happines, when released?
