@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2017-02-08 18:47 +0100'
-title: 'Modeling hair (curves, splines, bezier)'''
+title: 'Modeling hair (curves, splines, bezier)'
 ---
 [https://www.youtube.com/watch?v=Nn7mISvVzJk](https://www.youtube.com/watch?v=Nn7mISvVzJk)
 
