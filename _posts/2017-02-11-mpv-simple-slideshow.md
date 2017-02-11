@@ -11,3 +11,7 @@ This will not allow you to jump to previous pic, mpv is not aware of multiple fi
 To get a playlist
 
     ls *.jpg | mpv -fs --image-display-duration=12 --playlist=-
+    
+fade-in experiment using lavfi filters, not working well
+
+    mpv *.jpg -fs -vf lavfi=[scale=1920:1080,fps=25,loop=650:1:0,fade=in:0:30]
