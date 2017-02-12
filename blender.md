@@ -45,4 +45,5 @@ published: true
 - node wrangler (bundled)
 - Dynamic Sky (free)
 - Animation Nodes (free) < amazing!
+- Sverchok (free)
 - hard ops (commercial)
