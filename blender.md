@@ -1,6 +1,6 @@
 ---
 layout: page
-title: blender
+title: Blender
 published: true
 ---
 ## edit mode
