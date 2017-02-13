@@ -47,3 +47,8 @@ published: true
 - Animation Nodes (free) < amazing!
 - Sverchok (free)
 - hard ops (commercial)
+
+## Shortcut infographics
+
+[infographics](https://tplinnovator.files.wordpress.com/2015/09/blender3d-shortcuts-infographic.jpg)  
+
