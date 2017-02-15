@@ -12,3 +12,4 @@ edit: AE [Rowbyte Plexus2 plugin gui](https://cdn.scrot.moe/images/2017/02/14/pl
 
 What I did  
 [![plexus_blender_ps1.th.png](https://cdn.scrot.moe/images/2017/02/15/plexus_blender_ps1.th.png)](https://cdn.scrot.moe/images/2017/02/15/plexus_blender_ps1.png)
+[![plexus6_nr_ps1.th.png](https://cdn.scrot.moe/images/2017/02/15/plexus6_nr_ps1.th.png)](https://cdn.scrot.moe/images/2017/02/15/plexus6_nr_ps1.png)
