@@ -16,4 +16,10 @@ What I did
 
 Basically: Edges are shader effect, connecting nodes are actual geometry (produced with particles on vertcies and a little sphere). [Landscape shader](https://cdn.scrot.moe/images/2017/02/15/plexusMaterial.jpg) is mostly mix of emission and transparent nodes, scene has no additional lights. Connecting nodes (little spheres) are pure emission material.
 
+An attempt to hide some of the edges using 
 
+    geometry > normal > separate ... > various math > wireframe size
+    
+type of nodes.
+
+[![plexusRender.th.png](https://cdn.scrot.moe/images/2017/02/15/plexusRender.th.png)](https://cdn.scrot.moe/images/2017/02/15/plexusRender.png)
