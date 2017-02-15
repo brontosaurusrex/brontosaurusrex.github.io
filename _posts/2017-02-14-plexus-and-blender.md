@@ -13,3 +13,7 @@ edit: AE [Rowbyte Plexus2 plugin gui](https://cdn.scrot.moe/images/2017/02/14/pl
 What I did  
 [![plexus_blender_ps1.th.png](https://cdn.scrot.moe/images/2017/02/15/plexus_blender_ps1.th.png)](https://cdn.scrot.moe/images/2017/02/15/plexus_blender_ps1.png)
 [![plexus6_nr_ps1.th.png](https://cdn.scrot.moe/images/2017/02/15/plexus6_nr_ps1.th.png)](https://cdn.scrot.moe/images/2017/02/15/plexus6_nr_ps1.png)
+
+Basically: Edges are shader effect, connecting nodes are actual geometry (produced with particles on vertcies and a little sphere). [Landscape shader](https://cdn.scrot.moe/images/2017/02/15/plexusMaterial.jpg) is mostly mix of emission and transparent nodes, scene has no additional lights. Connecting nodes (little spheres) are pure emission material.
+
+
