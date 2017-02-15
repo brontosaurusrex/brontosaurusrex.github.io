@@ -23,3 +23,7 @@ An attempt to hide some of the edges using
 type of nodes.
 
 [![plexusRender.th.png](https://cdn.scrot.moe/images/2017/02/15/plexusRender.th.png)](https://cdn.scrot.moe/images/2017/02/15/plexusRender.png)
+
+and some glare in post
+
+[![plexus10postGlare_8bpc.th.png](https://cdn.scrot.moe/images/2017/02/15/plexus10postGlare_8bpc.th.png)](https://cdn.scrot.moe/images/2017/02/15/plexus10postGlare_8bpc.png)
