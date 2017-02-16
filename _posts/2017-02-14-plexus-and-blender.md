@@ -37,4 +37,5 @@ and gimp 2.9 git seems to have some problems when color-correcting hdr stuff
 Animation experiment
 
 [https://youtu.be/T-WCL81t31I](https://youtu.be/T-WCL81t31I)  
+[https://youtu.be/U-Ot20GHOYU](https://youtu.be/U-Ot20GHOYU)
 
