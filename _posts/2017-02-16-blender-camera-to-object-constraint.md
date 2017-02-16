@@ -6,4 +6,4 @@ title: 'Blender, camera to object constraint'
 ---
 ![cameraToObject.png]({{site.baseurl}}/media/cameraToObject.png)
 
-This is similar as parentig camera to some object, but you have some control.
+This is similar as parenting camera to some object, but you have some control, like camera will not rotate.
