@@ -4,8 +4,6 @@ layout: post
 date: '2017-02-16 17:24 +0100'
 title: 'Debian, compile ffmpeg with x11grab for screen-capturing scripts'
 ---
-# Debian, compile ffmpeg with x11grab for screencapturing scripts
-
 Leave the system version alone, leave the ~/bin version there as well, this compiled one is only ever used for screen capturing
 
     cd ~/source/ffmpeg && git pull # assuming ffmpeg git is cloned there
