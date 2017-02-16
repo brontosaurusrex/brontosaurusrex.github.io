@@ -33,3 +33,8 @@ and some glare in post
 and gimp 2.9 git seems to have some problems when color-correcting hdr stuff
 
 [![plexus10postGlare_gimp1.th.png](https://cdn.scrot.moe/images/2017/02/15/plexus10postGlare_gimp1.th.png)](https://cdn.scrot.moe/images/2017/02/15/plexus10postGlare_gimp1.png)
+
+Animation experiment
+
+[https://youtu.be/T-WCL81t31I](https://youtu.be/T-WCL81t31I)
+
