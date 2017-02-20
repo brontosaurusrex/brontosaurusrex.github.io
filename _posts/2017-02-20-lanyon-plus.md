@@ -21,3 +21,5 @@ Post features:
 Publications listing for resume/cv based on bibliography format
 print.css for clean print format with optional QR code and permalink display in print format.
 Conditional search box based on Google Custom Search and twitter widget
+
+![](http://jekyllthemes.org/thumbnails/lanyon-plus.png)
