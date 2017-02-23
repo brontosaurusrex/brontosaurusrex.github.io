@@ -15,4 +15,6 @@ features.  The method is simple to implement and parallelize, and
 it can process a variety of input surface representations, such as
 point clouds, range scans and triangle meshes
 
-This does compile on Jessie, but will not run due to missing opengl 3.3 context (Stretch? OSX? Arch?).
+This does compile on Jessie, but will not run due to missing opengl 3.3 context (Stretch? OSX? Arch?). It does run on win7.
+
+![](https://raw.githubusercontent.com/wjakob/instant-meshes/master/resources/screenshot.jpg)
