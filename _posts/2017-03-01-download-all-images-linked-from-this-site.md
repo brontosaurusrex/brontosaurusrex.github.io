@@ -12,7 +12,7 @@ title: Download all images linked from this site
     grep -Ev '.th.|b.pwnz|shrani.si\/t\/' | \
     wget -N -i - -P "$out"
 
-This is a single line, but terminated with backslashes for better readability. First cd to local copy of this site, which has all this markdown files. 2nd, set the $out to something that exist. 
+This is a single line, but terminated with backslashes for better readability. First cd to local copy of this site, which has all this markdown files. 2nd, set the '$out' to something that exist. 
 
 then multiple greps are piped to wget and magic happens.
 
