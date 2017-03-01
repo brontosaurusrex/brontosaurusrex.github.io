@@ -7,7 +7,7 @@ title: Download all images linked from this site
     # download all images from this site (tested on OSX)
     # cd to _site dir where your markdown files should be first
     out="/Volumes/raid0/dl/siteImages/"
-    cat * | grep -E '.png|.jpg|.jpeg' | \
+    cat * | grep -E '.png)$|.jpg)$|.jpeg)$|.gif)$' | \
     grep -Eo '(https?|http)://[^ ")]+' | \
     grep -Ev '.th.|b.pwnz|shrani.si\/t\/' | \
     wget -N -i - -P "$out"
