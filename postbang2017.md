@@ -262,7 +262,7 @@ Update: <https://forums.bunsenlabs.org/viewtopic.php?id=578>
 
 a browser and an image viewer and a command line unpacker, sudo
 
-    apt-get install iceweasel viewnior unp
+    apt-get install firefox viewnior unp
 
 I would add an Adblock Plus extension right away
 
@@ -711,7 +711,7 @@ Neither vlc, nor smplayer are working correctly in vbox enviroment for me, possi
 
 ## flash
 
-### the new - better way (Yes it will work in iceweasel as well)
+### the new - better way (Yes it will work in firefox as well)
     
 sudo 
 
@@ -858,7 +858,7 @@ See the example /etc/apt/sources.list in this git before running this.
 
 sudo
 
-    apt-get install openbox xserver-xorg xinit terminator vim thunar tint2 geany gmrun htop mc inxi xsettingsd i3lock sudo dkms network-manager-gnome xfonts-terminus git curl mpv youtube-dl mediainfo mkvtoolnix alsa-base alsa-tools alsa-tools-gui alsa-utils alsa-oss alsamixergui libalsaplayer0 iceweasel viewnior unp lxappearance lxappearance-obconf librsvg2-bin zenity imagemagick dmz-cursor-theme nitrogen obmenu python-xlib python-wxtools conky volti gimp gimp-plugin-registry inkscape galculator gpick font-manager rxvt-unicode catfish atril 
+    apt-get install openbox xserver-xorg xinit terminator vim thunar tint2 geany gmrun htop mc inxi xsettingsd i3lock sudo dkms network-manager-gnome xfonts-terminus git curl mpv youtube-dl mediainfo mkvtoolnix alsa-base alsa-tools alsa-tools-gui alsa-utils alsa-oss alsamixergui libalsaplayer0 firefox viewnior unp lxappearance lxappearance-obconf librsvg2-bin zenity imagemagick dmz-cursor-theme nitrogen obmenu python-xlib python-wxtools conky volti gimp gimp-plugin-registry inkscape galculator gpick font-manager rxvt-unicode catfish atril 
     
     apt-get install flashplugin-nonfree ttf-mscorefonts-installer
     
