@@ -17,3 +17,9 @@ This is a single line, but terminated with backslashes for better readability. F
 then multiple greps are piped to wget and magic happens.
 
 This could be vastly improved, also it is probably not very robust (time will tell).
+
+p.s. Apparently it thinks it did it
+
+    FINISHED --2017-03-01 20:13:43--
+    Total wall clock time: 7m 23s
+    Downloaded: 195 files, 387M in 6m 1s (1.07 MB/s)
