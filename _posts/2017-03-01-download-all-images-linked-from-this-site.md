@@ -18,7 +18,7 @@ then multiple greps are piped to wget and magic happens.
 
 This could be vastly improved, also it is probably not very robust (time will tell).
 
-p.s. Apparently it thinks it did it
+p.s.
 
     FINISHED --2017-03-01 20:13:43--
     Total wall clock time: 7m 23s
