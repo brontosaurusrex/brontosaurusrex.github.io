@@ -5,7 +5,7 @@ date: '2017-03-01 19:55 +0100'
 title: Download all images linked from this site
 ---
     # download all images from this site (tested on OSX)
-    # cd to _site dir with your markdown files
+    # cd to _posts dir with your markdown files
     # and configure this output dir
     out="/Volumes/raid0/dl/siteImages/"
     cat * | grep -E '.png)$|.jpg)$|.jpeg)$|.gif)$' | \
