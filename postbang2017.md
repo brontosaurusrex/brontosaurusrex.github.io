@@ -866,7 +866,7 @@ sudo
     
     apt-get install --no-install-recommends fonts-dejavu ttf-freefont ttf-liberation gdebi gtk2-engines-pixbuf gtk2-engines-murrine gtk2-engines-oxygen gtk2-engines-xfce xfce4-appfinder engrampa
     
-    apt-get install xdotool x11-xserver-utils tree ntp lightdm volumeicon-alsa
+    apt-get install xdotool x11-xserver-utils tree ntp lightdm volumeicon-alsa wmctrl
     
     # backports
     apt-get install -t jessie-backports libreoffice libreoffice-gtk libreoffice-style-breeze
