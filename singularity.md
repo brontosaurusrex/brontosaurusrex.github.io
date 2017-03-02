@@ -1,7 +1,7 @@
 ---
 layout: page
 title: singularity (name is work in progress as well)
-published: true
+published: false
 ---
 
 
