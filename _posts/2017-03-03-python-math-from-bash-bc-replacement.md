@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2017-03-03 02:22 +0100'
-title: python math from bash (bc replacement)
+title: Python math from bash (bc replacement)
 ---
     correct=$(echo "print ((-23)-($lufs)+6)" | python3 ) #float
     echo "$correct correct"
