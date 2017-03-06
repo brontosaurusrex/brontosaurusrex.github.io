@@ -38,4 +38,4 @@ Example Sigmoid
     
 ![sigmoid.png]({{site.baseurl}}/media/sigmoid.png)
 
-
+from [http://squall0032.tumblr.com/post/77300791096/plotting-a-sigmoid-function-using](http://squall0032.tumblr.com/post/77300791096/plotting-a-sigmoid-function-using)
