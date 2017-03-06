@@ -40,3 +40,7 @@ Example usage
     
     calc 'round(-5.5)'
     -6
+    
+Note: Function is certainly NOT safe for random user input, basically it can run any python, for example:
+
+    calc '"moo");import os;print(os.stat(".")'
