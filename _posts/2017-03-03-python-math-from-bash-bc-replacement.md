@@ -11,3 +11,9 @@ title: Python math from bash (bc replacement)
     echo "$correct correct int"
     
 Python3 round returns integer (unlike 2.7).
+
+As function
+
+    calc() { python3 -c "print($*)"; }
+    
+
