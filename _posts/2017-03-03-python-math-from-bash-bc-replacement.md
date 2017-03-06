@@ -44,7 +44,3 @@ Example usage
 Note: Function is certainly NOT safe for random user input, basically it can run any python, for example:
 
     calc '"moo");import os;print(os.stat(".")'
-    
-Safer version?
-
-    python3 -c 'import ast, sys; print(ast.literal_eval(sys.argv[1]))' "$*"
