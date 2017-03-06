@@ -81,7 +81,5 @@ Some data in seconds, frames (14 clips + last(long)), use that in reverse order 
     44  41.92913758 5.7     = 5s 18f
     46  47.60546925 5.8     = 5s 20f
     48  53.36833219
-
-
-
-
+    
+    # assuming 25fps
