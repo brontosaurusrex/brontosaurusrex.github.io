@@ -39,3 +39,31 @@ Example Sigmoid
 ![sigmoid.png]({{site.baseurl}}/media/sigmoid.png)
 
 from [http://squall0032.tumblr.com/post/77300791096/plotting-a-sigmoid-function-using](http://squall0032.tumblr.com/post/77300791096/plotting-a-sigmoid-function-using)
+
+edit: this is what I probably want (logistic function)
+
+    import math 
+    from scipy.stats import logistic
+
+    import matplotlib.pyplot as plt
+    import numpy as np
+
+    x = np.arange(-4, -1, 0.2)
+    y = logistic.pdf(x)
+
+    x2 = x*10+60
+    y2 = y*300
+
+    #plt.plot(y2,x2)
+
+    plt.scatter(y2,x2)
+
+    print(y2,x2)
+
+    plt.show()
+
+![logistic.png]({{site.baseurl}}/media/logistic.png)
+
+
+
+
