@@ -86,6 +86,9 @@ Some data in seconds, frames (14 clips + last(long)), use that in reverse order 
     
 constructing cmx edl like this
 
+![timeline1.png]({{site.baseurl}}/media/timeline1.png)
+
+
     TITLE: logistic
     FCM: NON-DROP FRAME
     
