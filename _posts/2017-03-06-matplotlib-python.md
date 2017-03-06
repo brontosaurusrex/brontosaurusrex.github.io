@@ -83,3 +83,54 @@ Some data in seconds, frames (14 clips + last(long)), use that in reverse order 
     48  53.36833219
     
     # assuming 25fps
+    
+constructing cmx edl like this
+
+    TITLE: logistic
+    FCM: NON-DROP FRAME
+    
+    001  AX       V     C        01:00:00:00 01:00:05:20 00:00:00:00 00:00:05:20
+    * FROM CLIP NAME: green
+    
+    002  AX       V     C        01:00:00:00 01:00:05:18 00:00:05:20 00:00:11:13
+    * FROM CLIP NAME: red
+    
+    003  AX       V     C        01:00:00:00 01:00:05:10 00:00:11:13 00:00:16:23
+    * FROM CLIP NAME: blue
+    
+    004  AX       V     C        01:00:00:00 01:00:05:00 00:00:16:23 00:00:21:23
+    * FROM CLIP NAME: yellow
+    
+    005  AX       V     C        01:00:00:00 01:00:04:15 00:00:21:23 00:00:26:13
+    * FROM CLIP NAME: viola
+    
+    006  AX       V     C        01:00:00:00 01:00:04:00 00:00:26:13 00:00:30:13
+    * FROM CLIP NAME: green
+    
+    007  AX       V     C        01:00:00:00 01:00:03:16 00:00:30:13 00:00:34:04
+    * FROM CLIP NAME: red
+    
+    008  AX       V     C        01:00:00:00 01:00:03:03 00:00:34:04 00:00:37:07
+    * FROM CLIP NAME: blue
+    
+    009  AX       V     C        01:00:00:00 01:00:02:16 00:00:37:07 00:00:39:23
+    * FROM CLIP NAME: yellow
+    
+    010  AX       V     C        01:00:00:00 01:00:02:06 00:00:39:23 00:00:42:04
+    * FROM CLIP NAME: viola
+    
+    011  AX       V     C        01:00:00:00 01:00:01:23 00:00:42:04 00:00:44:02
+    * FROM CLIP NAME: green
+    
+    012  AX       V     C        01:00:00:00 01:00:01:15 00:00:44:02 00:00:45:17
+    * FROM CLIP NAME: red
+    
+    013  AX       V     C        01:00:00:00 01:00:01:10 00:00:45:17 00:00:47:02
+    * FROM CLIP NAME: blue
+    
+    014  AX       V     C        01:00:00:00 01:00:01:03 00:00:47:02 00:00:48:05
+    * FROM CLIP NAME: yellow
+    
+    015  AX       V     C        01:00:00:00 01:00:11:20 00:00:48:05 00:01:00:00
+    * FROM CLIP NAME: viola
+
