@@ -6,4 +6,4 @@ title: Android studio
 ---
 [https://developer.android.com/studio/index.html](https://developer.android.com/studio/index.html)
 
-![](https://developer.android.com/static/images/resource-card-default-android.jpg)
+![](http://www.pravelsolutions.com/wp-content/uploads/2014/05/android_platform.png)
