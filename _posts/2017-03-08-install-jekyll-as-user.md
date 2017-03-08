@@ -16,3 +16,5 @@ to ~./.bashrc
 When it complains about missing stuff
 
     gem install --user jekyll-sitemap
+    
+[https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/)
