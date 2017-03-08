@@ -1,7 +1,7 @@
 ---
 layout: page
 title: roundness
-published: true
+published: false
 ---
 <div style="background-color:315666; margin:10px; width:300px; height:300px; display: inline-block; border-radius:1%;"></div>
 <div style="background-color:315666; margin:10px; width:300px; height:300px; display: inline-block; border-radius:2%;"></div>
