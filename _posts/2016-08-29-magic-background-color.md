@@ -14,10 +14,10 @@ title: Magic background color
   <rect width="720" height="200" rx="5" ry="5" 
   style="fill:#2842B3" />
 </svg> 
-2842B3 Royal Blue
+2842B3 > Royal Blue
 
 <svg width="720" height="200">
   <rect width="720" height="200" rx="5" ry="5" 
   style="fill:#313E44" />
 </svg> 
-313E44 Big stone
+313E44 > Big stone
