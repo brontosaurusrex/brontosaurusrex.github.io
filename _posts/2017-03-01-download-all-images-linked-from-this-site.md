@@ -7,7 +7,7 @@ title: Download all images linked from this site
     # download all images from this site (tested on OSX)
     # cd to _posts dir with your markdown files
     # and configure this output dir
-    out="/Volumes/raid0/dl/siteImages/"
+    out="~/images/siteImages/"
     cat * | grep -E '.png)$|.jpg)$|.jpeg)$|.gif)$' | \
     grep -Eo '(https?|http)://[^ ")]+' | \
     grep -Ev '.th.|b.pwnz|shrani.si\/t\/' | \
