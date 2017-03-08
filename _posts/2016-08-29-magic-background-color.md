@@ -4,8 +4,20 @@ layout: post
 date: '2016-08-29 19:36 +0200'
 title: Magic background color
 ---
-<div style="background-color:315666; color:white; padding:20px; width:700px; height:180px; border-radius:5px;">#315666 Teal Blue</div>
+<svg width="720" height="200">
+  <rect width="720" height="200" rx="5" ry="5" 
+  style="fill:#315666" />
+</svg> 
+#315666 > Teal Blue
 
-<div style="background-color:2842B3; color:white; padding:20px; width:700px; height:180px; border-radius:5px;">#2842B3 Royal Blue</div>
+<svg width="720" height="200">
+  <rect width="720" height="200" rx="5" ry="5" 
+  style="fill:#2842B3" />
+</svg> 
+#2842B3 Royal Blue
 
-<div style="background-color:313E44; color:white; padding:20px; width:700px; height:180px; border-radius:5px;">#313E44 Big stone</div>
+<svg width="720" height="200">
+  <rect width="720" height="200" rx="5" ry="5" 
+  style="fill:#313E44" />
+</svg> 
+#313E44 Big stone
