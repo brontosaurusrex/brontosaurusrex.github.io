@@ -13,7 +13,7 @@ add something like
     
 to ~/.bashrc. To test
 
-    which jekyll # should return:
+    which jekyll # should return something like:
     /home/user/.gem/ruby/2.3.0/bin/jekyl
 
 When it complains about missing stuff
