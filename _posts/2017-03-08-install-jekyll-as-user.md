@@ -11,7 +11,10 @@ add something like
     # jekyll (gem install --user jekyll)
     PATH="$HOME/.gem/ruby/2.3.0/bin:$PATH"
     
-to ~./.bashrc
+to ~./.bashrc. To test
+
+    which jekyll # should return:
+    /home/user/.gem/ruby/2.3.0/bin/jekyl
 
 When it complains about missing stuff
 
