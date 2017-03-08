@@ -4,14 +4,7 @@ layout: post
 date: '2017-03-01 19:55 +0100'
 title: Download all images linked from this site
 ---
-    # download all images from this site (tested on OSX)
-    # cd to _posts dir with your markdown files
-    # and configure this output dir
-    out="~/images/siteImages/"
-    cat * | grep -E '.png)$|.jpg)$|.jpeg)$|.gif)$' | \
-    grep -Eo '(https?|http)://[^ ")]+' | \
-    grep -Ev '.th.|b.pwnz|shrani.si\/t\/' | \
-    wget -N -i - -P "$out"
+[https://raw.githubusercontent.com/brontosaurusrex/postbang/master/bin/siteImages](https://raw.githubusercontent.com/brontosaurusrex/postbang/master/bin/siteImages)
 
 Multiple greps are piped to wget and magic happens. Images hosted on the git/page itself are ignored.
 
