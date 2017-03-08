@@ -1,0 +1,14 @@
+---
+published: true
+layout: post
+date: '2017-03-08 13:32 +0100'
+title: Install jekyll as --user
+---
+    gem install --user jekyll
+    
+add something like
+
+    # jekyll (gem install --user jekyll)
+    PATH="$HOME/.gem/ruby/2.3.0/bin:$PATH"
+    
+to ~./.bashrc
