@@ -7,12 +7,24 @@ title: Magic background color
     
     #315666 > Teal Blue
     
-![315666.png]({{site.baseurl}}/media/315666.png)
+ <svg width="720" height="200">
+  <rect width="720" height="200" rx="5" ry="5" 
+  style="fill:#315666;
+  stroke-width:0;" />
+</svg> 
 
     #2842B3 > Royal Blue
     
-Sort of an indigo (Singularity)  
-[![DebianEngine.th.png](https://cdn.scrot.moe/images/2016/11/03/DebianEngine.th.png)](https://cdn.scrot.moe/images/2016/11/03/DebianEngine.png)
+ <svg width="720" height="200">
+  <rect width="720" height="200" rx="5" ry="5" 
+  style="fill:#2842B3;
+  stroke-width:0;" />
+</svg> 
 
     #313E44 > Big stone
-
+    
+ <svg width="720" height="200">
+  <rect width="720" height="200" rx="5" ry="5" 
+  style="fill:#313E44;
+  stroke-width:0;" />
+</svg> 
