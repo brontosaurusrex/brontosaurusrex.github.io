@@ -12,3 +12,7 @@ add something like
     PATH="$HOME/.gem/ruby/2.3.0/bin:$PATH"
     
 to ~./.bashrc
+
+When it complains about missing stuff
+
+    gem install --user jekyll-sitemap
