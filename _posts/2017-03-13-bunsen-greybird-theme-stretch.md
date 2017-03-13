@@ -8,5 +8,5 @@ title: Bunsen-Greybird theme (Stretch)
 
 Not sure if that is the correct link.
 
-[![grey.th.png](https://cdn.scrot.moe/images/2017/03/13/grey.th.png)](https://scrot.moe/image/13pfv)
+[![grey.th.png](https://cdn.scrot.moe/images/2017/03/13/grey.th.png)](https://cdn.scrot.moe/images/2017/03/13/grey.png)
 
