@@ -16,7 +16,7 @@ title: bunsen blend
 [![bunsen11_retopo1_post1.th.png](https://cdn.scrot.moe/images/2017/02/25/bunsen11_retopo1_post1.th.png)](https://cdn.scrot.moe/images/2017/02/25/bunsen11_retopo1_post1_1920x1200.png)
 [![bunsen11_post2_1920x1200.th.png](https://cdn.scrot.moe/images/2017/02/22/bunsen11_post2_1920x1200.th.png)](https://cdn.scrot.moe/images/2017/02/22/bunsen11_post2_1920x1200.png)
 
-Blend
+Blend  
 [bunsen21_retopo.blend]({{site.baseurl}}/blends/bunsen21_retopo.blend)  
 - Provide your own lightning/hdri
 - Set subdivision levels to 4
