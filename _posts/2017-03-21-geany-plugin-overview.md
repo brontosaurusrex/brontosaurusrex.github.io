@@ -10,3 +10,5 @@ In Stretch
     
 ![geany-overview.png]({{site.baseurl}}/media/geany-overview.png)
 
+Stretch compared to Jessie  
+[https://forums.bunsenlabs.org/viewtopic.php?id=3344](https://forums.bunsenlabs.org/viewtopic.php?id=3344)
