@@ -581,6 +581,7 @@ a.pagination-item:hover {
   padding-top:    4rem;
   width: 100%;
   background-color: #fcfcfc;
+  background-color: #ececec;
 
 
   border-top: dotted #cccccc 1px;  
@@ -605,6 +606,5 @@ input[type="text"] {
   	font-size: .875rem; /* 15px */
   	width: 100%;
 }
-
 
 

@@ -60,7 +60,8 @@ html {
 
 body {
   color: #515151;
-  background-color: #fff;
+  background-color: #eee;
+
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -159,6 +160,9 @@ code {
 
   background-color: #333333;
   border-radius: 3px;
+  
+  
+  
 }
 pre {
   display: block;
@@ -182,6 +186,7 @@ pre code {
   font-size: 100%;
   color: inherit;
   background-color: transparent;
+  
 }
 .highlight {
   margin-bottom: 1rem;
