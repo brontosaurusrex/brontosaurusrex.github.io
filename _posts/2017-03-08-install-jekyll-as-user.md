@@ -23,3 +23,8 @@ When it complains about missing stuff
 [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/)
 
 ![jekyll](https://jekyllrb.com/img/logo-2x.png)
+
+p.s. To get ruby stuff, use something like
+
+    sudo apt install jekyll
+    sudo apt remove jekyll
