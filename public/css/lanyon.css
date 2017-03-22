@@ -38,7 +38,8 @@
 html,
 body {
     overflow-x: hidden;
-
+    background-image: url("/public/mozillaGrain.png");
+    
 } 
 
 html {
@@ -247,7 +248,7 @@ a.sidebar-nav-item:focus {
   width: 2.2rem;
   padding: .5rem .65rem;
   color: #505050;
-  background-color: #fff;
+  background-color: transparent;
   border-radius: 4px;
   cursor: pointer;
 }
@@ -583,6 +584,8 @@ a.pagination-item:hover {
 
 
   border-top: dotted #cccccc 1px;  
+  
+  background-image: url("/public/mozillaGrain.png");
 
 }
 
