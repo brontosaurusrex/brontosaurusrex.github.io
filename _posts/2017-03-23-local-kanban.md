@@ -6,3 +6,6 @@ title: local kanban
 ---
 [http://interactjs.io/](http://interactjs.io/), [http://interactjs.io/docs](http://interactjs.io/docs)    
 [https://www.w3schools.com/html/html5_webstorage.asp](https://www.w3schools.com/html/html5_webstorage.asp)
+
+things that are done  
+[https://greggigon.github.io/my-personal-kanban/](https://greggigon.github.io/my-personal-kanban/)
