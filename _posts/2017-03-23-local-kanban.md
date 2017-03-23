@@ -9,3 +9,6 @@ title: local kanban
 
 things that are done  
 [https://greggigon.github.io/my-personal-kanban/](https://greggigon.github.io/my-personal-kanban/)
+
+Xpad  
+[![localTrelloWithXpad.th.png](https://cdn.scrot.moe/images/2017/03/23/localTrelloWithXpad.th.png)](https://cdn.scrot.moe/images/2017/03/23/localTrelloWithXpad.png)
