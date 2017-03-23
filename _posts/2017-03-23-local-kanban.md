@@ -12,3 +12,4 @@ things that are done
 
 Xpad  
 [![localTrelloWithXpad.th.png](https://cdn.scrot.moe/images/2017/03/23/localTrelloWithXpad.th.png)](https://cdn.scrot.moe/images/2017/03/23/localTrelloWithXpad.png)
+[![localTrelloWithXpadNoShadow.th.png](https://cdn.scrot.moe/images/2017/03/23/localTrelloWithXpadNoShadow.th.png)](https://cdn.scrot.moe/images/2017/03/23/localTrelloWithXpadNoShadow.png)
