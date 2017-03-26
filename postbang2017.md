@@ -985,7 +985,8 @@ With slight reconfiguration the same make-up layer might work with other distros
 
 ## Thanks to
 
-Sector11: typos/wording/language
+Sector11: typos/wording/language  
+[ekalinin: TOC generator](https://github.com/ekalinin/github-markdown-toc.go/)
 
 ## Issues?
 
