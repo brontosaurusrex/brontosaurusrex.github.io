@@ -37,3 +37,5 @@ btw
     n N < repeat
     :%s/old/new/g < replace
     :%s/old/new/gc < with confirmations
+
+[cheetsheet](http://www.worldtimzone.com/res/vi.html)
