@@ -77,3 +77,9 @@ User visible differences:
 - gt always work in nvim, sometimes fails in vim
 - /search is interactive < this could be due to some sort of config difference, anyway seems like a sane deafult
 - code coloration is different < again perhaps due to some sort of config ...
+
+### urxvt and neovim
+
+colorschemes defined in .config/nvim/init.vim do not apply well, workaround is to start nvim like 
+
+    nvim -c "colors molokai" # < or make an alias like that
