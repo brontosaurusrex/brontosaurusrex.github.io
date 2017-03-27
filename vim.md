@@ -53,6 +53,12 @@ make each buffer appear in tab
     i, o < insert or insert on next line
     a < insert after selected char
 
+## to shell and back again
+
+    ctrl+z, fg < will push vim to bg, fg in shell will bring it back
+
+[link](http://stackoverflow.com/questions/1879219/how-to-temporarily-exit-vim-and-go-back)
+
 ## Debian
 
 vi and vim are the same, they are symbolic links to 
