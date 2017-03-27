@@ -30,7 +30,7 @@ make each buffer appear in tab
 
 ## buffers
 
-    :buffers < list buffers
+    :buffers or :ls < list buffers
     :bi < jump to buffer i, where i is buffer number
     :bn :bp < next, previous buffer
 
