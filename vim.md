@@ -64,3 +64,7 @@ make each buffer appear in tab
 vi and vim are the same, they are symbolic links to 
 
     /usr/bin/vim.basic
+
+## neovim?
+
+[https://geoff.greer.fm/2015/01/15/why-neovim-is-better-than-vim/](https://geoff.greer.fm/2015/01/15/why-neovim-is-better-than-vim/)
