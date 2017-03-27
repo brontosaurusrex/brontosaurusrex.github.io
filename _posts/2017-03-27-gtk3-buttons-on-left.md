@@ -6,4 +6,4 @@ title: gtk3 buttons on left
 ---
 [![buttonsOnLeftGTK3.th.png](https://cdn.scrot.moe/images/2017/03/27/buttonsOnLeftGTK3.th.png)](https://cdn.scrot.moe/images/2017/03/27/buttonsOnLeftGTK3.png)
 
-[https://github.com/brontosaurusrex/postbang/blob/master/.config/gtk-3.0/settings.ini](https://github.com/brontosaurusrex/postbang/blob/master/.config/gtk-3.0/settings.ini)
+[.config/gtk-3.0/settings.ini](https://github.com/brontosaurusrex/postbang/blob/master/.config/gtk-3.0/settings.ini)
