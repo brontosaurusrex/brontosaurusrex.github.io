@@ -25,6 +25,10 @@ btw
     :qall < close all and exit
     :Texplore < file explorer that will open stuff in new tab
 
+make each buffer appear in tab
+
+    :tab sball
+
 ## buffers
 
     :buffers < list buffers
