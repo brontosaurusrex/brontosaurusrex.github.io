@@ -53,7 +53,7 @@ make each buffer appear in tab
     i, o < insert or insert on next line
     a < insert after selected char
 
-## debian
+## Debian
 
 vi and vim are the same, they are symbolic links to 
 
