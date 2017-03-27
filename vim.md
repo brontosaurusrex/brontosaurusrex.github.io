@@ -34,6 +34,8 @@ make each buffer appear in tab
     :bi < jump to buffer i, where i is buffer number
     :bn :bp < next, previous buffer
 
+[Buffers, windows, and tabs](https://sanctum.geek.nz/arabesque/buffers-windows-tabs/)  
+
 ## netrw - default dir browser can do a lot
 
     :Explore
@@ -67,6 +69,7 @@ make each buffer appear in tab
     :wq < write and quit
     :q < quit
     :q! < quit without saving
+    di( < delete inside ()    
 
 ## less obvious
 
