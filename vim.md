@@ -71,3 +71,9 @@ vi and vim are the same, they are symbolic links to
 
 [https://geoff.greer.fm/2015/01/15/why-neovim-is-better-than-vim/](https://geoff.greer.fm/2015/01/15/why-neovim-is-better-than-vim/)  
 [https://neovim.io/doc/user/vim_diff.html#nvim-features](https://neovim.io/doc/user/vim_diff.html#nvim-features)
+
+User visible differences:
+
+- gt always work in nvim, sometimes fails in vim
+- /search is interactive < this could be due to some sort of config difference, anyway seems like a sane deafult
+- code coloration is different < again perhaps due to some sort of config ...
