@@ -22,3 +22,4 @@ btw
     :e filename < opens file
     :tabe filename < opens file in new tab
     :qall < close all and exit
+    :Texplore < file explorer that will open stuff in new tab
