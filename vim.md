@@ -40,6 +40,7 @@ make each buffer appear in tab
     /pattern
     ?pattern < backward
     n N < repeat
+    * < search for word under cursor
     :%s/old/new/g < replace
     :%s/old/new/gc < with confirmations
 
@@ -52,6 +53,29 @@ make each buffer appear in tab
     end, home < end, start of line (also 0 and $)
     i, o < insert or insert on next line
     a < insert after selected char
+    dw < delete word
+    ci+brackets < delete stuff inside brackets
+    :w < write
+    :wq < write and quit
+    :q < quit
+    :q! < quit without saving
+
+## less obvious
+
+    ggVG < select contents of entire file
+    U < selected text to UPPERCASE                                           
+    u < selected text to lowercase                                     
+    :retab < convert tabs to spaces 
+
+## windows
+
+    :split < horizont
+    :vsplit < vertical    
+    ctrl+w+j < move down a screen
+    ctrl+w+k < up
+    ctrl+w+h < left
+    ctrl+w+l < right    
+    :only < close others
 
 ## to shell and back again
 
@@ -64,6 +88,8 @@ make each buffer appear in tab
 vi and vim are the same, they are symbolic links to 
 
     /usr/bin/vim.basic
+
+vi and vim are the same on OSX as well.
 
 ## neovim?
 
