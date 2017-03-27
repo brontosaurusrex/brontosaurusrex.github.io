@@ -52,3 +52,9 @@ make each buffer appear in tab
     end, home < end, start of line (also 0 and $)
     i, o < insert or insert on next line
     a < insert after selected char
+
+## debian
+
+vi and vim are the same, they are symbolic links to 
+
+    /usr/bin/vim.basic
