@@ -67,5 +67,7 @@ vi and vim are the same, they are symbolic links to
 
 ## neovim?
 
+> Neovim is emphatically a fork of Vim in order to leverage the work already spent on thousands of Vim plugins, while enabling new types of plugins and integrations.
+
 [https://geoff.greer.fm/2015/01/15/why-neovim-is-better-than-vim/](https://geoff.greer.fm/2015/01/15/why-neovim-is-better-than-vim/)  
 [https://neovim.io/doc/user/vim_diff.html#nvim-features](https://neovim.io/doc/user/vim_diff.html#nvim-features)
