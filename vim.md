@@ -1,0 +1,24 @@
+---
+layout: page
+title: vim learning notes
+published: true
+---
+
+## tabs
+[http://vim.wikia.com/wiki/Using_tab_pages](http://vim.wikia.com/wiki/Using_tab_pages)  
+
+Open multiple files in tabs:
+
+    vim -p one.txt two.txt three.txt
+
+shortkeys in normal mode
+
+    gt	next
+    gT previous
+    {i}gt go to tab at position i
+
+btw
+
+    :e filename < opens file
+    :tabe filename < opens file in new tab
+    :qall < close all and exit
