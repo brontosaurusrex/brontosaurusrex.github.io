@@ -23,3 +23,17 @@ btw
     :tabe filename < opens file in new tab
     :qall < close all and exit
     :Texplore < file explorer that will open stuff in new tab
+
+## buffers
+
+    :buffers < list buffers
+    :bi < jump to buffer i, where i is buffer number
+    :bn :bp < next, previous buffer
+
+## search/replace
+
+    /pattern
+    ?pattern < backward
+    n N < repeat
+    :%s/old/new/g < replace
+    :%s/old/new/gc < with confirmations
