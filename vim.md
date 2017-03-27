@@ -44,3 +44,11 @@ make each buffer appear in tab
     :%s/old/new/gc < with confirmations
 
 [cheetsheet](http://www.worldtimzone.com/res/vi.html)
+
+## obvious
+
+    gg < start fo file
+    G < end of file
+    end, home < end, start of line (also 0 and $)
+    i, o < insert or insert on next line
+    a < insert after selected char
