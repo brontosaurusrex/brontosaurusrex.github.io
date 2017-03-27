@@ -23,7 +23,6 @@ btw
     :e filename < opens file
     :tabe filename < opens file in new tab
     :qall < close all and exit
-    :Texplore < file explorer that will open stuff in new tab
 
 make each buffer appear in tab
 
@@ -34,6 +33,15 @@ make each buffer appear in tab
     :buffers < list buffers
     :bi < jump to buffer i, where i is buffer number
     :bn :bp < next, previous buffer
+
+## netrw - default dir browser can do a lot
+
+    :Explore
+    :Sexplore or :Sex < in horizontal split
+    :Vexplore < in vertical split
+    :Texplore < in new tab
+
+[configure explorer in .vimrc](https://shapeshed.com/vim-netrw/#netrw-the-unloved-directory-browser)  
 
 ## search/replace
 
