@@ -3,6 +3,7 @@ layout: page
 title: vim learning notes
 published: true
 ---
+![vim]({{site.baseurl}}/media/vimClean.png)
 
 ## tabs
 [http://vim.wikia.com/wiki/Using_tab_pages](http://vim.wikia.com/wiki/Using_tab_pages)  
@@ -13,9 +14,9 @@ Open multiple files in tabs:
 
 shortkeys in normal mode
 
-    gt	next
-    gT previous
-    {i}gt go to tab at position i
+    gt < next
+    gT < previous
+    {i}gt < go to tab at position i
 
 btw
 
