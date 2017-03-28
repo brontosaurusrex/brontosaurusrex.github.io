@@ -58,8 +58,8 @@ make each buffer appear in tab
 
 ## obvious
 
-    gg < start fo file
-    G < end of file
+    gg < goto start of file
+    G < goto end of file
     end, home < end, start of line (also 0 and $)
     i, o < insert or insert on next line
     a < insert after selected char
