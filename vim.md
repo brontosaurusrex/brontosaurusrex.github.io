@@ -13,6 +13,8 @@ Debian/openbox/urxvt/vim8
     ctrl+alt+v < should now work to paste stuff from other clipboard, or
     middle-mouse-button < paste behaves differently    
     "+gp < this horror should paste as well
+    "+yy < copy current line
+    "+y20 < copy this and 20 lines below
 
 Possibly worth checking gvim for some ideas and to see what is terminal to blame for and what is vim's fault. This is a huge showstopper.
 
