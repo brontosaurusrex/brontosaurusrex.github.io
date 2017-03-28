@@ -87,6 +87,11 @@ make each buffer appear in tab
     ctrl+w+h < left
     ctrl+w+l < right    
     :only < close others
+
+## read/insert a file or command output into current
+
+[http://vim.wikia.com/wiki/Insert_a_file](http://vim.wikia.com/wiki/Insert_a_file)
+
 ## snippets
 
 [https://brigade.engineering/sharpen-your-vim-with-snippets-767b693886db](https://brigade.engineering/sharpen-your-vim-with-snippets-767b693886db)
