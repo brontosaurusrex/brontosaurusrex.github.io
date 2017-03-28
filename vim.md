@@ -14,7 +14,7 @@ Debian/openbox/urxvt/vim8
     middle-mouse-button < paste behaves differently    
     "+gp < this horror should paste as well
 
-Possibly worth checking gvim for some ideas and to see what is terminal to blame for what is vim's fault. This is a huge showstopper.
+Possibly worth checking gvim for some ideas and to see what is terminal to blame for and what is vim's fault. This is a huge showstopper.
 
 ## spellcheck 
 
