@@ -9,14 +9,16 @@ published: true
 
 Debian/openbox/urxvt/vim8
 
-    apt install vim-gtk
+    apt install vim-gtk # vim-gtk3
     ctrl+alt+v < should now work to paste stuff from other clipboard, or
     middle-mouse-button < paste behaves differently    
+    "+gp < this horror should paste as well
+
+Possibly worth checking gvim for some ideas and to see what is terminal to blame for what is vim's fault. This is a huge showstopper.
 
 ## spellcheck 
 
 soon.
-
 
 ## tabs
 [http://vim.wikia.com/wiki/Using_tab_pages](http://vim.wikia.com/wiki/Using_tab_pages)  
