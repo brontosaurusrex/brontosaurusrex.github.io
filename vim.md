@@ -5,6 +5,19 @@ published: true
 ---
 ![vim]({{site.baseurl}}/media/vimClean.png)
 
+## copy/paste
+
+Debian/openbox/urxvt/vim8
+
+    apt install vim-gtk
+    ctrl+alt+v < should now work to paste stuff from other clipboard, or
+    middle-mouse-button < paste behaves differently    
+
+## spellcheck 
+
+soon.
+
+
 ## tabs
 [http://vim.wikia.com/wiki/Using_tab_pages](http://vim.wikia.com/wiki/Using_tab_pages)  
 
@@ -141,4 +154,6 @@ colorschemes defined in .config/nvim/init.vim do not apply well, workaround is t
     # do a softlink in user bin if defined and on $PATH, like
     cd $HOME/bin
     ln -s /usr/local/bin/vim vim # that should now call brew installed vim in the future sessions
+
+
 
