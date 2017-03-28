@@ -3,6 +3,8 @@ layout: page
 title: vim learning notes
 published: true
 ---
+![vim]({{site.baseurl}}/media/vimClean.png)
+
 ## tabs
 [http://vim.wikia.com/wiki/Using_tab_pages](http://vim.wikia.com/wiki/Using_tab_pages)  
 
@@ -119,4 +121,3 @@ colorschemes defined in .config/nvim/init.vim do not apply well, workaround is t
 
     nvim -c "colors molokai" # < or make an alias like that
 
-![vim]({{site.baseurl}}/media/vimClean.png)
