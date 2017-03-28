@@ -121,3 +121,11 @@ colorschemes defined in .config/nvim/init.vim do not apply well, workaround is t
 
     nvim -c "colors molokai" # < or make an alias like that
 
+## latest vim on OSX
+
+    brew install vim # brew update && brew upgrade # before that if needed
+    # should install in /usr/local/bin/vim
+    # do a softlink in user bin if defined and on $PATH, like
+    cd $HOME/bin
+    ln -s /usr/local/bin/vim vim # that should now call brew installed vim in the future sessions
+
