@@ -90,6 +90,11 @@ make each buffer appear in tab
 
 ## read/insert a file or command output into current
 
+    :0r !ls < insert output of ls before 0 line
+    :0r !head ~/bin/somescript < similar
+    :r < below the cursor
+    :$r !pwd < below the last line
+
 [http://vim.wikia.com/wiki/Insert_a_file](http://vim.wikia.com/wiki/Insert_a_file)
 
 ## snippets
