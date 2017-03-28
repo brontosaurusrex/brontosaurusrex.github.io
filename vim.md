@@ -5,6 +5,10 @@ published: true
 ---
 ![vim]({{site.baseurl}}/media/vimClean.png)
 
+## .vimrc
+
+[postbang/blob/master/.vimrc](https://github.com/brontosaurusrex/postbang/blob/master/.vimrc)
+
 ## copy/paste
 
 Debian/openbox/urxvt/vim8
