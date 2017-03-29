@@ -11,4 +11,6 @@ and
     unoconv -f text --stdout some.docx
     
 should dump some.docx as txt to terminal stdout.
+
+[http://dag.wiee.rs/home-made/unoconv/](http://dag.wiee.rs/home-made/unoconv/)
     
