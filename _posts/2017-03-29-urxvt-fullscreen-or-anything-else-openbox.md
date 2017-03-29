@@ -25,5 +25,5 @@ and in ~/.config/openbox/rc.xml an entrie like
 will make urxvt toggle into fullscreen mode (or any other app I assume). W-F11 stands for 'super + F11' key combo. Super is sometimes known as Winkey.
 
 Similar  
-[http://stackoverflow.com/how-to-make-rxvt-start-as-fullscreen](http://stackoverflow.com/questions/9783198/how-to-make-rxvt-start-as-fullscreen)
+[stackoverflow/how-to-make-rxvt-start-as-fullscreen](http://stackoverflow.com/questions/9783198/how-to-make-rxvt-start-as-fullscreen)
 
