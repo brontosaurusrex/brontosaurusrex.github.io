@@ -27,3 +27,6 @@ will make urxvt toggle into fullscreen mode (or any other app I assume). W-F11 s
 Similar  
 [stackoverflow/how-to-make-rxvt-start-as-fullscreen](http://stackoverflow.com/questions/9783198/how-to-make-rxvt-start-as-fullscreen)
 
+Openbox workflow  
+
+    ctrl+alt+left/right < will switch desktops 
