@@ -171,5 +171,9 @@ colorschemes defined in .config/nvim/init.vim do not apply well, workaround is t
     cd $HOME/bin
     ln -s /usr/local/bin/vim vim # that should now call brew installed vim in the future sessions
 
+## vim 8 and plugins
+
+[https://shapeshed.com/vim-packages](https://shapeshed.com/vim-packages)
+
 
 
