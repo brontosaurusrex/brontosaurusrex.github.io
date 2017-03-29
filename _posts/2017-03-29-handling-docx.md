@@ -9,7 +9,7 @@ title: Handling docx
 and
 
     unoconv -f text --stdout some.docx 
-    # or
+    # or similar, but worse:
     pandoc -t plain some.docx
     pandoc -t markdown some.docx
     
@@ -20,4 +20,3 @@ should dump some.docx as txt to terminal.
 alias docx
 
     alias docx='unoconv -f text --stdout'
-    
