@@ -660,7 +660,8 @@ Blender, Sublime, fadein <http://www.fadeinpro.com/page.pl?content=download>
     
     super + a + 1,2,7,enter     windows move around (a lot more in rc.xml)
     alt + y,x,c,v               duplicated for most used actions                            
-    
+    super + F11                 runs fullscreen toggle script (works with urxvt as well)    
+ 
     +-------------+  +-------------+  +-------------+  +-------------+
     |------|      |  |      |------|  |   |-----|   |  |-------------|
     |------|      |  |      |------|  |   |-----|   |  |-------------|
