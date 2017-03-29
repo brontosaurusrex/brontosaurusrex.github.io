@@ -13,4 +13,8 @@ and
 should dump some.docx as txt to terminal stdout.
 
 [http://dag.wiee.rs/home-made/unoconv/](http://dag.wiee.rs/home-made/unoconv/)
+
+alias docx
+
+    alias docx='unoconv -f text --stdout'
     
