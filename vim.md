@@ -92,7 +92,13 @@ make each buffer appear in tab
     :wq < write and quit
     :q < quit
     :q! < quit without saving
-    di( < delete inside ()    
+    di( < delete inside ()
+
+    b < to go to beginning of current or previous word
+    w < to go the beginning of next word
+    e < to go to the end of current or next word
+    ge < to go the end of the previous word
+    # Try :h word-motions for more details and how to combine them with operations.
 
 ## less obvious
 
