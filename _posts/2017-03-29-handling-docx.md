@@ -13,7 +13,7 @@ and
     pandoc -t plain some.docx
     pandoc -t markdown some.docx
     
-should dump some.docx as txt to terminal stdout.
+should dump some.docx as txt to terminal.
 
 [http://dag.wiee.rs/home-made/unoconv/](http://dag.wiee.rs/home-made/unoconv/)
 
