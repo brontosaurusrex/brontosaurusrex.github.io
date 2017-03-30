@@ -18,3 +18,12 @@ Quick test
 [![filmicLogEncodingBase.th.png](https://cdn.scrot.moe/images/2017/03/30/filmicLogEncodingBase.th.png)](https://cdn.scrot.moe/images/2017/03/30/filmicLogEncodingBase.png)
 
 Not sure if there is any difference compared to rendering to fullrange exr and doing post in modern photoshop/gimp (What I have been doing till now).
+
+> Ben Kai • a month ago
+
+> You've been able to open exr's in Photoshop for a while now, though it's been a long fight with one of their lead engineers for a while now with regard to how it implements alpha channels. We finally managed to get them to do the right thing but it was like pulling teeth.
+
+> But opening exr's is a different thing than being able to view them under openColorIO profiles (which is what filmic blender is). Photoshop does not support openColorIO. It uses ICC profiles which are more prevalent in print color pipelines. That means that if you save an exr from blender and open it up in Photoshop it won't look the same because the scene referred data which is what is saved in an exr will not be able to be translated into the display referred data in the same way that happens while you are looking at the files in blender.
+
+> For that you will need an application that uses openColorIO profiles like Nuke or affinity photo or something like it.
+
