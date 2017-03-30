@@ -27,3 +27,6 @@ Not sure if there is any difference compared to rendering to fullrange exr and d
 
 > For that you will need an application that uses openColorIO profiles like Nuke or affinity photo or something like it.
 
+Supposedly this should be in 2.79, but can't locate in here  
+[https://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.79](https://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.79) (There is some sort of shadow-catcher mentioned btw).
+
