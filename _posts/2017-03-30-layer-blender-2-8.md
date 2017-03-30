@@ -13,3 +13,5 @@ title: Layer (Blender 2.8)
 > A scene can have multiple layers, but only one active at a time. The active layer will dictate which data the editors will show by default, as well as the active mode.
 
 ![](https://code.blender.org/wp-content/uploads/2016/11/image2-e1479483875696-1024x529.jpg)
+
+[https://www.youtube.com/watch?v=WwW0SF2gL1M](https://www.youtube.com/watch?v=WwW0SF2gL1M)
