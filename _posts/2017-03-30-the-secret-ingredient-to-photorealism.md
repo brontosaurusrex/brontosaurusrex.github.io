@@ -13,3 +13,6 @@ title: 'The Secret Ingredient to Photorealism '
 [https://sobotka.github.io/filmic-blender/](https://sobotka.github.io/filmic-blender/)
 
 ![](https://s3.amazonaws.com/blenderguru.com/uploads/2017/02/29089698821_9b865a6cb5_o-673x674.jpg)
+
+Quick test  
+[![filmicLogEncodingBase.th.png](https://cdn.scrot.moe/images/2017/03/30/filmicLogEncodingBase.th.png)](https://cdn.scrot.moe/images/2017/03/30/filmicLogEncodingBase.png)
