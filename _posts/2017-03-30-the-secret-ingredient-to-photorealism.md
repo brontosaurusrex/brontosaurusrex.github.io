@@ -19,6 +19,14 @@ Quick test
 
 Not sure if there is any difference compared to rendering to fullrange exr and doing post in modern photoshop/gimp (What I have been doing till now).
 
+pro
+
+> mike pan on March 17, 2017 7:15 pm
+
+> That's correct. Filmic doesn't operate on the 32bit data (exrs are always saved in a linear format). It's a LUT for crunching the HDR scene data into 8bit images. In theory you wouldn't use filmic until you are done with all your compositing and vfx.
+
+slightly con
+
 > Ben Kai • a month ago
 
 > You've been able to open exr's in Photoshop for a while now, though it's been a long fight with one of their lead engineers for a while now with regard to how it implements alpha channels. We finally managed to get them to do the right thing but it was like pulling teeth.
@@ -29,4 +37,3 @@ Not sure if there is any difference compared to rendering to fullrange exr and d
 
 Supposedly this should be in 2.79, but can't locate in here  
 [https://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.79](https://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.79) (There is some sort of shadow-catcher mentioned btw).
-
