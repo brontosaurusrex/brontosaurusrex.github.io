@@ -5,7 +5,8 @@ date: '2017-03-30 12:21 +0200'
 title: 'The Secret Ingredient to Photorealism '
 ---
 [https://www.youtube.com/watch?v=m9AT7H4GGrA](https://www.youtube.com/watch?v=m9AT7H4GGrA)  
-[http://www.blenderguru.com/tutorials/secret-ingredient-photorealism/](http://www.blenderguru.com/tutorials/secret-ingredient-photorealism/)
+[http://www.blenderguru.com/tutorials/secret-ingredient-photorealism/](http://www.blenderguru.com/tutorials/secret-ingredient-photorealism/)  
+[https://www.youtube.com/watch?v=53m-17Y_zJg](https://www.youtube.com/watch?v=53m-17Y_zJg)
 
 > Why sRGB isn't suitable for rendering, and why 'Filmic Blender' is the magic solution that fixes everything.
 
