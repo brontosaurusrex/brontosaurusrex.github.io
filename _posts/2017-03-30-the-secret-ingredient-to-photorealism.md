@@ -21,6 +21,10 @@ Not sure if there is any difference compared to rendering to fullrange exr and d
 
 [https://github.com/sobotka/filmic-blender/issues/30](https://github.com/sobotka/filmic-blender/issues/30)
 
+CDL?
+
+[http://blender.stackexchange.com/questions/55231/what-is-the-the-asc-cdl-node](http://blender.stackexchange.com/questions/55231/what-is-the-the-asc-cdl-node)
+
 pro
 
 > mike pan on March 17, 2017 7:15 pm
