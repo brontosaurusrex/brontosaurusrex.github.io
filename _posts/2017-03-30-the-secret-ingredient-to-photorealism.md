@@ -17,7 +17,7 @@ title: 'The Secret Ingredient to Photorealism '
 Quick test  
 [![filmicLogEncodingBase.th.png](https://cdn.scrot.moe/images/2017/03/30/filmicLogEncodingBase.th.png)](https://cdn.scrot.moe/images/2017/03/30/filmicLogEncodingBase.png)
 
-Not sure if there is any difference compared to rendering to fullrange exr and doing post in modern photoshop/gimp (What I have been doing till now).
+Not sure if there is any difference compared to rendering to fullrange exr and doing post in modern photoshop/gimp (What I have been doing till now). It might be usefull to use that as a presentation/preview render thought, but I would like my film-looks back.
 
 pro
 
