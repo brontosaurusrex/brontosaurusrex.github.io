@@ -19,6 +19,8 @@ Quick test
 
 Not sure if there is any difference compared to rendering to fullrange exr and doing post in modern photoshop/gimp (What I have been doing till now). It might be usefull to use that as a presentation/preview render thought, but I would like my film-looks back.
 
+[https://github.com/sobotka/filmic-blender/issues/30](https://github.com/sobotka/filmic-blender/issues/30)
+
 pro
 
 > mike pan on March 17, 2017 7:15 pm
