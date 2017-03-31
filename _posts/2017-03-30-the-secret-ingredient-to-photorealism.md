@@ -25,6 +25,13 @@ CDL?
 
 [http://blender.stackexchange.com/questions/55231/what-is-the-the-asc-cdl-node](http://blender.stackexchange.com/questions/55231/what-is-the-the-asc-cdl-node)
 
+> ASC-CDL stands for the American Society of Cinematograpy's Color Decisions List
+
+> It's designed to create a standarized protocol to share basic color correction data across different systems form different vendors.
+
+> The functions that the ASC-CDL node provides in blender are:
+> SLOPE , OFFSET and POWER
+
 pro
 
 > mike pan on March 17, 2017 7:15 pm
