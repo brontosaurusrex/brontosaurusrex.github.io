@@ -29,7 +29,7 @@ CDL?
 > It's designed to create a standarized protocol to share basic color correction data across different systems form different vendors.
 > The functions that the ASC-CDL node provides in blender are: SLOPE , OFFSET and POWER.
 
-^ Will not work in viewport, so pretty useless.
+^ Will not work in viewport, so pretty useless.__
 
 pro
 
