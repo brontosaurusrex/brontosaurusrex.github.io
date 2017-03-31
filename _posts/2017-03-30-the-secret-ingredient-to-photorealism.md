@@ -49,3 +49,9 @@ slightly con
 
 Supposedly this should be in 2.79, but can't locate in here  
 [https://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.79](https://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.79) (There is some sort of shadow-catcher mentioned btw).
+
+Knowhow  
+[http://opencolorio.org/userguide/contexts.html#per-shot-grades](http://opencolorio.org/userguide/contexts.html#per-shot-grades)
+
+
+
