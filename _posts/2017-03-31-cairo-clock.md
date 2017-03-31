@@ -13,3 +13,5 @@ Themes
 
 Custom theme (Debian Nine)  
 [![cairo-clock-Custom.th.png](https://cdn.scrot.moe/images/2017/03/31/cairo-clock-Custom.th.png)](https://cdn.scrot.moe/images/2017/03/31/cairo-clock-Custom.png)
+
+Note: This is quite a resource eater.
