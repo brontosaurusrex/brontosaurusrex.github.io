@@ -6,7 +6,7 @@ title: hp laserjet 1018 on Debian
 ---
     apt install cups printer-driver-foo2zjs
     
-add yourself to printer group
+add yourself to printer group (lpadmin)
 
     sudo usermod -a -G [group-name] [user-name]
     
