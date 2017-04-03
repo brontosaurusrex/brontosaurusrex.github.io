@@ -177,4 +177,4 @@ colorschemes defined in .config/nvim/init.vim do not apply well, workaround is t
 
 ## books
 
- - [https://vim.swaroopch.com/](A Byte of Vim)
+ - [A Byte of Vim](https://vim.swaroopch.com/)
