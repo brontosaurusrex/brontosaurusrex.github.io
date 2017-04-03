@@ -175,5 +175,6 @@ colorschemes defined in .config/nvim/init.vim do not apply well, workaround is t
 
 [https://shapeshed.com/vim-packages](https://shapeshed.com/vim-packages)
 
+## books
 
-
+ - [https://vim.swaroopch.com/](A Byte of Vim)
