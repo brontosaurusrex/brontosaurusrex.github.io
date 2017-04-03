@@ -14,6 +14,6 @@ download driver
 
     getweb 1018	# Get HP LaserJet 1018 firmware file
     
-goto localhost:631, add printer
+goto [localhost:631](http://localhost:631/), add printer
 
 Some info [here](https://wiki.debian.org/SystemPrinting).
