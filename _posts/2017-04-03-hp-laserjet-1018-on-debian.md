@@ -12,7 +12,7 @@ add yourself to printer group
     
 download driver
 
-    somecommandIforgot 1018
+    getweb 1018	# Get HP LaserJet 1018 firmware file
     
 goto localhost:631, add printer
 
