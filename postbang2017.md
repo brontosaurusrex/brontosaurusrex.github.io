@@ -654,14 +654,16 @@ Blender, Sublime, fadein <http://www.fadeinpro.com/page.pl?content=download>
     s       toggle show desktop
     space   obmenu  
     tab     combined-menu
+    F11     fullscreen toggle (works with urxvt as well)
+    F12     toggleCompton script
+    y       goto workspace 1
+    x       goto workspace 2
 
     alt +
-    f2      gmrun
+    f2 or space     gmrun
     
     super + a + 1,2,7,enter     windows move around (a lot more in rc.xml)
     alt + y,x,c,v               duplicated for most used actions                            
-    super + F11                 fullscreen toggle (works with urxvt as well)    
-    super + F12                 toggleCompton script 
 
     +-------------+  +-------------+  +-------------+  +-------------+
     |------|      |  |      |------|  |   |-----|   |  |-------------|
