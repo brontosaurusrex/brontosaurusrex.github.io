@@ -8,7 +8,8 @@ title: local kanban
 [https://www.w3schools.com/html/html5_webstorage.asp](https://www.w3schools.com/html/html5_webstorage.asp)
 
 things that are done  
-[https://greggigon.github.io/my-personal-kanban/](https://greggigon.github.io/my-personal-kanban/)
+[https://greggigon.github.io/my-personal-kanban/](https://greggigon.github.io/my-personal-kanban/)  
+[https://github.com/coderofsalvation/kanban.bash](https://github.com/coderofsalvation/kanban.bash)
 
 Xpad  
 [![localTrelloWithXpad.th.png](https://cdn.scrot.moe/images/2017/03/23/localTrelloWithXpad.th.png)](https://cdn.scrot.moe/images/2017/03/23/localTrelloWithXpad.png)
