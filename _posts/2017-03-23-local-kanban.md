@@ -12,7 +12,7 @@ install tree
 
     sudo apt install tree
     
-make some subdirs that will hold the structure
+make root dir and some sub-dirs that will hold the structure
 
     mkdir kanban && cd kanban
     mkdir 1_project 2_readyForMix 3_push 4_deleteme
