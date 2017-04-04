@@ -11,6 +11,7 @@ things that are done
 [https://greggigon.github.io/my-personal-kanban/](https://greggigon.github.io/my-personal-kanban/)  
 [https://github.com/coderofsalvation/kanban.bash](https://github.com/coderofsalvation/kanban.bash)  
 [https://github.com/alphashack/gitban](https://github.com/alphashack/gitban)  
+[http://kanban.leanlabs.io/](http://kanban.leanlabs.io/)  
 
 Xpad  
 [![localTrelloWithXpad.th.png](https://cdn.scrot.moe/images/2017/03/23/localTrelloWithXpad.th.png)](https://cdn.scrot.moe/images/2017/03/23/localTrelloWithXpad.png)
