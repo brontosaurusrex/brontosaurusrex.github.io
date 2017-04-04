@@ -61,6 +61,15 @@ and one to mix, one to push
     │   └── something else 21.4
     └── 4_deleteme
     
+ or ignore 4_deleteme
+ 
+    kan -I 4_*
+    .
+    ├── 1_project
+    ├── 2_readyForMix
+    │   └── newOne
+    └── 3_push
+    
 ### tree options
 
       -a            All files are listed.
