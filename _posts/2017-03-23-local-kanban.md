@@ -72,7 +72,7 @@ and one to mix, one to push
     
  If directories are empty, git will not commit them, workaround might be to add .null to each dir.
  
-    touch 1_project/.null
+    touch 1_project/.null 2_readyForMix/.null 3_push/.null 4_deleteme/.null
     
 ### tree options
 
