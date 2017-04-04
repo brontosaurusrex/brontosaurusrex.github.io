@@ -17,7 +17,7 @@ make root dir and some sub-dirs that will hold the structure
     mkdir kanban && cd kanban
     mkdir 1_project 2_readyForMix 3_push 4_deleteme
 
-alias to hide some stats
+alias to hide some stats (or just use tree)
 
     alias kan='tree --noreport'
     # -c     Sort the output by last status change instead of alphabetically. Modifies the -D option (if used) to print the last status change instead of modification time
