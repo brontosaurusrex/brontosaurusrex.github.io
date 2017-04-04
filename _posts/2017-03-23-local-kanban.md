@@ -20,7 +20,7 @@ make root dir and some sub-dirs that will hold the structure
 alias to hide some stats (or just use tree)
 
     alias kan='tree --noreport'
-    alias ban='tree --noreport -I 4_deleteme
+    alias ban='tree --noreport -I 4_deleteme'
     
 Making some projects
 
