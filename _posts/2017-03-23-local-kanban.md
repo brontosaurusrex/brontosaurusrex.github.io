@@ -61,7 +61,7 @@ and one to mix, one to push
     │   └── something else 21.4
     └── 4_deleteme
 
-## misc
+## other solutions / misc
 
 html5/js  
 [http://interactjs.io/](http://interactjs.io/), [http://interactjs.io/docs](http://interactjs.io/docs)    
