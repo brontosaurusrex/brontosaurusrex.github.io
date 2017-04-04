@@ -20,8 +20,8 @@ make root dir and some sub-dirs that will hold the structure
 alias to hide some stats (or just use tree)
 
     alias kan='tree --noreport'
-    # -c     Sort the output by last status change instead of alphabetically. Modifies the -D option (if used) to print the last status change instead of modification time
-
+    alias ban='tree --noreport -I 4_deleteme
+    
 Making some projects
 
     touch "1_projekt/to shell and back again, 12.4"
