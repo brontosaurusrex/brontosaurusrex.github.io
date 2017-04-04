@@ -70,6 +70,10 @@ and one to mix, one to push
     │   └── newOne
     └── 3_push
     
+ If directories are empty, git will not commit them, workaround might be to add .null to each dir.
+ 
+    touch 1_project/.null
+    
 ### tree options
 
       -a            All files are listed.
