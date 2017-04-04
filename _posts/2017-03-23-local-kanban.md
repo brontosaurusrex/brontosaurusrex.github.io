@@ -61,7 +61,7 @@ and one to mix, one to push
     │   └── something else 21.4
     └── 4_deleteme
     
- or ignore 4_deleteme
+ or ignore 4_deleteme (or use ^ban alias)
  
     kan -I 4_*
     .
