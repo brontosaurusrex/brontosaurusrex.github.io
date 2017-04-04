@@ -6,6 +6,64 @@ title: local kanban
 ---
 ![kanban image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Simple-kanban-board-.jpg/600px-Simple-kanban-board-.jpg)
 
+## Command line kanban using tree
+
+install tree
+
+    sudo apt install tree
+    
+make some subdirs that will hold the structure
+
+    mkdir kanban && cd kanban
+    mkdir 1_project 2_readyForMix 3_push 4_deleteme
+
+alias to hide some stats
+
+    alias kan='tree --noreport'
+    # -c     Sort the output by last status change instead of alphabetically. Modifies the -D option (if used) to print the last status change instead of modification time
+
+Making some projects
+
+    touch "1_projekt/to shell and back again, 12.4"
+    touch "1_project/something else 21.4"
+
+Display kanban
+
+    kan # kan -D, kan -c, kan -cr
+    .
+    ├── 2_readyForMix
+    ├── 3_push
+    ├── 4_deleteme
+    └── 1_project
+        ├── to shell and back again, 12.4
+        └── something else 21.4
+
+Move items to next stage
+
+    mv 1_project/something\ else\ 21.4 2_readyForMix/ ; kan
+    .
+    ├── 1_project
+    │   └── to shell and back again, 12.4
+    ├── 2_readyForMix
+    │   └── something else 21.4
+    ├── 3_push
+    └── 4_deleteme
+
+and one to mix, one to push
+
+    mv 1_project/to\ shell\ and\ back\ again\,\ 12.4  2_readyForMix/ && mv 2_readyForMix/something\ else\ 21.4 3_push/
+    kan
+    .
+    ├── 1_project
+    ├── 2_readyForMix
+    │   └── to shell and back again, 12.4
+    ├── 3_push
+    │   └── something else 21.4
+    └── 4_deleteme
+
+## misc
+
+html5/js  
 [http://interactjs.io/](http://interactjs.io/), [http://interactjs.io/docs](http://interactjs.io/docs)    
 [https://www.w3schools.com/html/html5_webstorage.asp](https://www.w3schools.com/html/html5_webstorage.asp)
 
