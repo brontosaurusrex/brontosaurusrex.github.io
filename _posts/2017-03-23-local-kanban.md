@@ -74,6 +74,12 @@ and one to mix, one to push
  
     touch 1_project/.null 2_readyForMix/.null 3_push/.null 4_deleteme/.null
     
+ Of course you can go on, adding some content to this null-files like
+ 
+     echo "search google for more info" >> 1_project/someFile
+     
+ and using tree -ch to present the filesize in the output...
+    
 ### tree options
 
       -a            All files are listed.
