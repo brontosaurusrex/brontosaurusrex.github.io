@@ -28,6 +28,7 @@ and possible winner, dirs sorted manually, files by date (newer on top)
     
 or turn that [into script](https://raw.githubusercontent.com/brontosaurusrex/postbang/master/bin/kan) and load into conky
 
+    ${font liberationmono:size=11}
     ${execi 10 kan}
     
 Making some projects
