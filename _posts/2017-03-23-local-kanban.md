@@ -22,6 +22,10 @@ alias to hide some stats (or just use tree)
     alias kan='tree --noreport'
     alias ban='tree --noreport -I 4_deleteme'
     
+and possible winner, dirs sorted manually, files by date, last is top
+
+    alias kan='cd ~/source/kanban-cli && tree -cr --noreport 1_project 2_readyForMix 3_push 4_deleteme'
+    
 Making some projects
 
     touch "1_projekt/to shell and back again, 12.4"
