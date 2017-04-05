@@ -26,6 +26,10 @@ and possible winner, dirs sorted manually, files by date (newer on top)
 
     alias kan='cd ~/source/kanban-cli && tree -cr --noreport 1_project 2_readyForMix 3_push 4_deleteme'
     
+or turn that [into script](https://raw.githubusercontent.com/brontosaurusrex/postbang/master/bin/kan) and load into conky
+
+    ${execi 10 kan}
+    
 Making some projects
 
     touch "1_projekt/to shell and back again, 12.4"
