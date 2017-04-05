@@ -4,6 +4,8 @@ layout: post
 date: '2017-04-05 17:08 +0200'
 title: lighttpd serve .txt as utf-8
 ---
+
+
 In /etc/lighttpd/lighttpd.conf comment/disable
 
     #include_shell "/usr/share/lighttpd/create-mime.assign.pl"
@@ -21,3 +23,5 @@ and add something like
     )
     
 restart lighttpd
+
+[http://stackoverflow.com/questions/29349348/specifying-charset-in-http-header-with-lighttpd](http://stackoverflow.com/questions/29349348/specifying-charset-in-http-header-with-lighttpd)
