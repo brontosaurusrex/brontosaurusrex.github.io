@@ -10,3 +10,4 @@ What Mark didn't say
 
 ![](https://insights.ubuntu.com/wp-content/uploads/226b/Snappy-Core-in-the-Cloud.png)
 
+> And I try, oh my god do I try. I try all the time, in this institution.
