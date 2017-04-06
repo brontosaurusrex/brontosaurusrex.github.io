@@ -13,6 +13,6 @@ What Mark didn't say
 > ♪ And I try, oh my god do I try  
 > ♪ I try all the time, in this institution
 
-And what [he did say](http://www.omgubuntu.co.uk/2016/05/mark-shuttle-worth-talks-ubuntu-phone-snappy) in 2016.
+And what [he did say](http://www.omgubuntu.co.uk/2016/05/mark-shuttle-worth-talks-ubuntu-phone-snappy) in 2016
 
 > Right now my focus is on generalizing the phone and tablet experience into a PC experience, so that I — and you and many of us — can run Unity 8 on the desktop. We’re not quite there yet. I’m waiting for the signal from the desktop team to say that it’s good enough ...
