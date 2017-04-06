@@ -6,7 +6,7 @@ title: yubuntu to drop yunity
 ---
 What Mark didn't say
 
-> We were secretly using Brontolabs Postbang configurations for years on our desktops, yunity was just a camuflage and a diversion, so we could penetrate the promising server in cloud market. yubuntu phone, lol, don't get me started. We will now seriously re-enter desktop market, our new strategy is basically: put icons at the bottom. It's true.
+> We were secretly using Brontolabs Postbang configurations for years on our desktops, yunity was just a camuflage and a diversion, so we could penetrate the promising server in cloud market. yubuntu phone, lol, don't get me started. We will now seriously re-enter desktop market, our new strategy is basically: put icons at the bottom. It's true. And a picture is worth a thousand words, so here is our strategy explained with this fancy cubes:
 
 ![](https://insights.ubuntu.com/wp-content/uploads/226b/Snappy-Core-in-the-Cloud.png)
 
