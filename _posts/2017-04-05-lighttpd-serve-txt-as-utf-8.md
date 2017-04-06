@@ -20,7 +20,7 @@ and add something like
       ".xml" => "text/xml; charset=utf-8"
     )
     
-restart lighttpd
+restart lighttpd. This can't be a real solution, more like an ugly workaround.
 
 [http://stackoverflow.com/questions/29349348/specifying-charset-in-http-header-with-lighttpd](http://stackoverflow.com/questions/29349348/specifying-charset-in-http-header-with-lighttpd)
 
