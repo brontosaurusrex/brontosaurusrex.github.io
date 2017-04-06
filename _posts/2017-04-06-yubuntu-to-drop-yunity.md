@@ -1,0 +1,12 @@
+---
+published: true
+layout: post
+date: '2017-04-06 09:14 +0200'
+title: yubuntu to drop yunity
+---
+What Mark didn't say
+
+> We were secretly using Brontolabs Postbang configurations for years on our desktops, yunity was just a camuflage and a diversion, so we could penetrate the promising server in cloud market. yubuntu phone, lol, don't get me started. 
+
+![]({{site.baseurl}}/https://insights.ubuntu.com/wp-content/uploads/226b/Snappy-Core-in-the-Cloud.png)
+
