@@ -32,7 +32,7 @@ The timecode format used is hours:minutes:seconds,milliseconds
 
 ## B 
 
-In Libreoffice insert one row at the beginning =ROW(), to get the counter. Export as csv using space as separator and disable " as text enclosures, should look like
+In Libreoffice insert one row at the beginning, use formula =ROW(), to get the counter. Export as csv using space as separator and disable " as text enclosures, should look like
 
     3 00:00:42:16 00:00:44:08 See the strobe on the right, Óscar?
     4 00:00:44:08 00:00:47:01 What?
