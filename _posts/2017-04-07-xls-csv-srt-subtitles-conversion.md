@@ -4,6 +4,8 @@ layout: post
 date: '2017-04-07 16:40 +0200'
 title: xls > csv > srt subtitles conversion
 ---
+![libresubs.png]({{site.baseurl}}/media/libresubs.png)
+
 In Libreoffice insert one row at the beginning, use formula =ROW(), to get the counter. Export as csv using space as separator and disable " as text enclosures, should look like
 
     3 00:00:42:16 00:00:44:08 See the strobe on the right, Óscar?
@@ -36,4 +38,3 @@ This rougly coresponds to Adobe authoring formats, then subtitleeditor (in stret
 The timecode format used with srt is hours:minutes:seconds,milliseconds
 
 [https://en.wikipedia.org/wiki/SubRip](https://en.wikipedia.org/wiki/SubRip)
-
