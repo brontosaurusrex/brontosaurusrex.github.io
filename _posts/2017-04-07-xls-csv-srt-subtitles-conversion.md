@@ -6,9 +6,9 @@ title: xls > csv > srt subtitles conversion
 ---
 In Libreoffice make sure only three columns are there (delete 4th...), save as csv, should look like:
 
-    00:00:51:08,00:00:52:20,Hello?
-    00:00:52:20,00:00:54:14,It’s a boat.
-    00:00:54:22,00:00:56:09,They’re shouting.
+    00:00:51:08,00:00:52:20,"Hello?"
+    00:00:52:20,00:00:54:14,"It’s a boat."
+    00:00:54:22,00:00:56:09,"They’re shouting."
     
 [This seems to do csv > srt](https://gotranscript.com/subtitle-converter) (until I find something offline). Should look like:
 
