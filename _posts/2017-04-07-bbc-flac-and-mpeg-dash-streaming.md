@@ -6,7 +6,7 @@ title: BBC FLAC and MPEG-DASH streaming (experiment)
 ---
 [http://www.bbc.co.uk/taster/projects/radio-3-concert-sound/inside-story](http://www.bbc.co.uk/taster/projects/radio-3-concert-sound/inside-story)
 
-Firefox > 51 needed
+Firefox > 51 needed (Which should alos bring in the requirement for pulseaudio, alsa won't do)
 
 > The main challenge was finding a standards-based approach to delivering lossless audio to the browser. Following discussions with technology partners such as internet radio vendors, it was clear that FLAC would be the preferred compression method, but, at the time, there was no specification describing carriage of FLAC in MP4 for MPEG-DASH.
 
