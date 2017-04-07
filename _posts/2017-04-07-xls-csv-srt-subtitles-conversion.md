@@ -23,5 +23,9 @@ In Libreoffice make sure only three columns are there (delete 4th...), save as c
     7
     00:00:54,918 --> 00:00:56,375
     They’re shouting.
+    
+The timecode format used is hours:minutes:seconds,milliseconds
+
+[https://en.wikipedia.org/wiki/SubRip](https://en.wikipedia.org/wiki/SubRip)
 
 
