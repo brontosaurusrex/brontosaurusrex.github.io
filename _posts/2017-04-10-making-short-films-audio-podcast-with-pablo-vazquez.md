@@ -13,7 +13,7 @@ title: Making short films - audio podcast with Pablo Vazquez
 - Why it's better to be a "jack-of-all-trades" than having a specialized skill
 - Plus dozens of simple tricks to boost your creativity and artwork in Blender
 
-![animal]({https://s3.amazonaws.com/blenderguru.com/uploads/2015/10/eye_post-673x379.jpg)
+![animal](https://s3.amazonaws.com/blenderguru.com/uploads/2015/10/eye_post-673x379.jpg)
 
 
 
