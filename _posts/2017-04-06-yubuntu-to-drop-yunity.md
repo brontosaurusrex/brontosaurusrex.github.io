@@ -25,4 +25,6 @@ And currently
 
 > ...now I think many members of the free software community are just deeply anti-social types who love to hate on whatever is mainstream.
 
+And he is probably at least partially right.
+
 
