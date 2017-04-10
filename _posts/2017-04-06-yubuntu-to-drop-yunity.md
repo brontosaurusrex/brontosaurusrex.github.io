@@ -18,3 +18,11 @@ And what [he did say](http://www.omgubuntu.co.uk/2016/05/mark-shuttle-worth-talk
 > Right now my focus is on generalizing the phone and tablet experience into a PC experience, so that I — and you and many of us — can run Unity 8 on the desktop. We’re not quite there yet. I’m waiting for the signal from the desktop team to say that it’s good enough ...
 
 ![gnome](https://upload.wikimedia.org/wikipedia/commons/6/68/Gnomelogo.svg)
+
+And currently
+
+[https://news.slashdot.org/story/17/04/09/1829209/canonical-founder-criticizes-free-software-developers-who-hate-on-whatevers-mainstream?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/17/04/09/1829209/canonical-founder-criticizes-free-software-developers-who-hate-on-whatevers-mainstream?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+> ...now I think many members of the free software community are just deeply anti-social types who love to hate on whatever is mainstream.
+
+
