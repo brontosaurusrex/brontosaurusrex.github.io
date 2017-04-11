@@ -675,6 +675,8 @@ Blender, Sublime, fadein <http://www.fadeinpro.com/page.pl?content=download>
     
     p.s. super + arrows is another interesting option.
     
+    ~/bin/shortcuts should display a relatively usefull list of all shortkeys in your terminal
+    
 ### urxvt related 
     
     font-size extension (see ~./Xresources)
