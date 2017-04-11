@@ -696,6 +696,7 @@ Blender, Sublime, fadein <http://www.fadeinpro.com/page.pl?content=download>
     right   move tab to the right
     d       close tab 
     
+    ^ tabbed is currently disabled.
     
 ### OSX as host, or how to use left cmd as super
 
