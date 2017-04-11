@@ -660,8 +660,9 @@ Blender, Sublime, fadein <http://www.fadeinpro.com/page.pl?content=download>
     x       goto workspace 2
 
     alt +
-    f2 or space     gmrun
-    
+    space   gmrun
+    f2      client-menu
+
     super + a + 1,2,7,enter     windows move around (a lot more in rc.xml)
     alt + y,x,c,v               duplicated for most used actions                            
 
