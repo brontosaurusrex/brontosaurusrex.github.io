@@ -17,6 +17,4 @@ compile fixed, it also needs
 
     sudo apt install qt5-style-plugins
     
-to get gtk theme compatibility?
-
-
+to get gtk theme compatibility.
