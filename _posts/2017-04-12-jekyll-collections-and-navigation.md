@@ -17,7 +17,7 @@ in \_config.yml (my new collection is named col)
         output: true
         permalink: /:collection/:path/
 
-will build \_site like
+and markdown files are in directory \_col, will build \_site like
 
     _site/col/
     ├── 2017-04-12-dskgkdsgj
