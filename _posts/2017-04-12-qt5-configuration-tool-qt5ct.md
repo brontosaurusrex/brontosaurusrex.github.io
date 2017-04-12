@@ -10,4 +10,5 @@ title: qt5 configuration tool - qt5ct
 > Qt4 based application style could be changed easily by qtconfig-qt4 tool, even by editing the Trolltech.conf file, but there is no such utility to change Qt5 theme, change qt5 widget style or fonts style.
 
 fails to compile on Stretch so far  
-[https://forums.bunsenlabs.org/viewtopic.php?pid=48956#p48956](https://forums.bunsenlabs.org/viewtopic.php?pid=48956#p48956)
+[https://forums.bunsenlabs.org/viewtopic.php?pid=48956#p48956](https://forums.bunsenlabs.org/viewtopic.php?pid=48956#p48956)  
+[https://github.com/mati75/qt5ct/issues/6](https://github.com/mati75/qt5ct/issues/6)
