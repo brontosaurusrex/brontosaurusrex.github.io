@@ -26,11 +26,12 @@ and markdown files are in directory \_col, will build \_site like
         └── index.html
         
 loop through all the collection named col members example
+{% raw %}
 
-    {% raw %}
     {% for stuff in site.col %}
       <h2>{{ stuff.title }}</h2>
     {% endfor %}
-    {% endraw %}
+
+{% endraw %}
 
 
