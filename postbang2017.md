@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: mine
 title: postbang
 published: true
 ---
+<img src="https://raw.githubusercontent.com/brontosaurusrex/titles/master/example.png" style="border:0;">
+
 ## Status of this document/git
 
 Unstable/transitional, some configs might not work with Jessie or Stretch.
@@ -71,10 +73,6 @@ Unstable/transitional, some configs might not work with Jessie or Stretch.
     * [Thanks to](#thanks-to)
     * [Issues?](#issues)
     * [brought to You by](#brought-to-you-by)
-
-<img src="https://raw.githubusercontent.com/brontosaurusrex/titles/master/example.png" style="border:0;">
-
-# Jessie from netinstall + some customization = postbang
 
 ## What is this
 
