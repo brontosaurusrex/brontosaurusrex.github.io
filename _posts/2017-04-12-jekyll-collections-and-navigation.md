@@ -25,7 +25,7 @@ will build \_site like
     └── test
         └── index.html
         
-loop through all the col members
+loop through all the collection named col members example
 
     {% for stuff in site.col %}
       <h2>{{ stuff.title }}</h2>
