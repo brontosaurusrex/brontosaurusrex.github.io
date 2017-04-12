@@ -12,3 +12,11 @@ title: qt5 configuration tool - qt5ct
 fails to compile on Stretch so far  
 [https://forums.bunsenlabs.org/viewtopic.php?pid=48956#p48956](https://forums.bunsenlabs.org/viewtopic.php?pid=48956#p48956)  
 [https://github.com/mati75/qt5ct/issues/6](https://github.com/mati75/qt5ct/issues/6)
+
+compile fixed, it also needs 
+
+    sudo apt install qt5-style-plugins
+    
+to get gtk theme compatibility?
+
+
