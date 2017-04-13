@@ -4,7 +4,7 @@ layout: post
 date: '2017-04-13 12:12 +0200'
 title: 'count up clock, after effects, javascript'
 ---
-expression (it's a start)
+expression (it's a start), to be applied to a text layer
 
     beginHr = 0;
     beginMin = 0;
