@@ -8,10 +8,18 @@ title: 'count up clock, after effects, javascript'
 
 expression (it's a start), to be applied to a text layer 
 
+// start with beginHr.beginMin, 
+    // happens in animLen time, 
+    // ends with endHr.endMin
+    
     beginHr = 0;
     beginMin = 0;
+    endHr = 23;
+    endMin = 0;
+    animLen = 3; // in seconds
     
     beginTime = (beginHr*60 + beginMin)*60;
+    endTime =   (endHr*60 + endMin)*60;
     
     function digits(myVal,myNumDigits){
     var s = myVal.toString();
@@ -19,24 +27,28 @@ expression (it's a start), to be applied to a text layer
     return s;
     }
     
-    // speedup should actually be calculated so that animation
-    // happens in same exact amount of time, no matter what
-    // the end time is
-    speedup = 3000; 
-    currTime = (beginTime + time) * speedup;
+    // speedup should depends on animLen
+    speedup = ((endTime - beginTime)/animLen)
+    
+    // time = timeline time
+    currTime = beginTime + (time * speedup);
     
     hr = digits(Math.floor(currTime/3600),2);
     min = digits(Math.floor((currTime%3600)/60),2);
-     
+    
     // stop at specific time
-    if (hr >= 23) {
-    hr = digits((23),2);
-    min = digits((0),2);
+    if (currTime >= endTime) {
+    hr = digits((endHr),2);
+    min = digits((endMin),2);
     }
     
+    // debug display
+    // (endTime - beginTime) + " " + speedup + " " + time + ">" + hr + "." + min
+    
+    // final display
     hr + "." + min
     
-Rotations
+Adobe on the subject
 
 [https://helpx.adobe.com/after-effects/using/expression-examples.html#expression_example_rotate_the_hands_of_a_clock](https://helpx.adobe.com/after-effects/using/expression-examples.html#expression_example_rotate_the_hands_of_a_clock)
     
@@ -49,5 +61,3 @@ Rotations
 ![arc4.svg]({{site.baseurl}}/media/arc4.svg)
 ![arc5.svg]({{site.baseurl}}/media/arc5.svg)
 ![arc6.svg]({{site.baseurl}}/media/arc6.svg)
-
-
