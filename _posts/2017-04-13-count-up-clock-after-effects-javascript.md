@@ -6,7 +6,7 @@ title: 'count up clock, after effects, javascript'
 ---
 ## expressions
 
-expression (it's a start), to be applied to a text layer
+expression (it's a start), to be applied to a text layer 
 
     beginHr = 0;
     beginMin = 0;
@@ -35,6 +35,10 @@ expression (it's a start), to be applied to a text layer
     }
     
     hr + "." + min
+    
+Rotations
+
+[https://helpx.adobe.com/after-effects/using/expression-examples.html#expression_example_rotate_the_hands_of_a_clock](https://helpx.adobe.com/after-effects/using/expression-examples.html#expression_example_rotate_the_hands_of_a_clock)
     
 ## svg examples, material
     
