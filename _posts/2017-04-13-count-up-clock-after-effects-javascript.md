@@ -49,8 +49,13 @@ expression (it's a start), to be applied to a text layer
     hr + "." + min
     
 ![clockCountUp.gif]({{site.baseurl}}/media/clockCountUp.gif)
+
+## layer > Time > Enable Time Remapping
+
+Simple slow down, without any math involved  
+![timeRemap.png]({{site.baseurl}}/media/timeRemap.png)
     
-Adobe on the subject
+## Adobe on the subject
 
 [https://helpx.adobe.com/after-effects/using/expression-examples.html#expression_example_rotate_the_hands_of_a_clock](https://helpx.adobe.com/after-effects/using/expression-examples.html#expression_example_rotate_the_hands_of_a_clock)
     
