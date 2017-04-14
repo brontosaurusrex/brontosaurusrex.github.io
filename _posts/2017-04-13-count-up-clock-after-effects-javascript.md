@@ -65,7 +65,8 @@ Simple slow down, without any js involved
 [https://www.w3schools.com/html/html5_canvas.asp](https://www.w3schools.com/html/html5_canvas.asp)
 
 [draw a circle with some opening](https://www.w3schools.com/code/tryit.asp?filename=FEMV4HWJHOB7), 
-[circle animation ](https://www.w3schools.com/code/tryit.asp?filename=FEMV8DICDA4R)
+[circle animation ](https://www.w3schools.com/code/tryit.asp?filename=FEMV8DICDA4R), 
+[actual clock :)](https://www.w3schools.com/graphics/canvas_clock.asp)
     
 ## Adobe on the subject
 
