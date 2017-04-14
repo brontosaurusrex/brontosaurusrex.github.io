@@ -19,5 +19,5 @@ compile fixed, it also needs
     
 to get gtk theme compatibility.
 
-edit: Kvantum alternative.  
+edit: Kvantum alternative
 [https://store.kde.org/content/show.php/Kvantum?content=166241](https://store.kde.org/content/show.php/Kvantum?content=166241)
