@@ -39,6 +39,7 @@ expression (it's a start), to be applied to a text layer
 ## svg examples, material
     
 ![arc_example.svg]({{site.baseurl}}/media/arc_example.svg)
+![arc.svg]({{site.baseurl}}/media/arc.svg)
 ![arc2.svg]({{site.baseurl}}/media/arc2.svg)
 ![arc3.svg]({{site.baseurl}}/media/arc3.svg)
 ![arc4.svg]({{site.baseurl}}/media/arc4.svg)
