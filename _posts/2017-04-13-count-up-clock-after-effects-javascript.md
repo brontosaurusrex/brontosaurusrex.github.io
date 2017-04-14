@@ -63,6 +63,10 @@ Simple slow down, without any js involved
 ## prototype with browser?
 
 [https://www.w3schools.com/html/html5_canvas.asp](https://www.w3schools.com/html/html5_canvas.asp)
+
+[draw a circle with some opening](https://www.w3schools.com/code/tryit.asp?filename=FEMV4HWJHOB7)
+
+
     
 ## Adobe on the subject
 
