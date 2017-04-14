@@ -8,7 +8,7 @@ title: 'count up clock, after effects, javascript'
 
 expression (it's a start), to be applied to a text layer 
 
-// start with beginHr.beginMin, 
+    // start with beginHr.beginMin, 
     // happens in animLen time, 
     // ends with endHr.endMin
     
