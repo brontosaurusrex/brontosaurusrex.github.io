@@ -54,6 +54,10 @@ expression (it's a start), to be applied to a text layer
 
 Simple slow down, without any js involved  
 ![timeRemap.png]({{site.baseurl}}/media/timeRemap.png)
+
+## Easing Functions in Javascript
+
+[https://gist.github.com/gre/1650294](https://gist.github.com/gre/1650294)
     
 ## Adobe on the subject
 
