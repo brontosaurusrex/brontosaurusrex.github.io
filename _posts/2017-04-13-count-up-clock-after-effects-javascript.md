@@ -48,7 +48,7 @@ expression (it's a start), to be applied to a text layer
     // final display
     hr + "." + min
     
-![clockCountUp.gif]({{site.baseurl}}/media/clockCountUp.gif)
+[clockCountUp.gif]({{site.baseurl}}/media/clockCountUp.gif)
 
 ## layer > Time > Enable Time Remapping
 
