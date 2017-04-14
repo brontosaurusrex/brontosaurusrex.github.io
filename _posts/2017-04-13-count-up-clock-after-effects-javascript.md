@@ -57,7 +57,8 @@ Simple slow down, without any js involved
 
 ## Easing Functions in Javascript
 
-[https://gist.github.com/gre/1650294](https://gist.github.com/gre/1650294)
+[https://gist.github.com/gre/1650294](https://gist.github.com/gre/1650294)  
+
     
 ## Adobe on the subject
 
