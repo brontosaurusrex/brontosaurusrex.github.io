@@ -71,9 +71,9 @@ Simple slow down, without any js involved
 ## svg examples, material
     
 ![arc_example.svg]({{site.baseurl}}/media/arc_example.svg)
-![arc.svg]({{site.baseurl}}/media/arc.svg)
-![arc2.svg]({{site.baseurl}}/media/arc2.svg)
-![arc3.svg]({{site.baseurl}}/media/arc3.svg)
-![arc4.svg]({{site.baseurl}}/media/arc4.svg)
-![arc5.svg]({{site.baseurl}}/media/arc5.svg)
-![arc6.svg]({{site.baseurl}}/media/arc6.svg)
+[arc.svg]({{site.baseurl}}/media/arc.svg)
+[arc2.svg]({{site.baseurl}}/media/arc2.svg)
+[arc3.svg]({{site.baseurl}}/media/arc3.svg)
+[arc4.svg]({{site.baseurl}}/media/arc4.svg)
+[arc5.svg]({{site.baseurl}}/media/arc5.svg)
+[arc6.svg]({{site.baseurl}}/media/arc6.svg)
