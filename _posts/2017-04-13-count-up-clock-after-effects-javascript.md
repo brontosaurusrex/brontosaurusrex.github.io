@@ -4,6 +4,8 @@ layout: post
 date: '2017-04-13 12:12 +0200'
 title: 'count up clock, after effects, javascript'
 ---
+## expressions
+
 expression (it's a start), to be applied to a text layer
 
     beginHr = 0;
@@ -33,6 +35,8 @@ expression (it's a start), to be applied to a text layer
     }
     
     hr + "." + min
+    
+## svg examples, material
     
 ![arc_example.svg]({{site.baseurl}}/media/arc_example.svg)
 ![arc2.svg]({{site.baseurl}}/media/arc2.svg)
