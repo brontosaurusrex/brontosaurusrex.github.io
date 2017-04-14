@@ -59,6 +59,10 @@ Simple slow down, without any js involved
 
 [https://gist.github.com/gre/1650294](https://gist.github.com/gre/1650294)  
 [https://joshondesign.com/2013/03/01/improvedEasingEquations](https://joshondesign.com/2013/03/01/improvedEasingEquations)
+
+## prototype with browser?
+
+[https://www.w3schools.com/html/html5_canvas.asp](https://www.w3schools.com/html/html5_canvas.asp)
     
 ## Adobe on the subject
 
