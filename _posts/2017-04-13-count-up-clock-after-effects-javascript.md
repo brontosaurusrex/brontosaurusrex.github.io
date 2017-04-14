@@ -52,7 +52,7 @@ expression (it's a start), to be applied to a text layer
 
 ## layer > Time > Enable Time Remapping
 
-Simple slow down, without any math involved  
+Simple slow down, without any js involved  
 ![timeRemap.png]({{site.baseurl}}/media/timeRemap.png)
     
 ## Adobe on the subject
