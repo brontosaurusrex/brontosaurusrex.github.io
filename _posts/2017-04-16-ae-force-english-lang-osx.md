@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2017-04-16 19:00 +0200'
-title: 'ae force english lang, osx'
+title: 'After effects force english lang, osx'
 ---
     touch /Users/user/Documents/ae_force_english.txt
     
