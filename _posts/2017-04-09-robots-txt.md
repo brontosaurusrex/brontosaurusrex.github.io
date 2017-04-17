@@ -9,3 +9,12 @@ title: robots.txt
 ![googleSearch.jpg]({{site.baseurl}}/media/googleSearch.jpg)
 
 fix: 'be'
+
+edit: Yeah, that did work for a day or two, but for no special reason google find pages as well now. How about some changes to config.yml, like swaping the order of gems
+
+    # from
+    gems: 		[jekyll-paginate, jekyll-sitemap]
+    # to
+    gems: 		[jekyll-sitemap, jekyll-paginate]
+    
+That way sitemap will be generated before paginate and no /pages will be mentioned there.
