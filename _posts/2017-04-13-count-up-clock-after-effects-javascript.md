@@ -86,19 +86,20 @@ mine
     
     
     function drawTheArc() {
-    
+        
+        // reset canvas
         ctx.clearRect(0, 0, c.width, c.height);
-    
-    
+        
+        // draw
         ctx.beginPath();
     
         ctx.arc(350,350,300,(340-90+angle) * Math.PI/180, (20-90+angle) * Math.PI/180, true);
         ctx.lineWidth = 15;
         //ctx.strokeStyle = "rgba(0,0,0,0.9)";
         ctx.stroke();
-    
         ctx.closePath();
-    
+        // draw end
+        
         // animate the angle    
         angle = angle + 4;
     
