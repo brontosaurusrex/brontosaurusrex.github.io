@@ -6,3 +6,4 @@ title: 'crunchbang wallpaper, svg'
 ---
 ![crunchbang_nonofficial_vectors.svg]({{site.baseurl}}/media/crunchbang_nonofficial_vectors.svg)
 
+File under: 'things that are found while making disk space.'
