@@ -68,6 +68,61 @@ mine
 [draw a circle with some opening](https://www.w3schools.com/code/tryit.asp?filename=FEMV4HWJHOB7),  
 [rotating circle](https://www.w3schools.com/code/tryit.asp?filename=FEQ0MIMMRHVH),  
 
+    <!DOCTYPE html>
+    <html>
+    <body>
+    
+    <canvas id="platno" width="700" height="700" style="border:1px solid #d3d3d3;">
+    Your browser does not support the HTML5 canvas tag.</canvas>
+    
+    <script>
+    var angle = 0;
+    var c = document.getElementById("platno");
+    var ctx = c.getContext("2d");
+    
+    // animation
+    
+    setInterval(drawTheArc, 1000/25);
+    
+    
+    function drawTheArc() {
+    
+        ctx.clearRect(0, 0, c.width, c.height);
+    
+    
+        ctx.beginPath();
+    
+        ctx.arc(350,350,300,(340-90+angle) * Math.PI/180, (20-90+angle) * Math.PI/180, true);
+        ctx.lineWidth = 15;
+        //ctx.strokeStyle = "rgba(0,0,0,0.9)";
+        ctx.stroke();
+    
+        ctx.closePath();
+    
+        // animate the angle    
+        angle = angle + 4;
+    
+    
+    }
+    
+    
+    
+    
+    </script> 
+    
+    </body>
+    </html>
+    
+    
+    <!--
+    
+    https://www.youtube.com/watch?v=EO6OkltgudE
+    https://www.youtube.com/watch?v=SNHHUmDWltU
+    https://www.youtube.com/watch?v=N0BNbngr2IY
+    
+    -->
+
+
 other  
 [circle animation ](https://www.w3schools.com/code/tryit.asp?filename=FEMV8DICDA4R), 
 [actual clock :)](https://www.w3schools.com/graphics/canvas_clock.asp)
