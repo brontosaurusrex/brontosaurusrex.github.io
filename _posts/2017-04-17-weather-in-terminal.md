@@ -21,3 +21,12 @@ today
     
     # 0 = today
     # Q = real quiet
+    
+example output
+
+        \  /       Partly cloudy
+      _ /"".-.     7 °C
+        \_(   ).   ↑ 0 km/h
+        /(___(__)  10 km
+                   0.0 mm
+
