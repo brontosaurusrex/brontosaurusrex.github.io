@@ -126,6 +126,7 @@ other
     
 ## Adobe on the subject
 
+[http://docs.aenhancers.com/](http://docs.aenhancers.com/)  
 [https://helpx.adobe.com/after-effects/using/expression-examples.html#expression_example_rotate_the_hands_of_a_clock](https://helpx.adobe.com/after-effects/using/expression-examples.html#expression_example_rotate_the_hands_of_a_clock)
     
 ## svg examples, material
