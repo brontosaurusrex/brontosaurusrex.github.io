@@ -29,4 +29,5 @@ example output
         \_(   ).   ↑ 0 km/h
         /(___(__)  10 km
                    0.0 mm
-
+                   
+or just [browse there](http://wttr.in/).
