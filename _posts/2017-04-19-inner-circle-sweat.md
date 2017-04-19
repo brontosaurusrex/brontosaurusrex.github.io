@@ -12,3 +12,7 @@ title: 'Inner circle, Sweat'
 
     mpv --ytdl-format 171 https://www.youtube.com/watch?v=3HIMXGuKGpo 
     # vorbis audio only
+    
+for autostart
+
+    (sleep 10 && mpv -start 9.28 -length 4 --ytdl-format 171 https://www.youtube.com/watch?v=3HIMXGuKGpo) &
