@@ -14,5 +14,5 @@ title: No markdown for you!
 
 And omg, I'am writting this post in markdown.
 
-Spinx and reStructured text  
+Spinx and reStructured text (reST)  
 [http://docs.readthedocs.io/en/latest/getting_started.html#in-rst](http://docs.readthedocs.io/en/latest/getting_started.html#in-rst)
