@@ -10,3 +10,5 @@ title: No markdown for you!
 - Lack of Extensibility
 - Lack of Semantic Meaning
 - Lock In and Lack of Portability
+
+And omg, I'am writting this post in markdown.
