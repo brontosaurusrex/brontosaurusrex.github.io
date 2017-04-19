@@ -9,3 +9,5 @@ title: 'Inner circle, Sweat'
 > A La La La La Long
 > A La La La La Long Long
 > Li Long Long Long.
+
+    mpv --no-video https://www.youtube.com/watch?v=3HIMXGuKGpo
