@@ -20,3 +20,6 @@ edit: Yeah, that did work for a day or two, but for no special reason google fin
 That way sitemap will be generated before paginate and no /pages will be mentioned there.
 
 edit2: That did't work either, now let's try to remove link to sitemap...
+
+![dissalow.png]({{site.baseurl}}/media/dissalow.png)
+
