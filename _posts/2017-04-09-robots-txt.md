@@ -23,3 +23,5 @@ edit2: That did't work either, now let's try to remove link to sitemap...
 
 ![dissalow.png]({{site.baseurl}}/media/dissalow.png)
 
+[https://www.google.com/webmasters/tools/robots-testing-tool](https://www.google.com/webmasters/tools/robots-testing-tool)
+
