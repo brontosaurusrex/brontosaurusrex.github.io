@@ -13,3 +13,6 @@ title: No markdown for you!
 - Lock In and Lack of Portability
 
 And omg, I'am writting this post in markdown.
+
+Spinx and reStructured text  
+[http://docs.readthedocs.io/en/latest/getting_started.html#in-rst](http://docs.readthedocs.io/en/latest/getting_started.html#in-rst)
