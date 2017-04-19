@@ -1,2 +1,3 @@
 User-Agent: *
 Disallow: /page*
+sitemap: https://brontosaurusrex.github.io/sitemap.xml
