@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2017-04-20 12:00 +0200'
-title: Start new terminal and run command and ...
+title: Start new terminal and run command and
 ---
 hold the display:
 
