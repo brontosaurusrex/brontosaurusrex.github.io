@@ -86,7 +86,8 @@ and add something like
     
 restart lighttpd. This can't be a real solution, more like an ugly workaround.
 
-[http://stackoverflow.com/questions/29349348/specifying-charset-in-http-header-with-lighttpd](http://stackoverflow.com/questions/29349348/specifying-charset-in-http-header-with-lighttpd)
+[http://stackoverflow.com/questions/29349348/specifying-charset-in-http-header-with-lighttpd](http://stackoverflow.com/questions/29349348/specifying-charset-in-http-header-with-lighttpd)  
+[https://redmine.lighttpd.net/projects/lighttpd/wiki/Mimetype_assignDetails](https://redmine.lighttpd.net/projects/lighttpd/wiki/Mimetype_assignDetails)
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
