@@ -10,15 +10,20 @@ In /etc/lighttpd/lighttpd.conf comment/disable
     
 and add something like
 
-    mimetype.assign = (
-      ".css" => "text/css; charset=utf-8",
-      ".html" => "text/html; charset=utf-8",
-      ".htm" => "text/html; charset=utf-8",
-      ".js" => "text/javascript; charset=utf-8",
-      ".text" => "text/plain; charset=utf-8",
-      ".txt" => "text/plain; charset=utf-8",
-      ".xml" => "text/xml; charset=utf-8"
-    )
+	mimetype.assign = (
+	  ".css" => "text/css; charset=utf-8",
+	  ".html" => "text/html; charset=utf-8",
+	  ".htm" => "text/html; charset=utf-8",
+	  ".js" => "text/javascript; charset=utf-8",
+	  ".text" => "text/plain; charset=utf-8",
+	  ".txt" => "text/plain; charset=utf-8",
+	  ".txt~" => "text/plain; charset=utf-8",
+	  ".xml" => "text/xml; charset=utf-8",
+	  ".mp4" => "video/mp4",
+	  ".png"  => "image/png",
+	  ".jpg"  => "image/jpeg",
+	  ".jpeg" => "image/jpeg"
+	)
     
 restart lighttpd. This can't be a real solution, more like an ugly workaround.
 
