@@ -7,4 +7,4 @@ title: pure-ftpd chroot on Debian Stretch
     sudo echo "yes" > /etc/pure-ftpd/conf/ChrootEveryone
     systemctl restart pure-ftpd.service
     
-if that fails, reboot. Now the users should be jailed to their $HOME.
+if that fails, reboot. Now the users should be jailed to their $HOME. p.s. This assumes zero previous conf.
