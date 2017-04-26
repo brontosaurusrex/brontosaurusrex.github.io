@@ -16,4 +16,6 @@ man
 
 ## 7d c-log?
 
-[http://www.chungdha.nl/wp-content/uploads/2016/01/C-LOG_htp.pf2_.zip](http://www.chungdha.nl/wp-content/uploads/2016/01/C-LOG_htp.pf2_.zip)
+[http://www.chungdha.nl/?s=c-log](http://www.chungdha.nl/?s=c-log)  
+[http://philipbloom.net/blog/clog/](http://philipbloom.net/blog/clog)
+
