@@ -10,3 +10,6 @@ title: 'Sony a7s luts, s-log2'
 
 a. File / project settings / Color Management / Open LUT Folder
 b. drop them to some of the allready existed folders (like sony)
+
+man  
+[http://documents.blackmagicdesign.com/DaVinciResolve/20170424-d01b5c/DaVinci_Resolve_14_Reference_Manual.pdf](http://documents.blackmagicdesign.com/DaVinciResolve/20170424-d01b5c/DaVinci_Resolve_14_Reference_Manual.pdf)
