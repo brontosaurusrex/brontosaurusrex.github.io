@@ -15,4 +15,5 @@ man
 [http://documents.blackmagicdesign.com/DaVinciResolve/20170424-d01b5c/DaVinci_Resolve_14_Reference_Manual.pdf](http://documents.blackmagicdesign.com/DaVinciResolve/20170424-d01b5c/DaVinci_Resolve_14_Reference_Manual.pdf)
 
 ## 7d c-log?
+
 [http://www.chungdha.nl/wp-content/uploads/2016/01/C-LOG_htp.pf2_.zip](http://www.chungdha.nl/wp-content/uploads/2016/01/C-LOG_htp.pf2_.zip)
