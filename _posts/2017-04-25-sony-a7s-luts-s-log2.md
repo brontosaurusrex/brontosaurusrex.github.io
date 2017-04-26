@@ -26,3 +26,8 @@ just photoshop
 [https://www.youtube.com/watch?v=BmDy5-RdMng](https://www.youtube.com/watch?v=BmDy5-RdMng)  
 with lut buddy  
 [https://www.youtube.com/watch?v=o250fownOvE](https://www.youtube.com/watch?v=o250fownOvE)
+
+## stuff
+
+bunch of luts and generator  
+[https://luts.iwltbap.com/](https://luts.iwltbap.com/)
