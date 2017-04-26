@@ -17,5 +17,6 @@ man
 ## 7d c-log?
 
 [http://www.chungdha.nl/?s=c-log](http://www.chungdha.nl/?s=c-log)  
-[http://philipbloom.net/blog/clog/](http://philipbloom.net/blog/clog)
+[http://philipbloom.net/blog/clog/](http://philipbloom.net/blog/clog)  
+
 
