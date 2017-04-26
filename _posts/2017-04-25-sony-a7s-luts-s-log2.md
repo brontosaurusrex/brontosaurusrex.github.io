@@ -20,4 +20,9 @@ man
 [http://philipbloom.net/blog/clog/](http://philipbloom.net/blog/clog)  
 [https://www.youtube.com/watch?v=RmCRhTedXpM](https://www.youtube.com/watch?v=RmCRhTedXpM)
 
+## creating your own
 
+just photoshop  
+[https://www.youtube.com/watch?v=BmDy5-RdMng](https://www.youtube.com/watch?v=BmDy5-RdMng)  
+with lut buddy  
+[https://www.youtube.com/watch?v=o250fownOvE](https://www.youtube.com/watch?v=o250fownOvE)
