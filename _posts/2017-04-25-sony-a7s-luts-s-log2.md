@@ -18,5 +18,6 @@ man
 
 [http://www.chungdha.nl/?s=c-log](http://www.chungdha.nl/?s=c-log)  
 [http://philipbloom.net/blog/clog/](http://philipbloom.net/blog/clog)  
+[https://www.youtube.com/watch?v=RmCRhTedXpM](https://www.youtube.com/watch?v=RmCRhTedXpM)
 
 
