@@ -9,3 +9,7 @@ title: Mount ssh as drive from windows (7)
 > Install Dokany SSHFS
 > Install Win-SSHFS
 > Open Win-SSHFS and add a new drive
+
+[https://github.com/dokan-dev/dokany/releases](https://github.com/dokan-dev/dokany/releases)  
+[https://github.com/Foreveryone-cz/win-sshfs/releases](https://github.com/Foreveryone-cz/win-sshfs/releases)
+
