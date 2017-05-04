@@ -12,5 +12,3 @@ title: Mount ssh as drive from windows (7)
 
 [https://github.com/dokan-dev/dokany/releases](https://github.com/dokan-dev/dokany/releases)  
 [https://github.com/Foreveryone-cz/win-sshfs/releases](https://github.com/Foreveryone-cz/win-sshfs/releases)
-
-![](https://igikorn.com/file/2013/09/windows-8-sshfs.gif)
