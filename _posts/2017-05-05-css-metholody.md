@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2017-05-05 13:39 +0200'
-title: css metholody
+title: 'CSS methodology '
 ---
 ## BEM css
 [http://getbem.com/](http://getbem.com/)
