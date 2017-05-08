@@ -13,5 +13,3 @@ title: 'CSS methodology '
 [https://acss.io/](https://acss.io/)
 
 > Atomic CSS enables you to style directly in your components, avoiding the headache of managing stylesheets.
-
-Both feel like ..., actually entire css idea seems false (todo: prove with examples).
