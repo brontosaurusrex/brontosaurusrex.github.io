@@ -4,7 +4,8 @@ layout: post
 date: '2017-05-09 10:12 +0200'
 title: theoatmeal
 ---
-[http://theoatmeal.com/](http://theoatmeal.com/)
+[http://theoatmeal.com/](http://theoatmeal.com/)  
+[http://theoatmeal.com/comics/tesla](http://theoatmeal.com/comics/tesla)
 
 Comics. Like this one:
 
