@@ -6,6 +6,6 @@ title: theoatmeal
 ---
 [http://theoatmeal.com/](http://theoatmeal.com/)
 
-Comics. < stolen.
+Comics. Like this one:
 
 ![dog speed](http://s3.amazonaws.com/theoatmeal-img/comics/dog_speeds/dog_speeds.png)
