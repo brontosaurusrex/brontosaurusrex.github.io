@@ -11,3 +11,5 @@ title: MapSCII - The Whole World In Your Console.
 [![mapscii.th.png](https://cdn.scrot.moe/images/2017/05/11/mapscii.th.png)](https://cdn.scrot.moe/images/2017/05/11/mapscii.png)
 
 If installing localy you will probably want nodejs 6 (not 7) at this point in time.
+
+Data: [http://planet.openstreetmap.org/](http://planet.openstreetmap.org/)
