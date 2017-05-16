@@ -30,14 +30,14 @@ published: true
 
 ## Masterminds Of Programming
 
-[2016/11/25/masterminds-of-programming](2016/11/25/masterminds-of-programming)
+[2016/11/25/masterminds-of-programming](/2016/11/25/masterminds-of-programming)
 
 ## Simple Sabotage Field Manual
 
-[2016/08/11/simple-sabotage-field-manual](2016/08/11/simple-sabotage-field-manual)
+[2016/08/11/simple-sabotage-field-manual](/2016/08/11/simple-sabotage-field-manual)
 
 ## Unix history
 
-[2016/08/25/unix-history](2016/08/25/unix-history)
+[2016/08/25/unix-history](/2016/08/25/unix-history)
 
 
