@@ -324,13 +324,13 @@ should give you some Katy Perry..., I know.
 
 <a href="http://shrani.si/f/P/Cu/4rISkwzH/pt.png"><img src="http://shrani.si/t/P/Cu/4rISkwzH/pt.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
-Update: <https://forums.bunsenlabs.org/viewtopic.php?id=578>
+Update: This script should not be needed anymore, entire youtube-dl stuff is now supported in mpv directly.   <https://forums.bunsenlabs.org/viewtopic.php?id=578>
 
 a browser and an image viewer and a command line unpacker, sudo
 
     apt-get install firefox-esr viewnior unp
 
-I would add an Adblock Plus extension right away
+I would add an Adblock Plus extension right away (or uBlock origin)
 
 <a href="http://shrani.si/f/2E/MY/4dE12bs6/iceweasel.png"><img src="http://shrani.si/t/2E/MY/4dE12bs6/iceweasel.jpg" style="border: 0px;" alt="Shrani.si"/></a>
 
