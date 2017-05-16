@@ -24,6 +24,10 @@ published: true
 
 > TIFFANY B. BROWN, CSS has grown from a language for formatting documents into a robust language for designing web applications. Its syntax is easy to learn, making CSS a great entry point for those new to programming. Indeed, it's often the second language that developers learn, right behind HTML.
 
+## Tesla: Man Out of Time
+
+>  Margaret Cheney explores the brilliant and prescient mind of Nikola Tesla, one of the twentieth century’s greatest scientists and inventors. (TO READ)
+
 ## Byte of vim
 
 [https://vim.swaroopch.com/](https://vim.swaroopch.com)
