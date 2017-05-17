@@ -8,6 +8,4 @@ title: theoatmeal
 [http://theoatmeal.com/comics/tesla](http://theoatmeal.com/comics/tesla)  
 [https://theoatmeal-img/blog/justdoitlater](https://i1.wp.com/s3.amazonaws.com/theoatmeal-img/blog/justdoitlater.png)
 
-Comics. Like this one:
-
-![dog speed](http://s3.amazonaws.com/theoatmeal-img/comics/dog_speeds/dog_speeds.png)
+Comics.
