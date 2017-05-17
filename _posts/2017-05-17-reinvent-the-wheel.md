@@ -6,5 +6,4 @@ title: Reinvent the wheel
 ---
 [http://www.betaboston.com/news/2014/07/09/re-inventing-the-wheel-why-not-many-do/](http://www.betaboston.com/news/2014/07/09/re-inventing-the-wheel-why-not-many-do/)
 
-![omni-wheeled-forklift.jpg]({{site.baseurl}}/media/omni-wheeled-forklift.jpg)
-
+![reinwentTheWheel.png]({{site.baseurl}}/media/reinwentTheWheel.png)
