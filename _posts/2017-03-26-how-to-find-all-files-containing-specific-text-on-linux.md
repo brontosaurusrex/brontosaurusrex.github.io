@@ -6,9 +6,17 @@ title: How to find all files containing specific text on Linux?
 ---
 [http://stackoverflow.com/questions/16956810/how-to-find-all-files-containing-specific-text-on-linux](http://stackoverflow.com/questions/16956810/how-to-find-all-files-containing-specific-text-on-linux)
 
+## grep
+
     grep -Ril "text-to-find-here" .
 
     i stands for ignore case (optional in your case).
     R stands for recursive.
     l stands for "show the file name, not the result itself".
     . stands for start directory
+    
+## ack
+
+    sudo apt install ack
+    
+    ack text-to-find
