@@ -23,3 +23,5 @@ title: How to find all files containing specific text on Linux?
     
 ![ack.png]({{site.baseurl}}/media/ack.png)
 
+[https://forums.bunsenlabs.org/viewtopic.php?pid=51389](https://forums.bunsenlabs.org/viewtopic.php?pid=51389)
+
