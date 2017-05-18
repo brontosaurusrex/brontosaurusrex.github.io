@@ -17,6 +17,9 @@ title: How to find all files containing specific text on Linux?
     
 ## ack
 
-    sudo apt install ack
+    # sudo apt install ack
     
-    ack text-to-find
+    ack stuff
+    
+![ack.png]({{site.baseurl}}/media/ack.png)
+
