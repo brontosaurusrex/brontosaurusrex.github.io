@@ -29,7 +29,7 @@ title: How to find all files containing specific text on Linux?
 
 [https://forums.bunsenlabs.org/viewtopic.php?pid=51389](https://forums.bunsenlabs.org/viewtopic.php?pid=51389)
 
-## sift
+## sift (fast!!!)
 
     sift stuff
     
