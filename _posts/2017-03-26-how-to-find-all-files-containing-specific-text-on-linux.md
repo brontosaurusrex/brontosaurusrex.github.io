@@ -21,7 +21,10 @@ title: How to find all files containing specific text on Linux?
     
     ack stuff
     
+    # ignore a dir
+    
+    ack --ignore-dir _site stuff
+    
 ![ack.png]({{site.baseurl}}/media/ack.png)
 
 [https://forums.bunsenlabs.org/viewtopic.php?pid=51389](https://forums.bunsenlabs.org/viewtopic.php?pid=51389)
-
