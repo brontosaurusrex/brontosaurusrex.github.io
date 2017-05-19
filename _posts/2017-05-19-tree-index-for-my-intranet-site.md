@@ -23,3 +23,7 @@ title: tree index for my intranet site
     sed -i '/<hr>/d' "$outfile"
 
     # echo "<link rel="stylesheet" type="text/css" href="/dirlist.css">" >> "$outfile"
+    
+every 10 minutes from crontab -e
+
+    */10 * * * * ~/bin/htmltree 2>/tmp/stderrHtmltree.log
