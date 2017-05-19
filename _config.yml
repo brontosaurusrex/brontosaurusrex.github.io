@@ -1,11 +1,7 @@
 # Dependencies
 markdown:       kramdown
-highlighter: 	none
+highlighter: 	rouge
 gems: 		[jekyll-sitemap, jekyll-paginate]
-
-kramdown: 
-    syntax_highlighter_opts:
-    disable : true
 
 # Permalinks
 permalink:        pretty
