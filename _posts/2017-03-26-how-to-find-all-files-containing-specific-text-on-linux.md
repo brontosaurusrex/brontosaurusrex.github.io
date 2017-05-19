@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2017-03-26 21:30 +0200'
+date: '2017-05-19 18:12 +0200'
 title: How to find all files containing specific text on Linux?
 ---
 [http://stackoverflow.com/questions/16956810/how-to-find-all-files-containing-specific-text-on-linux](http://stackoverflow.com/questions/16956810/how-to-find-all-files-containing-specific-text-on-linux)
