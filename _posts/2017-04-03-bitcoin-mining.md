@@ -16,4 +16,8 @@ title: bitcoin mining
 
 [https://www.coinbase.com/](https://www.coinbase.com/)
 
+## on mac/osx
+
+[https://forum.ethereum.org/discussion/729/mining-ether-on-a-mac](https://forum.ethereum.org/discussion/729/mining-ether-on-a-mac)
+
 ^ Nothing tested so far.
