@@ -29,3 +29,6 @@ Do I want this?
 ethereum white-paper  
 [https://github.com/ethereum/wiki/wiki/White-Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
 
+## simple and cool and uses cpu as well
+
+[https://minergate.com](https://minergate.com)
