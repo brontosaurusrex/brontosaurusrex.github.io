@@ -11,3 +11,9 @@ title: bitcoin mining
 ## hardware
 
 [https://mineshop.eu/ethereum-miner](https://mineshop.eu/ethereum-miner)
+
+## wallet
+
+[https://www.coinbase.com/](https://www.coinbase.com/)
+
+^ Nothing tested so far.
