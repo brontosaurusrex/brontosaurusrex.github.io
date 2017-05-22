@@ -18,7 +18,11 @@ title: bitcoin mining
 
 ## on mac/osx
 
-[https://forum.ethereum.org/discussion/729/mining-ether-on-a-mac](https://forum.ethereum.org/discussion/729/mining-ether-on-a-mac)
+[https://forum.ethereum.org/discussion/729/mining-ether-on-a-mac](https://forum.ethereum.org/discussion/729/mining-ether-on-a-mac)  
+[https://github.com/ethereum/go-ethereum/wiki/Mining](https://github.com/ethereum/go-ethereum/wiki/Mining)
+
+Do I want this?  
+[https://github.com/Genoil/cpp-ethereum](https://github.com/Genoil/cpp-ethereum)
 
 ## theory
 
