@@ -20,4 +20,8 @@ title: bitcoin mining
 
 [https://forum.ethereum.org/discussion/729/mining-ether-on-a-mac](https://forum.ethereum.org/discussion/729/mining-ether-on-a-mac)
 
-^ Nothing tested so far.
+## theory
+
+ethereum white-paper  
+[https://github.com/ethereum/wiki/wiki/White-Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
+
