@@ -7,8 +7,8 @@ gems: 		[jekyll-sitemap, jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            'A la la la la long'
-tagline:          'a la la la la long long li long long long'
+title:            'brontolabs'
+tagline:          'Linux, Blender, Video, Web, Stuff'
 description:      'brontosaurusrex.github.io'
 url:              http://brontosaurusrex.github.io
 
