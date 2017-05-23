@@ -25,4 +25,5 @@ And currently
 
 > ...now I think many members of the free software community are just deeply anti-social types who love to hate on whatever is mainstream.
 
-
+More:  
+[https://www.sudosatirical.com/articles/ubuntu-fan-wakes-from-two-year-coma/](https://www.sudosatirical.com/articles/ubuntu-fan-wakes-from-two-year-coma/)
