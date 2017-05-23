@@ -31,4 +31,5 @@ ethereum white-paper
 
 ## simple and cool and uses cpu as well
 
-[https://minergate.com](https://minergate.com)
+[https://minergate.com](https://minergate.com)  
+[https://minergate.com/blog/console-miner-released/](https://minergate.com/blog/console-miner-released/)
