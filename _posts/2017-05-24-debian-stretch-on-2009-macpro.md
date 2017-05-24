@@ -12,3 +12,5 @@ title: Debian Stretch on 2009 MacPro
 - conky is invisible
 - FIXED (by reinstalling rEFInd) system will go directly to grub at boot time (rEFInd screen expected)
 - propelers are too loud
+
+[![macproMetal.th.png](https://cdn.scrot.moe/images/2017/05/25/macproMetal.th.png)](https://cdn.scrot.moe/images/2017/05/25/macproMetal.png)
