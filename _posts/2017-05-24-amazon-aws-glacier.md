@@ -6,7 +6,7 @@ title: amazon aws glacier
 ---
 a. First generate a user and group. And the group has certain privilegies (Quite a fun to figure out what to clicky there, since each group has a limit of 10 'permission entries'.
 
-b. And generate a new glacier instance...
+b. And generate a new glacier instance... and name the storage (in this case name is *shramba*)
 
 c. Install [aws tools](http://docs.aws.amazon.com/cli/latest/userguide/installing.html) (python pip thing)
 
