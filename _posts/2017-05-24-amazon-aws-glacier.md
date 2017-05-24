@@ -19,3 +19,8 @@ c. Install [aws tools](http://docs.aws.amazon.com/cli/latest/userguide/installin
     aws glacier upload-archive --account-id - --vault-name shramba --body images/siteImages.tar.gz
     
 [http://docs.amazonaws.cn/cli/latest/reference/glacier/upload-archive.html](http://docs.amazonaws.cn/cli/latest/reference/glacier/upload-archive.html)
+
+If the cli tool is returning some json and you would want text, on Debian the config file is ~/.aws/config, add
+
+    output = text
+    
