@@ -17,7 +17,7 @@ From man tar
     -        pipe
     # Order of switches seems to be important, f must be last.
     
-From find man
+From man find
 
      -type f - regular file
      -name   - matches shell pattern
