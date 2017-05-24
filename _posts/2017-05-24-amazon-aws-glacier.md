@@ -4,9 +4,11 @@ layout: post
 date: '2017-05-24 11:48 +0200'
 title: amazon aws glacier
 ---
-First generate a user and group. And the group has certain privilegies (Quite a fun to figure out what to clicky there, since each group has a limit of 10 'permission entries'.
+a. First generate a user and group. And the group has certain privilegies (Quite a fun to figure out what to clicky there, since each group has a limit of 10 'permission entries'.
 
-And generate a new glacier instance...
+b. And generate a new glacier instance...
+
+c. Install [aws tools](http://docs.aws.amazon.com/cli/latest/userguide/installing.html) (python pip thing)
 
     # info
     aws glacier describe-vault --vault-name shramba --account-id -
