@@ -24,3 +24,4 @@ If the cli tool is returning some json and you would want text, on Debian the co
 
     output = text
     
+p.s. Inventory is only updated [once per day](https://aws.amazon.com/glacier/faqs/#data-inventories) or so.
