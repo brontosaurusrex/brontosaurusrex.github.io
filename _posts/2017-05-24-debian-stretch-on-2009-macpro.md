@@ -10,3 +10,4 @@ title: Debian Stretch on 2009 MacPro
 - function keys not working
 - shutdown will blank and not actually shutdown (systemctl poweroff)
 - conky is invisible
+- system will go directly to grub at boot time (rEFInd screen expected)
