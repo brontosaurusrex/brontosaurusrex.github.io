@@ -9,7 +9,7 @@ title: find and tar xz
 From man tar
 
     c        - create
-    J        - use xz compression
+    J        - use xz compression (j = bzip2.bz, z = gzip.gz)
     f        - use file as output
     T        - get names to extract or create from FILE
     Unless specified otherwise, the FILE must contain a list of 
