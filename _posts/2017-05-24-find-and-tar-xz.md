@@ -15,6 +15,7 @@ From man tar
              Unless specified otherwise, the FILE must contain a list of names 
              separated by ASCII LF (i.e. one name per  line).
     -        pipe
+    # Order of switches seems to be important, f must be last.
     
 From find man
 
