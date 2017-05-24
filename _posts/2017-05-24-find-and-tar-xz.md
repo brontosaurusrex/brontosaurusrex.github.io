@@ -21,5 +21,11 @@ From man find
 
      -type f - regular file
      -name   - matches shell pattern
+     
+Another option is switch -a which will make tar to select compression based on suffix
+
+    find . -type f -name "*.blend" | tar -caf blenderBlends.tar.xz -T -
+    
+    # gz, bzip2, lzma ...
 
     
