@@ -11,3 +11,4 @@ title: Debian Stretch on 2009 MacPro
 - FIXED (itself) shutdown will blank and not actually shutdown (systemctl poweroff)
 - conky is invisible
 - FIXED (by reinstalling rEFInd) system will go directly to grub at boot time (rEFInd screen expected)
+- propelers are too loud
