@@ -9,3 +9,5 @@ title: amazon aws glacier
 
     # upload something
     aws glacier upload-archive --account-id - --vault-name shramba --body images/siteImages.tar.gz
+    
+[http://docs.amazonaws.cn/cli/latest/reference/glacier/upload-archive.html](http://docs.amazonaws.cn/cli/latest/reference/glacier/upload-archive.html)
