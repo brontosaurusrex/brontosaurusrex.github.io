@@ -9,6 +9,7 @@ title: find and tar xz
 From man tar
 
     c        - create
+    J        - use xz compression
     f        - use file as output
     T        - get names to extract or create from FILE
              Unless specified otherwise, the FILE must contain a list of names 
