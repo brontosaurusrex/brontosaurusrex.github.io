@@ -9,3 +9,4 @@ title: Debian Stretch on 2009 MacPro
 - openbox exit will switch to black (started with startx and nvidia-legacy drivers are active)
 - function keys not working
 - shutdown will blank and not actually shutdown (systemctl poweroff)
+- conky is invisible
