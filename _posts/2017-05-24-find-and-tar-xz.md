@@ -26,6 +26,4 @@ Another option is switch -a which will make tar to select compression based on s
 
     find . -type f -name "*.blend" | tar -caf blenderBlends.tar.xz -T -
     
-    # gz, bzip2, lzma ...
-
-    
+    # .gz < is interesting due to speed 
