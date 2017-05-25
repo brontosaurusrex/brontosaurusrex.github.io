@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-date: "2016-03-17 03:31 +0100"
-title: "dd iso to usb, OSX"
+date: '2016-03-17 03:31 +0100'
+title: 'dd iso to usb, OSX'
 ---
 
 
@@ -30,3 +30,8 @@ There is no progress bar, so you will just have to have some faith and patience 
 eject (or just pull it out)
 
     diskutil eject /dev/disk5s1
+    
+edit: They say, they say that you should convert iso to img first
+
+    hdiutil convert -format UDRW -o dest.img orig.iso
+    # and then dd that to usb^
