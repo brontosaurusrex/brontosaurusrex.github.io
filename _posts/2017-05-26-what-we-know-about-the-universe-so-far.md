@@ -13,7 +13,7 @@ title: What We Know About The Universe
 
 Can any objective measurement be not subjective?
 
-According to Krauss, one version of *nothing* is fluctuation of particles that obey the zero energy principles. If I got that correctly, giving enough time (before time was born?) can easily pop stuff into existence. Stuff would be matter + time + other?. He does point out experimental proof that most of the time disagrees with what is happening in human head. He acknowledges limits of science which seems to fight human desire to understand everything and now.
+According to Krauss, one version of *nothing* is fluctuation of particles that obey the zero energy principles. If I got that correctly, giving enough time (before time was born?) can easily pop stuff into existence. Stuff would be matter + time + other?. He does point out experimental proof that most of the time disagrees with what is happening in human head. He acknowledges limits of science which seems to fight human desire to understand everything and now. Science disproves itself.
 
 Phylosophical and religious definition of nothing (again according to Krauss) is absolute...
 
