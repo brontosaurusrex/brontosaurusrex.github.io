@@ -17,4 +17,4 @@ According to Krauss, one version of *nothing* is fluctuation of particles that o
 
 Phylosophical and religious definition of nothing (again according to Krauss) is absolute...
 
-Math is interesting, it appears to me that it can easily serve both poles (zero penguins, eternal time... < seems not very empirical.)
+Math is interesting, it appears to me that it can easily serve both poles (zero penguins, eternal time... < seems not very empirical.) Larger than multiverse + imagination?
