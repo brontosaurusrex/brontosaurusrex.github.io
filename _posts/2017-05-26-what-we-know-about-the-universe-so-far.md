@@ -18,3 +18,9 @@ According to Krauss, one version of *nothing* is fluctuation of particles that o
 Phylosophical and religious definition of nothing (again according to Krauss) is absolute...
 
 Math is interesting, it appears to me that it can easily serve both poles (zero penguins, eternal time... < seems not very empirical). Larger than multiverse + imagination?
+
+So religion and partially phylosophie are dogmatic, turned into past and a result of inner-head mental masturbation, they are OUT (have nothing to offer to our view of the universe).
+
+However there is another imaginate discipline called Art, which is IN. It is in a position of showing reality in a subjective form and at the same time predict the possible future. Neil Tyson about the Stary night.
+
+![]({{site.baseurl}}/https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/758px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
