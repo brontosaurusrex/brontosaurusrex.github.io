@@ -32,9 +32,9 @@ Quoting Richard Feynman:
 
 However there is another imaginative discipline called **Art**, which is IN. It is in a position of showing reality in a subjective form and at the same time predict one of the possible future's. Neil Tyson about the [Stary night](https://www.youtube.com/watch?v=LiiC0v9tVMg). Of course Van Gogh wasn't being (entirely) original, he is copy/pasting other images, the past. Imho this is dangerous perception, perhaps it is just better to drop this Art thing into the same basket with religion?
 
-
 Another thing that was mentioned is the notion on **complexity** of things, where the subject may see itself as more sucesfull if their theory is more complex (mathematically for example). Elegance doesn't matter at the same time. What is great is ideas that actually work. Around 30":    
-[https://www.youtube.com/watch?v=bqmUGptsEbY](https://www.youtube.com/watch?v=bqmUGptsEbY)
+[https://www.youtube.com/watch?v=bqmUGptsEbY](https://www.youtube.com/watch?v=bqmUGptsEbY)  
+That may make *theory of everything* into limited *theory of something*.
 
 
 
