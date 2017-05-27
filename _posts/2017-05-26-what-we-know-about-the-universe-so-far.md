@@ -4,8 +4,11 @@ layout: post
 date: '2017-05-26 15:51 +0200'
 title: What We Know About The Universe
 ---
-## ...So Far (2013)
+## ...So Far
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/758px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
+
+2013:  
 [https://www.youtube.com/watch?v=pnmC3zfIV8E](https://www.youtube.com/watch?v=pnmC3zfIV8E)  
 [https://www.youtube.com/watch?v=LjkkJYQnZtY](https://www.youtube.com/watch?v=LjkkJYQnZtY)
 
@@ -28,5 +31,3 @@ Quoting Richard Feynman:
 > “See that bird?” he says. “It’s a Spencer’s warbler.” (I knew he didn’t know the real name.) “Well, in Italian, it’s a Chutto Lapittida. In Portuguese, it’s a Bom da Peida. In Chinese, it’s a Chung-long-tah, and in Japanese, it’s a Katano Tekeda. You can know the name of that bird in all the languages of the world, but when you’re finished, you’ll know absolutely nothing whatever about the bird. You’ll only know about humans in different places, and what they call the bird. So let’s look at the bird and see what it’s doing—that’s what counts.” (I learned very early the difference between knowing the name of something and knowing something.)
 
 However there is another imaginative discipline called Art, which is IN. It is in a position of showing reality in a subjective form and at the same time predict one of the possible future's. Neil Tyson about the [Stary night](https://www.youtube.com/watch?v=LiiC0v9tVMg). Of course Van Gogh wasn't being (entirely) original, he is copy/pasting other images, the past.
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/758px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
