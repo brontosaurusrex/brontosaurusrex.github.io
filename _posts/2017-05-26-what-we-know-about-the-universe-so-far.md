@@ -23,4 +23,4 @@ So religion and partially phylosophie are dogmatic, turned into past and a resul
 
 However there is another imaginative discipline called Art, which is IN. It is in a position of showing reality in a subjective form and at the same time predict one of the possible future's. Neil Tyson about the [Stary night](https://www.youtube.com/watch?v=LiiC0v9tVMg).
 
-![]({{site.baseurl}}/https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/758px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/758px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
