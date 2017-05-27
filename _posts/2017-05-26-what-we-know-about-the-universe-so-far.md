@@ -16,7 +16,7 @@ title: What We Know About The Universe
 
 Can any objective measurement be not subjective?
 
-According to Krauss, one version of *nothing* is fluctuation of particles that obey the zero energy principles. If I got that correctly, giving enough time (before time was born?) can easily pop stuff into existence. Stuff would be matter + time + other?. He does point out experimental proof that most of the time disagrees with what is happening in human head. He acknowledges limits of science which seems to fight human desire to understand everything and now. Science disproves itself (over time). And that is a good thing. Uncertanty and not knowing everything is good for you.
+According to Krauss, one version of *nothing* is fluctuation of particles that obey the zero energy principles. If I got that correctly, giving enough time (before time was born?) can easily pop stuff into existence. Stuff would be matter + time + other?. He does point out experimental proof that most of the time disagrees with what is happening in human head. He acknowledges **limits** of science which seems to fight human desire to understand everything and now. Science disproves itself (over time). And that is a good thing. Uncertanty and not knowing everything is good for you.
 
 Phylosophical and religious definition of **nothing** (again according to Krauss) is absolute...
 
@@ -35,9 +35,3 @@ However there is another imaginative discipline called **Art**, which is IN. It 
 Another thing that was mentioned is the notion on **complexity** of things, where the subject may see itself as more sucesfull if their theory is more complex (mathematically for example). Elegance doesn't matter at the same time. What is great is ideas that actually work. Around 30":    
 [https://www.youtube.com/watch?v=bqmUGptsEbY](https://www.youtube.com/watch?v=bqmUGptsEbY)  
 That may make *theory of everything* into limited *theory of something*.
-
-
-
-
-
-
