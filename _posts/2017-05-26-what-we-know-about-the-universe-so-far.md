@@ -23,7 +23,7 @@ So religion and partially phylosophie are dogmatic, turned into past and a resul
 
 Another simpler thing that is kinda limiting/dogmatic is naming of things. It does serve the *talking to other people thing* thought.
 
-Quoting Richard Feynman
+Quoting Richard Feynman:
 
 > “See that bird?” he says. “It’s a Spencer’s warbler.” (I knew he didn’t know the real name.) “Well, in Italian, it’s a Chutto Lapittida. In Portuguese, it’s a Bom da Peida. In Chinese, it’s a Chung-long-tah, and in Japanese, it’s a Katano Tekeda. You can know the name of that bird in all the languages of the world, but when you’re finished, you’ll know absolutely nothing whatever about the bird. You’ll only know about humans in different places, and what they call the bird. So let’s look at the bird and see what it’s doing—that’s what counts.” (I learned very early the difference between knowing the name of something and knowing something.)
 
