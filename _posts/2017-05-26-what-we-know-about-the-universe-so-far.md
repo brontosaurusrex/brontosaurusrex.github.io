@@ -21,6 +21,6 @@ Math is interesting, it appears to me that it can easily serve both poles (zero 
 
 So religion and partially phylosophie are dogmatic, turned into past and a result of inner-head mental masturbation, they are OUT (have nothing to offer to our view of the universe).
 
-However there is another imaginate discipline called Art, which is IN. It is in a position of showing reality in a subjective form and at the same time predict the possible future. Neil Tyson about the [Stary night](https://www.youtube.com/watch?v=LiiC0v9tVMg).
+However there is another imaginative discipline called Art, which is IN. It is in a position of showing reality in a subjective form and at the same time predict one of the possible future's. Neil Tyson about the [Stary night](https://www.youtube.com/watch?v=LiiC0v9tVMg).
 
 ![]({{site.baseurl}}/https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/758px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
