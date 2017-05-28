@@ -16,13 +16,13 @@ title: What We Know About The Universe
 
 Can any objective measurement be not subjective?
 
-According to Krauss, one version of **nothing** is fluctuation of particles that obey the zero energy principles. If I got that correctly, giving enough time (before time was born?) can easily pop stuff into existence. Stuff would be matter + time + other?. He does point out experimental proof that most of the time disagrees with what is happening in human head. He acknowledges **limits** of science which seems to fight human desire to understand everything and now. Science disproves itself (over time). And that is a good thing. Uncertanty and not knowing everything is good for you. According to Krauss science can not prove anything, it can **prove things wrong**. It must also **predict**.
+According to Krauss, one version of **nothing** is fluctuation of particles that obey the zero energy principles. If I got that correctly, giving enough time (before time was born?) can easily pop stuff into existence. Stuff would be matter + time + other?. He does point out experimental proof that most of the time disagrees with what is happening in human head. He acknowledges **limits** of science which seems to fight human desire to understand everything and now. Science disproves itself (over time). And that is a good thing. Uncertanty and not knowing everything is good for you. According to Krauss science can not prove anything, it can **prove things wrong** (really?). It must also **predict**.
 
 Phylosophical and religious definition of **nothing** (again according to Krauss) is absolute...
 
 **Math** is interesting, it appears to me that it can easily serve both poles (zero penguins, eternal time... < seems not very empirical). Larger than multiverse + imagination?
 
-So religion and partially phylosophie are dogmatic, turned into past and a result of inner-head mental masturbation, they are OUT (have nothing to offer to our view of the universe).
+So religion and partially phylosophie are dogmatic, turned into past and a result of inner-head mental masturbation, they are OUT (have nothing to offer to our view of the universe). And Krauss uses '10 percent of sheep are in longterm homoseksualnost relationship' as one of antiteist facts.
 
 Another simpler thing that is kinda limiting/dogmatic is naming of things. It does serve the *talking to other people thing* thought.
 
