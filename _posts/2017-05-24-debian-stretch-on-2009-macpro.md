@@ -7,7 +7,7 @@ title: Debian Stretch on 2009 MacPro
 ## Problemos:
 
 - openbox exit will switch to black (started with startx and nvidia-legacy drivers are active)
-- function keys not working (edit: fn + fkey is working)
+- function keys not working (edit: fn + fkey is working) [https://help.ubuntu.com/community/AppleKeyboard](https://help.ubuntu.com/community/AppleKeyboard)
 - FIXED (itself) shutdown will blank and not actually shutdown (systemctl poweroff)
 - conky is invisible
 - FIXED (by reinstalling rEFInd) system will go directly to grub at boot time (rEFInd screen expected)
