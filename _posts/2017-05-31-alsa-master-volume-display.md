@@ -34,9 +34,9 @@ A bash script like [this](https://raw.githubusercontent.com/brontosaurusrex/post
     execp_padding = 2 0 2
     #execp_background_id = 0
     #execp_padding = 0 0 50
-    execp_rclick_command = amixer set Master 10%+
-    execp_lclick_command = amixer set Master 10%-
-    execp_tooltip = Volume
+    execp_rclick_command = amixer set Master 5%+
+    execp_lclick_command = amixer set Master 5%-
+    execp_tooltip = master volume
     
 and don't forget to add
 
