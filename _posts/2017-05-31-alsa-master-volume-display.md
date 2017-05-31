@@ -24,7 +24,7 @@ Wanted
     
 ## Solution
 
-A bash script like [this](https://raw.githubusercontent.com/brontosaurusrex/postbang/master/bin/printVol), and tint2 config entrie like this
+A bash script like [this](https://raw.githubusercontent.com/brontosaurusrex/postbang/master/bin/printVol), and tint2 (You will want latest tint2 version from git) config entrie like this
 
     #-------------------------------------
     # E = EXECP
@@ -32,13 +32,13 @@ A bash script like [this](https://raw.githubusercontent.com/brontosaurusrex/post
     execp_centered = 0
     execp_has_icon = 0
     execp_command = printVol
-    execp_interval = 2
+    execp_interval = 0
     execp_font = cuprum 11
     execp_font_color = #111111 100
     execp_padding = 2 0 2
     #execp_background_id = 0
     #execp_padding = 0 0 50
-    execp_mclick_command = urxvt +tr -geometry 100x30-20-50 -e alsamixer -g
+    execp_mclick_command = gnome-alsamixer
     execp_rclick_command = amixer set Master 5%+
     execp_lclick_command = amixer set Master 5%-
     execp_uwheel_command = amixer set Master 1%+
