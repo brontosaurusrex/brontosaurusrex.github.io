@@ -11,3 +11,5 @@ title: alsa master volume display
 Wanted
 
     --------------|---
+    or
+    ---------+---
