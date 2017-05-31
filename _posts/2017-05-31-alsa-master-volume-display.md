@@ -44,4 +44,4 @@ and don't forget to add
     
 under # Panel.
 
-
+[![printVolumeTint2Slider.th.png](https://cdn.scrot.moe/images/2017/05/31/printVolumeTint2Slider.th.png)](https://cdn.scrot.moe/images/2017/05/31/printVolumeTint2Slider.png)
