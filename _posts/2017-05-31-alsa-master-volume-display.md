@@ -55,3 +55,4 @@ Full tint2rc.printVol example
 [https://github.com/brontosaurusrex/postbang/blob/master/.config/tint2/tint2rc.printVol](https://github.com/brontosaurusrex/postbang/blob/master/.config/tint2/tint2rc.printVol)
 
 [![printVolumeTint2Slider.th.png](https://cdn.scrot.moe/images/2017/05/31/printVolumeTint2Slider.th.png)](https://cdn.scrot.moe/images/2017/05/31/printVolumeTint2Slider.png)
+[![printVol2.th.png](https://cdn.scrot.moe/images/2017/05/31/printVol2.th.png)](https://cdn.scrot.moe/images/2017/05/31/printVol2.png)
