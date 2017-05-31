@@ -36,6 +36,8 @@ A bash script like [this](https://raw.githubusercontent.com/brontosaurusrex/post
     #execp_padding = 0 0 50
     execp_rclick_command = amixer set Master 5%+
     execp_lclick_command = amixer set Master 5%-
+    execp_uwheel_command = amixer set Master 1%+
+    execp_dwheel_command = amixer set Master 1%-
     execp_tooltip = master volume
     
 and don't forget to add
