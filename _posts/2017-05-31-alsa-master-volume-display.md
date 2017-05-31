@@ -33,7 +33,7 @@ A bash script like [this](https://raw.githubusercontent.com/brontosaurusrex/post
     execp_has_icon = 0
     execp_command = printVol
     execp_interval = 0
-    execp_font = cuprum 11
+    execp_font = cuprum 8
     execp_font_color = #111111 100
     execp_padding = 2 0 2
     #execp_background_id = 0
