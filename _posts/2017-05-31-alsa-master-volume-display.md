@@ -24,7 +24,7 @@ Wanted
     
 ## Solution
 
-A bash script like [this](https://raw.githubusercontent.com/brontosaurusrex/postbang/master/bin/printVol), and tint2 (You will want latest tint2 version from git) config entrie like this
+A bash script like [this](https://raw.githubusercontent.com/brontosaurusrex/postbang/master/bin/printVol), and tint2 config entrie like this (You will want latest tint2 version from git)
 
     #-------------------------------------
     # E = EXECP
