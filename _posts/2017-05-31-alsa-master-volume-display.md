@@ -18,52 +18,17 @@ Wanted
     or
     ────────────│──
     or
-    .................................::::::...
-    or
     ────────────86──
     
 ## Solution
 
-A bash script like [this](https://raw.githubusercontent.com/brontosaurusrex/postbang/master/bin/printVol), and tint2 config entrie like this (You will want latest tint2 version from git)
-
-    #-------------------------------------
-    # E = EXECP
-    execp = new
-    execp_centered = 0
-    execp_has_icon = 0
-    execp_command = printVol
-    # looks good, behaves bad:
-    execp_interval = 0
-    # behaves well, looks bad:
-    #execp_continuous = 1
-    execp_font = cuprum 8
-    execp_font_color = #111111 100
-    execp_padding = 0 0 0
-    # disable this tooltip to get update info
-    execp_tooltip = volume
-    #execp_background_id = 0
-    #execp_padding = 0 0 50
-    execp_mclick_command = gnome-alsamixer
-    execp_rclick_command = amixer set Master 5%+
-    execp_lclick_command = amixer set Master 5%-
-    execp_uwheel_command = amixer set Master 1%-
-    execp_dwheel_command = amixer set Master 1%+
-    
-and don't forget to add
-
-    panel_items = TSEC
-    
-under # Panel.
-
-Full tint2rc.printVol example  
-[https://github.com/brontosaurusrex/postbang/blob/master/.config/tint2/tint2rc.printVol](https://github.com/brontosaurusrex/postbang/blob/master/.config/tint2/tint2rc.printVol)
+A bash script like [this printVolCont](https://raw.githubusercontent.com/brontosaurusrex/postbang/master/bin/printVolCont), and [tint2rc like this](https://raw.githubusercontent.com/brontosaurusrex/postbang/master/.config/tint2/tint2rc.printVolCont) (You will want latest tint2 version from git).
 
 ### Behaviour
 
 Left of Right mouse click on it in tint2 will raise/lower volume by 5%.  
 Mouse scroll up/down will raise/lower volume by 1%.  
-Middle mouse click will call external mixer (It will poll/redraw when mixer is closed < good enough).  
-It will not redraw if external mixer is called from outside of this little scope.
+Middle mouse click will toggle mute.
 
 [https://forums.bunsenlabs.org/viewtopic.php?pid=52826#p52826](https://forums.bunsenlabs.org/viewtopic.php?pid=52826#p52826)  
 [https://gitlab.com/o9000/tint2/blob/master/doc/tint2.md#executor](https://gitlab.com/o9000/tint2/blob/master/doc/tint2.md#executor)
@@ -71,3 +36,5 @@ It will not redraw if external mixer is called from outside of this little scope
 [![printVolumeTint2Slider.th.png](https://cdn.scrot.moe/images/2017/05/31/printVolumeTint2Slider.th.png)](https://cdn.scrot.moe/images/2017/05/31/printVolumeTint2Slider.png)
 [![printVol2.th.png](https://cdn.scrot.moe/images/2017/05/31/printVol2.th.png)](https://cdn.scrot.moe/images/2017/05/31/printVol2.png)
 [![2017-06-02-175339_1920x1200_scrot.th.png](https://cdn.scrot.moe/images/2017/06/02/2017-06-02-175339_1920x1200_scrot.th.png)](https://cdn.scrot.moe/images/2017/06/02/2017-06-02-175339_1920x1200_scrot.png)
+
+changelog: Changed all the logic to continous, thanks to tint2 developer o9000.
