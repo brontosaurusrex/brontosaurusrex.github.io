@@ -61,5 +61,7 @@ Mouse scroll up/down will raise/lower volume by 1%.
 Middle mouse click will call external mixer (It will poll/redraw when mixer is closed < good enough).  
 It will not redraw if external mixer is called from outside of this little scope.
 
+[https://forums.bunsenlabs.org/viewtopic.php?pid=52826#p52826](https://forums.bunsenlabs.org/viewtopic.php?pid=52826#p52826)
+
 [![printVolumeTint2Slider.th.png](https://cdn.scrot.moe/images/2017/05/31/printVolumeTint2Slider.th.png)](https://cdn.scrot.moe/images/2017/05/31/printVolumeTint2Slider.png)
 [![printVol2.th.png](https://cdn.scrot.moe/images/2017/05/31/printVol2.th.png)](https://cdn.scrot.moe/images/2017/05/31/printVol2.png)
