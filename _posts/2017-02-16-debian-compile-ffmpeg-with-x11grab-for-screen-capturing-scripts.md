@@ -12,9 +12,8 @@ Leave the system ffmpeg version alone, leave the ~/bin version there as well, th
     
     # old way:
     #./configure --enable-gpl --enable-libx264 --enable-x11grab --enable-nonfree --enable-version3
-    # new way:
-    
-    
+    # new way, 2017:
+    ./configure --enable-gpl --enable-libx264 --enable-libxcb --enable-nonfree --enable-version3
     make
     
 That's it, now just call it directly from screencapturing scripts like 
