@@ -4,7 +4,7 @@ layout: post
 date: '2017-02-16 17:24 +0100'
 title: 'Debian, compile ffmpeg with x11grab for screen-capturing scripts'
 ---
-    sudo apt install libx264-dev
+    sudo apt install libx264-dev yasm
 
 Leave the system ffmpeg version alone, leave the ~/bin version there as well, this compiled one is only ever used for screen capturing
 
