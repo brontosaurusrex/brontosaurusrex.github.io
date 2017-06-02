@@ -70,3 +70,4 @@ It will not redraw if external mixer is called from outside of this little scope
 
 [![printVolumeTint2Slider.th.png](https://cdn.scrot.moe/images/2017/05/31/printVolumeTint2Slider.th.png)](https://cdn.scrot.moe/images/2017/05/31/printVolumeTint2Slider.png)
 [![printVol2.th.png](https://cdn.scrot.moe/images/2017/05/31/printVol2.th.png)](https://cdn.scrot.moe/images/2017/05/31/printVol2.png)
+[![2017-06-02-175339_1920x1200_scrot.th.png](https://cdn.scrot.moe/images/2017/06/02/2017-06-02-175339_1920x1200_scrot.th.png)](https://cdn.scrot.moe/images/2017/06/02/2017-06-02-175339_1920x1200_scrot.png)
