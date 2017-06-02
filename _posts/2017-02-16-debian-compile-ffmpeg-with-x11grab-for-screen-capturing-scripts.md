@@ -9,7 +9,11 @@ title: 'Debian, compile ffmpeg with x11grab for screen-capturing scripts'
 Leave the system ffmpeg version alone, leave the ~/bin version there as well, this compiled one is only ever used for screen capturing
 
     cd ~/source/ffmpeg && git pull # assuming ffmpeg git is cloned there
+    
+    # old way:
     #./configure --enable-gpl --enable-libx264 --enable-x11grab --enable-nonfree --enable-version3
+    # new way:
+    
     
     make
     
