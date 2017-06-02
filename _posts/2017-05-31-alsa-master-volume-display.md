@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2017-05-31 12:05 +0200'
-title: alsa master volume display
+title: ALSA master volume display in tint2 executor
 ---
     awk -F"[][]" '/dB/ { print $2 }' <(amixer sget Master)
     # or without the percentage sign
