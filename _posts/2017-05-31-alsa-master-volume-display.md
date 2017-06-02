@@ -32,18 +32,22 @@ A bash script like [this](https://raw.githubusercontent.com/brontosaurusrex/post
     execp_centered = 0
     execp_has_icon = 0
     execp_command = printVol
+    # looks good, behaves bad:
     execp_interval = 0
+    # behaves well, looks bad:
+    #execp_continuous = 1
     execp_font = cuprum 8
     execp_font_color = #111111 100
-    execp_padding = 2 0 2
+    execp_padding = 0 0 0
+    # disable this tooltip to get update info
+    execp_tooltip = volume
     #execp_background_id = 0
     #execp_padding = 0 0 50
     execp_mclick_command = gnome-alsamixer
     execp_rclick_command = amixer set Master 5%+
     execp_lclick_command = amixer set Master 5%-
-    execp_uwheel_command = amixer set Master 1%+
-    execp_dwheel_command = amixer set Master 1%-
-    execp_tooltip = master volume
+    execp_uwheel_command = amixer set Master 1%-
+    execp_dwheel_command = amixer set Master 1%+
     
 and don't forget to add
 
