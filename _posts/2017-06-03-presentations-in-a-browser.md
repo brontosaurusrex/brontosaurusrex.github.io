@@ -9,5 +9,4 @@ title: Presentations in a browser
 > The presentation has to be in Microsoft PowerPoint because the one and only laptop plugged into the data projector runs Windows and PowerPoint. No LibreOffice Impress, no other presentation software, sorry. Of course, if you do your presenting from your own computer ...
 
 ## interesting
-
 [flowtime](http://flowtime-js.marcolago.com/#/section-1/page-1) (has a navigational mini-map)
