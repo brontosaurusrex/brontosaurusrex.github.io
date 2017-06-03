@@ -10,3 +10,6 @@ title: Presentations in a browser
 
 ## Interesting
 [flowtime](http://flowtime-js.marcolago.com/#/section-1/page-1) (has a navigational mini-map)
+
+## Online builders
+[http://strut.io/editor/](http://strut.io/editor/)
