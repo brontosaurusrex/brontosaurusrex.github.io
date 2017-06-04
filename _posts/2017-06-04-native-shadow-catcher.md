@@ -8,6 +8,8 @@ title: 'Native shadow catcher '
 
 #4E6887 < is a nice background.
 
+In Blender: Object tab > Cycles settings > Shadow Catcher
+
 
 
 
