@@ -4,7 +4,7 @@ layout: post
 date: '2017-06-08 10:47 +0200'
 title: Getting rid of nvidia (Debian Stretch)
 ---
-## Untested
+## Tested
 
 from  
 [https://wiki.debian.org/NvidiaGraphicsDrivers](https://wiki.debian.org/NvidiaGraphicsDrivers)  
@@ -25,3 +25,7 @@ from
     
     # getting vdpau to work with noveau driver
     sudo apt install mesa-vdpau-drivers
+    
+## Tearing test
+
+mpv https://www.youtube.com/watch?v=ceX18O9pvLs
