@@ -7,6 +7,7 @@ title: Debian Stretch on 2009 MacPro
 ## Problemos:
 
 a. openbox exit will switch to black (started with startx and nvidia-legacy drivers are active)  
+Lots of problems seems to go away with [removing nvidia drivers](/2017/06/08/getting-rid-of-nvidia-debian-stretch/).  
 b. FIXED? function keys not working (edit: fn + fkey is working)  
 
     # Edit or create the file /etc/modprobe.d/hid_apple.conf, e.g.:
@@ -19,7 +20,7 @@ b. FIXED? function keys not working (edit: fn + fkey is working)
     
 [https://help.ubuntu.com/community/AppleKeyboard](https://help.ubuntu.com/community/AppleKeyboard)
 
-c. FIXED (itself) shutdown will blank and not actually shutdown (systemctl poweroff)  
+c. half FIXED (itself) shutdown will blank and not actually shutdown (systemctl poweroff), restart still not working.  
 d. conky is invisible  
 e. FIXED (by reinstalling rEFInd) system will go directly to grub at boot time (rEFInd screen expected)  
 f. propelers are too loud  
