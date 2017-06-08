@@ -23,6 +23,6 @@ b. FIXED? function keys not working (edit: fn + fkey is working)
 c. half FIXED (itself) shutdown will blank and not actually shutdown (systemctl poweroff), restart still not working.  
 d. conky is invisible  
 e. FIXED (by reinstalling rEFInd) system will go directly to grub at boot time (rEFInd screen expected)  
-f. propelers are too loud  
+f. FIXED? propelers are too loud (xfce4-power-manager and disable all but last xset line in autostart)
 
 [![macproMetal.th.png](https://cdn.scrot.moe/images/2017/05/25/macproMetal.th.png)](https://cdn.scrot.moe/images/2017/05/25/macproMetal.png)
