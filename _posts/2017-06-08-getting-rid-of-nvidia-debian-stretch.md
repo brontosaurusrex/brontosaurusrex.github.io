@@ -14,7 +14,7 @@ from
 
     # sudo stop lightdm # ?
 
-    sudo apt install --reinstall xserver-xorg
+    # sudo apt install --reinstall xserver-xorg
     sudo apt install --reinstall xserver-xorg-video-nouveau
 
     # killall Xorg # ?
@@ -23,4 +23,5 @@ from
 
     sudo reboot
     
-
+    # getting vdpau to work with noveau driver
+    sudo apt install mesa-vdpau-drivers
