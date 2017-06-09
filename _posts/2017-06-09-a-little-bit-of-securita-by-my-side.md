@@ -26,4 +26,14 @@ Again whitelisting vs blacklisting, mostly fixed by now i guess.
 
 ## Educating Users
 
+> There have been numerous interesting studies that indicate that a significant percentage of users will trade their password for a candy bar, and the Anna Kournikova worm showed us that nearly 1/2 of humanity will click on anything purporting to contain nude pictures of semi-famous females. If "Educating Users" is the strategy you plan to embark upon, you should expect to have to "patch" your users every week. That's dumb. 
 
+I'd have to imagine microsoft outlook here... and the user.., and all that.
+
+## Action is Better Than Inaction
+
+> "Do you have hands-on experience with xyz from pdq.com? If so, I'm authorized to take you to dinner at Ruth's Chris if you promise to give me the low-down on the product off the record. Contact, etc..." The IT manager later told me that a $200 dinner expense saved them over $400,000 worth of hellish technological trauma.
+
+Mkay.
+
+There is more.
