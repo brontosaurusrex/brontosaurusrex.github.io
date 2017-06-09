@@ -10,6 +10,8 @@ Warning: Some uneducated comments from someone who is serisuly bored with just a
 
 ## Default Permit
 
+> secure it by turning off incoming telnet, incoming rlogin, and incoming FTP. Everything else was allowed through
+
 Yeah I don't think my router does that default anything and the other point, yes whitelisting is the way to go as opposed to evil blacklisting.
 
 ## Enumerating Badness
