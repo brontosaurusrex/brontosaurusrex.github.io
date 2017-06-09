@@ -38,7 +38,7 @@ Personaly I'd find that boring as well, why not write something new instead? Lik
 
 > There have been numerous interesting studies that indicate that a significant percentage of users will trade their password for a candy bar, and the Anna Kournikova worm showed us that nearly 1/2 of humanity will click on anything purporting to contain nude pictures of semi-famous females. If "Educating Users" is the strategy you plan to embark upon, you should expect to have to "patch" your users every week. That's dumb. 
 
-I'd have to imagine microsoft outlook here... and the user.., and all that. And that's the kind of person that sends you docx files in attachements. And how come teaching that naked Anna is bad is hard to do?
+I'd have to imagine microsoft outlook here... and the user.., and all that, the kind of person that sends you docx files in attachements. And how come teaching that naked Anna is bad is hard to do?
 
 ## Action is Better Than Inaction
 
