@@ -31,3 +31,7 @@ with lut buddy
 
 bunch of luts and generator and 4k film grain (also deluts, including s-log2)  
 [https://luts.iwltbap.com/](https://luts.iwltbap.com/) (8700, Aspen, Sedona and Arapaho seems all very nice.)
+
+## MPV player
+
+IRC it can use [ffmpeg filters](https://ffmpeg.org/ffmpeg-filters.html#lut3d-1)?
