@@ -4,6 +4,8 @@ layout: post
 date: '2017-06-09 13:06 +0200'
 title: A little bit of Securita by my side
 ---
+Warning: Some uneducated comments from someone who is serisuly bored with just a notion of computer security.
+
 [http://www.ranum.com/security/computer_security/editorials/dumb/](http://www.ranum.com/security/computer_security/editorials/dumb/)
 
 ## Default Permit
