@@ -40,6 +40,10 @@ Personaly I'd find that boring as well, why not write something new instead? Lik
 
 I'd have to imagine microsoft outlook here... and the user.., and all that, the kind of person that sends you docx files in attachements. And how come teaching that naked Anna is bad is hard to do?
 
+Anyway the "hype marketing" word today (2017) is social engineering, from wikipedia:
+
+> Social engineering, in the context of information security, refers to psychological manipulation of people into performing actions or divulging confidential information. A type of confidence trick for the purpose of information gathering, fraud, or system access, it differs from a traditional "con" in that it is often one of many steps in a more complex fraud scheme
+
 ## Action is Better Than Inaction
 
 > "Do you have hands-on experience with xyz from pdq.com? If so, I'm authorized to take you to dinner at Ruth's Chris if you promise to give me the low-down on the product off the record. Contact, etc..." The IT manager later told me that a $200 dinner expense saved them over $400,000 worth of hellish technological trauma.
