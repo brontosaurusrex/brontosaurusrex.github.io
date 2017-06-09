@@ -37,3 +37,9 @@ bunch of luts and generator and 4k film grain (also deluts, including s-log2)
 IRC it can use [ffmpeg filters](https://ffmpeg.org/ffmpeg-filters.html#lut3d-1)?
 
     -vf lavfi=[ffmpeg_filter_here]
+    
+And combine this with
+
+> say your 3DLUT transforms it from S-Log/S-Gamut to BT.709/BT.1886; then you'd have to use 
+
+    --vf=format=primaries=bt.709:gamma=bt.1886
