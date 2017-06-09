@@ -35,3 +35,5 @@ bunch of luts and generator and 4k film grain (also deluts, including s-log2)
 ## MPV player
 
 IRC it can use [ffmpeg filters](https://ffmpeg.org/ffmpeg-filters.html#lut3d-1)?
+
+    -vf lavfi=[ffmpeg_filter_here]
