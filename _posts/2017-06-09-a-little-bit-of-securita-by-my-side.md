@@ -42,6 +42,6 @@ I'd have to imagine microsoft outlook here... and the user.., and all that. And 
 
 > "Do you have hands-on experience with xyz from pdq.com? If so, I'm authorized to take you to dinner at Ruth's Chris if you promise to give me the low-down on the product off the record. Contact, etc..." The IT manager later told me that a $200 dinner expense saved them over $400,000 worth of hellish technological trauma.
 
-Mkay.
+Mkay. However mentioning *Ruth's Chris* is a bit narrowminded, don't you think? I mean there are other continents wired into this internet thing by now.
 
 There is more on that page, but I'am seriously sleepy right now.
