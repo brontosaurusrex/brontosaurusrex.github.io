@@ -22,3 +22,8 @@ title: 'Bash, shuffle parameters'
         echo "$@"
         
  Don't really understand this at this point in time. (All copyleft to freenode/#bash/konsolebox)
+ 
+ If nothing else, this is great Yoda generator
+ 
+     input:  Twenty-five years and my life is still Trying to get that great big hill of hope For a destination
+     output: life hill big great to destination of For Trying years still a that my and is get hope Twenty-five
