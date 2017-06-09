@@ -22,6 +22,8 @@ Again whitelisting vs blacklisting, mostly fixed by now i guess.
 
 ## Hacking is Cool
 
+![puppetHack.jpeg]({{site.baseurl}}/media/puppetHack.jpeg)
+
 >  teaching yourself a bunch of exploits and how to use them means you're investing your time in learning a bunch of tools and techniques that are going to go stale as soon as everyone has patched that particular hole. 
 
 ## Educating Users
