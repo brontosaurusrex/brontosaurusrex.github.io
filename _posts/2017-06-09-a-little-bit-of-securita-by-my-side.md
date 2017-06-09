@@ -26,6 +26,8 @@ Again whitelisting vs blacklisting, mostly fixed by now i guess.
 
 >  teaching yourself a bunch of exploits and how to use them means you're investing your time in learning a bunch of tools and techniques that are going to go stale as soon as everyone has patched that particular hole. 
 
+Personaly I'd find that boring as well, why not write something new instead? Like a shell script that draws ALSA volume level in tint2.
+
 ## Educating Users
 
 > There have been numerous interesting studies that indicate that a significant percentage of users will trade their password for a candy bar, and the Anna Kournikova worm showed us that nearly 1/2 of humanity will click on anything purporting to contain nude pictures of semi-famous females. If "Educating Users" is the strategy you plan to embark upon, you should expect to have to "patch" your users every week. That's dumb. 
