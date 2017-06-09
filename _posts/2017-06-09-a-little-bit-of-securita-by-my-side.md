@@ -47,3 +47,5 @@ I'd have to imagine microsoft outlook here... and the user.., and all that, the 
 Mkay. However mentioning *Ruth's Chris* is a bit narrowminded, don't you think? I mean there are other continents wired into this internet thing by now.
 
 There is more on that page, but I'am seriously sleepy right now.
+
+p.s. The page quoted is from 2005, so I guess this review is a bit unfair.
