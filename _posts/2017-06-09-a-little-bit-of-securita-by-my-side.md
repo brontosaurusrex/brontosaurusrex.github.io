@@ -40,6 +40,8 @@ Personaly I'd find that boring as well, why not write something new instead? Lik
 
 I'd have to imagine microsoft outlook here... and the user.., and all that, the kind of person that sends you docx files in attachements. And how come teaching that naked Anna is bad is hard to do?
 
+edit: The point: With such users in-your-house, computer security is the least of your problems.
+
 Anyway the "hype marketing" word today (2017) is *social engineering*, from wikipedia:
 
 > Social engineering, in the context of information security, refers to psychological manipulation of people into performing actions or divulging confidential information. A type of confidence trick for the purpose of information gathering, fraud, or system access, it differs from a traditional "con" in that it is often one of many steps in a more complex fraud scheme
