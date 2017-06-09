@@ -24,6 +24,8 @@ Again whitelisting vs blacklisting, mostly fixed by now i guess.
 
 > Your software and systems should be secure by design and should have been designed with flaw-handling in mind.
 
+![orly.jpg]({{site.baseurl}}/media/orly.jpg)
+
 ## Hacking is Cool
 
 ![puppetHack.jpeg]({{site.baseurl}}/media/puppetHack.jpeg)
