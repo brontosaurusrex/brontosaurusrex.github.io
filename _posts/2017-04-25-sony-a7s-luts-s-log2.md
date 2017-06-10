@@ -45,7 +45,7 @@ And combine this with
 
     --vf=format=primaries=bt.709:gamma=bt.1886
     
-Example that actually does something
+Example that actually does something (if I add --vf=format.. everything looks default...)
 
     mpv --vf=lavfi=[lut3d=file="luts/F-8700-STD.cube"] Videos/test.mp4
     
