@@ -29,3 +29,4 @@ behaves as one would expect
     
 and it is also faster than bc. However one can still use bc in scripts, just perhaps send the floating results to this fancy function.
 
+Comment [here](https://forums.bunsenlabs.org/viewtopic.php?pid=53424).
