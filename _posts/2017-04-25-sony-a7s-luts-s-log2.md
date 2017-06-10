@@ -50,6 +50,10 @@ Convert .cube deLUT to icc profile using OpenColorIO tools?
 [http://opencolorio.org/userguide/baking_luts.html#icc-profiles-photoshop](http://opencolorio.org/userguide/baking_luts.html#icc-profiles-photoshop)  
 [http://opencolorio.org/userguide/index.html](http://opencolorio.org/userguide/index.html)
 
+and use
+
+    --icc-profile=file.icc
+
 In Debian Stretch this tools are actually in repos
 
     apt install opencolorio-tools
