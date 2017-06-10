@@ -47,3 +47,13 @@ And combine this with
 ## Adobe Cube LUT Specification
 
 [http://wwwimages.adobe.com/content/dam/Adobe/en/products/speedgrade/cc/pdfs/cube-lut-specification-1.0.pdf](http://wwwimages.adobe.com/content/dam/Adobe/en/products/speedgrade/cc/pdfs/cube-lut-specification-1.0.pdf)
+
+## Calibration vs. Technical vs. Creative Look LUTs
+
+[http://www.lightillusion.com/luts.html](http://www.lightillusion.com/luts.html)
+
+> Calibration LUTs are used to 'correct' display inaccuracies, ensuring any images shown on the calibrated display as accurate as possible - allowing for the underlying capabilities and/or limitations of the display. These are the most important LUTs as their generation has to be performed with very high levels of accuracy, or all images sheen on the 'calibrated' display will be incorrect, causing the inaccuracy to ripple back down the workflow chain.
+
+> Technical LUTs are used to convert between different 'standards', such as from one colour space to another, which should make the LUTs simple to generate accurately.
+
+> Creative LUTs are often referred to as 'Look LUTs' as they are often used to set a look by a DoP on-set during filming, as well as to endow images with a specific look emulation, such as specific traditional film stocks.
