@@ -5,7 +5,7 @@ date: '2017-06-10 18:42 +0200'
 title: 'MPV and LUTs experiment, if > then'
 ---
 Mostly considering  
-[https://mail.google.com/mail/u/0/#inbox/15c8f84218828a93](https://mail.google.com/mail/u/0/#inbox/15c8f84218828a93)
+[https://github.com/mpv-player/mpv/pull/4503](https://github.com/mpv-player/mpv/pull/4503)
 
 So the latest master mpv compile user-test-behaviour-thing
 
