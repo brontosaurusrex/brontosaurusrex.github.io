@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2017-04-25 16:41 +0200'
-title: 'Sony a7s luts, s-log2'
+title: 'Sony a7s deLUTs, s-log2 (and LUTs in general)'
 ---
 [http://www.xdcam-user.com/2014/08/set-of-20-cube-luts-for-the-sony-a7s/](http://www.xdcam-user.com/2014/08/set-of-20-cube-luts-for-the-sony-a7s/)
 
@@ -46,7 +46,7 @@ And combine this with
     --vf=format=primaries=bt.709:gamma=bt.1886
     
 b. 
-Convert deLut to icc profile using OpenColorIO tools?  
+Convert .cube deLUT to icc profile using OpenColorIO tools?  
 [http://opencolorio.org/userguide/baking_luts.html#icc-profiles-photoshop](http://opencolorio.org/userguide/baking_luts.html#icc-profiles-photoshop)  
 [http://opencolorio.org/userguide/index.html](http://opencolorio.org/userguide/index.html)
 
