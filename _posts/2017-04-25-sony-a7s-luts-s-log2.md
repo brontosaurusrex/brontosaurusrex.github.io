@@ -45,6 +45,10 @@ And combine this with
 
     --vf=format=primaries=bt.709:gamma=bt.1886
     
+Example that actually does something
+
+    mpv --vf=lavfi=[lut3d=file="luts/F-8700-STD.cube"] Videos/test.mp4
+    
 b. 
 Convert .cube deLUT to icc profile using OpenColorIO tools?  
 [http://opencolorio.org/userguide/baking_luts.html#icc-profiles-photoshop](http://opencolorio.org/userguide/baking_luts.html#icc-profiles-photoshop)  
