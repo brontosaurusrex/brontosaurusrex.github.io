@@ -43,3 +43,7 @@ And combine this with
 > say your 3DLUT transforms it from S-Log/S-Gamut to BT.709/BT.1886; then you'd have to use 
 
     --vf=format=primaries=bt.709:gamma=bt.1886
+    
+## Adobe Cube LUT Specification
+
+[http://wwwimages.adobe.com/content/dam/Adobe/en/products/speedgrade/cc/pdfs/cube-lut-specification-1.0.pdf](http://wwwimages.adobe.com/content/dam/Adobe/en/products/speedgrade/cc/pdfs/cube-lut-specification-1.0.pdf)
