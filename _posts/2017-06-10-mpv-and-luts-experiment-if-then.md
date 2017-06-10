@@ -11,7 +11,7 @@ So the latest master mpv compile user-test-behaviour-thing
 
     mpv --vf=lavfi=[lut3d=file="luts/F-8700-STD.cube"] Videos/test.mp4
     
-applies this creative lut nicely (Not sure if correctly, but there is a difference).
+applies this creative lut nicely (Not sure if correctly).  
 If I add
 
     --vf=format=primaries=bt.709:gamma=bt.1886
@@ -27,10 +27,4 @@ again the results are like pass-through, not what I would expect.
 
 Explanation:
 - *applied nicely* means that it looks like LUT have been applied
-- *not what I would expect* means there is nothing indicating LUT got applied 
-    
-
-
-    
-
-    
+- *not what I would expect* means there is nothing indicating LUT got applied
