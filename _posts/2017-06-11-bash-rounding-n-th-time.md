@@ -27,6 +27,6 @@ behaves as one would expect
     awkround 0 -42.6
     -43
     
-and it is also faster than bc. However one can still use bc in scripts, just perhaps send the floating results to this fancy function.
+and it is also faster than bc. However one can still use bc in scripts, just perhaps send the floating results to this fancy function (if you need rounding).
 
 Comment [here](https://forums.bunsenlabs.org/viewtopic.php?pid=53424).
