@@ -16,7 +16,16 @@ If I add
 
     --vf=format=primaries=bt.709:gamma=bt.1886
     
-everything looks like pass-through (not what I would expect). If I try to convert some lut to icc profile using OpenColorIO tools
+everything looks like pass-through (not what I would expect). 
+
+FIX (untested):
+
+    # either
+    --vf=lavfi=[lut3d=file="luts/F-8700-STD.cube"],format=primaries=bt.709:gamma=bt.1886
+	# or
+    --vf=lavfi=[lut3d=file="luts/F-8700-STD.cube"] --vf-add=format=primaries=bt.709:gamma=bt.1886
+
+If I try to convert some lut to icc profile using OpenColorIO tools
 
     # apt install opencolorio-tools # Debian stretch
     # and
