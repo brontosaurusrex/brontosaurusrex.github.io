@@ -40,20 +40,17 @@ body {
     overflow-x: hidden;
     background-image: url("/public/mozillaGrain.png");
     
-    
 } 
 
 html {
-  font-family: "Junction", Georgia, "Times New Roman", serif;
-  
+  font-family: "PT Serif", Georgia, "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Linden", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: #515151;
-  
-  
+  color: #313131;
+  letter-spacing: -.025rem;
 }
 
 
@@ -128,11 +125,12 @@ img {
 
 .brontologo {
     margin: auto; 
-    width: 699px;
+    width: 850px;
     max-width: 100%;
     margin-top:     -5rem;
-    margin-bottom:  -1.6rem;
+    margin-bottom:   0rem;
     z-index: -10;
+    
     overflow: visible;
   }
   
@@ -183,7 +181,7 @@ img {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: Junction, "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
@@ -396,7 +394,7 @@ a.sidebar-nav-item:focus {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: Junction, "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }
@@ -604,7 +602,7 @@ input[type="text"] {
 	border-radius: 5px;
 	opacity: 0.8;
     filter: alpha(opacity=80); /* For IE8 and earlier */
-    font-family: Junction, "PT Sans", Helvetica, Arial, sans-serif;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
   	font-size: .875rem; /* 15px */
   	width: 100%;
 }
