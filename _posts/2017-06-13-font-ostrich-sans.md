@@ -1,0 +1,9 @@
+---
+published: true
+layout: post
+date: '2017-06-13 11:13 +0200'
+title: font Ostrich Sans
+---
+[https://www.theleagueofmoveabletype.com/ostrich-sans](https://www.theleagueofmoveabletype.com/ostrich-sans)
+
+![](https://d22lct1myh0s5f.cloudfront.net/images/ostrich-sans-4.jpeg)
