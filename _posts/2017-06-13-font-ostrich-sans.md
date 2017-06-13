@@ -7,3 +7,6 @@ title: font Ostrich Sans
 [https://www.theleagueofmoveabletype.com/ostrich-sans](https://www.theleagueofmoveabletype.com/ostrich-sans)
 
 ![](https://d22lct1myh0s5f.cloudfront.net/images/ostrich-sans-4.jpeg)
+
+and bunch of other awsome (free?) fonts  
+[https://www.theleagueofmoveabletype.com/](https://www.theleagueofmoveabletype.com/)
