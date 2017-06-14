@@ -23,3 +23,25 @@ title: markdown test
 ## h2 link
 
 [google come here](http://google.com)
+
+## h2 horizontal rules ?
+
+***
+
+ ***
+ 
+  ***
+
+   ***
+
+	***
+
+* * *
+
+ * * *
+ 
+  * * *
+
+   * * *
+
+	* * *
