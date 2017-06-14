@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2017-06-10 18:42 +0200'
-title: 'MPV and LUTs experiment, if > then'
+title: MPV and LUTs experiment
 ---
 Mostly considering  
 [https://github.com/mpv-player/mpv/pull/4503](https://github.com/mpv-player/mpv/pull/4503)
