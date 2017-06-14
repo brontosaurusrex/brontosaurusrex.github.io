@@ -6,9 +6,7 @@ title: Apple Cinema Display Control Utility for Linux
 ---
      git clone https://github.com/warvariuc/acdcontrol
      make
-
      # sudo chown ticho:users /dev/usb/hiddev0
-    
      ./acdcontrol /dev/usb/hiddev0 -- +10
     
  may return:
