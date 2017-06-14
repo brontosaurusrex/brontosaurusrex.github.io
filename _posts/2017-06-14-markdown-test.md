@@ -6,7 +6,7 @@ title: markdown test
 ---
 ## h2 bold
 
-**This should be bold** and this normal and *this italic*.
+This should **be bold** and this normal and *this italic*.
 
 ## h2 code
 
@@ -22,26 +22,5 @@ title: markdown test
 
 ## h2 link
 
-[google come here](http://google.com)
+[some link here](http://google.com)
 
-## h2 horizontal rules ?
-
-***
-
- ***
- 
-  ***
-
-   ***
-
-	***
-
-* * *
-
- * * *
- 
-  * * *
-
-   * * *
-
-	* * *
