@@ -23,5 +23,7 @@ and call that from menu.xml like
     
 (separator optional)
 
+![pipeTest.png]({{site.baseurl}}/media/pipeTest.png)
+
 
 
