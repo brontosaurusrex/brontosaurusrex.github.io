@@ -10,4 +10,4 @@ With mpv you will want lavfi filter
     
 A new one called loudnorm
 
-[https://ffmpeg.org/pipermail/ffmpeg-devel/2016-May/194050.html](https://ffmpeg.org/pipermail/ffmpeg-devel/2016-May/194050.html)
+[https://ffmpeg.org/ffmpeg-all.html#loudnorm](https://ffmpeg.org/ffmpeg-all.html#loudnorm)
