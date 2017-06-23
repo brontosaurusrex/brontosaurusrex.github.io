@@ -11,3 +11,4 @@ title: How to make a website that won't get blocked by users
 - Do not use 3rd party services to log user info for statistical or any usage. Remember: metadata can kill. You will not own the data collected that way and you will have no saying on how it will be used.
 - Do not track, spy or collect any user data for more than session length if techinally needed. Invent ways that this is reduced to minimum.
 - Use https and encript user data if you are mail provider.
+- Do not inform me to remove my ad blocker, it is your turn to fix things, not mine.
