@@ -19,6 +19,6 @@ Buy some cookies
 
 ## Inform the page that your rules are slightly different
 
-    # this will inform page https://www.whatismyreferer.com about my rules of the game:
+    # this will inform page https://www.some.com about my rules of the game:
     curl -e "No Cookies Please, Do not track and spy. Do not inform me about my ad blocker. \
-    Go home and rethink your life."  https://www.whatismyreferer.com/
+    Go home and rethink your life." -A "User" https://www.some.com/
