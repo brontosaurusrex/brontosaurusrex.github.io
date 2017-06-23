@@ -8,6 +8,4 @@ With mpv you will want lavfi filter
 
     alias mpvd='mpv --af=lavfi=[dynaudnorm=s=30]'
     
-A new one called loudnorm
-
-[https://ffmpeg.org/ffmpeg-all.html#loudnorm](https://ffmpeg.org/ffmpeg-all.html#loudnorm)
+A new one called [loudnorm](https://ffmpeg.org/ffmpeg-all.html#loudnorm).
