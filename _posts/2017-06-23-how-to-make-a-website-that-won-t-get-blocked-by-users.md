@@ -16,3 +16,9 @@ Buy some cookies
 - Do not track, spy or collect any user data for more than session length if techinally needed. Invent ways that this is reduced to minimum.
 - Use https and encript user data if you are mail provider. Make sure only owner can access/read data in their mailboxes.
 - Do not inform me to remove my ad blocker, it is your turn to fix things, not mine.
+
+## Inform the page that your rules are slightly different
+
+    # this will inform page https://www.whatismyreferer.com about my rules of the game:
+    curl -e "No Cookies Please, Do not track and spy. Do not inform me about my ad blocker. \
+    Go home and rethink your life."  https://www.whatismyreferer.com/
