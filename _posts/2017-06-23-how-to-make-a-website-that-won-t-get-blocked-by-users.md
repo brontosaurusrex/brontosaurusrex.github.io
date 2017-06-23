@@ -9,7 +9,7 @@ title: How to make a website that won't get blocked by users
 - Don't cookie me if it is not really technically essential and don't inform me that you will cookie me.. (at least not until I log in into your system)
 - Advertize from your own domain, example:
 
-We sell cookies
+Buy some cookies
 ![]({{site.baseurl}}//media/cookies.png)
 
 - Do not use 3rd party services to log user info for statistical or any usage. Remember: metadata can kill. You will not own the data collected that way and you will have no saying on how it will be used.
