@@ -12,3 +12,4 @@ svg should be in [git](https://github.com/brontosaurusrex/postbang/blob/master/i
 
 ## 3d
 [![strecth4_kritaPost.th.png](https://cdn.scrot.moe/images/2017/07/01/strecth4_kritaPost.th.png)](https://cdn.scrot.moe/images/2017/07/01/strecth4_kritaPost.png)
+[![strecth4post2dsBW1600w.th.png](https://cdn.scrot.moe/images/2017/07/02/strecth4post2dsBW1600w.th.png)](https://cdn.scrot.moe/images/2017/07/02/strecth4post2dsBW1600w.png)
