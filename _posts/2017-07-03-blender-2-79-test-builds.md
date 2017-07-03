@@ -11,3 +11,6 @@ In Cycles
 - filmic
 - shadow cacher
 - principled
+
+Rendered with only 12 samples + default denoiser  
+[![denoiser.th.png](https://cdn.scrot.moe/images/2017/07/03/denoiser.th.png)](https://cdn.scrot.moe/images/2017/07/03/denoiser.png)
