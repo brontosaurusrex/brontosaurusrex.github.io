@@ -19,3 +19,5 @@ and on f1, mpv will cycle between filter1, filter2 and none. If you have current
 
     F1 cycle-values af "dynaudnorm=s=30" "loudnorm" ""
     # untested ^
+    
+[Loudnorm sparse docs](https://ffmpeg.org/ffmpeg-filters.html#loudnorm).
