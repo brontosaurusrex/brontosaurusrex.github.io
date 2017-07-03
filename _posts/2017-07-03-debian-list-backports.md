@@ -16,7 +16,7 @@ list all available backport packages (installed or not)
 
     aptitude search '~Abackports ?not(~S ~i ~Abackports)'
     
-## strecth sources.list line
+## stretch sources.list line
 
     # stretch backports
     deb https://deb.debian.org/debian stretch-backports main
