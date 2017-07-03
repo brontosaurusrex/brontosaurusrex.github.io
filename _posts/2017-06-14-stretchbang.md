@@ -16,7 +16,8 @@ svg should be in [git](https://github.com/brontosaurusrex/postbang/blob/master/i
 [![stretch.th.png](https://cdn.scrot.moe/images/2017/07/01/stretch.th.png)](https://cdn.scrot.moe/images/2017/07/01/stretch.png)
 
 ## 3d stretchOnly, new denoiser, all done in Blender
-[![stretchOnly2post6ds.th.png](https://cdn.scrot.moe/images/2017/07/04/stretchOnly2post6ds.th.png)](https://cdn.scrot.moe/images/2017/07/04/stretchOnly2post6ds.png)  
+[![stretchOnly2post6ds.th.png](https://cdn.scrot.moe/images/2017/07/04/stretchOnly2post6ds.th.png)](https://cdn.scrot.moe/images/2017/07/04/stretchOnly2post6ds.png)
+[![stretchOnly2post4.th.png](https://cdn.scrot.moe/images/2017/07/04/stretchOnly2post4.th.png)](https://scrot.moe/image/1QjyN)  
 postnode  
 [![scrot30040.th.png](https://cdn.scrot.moe/images/2017/07/04/scrot30040.th.png)](https://scrot.moe/image/1QL8a)
 
