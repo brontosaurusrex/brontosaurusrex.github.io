@@ -21,3 +21,7 @@ and on f1, mpv will cycle between filter1, filter2 and none. If you have current
     # untested ^
     
 [Loudnorm sparse docs](https://ffmpeg.org/ffmpeg-filters.html#loudnorm).
+
+## Scripts
+
+According to #ffmpeg 2016, 2071 irc logs it's still faster to use old ebur128 filter for two pass calculus if you want to use this prior to encoding, so my old [*singularity*](https://github.com/brontosaurusrex/singularity) scripts are fine.
