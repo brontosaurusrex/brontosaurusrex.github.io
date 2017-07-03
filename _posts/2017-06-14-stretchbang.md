@@ -15,5 +15,8 @@ svg should be in [git](https://github.com/brontosaurusrex/postbang/blob/master/i
 [![strecth4post2dsBW1600w.th.png](https://cdn.scrot.moe/images/2017/07/02/strecth4post2dsBW1600w.th.png)](https://cdn.scrot.moe/images/2017/07/02/strecth4post2dsBW1600w.png)
 [![stretch.th.png](https://cdn.scrot.moe/images/2017/07/01/stretch.th.png)](https://cdn.scrot.moe/images/2017/07/01/stretch.png)
 
+## 3d stretchOnly, new denoiser, all done in Blender
+[![stretchOnly2post6ds.th.png](https://cdn.scrot.moe/images/2017/07/04/stretchOnly2post6ds.th.png)](https://cdn.scrot.moe/images/2017/07/04/stretchOnly2post6ds.png)
+
 ### material node using new principled uber shader
 ![scrot27611-fs8.png]({{site.baseurl}}/media/scrot27611-fs8.png)
