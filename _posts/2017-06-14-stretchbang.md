@@ -22,5 +22,8 @@ svg should be in [git](https://github.com/brontosaurusrex/postbang/blob/master/i
 postnode  
 [![scrot30040.th.png](https://cdn.scrot.moe/images/2017/07/04/scrot30040.th.png)](https://scrot.moe/image/1QL8a)
 
-### material node using new principled uber shader
+### material node using new principled ubershader
 ![scrot27611-fs8.png]({{site.baseurl}}/media/scrot27611-fs8.png)
+
+
+
