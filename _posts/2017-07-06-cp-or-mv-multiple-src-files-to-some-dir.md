@@ -13,3 +13,9 @@ title: cp or mv multiple src files to some dir
     # 	copy all SOURCE arguments into DIRECTORY
     
 Same story with mv, same -t switch.
+
+    # With more verbosity
+    cp -v -t dir/ a b c
+    'a' -> 'dir/a'
+    'b' -> 'dir/b'
+    'c' -> 'dir/c'
