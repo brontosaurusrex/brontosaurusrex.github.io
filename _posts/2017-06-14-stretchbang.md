@@ -19,7 +19,9 @@ svg should be in [git](https://github.com/brontosaurusrex/postbang/blob/master/i
 [![stretchOnly2post6ds.th.png](https://cdn.scrot.moe/images/2017/07/04/stretchOnly2post6ds.th.png)](https://cdn.scrot.moe/images/2017/07/04/stretchOnly2post6ds.png)
 [![stretchOnly2post8.th.png](https://cdn.scrot.moe/images/2017/07/04/stretchOnly2post8.th.png)](https://cdn.scrot.moe/images/2017/07/04/stretchOnly2post8.png)
 [![stretchOnly2post7.th.png](https://cdn.scrot.moe/images/2017/07/04/stretchOnly2post7.th.png)](https://cdn.scrot.moe/images/2017/07/04/stretchOnly2post7.png)
-postnode  
+(goes well with #3C4249 for background)
+
+### postnode  
 [![scrot30040.th.png](https://cdn.scrot.moe/images/2017/07/04/scrot30040.th.png)](https://scrot.moe/image/1QL8a)
 
 ### material node using new principled ubershader
