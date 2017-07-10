@@ -12,6 +12,8 @@ title: Get average color of an image
     convert senn.jpg -resize 1x1 -format '%[fx:int(255*r)],%[fx:int(255*g)],%[fx:int(255*b)]' info:-
     65,103,194
     
+[![scrot03116.th.png](https://cdn.scrot.moe/images/2017/07/10/scrot03116.th.png)](https://cdn.scrot.moe/images/2017/07/10/scrot03116.png)
+    
 Gpick *tools/pallete from image* generates similar results (colors=1)
 
 [averageColor-fs8.png]({{site.baseurl}}/media/averageColor-fs8.png), [tint2 proposal](https://forums.bunsenlabs.org/viewtopic.php?pid=55631).
