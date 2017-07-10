@@ -16,4 +16,4 @@ Gpick *tools/pallete from image* generates similar results (colors=1)
 
 ![averageColor-fs8.png]({{site.baseurl}}/media/averageColor-fs8.png)
 
-[tint2 proposal](https://forums.bunsenlabs.org/viewtopic.php?pid=55630#p55630).
+[tint2 proposal](https://forums.bunsenlabs.org/viewtopic.php?pid=55631).
