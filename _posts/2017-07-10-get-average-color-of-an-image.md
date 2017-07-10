@@ -13,3 +13,5 @@ Actuall this seems to be working
     65,103,194
     
 Gpick *tools/pallete from image* generates similar results (colors=1)
+
+![averageColor-fs8.png]({{site.baseurl}}/media/averageColor-fs8.png)
