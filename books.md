@@ -26,8 +26,6 @@ published: true
 
 ## Tesla: Man Out of Time
 
-![](https://images-na.ssl-images-amazon.com/images/I/5148kabeAxL._SX324_BO1,204,203,200_.jpg)
-
 >  Margaret Cheney explores the brilliant and prescient mind of Nikola Tesla, one of the twentieth century’s greatest scientists and inventors. (TO READ)
 
 ## Byte of vim
@@ -45,3 +43,8 @@ published: true
 ## Unix history
 
 [2016/08/25/unix-history](/2016/08/25/unix-history)
+
+## Parallel Worlds
+
+> A Journey Through Creation, Higher Dimensions, and the Future of the Cosmos is a popular science book by Michio Kaku first published in 2004.
+
