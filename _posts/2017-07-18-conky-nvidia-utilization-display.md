@@ -7,3 +7,5 @@ title: 'conky, nvidia utilization display'
 [https://github.com/brndnmtthws/conky/issues/329](https://github.com/brndnmtthws/conky/issues/329)
 
 For many cards?
+
+![](https://images.nvidia.com/pascal/img/gtx1060/GeForce_GTX_1060_Front.png)
