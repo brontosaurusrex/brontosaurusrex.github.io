@@ -22,3 +22,7 @@ from [conky man](http://conky.sourceforge.net/variables.html)
     imagequality - Which imagequality should be chosen by OpenGL applications
 
 Again, [for many cards](https://forums.bunsenlabs.org/viewtopic.php?pid=56255#p56255)?
+
+## IP int, ext
+
+    ${addr} < IP internal, ${exec curl -s www.icanhazip.com} < IP external
