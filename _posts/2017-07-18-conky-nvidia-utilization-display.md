@@ -4,7 +4,7 @@ layout: post
 date: '2017-07-18 10:04 +0200'
 title: 'conky, nvidia utilization'
 ---
-## nvidia
+## nvidia infos
 
 [https://github.com/brndnmtthws/conky/issues/329](https://github.com/brndnmtthws/conky/issues/329)
 
@@ -27,6 +27,13 @@ Again, [for many cards](https://forums.bunsenlabs.org/viewtopic.php?pid=56255#p5
 
 Possible solutions:  
 - including output of nvidia-settings (${execi nvidia-settings....) or [nvidia-smi](http://developer.download.nvidia.com/compute/DCGM/docs/nvidia-smi-367.38.pdf).
+
+## nvidia overclocking on linux
+
+untested
+
+- nvidia-smi [https://devtalk.nvidia.com/default/topic/1011804/nvidia-smi-not-fully-supported-on-gtx-1060/](https://devtalk.nvidia.com/default/topic/1011804/nvidia-smi-not-fully-supported-on-gtx-1060/)
+- coolbits?
 
 ## IP int, ext
 
