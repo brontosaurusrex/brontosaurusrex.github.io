@@ -25,6 +25,9 @@ from [conky man](http://conky.sourceforge.net/variables.html)
 
 Again, [for many cards](https://forums.bunsenlabs.org/viewtopic.php?pid=56255#p56255)?
 
+Possible solutions:  
+- including output of nvidia-settings (${execi nvidia-settings....) or [nvidia-smi](http://developer.download.nvidia.com/compute/DCGM/docs/nvidia-smi-367.38.pdf).
+
 ## IP int, ext
 
     ${addr} < IP internal, ${exec curl -s www.icanhazip.com} < IP external
