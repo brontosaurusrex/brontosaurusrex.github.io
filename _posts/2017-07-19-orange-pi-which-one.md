@@ -6,6 +6,6 @@ title: orange pi (which one?)
 ---
 ## power supply
 
-1.7 mm is internal fi, 4 mm outside. (5V, ~1.2A)
+1.7 mm is internal fi, 4 mm outside. (5V, ~1.2A), this thing is called: *1.7MM Power Cable*
 
-![](https://ae01.alicdn.com/kf/HTB1jAEIJFXXXXbhaXXXq6xXFXXX6/USB-2-0-A-Male-font-b-Plug-b-font-4-0x1-7mm-font-b-DC.jpg)
+![](https://images-na.ssl-images-amazon.com/images/I/61fInlCP9%2BL._SX466_.jpg)
