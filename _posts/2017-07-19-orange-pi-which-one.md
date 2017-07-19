@@ -10,3 +10,6 @@ title: orange pi (which one?)
 
 ![out.png]({{site.baseurl}}/media/out.png)
 
+## probably pc plus
+
+[http://www.orangepi.org/orangepipcplus/](http://www.orangepi.org/orangepipcplus/)
