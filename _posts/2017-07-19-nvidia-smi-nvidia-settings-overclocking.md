@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2017-07-19 09:53 +0200'
-title: 'nvidia-smi, nvidia-settings, overclocking'
+title: nvidia-smi and nvidia-settings and overclocking
 ---
 ## info
 
