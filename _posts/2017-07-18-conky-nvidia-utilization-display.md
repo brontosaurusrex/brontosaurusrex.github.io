@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2017-07-18 10:04 +0200'
-title: 'conky, nvidia utilization'
+title: 'conky, nvidia, overclocking, nvidia-smi'
 ---
 ## nvidia infos
 
