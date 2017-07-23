@@ -35,6 +35,12 @@ untested
 - nvidia-smi [https://devtalk.nvidia.com/default/topic/1011804/nvidia-smi-not-fully-supported-on-gtx-1060/](https://devtalk.nvidia.com/default/topic/1011804/nvidia-smi-not-fully-supported-on-gtx-1060/)
 - coolbits?
 
+### info
+
+    sudo DISPLAY=:0 XAUTHORITY=/var/run/lightdm/root/:0 nvidia-settings -t -q GPUUtilization
+
+actually does something...
+
 ### solution
 
 This [script seems to be working](https://github.com/brontosaurusrex/postbang/blob/master/misc/bin/overclock)
