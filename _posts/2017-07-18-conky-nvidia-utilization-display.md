@@ -35,6 +35,10 @@ untested
 - nvidia-smi [https://devtalk.nvidia.com/default/topic/1011804/nvidia-smi-not-fully-supported-on-gtx-1060/](https://devtalk.nvidia.com/default/topic/1011804/nvidia-smi-not-fully-supported-on-gtx-1060/)
 - coolbits?
 
-## IP int, ext
+### solution
 
-    ${addr} < IP internal, ${exec curl -s www.icanhazip.com} < IP external
+This [script seems to be working](https://github.com/brontosaurusrex/postbang/blob/master/misc/bin/overclock)
+
+to get some clocks
+
+    nvidia-smi -q -d CLOCK
