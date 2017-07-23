@@ -41,10 +41,17 @@ untested
 
 actually does something...
 
-### solution
+## solution
 
 This [script seems to be working](https://github.com/brontosaurusrex/postbang/blob/master/misc/bin/overclock)
 
+troubleshooting
+
+    # backup xorg.conf, then
+    sudo nvidia-xconfig -a --cool-bits=12 --allow-empty-initial-configuration
+    # and/or restart lightdm
+    systemctl restart lightdm.service
+    
 to get some clocks
 
     nvidia-smi -q -d CLOCK
