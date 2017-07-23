@@ -42,3 +42,7 @@ This [script seems to be working](https://github.com/brontosaurusrex/postbang/bl
 to get some clocks
 
     nvidia-smi -q -d CLOCK
+    
+better
+
+    nvidia-smi --query-gpu=index,timestamp,power.draw,clocks.sm,clocks.mem,clocks.gr --format=csv -l 1
