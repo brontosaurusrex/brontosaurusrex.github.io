@@ -8,10 +8,10 @@ title: 'nvidia, overclocking, nvidia-smi, nvidia-settings'
 
 ## nvidia overclocking on linux
 
-untested
+Research
 
 - nvidia-smi [https://devtalk.nvidia.com/default/topic/1011804/nvidia-smi-not-fully-supported-on-gtx-1060/](https://devtalk.nvidia.com/default/topic/1011804/nvidia-smi-not-fully-supported-on-gtx-1060/)
-- coolbits?
+- coolbits?  
 
     sudo DISPLAY=:0 XAUTHORITY=/var/run/lightdm/root/:0 nvidia-settings -t -q GPUUtilization
 
