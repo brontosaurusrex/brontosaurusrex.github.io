@@ -37,12 +37,12 @@ to get some clocks
 better
 
     # nvidia-smi --query-gpu=index,timestamp,power.draw,clocks.sm,clocks.mem,clocks.gr --format=csv -l 10
-    # and even better, just showing current clock and power usage and fan speeds
-    nvidia-smi --query-gpu=index,timestamp,power.draw,clocks.sm,fan.speed --format=csv -l 10
+    # and even better, just showing current clock, power usage, fan speeds and gpu temp
+    nvidia-smi --query-gpu=index,timestamp,power.draw,clocks.sm,fan.speed,temperature.gpu --format=csv -l 10
     
 could return
 
-    index, timestamp, power.draw [W], clocks.current.sm [MHz], fan.speed [%]
-    0, 2017/07/24 02:07:38.936, 107.36 W, 1961 MHz, 76 %
-    1, 2017/07/24 02:07:38.941, 107.05 W, 1936 MHz, 76 %
-    2, 2017/07/24 02:07:38.948, 112.21 W, 1961 MHz, 76 %
+    index, timestamp, power.draw [W], clocks.current.sm [MHz], fan.speed [%], temperature.gpu
+    0, 2017/07/24 02:11:49.728, 107.17 W, 1961 MHz, 76 %, 74
+    1, 2017/07/24 02:11:49.735, 109.56 W, 1936 MHz, 76 %, 75
+    2, 2017/07/24 02:11:49.740, 111.50 W, 1961 MHz, 76 %, 78
