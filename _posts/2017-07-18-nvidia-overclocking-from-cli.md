@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2017-07-18 10:04 +0200'
+date: '2017-07-24 10:04 +0200'
 title: 'nvidia, overclocking, nvidia-smi, nvidia-settings'
 ---
 ![](https://images.nvidia.com/pascal/img/gtx1060/GeForce_GTX_1060_Front.png)
