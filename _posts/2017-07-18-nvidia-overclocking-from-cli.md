@@ -32,7 +32,7 @@ troubleshooting
     
 ## solution 2 (start X, script stuff, kill X)
 
-A [script like this one](https://github.com/brontosaurusrex/tothemoon/blob/master/bin/overclockX).
+A [script like this one](https://raw.githubusercontent.com/brontosaurusrex/tothemoon/master/bin/overclockX).
  
 and in /etc/X11/Xwrapper.conf 
 
