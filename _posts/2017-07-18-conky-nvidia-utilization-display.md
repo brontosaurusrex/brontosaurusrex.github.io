@@ -13,13 +13,11 @@ untested
 - nvidia-smi [https://devtalk.nvidia.com/default/topic/1011804/nvidia-smi-not-fully-supported-on-gtx-1060/](https://devtalk.nvidia.com/default/topic/1011804/nvidia-smi-not-fully-supported-on-gtx-1060/)
 - coolbits?
 
-### info
-
     sudo DISPLAY=:0 XAUTHORITY=/var/run/lightdm/root/:0 nvidia-settings -t -q GPUUtilization
 
 actually does something...
 
-## solution
+## solution 1
 
 This [script seems to be working](https://github.com/brontosaurusrex/postbang/blob/master/misc/bin/overclock)
 
@@ -31,6 +29,18 @@ troubleshooting
     autologin-user=rudi
     # and/or restart lightdm
     systemctl restart lightdm.service
+    
+## solution 2 (start X, script stuff, kill X)
+
+A [script like this one](https://raw.githubusercontent.com/brontosaurusrex/postbang/master/misc/bin/overclockX).
+ 
+and in /etc/X11/Xwrapper.conf 
+
+    allowed_users=anybody
+    
+to enable running script without sudo.
+ 
+## info
     
 to get some clocks
 
