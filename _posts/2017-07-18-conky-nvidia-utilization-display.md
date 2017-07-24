@@ -42,9 +42,5 @@ to get some clocks
     # and even better, just showing current clock, power usage, fan speeds and gpu temp
     nvidia-smi --query-gpu=index,timestamp,power.draw,clocks.sm,fan.speed,temperature.gpu --format=csv -l 10
     
-could return
-
-    index, timestamp, power.draw [W], clocks.current.sm [MHz], fan.speed [%], temperature.gpu
-    0, 2017/07/24 02:11:49.728, 107.17 W, 1961 MHz, 76 %, 74
-    1, 2017/07/24 02:11:49.735, 109.56 W, 1936 MHz, 76 %, 75
-    2, 2017/07/24 02:11:49.740, 111.50 W, 1961 MHz, 76 %, 78
+Start X, run the script, kill X version of this mess  
+[https://devtalk.nvidia.com/default/topic/981655/fan-speed-on-headless-linux-machine-without-performance-loss/?offset=3](https://devtalk.nvidia.com/default/topic/981655/fan-speed-on-headless-linux-machine-without-performance-loss/?offset=3)
