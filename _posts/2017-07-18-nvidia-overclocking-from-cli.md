@@ -40,6 +40,10 @@ and in /etc/X11/Xwrapper.conf
     
 to enable running script without sudo.
 
+## git repo
+
+[https://github.com/brontosaurusrex/tothemoon](https://github.com/brontosaurusrex/tothemoon)
+
 ### Turning this into systemd service
 
 [https://unix.stackexchange.com/questions/47695/how-to-write-startup-script-for-systemd](https://unix.stackexchange.com/questions/47695/how-to-write-startup-script-for-systemd)
