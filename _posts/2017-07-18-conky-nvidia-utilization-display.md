@@ -34,7 +34,7 @@ to get some clocks
 
     nvidia-smi -q -d CLOCK
     
-better
+[better](http://nvidia.custhelp.com/app/answers/detail/a_id/3751/~/useful-nvidia-smi-queries)
 
     # nvidia-smi --query-gpu=index,timestamp,power.draw,clocks.sm,clocks.mem,clocks.gr --format=csv -l 10
     # and even better, just showing current clock, power usage, fan speeds and gpu temp
