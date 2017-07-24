@@ -27,6 +27,8 @@ troubleshooting
 
     # backup xorg.conf, then
     sudo nvidia-xconfig -a --cool-bits=12 --allow-empty-initial-configuration
+    # in /etc/lightdm/lightdm.conf enable
+    autologin-user=rudi
     # and/or restart lightdm
     systemctl restart lightdm.service
     
