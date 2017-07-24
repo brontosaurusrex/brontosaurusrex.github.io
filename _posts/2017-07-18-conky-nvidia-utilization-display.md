@@ -39,6 +39,10 @@ and in /etc/X11/Xwrapper.conf
     allowed_users=anybody
     
 to enable running script without sudo.
+
+### Turning this into systemd service
+
+[https://unix.stackexchange.com/questions/47695/how-to-write-startup-script-for-systemd](https://unix.stackexchange.com/questions/47695/how-to-write-startup-script-for-systemd)
  
 ## info
     
