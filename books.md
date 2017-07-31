@@ -48,3 +48,6 @@ published: true
 
 > A Journey Through Creation, Higher Dimensions, and the Future of the Cosmos is a popular science book by Michio Kaku first published in 2004.
 
+## Alan Turing and his contemporaries, Building the world’s first computers
+
+> Whilst mercury delay-line storage systems were being developed at NPL, Cambridge and elsewhere, another line of research had been started in America. Engineers at the Massachusetts Institute of Technology (MIT) had attempted to memorise, or store, a radar scan using electrostatic charges inside a cathode ray tube (CRT). (1946)
