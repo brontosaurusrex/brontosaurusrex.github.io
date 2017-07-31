@@ -51,3 +51,5 @@ published: true
 ## Alan Turing and his contemporaries, Building the world’s first computers
 
 > Whilst mercury delay-line storage systems were being developed at NPL, Cambridge and elsewhere, another line of research had been started in America. Engineers at the Massachusetts Institute of Technology (MIT) had attempted to memorise, or store, a radar scan using electrostatic charges inside a cathode ray tube (CRT). (1946)
+
+^ This is probably not worth reading, besides those little interesting pieces of computer history info.
