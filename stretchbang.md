@@ -3,6 +3,7 @@ layout: mine
 title: stretchbang
 published: true
 ---
+# stretchbang
 
 ## Install Debian 9
 
@@ -47,9 +48,9 @@ Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance.
     sudo apt install wbar wbar-config
     sudo rm /etc/xdg/autostart/wbar.desktop # start wbar in ob autostart
     
-    - wbar does not autohide and will not take place on desktop < fix it with some openbox margins (bottom in this case)
-    - wbar does not behave very friendly in multi-monitor enviroments.
-    - wbar config is local floating point character dependant
+- wbar does not autohide and will not take place on desktop < fix it with some openbox margins (bottom in this case)
+- wbar does not behave very friendly in multi-monitor enviroments.
+- wbar config is local floating point character dependent
 
 ## compile new version of tint2 master
 
