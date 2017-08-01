@@ -41,8 +41,10 @@ Should now boot into lightdm and openbox desktop (probably a bit broken).
 
 ## Network-manager
     
-    cd source/stretchbang
+    cd source/stretchbangticho
     sudo cp etc/network/interfaces /etc/network
+
+[https://wiki.debian.org/NetworkManager](https://wiki.debian.org/NetworkManager)
 
 ## Fixing hardcoded stuff (make a script for this)
 
