@@ -102,5 +102,5 @@ Static menu with a dynamic twist (powered by ~/bin/pipeMisc).
 
 https://wiki.archlinux.org/index.php/XDG_user_directories
 
-    ls ~ # should return close to this:
+    ls ~ # shall return close to this:
     bin  documents  downloads  images  music  source  tmp  videos
