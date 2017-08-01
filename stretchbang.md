@@ -23,7 +23,7 @@ Boot into cli.
     cd && mkdir source
     git clone https://github.com/brontosaurusrex/stretchbang
     cd stretchbang
-    ./overwriteConfigs # copy user stuff, check what scripts does before running!
+    ./overwriteConfigs # copy user stuff, themes, fonts, icons ...
     sudo cp ect/apt/sources.list /etc/apt
     sudo apt update && sudo apt dist-upgrade
     
