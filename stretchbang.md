@@ -111,3 +111,14 @@ https://wiki.archlinux.org/index.php/XDG_user_directories
     bin  documents  downloads  images  music  source  tmp  videos
     
 which should be in sync with definitions in *~/.config/user-dirs.dirs*
+
+## Basic hotkeys
+
+    alt +
+    y,x     left/right half
+    c       center window
+    v       full width, quite some height
+    
+    meta +
+    f11     fullscreen
+    f12     toggle compton
