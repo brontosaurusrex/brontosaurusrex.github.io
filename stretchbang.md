@@ -85,3 +85,7 @@ https://askubuntu.com/questions/73474/how-to-install-firefox-addon-from-command-
 
 ### backports
 [https://brontosaurusrex.github.io/2017/07/03/debian-list-backports/](https://brontosaurusrex.github.io/2017/07/03/debian-list-backports/)
+
+### xdg user dirs (must be automagic as well)
+
+https://wiki.archlinux.org/index.php/XDG_user_directories
