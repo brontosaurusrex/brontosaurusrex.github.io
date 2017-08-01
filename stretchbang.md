@@ -38,7 +38,7 @@ Boot into cli.
     # if error, find the package in some.list and delete/change it.
     systemctl reboot
     
-Should now boot into lightdm and openbox desktop (probably a bit broken) should happen.
+Should now boot into lightdm and openbox desktop (probably a bit broken).
 
 ## themes, icons, fonts
 Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance. 'Papirus GTK' for icons. Cuprum is the font.
