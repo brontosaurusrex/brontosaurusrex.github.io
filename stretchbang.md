@@ -35,8 +35,7 @@ Boot into cli.
     sudo apt install -y $(cat base.list)
     sudo apt install -y $(cat baseNoInstallRec.list)
     sudo apt install -y $(cat extra.list) # libre, gimp, inkscape
-    # if error, find the package in base.list and delete/change it.
-    # This will take a while to install.
+    # if error, find the package in some.list and delete/change it.
     systemctl reboot
     
 Should now boot into lightdm and openbox desktop (probably a bit broken) should happen.
