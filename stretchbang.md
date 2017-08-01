@@ -73,6 +73,12 @@ Install dependancies
 
 ## Expected functionality/behaviour
 
+### tint2
+~/bin/printVolCont is something that can be used to control ALSA master volume, alternatively volumeicon-alsa. Middle mouse click kills app.
+
+### wbar 
+Things are launched via intermediate script (launchee), so that can be only one (override with launching from openbox menu, say if you need multiple urxvt's).
+
 ### thunar
 
 ### firefox
@@ -87,6 +93,7 @@ https://askubuntu.com/questions/73474/how-to-install-firefox-addon-from-command-
 ### scripts
 
 ### openbox menu and pipe script
+Static menu with a dynamic twist (powered by ~/bin/pipeMisc).
 
 ### backports
 [https://brontosaurusrex.github.io/2017/07/03/debian-list-backports/](https://brontosaurusrex.github.io/2017/07/03/debian-list-backports/)
