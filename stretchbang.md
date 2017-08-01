@@ -91,7 +91,7 @@ Things are launched via intermediate script (launchee), so that can be only one 
 
 ### thunar
 
-Nothing to say at the moment.
+unp, extract here, some wallpaper custom actions.
 
 ### firefox addons
 
