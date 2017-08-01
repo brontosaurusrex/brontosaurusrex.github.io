@@ -23,8 +23,8 @@ Boot into cli.
     cd && mkdir source
     git clone https://github.com/brontosaurusrex/stretchbang
     cd stretchbang
-    ./overwriteConfigs # copy user stuff, themes, fonts, icons ...
-    fixPaths # .wbar and .Xresources
+    ./overwriteConfigs  # copy user stuff, themes, fonts, icons ...
+    ./fixPaths          # in .wbar and .Xresources
     sudo cp ect/apt/sources.list /etc/apt
     sudo apt update && sudo apt dist-upgrade
     
