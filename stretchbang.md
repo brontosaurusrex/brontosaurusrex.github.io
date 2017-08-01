@@ -15,16 +15,23 @@ published: true
 
 Install base system, skip creating root user and sudo should be the automagic default. When asked for additional stuff only select *standard system utilities* and *SSH server* if you so wish.
 
-Boot into cli.
+Boot into cli, install/configure git, sed, vim
 
     sudo apt install git apt-transport-https sed vim
     git config --global core.editor "vim" # and other git stuff
     git config credential.helper store    # store auth
+
+get stretchbang git and apply configs
+    
     cd && mkdir source
     git clone https://github.com/brontosaurusrex/stretchbang
     cd stretchbang
     ./overwriteConfigs  # copy user stuff, themes, fonts, icons ...
     ./fixPaths          # in .wbar and .Xresources
+    # ^ Assumes a lot, fix this two files manually in case of failure
+
+sources.list
+
     sudo cp ect/apt/sources.list /etc/apt
     sudo apt update && sudo apt dist-upgrade
     
@@ -35,7 +42,6 @@ Boot into cli.
     sudo apt install -y --no-install-recommends $(cat baseNoInstallRec.list)
     sudo apt install -y $(cat extra.list) # libre, gimp, inkscape
     # or run 'sudo ./installAll' to install them all
-    # if error, find the package in some.list and delete/change it.
     systemctl reboot
     
 Should now boot into lightdm and openbox desktop (probably a bit broken).
@@ -58,8 +64,6 @@ Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance.
 - wbar does not autohide and will not take place on desktop < fix it with some openbox margins (bottom in this case)
 - wbar does not behave very friendly in multi-monitor enviroments.
 - wbar config is local floating point character dependent
-
-
 
 ## compile new version of tint2 master
 
