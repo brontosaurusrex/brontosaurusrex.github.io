@@ -81,10 +81,14 @@ Things are launched via intermediate script (launchee), so that can be only one 
 
 ### thunar
 
-### firefox
+### firefox addons
 
-make it auto  
-https://askubuntu.com/questions/73474/how-to-install-firefox-addon-from-command-line-in-scripts
+    cd ~/tmp
+    # wget and install uBlock and Scrollbar anywhere
+    wget https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/addon-607454-latest.xpi
+    wget https://addons.mozilla.org/firefox/downloads/latest/scrollbaranywhere/addon-292702-latest.xpi
+    firefox-esr *.xpi
+    # yes, yes, restart
 
 ### geany
 
