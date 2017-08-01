@@ -102,9 +102,7 @@ Things are launched via intermediate script (launchee), so that can be only one 
 
 ### geany
 
-### vim
-
-### scripts
+[![geany.png](https://cdn.scrot.moe/images/2017/08/01/geany.png)](https://cdn.scrot.moe/images/2017/08/01/geany.png)
 
 ### openbox menu and pipe script
 Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
