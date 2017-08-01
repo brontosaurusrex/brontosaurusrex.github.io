@@ -3,8 +3,6 @@ layout: page
 title: stretchbang
 published: true
 ---
-# stretchbang
-
 [![stretch.md.png](https://cdn.scrot.moe/images/2017/08/01/stretch.md.png)](https://cdn.scrot.moe/images/2017/08/01/stretch.png)
 
 ## Install Debian 9
@@ -20,7 +18,8 @@ Install base system, skip creating root user and sudo should be the automagic de
 Boot into cli.
 
     sudo apt install git apt-transport-https
-    git config --global core.editor "vim" # and other git stuffgitcd 
+    git config --global core.editor "vim" # and other git stuff
+    git config credential.helper store    # store auth
     cd && mkdir source
     git clone https://github.com/brontosaurusrex/stretchbang
     cd stretchbang
