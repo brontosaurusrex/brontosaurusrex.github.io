@@ -28,7 +28,6 @@ get stretchbang git and apply configs
     cd stretchbang
     ./overwriteConfigs  # copy user stuff, themes, fonts, icons ...
     ./fixPaths          # in .wbar and .Xresources
-    # ^ Assumes a lot.
 
 sources.list with some https power
 
