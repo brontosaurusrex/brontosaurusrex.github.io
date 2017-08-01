@@ -24,6 +24,7 @@ Boot into cli.
     git clone https://github.com/brontosaurusrex/stretchbang
     cd stretchbang
     ./overwriteConfigs # copy user stuff, themes, fonts, icons ...
+    fixPaths # .wbar and .Xresources
     sudo cp ect/apt/sources.list /etc/apt
     sudo apt update && sudo apt dist-upgrade
     
@@ -45,10 +46,6 @@ Should now boot into lightdm and openbox desktop (probably a bit broken).
     sudo cp etc/network/interfaces /etc/network
 
 [https://wiki.debian.org/NetworkManager](https://wiki.debian.org/NetworkManager)
-
-## Fixing hardcoded stuff (make a script for this)
-
-geany ~/.wbar ~/.Xresources # < path to urxvt icon file
 
 ## themes, icons, fonts
 Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance. 'Papirus GTK' for icons. Cuprum is the font.
