@@ -17,7 +17,7 @@ Install base system, skip creating root user and sudo should be the automagic de
 
 Boot into cli.
 
-    sudo apt install git apt-transport-https
+    sudo apt install git apt-transport-https sed vim
     git config --global core.editor "vim" # and other git stuff
     git config credential.helper store    # store auth
     cd && mkdir source
