@@ -73,6 +73,7 @@ Install dependancies
 
 ### firefox
 
+make it auto  
 https://askubuntu.com/questions/73474/how-to-install-firefox-addon-from-command-line-in-scripts
 
 ### geany
