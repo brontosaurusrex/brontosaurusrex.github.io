@@ -52,6 +52,8 @@ Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance.
 - wbar does not behave very friendly in multi-monitor enviroments.
 - wbar config is local floating point character dependent
 
+[![stretch.md.png](https://cdn.scrot.moe/images/2017/08/01/stretch.md.png)](https://cdn.scrot.moe/images/2017/08/01/stretch.png)
+
 ## compile new version of tint2 master
 
 Install dependancies  
