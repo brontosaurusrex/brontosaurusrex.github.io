@@ -67,6 +67,8 @@ Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance.
 
 ## compile new version of tint2 master
 
+This is not strictly needed, mostly some fixes with executor (alsa volume slider will be a bit jumpy in older/repository version).
+
 Install dependancies  
 [https://gitlab.com/o9000/tint2/wikis/Install#dependencies](https://gitlab.com/o9000/tint2/wikis/Install#dependencies)
 
