@@ -122,3 +122,5 @@ which should be in sync with definitions in *~/.config/user-dirs.dirs*
     meta +
     f11     fullscreen
     f12     toggle compton
+    
+    Run *shortcuts* in terminal for more.
