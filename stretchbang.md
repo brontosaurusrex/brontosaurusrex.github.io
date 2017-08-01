@@ -38,6 +38,10 @@ Boot into cli.
     
 Should now boot into lightdm and openbox desktop (probably a bit broken).
 
+## Fixing hardcoded stuff (make a script for this)
+
+geany ~/.wbar ~/.Xresources # < path to urxvt icon file
+
 ## themes, icons, fonts
 Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance. 'Papirus GTK' for icons. Cuprum is the font.
 
@@ -50,9 +54,7 @@ Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance.
 - wbar does not behave very friendly in multi-monitor enviroments.
 - wbar config is local floating point character dependent
 
-## Fixing hardcoded stuff
 
-geany ~/.wbar ~/.Xresources # < path to urxvt icon file
 
 ## compile new version of tint2 master
 
