@@ -38,7 +38,8 @@ Install packages
 
     cd source/stretchbang/packs
     sudo apt install -y $(cat base.list)
-    sudo apt install -y --no-install-recommends $(cat baseNoInstallRec.list)
+    sudo apt install -y --no-install-recommends \
+    $(cat baseNoInstallRec.list)
     sudo apt install -y $(cat extra.list) # libre, gimp, inkscape
     # or run 'sudo ./installAll' to install them all
     systemctl reboot
