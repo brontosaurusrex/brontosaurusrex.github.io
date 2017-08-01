@@ -35,7 +35,7 @@ sources.list
     sudo cp ect/apt/sources.list /etc/apt
     sudo apt update && sudo apt dist-upgrade
     
-## Install packages
+Install packages
 
     cd source/stretchbang/packs
     sudo apt install -y $(cat base.list)
