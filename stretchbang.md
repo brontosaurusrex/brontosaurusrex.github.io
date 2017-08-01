@@ -33,6 +33,7 @@ Boot into cli.
     sudo apt install -y $(cat base.list)
     sudo apt install -y --no-install-recommends $(cat baseNoInstallRec.list)
     sudo apt install -y $(cat extra.list) # libre, gimp, inkscape
+    # or run 'sudo ./installAll to install them all
     # if error, find the package in some.list and delete/change it.
     systemctl reboot
     
