@@ -78,3 +78,5 @@ Install dependancies
 ### vi?
 
 ### scripts
+
+### openbox menu and pipe script
