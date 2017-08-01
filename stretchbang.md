@@ -1,5 +1,5 @@
 ---
-layout: mine
+layout: page
 title: stretchbang
 published: true
 ---
