@@ -67,3 +67,14 @@ Install dependancies
     make
     sudo make install # I know.
 
+## Expected functionality/behaviour
+
+### thunar
+
+### firefox
+
+### geany
+
+### vi?
+
+### scripts
