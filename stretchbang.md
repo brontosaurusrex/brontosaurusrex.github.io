@@ -89,10 +89,6 @@ Install dependancies
 ### wbar 
 Things are launched via intermediate script (launchee), so that can be only one (override with launching from openbox menu, say if you need multiple urxvt's).
 
-### thunar
-
-unp, extract here, some wallpaper custom actions.
-
 ### firefox addons
 
     cd ~/tmp
