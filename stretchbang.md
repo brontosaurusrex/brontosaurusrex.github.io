@@ -130,3 +130,7 @@ which should be in sync with definitions in *~/.config/user-dirs.dirs*
     f12     toggle compton
     
     Run *shortcuts* in terminal for more.
+    
+## If you need to tell me how much I rule
+
+[https://github.com/brontosaurusrex/stretchbang/issues](https://github.com/brontosaurusrex/stretchbang/issues)
