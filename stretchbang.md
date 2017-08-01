@@ -102,9 +102,11 @@ Static menu with a dynamic twist (powered by ~/bin/pipeMisc).
 ### backports
 [https://brontosaurusrex.github.io/2017/07/03/debian-list-backports/](https://brontosaurusrex.github.io/2017/07/03/debian-list-backports/)
 
-### xdg user dirs (must be automagic as well)
+### xdg user dirs (should be automagic)
 
 https://wiki.archlinux.org/index.php/XDG_user_directories
 
     ls ~ # shall return close to this:
     bin  documents  downloads  images  music  source  tmp  videos
+    
+which should be in sync with definitions in ~/.config/user-dirs.dirs 
