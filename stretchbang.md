@@ -52,6 +52,10 @@ Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance.
 - wbar does not behave very friendly in multi-monitor enviroments.
 - wbar config is local floating point character dependent
 
+## Fixing hardcoded stuff
+
+geany ~/.wbar ~/.Xresources # < path to urxvt icon file
+
 ## compile new version of tint2 master
 
 Install dependancies  
