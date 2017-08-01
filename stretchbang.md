@@ -13,7 +13,7 @@ published: true
     md5sum -c MD5SUMS 
     # firmware-9.1.0-amd64-netinst.iso: OK
 
-Install base system, skip creating root user and sudo should be the automagic default. When asked for additional stuff only select *standard system utilities* and SSH server if you so wish.
+Install base system, skip creating root user and sudo should be the automagic default. When asked for additional stuff only select *standard system utilities* and *SSH server* if you so wish.
 
 Boot into cli.
 
@@ -74,7 +74,7 @@ Install dependancies
 ## Expected functionality/behaviour
 
 ### tint2
-~/bin/printVolCont is something that can be used to control ALSA master volume, alternatively volumeicon-alsa. Middle mouse click kills app.
+*~/bin/printVolCont* is something that can be used to control ALSA master volume, alternatively volumeicon-alsa.
 
 ### wbar 
 Things are launched via intermediate script (launchee), so that can be only one (override with launching from openbox menu, say if you need multiple urxvt's).
@@ -97,7 +97,7 @@ Things are launched via intermediate script (launchee), so that can be only one 
 ### scripts
 
 ### openbox menu and pipe script
-Static menu with a dynamic twist (powered by ~/bin/pipeMisc).
+Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
 
 ### backports
 [https://brontosaurusrex.github.io/2017/07/03/debian-list-backports/](https://brontosaurusrex.github.io/2017/07/03/debian-list-backports/)
@@ -109,4 +109,4 @@ https://wiki.archlinux.org/index.php/XDG_user_directories
     ls ~ # shall return close to this:
     bin  documents  downloads  images  music  source  tmp  videos
     
-which should be in sync with definitions in ~/.config/user-dirs.dirs 
+which should be in sync with definitions in *~/.config/user-dirs.dirs*
