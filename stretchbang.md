@@ -33,7 +33,7 @@ Boot into cli.
 
     cd source/stretchbang/packs
     sudo apt install -y $(cat base.list)
-    sudo apt install -y $(cat baseNoInstallRec.list)
+    sudo apt install -y --no-install-recommends $(cat baseNoInstallRec.list)
     sudo apt install -y $(cat extra.list) # libre, gimp, inkscape
     # if error, find the package in some.list and delete/change it.
     systemctl reboot
