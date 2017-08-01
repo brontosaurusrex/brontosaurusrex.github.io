@@ -39,6 +39,11 @@ Boot into cli.
     
 Should now boot into lightdm and openbox desktop (probably a bit broken).
 
+## Network-manager
+    
+    cd source/stretchbang
+    sudo cp etc/network/interfaces /etc/network
+
 ## Fixing hardcoded stuff (make a script for this)
 
 geany ~/.wbar ~/.Xresources # < path to urxvt icon file
