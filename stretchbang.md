@@ -29,7 +29,7 @@ Boot into cli.
     # and switch back to https sources version.
     sudo apt update && sudo apt dist-upgrade
     
-## packages
+## Install packages
 
     cd source/stretchbang/packs
     sudo apt install -y $(cat base.list)
@@ -40,7 +40,7 @@ Boot into cli.
     
 Should now boot into lightdm and openbox desktop (probably a bit broken) should happen.
 
-## themes
+## themes, icons, fonts
 Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance. 'Papirus GTK' for icons. Cuprum is the font.
 
 ## wbar
