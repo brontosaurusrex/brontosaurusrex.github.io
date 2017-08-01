@@ -3,7 +3,7 @@ layout: mine
 title: stretchbang
 published: true
 ---
-![stretchBangLogo.png]({{site.baseurl}}/media/stretchBangLogo.png)  
+<img src="{{site.baseurl}}/media/stretchBangLogo.png" style="max-width:1200px;">  
 [![stretchbang.md.png](https://cdn.scrot.moe/images/2017/08/01/stretchbang.png)](https://cdn.scrot.moe/images/2017/08/01/stretchbang.png)
 
 ## Install Debian 9
