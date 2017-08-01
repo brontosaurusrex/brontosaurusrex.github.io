@@ -5,6 +5,8 @@ published: true
 ---
 # stretchbang
 
+[![stretch.md.png](https://cdn.scrot.moe/images/2017/08/01/stretch.md.png)](https://cdn.scrot.moe/images/2017/08/01/stretch.png)
+
 ## Install Debian 9
 
 [With non-free firmware](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/)
@@ -51,8 +53,6 @@ Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance.
 - wbar does not autohide and will not take place on desktop < fix it with some openbox margins (bottom in this case)
 - wbar does not behave very friendly in multi-monitor enviroments.
 - wbar config is local floating point character dependent
-
-[![stretch.md.png](https://cdn.scrot.moe/images/2017/08/01/stretch.md.png)](https://cdn.scrot.moe/images/2017/08/01/stretch.png)
 
 ## compile new version of tint2 master
 
