@@ -47,7 +47,7 @@ Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance.
 
 ## wbar
 
-    sudo apt install wbar wbar-config
+    sudo apt install --no-install-recommends wbar wbar-config
     sudo rm /etc/xdg/autostart/wbar.desktop # start wbar in ob autostart
     
 - wbar does not autohide and will not take place on desktop < fix it with some openbox margins (bottom in this case)
@@ -101,3 +101,6 @@ Static menu with a dynamic twist (powered by ~/bin/pipeMisc).
 ### xdg user dirs (must be automagic as well)
 
 https://wiki.archlinux.org/index.php/XDG_user_directories
+
+    ls ~ # should return close to this:
+    bin  documents  downloads  images  music  source  tmp  videos
