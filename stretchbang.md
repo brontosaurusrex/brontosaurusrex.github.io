@@ -92,7 +92,7 @@ Things are launched via intermediate script (launchee), so that can be only one 
 
 ### geany
 
-### vi?
+### vim
 
 ### scripts
 
