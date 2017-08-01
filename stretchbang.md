@@ -91,6 +91,8 @@ Things are launched via intermediate script (launchee), so that can be only one 
 
 ### thunar
 
+Nothing to say at the moment.
+
 ### firefox addons
 
     cd ~/tmp
