@@ -30,7 +30,7 @@ get stretchbang git and apply configs
     ./fixPaths          # in .wbar and .Xresources
     # ^ Assumes a lot.
 
-sources.list
+sources.list with some https power
 
     sudo cp ect/apt/sources.list /etc/apt
     sudo apt update && sudo apt dist-upgrade
