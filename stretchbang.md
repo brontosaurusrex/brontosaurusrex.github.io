@@ -25,8 +25,6 @@ Boot into cli.
     cd stretchbang
     ./overwriteConfigs # copy user stuff, check what scripts does before running!
     sudo cp ect/apt/sources.list /etc/apt
-    # in case of problem copy sources.list.http and then install apt-transport-https
-    # and switch back to https sources version.
     sudo apt update && sudo apt dist-upgrade
     
 ## Install packages
