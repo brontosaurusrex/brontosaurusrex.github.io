@@ -154,10 +154,16 @@ if not, then
 
 ## Various notes
 
+### dmesg
+
 Allowing dmesg for normal users, which should enable virtualbox changeres script to actually run at startup.  
 https://www.cyberciti.biz/faq/how-to-prevent-unprivileged-users-from-viewing-dmesg-command-output-on-linux/
 
     sudo sysctl -w kernel.dmesg_restrict=0 # and back to 1
+
+### fix wbar
+
+Wbar icons should be copied outside git and not used directly (also fix fixPaths).
 
 ## If you need to tell me how much I rule
 
