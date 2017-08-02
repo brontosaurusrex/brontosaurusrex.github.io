@@ -24,7 +24,7 @@ Boot into cli, install/configure git, sed, vim
 
 get stretchbang git and apply configs
     
-    cd && mkdir source
+    cd && mkdir source && cd source
     git clone https://github.com/brontosaurusrex/stretchbang
     cd stretchbang
     ./overwriteConfigs  # copy user stuff, themes, fonts, icons ...
@@ -51,6 +51,8 @@ Should now boot into lightdm and openbox desktop (probably a bit broken).
     
     cd source/stretchbang
     sudo cp etc/network/interfaces /etc/network
+
+---
 
 [https://wiki.debian.org/NetworkManager](https://wiki.debian.org/NetworkManager)
 
