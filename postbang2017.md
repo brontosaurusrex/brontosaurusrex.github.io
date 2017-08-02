@@ -1,13 +1,13 @@
 ---
 layout: mine
 title: postbang
-published: true
+published: false
 ---
 <a href="/"><img src="https://raw.githubusercontent.com/brontosaurusrex/titles/master/example.png" style="border:0;"></a>
 
 ## Status of this document/git
 
-Unstable/transitional, some configs might not work with Jessie or Stretch.
+For historical purposes now that stretchbang is out.
 
 ## Table of Contents
   * [Jessie from netinstall \+ some customization = postbang](#jessie-from-netinstall--some-customization--postbang)
