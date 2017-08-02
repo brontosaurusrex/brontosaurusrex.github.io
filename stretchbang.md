@@ -19,14 +19,14 @@ Install base system, skip creating root user and sudo should be the automagic de
 Boot into cli, install/configure git, sed, vim
 
     sudo apt install git apt-transport-https sed vim
-    git config --global core.editor "vim" # and other git stuff
-    git config credential.helper store    # store auth
+    git config --global core.editor "vim" # optional
 
 get stretchbang git and apply configs
     
     cd && mkdir source && cd source
     git clone https://github.com/brontosaurusrex/stretchbang
     cd stretchbang
+    git config credential.helper store # optional
     ./overwriteConfigs  # copy user stuff, themes, fonts, icons ...
     ./fixPaths          # in .wbar and .Xresources
 
@@ -164,6 +164,10 @@ https://www.cyberciti.biz/faq/how-to-prevent-unprivileged-users-from-viewing-dme
 ### fix wbar
 
 Wbar icons should be copied outside git and not used directly (also fix fixPaths).
+
+## Extremly short version of the above
+
+coming soon
 
 ## If you need to tell me how much I rule
 
