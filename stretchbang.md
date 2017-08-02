@@ -38,7 +38,7 @@ sources.list with some https power
 Network-manager
     
     cd source/stretchbang
-    sudo cp etc/network/interfaces /etc/network
+    sudo cp -b etc/network/interfaces /etc/network
 
 [https://wiki.debian.org/NetworkManager](https://wiki.debian.org/NetworkManager)
     
