@@ -84,7 +84,7 @@ Install dependancies
     # sudo apt install cmake
     cmake ..
     make
-    sudo make install # I know.
+    sudo checkinstall
 
 ## Expected functionality/behaviour
 
