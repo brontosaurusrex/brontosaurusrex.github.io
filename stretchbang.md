@@ -154,7 +154,8 @@ if not, then
 
 ## Various notes
 
-Allowing dmesg for normal users, which should enable virtualbox changeres script to actually run at startup.
+Allowing dmesg for normal users, which should enable virtualbox changeres script to actually run at startup.  
+https://www.cyberciti.biz/faq/how-to-prevent-unprivileged-users-from-viewing-dmesg-command-output-on-linux/
 
     sudo sysctl -w kernel.dmesg_restrict=0 # and back to 1
 
