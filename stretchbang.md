@@ -141,4 +141,5 @@ if not, then
     
 ## If you need to tell me how much I rule
 
-[https://github.com/brontosaurusrex/stretchbang/issues](https://github.com/brontosaurusrex/stretchbang/issues)
+[https://github.com/brontosaurusrex/stretchbang/issues](https://github.com/brontosaurusrex/stretchbang/issues)  
+[https://forums.bunsenlabs.org/viewtopic.php?id=4019](https://forums.bunsenlabs.org/viewtopic.php?id=4019)
