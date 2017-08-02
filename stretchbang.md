@@ -43,16 +43,16 @@ Install packages
     $(cat baseNoInstallRec.list)
     sudo apt install -y $(cat extra.list) # libre, gimp, inkscape
     # or run 'sudo ./installAll' to install them all
-    systemctl reboot
     
-Should now boot into lightdm and openbox desktop (probably a bit broken).
-
 ## Network-manager
     
     cd source/stretchbang
     sudo cp etc/network/interfaces /etc/network
+    systemctl reboot
 
 [https://wiki.debian.org/NetworkManager](https://wiki.debian.org/NetworkManager)
+
+Should now boot into lightdm / openbox.
 
 ---
 
