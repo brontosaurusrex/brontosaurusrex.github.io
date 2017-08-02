@@ -152,6 +152,12 @@ if not, then
 *lst*           # ls by date  
 *up*            # apt update/upgrade  
 
+## Various notes
+
+Allowing dmesg for normal users, which should enable virtualbox changeres script to actually run at startup.
+
+    sudo sysctl -w kernel.dmesg_restrict=0 # and back to 1
+
 ## If you need to tell me how much I rule
 
 [https://github.com/brontosaurusrex/stretchbang/issues](https://github.com/brontosaurusrex/stretchbang/issues)  
