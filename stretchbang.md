@@ -97,7 +97,7 @@ Things are launched via intermediate script (launchee), so that can be only one 
 
 ### firefox addons
 
-    cd ~/tmp
+    cd ~/tmp || exit
     # wget and install uBlock and Scrollbar anywhere
     wget https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/addon-607454-latest.xpi
     wget https://addons.mozilla.org/firefox/downloads/latest/scrollbaranywhere/addon-292702-latest.xpi
