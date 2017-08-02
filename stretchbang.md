@@ -75,6 +75,7 @@ This is not strictly needed, mostly some fixes with executor (alsa volume slider
 Install dependancies  
 [https://gitlab.com/o9000/tint2/wikis/Install#dependencies](https://gitlab.com/o9000/tint2/wikis/Install#dependencies)
 
+    # either run ~/source/stretchbang/compileTint2 or
     cd ~/source
     git clone https://gitlab.com/o9000/tint2.git
     cd tint2
@@ -114,13 +115,12 @@ Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
 
 ### xdg user dirs (should be automagic)
 
-https://wiki.archlinux.org/index.php/XDG_user_directories
-
     ls ~ # shall return close to this:
     bin  documents  downloads  images  music  source  tmp  videos
     
 if not, then
 
+    # either run ~/source/stretchbang/makeUserDirs or
     cd
     mkdir documents downloads images music tmp videos
     cp ~/source/stretchbang/.config/user-dirs.dirs ~/.config
