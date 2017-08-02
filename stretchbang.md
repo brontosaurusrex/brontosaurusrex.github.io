@@ -84,11 +84,8 @@ Install dependancies
     # sudo apt install cmake
     cmake ..
     make
+    sudo apt remove tint2
     sudo checkinstall
-    
-    # if install would fail, then
-    # sudo apt remove tint2
-    # sudo dpkg -i build*.deb
 
 ## Expected functionality/behaviour
 
