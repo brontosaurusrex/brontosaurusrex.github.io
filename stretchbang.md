@@ -52,9 +52,9 @@ Should now boot into lightdm and openbox desktop (probably a bit broken).
     cd source/stretchbang
     sudo cp etc/network/interfaces /etc/network
 
----
-
 [https://wiki.debian.org/NetworkManager](https://wiki.debian.org/NetworkManager)
+
+---
 
 ## themes, icons, fonts
 Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance. 'Papirus GTK' for icons. Cuprum is the font.
