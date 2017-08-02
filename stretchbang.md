@@ -163,7 +163,7 @@ https://www.cyberciti.biz/faq/how-to-prevent-unprivileged-users-from-viewing-dme
 
 ### fix wbar
 
-Wbar icons should be copied outside git and not used directly (also fix fixPaths).
+Wbar icons should be copied outside git and not used directly (also fix fixPaths). Directory like *~/.config/stretchbang* may be a good place.
 
 ## Extremly short version of the above
 
