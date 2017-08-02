@@ -32,7 +32,7 @@ get stretchbang git and apply configs
 
 sources.list with some https power
 
-    sudo cp ect/apt/sources.list /etc/apt
+    sudo cp -b ect/apt/sources.list /etc/apt
     sudo apt update && sudo apt dist-upgrade
     
 Network-manager
