@@ -72,7 +72,7 @@ Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance.
 
 This is not strictly needed, mostly some fixes with executor (alsa volume slider will be a bit jumpy in older/repository version).
 
-Install dependancies  
+Install dependencies  
 [https://gitlab.com/o9000/tint2/wikis/Install#dependencies](https://gitlab.com/o9000/tint2/wikis/Install#dependencies)
 
     # either run ~/source/stretchbang/compileTint2 or
