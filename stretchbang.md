@@ -125,8 +125,6 @@ if not, then
     mkdir documents downloads images music tmp videos
     cp ~/source/stretchbang/.config/user-dirs.dirs ~/.config
     # logout of openbox, login back and it should happen.
-    
-which should be in sync with definitions in *~/.config/user-dirs.dirs*
 
 ## Basic hotkeys
 
