@@ -35,6 +35,13 @@ sources.list with some https power
     sudo cp ect/apt/sources.list /etc/apt
     sudo apt update && sudo apt dist-upgrade
     
+Network-manager
+    
+    cd source/stretchbang
+    sudo cp etc/network/interfaces /etc/network
+
+[https://wiki.debian.org/NetworkManager](https://wiki.debian.org/NetworkManager)
+    
 Install packages
 
     cd source/stretchbang/packs
@@ -43,14 +50,7 @@ Install packages
     $(cat baseNoInstallRec.list)
     sudo apt install -y $(cat extra.list) # libre, gimp, inkscape
     # or run 'sudo ./installAll' to install them all
-    
-## Network-manager
-    
-    cd source/stretchbang
-    sudo cp etc/network/interfaces /etc/network
     systemctl reboot
-
-[https://wiki.debian.org/NetworkManager](https://wiki.debian.org/NetworkManager)
 
 Should now boot into lightdm / openbox.
 
