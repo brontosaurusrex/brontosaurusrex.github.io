@@ -6,7 +6,7 @@ published: true
 <a href="/"><img src="{{site.baseurl}}/media/stretchBangLogo.png" style="max-width:1347px; position:relative; left:50%; transform:translate(-50%, 0%); margin-top: -70px; margin-bottom: -170px"></a>
 [![stretchbang.md.png](https://cdn.scrot.moe/images/2017/08/01/stretchbang.png)](https://cdn.scrot.moe/images/2017/08/01/stretchbang.png)
 
-## Install Debian 9
+# Install Debian 9
 
 [With non-free firmware](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/)
 
@@ -56,10 +56,10 @@ Should now boot into lightdm / openbox.
 
 ---
 
-## themes, icons, fonts
+# Themes, icons, fonts
 Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance. 'Papirus GTK' for icons. Cuprum is the font.
 
-## wbar
+# wbar
 
     sudo apt install --no-install-recommends wbar wbar-config
     sudo rm /etc/xdg/autostart/wbar.desktop # start wbar in ob autostart
@@ -68,7 +68,7 @@ Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance.
 - wbar does not behave very friendly in multi-monitor enviroments.
 - wbar config is local floating point character dependent
 
-## compile new version of tint2 master
+# compile new version of tint2 master
 
 This is not strictly needed, mostly some fixes with executor (alsa volume slider will be a bit jumpy in older/repository version).
 
@@ -85,17 +85,15 @@ Install dependencies
     cmake ..
     make
     sudo apt remove tint2
-    sudo checkinstall
+    sudo make install 
+    # or sudo checkinstall # if you know what you are doing
 
-## Expected functionality/behaviour
+# Expected functionality/behaviour
 
-### tint2
-*~/bin/printVolCont* is something that can be used to control ALSA master volume, alternatively volumeicon-alsa.
+## printVolCont in tint2
+*~/bin/printVolCont* is something that can be used to control ALSA master volume, alternative would be volumeicon-alsa.
 
-### wbar 
-Things are launched via intermediate script (launchee), so that can be only one (override with launching from openbox menu, say if you need multiple urxvt's).
-
-### firefox addons
+## Install firefox addons
 
     cd ~/tmp || exit
     # wget and install uBlock and Scrollbar anywhere
@@ -104,17 +102,13 @@ Things are launched via intermediate script (launchee), so that can be only one 
     firefox-esr *.xpi
     # yes, yes, restart
 
-### geany
-
+## geany
 [![geany.png](https://cdn.scrot.moe/images/2017/08/01/geany.png)](https://cdn.scrot.moe/images/2017/08/01/geany.png)
 
-### openbox menu and pipe script
+## openbox menu and pipe script
 Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
 
-### backports
-[https://brontosaurusrex.github.io/2017/07/03/debian-list-backports/](https://brontosaurusrex.github.io/2017/07/03/debian-list-backports/)
-
-### xdg user dirs (should be automagic)
+## xdg user dirs (should be automagic)
 
     ls ~ # shall return close to this:
     bin  documents  downloads  images  music  source  tmp  videos
@@ -127,7 +121,7 @@ if not, then
     cp ~/source/stretchbang/.config/user-dirs.dirs ~/.config
     # logout of openbox, login back and it should happen.
 
-## Basic hotkeys
+# Basic hotkeys
 
     alt +
     y,x     left/right half
@@ -140,7 +134,7 @@ if not, then
     
     Run *shortcuts* in terminal for more.
     
-## Aliases and ~/bin scripts
+# Aliases and ~/bin scripts
     
 *fsize 18*      # set urxvt font size  
 *weather*       # weather  
@@ -152,23 +146,21 @@ if not, then
 *lst*           # ls by date  
 *up*            # apt update/upgrade  
 
-## Various notes
+# Various notes
 
-### dmesg
+## ~/bin/changeres
 
-Allowing dmesg for normal users, which should enable virtualbox changeres script to actually run at startup.  
-https://www.cyberciti.biz/faq/how-to-prevent-unprivileged-users-from-viewing-dmesg-command-output-on-linux/
+Needs rewrite, should not use dmesg, shall only restart what's actually runing, be smarter.
 
-    # temporary
-    sudo sysctl -w kernel.dmesg_restrict=0 
-    # permanent
-    echo 'kernel.dmesg_restrict=0' | sudo tee -a /etc/sysctl.conf
+# Backports
 
-## Extremly short version of the above
+terminix
+
+# Extremly short version of the above
 
 coming soon
 
-## If you need to tell me how much I rule
+# If you need to tell me how much I rule
 
 [https://github.com/brontosaurusrex/stretchbang/issues](https://github.com/brontosaurusrex/stretchbang/issues)  
 [https://forums.bunsenlabs.org/viewtopic.php?id=4019](https://forums.bunsenlabs.org/viewtopic.php?id=4019)
