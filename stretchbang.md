@@ -146,12 +146,6 @@ if not, then
 *lst*           # ls by date  
 *up*            # apt update/upgrade  
 
-# Various notes
-
-## ~/bin/changeres
-
-Needs rewrite, should not use dmesg, shall only restart what's actually runing, be smarter.
-
 # Backports
 
 ## tilix
