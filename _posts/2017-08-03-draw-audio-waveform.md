@@ -15,4 +15,10 @@ title: draw audio waveform
 
 ![waveform.png]({{site.baseurl}}/media/waveform.png)
 
-[https://trac.ffmpeg.org/wiki/Waveform](https://trac.ffmpeg.org/wiki/Waveform)
+[https://trac.ffmpeg.org/wiki/Waveform](https://trac.ffmpeg.org/wiki/Waveform)  
+
+If it's not a mono file  
+[https://stackoverflow.com/questions/40092006/ffmpeg-waveform-with-specific-color](https://stackoverflow.com/questions/40092006/ffmpeg-waveform-with-specific-color)
+
+    ffmpeg -i "stretchbang.wav" -filter_complex \
+    "aformat=channel_layouts=mono,showwavespic=s=4000x2000:colors=#ad9557" waveform.png
