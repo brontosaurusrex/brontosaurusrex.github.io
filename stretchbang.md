@@ -68,7 +68,7 @@ Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance.
 - wbar does not behave very friendly in multi-monitor enviroments.
 - wbar config is local floating point character dependent
 
-# compile new version of tint2 master
+# Compile new version of tint2
 
 This is not strictly needed, mostly some fixes with executor (alsa volume slider will be a bit jumpy in older/repository version).
 
