@@ -21,3 +21,9 @@ title: Magic background color
   style="fill:#313E44" />
 </svg> 
 313E44 > Big stone
+
+<svg width="720" height="200">
+  <rect width="720" height="200" rx="5" ry="5" 
+  style="fill:#263238" />
+</svg> 
+263238 > As seen in Tilix
