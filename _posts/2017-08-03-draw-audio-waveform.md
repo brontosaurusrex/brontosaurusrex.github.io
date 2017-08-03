@@ -13,3 +13,5 @@ title: draw audio waveform
     # then scaledown to around 25%
 
 ![waveform.png]({{site.baseurl}}/media/waveform.png)
+
+[https://trac.ffmpeg.org/wiki/Waveform](https://trac.ffmpeg.org/wiki/Waveform)
