@@ -88,7 +88,7 @@ Install dependencies
     sudo make install 
     # or sudo checkinstall # if you know what you are doing
 
-# Expected functionality/behaviour
+# Expected behaviour
 
 ## printVolCont in tint2
 *~/bin/printVolCont* is something that can be used to control ALSA master volume, alternative would be volumeicon-alsa.
@@ -162,11 +162,11 @@ Needs rewrite, should not use dmesg, shall only restart what's actually runing, 
     dconf load /com/gexperts/Tilix/ < tilix.dconf
     # or run the provided script.
 
-# Extremly short version of the above
+# Short version of the above
 
-coming soon
+Later.
 
-# If you need to tell me how much I rule
+# Comments?
 
 [https://github.com/brontosaurusrex/stretchbang/issues](https://github.com/brontosaurusrex/stretchbang/issues)  
 [https://forums.bunsenlabs.org/viewtopic.php?id=4019](https://forums.bunsenlabs.org/viewtopic.php?id=4019)
