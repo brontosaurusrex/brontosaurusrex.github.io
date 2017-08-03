@@ -3,7 +3,7 @@ layout: mine
 title: stretchbang
 published: true
 ---
-<a href="/"><img src="{{site.baseurl}}/media/stretchBangLogo.png" style="max-width:1347px; position:relative; left:50%; transform:translate(-50%, 0%); margin-top: -70px; margin-bottom: -170px"></a>
+<img src="{{site.baseurl}}/media/stretchBangLogo.png" style="max-width:1347px; position:relative; left:50%; transform:translate(-50%, 0%); margin-top: -70px; margin-bottom: -170px">
 [![stretchbang.md.png](https://cdn.scrot.moe/images/2017/08/01/stretchbang.png)](https://cdn.scrot.moe/images/2017/08/01/stretchbang.png)
 
 # Install Debian 9
@@ -170,3 +170,5 @@ coming soon
 
 [https://github.com/brontosaurusrex/stretchbang/issues](https://github.com/brontosaurusrex/stretchbang/issues)  
 [https://forums.bunsenlabs.org/viewtopic.php?id=4019](https://forums.bunsenlabs.org/viewtopic.php?id=4019)
+
+<a href="/"><img src="{{site.baseurl}}/public/bronto.png"></a>
