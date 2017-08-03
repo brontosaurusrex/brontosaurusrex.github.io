@@ -154,7 +154,13 @@ Needs rewrite, should not use dmesg, shall only restart what's actually runing, 
 
 # Backports
 
-terminix
+## tilix
+
+    sudo apt install -t stretch-backports tilix
+    cd .config/tilix
+    # to use stretchbang config
+    dconf load /com/gexperts/Tilix/ < tilix.dconf
+    # or run the provided script.
 
 # Extremly short version of the above
 
