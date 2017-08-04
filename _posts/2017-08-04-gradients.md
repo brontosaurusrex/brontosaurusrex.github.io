@@ -19,6 +19,9 @@ title: Gradients
 4pt elipsoid with some grain
 ![4pointElipsoidFilm2.svg]({{site.baseurl}}/media/4pointElipsoidFilm2.svg)
 
+and with some logo
+![stretchbangFerlauf.svg]({{site.baseurl}}/media/stretchbangFerlauf.svg)
+
 3pt (imaginary) underwater
 ![underWaser.svg]({{site.baseurl}}/media/underWaser.svg)
 
