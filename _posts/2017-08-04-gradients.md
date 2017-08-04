@@ -7,7 +7,7 @@ title: Gradients
 2 point sissy sky
 ![skySissy.svg]({{site.baseurl}}/media/skySissy.svg)
 
-2 point very sissy elipsoidic gradient
+2 point very sissy elipsoidic gradient (wallpaper winner)
 ![skySissyElipsoidic2.svg]({{site.baseurl}}/media/skySissyElipsoidic2.svg)
 
 4 point Stronger sky
