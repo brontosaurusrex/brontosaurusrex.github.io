@@ -29,3 +29,6 @@ and with some logo
 
 3pt underwater off-center elipsoid
 ![underWaserElipsoidOffCenter.svg]({{site.baseurl}}/media/underWaserElipsoidOffCenter.svg)
+
+and with a grain and logo
+![stretchbangUnderWaser.svg]({{site.baseurl}}/media/stretchbangUnderWaser.svg)
