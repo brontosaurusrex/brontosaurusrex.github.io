@@ -13,5 +13,8 @@ title: Gradients
 4 point Stronger sky
 ![sky.svg]({{site.baseurl}}/media/sky.svg)
 
+4 point epipsoid
+![4pointElipsoid.svg]({{site.baseurl}}/media/4pointElipsoid.svg)
+
 3 point (imaginary) underwater
 ![underWaser.svg]({{site.baseurl}}/media/underWaser.svg)
