@@ -4,17 +4,21 @@ layout: post
 date: '2017-08-04 15:40 +0200'
 title: Gradients
 ---
-2 point sissy sky
+2pt sissy sky
 ![skySissy.svg]({{site.baseurl}}/media/skySissy.svg)
 
-2 point very-sissy elipsoidic (winner)
+2pt very-sissy elipsoidic (winner)
 ![skySissyElipsoidic2.svg]({{site.baseurl}}/media/skySissyElipsoidic2.svg)
 
-4 point Stronger sky
+4pt Stronger sky
 ![sky.svg]({{site.baseurl}}/media/sky.svg)
 
-4 point epipsoid
+4pt elipsoid
 ![4pointElipsoid.svg]({{site.baseurl}}/media/4pointElipsoid.svg)
 
-3 point (imaginary) underwater
+3pt (imaginary) underwater
 ![underWaser.svg]({{site.baseurl}}/media/underWaser.svg)
+
+3pt underwater off-center elipsoid
+![underWaserElipsoidOffCenter.svg]({{site.baseurl}}/media/underWaserElipsoidOffCenter.svg)
+
