@@ -16,9 +16,11 @@ title: Gradients
 4pt elipsoid
 ![4pointElipsoid.svg]({{site.baseurl}}/media/4pointElipsoid.svg)
 
+4pt elipsoid with some grain
+![4pointElipsoidFilm2.svg]({{site.baseurl}}/media/4pointElipsoidFilm2.svg)
+
 3pt (imaginary) underwater
 ![underWaser.svg]({{site.baseurl}}/media/underWaser.svg)
 
 3pt underwater off-center elipsoid
 ![underWaserElipsoidOffCenter.svg]({{site.baseurl}}/media/underWaserElipsoidOffCenter.svg)
-
