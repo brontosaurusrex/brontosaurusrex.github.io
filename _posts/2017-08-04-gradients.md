@@ -7,3 +7,10 @@ title: Gradients
 2 point sissy sky
 ![skySissy.svg]({{site.baseurl}}/media/skySissy.svg)
 
+Stronger sky
+![sky.svg]({{site.baseurl}}/media/sky.svg)
+
+Imaginary underwater
+![underWaser.svg]({{site.baseurl}}/media/underWaser.svg)
+
+
