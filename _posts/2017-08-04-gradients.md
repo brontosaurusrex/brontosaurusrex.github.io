@@ -21,6 +21,7 @@ title: Gradients
 
 and with some logo
 ![stretchbangFerlauf.svg]({{site.baseurl}}/media/stretchbangFerlauf.svg)
+![stretchbangFerlauf2.svg]({{site.baseurl}}/media/stretchbangFerlauf2.svg)
 
 3pt (imaginary) underwater
 ![underWaser.svg]({{site.baseurl}}/media/underWaser.svg)
