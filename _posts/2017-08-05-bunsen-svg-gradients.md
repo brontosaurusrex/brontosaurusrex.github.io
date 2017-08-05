@@ -16,5 +16,5 @@ While D is nice, there is some banding, an attempt to fix that (very small gradi
 [bunsenD5TL.svg]({{site.baseurl}}/media/bunsenD5TL.svg)
 
 One more for revolucion (no gradients, red logo)  
-![]({{site.baseurl}}/media/bunsenE3.svg)![bunsenE3.svg]({{site.baseurl}}/media/bunsenE3.svg)
+![bunsenE3.svg]({{site.baseurl}}/media/bunsenE3.svg)
 
