@@ -10,3 +10,9 @@ title: bunsen svg gradients
 [bunsenD.svg]({{site.baseurl}}/media/bunsenD.svg)  
 
 ^ All have slightly ferlaufish background and slight grain layer on top (They look wrong in browsers, but they should open in inkscape or nitrogen just fine).
+
+While D is nice, there is some banding, an attempt to fix that (very small gradient from TL)  
+![bunsenD4TL.svg]({{site.baseurl}}/media/bunsenD4TL.svg)
+![bunsenD5TL.svg]({{site.baseurl}}/media/bunsenD5TL.svg)
+
+
