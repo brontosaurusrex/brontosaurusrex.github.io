@@ -19,4 +19,5 @@ One more for revolucion (no gradients, red logo)
 ![bunsenE3.svg]({{site.baseurl}}/media/bunsenE3.svg)
 
 License: All credits for original logo to [ututo](https://forums.bunsenlabs.org/profile.php?id=67) as defined by  
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+https://creativecommons.org/licenses/by-nc-sa/4.0/  
+(Unless that is the wrong licence, then all credits to ututo as defined by the correct license).
