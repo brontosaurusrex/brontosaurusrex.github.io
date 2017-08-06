@@ -23,3 +23,11 @@ One more for revolucion (no gradients, red logo)
 License: All credits for original logo to [ututo](https://forums.bunsenlabs.org/profile.php?id=67) as defined by  
 [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://forums.bunsenlabs.org/profile.php?id=67)    
 (Unless that is the wrong licence, then all credits to ututo as defined by the correct license).
+
+## getting some interesting Pixelization
+
+image magick needed
+
+    convert -density 10 -scale 1920x1200 bunsenE3.svg bunsenE3_10pixels.png
+    # scale seems to be fast version of -resize
+
