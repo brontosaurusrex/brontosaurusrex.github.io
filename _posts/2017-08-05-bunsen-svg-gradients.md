@@ -28,6 +28,5 @@ License: All credits for original logo to [ututo](https://forums.bunsenlabs.org/
 
 image magick needed
 
-    convert -density 10 -scale 1920x1200 bunsenE3.svg bunsenE3_10pixels.png
+    convert -density 10 -scale 1920x1200 bunsenE3.svg bunsenE3_10px.png
     # scale seems to be fast version of -resize
-
