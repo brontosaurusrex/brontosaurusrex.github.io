@@ -8,3 +8,5 @@ title: 'Golden ratio and such, svg/pdf overlays'
 
 ![golden.svg]({{site.baseurl}}/media/golden.svg)
 
+p.s. There are also some interesting golden triangles (as seen in blender camera tab).
+
