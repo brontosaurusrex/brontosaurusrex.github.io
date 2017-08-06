@@ -18,6 +18,8 @@ While D is nice, there is some banding, an attempt to fix that (very small gradi
 One more for revolucion (no gradients, red logo)  
 ![bunsenE3.svg]({{site.baseurl}}/media/bunsenE3.svg)
 
+[Some bitmaps](https://forums.bunsenlabs.org/viewtopic.php?pid=57757#p57757).
+
 License: All credits for original logo to [ututo](https://forums.bunsenlabs.org/profile.php?id=67) as defined by  
 [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://forums.bunsenlabs.org/profile.php?id=67)    
 (Unless that is the wrong licence, then all credits to ututo as defined by the correct license).
