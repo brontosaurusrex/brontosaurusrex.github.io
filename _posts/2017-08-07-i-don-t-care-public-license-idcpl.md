@@ -22,6 +22,10 @@ Example: 'This $Work published under YYC0: Yes you can.' license. Any other shor
 
     Yes you can, but for non-commercial purposes only.
     
+## YYC4
+
+    Yes you can, but release the sources.
+    
 # Combination examples
 
 ## YYC1+3
@@ -32,11 +36,19 @@ Example: 'This $Work published under YYC0: Yes you can.' license. Any other shor
 
     Yes you can, but you should mention me AND for non-commercial purposes only.
     
+## YYC3+4
+
+    Sort of gpl.
+    
 # Explanation
 
 ### 'Don't mention me'
     
 Means that the work must be modified in a way that completely eliminates original author's name/contact info and such.
+
+### 'release the sources'
+
+Only valid in a case when you release modification of work publicly.
 
 # License for this licenses
 
