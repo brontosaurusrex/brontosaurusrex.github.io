@@ -38,6 +38,6 @@ Example: 'This $Work published under YYC0: Yes you can.' license.
     
 Means that the work must be modified in a way that completely eliminates original author's name/contact info and such.
 
-# License for this licence
+# License for this licenses
 
-	'This Licenses (YYC0-3)) published under YYC0: Yes you can.' license.
+	This Licenses published under 'YYC0: Yes you can.' license.
