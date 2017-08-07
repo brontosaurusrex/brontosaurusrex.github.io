@@ -40,4 +40,4 @@ Means that the work must be modified in a way that completely eliminates origina
 
 # License for this licenses
 
-	This Licenses published under 'YYC0: Yes you can.' license.
+	'This Licenses published under YYC0: Yes you can.' license.
