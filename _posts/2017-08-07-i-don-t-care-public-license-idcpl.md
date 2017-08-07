@@ -42,7 +42,7 @@ Example: 'This $Work published under YYC0: Yes you can.' license. Any other shor
     
 # Explanation
 
-The idea behind those is mostly being as short as possible and not including any F words.
+The idea behind those^ is being as short as possible and not including any F words.
 
 ### 'Don't mention me'
     
