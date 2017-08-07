@@ -42,6 +42,8 @@ Example: 'This $Work published under YYC0: Yes you can.' license. Any other shor
     
 # Explanation
 
+The idea behind those is mostly being as short as possible and not including any F words.
+
 ### 'Don't mention me'
     
 Means that the work must be modified in a way that completely eliminates original author's name/contact info and such.
