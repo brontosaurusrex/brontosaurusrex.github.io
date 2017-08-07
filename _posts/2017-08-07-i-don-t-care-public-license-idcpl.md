@@ -8,15 +8,19 @@ title: Yes You Can Public License (YYC)
 
     Yes you can.
     
-Example: This Work is published under 'Yes You Can 0' license.
+Example: This Work is published under 'Yes You Can 0' permissive license.
 
 ## YYC1
 
     Yes you can, but with another name and don't mention me.
     
+Example: This Work is published under 'Yes You Can 1, but do NOT mention me' permissive license.
+    
 ## YYC2
 
     Yes you can, but you should mention me. 
+    
+Example: This Work is published under 'Yes You Can 2, but do credit me and other authors' permissive license.
     
 ## YYC3
 
