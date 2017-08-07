@@ -46,7 +46,7 @@ The idea behind those^ is being as short as possible and not including any F wor
 
 ### 'don't mention me'
     
-Means that the work must be modified in a way that completely eliminates original author's name/contact info and such.
+Means that the work must be modified in a way that completely eliminates original author's name/contact info and such. Also if the name of the project could point to original author, rename that as well.
 
 ### 'release the sources'
 
