@@ -7,6 +7,8 @@ title: Yes You Can Public License (YYC)
 ## YYC0
 
     Yes you can.
+    
+Example: 'This Work published under YYC0: Yes you can.' license.
 
 ## YYC1
 
