@@ -8,7 +8,7 @@ title: Yes You Can Public License (YYC)
 
     Yes you can.
     
-Example: 'This Work published under YYC0: Yes you can.' license.
+Example: 'This $Work published under YYC0: Yes you can.' license.
 
 ## YYC1
 
@@ -37,3 +37,7 @@ Example: 'This Work published under YYC0: Yes you can.' license.
 ### 'Don't mention me'
     
 Means that the work must be modified in a way that completely eliminates original author's name/contact info and such.
+
+# License for this licence
+
+	'This Licenses (YYC0-3)) published under YYC0: Yes you can.' license.
