@@ -38,7 +38,7 @@ Example: 'This $Work published under YYC0: Yes you can.' license. Any other shor
     
 ## YYC3+4
 
-    Yes, but release the sources AND for non-commercial purposes. Sort of gpl.
+    Yes, but release the sources AND for non-commercial purposes. 
     
 # Explanation
 
