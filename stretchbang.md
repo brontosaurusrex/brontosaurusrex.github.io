@@ -54,6 +54,8 @@ Install packages
 
 Should now boot into lightdm / openbox.
 
+[Virtual box guest additions.](https://virtualboxes.org/doc/installing-guest-additions-on-debian/)
+
 ---
 
 # Themes, icons, fonts
