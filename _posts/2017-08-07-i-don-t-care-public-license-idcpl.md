@@ -54,4 +54,4 @@ Only valid in a case when you release modification of work publicly.
 
 # License for this licenses
 
-	This Licenses is published under 'Yes You Can 0' license.
+	This Licenses are published under 'Yes You Can 0' license.
