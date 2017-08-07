@@ -8,7 +8,7 @@ title: Yes You Can Public License (YYC)
 
     Yes you can.
     
-Example: 'This $Work published under YYC0: Yes you can.' license. Any other shorter/longer form including 'YYC0' should work as well.
+Example: This Work is published under YYC0: Yes You Can 0 license.
 
 ## YYC1
 
