@@ -16,7 +16,7 @@ Example: 'This $Work published under YYC0: Yes you can.' license. Any other shor
     
 ## YYC2
 
-    Yes you can, but you should mention me.
+    Yes you can, but you should mention me. 
     
 ## YYC3
 
