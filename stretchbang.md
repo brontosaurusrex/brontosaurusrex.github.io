@@ -29,6 +29,7 @@ get stretchbang git and apply configs
     git config credential.helper store # optional
     ./overwriteConfigs  # copy user stuff, themes, fonts, icons ...
     ./fixPaths          # in .wbar and .Xresources
+    ./makeUserDirs      # mkdir documents downloads images ...
 
 sources.list with some https power
 
@@ -111,19 +112,6 @@ Install dependencies
 
 ## openbox menu and pipe script
 Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
-
-## xdg user dirs (should be automagic)
-
-    ls ~ # shall return close to this:
-    bin  documents  downloads  images  music  source  tmp  videos
-    
-if not, then
-
-    # either run ~/source/stretchbang/makeUserDirs or
-    cd
-    mkdir documents downloads images music tmp videos
-    cp ~/source/stretchbang/.config/user-dirs.dirs ~/.config
-    # logout of openbox, login back and it should happen.
 
 # Basic hotkeys
 
