@@ -56,9 +56,6 @@ Should now boot into lightdm / openbox.
 
 [Virtual box guest additions.](https://virtualboxes.org/doc/installing-guest-additions-on-debian/)
 
-Commercial break  
-![oh nos](/media/ohnos.jpg)
-
 ---
 
 # Themes, icons, fonts
