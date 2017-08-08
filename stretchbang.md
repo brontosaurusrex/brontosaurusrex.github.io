@@ -72,12 +72,11 @@ Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance.
 
 # Compile new version of tint2
 
-This is not strictly needed, mostly some fixes with executor (alsa volume slider will be a bit jumpy in older/repository version).
+This is optional, either run *~/source/stretchbang/compileTint2* or
 
 Install dependencies  
 [https://gitlab.com/o9000/tint2/wikis/Install#dependencies](https://gitlab.com/o9000/tint2/wikis/Install#dependencies)
 
-    # either run ~/source/stretchbang/compileTint2 or
     cd ~/source
     git clone https://gitlab.com/o9000/tint2.git
     cd tint2
