@@ -44,7 +44,7 @@ Network-manager
     
 Install packages
 
-    cd source/stretchbang/packs
+    cd ~/source/stretchbang/packs
     sudo apt install -y $(cat base.list)
     sudo apt install -y --no-install-recommends \
     $(cat baseNoInstallRec.list)
