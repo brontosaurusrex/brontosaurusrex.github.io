@@ -87,7 +87,8 @@ Install dependencies
     # sudo apt install cmake
     cmake ..
     make
-    # make a soft link in ~/bin, at next login the new tint2 will be started
+    # make a soft link in ~/bin, 
+    # at next login the new tint2 will be started
     ln -s ~/source/tint2/build/tint2 ~/bin/tint2
 
 # Expected behaviour
