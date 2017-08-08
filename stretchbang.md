@@ -113,6 +113,8 @@ Install dependencies
 ## openbox menu and pipe script
 Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
 
+![menu]({{site.baseurl}}/media/stretchMenu.png)
+
 # Basic hotkeys
 
     alt +
