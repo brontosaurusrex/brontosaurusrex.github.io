@@ -149,10 +149,6 @@ Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
     dconf load /com/gexperts/Tilix/ < tilix.dconf
     # or run the provided script.
 
-# Short version of the above
-
-Later.
-
 # Comments?
 
 [https://github.com/brontosaurusrex/stretchbang/issues](https://github.com/brontosaurusrex/stretchbang/issues)  
