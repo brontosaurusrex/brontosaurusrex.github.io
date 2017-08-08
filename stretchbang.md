@@ -98,6 +98,7 @@ Install dependencies
 
 ## Install firefox addons
 
+    # ./firefoxAddons # or
     cd ~/tmp || exit
     # wget and install uBlock and Scrollbar anywhere
     wget https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/addon-607454-latest.xpi
