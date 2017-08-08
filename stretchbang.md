@@ -49,7 +49,9 @@ Install packages
     sudo apt install -y --no-install-recommends \
     $(cat baseNoInstallRec.list)
     sudo apt install -y $(cat extra.list) # libre, gimp, inkscape
-    # or run 'sudo ./installAll 2>&1 | tee ~/install.log' to install them all.
+    # or run 
+    sudo ./installAll # or
+    sudo ./installLess
     systemctl reboot
 
 Should now boot into lightdm / openbox.
