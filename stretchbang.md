@@ -124,7 +124,7 @@ Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
     
     meta +
     f11     fullscreen
-    f12     toggle compton
+    f12     toggle compton # ~/bin/toggleCompton
     
     Run *shortcuts* in terminal for more.
     
