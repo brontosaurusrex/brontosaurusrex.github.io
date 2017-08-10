@@ -10,3 +10,6 @@ title: gimp 2.9.x on Debian Stretch
 
       - Error: missing dependency gexiv2 >= 0.10.6
       - Error: missing dependency libmypaint >= 1.3.0
+
+Solution or workaround  
+ [https://discuss.pixls.us/t/gimp-2-9-5-appimage/1959/6](https://discuss.pixls.us/t/gimp-2-9-5-appimage/1959/6)
