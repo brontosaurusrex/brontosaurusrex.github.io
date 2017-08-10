@@ -9,3 +9,7 @@ Example
     LC_TIME=en_GB.utf8 gsimplecal
     
 (defines language, start of week day, possibly more)
+
+or better, in ~/.config/gsimplecal/config add
+
+    force_lang = en_GB.utf8
