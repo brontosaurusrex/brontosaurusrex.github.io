@@ -141,15 +141,19 @@ Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
 *up*            # apt update/upgrade  
 *search*        # apt-cache search  
 
-# Backports
+# Bleeding edge
 
-## tilix
+## tilix (from backports)
 
     sudo apt install -t stretch-backports tilix
     cd .config/tilix
     # to use stretchbang config
     dconf load /com/gexperts/Tilix/ < tilix.dconf
     # or run the provided script.
+
+## gimp 2.9.x (appimage)
+
+[https://discuss.pixls.us/t/community-built-software/2137](https://discuss.pixls.us/t/community-built-software/2137)
 
 # Comments?
 
