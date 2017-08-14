@@ -8,7 +8,7 @@ published: true
 
 # Install Debian 9
 
-[With non-free firmware](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/)
+[Official iso](https://www.debian.org/distrib/netinst) or [with non-free firmware](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/)
 
     md5sum *.iso # or
     md5sum -c MD5SUMS 
