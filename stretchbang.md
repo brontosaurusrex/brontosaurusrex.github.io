@@ -27,7 +27,7 @@ get stretchbang git and apply configs
     git clone https://github.com/brontosaurusrex/stretchbang
     cd stretchbang
     git config credential.helper store # optional
-    # git checkout 01   # optional
+    # git checkout 01   # optionally checkout version tagged as 01
     ./overwriteConfigs  # copy user stuff, themes, fonts, icons ...
     ./fixPaths          # in .wbar and .Xresources
     ./makeUserDirs      # mkdir documents downloads images ...
