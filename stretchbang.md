@@ -167,6 +167,5 @@ Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
 # Comments?
 
 [https://github.com/brontosaurusrex/stretchbang/issues](https://github.com/brontosaurusrex/stretchbang/issues)  
-[https://forums.bunsenlabs.org/viewtopic.php?id=4019](https://forums.bunsenlabs.org/viewtopic.php?id=4019)
 
 <a href="/"><img src="{{site.baseurl}}/public/bronto.png" style="-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH;"></a>
