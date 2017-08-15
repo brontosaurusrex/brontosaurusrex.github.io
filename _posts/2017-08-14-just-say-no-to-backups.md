@@ -27,3 +27,5 @@ Just say NO to backups.
 ![noBackups.png]({{site.baseurl}}/media/noBackups.png)
 
 p.s. And NO to shinny looking icons.
+
+And if you think that *It is the mental projection of your digital self.* is something not worth [blushing](https://en.wikipedia.org/wiki/Blushing), then perhaps you should do backups.
