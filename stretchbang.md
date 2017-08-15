@@ -164,6 +164,12 @@ Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
 
 [https://discuss.pixls.us/t/community-built-software/2137](https://discuss.pixls.us/t/community-built-software/2137)
 
+# Autologin
+
+    sudo vi /etc/lightdm/lightdm.conf
+    # under [Seat:*] enable
+    autologin-user=yourUserName
+
 # Comments?
 
 [https://github.com/brontosaurusrex/stretchbang/issues](https://github.com/brontosaurusrex/stretchbang/issues)  
