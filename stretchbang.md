@@ -144,6 +144,14 @@ Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
 
 # Bleeding edge
 
+## libreoffice (from backports)
+
+    sudo apt install -t stretch-backports libreoffice libreoffice-gtk3
+    # xy = language code you want
+    sudo apt install -t stretch-backports libreoffice-l10n-xy myspell-xy
+    # optional icon theme
+    sudo apt install -t stretch-backports libreoffice-style-breeze 
+
 ## tilix (from backports)
 
     sudo apt install -t stretch-backports tilix
