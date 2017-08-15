@@ -28,4 +28,8 @@ Just say NO to backups.
 
 p.s. And NO to shinny looking icons.
 
-And if you think that *It is the mental projection of your digital self.* is something not worth [blushing](https://en.wikipedia.org/wiki/Blushing), then perhaps you should do backups.
+And if you think that 
+
+> It is the mental projection of your digital self. (Morpheus)
+
+is something not worth [blushing](https://en.wikipedia.org/wiki/Blushing), then perhaps you should do backups.
