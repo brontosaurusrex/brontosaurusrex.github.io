@@ -24,3 +24,4 @@ So when everything goes to hell, you can promise yourself that future will be be
 
 Just say NO to backups.
 
+![noBackups.png]({{site.baseurl}}/media/noBackups.png)
