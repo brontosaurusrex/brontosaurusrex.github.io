@@ -14,7 +14,7 @@ There is always something better to do than backups, like playing slither for ex
 
 Work has an implication of loosing energy and backups are also work. The more you work the more backups you will have to consider, it's a circle...
 
-That big hd crash last year, the one where you lost your book, you know it wasn't worth disk space it was taking anyway and if you really care then it's all in your head anyway and you can do a better version now.
+That big hd crash last year, the one where you lost your book, you know it wasn't worth disk space it was taking anyway and if you really care then it's all in your head and you can do a better version now.
 
 Backup devices are unreliable, if you really want something slightly more permanent, there is a page describing 17 things you should know about stone carving (proven to last 1000+ years).
 
