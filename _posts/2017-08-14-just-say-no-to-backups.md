@@ -12,7 +12,7 @@ Shelves can have a much better function that holding bunch of ugly external hard
 
 There is always something better to do than backups, like playing slither for example.
 
-Work has an implication of loosing energy and backups are also work. The more you work the more backups you will have to consider, it's a circle...
+Work has an implication of loosing energy and backups are also work. The more you work the more backups you will have to consider, it's a [vicious circle](https://www.merriam-webster.com/dictionary/vicious%20circle).
 
 That big hd crash last year, the one where you lost your book, you know it wasn't worth disk space it was taking anyway and if you really care then it's all in your head and you can do a better version now.
 
