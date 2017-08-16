@@ -74,6 +74,8 @@ Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance.
 - wbar does not behave very friendly in multi-monitor enviroments.
 - wbar config is local floating point character dependent
 
+The easiest way to reload wbar is right-clicking it.
+
 # Compile new version of tint2
 
 This is optional, either run *~/source/stretchbang/compileTint2* or
