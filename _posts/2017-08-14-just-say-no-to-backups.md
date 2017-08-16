@@ -22,7 +22,7 @@ When you get mail like: "We would like to refresh our movie from 5 years, just c
 
 So when everything goes to hell, you can promise yourself that future will be better. That's also cheapest version.
 
-If you are new to loosing data then no one will blame you if you shed a tear or two. Just know that on the longer run it's way easier to cry a little than doing regular backups.
+If you are new to loosing data then no one will blame you if you shed a tear or two. Just know that on the longer run it's way easier to cry a little than regular backups.
 
 Just say NO to backups.
 
