@@ -10,5 +10,3 @@ title: 'after effects, layer track matte'
     on      front           | L.Inv
 
 Unexpectedly alpha layer is on top and front layer has a TrkMat property set.
-
-Track matte can be: alpha, alpha inv, luma, luma inv. Luma is basically RGB type of alpha.
