@@ -176,22 +176,3 @@ Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
 
 <a href="/"><img src="{{site.baseurl}}/public/bronto.png" style="-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH;"></a>
 
-# toc
-
-- [Install Debian 9](#install-debian-9)
-- [Themes, icons, fonts](#themes--icons--fonts)
-- [wbar](#wbar)
-- [Compile new version of tint2](#compile-new-version-of-tint2)
-- [Expected behaviour](#expected-behaviour)
-  * [printVolCont in tint2](#printvolcont-in-tint2)
-  * [Install firefox addons](#install-firefox-addons)
-  * [geany](#geany)
-  * [openbox menu and pipe script](#openbox-menu-and-pipe-script)
-- [Basic hotkeys](#basic-hotkeys)
-- [Aliases and ~/bin scripts](#aliases-and---bin-scripts)
-- [Bleeding edge](#bleeding-edge)
-  * [libreoffice (from backports)](#libreoffice--from-backports-)
-  * [tilix (from backports)](#tilix--from-backports-)
-  * [gimp 2.9.x (appimage)](#gimp-29x--appimage-)
-- [Autologin](#autologin)
-- [Comments?](#comments-)
