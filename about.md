@@ -22,7 +22,7 @@ published: true
 - After a while reading about jekyll and similar solutions realized that there is 3rd party service called tinypress, which could be used to post to github hosted jekyll page.
 - The idea to write jekyll template from scratch, got bored, since it is not only about jekyll, but building a mobile friendly site < more that I was prepared to deal with
 - Evil hackish plans growing, decided to go with more "Do it fast to get something working, fix it later" approach. < It went really really fast from this point on.
-- Found lanyon theme [https://github.com/poole/lanyon]([https://github.com/poole/lanyon]) , uploaded it and add some posts using tinypress
+- Found [lanyon theme](https://github.com/poole/lanyon), uploaded it and add some posts using tinypress
 - Changing the theme slightly > at this point there is a working / online blog without even running jekyll offline on my machine [https://brontosaurusrex.github.io/2016/01/02/1st-tinypress-post/](https://brontosaurusrex.github.io/2016/01/02/1st-tinypress-post/)
 - Realized that tinypress has bugs and lacks features (concluded that with some workarounds it is still good enough for scribble posts, which can be later fixed offline with a real text editor or perhaps using github's online one) < 99% of my posts are quick scribbles anyway, so no big deal.
 Edit: tinypress replaced with prose.io.
