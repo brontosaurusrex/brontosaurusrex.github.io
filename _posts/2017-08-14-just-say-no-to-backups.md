@@ -35,3 +35,7 @@ And if you think that
 > It is the mental projection of your digital self. (Morpheus)
 
 is something not worth [blushing](https://en.wikipedia.org/wiki/Blushing), then perhaps you should do backups.
+
+Decisions, decisions ....
+
+<iframe width="600" height="600" src="https://www.youtube.com/embed/6qbMo5iDxys" frameborder="0" allowfullscreen></iframe>
