@@ -38,4 +38,4 @@ is something not worth [blushing](https://en.wikipedia.org/wiki/Blushing), then 
 
 Decisions, decisions ....
 
-<iframe width="600" height="600" src="https://www.youtube.com/embed/6qbMo5iDxys" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="720" src="https://www.youtube.com/embed/6qbMo5iDxys" frameborder="0" allowfullscreen></iframe>
