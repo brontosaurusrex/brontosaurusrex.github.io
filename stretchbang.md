@@ -122,12 +122,16 @@ Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
 
     alt +
     y,x     left/right half
-    c       center window
+    c       center window x
     v       full width, quite some height
+    m       move to next monitor
     
     meta +
     f11     fullscreen
     f12     toggle compton # ~/bin/toggleCompton
+    
+    meta + alt +
+    c       center window x and y
     
     Run *shortcuts* in terminal for more.
     
