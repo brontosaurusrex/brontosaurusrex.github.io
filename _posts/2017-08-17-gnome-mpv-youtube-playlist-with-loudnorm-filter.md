@@ -45,5 +45,6 @@ p.s. With **shift+drag** it is also possible to populate playlist. In youtube ca
     fi
 
     echo "$new"
-
-
+    
+    mpv --af=lavfi=[loudnorm] --geometry=100%:0% --autofit=50%x50% "$new"
+    
