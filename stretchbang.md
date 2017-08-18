@@ -170,6 +170,18 @@ Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
 
 [https://discuss.pixls.us/t/community-built-software/2137](https://discuss.pixls.us/t/community-built-software/2137)
 
+## mpv
+
+    sudo apt install libncurses5-dev liblua5.1-0.dev devscripts equivs
+    cd ~/source
+    git clone https://github.com/mpv-player/mpv-build && cd mpv-build
+    # rm any old mpv-build(TAB)
+    mk-build-deps
+    sudo dpkg -i mpv-build-deps(TAB).deb 
+    sudo apt-get install -f
+    ./rebuild -j4
+    ln -s ~/source/mpv-build/mpv/build/mpv ~/bin/mpv
+
 # Autologin
 
     sudo vi /etc/lightdm/lightdm.conf
