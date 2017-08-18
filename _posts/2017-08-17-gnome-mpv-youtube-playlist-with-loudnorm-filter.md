@@ -15,4 +15,4 @@ This
 
     F3 script-message osc-playlist 5
     
-in input.conf will show playlist for 5 seconds on F3 (mpv 0.26).
+in ~/.config/mpv/input.conf will show playlist for 5 seconds on F3 (mpv 0.26).
