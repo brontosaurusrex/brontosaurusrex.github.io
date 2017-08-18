@@ -17,4 +17,4 @@ This
     
 in ~/.config/mpv/input.conf will show playlist for 5 seconds on F3 (mpv 0.26).
 
-p.s. With shift+drag it is also possible to populate playlist. In youtube case that does works video by video, but NOT playlist by playlist, actually if you drag playlist directly without removing the v= part it will only play that specific video. Now with that F3^ in place and in video by video option, osd will show urls and not names for some reason (it does work as expected with playlist = shows names).
+p.s. With **shift+drag** it is also possible to populate playlist. In youtube case that does works video by video, but NOT playlist by playlist, actually if you drag playlist directly without removing the v= part it will only play that specific video. Now with that F3^ in place and in video by video option, osd will show urls and not names for some reason (it does work as expected with playlist = shows names).
