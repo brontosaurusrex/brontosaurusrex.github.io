@@ -24,3 +24,26 @@ p.s. With **shift+drag** it is also possible to populate playlist. In youtube ca
 ## a script?
 
 [https://superuser.com/questions/603586/sed-extracting-value-of-a-key-value-pair-in-a-url-query-string](https://superuser.com/questions/603586/sed-extracting-value-of-a-key-value-pair-in-a-url-query-string)
+
+    #!/bin/bash
+
+    # youtube-mpv-url-justKeepLister
+
+    url="$1"
+
+    list=$(echo "$url" | sed -r 's/.*list=([[:alnum:]]*).*/\1/')
+
+    if [ -z ${list+x} ]; then # if list is empty just ee the url
+
+        new="$url"
+
+    else # list is not empty, lets construct the new youtube url
+
+        pre="https://www.youtube.com/watch?list="
+        new="$pre$list"
+
+    fi
+
+    echo "$new"
+
+
