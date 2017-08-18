@@ -27,7 +27,10 @@ p.s. With **shift+drag** it is also possible to populate playlist. In youtube ca
 
     #!/bin/bash
 
-    # youtube-mpv-url-justKeepLister
+    # youtubeMpvList
+    
+    # usage
+    # youtubeMpvList "youtubeurl" # < yes, you will need quotes.
 
     url="$1"
 
@@ -46,9 +49,5 @@ p.s. With **shift+drag** it is also possible to populate playlist. In youtube ca
 
     echo "$new"
     
-    mpv --af=lavfi=[loudnorm] --geometry=100%:0% --autofit=50%x50% "$new"
-    
-Usage
-
-    scriptname "youtubeurl" # < yes, you will need quotes.
+    mpv --af=lavfi=[loudnorm] --geometry=100%:0% --autofit=50%x50% "$new"    
     
