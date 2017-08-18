@@ -48,3 +48,7 @@ p.s. With **shift+drag** it is also possible to populate playlist. In youtube ca
     
     mpv --af=lavfi=[loudnorm] --geometry=100%:0% --autofit=50%x50% "$new"
     
+Usage
+
+    scriptname "youtubeurl" # < yes, you will need quotes.
+    
