@@ -179,6 +179,7 @@ Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
     mk-build-deps
     sudo dpkg -i mpv-build-deps(TAB).deb 
     sudo apt-get install -f
+    # ./use-mpv-release
     ./rebuild -j4
     ln -s ~/source/mpv-build/mpv/build/mpv ~/bin/mpv
 
