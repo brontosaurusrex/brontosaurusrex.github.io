@@ -36,7 +36,9 @@ A [script like this one](https://raw.githubusercontent.com/brontosaurusrex/tothe
  
 and in /etc/X11/Xwrapper.conf 
 
-    allowed_users=anybody
+    allowed_users=anybody 
+    # or better 
+    # allowed_users=console
     
 to enable running script without sudo.
 
