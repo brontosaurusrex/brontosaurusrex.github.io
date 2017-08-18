@@ -28,13 +28,14 @@ p.s. With **shift+drag** it is also possible to populate playlist. In youtube ca
     #!/bin/bash
 
     # youtubeMpvList
-    
+
     # usage
     # youtubeMpvList "youtubeurl" # < yes, you will need quotes.
 
     url="$1"
 
-    list=$(echo "$url" | sed -r 's/.*list=([[:alnum:]]*).*/\1/')
+    list=$(echo "$url" | \
+    sed -E 's@https?://(www\.)?youtube.com/(watch\?).*list=([-_a-zA-Z0-9]*).*@\3@')
 
     if [ -z ${list+x} ]; then # if list is empty just ee the url
 
@@ -48,6 +49,6 @@ p.s. With **shift+drag** it is also possible to populate playlist. In youtube ca
     fi
 
     echo "$new"
-    
-    mpv --af=lavfi=[loudnorm] --geometry=100%:0% --autofit=50%x50% "$new"    
+
+    mpv --af=lavfi=[loudnorm] --geometry=100%:0% --autofit=50%x50% "$new"   
     
