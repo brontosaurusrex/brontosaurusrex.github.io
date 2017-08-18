@@ -1,11 +1,14 @@
 ---
-published: false
+published: true
 layout: post
 date: '2017-08-17 23:13 +0200'
-title: 'gnome-mpv, youtube playlist with loudnorm filter'
+title: 'mpv, youtube playlist with loudnorm filter'
 ---
-Under 'Extra MPV options'
+Deconstruct the url removing video entrie, just leave the playlist, like:
 
-    af=lavfi=[lodnorm]
+    stuff="https://www.youtube.com/watch?list=TLGGSbh30LpvVuoxODA4MjAxNw"
+    mpv --af=lavfi=[lodnorm] "$stuff"
     
-[![scrot11456.md.png](https://cdn.scrot.moe/images/2017/08/17/scrot11456.md.png)](https://cdn.scrot.moe/images/2017/08/17/scrot11456.png)
+
+    
+
