@@ -8,9 +8,5 @@ Deconstruct the url removing video entrie, just leave the playlist, like:
 
     vid="https://www.youtube.com/watch?list=TLGGSbh30LpvVuoxODA4MjAxNw"
     mpv --af=lavfi=[loudnorm] "$vid"
-    # or position top-right at 50% width
-    mpv --af=lavfi=[loudnorm] --geometry=100%:0% --autofit=50% "$vid"
-    
-
-    
-
+    # or position top-right at max 50% width or may 50% height
+    mpv --af=lavfi=[loudnorm] --geometry=100%:0% --autofit=50%x50% "$vid"
