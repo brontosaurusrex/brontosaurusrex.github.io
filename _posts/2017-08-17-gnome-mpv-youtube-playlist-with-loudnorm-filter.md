@@ -50,5 +50,8 @@ p.s. With **shift+drag** it is also possible to populate playlist. In youtube ca
 
     echo "$new"
 
-    mpv --af=lavfi=[loudnorm] --geometry=100%:0% --autofit=50%x50% "$new"   
+    mpv --af=lavfi=[loudnorm] --geometry=100%:0% --autofit=50%x50% "$new"
     
+ ## summary with ffmpeg
+ 
+     ffmpeg -i audio.m4a -af loudnorm=print_format=summary -f null -
