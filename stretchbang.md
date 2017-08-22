@@ -182,6 +182,24 @@ Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
     # ./use-mpv-release
     ./rebuild -j4
     ln -s ~/source/mpv-build/mpv/build/mpv ~/bin/mpv
+    
+## adapta (theme)
+
+[https://github.com/adapta-project/adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme)
+
+    sudo apt install autoconf automake libgdk-pixbuf2.0-dev libglib2.0-dev libsass0 libxml2-utils pkg-config sassc parallel
+    cd ~/source
+    git clone https://github.com/adapta-project/adapta-gtk-theme
+    cd adapta(TAB)
+    ./autogen.sh --enable-parallel --disable-gnome
+    make
+    sudo make install
+    
+Left aligned window titles in openbox
+
+    # example:
+    cd /usr/share/themes/Adapta-Nokto/openbox-3
+    sudo sh -c 'echo "window.label.text.justify: left" >> themerc'
 
 # Autologin
 
