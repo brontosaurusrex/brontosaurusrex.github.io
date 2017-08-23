@@ -19,6 +19,6 @@ in tint2rc
     execp_font_color = #111111 100
     execp_padding = 0 0 0
     execp_tooltip = updates
-    execp_lclick_command = urxvt -e bash -c "sudo apt update && sudo apt dist-upgrade && sleep 2"
+    execp_lclick_command = urxvt -e bash -c "sudo apt update && sudo apt dist-upgrade && sleep 5"
     
 [https://forums.bunsenlabs.org/viewtopic.php?pid=59016#p59016](https://forums.bunsenlabs.org/viewtopic.php?pid=59016#p59016)
