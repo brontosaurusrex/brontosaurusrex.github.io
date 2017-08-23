@@ -215,7 +215,7 @@ Left aligned window titles in openbox
 
 <a href="/"><img src="{{site.baseurl}}/public/bronto.png" style="-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH;"></a>
 
-------------------------------------------------------------------------
+---
 
 -   [Install Debian 9](#install-debian-9)
 -   [Themes, icons, fonts](#themes-icons-fonts)
