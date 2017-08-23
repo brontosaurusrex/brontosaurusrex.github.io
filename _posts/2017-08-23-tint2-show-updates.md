@@ -20,3 +20,7 @@ in tint2rc
     execp_lclick_command = urxvt -e bash -c "sudo apt update && sudo apt dist-upgrade && sleep 5"
     
 [https://forums.bunsenlabs.org/viewtopic.php?pid=59016#p59016](https://forums.bunsenlabs.org/viewtopic.php?pid=59016#p59016)
+
+Possible aptitude replacement
+
+    apt list --upgradable
