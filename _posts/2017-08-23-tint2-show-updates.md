@@ -11,7 +11,9 @@ in tint2rc
     execp = new
     execp_centered = 0
     execp_has_icon = 0
-    execp_command = aptitude search "~U" | wc -l
+    # execp_command = aptitude search "~U" | wc -l
+    # or
+    execp_command = LANG=C apt-get upgrade -s | grep -P '^\d+ upgraded'|cut -d" " -f1
     execp_interval = 3600
     execp_font = cuprum 13
     execp_font_color = #111111 100
