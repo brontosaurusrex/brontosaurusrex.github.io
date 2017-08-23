@@ -17,10 +17,10 @@ c. or make *browser* in your ~/bin with something like (assuming we want Adapta,
 
     if cat $HOME/.gtkrc-2.0 | grep Adapta-Nokto ; then
         echo "mkay"
-        GTK_THEME=Adapta /usr/bin/firefox
+        GTK_THEME=Adapta /usr/bin/firefox "$@"
     else
         echo "just using what's there"
-        /usr/bin/firefox
+        /usr/bin/firefox "$@"
     fi
     
 d. or dev theme, which is dark, but does look reasonable  
