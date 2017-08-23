@@ -11,7 +11,7 @@ published: true
 [Official iso](https://www.debian.org/distrib/netinst) or [with non-free firmware](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/)
 
     md5sum *.iso # or
-    md5sum -c MD5SUMS 
+    md5sum -c MD5SUMS
     # firmware-9.1.0-amd64-netinst.iso: OK
 
 Install base system, skip creating root user and sudo should be the automagic default. When asked for additional stuff only select *standard system utilities* and *SSH server* if you so wish.
@@ -22,7 +22,7 @@ Boot into cli, install/configure git, sed, vim
     git config --global core.editor "vim" # optional
 
 get stretchbang git and apply configs
-    
+
     cd && mkdir source && cd source
     git clone https://github.com/brontosaurusrex/stretchbang
     cd stretchbang
@@ -36,14 +36,14 @@ sources.list with some https power
 
     sudo cp -b ect/apt/sources.list /etc/apt
     sudo apt update && sudo apt dist-upgrade
-    
+
 Network-manager
-    
+
     cd source/stretchbang
     sudo cp -b etc/network/interfaces /etc/network
 
 [https://wiki.debian.org/NetworkManager](https://wiki.debian.org/NetworkManager)
-    
+
 Install packages
 
     cd ~/source/stretchbang/packs
@@ -51,7 +51,7 @@ Install packages
     sudo apt install -y --no-install-recommends \
     $(cat baseNoInstallRec.list)
     sudo apt install -y $(cat extra.list) # libre, gimp, inkscape
-    # or run 
+    # or run
     sudo ./installAll # or
     sudo ./installLess
     systemctl reboot
@@ -69,7 +69,7 @@ Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance.
 
     sudo apt install --no-install-recommends wbar wbar-config
     sudo rm /etc/xdg/autostart/wbar.desktop # start wbar in ob autostart
-    
+
 - wbar does not autohide and will not take place on desktop < fix it with some openbox margins (bottom in this case)
 - wbar does not behave very friendly in multi-monitor enviroments.
 - wbar config is local floating point character dependent
@@ -91,7 +91,7 @@ Install dependencies
     # sudo apt install cmake
     cmake ..
     make
-    # make a soft link in ~/bin, 
+    # make a soft link in ~/bin,
     # at next login the new tint2 will be started
     ln -s ~/source/tint2/build/tint2 ~/bin/tint2
 
@@ -125,18 +125,18 @@ Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
     c       center window x
     v       full width, quite some height
     m       move to next monitor
-    
+
     meta +
     f11     fullscreen
     f12     toggle compton # ~/bin/toggleCompton
-    
+
     meta + alt +
     c       center window x and y
-    
+
     Run *shortcuts* in terminal for more.
-    
+
 # Aliases and ~/bin scripts
-    
+
 *fsize 18*      # set urxvt font size  
 *weather*       # weather  
 *today*         # small weather  
@@ -156,7 +156,7 @@ Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
     # xy = language code you want
     sudo apt install -t stretch-backports libreoffice-l10n-xy myspell-xy
     # optional icon theme
-    sudo apt install -t stretch-backports libreoffice-style-breeze 
+    sudo apt install -t stretch-backports libreoffice-style-breeze
 
 ## tilix (from backports)
 
@@ -177,12 +177,12 @@ Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
     git clone https://github.com/mpv-player/mpv-build && cd mpv-build
     # rm any old mpv-build(TAB)
     mk-build-deps
-    sudo dpkg -i mpv-build-deps(TAB).deb 
+    sudo dpkg -i mpv-build-deps(TAB).deb
     sudo apt-get install -f
     # ./use-mpv-release
     ./rebuild -j4
     ln -s ~/source/mpv-build/mpv/build/mpv ~/bin/mpv
-    
+
 ## adapta (theme)
 
 [https://github.com/adapta-project/adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme)
@@ -194,12 +194,14 @@ Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
     ./autogen.sh --enable-parallel --disable-gnome
     make
     sudo make install
-    
+
 Left aligned window titles in openbox
 
     # example:
     cd /usr/share/themes/Adapta-Nokto/openbox-3
     sudo sh -c 'echo "window.label.text.justify: left" >> themerc'
+
+[Keeping firefox bright.](https://brontosaurusrex.github.io/2017/08/23/per-app-theme)
 
 # Autologin
 
@@ -212,4 +214,3 @@ Left aligned window titles in openbox
 [https://github.com/brontosaurusrex/stretchbang/issues](https://github.com/brontosaurusrex/stretchbang/issues)  
 
 <a href="/"><img src="{{site.baseurl}}/public/bronto.png" style="-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH;"></a>
-
