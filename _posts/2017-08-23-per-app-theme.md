@@ -11,7 +11,7 @@ b. or that
 
     GTK_THEME=Adapta firefox
     
-c. or make *browser* in your ~/bin with something like (assuming we want Adapta, which is a light version of Adpata-Nokto)
+c. or make *browser* in your ~/bin with something like (assuming we want Adapta, which is a light version of Adapta-Nokto)
 
     #!/bin/bash
 
