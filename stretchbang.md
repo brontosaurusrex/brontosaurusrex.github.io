@@ -201,7 +201,7 @@ Left aligned window titles in openbox
     cd /usr/share/themes/Adapta-Nokto/openbox-3
     sudo sh -c 'echo "window.label.text.justify: left" >> themerc'
 
-[Keeping firefox bright.](https://brontosaurusrex.github.io/2017/08/23/per-app-theme)
+[Keeping firefox-esr bright.](https://brontosaurusrex.github.io/2017/08/23/per-app-theme)
 
 # Autologin
 
