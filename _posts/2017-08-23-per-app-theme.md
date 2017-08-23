@@ -11,12 +11,19 @@ b. or that
 
     GTK_THEME=Adapta firefox
     
-What's the global launcher-independent solution?
+c. or make *browser* in your ~/bin with something like (assuming we want Adapta, which is a light version of Adpata-Nokto)
 
-c. or make *browser* in your ~/bin with
+    #!/bin/bash
 
-    GTK_THEME=Adapta /usr/bin/firefox
-    # chmod +x browser
+    if cat $HOME/.gtkrc-2.0 | grep Adapta-Nokto ; then
+        echo "mkay"
+        GTK_THEME=Adapta /usr/bin/firefox
+    else
+        echo "just using what's there"
+        /usr/bin/firefox
+    fi
     
 d. or dev theme, which is dark, but does look reasonable  
 [https://addons.mozilla.org/en-US/firefox/addon/devedition-theme-enabler/](https://addons.mozilla.org/en-US/firefox/addon/devedition-theme-enabler/)
+
+All ^ ugly workarounds. What's the global launcher-independent solution?
