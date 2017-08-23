@@ -26,3 +26,5 @@ Possible aptitude replacement
     apt list --upgradable
     # perhaps
     apt list --upgradable 2&> /dev/null | wc -l
+    # to suppress apt 'don't use me in scripts' warning
+    apt list --upgradable | expr $(wc -l) - 1
