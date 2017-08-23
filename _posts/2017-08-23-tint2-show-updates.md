@@ -24,3 +24,5 @@ in tint2rc
 Possible aptitude replacement
 
     apt list --upgradable
+    # perhaps
+    apt list --upgradable 2&> /dev/null | wc -l
