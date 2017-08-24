@@ -81,3 +81,11 @@ Should look like this with Cuprum font
 </svg>
 
 See '[desktop pager with text](https://gitlab.com/o9000/tint2/blob/master/doc/tint2.md#executor)' example.
+
+## xprop
+
+    # current desktop
+    xprop -root | grep "CURRENT_DESKTOP(CARDINAL)
+
+    # how many are there
+    xprop -root | grep "NUMBER_OF_DESKTOPS(CARDINAL)"
