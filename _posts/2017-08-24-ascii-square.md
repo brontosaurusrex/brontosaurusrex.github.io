@@ -89,3 +89,5 @@ See '[desktop pager with text](https://gitlab.com/o9000/tint2/blob/master/doc/ti
 
     # how many are there
     xprop -root | grep "NUMBER_OF_DESKTOPS(CARDINAL)"
+    
+*-spy* Examine window properties forever, looking for property change events.
