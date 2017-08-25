@@ -19,5 +19,9 @@ in tint2rc
     execp_tooltip = updates
     execp_lclick_command = x-terminal-emulator -e /bin/bash -c "sudo apt update && sudo apt dist-upgrade && sleep 5"
     
+show nothing if there is no updates
+    
+	execp_command = num=$(apt list --upgradable | expr $(wc -l) - 1); if [ $num != 0 ]; then echo "$num"; fi    
+    
 [https://forums.bunsenlabs.org/viewtopic.php?pid=59016#p59016](https://forums.bunsenlabs.org/viewtopic.php?pid=59016#p59016)  
 [https://gitlab.com/o9000/tint2/blob/master/doc/tint2.md#executor](https://gitlab.com/o9000/tint2/blob/master/doc/tint2.md#executor)
