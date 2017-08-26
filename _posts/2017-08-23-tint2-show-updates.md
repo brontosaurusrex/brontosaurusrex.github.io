@@ -7,7 +7,6 @@ title: tint2 show updates
 in tint2rc
 
     #-------------------------------------
-    # E = EXECP
     execp = new
     execp_centered = 0
     execp_has_icon = 0
@@ -29,3 +28,17 @@ show nothing if there is no updates
 Yeah, that *apt list* didn't work for some reason, back to aptitude
 
     execp_command = num=$(aptitude search "~U" | wc -l); if [ $num != 0 ]; then echo "$num"; fi
+    
+Full thing including tint2 restart
+
+    #-------------------------------------
+    execp = new
+    execp_centered = 0
+    execp_has_icon = 0
+    execp_command = num=$(aptitude search "~U" | wc -l); if [ $num != 0 ]; then echo "$num"; fi
+    execp_interval = 3600
+    execp_font = cuprum 13
+    execp_font_color = #111111 100
+    execp_padding = 0 0 0
+    execp_tooltip = updates
+    execp_lclick_command = urxvt -e bash -c "sudo apt update && sudo apt dist-upgrade && killall -SIGUSR1 tint2 && sleep 5"
