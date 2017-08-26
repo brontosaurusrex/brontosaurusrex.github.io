@@ -91,3 +91,30 @@ See '[desktop pager with text](https://gitlab.com/o9000/tint2/blob/master/doc/ti
     xprop -root | grep "NUMBER_OF_DESKTOPS(CARDINAL)"
     
 *-spy* Examine window properties forever, looking for property change events.
+
+## continuous desktop spy
+
+    #!/bin/bash
+
+    # spyDesk 
+
+    # continuous desktop spy, to be used in tint2 
+    # executor scripts with 'execp_continuous = 1'
+
+    count=0
+
+    (xprop -root -spy _NET_CURRENT_DESKTOP)  | 
+    while read
+    do
+
+        ((count+=1))
+
+        read -r _ _ desk <<< $(xprop -root _NET_CURRENT_DESKTOP) && ((desk+=1))
+        read -r _ _ num <<< $(xprop -root _NET_NUMBER_OF_DESKTOPS)
+        
+        >&2 echo "($count) desktop $desk / $num"
+        
+        # some real code here
+
+    done
+
