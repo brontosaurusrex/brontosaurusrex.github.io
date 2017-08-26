@@ -65,6 +65,9 @@ a script called aptSpy
     # exit if file is not there
     [[ -f /var/log/apt/history.log ]] || exit 0
 
+    # counter
+    count=0
+
     # a function
     status () {
     num=$(aptitude search "~U" | wc -l); if [ $num != 0 ]; then echo "$num"; fi
@@ -76,10 +79,11 @@ a script called aptSpy
     # spy and react
     while inotifywait -e modify /var/log/apt/history.log > /dev/null 2>&1 ; do
 
-        >&2 echo "something happened!" # should show in cli only and not in tint2
+        ((count+=1))
+        >&2 echo "something happened! $count" # should show in cli only and not in tint2
         status 
-
-    done
+        
+    done 
 
 and in tint2
 
