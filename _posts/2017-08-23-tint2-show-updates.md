@@ -62,18 +62,24 @@ a script called aptSpy
     # apt install inotify-tools aptitude
     # https://gist.github.com/fduran/1870502
 
+    # exit if file is not there
+    [[ -f /var/log/apt/history.log ]] || exit 0
+
+    # a function
     status () {
     num=$(aptitude search "~U" | wc -l); if [ $num != 0 ]; then echo "$num"; fi
     }
 
+    # first one is for free
     status 
 
+    # spy and react
     while inotifywait -e modify /var/log/apt/history.log > /dev/null 2>&1 ; do
 
         >&2 echo "something happened!" # should show in cli only and not in tint2
         status 
 
-    done 
+    done
 
 and in tint2
 
