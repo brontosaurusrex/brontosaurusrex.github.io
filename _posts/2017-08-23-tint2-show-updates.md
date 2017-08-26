@@ -42,3 +42,9 @@ Full thing including tint2 restart (killall -SIGUSR1 tint2 # < should restart ti
     execp_padding = 0 0 0
     execp_tooltip = updates
     execp_lclick_command = urxvt -e bash -c "sudo apt update && sudo apt dist-upgrade && killall -SIGUSR1 tint2 && sleep 5"
+    
+^behavior should be
+- never show nothing if there is no aptitude in system
+- show nothing if there are no updates
+- show number of updates if there are some
+- on lclick run update && reload tint2 (reloading the execp_command as well)
