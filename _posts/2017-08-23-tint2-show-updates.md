@@ -4,6 +4,8 @@ layout: post
 date: '2017-08-23 20:06 +0200'
 title: tint2 show updates
 ---
+## interval - quasi solution
+
 in tint2rc
 
     #-------------------------------------
@@ -48,3 +50,40 @@ Full thing including tint2 restart (killall -SIGUSR1 tint2 # < should restart ti
 - show nothing if there are no updates
 - show number of updates if there are some
 - on lclick run update && reload tint2 (reloading the execp_command as well)
+
+## continuous - possibly real deal
+
+a script called aptSpy
+
+    #!/bin/bash
+
+    # aptSpy
+
+    # apt install inotify-tools aptitude
+    # https://gist.github.com/fduran/1870502
+
+    status () {
+    num=$(aptitude search "~U" | wc -l); if [ $num != 0 ]; then echo "$num"; fi
+    }
+
+    status 
+
+    while inotifywait -e modify /var/log/apt/history.log > /dev/null 2>&1 ; do
+
+        >&2 echo "something happened!" # should show in cli only and not in tint2
+        status 
+
+    done 
+
+and in tint2
+
+    execp = new
+    execp_centered = 0
+    execp_has_icon = 0
+    execp_command = aptSpy
+    execp_continuous = 1
+    execp_font = cuprum 13
+    execp_font_color = #111111 100
+    execp_padding = 0 0 0
+    execp_tooltip = updates
+    execp_lclick_command = urxvt -e bash -c "sudo apt update && sudo apt dist-upgrade && sleep 5"
