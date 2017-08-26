@@ -29,7 +29,7 @@ Yeah, that *apt list* didn't work for some reason, back to aptitude
 
     execp_command = num=$(aptitude search "~U" | wc -l); if [ $num != 0 ]; then echo "$num"; fi
     
-Full thing including tint2 restart
+Full thing including tint2 restart (killall -SIGUSR1 tint2 # < should restart tint2)
 
     #-------------------------------------
     execp = new
