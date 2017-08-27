@@ -53,7 +53,7 @@ Full thing including tint2 restart (killall -SIGUSR1 tint2 # < should restart ti
 
 ## continuous - possibly real deal
 
-a script called aptSpy
+a script called [aptSpy](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/aptSpy)
 
     #!/bin/bash
 
