@@ -55,36 +55,6 @@ Full thing including tint2 restart (killall -SIGUSR1 tint2 # < should restart ti
 
 a script called [aptSpy](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/aptSpy)
 
-    #!/bin/bash
-
-    # aptSpy
-
-    # apt install inotify-tools aptitude
-    # https://gist.github.com/fduran/1870502
-
-    # exit if file is not there
-    [[ -f /var/log/apt/history.log ]] || exit 0
-
-    # counter
-    count=0
-
-    # a function
-    status () {
-    num=$(aptitude search "~U" | wc -l); if [ $num != 0 ]; then echo "$num"; fi
-    }
-
-    # first one is for free
-    status 
-
-    # spy and react
-    while inotifywait -e modify /var/log/apt/history.log > /dev/null 2>&1 ; do
-
-        ((count+=1))
-        >&2 echo "something happened! $count" # should show in cli only and not in tint2
-        status 
-        
-    done 
-
 and in tint2
 
     execp = new
