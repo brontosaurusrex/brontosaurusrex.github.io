@@ -117,4 +117,5 @@ See '[desktop pager with text](https://gitlab.com/o9000/tint2/blob/master/doc/ti
         # some real code here
 
     done
-
+    
+[Full example.](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/deskSpy)
