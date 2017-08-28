@@ -133,4 +133,7 @@ See '[desktop pager with text](https://gitlab.com/o9000/tint2/blob/master/doc/ti
     do
         ((count+=1))
         >&2 echo "($count) resolution changed"
+        
+        # however this fires a bit to often, so some sort of logic to limit that should be here.
+        
     done
