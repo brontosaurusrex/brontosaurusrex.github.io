@@ -8,3 +8,5 @@ title: Jekyll and TOC
     
     * TOC
     {:toc}
+    
+[http://www.seanbuscay.com/blog/jekyll-toc-markdown/](http://www.seanbuscay.com/blog/jekyll-toc-markdown/)
