@@ -95,4 +95,8 @@ see what's out there
 ## I did something audio
 
     flite -voice rms "I did something" >/dev/null 2>&1
+    
+## flames?
+
+[https://github.com/brontosaurusrex/brontosaurusrex.github.io/issues](https://github.com/brontosaurusrex/brontosaurusrex.github.io/issues)
 
