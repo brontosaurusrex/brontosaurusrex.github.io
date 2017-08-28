@@ -54,9 +54,13 @@ They say this is bad due to IO (disk) reads.
     
 ## dump stuff from web pages
 
-    read -r _ temp _<<< $(lynx -dump http://someurl/temp.htm | grep Cityname) && echo "$temp°C"
+    read -r _ temp _<<< $(lynx -dump http://some/link.htm | grep Cityname) && echo "$temp°C"
     
 Lynx may be a fat solution, but it's an easy one.
+
+Another interesting option is combo of wget and xml2/html2
+
+   wget http://some/link.htm -O - -o /dev/null | html2 | #more filtering
 
 ## Check for certain extensions yourself
 
