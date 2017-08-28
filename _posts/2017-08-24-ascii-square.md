@@ -119,3 +119,18 @@ See '[desktop pager with text](https://gitlab.com/o9000/tint2/blob/master/doc/ti
     done
     
 [Full example.](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/deskSpy)
+
+## and similar resolution-change snifer
+
+    #!/bin/bash
+
+    # spyRes
+
+    count=0
+
+    (xprop -root -spy _NET_DESKTOP_GEOMETRY)  | 
+    while read
+    do
+        ((count+=1))
+        >&2 echo "($count) resolution changed"
+    done
