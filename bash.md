@@ -60,7 +60,7 @@ Lynx may be a fat solution, but it's an easy one.
 
 Another interesting option is combo of wget and xml2/html2
 
-   wget http://some/link.htm -O - -o /dev/null | html2 | #more filtering
+    wget http://some/link.htm -O - -o /dev/null | html2 | #more filtering
 
 ## Check for certain extensions yourself
 
