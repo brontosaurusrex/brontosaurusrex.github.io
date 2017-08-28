@@ -12,7 +12,10 @@ Will exit if file is not there, same thing should be used if you use cd in your 
 
     cd /some/path || exit
     
-This will ensure that script doesn't continue if dir doesn't exist.
+This will ensure that script doesn't continue if dir doesn't exist. Another way might be:
+
+    config="$HOME/bin/singularity.cfg"
+    test -f "$config" && source "$config" >/dev/null || { echo "$config does not exist" ; exit 1; }
 
 ## benchmark script
 
@@ -65,3 +68,31 @@ Lynx may be a fat solution, but it's an easy one.
 ## rounding math
 
 [https://brontosaurusrex.github.io/2017/06/10/bash-rounding-n-th-time/](https://brontosaurusrex.github.io/2017/06/10/bash-rounding-n-th-time/)
+
+## add path and modify env
+
+This may be usefull to add to scripts that are run from cron
+
+    PATH="/home/ticho/bin/":$PATH
+    export LC_ALL=en_US.UTF-8
+    
+or one could run firefox with a different theme
+
+    GTK_THEME=Adapta launchee firefox
+    
+see what's out there
+
+    env
+    echo $PATH
+    
+## tmpdir
+
+    # tmp dir http://mywiki.wooledge.org/BashFAQ/062
+    tmpdir="/$out/$RANDOM-$$"
+    trap '[ -n "$tmpdir" ] && rm -fr "$tmpdir"' EXIT
+    mkdir -m 700 "$tmpdir" || { echo '!! unable to create a tmpdir' >&2; tmpdir=; exit 1; }
+    
+## I did something audio
+
+    flite -voice rms "I did something" >/dev/null 2>&1
+
