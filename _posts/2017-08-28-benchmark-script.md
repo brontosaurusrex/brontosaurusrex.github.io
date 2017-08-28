@@ -1,0 +1,13 @@
+---
+published: true
+layout: post
+date: '2017-08-28 18:22 +0200'
+title: benchmark script
+---
+    time for i in $(seq 1000); do script; done
+    
+Output might be
+
+    real    0m2.399s
+    user    0m0.016s
+    sys     0m0.248s
