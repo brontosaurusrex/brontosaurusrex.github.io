@@ -70,6 +70,8 @@ Lynx may be a fat solution, but it's an easy one.
 
 [https://brontosaurusrex.github.io/2017/06/10/bash-rounding-n-th-time/](https://brontosaurusrex.github.io/2017/06/10/bash-rounding-n-th-time/)
 
+The idea is you can do all your floating math using bc, but this will give you final rounding that one would somehow expect.
+
 ## add path and modify env
 
 This may be usefull to add to scripts that are run from cron
