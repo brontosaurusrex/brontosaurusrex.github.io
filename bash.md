@@ -49,6 +49,7 @@ They say this is bad due to IO (disk) reads.
     file=$(readlink -f "$1")       # quasi absolute
     baseext=$(basename "${1}")     # file.ext
     base="${baseext%.*}"           # file
+    ext="${file##*.}"              # ext
     dir=$(dirname "${file}")       # directory
     
 ## dump stuff from web pages
