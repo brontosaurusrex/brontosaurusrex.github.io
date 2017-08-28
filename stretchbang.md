@@ -214,3 +214,8 @@ Left aligned window titles in openbox
 [https://github.com/brontosaurusrex/stretchbang/issues](https://github.com/brontosaurusrex/stretchbang/issues)  
 
 <a href="/"><img src="{{site.baseurl}}/public/bronto.png" style="-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH;"></a>
+
+## TOC
+
+* TOC
+{:toc}
