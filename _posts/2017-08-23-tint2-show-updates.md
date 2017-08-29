@@ -67,3 +67,5 @@ and in tint2
     execp_padding = 0 0 0
     execp_tooltip = updates
     execp_lclick_command = urxvt -e bash -c "sudo apt update && sudo apt dist-upgrade && sleep 5"
+    
+^ That didn't work either, in tint2 context it never firest the background loop, the one that snifs for file changes.
