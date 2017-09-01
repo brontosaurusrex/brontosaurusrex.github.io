@@ -110,7 +110,10 @@ Install dependencies
     firefox-esr *.xpi
     # yes, yes, restart
     
-If uBlock is to new for your firefox, workaround might be to install [older version](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/versions/beta).
+If uBlock is to new, workaround might be to install [older version](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/versions/beta).
+
+## hosts file
+[http://someonewhocares.org/hosts/zero/](http://someonewhocares.org/hosts/zero/)
 
 ## geany
 [![geany.png](https://cdn.scrot.moe/images/2017/08/01/geany.png)](https://cdn.scrot.moe/images/2017/08/01/geany.png)
