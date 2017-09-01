@@ -109,6 +109,8 @@ Install dependencies
     wget https://addons.mozilla.org/firefox/downloads/latest/scrollbaranywhere/addon-292702-latest.xpi
     firefox-esr *.xpi
     # yes, yes, restart
+    
+If uBlock is to new for your firefox, workaround might be to install [older version](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/versions/beta).
 
 ## geany
 [![geany.png](https://cdn.scrot.moe/images/2017/08/01/geany.png)](https://cdn.scrot.moe/images/2017/08/01/geany.png)
