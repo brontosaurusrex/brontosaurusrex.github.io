@@ -8,4 +8,8 @@ In *custom actions* define one with
 
     echo %N | xclip -selection clipboard
     
-and in *apperance conditions* enable everything. Useful but limited.
+and in *apperance conditions* enable everything. Useful but limited. Or
+
+    echo "%N" | xclip -selection clipboard
+    
+which should return 'filenames with single quotes'.
