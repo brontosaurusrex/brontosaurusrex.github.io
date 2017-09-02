@@ -115,6 +115,17 @@ If uBlock is to new, workaround might be to install [older version](https://addo
 ## hosts file
 [http://someonewhocares.org/hosts/zero/](http://someonewhocares.org/hosts/zero/)
 
+    cd /etc || exit
+    # copy/backup original
+    sudo cp hosts hosts.bak # or sudo cp hosts{,.bak} 
+    cp hosts ~/tmp/orig
+    cd ~/tmp || exit
+    # get the bad-sites host blocking file
+    wget http://someonewhocares.org/hosts/zero/hosts -O zero
+    # cat them together
+    cat zero orig > hosts
+    sudo cp -b hosts /etc
+
 ## geany
 [![geany.png](https://cdn.scrot.moe/images/2017/08/01/geany.png)](https://cdn.scrot.moe/images/2017/08/01/geany.png)
 
