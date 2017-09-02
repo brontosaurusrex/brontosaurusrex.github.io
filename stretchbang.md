@@ -119,7 +119,7 @@ If uBlock is to new, workaround might be to install [older version](https://addo
 [![geany.png](https://cdn.scrot.moe/images/2017/08/01/geany.png)](https://cdn.scrot.moe/images/2017/08/01/geany.png)
 
 ## openbox menu and pipe script
-Static menu with a dynamic twist (powered by *~/bin/pipeMisc*).
+Static menu with a dynamic twist (powered by *pipeMisc* and *pipeSysInfo*).
 
 ![menu]({{site.baseurl}}/media/stretchMenu.png)
 
