@@ -268,8 +268,3 @@ Making [gsimplecal](https://brontosaurusrex.github.io/2017/08/09/gsimplecal-loca
 
 * TOC
 {:toc}
-
-# asciicast
-
-of the base install
-[https://asciinema.org/a/F3A0eG9j20WLucLu7v1gZ0Y7n](https://asciinema.org/a/F3A0eG9j20WLucLu7v1gZ0Y7n)
