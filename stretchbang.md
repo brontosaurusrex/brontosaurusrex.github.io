@@ -208,6 +208,22 @@ Left aligned window titles in openbox
 
 [Keeping firefox-esr bright.](https://brontosaurusrex.github.io/2017/08/23/per-app-theme)
 
+## mandelbulber2
+
+    firefox https://sourceforge.net/projects/mandelbulber/files/latest/download
+    # unpack to ~/source (unp mandelTAB) and read the README
+    # Should look like:
+    sudo apt install build-essential libqt5gui5 qt5-default libpng16-16 libpng-dev qttools5-dev qttools5-dev-tools libgomp1 libgsl-dev qtmultimedia5-dev libsndfile1-dev libqt5multimedia5-plugins liblzo2-2 liblzo2-dev
+    # cd to where you unpacked
+    cd makefiles
+    qmake mandelbulber.pro
+    make all
+    # will take a while
+    cd ..
+    ./install
+    # delete old settings
+    rm -rf ~/mandelbulber ~/.mandelbulber # carefull
+
 # Autologin
 
     sudo vi /etc/lightdm/lightdm.conf
