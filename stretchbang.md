@@ -264,13 +264,12 @@ Making [gsimplecal](https://brontosaurusrex.github.io/2017/08/09/gsimplecal-loca
 
 <a href="/"><img src="{{site.baseurl}}/public/bronto.png" style="-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH;"></a>
 
-# asciicast
-
-of the base install
-
-[![asciicast](https://asciinema.org/a/F3A0eG9j20WLucLu7v1gZ0Y7n.png)](https://asciinema.org/a/F3A0eG9j20WLucLu7v1gZ0Y7n)
-
 # TOC
 
 * TOC
 {:toc}
+
+# asciicast
+
+of the base install
+[https://asciinema.org/a/F3A0eG9j20WLucLu7v1gZ0Y7n](https://asciinema.org/a/F3A0eG9j20WLucLu7v1gZ0Y7n)
