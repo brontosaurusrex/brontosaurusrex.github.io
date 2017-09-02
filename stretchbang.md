@@ -109,7 +109,7 @@ Install dependencies
     wget https://addons.mozilla.org/firefox/downloads/latest/scrollbaranywhere/addon-292702-latest.xpi
     firefox-esr *.xpi
     # yes, yes, restart
-    
+
 If uBlock is to new, workaround might be to install [older version](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/versions/beta).
 
 ## hosts file
@@ -117,7 +117,7 @@ If uBlock is to new, workaround might be to install [older version](https://addo
 
     cd /etc || exit
     # copy/backup original
-    sudo cp hosts hosts.bak # or sudo cp hosts{,.bak} 
+    sudo cp hosts hosts.bak # or sudo cp hosts{,.bak}
     cp hosts ~/tmp/orig
     cd ~/tmp || exit
     # get the bad-sites host blocking file
@@ -235,8 +235,15 @@ Left aligned window titles in openbox
     ./install
     # delete old settings
     rm -rf ~/mandelbulber ~/.mandelbulber # careful
-    
+
 [![mandel](https://cdn.scrot.moe/images/2017/09/02/mandelThumb.jpg)](https://scrot.moe/search/images/?q=mandelbulber)
+
+## atom.io
+
+    cd ~/tmp && wget wget https://atom.io/download/deb -O atom.deb
+    sudo dpkg -i atom.deb && rm atom.deb
+
+![https://cdn.scrot.moe/images/2017/09/02/atomMarkdown.png](https://cdn.scrot.moe/images/2017/09/02/atomMarkdown.png)
 
 # Autologin
 
