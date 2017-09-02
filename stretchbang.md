@@ -251,6 +251,13 @@ Left aligned window titles in openbox
     # under [Seat:*] enable
     autologin-user=yourUserName
 
+# locale
+
+    locale -a # list available
+    sudo dpkg-reconfigure locales # add some
+
+Making [gsimplecal](https://brontosaurusrex.github.io/2017/08/09/gsimplecal-localized/) to start week with your [locale](https://wiki.archlinux.org/index.php/locale).
+
 # Comments?
 
 [https://github.com/brontosaurusrex/stretchbang/issues](https://github.com/brontosaurusrex/stretchbang/issues)  
