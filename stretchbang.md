@@ -223,6 +223,8 @@ Left aligned window titles in openbox
     ./install
     # delete old settings
     rm -rf ~/mandelbulber ~/.mandelbulber # carefull
+    
+[![mandel](https://cdn.scrot.moe/images/2017/09/02/mandelThumb.jpg)](https://scrot.moe/search/images/?q=mandelbulber)
 
 # Autologin
 
