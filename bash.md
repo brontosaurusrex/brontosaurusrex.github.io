@@ -67,6 +67,12 @@ Lynx may be a fat solution, but it's an easy one.
 Another interesting option is combo of wget and xml2/html2
 
     wget http://some/link.htm -O - -o /dev/null | html2 | #more filtering
+    
+## grep AND
+
+    lynx -listonly -nonumbers -dump https://builder.blender.org/download/ | grep "$bits" | grep linux | grep https | grep tar | head -1
+    
+Such grep sequence will behave as logical AND, there are other shorter ways.
 
 ## Check for certain extensions yourself
 
