@@ -17,6 +17,10 @@ This will ensure that script doesn't continue if dir doesn't exist. Another way 
     config="$HOME/bin/singularity.cfg"
     test -f "$config" && source "$config" >/dev/null || { echo "$config does not exist" ; exit 1; }
     
+Do something if directory is there
+
+    [[ -d $HOME/apps/blender ]] && mv "$HOME/apps/blender" "$HOME/apps/blender_bak_$RANDOM"
+    
 ## mkdir
 
 Only if one is not already there, should also be recursive
