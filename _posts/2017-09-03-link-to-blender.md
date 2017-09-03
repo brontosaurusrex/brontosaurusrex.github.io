@@ -19,3 +19,7 @@ Sequence of greps is an easy way to get 'grep AND logic'. Head -1 should limit r
     tar xvjf blender-tmp --directory blender --strip-components=1
     rm blender-tmp
     # move 'blender' dir manually to say ~/apps
+    
+ ## script
+ 
+ [https://github.com/brontosaurusrex/stretchbang/blob/master/getBlender](https://github.com/brontosaurusrex/stretchbang/blob/master/getBlender)
