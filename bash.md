@@ -22,6 +22,10 @@ This will ensure that script doesn't continue if dir doesn't exist. Another way 
 Only if one is not already there, should also be recursive
 
     mkdir -p ~/tmp/stuff
+    
+## exit if var is empty
+
+    [[ -z "$url" ]] && (echo "no url for you" && exit 1)
 
 ## benchmark script
 
