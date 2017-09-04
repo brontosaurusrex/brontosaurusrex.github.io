@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 date: '2017-09-04 19:07 +0200'
 title: Sovražni govor
