@@ -253,6 +253,11 @@ Get one from [https://builder.blender.org/download/](https://builder.blender.org
 
 which should download/unpack new one to ~/apps/blender. Script should also work for updates, since it will move/backup old version automagically.
 
+Blender configs might be in
+
+    ~/.config/blender/2.79/config
+    # ^ Nuke that if you wish to start fresh.
+
 # Autologin
 
     sudo vi /etc/lightdm/lightdm.conf
