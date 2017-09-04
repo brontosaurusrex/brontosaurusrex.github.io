@@ -13,7 +13,7 @@ title: Jekyll and TOC
 
 Or to have no toc entry for toc itself
 
-    # TOC
+    ## TOC
     {:.no_toc}
 
     * TOC
