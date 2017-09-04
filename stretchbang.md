@@ -286,6 +286,7 @@ Blender configs might be in
 <a href="/"><img src="{{site.baseurl}}/public/bronto.png" style="-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH;"></a>
 
 # TOC
+{:.no_toc}
 
 * TOC
 {:toc}
