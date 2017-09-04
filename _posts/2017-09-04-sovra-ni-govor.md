@@ -8,8 +8,6 @@ title: Sovražni govor
 
 Statistika je od 2007-2012 (Manjka zadnjih pet let?), št.obsodb je v letu 2012 več kot 10%, glede na število prijav očesa 13/92.
 
-Citati:
-
 > ## Kaj je sovražni govor?
 
 > Sovražni govor je izražanje mnenj in idej, ki so po svoji naravi diskriminatorne (ksenofobične, rasistične, homofobične in podobno) in uperjene proti različnim manjšinam (etničnim, narodnim, verskim, kulturnim, spolnim in podobno).
