@@ -256,7 +256,7 @@ Left aligned window titles in openbox
     cd ~/tmp && wget https://atom.io/download/deb -O atom.deb
     sudo dpkg -i atom.deb && rm atom.deb
 
-![https://cdn.scrot.moe/images/2017/09/02/atomMarkdown.png](https://cdn.scrot.moe/images/2017/09/02/atomMarkdown.png)
+[![atom](https://cdn.scrot.moe/images/2017/09/02/atomMarkdown.png)](https://cdn.scrot.moe/images/2017/09/02/atomMarkdown.png)
 
 ## blender
 
