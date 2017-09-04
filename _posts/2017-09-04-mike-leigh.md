@@ -10,5 +10,6 @@ Leigh wrote, in 1970
 
 Most of his work in theatre and film is done without any initial script. He and the actors improvise their characters and the scenes under his overall control.
 
-[http://www.imdb.com/name/nm0005139/](http://www.imdb.com/name/nm0005139/)
+[http://www.imdb.com/name/nm0005139/](http://www.imdb.com/name/nm0005139/)  
+[https://www.amazon.com/Mike-Leigh-Directors/dp/0571204694](https://www.amazon.com/Mike-Leigh-Directors/dp/0571204694)
 
