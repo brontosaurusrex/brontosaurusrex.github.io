@@ -48,7 +48,7 @@ body {
 }
 
 html {
-  font-family: "Junction", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -59,7 +59,7 @@ html {
 }
 
 body {
-  color: #313131;
+  color: #515151;
   background-color: #eee;
 
   -webkit-text-size-adjust: 100%;
@@ -80,13 +80,13 @@ a:focus {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
-  font-weight: normal;
+  font-weight: bold;
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 h2 {
   margin-top: 1rem;
@@ -213,7 +213,7 @@ blockquote p:last-child {
   }
 }
 
-img, iframe {
+img {
   display: block;
   margin: 0 0 1rem;
   border-radius: 5px;
@@ -374,10 +374,9 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: Junction, "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
-  
 }
 
 /* Pagination items can be `span`s or `a`s */
