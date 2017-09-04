@@ -255,7 +255,7 @@ which should download/unpack new one to ~/apps/blender. Script should also work 
 
 Blender configs might be in
 
-    ~/.config/blender/2.79/config
+    ~/.config/blender/2.79
     # ^ Nuke that if you wish to start fresh.
 
 # Autologin
