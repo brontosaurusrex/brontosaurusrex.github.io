@@ -8,7 +8,7 @@ title: Sovražni govor
 
 Statistika je od 2007-2012 (Manjka zadnjih pet let?), št.obsodb je v letu 2012 več kot 10%, glede na število prijav očesa 13/92.
 
-Citiram:
+Citati:
 
 > ## Kaj je sovražni govor?
 
