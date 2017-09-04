@@ -164,6 +164,19 @@ Static menu with a dynamic twist (powered by *pipeMisc* and *pipeSysInfo*).
 *up*            # apt update/upgrade  
 *search*        # apt-cache search  
 
+# Autologin
+
+    sudo vi /etc/lightdm/lightdm.conf
+    # under [Seat:*] enable
+    autologin-user=yourUserName
+
+# locale
+
+    locale -a # list available
+    sudo dpkg-reconfigure locales # add some
+
+Making [gsimplecal](https://brontosaurusrex.github.io/2017/08/09/gsimplecal-localized/) to start week with your [locale](https://wiki.archlinux.org/index.php/locale).
+
 # Bleeding edge
 
 ## libreoffice (from backports)
@@ -258,18 +271,11 @@ Blender configs might be in
     ~/.config/blender/2.79
     # ^ Nuke that if you wish to start fresh.
 
-# Autologin
+## sift
 
-    sudo vi /etc/lightdm/lightdm.conf
-    # under [Seat:*] enable
-    autologin-user=yourUserName
+    ./getSift # sift to ~/bin
 
-# locale
-
-    locale -a # list available
-    sudo dpkg-reconfigure locales # add some
-
-Making [gsimplecal](https://brontosaurusrex.github.io/2017/08/09/gsimplecal-localized/) to start week with your [locale](https://wiki.archlinux.org/index.php/locale).
+[Grep on steroids](https://sift-tool.org/). Also check ack (should be installed).
 
 # Comments?
 
