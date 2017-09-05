@@ -232,7 +232,7 @@ Left aligned window titles in openbox
     cd /usr/share/themes/Adapta-Nokto/openbox-3
     sudo sh -c 'echo "window.label.text.justify: left" >> themerc'
 
-[![cosIcan.md.png](https://cdn.scrot.moe/images/2017/09/05/cosIcan.md.png)](https://cdn.scrot.moe/images/2017/09/05/cosIcan.png)
+[![cosIcan.md.png](https://cdn.scrot.moe/images/2017/09/05/cosIcanThumb.jpg)](https://cdn.scrot.moe/images/2017/09/05/cosIcan.png)
 
 [Keeping firefox-esr bright.](https://brontosaurusrex.github.io/2017/08/23/per-app-theme)
 
