@@ -115,7 +115,7 @@ see what's out there
 ## tmpdir
 
     # tmp dir http://mywiki.wooledge.org/BashFAQ/062
-    tmpdir="/tmp/$RANDOM-$$"
+    tmpdir="/tmp/$RANDOM-$$"
     trap '[ -n "$tmpdir" ] && rm -fr "$tmpdir"' EXIT
     mkdir -m 700 "$tmpdir" || { echo '!! unable to create a tmpdir' >&2; tmpdir=; exit 1; }
     
