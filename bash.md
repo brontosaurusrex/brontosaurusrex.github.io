@@ -92,9 +92,47 @@ Such grep sequence will behave as logical AND, there are other shorter ways.
 
 ## rounding math
 
+    # awk_round
+
+    awk_round () {
+        awk 'BEGIN{printf "%."'$1'"f\n", "'$2'"}'
+    }
+
+    awk_round "$1" "$2"
+
 [https://brontosaurusrex.github.io/2017/06/10/bash-rounding-n-th-time/](https://brontosaurusrex.github.io/2017/06/10/bash-rounding-n-th-time/)
 
 The idea is you can do all your floating math using bc, but this will give you final rounding that one would somehow expect.
+
+## awk calc function
+
+    calca() #@ Perform arithmetic, including decimal fractions
+    {
+    local result=$(awk 'BEGIN { OFMT="%f"; print '"$*"'; exit}')
+    case $result in
+    *.*0) result=${result%"${result##*[!0]}"} ;;
+    esac
+    printf "%s\n" "$result"
+    }
+
+    calca 1/3
+    
+> that characters special to the shell must be escaped or quoted on the
+command line. This applies particularly to the multiplication symbol, *.
+
+From the book: Pro Bash Programming
+
+*Not battle-tested, not benchmarked.*
+
+## bc calc function
+
+    calc () {
+        echo "scale=5; $*" | bc
+    }
+
+    calc 1/2
+
+*Not battle-tested, not benchmarked.*
 
 ## add path and modify env
 
