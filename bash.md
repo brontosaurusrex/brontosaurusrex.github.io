@@ -135,7 +135,15 @@ From the book: Pro Bash Programming
 
     calc 1/2
 
-*Not battle-tested, not benchmarked.*
+*Not battle-tested*
+
+or prettier,
+
+    calc2 () {
+         bc <<< "scale=5; $*"
+    }
+    
+but slower than echo/pipe version above.
 
 ## add path and modify env
 
