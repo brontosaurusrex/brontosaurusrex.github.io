@@ -143,7 +143,7 @@ or prettier,
          bc <<< "scale=5; $*"
     }
     
-but slower than echo/pipe version above.
+but slower than echo/pipe version above. '<<<' is called here-string.
 
 ## add path and modify env
 
