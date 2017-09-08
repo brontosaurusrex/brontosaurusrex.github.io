@@ -252,6 +252,16 @@ Left aligned window titles in openbox
     ./install
     # delete old settings
     rm -rf ~/mandelbulber ~/.mandelbulber # careful
+    
+To have a [gtk2-like-look](https://forums.bunsenlabs.org/viewtopic.php?id=4151) consistent with the rest of the system
+
+    sudo apt install qt5-style-plugins libqt5svg5
+    
+To .xsessionrc add
+
+    for qt5 apps
+    #export QT_STYLE_OVERRIDE=GTK+
+    export QT_QPA_PLATFORMTHEME=gtk2
 
 [![mandel](https://cdn.scrot.moe/images/2017/09/02/mandelThumb.jpg)](https://scrot.moe/search/images/?q=mandelbulber)
 
