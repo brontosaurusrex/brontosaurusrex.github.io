@@ -65,6 +65,9 @@ They say this is bad due to IO (disk) reads.
     base="${baseext%.*}"           # file
     ext="${file##*.}"              # ext
     dir=$(dirname "${file}")       # directory
+
+
+[http://mywiki.wooledge.org/BashFAQ/073](http://mywiki.wooledge.org/BashFAQ/073)
     
 ## dump stuff from web pages
 
