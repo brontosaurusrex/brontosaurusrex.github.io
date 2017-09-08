@@ -257,7 +257,7 @@ To have a [gtk2-like-look](https://forums.bunsenlabs.org/viewtopic.php?id=4151) 
 
     sudo apt install qt5-style-plugins libqt5svg5
     
-To .xsessionrc add
+Into ~/.xsessionrc add
 
     for qt5 apps
     #export QT_STYLE_OVERRIDE=GTK+
