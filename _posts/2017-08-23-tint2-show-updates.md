@@ -68,7 +68,5 @@ and in tint2
     execp_tooltip = updates
     execp_lclick_command = urxvt -e bash -c "sudo apt update && sudo apt dist-upgrade && sleep 5"
     
-^ That didn't work either, in tint2 context it never fires the background loop, the one that snifs for file changes (or it seems that way).  
-
 [http://aptitude.alioth.debian.org/doc/en/ch02s04s05.html#searchUpgradable](http://aptitude.alioth.debian.org/doc/en/ch02s04s05.html#searchUpgradable)  
-Note that *aptitude search "~U"* will also return upgradable packages breaking stable>backports barrier, which is probably not what would one want most of the time.
+Note that *aptitude search "~U"* will also return upgradable packages breaking that invisible stable > backports barrier.
