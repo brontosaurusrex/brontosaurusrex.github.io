@@ -21,6 +21,31 @@ Do something if directory is there
 
     [[ -d $HOME/apps/blender ]] && mv "$HOME/apps/blender" "$HOME/apps/blender_bak_$RANDOM"
     
+With if
+
+    if [ -f "$HOME/.pcalc.txt" ]; then
+        echo "$(tail -n 100 "$HOME/.pcalc.txt")" > "$HOME/.pcalc.txt"
+    fi
+    
+Note that -e would be any file/dir/socket/node, -d is dir and so on
+
+    -b filename - Block special file
+    -c filename - Special character file
+    -d directoryname - Check for directory Existence
+    -e filename - Check for file existence, regardless of type (node, directory, socket, etc.)
+    -f filename - Check for regular file existence not a directory
+    -G filename - Check if file exists and is owned by effective group ID
+    -G filename set-group-id - True if file exists and is set-group-id
+    -k filename - Sticky bit
+    -L filename - Symbolic link
+    -O filename - True if file exists and is owned by the effective user id
+    -r filename - Check if file is a readable
+    -S filename - Check if file is socket
+    -s filename - Check if file is nonzero size
+    -u filename - Check if file set-user-id bit is set
+    -w filename - Check if file is writable
+    -x filename - Check if file is executable
+    
 ## mkdir
 
 Only if one is not already there, should also be recursive
@@ -171,6 +196,31 @@ see what's out there
 ## I did something audio
 
     flite -voice rms "I did something" >/dev/null 2>&1
+    
+## isNumber function
+
+    # function
+    shopt -s extglob
+    isNumber() {
+    var="$1"
+    # ˇ will fail for numbers like 4.044676226059745e-17 (so called scientific notation)
+    if [[ $var = @(*[0-9]*|!([+-]|)) && $var = ?([+-])*([0-9])?(.*([0-9])) ]]; then 
+      #echo "fine"
+      ans="$var"
+      true  # return 0
+    else 
+      #echo "bad"
+      ans="0"
+      false # return 1
+    fi
+    }
+    
+examples
+    
+    ans="33.3"
+    if isNumber "$ans"; then # do something
+    ans="a"
+    isNumber "$ans"          # $ans will be 0 if not a number
     
 ## flames?
 
