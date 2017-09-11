@@ -33,6 +33,4 @@ Improvement would be to load last n lines from log at next start and assign last
 
 ## ipython ?
 
-In stretch repos (ipython3)
-
-[https://ipython.org/](https://ipython.org/)
+In stretch repos ([ipython3](http://ipython.org/))
