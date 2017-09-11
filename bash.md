@@ -4,6 +4,12 @@ title: bash and friends
 published: true
 ---
 
+## TOC
+{:.no_toc}
+
+* TOC
+{:toc}
+
 ## no file for you
 
     [[ -f /var/log/apt/history.log ]] || exit
@@ -228,6 +234,7 @@ examples
 [https://github.com/brontosaurusrex/brontosaurusrex.github.io/issues](https://github.com/brontosaurusrex/brontosaurusrex.github.io/issues)
 
 ## TOC
+{:.no_toc}
 
 * TOC
 {:toc}
