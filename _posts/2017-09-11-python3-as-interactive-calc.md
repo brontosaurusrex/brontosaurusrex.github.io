@@ -8,7 +8,7 @@ Start python3 with empty prompt
 
     python3 -ic "import sys; sys.ps1=''"
     
-[script](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/pycalcInteractive) with some logging
+[script](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/pycalc) with some logging
 
     #!/bin/bash
 
