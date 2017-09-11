@@ -153,17 +153,17 @@ Static menu with a dynamic twist (powered by *pipeMisc* and *pipeSysInfo*).
 
 # Aliases and ~/bin scripts
 
-*fsize 18*      # set urxvt font size  
-*weather*       # weather  
-*today*         # small weather  
-*pipeSysInfo*   # extremly basic sysinfo  
-*bronto*        # asci brontographics  
-*easyfind file* # find files using find/grep
-*findosaurus -h # find files using find (beta) 
-*duh*           # ncdu's lil brother - disk space usage  
-*lst*           # ls by date  
-*up*            # apt update/upgrade  
-*search*        # apt-cache search  
+    fsize 18       # set urxvt font size  
+    weather        # weather  
+    today          # small weather  
+    pipeSysInfo    # extremly basic sysinfo  
+    bronto         # asci brontographics  
+    easyfind file  # find files using find/grep  
+    findosaurus -h # find files using find (beta)  
+    duh            # ncdu's lil brother - disk space usage  
+    lst            # ls by date  
+    up             # apt update/upgrade  
+    search         # apt-cache search  
 
 # Autologin
 
