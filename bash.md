@@ -232,9 +232,3 @@ examples
 ## flames?
 
 [https://github.com/brontosaurusrex/brontosaurusrex.github.io/issues](https://github.com/brontosaurusrex/brontosaurusrex.github.io/issues)
-
-## TOC
-{:.no_toc}
-
-* TOC
-{:toc}
