@@ -21,7 +21,7 @@ script with some logging
 
 Improvement would be to load last n lines from log at next start and assign last valid result to python's result variable.
 
-This can't be in the same script (due to various subshell jokes?)
+This could be used in some other script or interactively, get last valid numeral to bash $ans 
 
 	# latest result to bash $ans
 	ans=$(grep -E '[[:digit:]]' "$HOME/.pcalc.txt" | tail -1)
