@@ -70,3 +70,5 @@ and in tint2
     
 [http://aptitude.alioth.debian.org/doc/en/ch02s04s05.html#searchUpgradable](http://aptitude.alioth.debian.org/doc/en/ch02s04s05.html#searchUpgradable)  
 Note that *aptitude search "~U"* will also return upgradable packages breaking that invisible stable > backports barrier.
+
+edit: Not really working, possible real 'solution' would be a combo with unattended-upgrades (set to get upgrades, but not install them) and apt-listchanges. Also script should fire at the end of upgrade (I don't think it does correctly now). Best way is still possible to do nothing and let user do it when if feels like.
