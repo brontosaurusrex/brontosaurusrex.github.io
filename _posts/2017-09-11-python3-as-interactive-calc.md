@@ -10,5 +10,10 @@ Start python3 with empty prompt
     
 with some logging
 
-    script -a "$HOME/.pcalc.txt" -c "python3 -ic \"import sys; sys.ps1=''\""
-    # not working ^
+    #!/bin/bash
+
+    # pycalcInteractive
+
+    # main
+    script -q -a "$HOME/.pcalc.txt" -c "python3 -ic \"import sys; sys.ps1=''\""
+    exit
