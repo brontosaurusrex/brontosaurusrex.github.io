@@ -24,9 +24,3 @@ script with some logging
 ^ This will start python3 with empty prompt and log everything to ~/.pcalc.txt
 
 Improvement would be to load last n lines from log at next start and assign last valid result to python's result variable.
-
-This could be used in some other script or interactively, get last valid numeral to bash $ans 
-
-	# latest result to bash $ans
-	ans=$(grep -E '[[:digit:]]' "$HOME/.pcalc.txt" | tail -1)
-	echo $ans
