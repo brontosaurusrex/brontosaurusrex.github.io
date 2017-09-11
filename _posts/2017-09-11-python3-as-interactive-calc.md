@@ -7,8 +7,8 @@ title: python3 as interactive calc
 Start python3 with empty prompt
 
     python3 -ic "import sys; sys.ps1=''"
-    
-[script](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/pycalc) with some logging
+
+simple script
 
     #!/bin/bash
 
@@ -38,3 +38,27 @@ p.s. Improvement would be to load last n lines from log at next start and assign
 ## ipython ?
 
 In stretch repos ([ipython3](http://ipython.org/))
+
+## [pycalc script](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/pycalc) example usage
+
+    pycalc -n 10*10 # noninteractive
+    100
+
+    pycalc # interactive, reads ~/.pans.txt to py ans variable
+    ans
+    100
+    ans*10
+    1000
+    _+1
+    1001
+    _+ans
+    1101
+    exit()
+    storing ans 1101 to ~/.pans.txt
+
+    pycalc # 2nd session
+    ans
+    1101
+    exit()
+    storing ans 1101 to ~/.pans.txt
+
