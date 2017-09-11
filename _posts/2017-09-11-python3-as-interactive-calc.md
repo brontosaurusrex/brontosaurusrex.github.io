@@ -29,7 +29,11 @@ Start python3 with empty prompt
     # back in bash
     echo $ans
 
-Improvement would be to load last n lines from log at next start and assign last valid result to python's result variable.
+or don't *source* and do an alias like
+
+    alias ans='cat ~/.pans.txt
+
+p.s. Improvement would be to load last n lines from log at next start and assign last valid result to python's result variable.
 
 ## ipython ?
 
