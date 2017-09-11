@@ -30,3 +30,9 @@ Start python3 with empty prompt
     echo $ans
 
 Improvement would be to load last n lines from log at next start and assign last valid result to python's result variable.
+
+## ipython ?
+
+In stretch repos (ipython3)
+
+[https://ipython.org/](https://ipython.org/)
