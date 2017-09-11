@@ -163,7 +163,7 @@ Static menu with a dynamic twist (powered by *pipeMisc* and *pipeSysInfo*).
     duh            # ncdu's lil brother - disk space usage  
     lst            # ls by date  
     up             # apt update/upgrade  
-    search         # apt-cache search  
+    search         # apt-cache search
 
 # Autologin
 
