@@ -158,7 +158,8 @@ Static menu with a dynamic twist (powered by *pipeMisc* and *pipeSysInfo*).
 *today*         # small weather  
 *pipeSysInfo*   # extremly basic sysinfo  
 *bronto*        # asci brontographics  
-*easyfind file* # find files using find/grep  
+*easyfind file* # find files using find/grep
+*findosaurus -h # find files using find (beta) 
 *duh*           # ncdu's lil brother - disk space usage  
 *lst*           # ls by date  
 *up*            # apt update/upgrade  
