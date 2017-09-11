@@ -25,6 +25,7 @@ Start python3 with empty prompt
 
     source bin/pycalcInteractive
     # do your calc
+    # - - -
     # back in bash
     echo $ans
 
