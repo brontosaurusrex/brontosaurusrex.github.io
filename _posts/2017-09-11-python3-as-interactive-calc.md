@@ -7,3 +7,8 @@ title: python3 as interactive calc
 Start python3 with empty prompt
 
     python3 -ic "import sys; sys.ps1=''"
+    
+with some logging
+
+    script -a "$HOME/.pcalc.txt" -c "python3 -ic \"import sys; sys.ps1=''\""
+    # not working ^
