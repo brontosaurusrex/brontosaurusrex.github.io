@@ -14,7 +14,7 @@ script with some logging
 
     # pycalcInteractive
 
-    # main
+    # action
     script -q -a "$HOME/.pcalc.txt" -c "python3 -ic \"import sys; sys.ps1=''\""
     
 ^ This will start python3 with empty prompt and log everything to ~/.pcalc.txt
