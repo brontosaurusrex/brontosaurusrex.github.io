@@ -23,8 +23,9 @@ Do something if directory is there
     
 With if
 
-    if [ -f "$HOME/.pcalc.txt" ]; then
-        echo "$(tail -n 100 "$HOME/.pcalc.txt")" > "$HOME/.pcalc.txt"
+    file="$HOME/.pcalc.txt"
+    if [ -f "$file" ]; then
+        tail -n 100 "$file" > "$file.tmp" && mv "$file.tmp" "$file"
     fi
     
 Note that -e would be any file/dir/socket/node, -d is dir and so on
