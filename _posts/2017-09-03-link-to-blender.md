@@ -20,6 +20,6 @@ Sequence of greps is an easy way to get 'grep AND logic'. Head -1 should limit r
     rm blender-tmp
     # move 'blender' dir manually to say ~/apps
     
-## script
+## getBlender script
  
  [https://github.com/brontosaurusrex/stretchbang/blob/master/getBlender](https://github.com/brontosaurusrex/stretchbang/blob/master/getBlender)
