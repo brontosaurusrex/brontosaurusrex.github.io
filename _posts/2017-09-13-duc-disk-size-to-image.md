@@ -10,3 +10,8 @@ title: 'duc, disk size to image'
 Index home and dump visual of subfolder ~/source to home/size.png.
 
 ![size.png]({{site.baseurl}}/media/size.png)
+
+Black and white
+
+    convert ~/size.png -colorspace Gray ~/sizeBW.png
+    
