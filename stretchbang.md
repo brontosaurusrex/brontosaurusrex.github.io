@@ -235,7 +235,7 @@ Left aligned window titles in openbox
 
 [![cosIcan.md.png](https://cdn.scrot.moe/images/2017/09/05/cosIcanThumb.jpg)](https://cdn.scrot.moe/images/2017/09/05/cosIcan.png)
 
-[Keeping firefox-esr bright.](https://brontosaurusrex.github.io/2017/08/23/per-app-theme)
+[Keeping firefox-esr bright.](https://brontosaurusrex.github.io/2017/08/23/per-app-theme) Also check *.Xresouces.adaptaColors.*
 
 ## mandelbulber2
 
@@ -253,11 +253,11 @@ Left aligned window titles in openbox
     ./install
     # delete old settings
     rm -rf ~/mandelbulber ~/.mandelbulber # careful
-    
+
 To have a [gtk2-like-look](https://forums.bunsenlabs.org/viewtopic.php?id=4151) consistent with the rest of the system
 
     sudo apt install qt5-style-plugins libqt5svg5
-    
+
 Into ~/.xsessionrc add
 
     for qt5 apps
