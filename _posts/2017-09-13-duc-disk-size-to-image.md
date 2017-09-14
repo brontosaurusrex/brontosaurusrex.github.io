@@ -15,3 +15,9 @@ Black and white
 
     convert ~/size.png -colorspace Gray ~/sizeBW.png
     
+## Interactive
+
+    # duc
+    duc index . && duc gui .
+    # gdmap
+    gdmap -f .
