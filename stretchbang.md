@@ -168,7 +168,7 @@ Static menu with a dynamic twist (powered by *pipeMisc* and *pipeSysInfo*).
 # Autologin
 
     sudo vi /etc/lightdm/lightdm.conf
-    # under [Seat:*] enable
+    # under [Seat:\*] enable
     autologin-user=yourUserName
 
 # locale
