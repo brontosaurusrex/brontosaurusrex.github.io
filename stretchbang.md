@@ -235,7 +235,7 @@ Left aligned window titles in openbox
 
 [![cosIcan.md.png](https://cdn.scrot.moe/images/2017/09/05/cosIcanThumb.jpg)](https://cdn.scrot.moe/images/2017/09/05/cosIcan.png)
 
-[Keeping firefox-esr bright.](https://brontosaurusrex.github.io/2017/08/23/per-app-theme) Also check *.Xresouces.adaptaColors.*
+[Keeping firefox-esr bright.](https://brontosaurusrex.github.io/2017/08/23/per-app-theme) Also check *.Xresources.adaptaColors.*
 
 ## mandelbulber2
 
