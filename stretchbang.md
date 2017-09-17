@@ -178,6 +178,19 @@ Static menu with a dynamic twist (powered by *pipeMisc* and *pipeSysInfo*).
 
 Making [gsimplecal](https://brontosaurusrex.github.io/2017/08/09/gsimplecal-localized/) to start week with your [locale](https://wiki.archlinux.org/index.php/locale).
 
+[https://wiki.debian.org/Locale](https://wiki.debian.org/Locale) 
+
+## set keyboard layout
+
+    setxkbmap us
+    setxkbmap de
+
+## read keyboard layout
+
+    setxkbmap -query # or
+    setxkbmap -query | grep layout # or
+    setxkbmap -query | grep layout | tr -d 'layout:' | tr -d ' '
+
 ---
 
 # Bleeding edge
