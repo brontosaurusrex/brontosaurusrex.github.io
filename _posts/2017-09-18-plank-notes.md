@@ -19,6 +19,7 @@ title: plank notes
     # config dock
     ctrl + right mice click
 
-Behaviour set to autohide will actually fade-out dock (If the theme has FadeOpacity defined)
+Behaviour set to autohide will actually fade-out dock (If the theme has FadeOpacity defined)  
+![plank.png]({{site.baseurl}}/media/plank.png)
 
 
