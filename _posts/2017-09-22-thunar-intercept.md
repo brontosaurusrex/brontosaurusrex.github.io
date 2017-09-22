@@ -26,4 +26,28 @@ And 'intercept' script like this
         
     done
     
-seems to work for files/paths with s p a c e s in them as well.
+seems to work for files/paths with s p a c e s in them as well. Or:
+
+Custom action like this (first parameter is command)
+
+    intercept geany %F
+
+And 'intercept' script like this
+
+    #!/bin/bash
+
+    # intercept (thunar weird quoting)
+
+    exec="$1" # first parameter is command
+    shift
+    $exec "$@"
+
+    # echo
+    for var in "$@"
+    do
+        notify-send "$var"
+    done
+    
+Probably not politically correct, but works.
+
+
