@@ -38,16 +38,18 @@ And 'intercept' script like this
 
     # intercept (thunar weird quoting)
 
-    exec="$1" # first parameter is command
-    shift
-    $exec "$@"
+    # thunar custom action could look like:
+    # intercept geany %F
 
     # echo
-    for var in "$@"
-    do
-        notify-send "$var"
-    done
+    notify-send "$*"
+
+    # main
+    exec="$1" # first parameter is command
+    shift
+    "$exec" "$@"
+
+    # This entire script should be replaceable with simple 
+    # "$@", but not working for some reason.
     
 Probably not politically correct, but works.
-
-
