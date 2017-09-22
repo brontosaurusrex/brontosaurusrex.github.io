@@ -21,6 +21,8 @@ And 'intercept' script like this
 
         echo "$var" >> $HOME/tmp/echo.txt
         notify-send "$var"
+        # real app, like geany
+        geany "$var"
         
     done
     
