@@ -10,7 +10,7 @@ Custom action like this
     
 And 'intercept' script like this
 
-        #!/bin/bash
+    #!/bin/bash
 
     # intercept (thunar weird quoting)
 
