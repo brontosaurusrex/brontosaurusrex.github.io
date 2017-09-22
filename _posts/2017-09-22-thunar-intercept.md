@@ -26,9 +26,9 @@ And 'intercept' script like this
         
     done
     
-seems to work for files/paths with s p a c e s in them as well. Or:
+seems to work for files/paths with s p a c e s in them as well.
 
-Custom action like this (first parameter is command)
+Or more general, custom action like this (first parameter is command)
 
     intercept geany %F
 
