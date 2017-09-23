@@ -199,10 +199,12 @@ Making [gsimplecal](https://brontosaurusrex.github.io/2017/08/09/gsimplecal-loca
 ## libreoffice (from backports)
 
     sudo apt install -t stretch-backports libreoffice libreoffice-gtk3
-    # xy = language code you want
+    # xy = language code you want (might be in xy-zw format)
     sudo apt install -t stretch-backports libreoffice-l10n-xy myspell-xy
     # optional icon theme
     sudo apt install -t stretch-backports libreoffice-style-breeze
+
+[Languagetool](https://extensions.libreoffice.org/extensions/languagetool) extension also exists (untested). 
 
 ## tilix (from backports)
 
