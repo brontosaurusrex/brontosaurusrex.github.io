@@ -16,4 +16,4 @@ title: jekyll reverse numbering with pagination
                 ˇ
     1 2 3 4 5 index
 
-How?
+[How?](http://talk.jekyllrb.com/t/reversed-page-numbering-to-be-generated-how/998)
