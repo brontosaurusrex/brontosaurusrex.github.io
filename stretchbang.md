@@ -80,7 +80,7 @@ The easiest way to reload wbar is right-clicking it.
 
 This is optional, either run *~/source/stretchbang/compileTint2* or
 
-Install dependencies  
+Install dependencies
 [https://gitlab.com/o9000/tint2/wikis/Install#dependencies](https://gitlab.com/o9000/tint2/wikis/Install#dependencies)
 
     cd ~/source
@@ -153,22 +153,22 @@ Static menu with a dynamic twist (powered by *pipeMisc* and *pipeSysInfo*).
 
 # Aliases and ~/bin scripts
 
-    fsize 18       # set urxvt font size  
-    weather        # weather  
-    today          # small weather  
-    pipeSysInfo    # extremly basic sysinfo  
-    bronto         # asci brontographics  
-    easyfind file  # find files using find/grep  
-    findosaurus -h # find files using find (beta)  
-    duh            # ncdu's lil brother - disk space usage  
-    lst            # ls by date  
-    up             # apt update/upgrade  
+    fsize 18       # set urxvt font size
+    weather        # weather
+    today          # small weather
+    pipeSysInfo    # extremly basic sysinfo
+    bronto         # asci brontographics
+    easyfind file  # find files using find/grep
+    findosaurus -h # find files using find (beta)
+    duh            # ncdu's lil brother - disk space usage
+    lst            # ls by date
+    up             # apt update/upgrade
     search         # apt-cache search
 
 # Autologin
 
     sudo vi /etc/lightdm/lightdm.conf
-    # under [Seat:\*] enable
+    # under [Seat:*] enable
     autologin-user=yourUserName
 
 # locale
@@ -178,7 +178,7 @@ Static menu with a dynamic twist (powered by *pipeMisc* and *pipeSysInfo*).
 
 Making [gsimplecal](https://brontosaurusrex.github.io/2017/08/09/gsimplecal-localized/) to start week with your [locale](https://wiki.archlinux.org/index.php/locale).
 
-[https://wiki.debian.org/Locale](https://wiki.debian.org/Locale)  
+[https://wiki.debian.org/Locale](https://wiki.debian.org/Locale)
 [https://wiki.debian.org/ChangeLanguage](https://wiki.debian.org/ChangeLanguage)
 
 ## set keyboard layout
@@ -204,7 +204,7 @@ Making [gsimplecal](https://brontosaurusrex.github.io/2017/08/09/gsimplecal-loca
     # optional icon theme
     sudo apt install -t stretch-backports libreoffice-style-breeze
 
-[Languagetool](https://extensions.libreoffice.org/extensions/languagetool) extension also exists (untested). 
+[Languagetool](https://extensions.libreoffice.org/extensions/languagetool) extension also exists (untested).
 
 ## tilix (from backports)
 
@@ -310,7 +310,7 @@ Blender configs might be in
 
 # Comments?
 
-[https://github.com/brontosaurusrex/stretchbang/issues](https://github.com/brontosaurusrex/stretchbang/issues)  
+[https://github.com/brontosaurusrex/stretchbang/issues](https://github.com/brontosaurusrex/stretchbang/issues)
 
 <a href="/"><img src="{{site.baseurl}}/public/bronto.png" style="-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH;"></a>
 
