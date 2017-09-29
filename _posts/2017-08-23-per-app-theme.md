@@ -27,3 +27,13 @@ d. or dev theme, which is dark, but does look reasonable
 [https://addons.mozilla.org/en-US/firefox/addon/devedition-theme-enabler/](https://addons.mozilla.org/en-US/firefox/addon/devedition-theme-enabler/)
 
 All ^ ugly workarounds. What's the global launcher-independent solution?
+
+c. 
+
+	cp /usr/share/applications/firefox-esr.desktop ~/.local/share/applications
+    chmod +x # it
+
+Edit exec line (add 'env GTK_THEME=Adapta') to look like
+
+    Exec=env GTK_THEME=Adapta /usr/lib/firefox-esr/firefox-esr %u
+    
