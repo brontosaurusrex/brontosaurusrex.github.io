@@ -45,4 +45,4 @@ Then
 
 f. [Supposed to work](https://unix.stackexchange.com/questions/14129/gtk-enable-set-dark-theme-on-a-per-application-basis), but doesn't
 
-	GTK_THEME=:light firefox-es
+	GTK_THEME=:light firefox-esr
