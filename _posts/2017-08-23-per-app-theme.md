@@ -37,5 +37,8 @@ Edit exec line (add 'env GTK_THEME=Adapta') to look like
 
     Exec=env GTK_THEME=Adapta /usr/lib/firefox-esr/firefox-esr %u
     
-^ This misses any decision logic, fail as well.
+Then
+
+    update-desktop-database ~/.local/share/applications
     
+^ This misses any decision logic, fail as well.
