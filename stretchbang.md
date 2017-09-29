@@ -98,7 +98,7 @@ Install dependencies
 # Expected behaviour
 
 ## printVolCont in tint2
-*~/bin/printVolCont* is something that can be used to control ALSA master volume, alternative would be volumeicon-alsa.
+*~/bin/printVolCont* is something that can be used to control ALSA master volume, alternative would be volumeicon-alsa or pnmixer.
 
 ## Install firefox addons
 
