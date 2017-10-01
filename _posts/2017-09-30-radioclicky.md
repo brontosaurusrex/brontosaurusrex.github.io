@@ -7,7 +7,7 @@ title: radioClicky for tint2 and cli
 script
 [https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/radioClicky](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/radioClicky)
 
-debate
+debate, install instructions
 [https://forums.bunsenlabs.org/viewtopic.php?id=4226](https://forums.bunsenlabs.org/viewtopic.php?id=4226)
 
 [![radioClicky.md.png](https://cdn.scrot.moe/images/2017/09/30/radioClicky.md.png)](https://cdn.scrot.moe/images/2017/09/30/radioClicky.png)
