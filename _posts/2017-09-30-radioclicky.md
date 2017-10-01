@@ -10,5 +10,8 @@ title: radioClicky for tint2 and cli
 
     radioClicky           # show status ( prints / or \ ) 
     radioClicky toggle    # on/off
-    radioClicky notify    # notify-send icy-title or stream url, depending on available metadata
-    radioClicky last      # cli only, print last 12 quasi-unique icy-titles
+    radioClicky notify    # notify-send icy-title or stream url
+    radioClicky last      # cli print last 12 quasi-unique icy-titles
+    radioClicky switch    # next station
+    radioClicky switch +  # next station
+    radioClicky switch -  # previous station
