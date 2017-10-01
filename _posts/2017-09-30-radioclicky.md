@@ -2,8 +2,13 @@
 published: true
 layout: post
 date: '2017-09-30 12:26 +0200'
-title: radioClicky
+title: radioClicky for tint2 and cli
 ---
 [https://forums.bunsenlabs.org/viewtopic.php?id=4226](https://forums.bunsenlabs.org/viewtopic.php?id=4226)
 
 [![radioClicky.md.png](https://cdn.scrot.moe/images/2017/09/30/radioClicky.md.png)](https://cdn.scrot.moe/images/2017/09/30/radioClicky.png)
+
+    radioClicky           # show status ( prints / or \ ) 
+    radioClicky toggle    # on/off
+    radioClicky notify    # notify-send icy-title or stream url, depending on available metadata
+    radioClicky last      # cli only, print last 12 quasi-unique icy-titles
