@@ -21,5 +21,5 @@ debate, install instructions
     radioClicky switch -  # previous station
     
     
-q: What array type do I need for: 0 url0 description0 type of data structure?  
+q: What array type do I need for: "0, url0, description0" type of data structure?  
 a: two arrays
