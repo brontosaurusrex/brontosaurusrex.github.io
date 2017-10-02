@@ -23,3 +23,15 @@ debate, install instructions
     
 q: What array type do I need for: "0, url0, description0" type of data structure?  
 a: two arrays
+
+## Running mpv as biatch
+
+    mkfifo somepipe
+    mpv somepipe --idle &
+    mpv --playlist=somepipe --idle &
+    echo "http://pub1.diforfree.org:8000/di_dubstep_hi" > somepipe
+    killall mpv
+    rm somepipe 
+    
+[https://github.com/mpv-player/mpv/blob/master/DOCS/man/ipc.rst](https://github.com/mpv-player/mpv/blob/master/DOCS/man/ipc.rst)  
+[https://forums.bunsenlabs.org/viewtopic.php?id=4099](https://forums.bunsenlabs.org/viewtopic.php?id=4099)
