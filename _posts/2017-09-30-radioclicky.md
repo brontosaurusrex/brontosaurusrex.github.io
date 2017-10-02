@@ -27,7 +27,6 @@ a: two arrays
 ## Running mpv as biatch
 
     mkfifo somepipe
-    mpv somepipe --idle &
     mpv --playlist=somepipe --idle &
     echo "http://pub1.diforfree.org:8000/di_dubstep_hi" > somepipe
     killall mpv
