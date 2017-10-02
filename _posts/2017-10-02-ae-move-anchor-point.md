@@ -8,3 +8,5 @@ title: ae move anchor point
     y
     # Center anchor point in the visible content
     ctrl + alt + home
+    # Center selected layers in view (center is anchor)
+    ctrl + home
