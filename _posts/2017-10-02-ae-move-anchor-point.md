@@ -10,3 +10,5 @@ title: ae move anchor point
     ctrl + alt + home
     # Center selected layers in view (center is anchor)
     ctrl + home
+    
+[https://helpx.adobe.com/after-effects/using/keyboard-shortcuts-reference.html](https://helpx.adobe.com/after-effects/using/keyboard-shortcuts-reference.html)
