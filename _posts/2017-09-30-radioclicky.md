@@ -19,6 +19,7 @@ debate, install instructions
     radioClicky switch    # next station
     radioClicky switch +  # next station
     radioClicky switch -  # previous station
+    radioClicky id        # echo station id, url
     
     
 q: What array type do I need for: "0, url0, description0" type of data structure?  
