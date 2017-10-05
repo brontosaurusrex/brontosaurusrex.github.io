@@ -13,17 +13,8 @@ debate, install instructions
 [![radioClicky.md.png](https://cdn.scrot.moe/images/2017/09/30/radioClicky.md.png)](https://cdn.scrot.moe/images/2017/09/30/radioClicky.png)
 [![optionalOpenboxAndConly.md.png](https://cdn.scrot.moe/images/2017/10/04/optionalOpenboxAndConly.md.png)](https://cdn.scrot.moe/images/2017/10/04/optionalOpenboxAndConly.png)
 
-    radioClicky           # show status ( prints / or \ ) 
-    radioClicky toggle    # on/off
-    radioClicky notify    # notify-send icy-title or stream url
-    radioClicky last      # cli print last 12 quasi-unique icy-titles
-    radioClicky switch    # next station
-    radioClicky switch +  # next station
-    radioClicky switch -  # previous station
-    radioClicky switch 3  # station with id 3
-    radioClicky id        # echo station id, url
-    radioClicky openbox   # openbox pipemenu
-    
+    radioClicky help          # show available switches 
+
 q: What array type do I need for: "0, url0, description0" type of data structure?  
 a: two arrays
 
