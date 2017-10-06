@@ -18,6 +18,12 @@ debate, install instructions
 q: What array type do I need for: "0, url0, description0" type of data structure?  
 a: two arrays
 
+q: how to echo stations around current id
+a:
+
+    # array=( {a..z} ) id=7 n=3; 
+    echo "${array[@]:id-n:1+n*2}"
+
 ## Running mpv as biatch
 
     mkfifo somepipe
