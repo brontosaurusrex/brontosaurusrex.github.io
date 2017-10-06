@@ -13,7 +13,9 @@ debate, install instructions
 [![radioClicky.md.png](https://cdn.scrot.moe/images/2017/09/30/radioClicky.md.png)](https://cdn.scrot.moe/images/2017/09/30/radioClicky.png)
 [![optionalOpenboxAndConly.md.png](https://cdn.scrot.moe/images/2017/10/04/optionalOpenboxAndConly.md.png)](https://cdn.scrot.moe/images/2017/10/04/optionalOpenboxAndConly.png)
 
-    radioClicky help          # show available switches 
+    radioClicky help          # show available switches
+    
+## dev notes
 
 q: What array type do I need for: "0, url0, description0" type of data structure?  
 a: two arrays
