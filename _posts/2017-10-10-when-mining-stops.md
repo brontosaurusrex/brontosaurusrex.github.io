@@ -12,3 +12,8 @@ title: when mining stops
     sudo ./NVIDIA(tab)
     reboot
     # and on and on and on
+    
+Also lightdm odnosno Xorg must be running for some reason for overclockX script to have some effect, check with
+
+    pgrep -x lightdm # and
+    pgrep -x Xorg
