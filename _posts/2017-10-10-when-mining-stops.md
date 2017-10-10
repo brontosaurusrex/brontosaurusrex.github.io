@@ -17,3 +17,7 @@ Also lightdm odnosno Xorg must be running for some reason for overclockX script 
 
     pgrep -x lightdm # and
     pgrep -x Xorg
+    
+Maybe this will be automagic in future if
+
+   sudo apt install dkms
