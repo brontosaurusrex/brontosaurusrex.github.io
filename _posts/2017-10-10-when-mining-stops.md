@@ -20,4 +20,4 @@ Also lightdm odnosno Xorg must be running for some reason for overclockX script 
     
 Maybe this will be automagic in future if
 
-   sudo apt install dkms
+    sudo apt install dkms
