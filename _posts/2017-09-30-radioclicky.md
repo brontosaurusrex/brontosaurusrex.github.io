@@ -28,6 +28,8 @@ a:
 
 ## Running mpv as biatch
 
+### a.
+
     mkfifo somepipe
     mpv --playlist=somepipe --idle &
     echo "http://pub1.diforfree.org:8000/di_dubstep_hi" > somepipe
@@ -36,3 +38,8 @@ a:
     
 [https://github.com/mpv-player/mpv/blob/master/DOCS/man/ipc.rst](https://github.com/mpv-player/mpv/blob/master/DOCS/man/ipc.rst)  
 [https://forums.bunsenlabs.org/viewtopic.php?id=4099](https://forums.bunsenlabs.org/viewtopic.php?id=4099)
+
+### b. umpv python script
+
+[https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/umpv](https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/umpv)  
+[https://github.com/mpv-player/mpv/issues/2610](https://github.com/mpv-player/mpv/issues/2610)
