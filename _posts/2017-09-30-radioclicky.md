@@ -28,7 +28,7 @@ a:
 
 ## Running mpv as biatch or repurpose single instance
 
-### a.
+### a. primitive pipe (more than one needed obviously)
 
     mkfifo somepipe
     mpv --playlist=somepipe --idle &
