@@ -62,4 +62,7 @@ Requires socat (in stretch repos)
     # in 2nd term
     echo '{ "command": ["loadfile", "http://relay.181.fm:8000"] }' | socat - /tmp/mpvsocket
 	{"data":null,"error":"success"}
+    
+    echo '{ "command": ["stop"] }' | socat - /tmp/mpvsocket
+	{"data":null,"error":"success"}
 
