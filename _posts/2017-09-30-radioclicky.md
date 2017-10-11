@@ -83,4 +83,12 @@ Easier to just use ordinary pipes then as in example a. (will not require socat)
 
 	# 2nd
     echo "loadfile http://relay.181.fm:8000" > ~/tmp/fifo
+    
+ From man, difference between one and another:
+ 
+     --input-file=<filename>
+
+        Read commands from the given file. Mostly useful with a FIFO. Since mpv 0.7.0 also understands JSON commands (see JSON IPC), but you can't get replies or events. Use --input-ipc-server for something bi-directional. On MS Windows, JSON commands are not available.
+
+        This can also specify a direct file descriptor with fd://N (UNIX only). In this case, JSON replies will be written if the FD is writable.
 	
