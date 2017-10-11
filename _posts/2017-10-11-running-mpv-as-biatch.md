@@ -4,7 +4,7 @@ layout: post
 date: '2017-10-11 20:31 +0200'
 title: Running mpv as biatch
 ---
-### primitive pipe (unidirectional, seems to be the best/simplest one)
+## primitive pipe (unidirectional, seems to be the best/simplest one)
 
 Easier to just use ordinary pipes then as in example a. (will not require socat)
 
@@ -27,7 +27,7 @@ Easier to just use ordinary pipes then as in example a. (will not require socat)
 [https://github.com/mpv-player/mpv/blob/master/DOCS/man/ipc.rst](https://github.com/mpv-player/mpv/blob/master/DOCS/man/ipc.rst)  
 [https://forums.bunsenlabs.org/viewtopic.php?id=4099](https://forums.bunsenlabs.org/viewtopic.php?id=4099)
 
-### testing the official examples (ipc-server)
+## testing the official examples (ipc-server)
 
 [https://mpv.io/manual/master/#list-of-input-commands](https://mpv.io/manual/master/#list-of-input-commands)  
 [https://mpv.io/manual/master/#json-ipc](https://mpv.io/manual/master/#json-ipc)
