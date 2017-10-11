@@ -74,3 +74,13 @@ Requires socat (in stretch repos)
     # a more friendly no-json way seems to be working as well
     echo "cycle pause" | socat - /tmp/mpvsocket
 	echo "loadfile http://relay.181.fm:8000" | socat - /tmp/mpvsocket
+    
+Easier to just use ordinary pipes then as in example a. (will not require socat)
+
+	# 1st
+	mkfifo ~/tmp/fifo
+	mpv --input-file=~/tmp/fifo --idle
+
+	# 2nd
+    echo "loadfile http://relay.181.fm:8000" > ~/tmp/fifo
+	
