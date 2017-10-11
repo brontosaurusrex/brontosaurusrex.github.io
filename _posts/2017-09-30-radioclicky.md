@@ -49,3 +49,15 @@ a:
 [https://gist.github.com/dwgill/a66769e0edef69c04d3b](https://gist.github.com/dwgill/a66769e0edef69c04d3b)
 
 Not working with current version, but perhaps could be fixed, seems to not like lavfi options at all.
+
+### d. testing the official examples
+
+[https://mpv.io/manual/master/#list-of-input-commands](https://mpv.io/manual/master/#list-of-input-commands)
+
+	# in one term
+    mpv --input-ipc-server=/tmp/mpvsocket --idle
+    
+    # in 2nd term
+    echo '{ "command": ["loadfile", "http://relay.181.fm:8000"] }' | socat - /tmp/mpvsocket
+	{"data":null,"error":"success"}
+
