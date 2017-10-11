@@ -26,7 +26,7 @@ a:
     # array=( {a..z} ) id=7 n=3; 
     echo "${array[@]:id-n:1+n*2}"
 
-## Running mpv as biatch
+## Running mpv as biatch or repurpose single instance
 
 ### a.
 
@@ -43,3 +43,9 @@ a:
 
 [https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/umpv](https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/umpv)  
 [https://github.com/mpv-player/mpv/issues/2610](https://github.com/mpv-player/mpv/issues/2610)
+
+### c. json ipc bash
+
+[https://gist.github.com/dwgill/a66769e0edef69c04d3b](https://gist.github.com/dwgill/a66769e0edef69c04d3b)
+
+Not working with current version, but perhaps could be fixed, seems to not like lavfi options at all.
