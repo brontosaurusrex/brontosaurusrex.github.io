@@ -70,4 +70,7 @@ Requires socat (in stretch repos)
     
     # actually quit player/socket
     echo '{ "command": ["quit"] }' | socat - /tmp/mpvsocket
-
+    
+    # a more friendly no-json way seems to be working as well
+    echo "cycle pause" | socat - /tmp/mpvsocket
+	echo "loadfile http://relay.181.fm:8000" | socat - /tmp/mpvsocket
