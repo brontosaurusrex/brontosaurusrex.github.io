@@ -52,7 +52,8 @@ Not working with current version, but perhaps could be fixed, seems to not like 
 
 ### d. testing the official examples
 
-[https://mpv.io/manual/master/#list-of-input-commands](https://mpv.io/manual/master/#list-of-input-commands)
+[https://mpv.io/manual/master/#list-of-input-commands](https://mpv.io/manual/master/#list-of-input-commands)  
+[https://mpv.io/manual/master/#json-ipc](https://mpv.io/manual/master/#json-ipc)
 
 Requires socat (in stretch repos)
 
