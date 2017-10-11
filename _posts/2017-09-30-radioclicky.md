@@ -63,6 +63,10 @@ Requires socat (in stretch repos)
     echo '{ "command": ["loadfile", "http://relay.181.fm:8000"] }' | socat - /tmp/mpvsocket
 	{"data":null,"error":"success"}
     
+    # stop but keep player/socket running
     echo '{ "command": ["stop"] }' | socat - /tmp/mpvsocket
 	{"data":null,"error":"success"}
+    
+    # actually quit player/socket
+    echo '{ "command": ["quit"] }' | socat - /tmp/mpvsocket
 
