@@ -54,6 +54,8 @@ Not working with current version, but perhaps could be fixed, seems to not like 
 
 [https://mpv.io/manual/master/#list-of-input-commands](https://mpv.io/manual/master/#list-of-input-commands)
 
+Requires socat (in stretch repos)
+
 	# in one term
     mpv --input-ipc-server=/tmp/mpvsocket --idle
     
