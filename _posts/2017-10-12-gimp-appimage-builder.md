@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2017-10-12 22:03 +0200'
-title: gimp appimage builder
+title: gimp appimage builder (Debian Stretch)
 ---
 [https://github.com/aferrero2707/gimp-appimage](https://github.com/aferrero2707/gimp-appimage)
 
