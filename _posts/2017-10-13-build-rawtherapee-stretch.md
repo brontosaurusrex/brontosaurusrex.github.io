@@ -15,3 +15,5 @@ title: build rawtherapee (stretch)
 [http://rawpedia.rawtherapee.com/Linux#Compile_RawTherapee](http://rawpedia.rawtherapee.com/Linux#Compile_RawTherapee)
 
 This will take quite some time and ram and all the cpu.
+
+[![scrot09550.md.png](https://cdn.scrot.moe/images/2017/10/13/scrot09550.md.png)](https://cdn.scrot.moe/images/2017/10/13/scrot09550.png)
