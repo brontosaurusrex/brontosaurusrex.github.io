@@ -15,3 +15,6 @@ to be continued
 ## as something
 
 [http://blog.gremble.me.uk/2016/04/18/gimp-2-9-x-on-debian-stretchsid/](http://blog.gremble.me.uk/2016/04/18/gimp-2-9-x-on-debian-stretchsid/)
+
+It did work with a bit of help from buster  
+[https://packages.debian.org/buster/amd64/libgexiv2-2/download](https://packages.debian.org/buster/amd64/libgexiv2-2/download)
