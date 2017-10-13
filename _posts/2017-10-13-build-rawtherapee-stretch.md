@@ -6,10 +6,12 @@ title: build rawtherapee (stretch)
 ---
 ### install debian build dependecies + some more
 
-lensfun + one more
+    sudo apt-get build-dep rawtherapee
+    sudo apt install liblensfun-dev
+    LENSFUNDBDIR=
 
 ### git clone rawtherappe, follow the page
 
 [http://rawpedia.rawtherapee.com/Linux#Compile_RawTherapee](http://rawpedia.rawtherapee.com/Linux#Compile_RawTherapee)
 
-This takes quite some ram and all the cpu.
+This will take quite some time and ram and all the cpu.
