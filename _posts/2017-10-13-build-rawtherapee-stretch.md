@@ -11,3 +11,5 @@ lensfun + one more
 ### git clone rawtherappe, follow the page
 
 [http://rawpedia.rawtherapee.com/Linux#Compile_RawTherapee](http://rawpedia.rawtherapee.com/Linux#Compile_RawTherapee)
+
+This takes quite some ram and all the cpu.
