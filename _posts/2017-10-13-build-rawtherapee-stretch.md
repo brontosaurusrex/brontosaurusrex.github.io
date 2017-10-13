@@ -1,0 +1,13 @@
+---
+published: true
+layout: post
+date: '2017-10-13 17:41 +0200'
+title: build rawtherapee (stretch)
+---
+### install debian build dependecies + some more
+
+lensfun + one more
+
+### git clone rawtherappe, follow the page
+
+[http://rawpedia.rawtherapee.com/Linux#Compile_RawTherapee](http://rawpedia.rawtherapee.com/Linux#Compile_RawTherapee)
