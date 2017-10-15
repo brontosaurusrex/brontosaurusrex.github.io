@@ -21,7 +21,7 @@ Boot into cli, install/configure git, sed, vim
     sudo apt install git apt-transport-https sed vim
     git config --global core.editor "vim" # optional
 
-get stretchbang git and apply configs
+## get stretchbang git and apply configs
 
     cd && mkdir source && cd source
     git clone https://github.com/brontosaurusrex/stretchbang
@@ -44,7 +44,7 @@ Network-manager
 
 [https://wiki.debian.org/NetworkManager](https://wiki.debian.org/NetworkManager)
 
-Install packages
+### Install packages
 
     cd ~/source/stretchbang/packs
     sudo apt install -y $(cat base.list)
@@ -135,6 +135,8 @@ If uBlock is to new, workaround might be to install [older version](https://addo
 Static menu with a dynamic twist (powered by *pipeMisc* and *pipeSysInfo*).
 
 ![menu]({{site.baseurl}}/media/stretchMenu.png)
+
+update: pipeMisc (pipe) now incorporates ~/bin/pipePlaces (places), rename or remove pipePlaces to disable showing it.
 
 # Basic hotkeys
 
