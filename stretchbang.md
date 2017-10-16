@@ -46,14 +46,18 @@ Network-manager
 
 ### Install packages
 
+    # automatic
+    sudo ./installLess # or sudo ./installAll
+
+    # or manual
     cd ~/source/stretchbang/packs
     sudo apt install -y $(cat base.list)
     sudo apt install -y --no-install-recommends \
     $(cat baseNoInstallRec.list)
-    sudo apt install -y $(cat extra.list) # libre, gimp, inkscape
-    # or run
-    sudo ./installAll # or
-    sudo ./installLess
+    # libreoffice, gimp, inkscape:
+    sudo apt install -y $(cat extra.list)
+
+    # reboot
     systemctl reboot
 
 Should now boot into lightdm / openbox.
