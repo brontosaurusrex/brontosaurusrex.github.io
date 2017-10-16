@@ -8,6 +8,5 @@ title: streamripper
     
 ## radioClicky todo
 
-- remove openbox limiter (range)
-- add streamripper cli
-    
+- remove openbox limiter (range) -done
+- add streamripper cli -done
