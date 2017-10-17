@@ -52,4 +52,7 @@ Requires socat (in stretch repos)
     echo "cycle pause" | socat - /tmp/mpvsocket
 	echo "loadfile http://relay.181.fm:8000" | socat - /tmp/mpvsocket
     
+edit: After some thinkering: go with this ^ socat method, it should:
 
+- enable bidir communication, no more hunting for pids, single mpv instance allways running (and if not, that is checkable by get_property of something.
+- possibility to do continous script for tint using observe some property (not sure how yet)
