@@ -101,3 +101,5 @@ The other way would be needed as well.
 [https://stedolan.github.io/jq/](https://stedolan.github.io/jq/)  
 [http://kmkeen.com/jshon/](http://kmkeen.com/jshon/)
 
+	# json field to bash variable
+	data=$(echo '{"data":75000,"error":"success"}' | jq -r .data); echo $data
