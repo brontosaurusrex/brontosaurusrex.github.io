@@ -63,3 +63,30 @@ Get all possible properties
 	mpv --list-properties
     
 Sending any get_property to pipe and getting error exit status probably means that mpv is not connected to that pipe (not running), so start one.
+
+Also metadata handling could be solved by talking to player directly and not parsing some text file
+
+    echo '{ "command": ["get_property", "filename"] }' | socat - ~/tmp/mpvpipe 
+    {"data":"rock","error":"success"}
+    ~
+    echo '{ "command": ["get_property", "media-title"] }' | socat - ~/tmp/mpvpipe 
+    {"data":"MADNESS - OUR HOUSE","error":"success"}
+
+    echo '{ "command": ["get_property", "stream-path"] }' | socat - ~/tmp/mpvpipe 
+    {"data":"http://stream.rockradio.si/proxy/rockr1_1?mp=/rock","error":"success"}
+
+    echo '{ "command": ["get_property", "file-format"] }' | socat - ~/tmp/mpvpipe 
+    {"data":"mp3","error":"success"}
+
+    echo '{ "command": ["get_property", "metadata"] }' | socat - ~/tmp/mpvpipe 
+    {"data":{"icy-notice1":"<BR>This stream requires <a href=\u0022http://www.winamp.com\u0022>Winamp</a><BR>","icy-notice2":"SHOUTcast DNAS/posix(linux x64) v2.5.1.724<BR>","icy-name":"ROCK RADIO SI","icy-genre":"Classic Rock, Rock","icy-br":"128","icy-sr":"44100","icy-url":"http://www.rockradio.si","icy-pub":"1","icy-title":"THE BYRDS - LAY LADY LAY"},"error":"success"}
+
+    echo '{ "command": ["get_property", "audio-params"] }' | socat - ~/tmp/mpvpipe 
+    {"data":{"samplerate":44100,"channel-count":2,"channels":"stereo","hr-channels":"stereo","format":"s16p"},"error":"success"}
+
+    echo '{ "command": ["get_property", "audio-bitrate"] }' | socat - ~/tmp/mpvpipe 
+    {"data":127997,"error":"success"}
+
+    echo '{ "command": ["get_property", "mpv-version"] }' | socat - ~/tmp/mpvpipe 
+    {"data":"mpv 0.27.0-91-g51985e3dd6","error":"success"}
+
