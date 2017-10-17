@@ -35,22 +35,22 @@ Easier to just use ordinary pipes then as in example a. (will not require socat)
 Requires socat (in stretch repos)
 
 	# in one term
-    mpv --input-ipc-server=/tmp/mpvsocket --idle
+    mpv --input-ipc-server=/tmp/mpvpipe --idle
     
     # in 2nd term
-    echo '{ "command": ["loadfile", "http://relay.181.fm:8000"] }' | socat - /tmp/mpvsocket
+    echo '{ "command": ["loadfile", "http://relay.181.fm:8000"] }' | socat - /tmp/mpvpipe
 	{"data":null,"error":"success"}
     
     # stop but keep player/socket running
-    echo '{ "command": ["stop"] }' | socat - /tmp/mpvsocket
+    echo '{ "command": ["stop"] }' | socat - /tmp/mpvpipe
 	{"data":null,"error":"success"}
     
     # actually quit player/socket
-    echo '{ "command": ["quit"] }' | socat - /tmp/mpvsocket
+    echo '{ "command": ["quit"] }' | socat - /tmp/mpvpipe
     
     # a more friendly no-json way seems to be working as well
     echo "cycle pause" | socat - /tmp/mpvsocket
-	echo "loadfile http://relay.181.fm:8000" | socat - /tmp/mpvsocket
+	echo "loadfile http://relay.181.fm:8000" | socat - /tmp/mpvpipe
     
 edit: After some thinkering: go with this ^ socat method, it should:
 
@@ -62,3 +62,8 @@ Get all possible properties
 	mpv --list-properties
     
 Sending any get_property to pipe and getting error exit status probably means that mpv is not connected to that pipe (not running), so start one.
+
+Kill the thing
+
+	 echo '{ "command": ["quit"] }' | socat - ~/tmp/mpvpipe
+	
