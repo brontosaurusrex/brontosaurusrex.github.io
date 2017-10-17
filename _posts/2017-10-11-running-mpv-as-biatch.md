@@ -89,4 +89,10 @@ Also metadata handling could be solved by talking to player directly and not par
 
     echo '{ "command": ["get_property", "mpv-version"] }' | socat - ~/tmp/mpvpipe 
     {"data":"mpv 0.27.0-91-g51985e3dd6","error":"success"}
+    
+## bash to json function
+
+[https://gist.github.com/dwgill/a66769e0edef69c04d3b](https://gist.github.com/dwgill/a66769e0edef69c04d3b)
+
+The other way would be needed as well.
 
