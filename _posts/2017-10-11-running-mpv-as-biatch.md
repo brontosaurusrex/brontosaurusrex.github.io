@@ -60,3 +60,5 @@ edit: After some thinkering: go with this ^ socat method, it should:
 Get all possible properties
     
 	mpv --list-properties
+    
+Sending any get_property to pipe and getting error exit status probably means that mpv is not connected to that pipe (not running), so start one.
