@@ -35,22 +35,23 @@ Easier to just use ordinary pipes then as in example a. (will not require socat)
 Requires socat (in stretch repos)
 
 	# in one term
-    mpv --input-ipc-server=/tmp/mpvpipe --idle
+    mpv --input-ipc-server=~/tmp/mpvpipe --idle
     
     # in 2nd term
-    echo '{ "command": ["loadfile", "http://relay.181.fm:8000"] }' | socat - /tmp/mpvpipe
+    echo '{ "command": ["loadfile", "http://relay.181.fm:8000"] }' | socat - ~/tmp/mpvpipe
 	{"data":null,"error":"success"}
     
     # stop but keep player/socket running
-    echo '{ "command": ["stop"] }' | socat - /tmp/mpvpipe
+    echo '{ "command": ["stop"] }' | socat - ~/tmp/mpvpipe
 	{"data":null,"error":"success"}
     
     # actually quit player/socket
-    echo '{ "command": ["quit"] }' | socat - /tmp/mpvpipe
+    echo '{ "command": ["quit"] }' | socat - ~/tmp/mpvpipe # or
+    echo "quit" | socat - ~/tmp/mpvpipe
     
     # a more friendly no-json way seems to be working as well
-    echo "cycle pause" | socat - /tmp/mpvsocket
-	echo "loadfile http://relay.181.fm:8000" | socat - /tmp/mpvpipe
+    echo "cycle pause" | socat - ~/tmp/mpvsocket
+	echo "loadfile http://relay.181.fm:8000" | socat - ~/tmp/mpvpipe
     
 edit: After some thinkering: go with this ^ socat method, it should:
 
