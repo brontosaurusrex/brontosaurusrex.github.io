@@ -56,3 +56,7 @@ edit: After some thinkering: go with this ^ socat method, it should:
 
 - enable bidir communication, no more hunting for pids, single mpv instance allways running (and if not, that is checkable by get_property of something.
 - possibility to do continous script for tint using observe some property (not sure how yet)
+
+Get all possible properties
+    
+	mpv --list-properties
