@@ -62,8 +62,3 @@ Get all possible properties
 	mpv --list-properties
     
 Sending any get_property to pipe and getting error exit status probably means that mpv is not connected to that pipe (not running), so start one.
-
-Kill the thing
-
-	 echo '{ "command": ["quit"] }' | socat - ~/tmp/mpvpipe
-	
