@@ -96,7 +96,8 @@ Also metadata handling could be solved by talking to player directly and not par
 
 The other way would be needed as well.
 
-## jq (in stretch repos)
+## jq and jhson (in repos) 
 
-[https://stedolan.github.io/jq/](https://stedolan.github.io/jq/)
+[https://stedolan.github.io/jq/](https://stedolan.github.io/jq/)  
+[http://kmkeen.com/jshon/](http://kmkeen.com/jshon/)
 
