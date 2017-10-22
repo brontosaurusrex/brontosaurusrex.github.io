@@ -20,8 +20,13 @@ While this certainly hits the ground I'd suspect there is overall desktop dysfun
 
 Personally I would add dconf stuff in there as well, what made config files suddenly obsolete? Technical reasons will not help you explaining that (faster loading and stuff like that).
 
-A proof that I have actually installed/tested it
+A proof that I have actually installed/tested it (Even tweaked a little)
 
 [![VirtualBox_ubuntu_21_10_2017_19_12_11.th.png](https://cdn.scrot.moe/images/2017/10/21/VirtualBox_ubuntu_21_10_2017_19_12_11.th.png)](https://scrot.moe/image/6m07l)
+
+So where did it all start?
+
+- HID [https://en.wikipedia.org/wiki/Human_interface_guidelines](https://en.wikipedia.org/wiki/Human_interface_guidelines) doesn't exaplain anything and it's certainly as easy to apply to almost any DE/wm
+- Convergent Desktop : Didn't happen, apple knew it all along. [https://www.linux.com/news/why-convergent-desktop-so-important-linux](https://www.linux.com/news/why-convergent-desktop-so-important-linux)
 
 
