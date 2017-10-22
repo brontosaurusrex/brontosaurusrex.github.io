@@ -26,6 +26,8 @@ A proof that I have actually installed/tested it (Even tweaked a little)
 
 [![VirtualBox_ubuntu_21_10_2017_19_12_11.th.png](https://cdn.scrot.moe/images/2017/10/21/VirtualBox_ubuntu_21_10_2017_19_12_11.th.png)](https://scrot.moe/image/6m07l)
 
+See how the top-bar features lil ugly shadows even when the rest of the theme doesn't?
+
 ## long path to failure
 
 So where did it all start?
@@ -52,4 +54,3 @@ Some people somehow deducted that I'd actually like to run that, so here is a st
 - help blender (money will do)
 - flirt with nvidia
 - send some money to my direction, I may do 'stretchbang II, the return of the box' in the future.
-
