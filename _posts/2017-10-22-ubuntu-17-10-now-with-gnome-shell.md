@@ -47,7 +47,7 @@ Some people somehow deducted that I'd actually like to run that, so here is a st
 
 ## Why would one care at all
 
-Ubuntu was my entrie point to Linux and they have certain resources to actually change the world (or it appears so).
+Ubuntu (and Mint) were my entrie point to Linux and they have certain resources to actually change the world (or it appears so).
 
 ## Proposed solutions
 
