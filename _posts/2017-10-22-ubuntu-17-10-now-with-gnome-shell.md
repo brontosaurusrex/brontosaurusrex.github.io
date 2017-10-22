@@ -4,7 +4,7 @@ layout: post
 date: '2017-10-22 21:23 +0200'
 title: 'Ubuntu 17.10, now with gnome shell'
 ---
-Really nothing much to write about desktop wise, perhaps there are improvements in the core that ones eyes will not meet.
+Really nothing much to write about desktop wise, perhaps there are improvements in the core that ones eyes will not meet. There is that bitter-sweet taste about Unity gonne.
 
 [https://www.theregister.co.uk/2011/08/05/linus_slams_gnome_three/](https://www.theregister.co.uk/2011/08/05/linus_slams_gnome_three/)
 
@@ -21,3 +21,5 @@ Personally I would add dconf stuff in there as well, what made config files sudd
 A proof that I have actually installed/tested it
 
 [![VirtualBox_ubuntu_21_10_2017_19_12_11.th.png](https://cdn.scrot.moe/images/2017/10/21/VirtualBox_ubuntu_21_10_2017_19_12_11.th.png)](https://scrot.moe/image/6m07l)
+
+
