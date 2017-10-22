@@ -30,7 +30,7 @@ A proof that I have actually installed/tested it (Even tweaked a little)
 
 So where did it all start?
 
-- HID [https://en.wikipedia.org/wiki/Human_interface_guidelines](https://en.wikipedia.org/wiki/Human_interface_guidelines) doesn't exaplain anything and it's certainly as easy to apply to almost any DE/wm, a buzz word.  
+- HID [https://en.wikipedia.org/wiki/Human_interface_guidelines](https://en.wikipedia.org/wiki/Human_interface_guidelines) doesn't exaplain anything and it's certainly as easy to apply to almost any DE/wm, a buzz word. 
 - Convergent Desktop : Didn't happen, apple knew it all along. [https://www.linux.com/news/why-convergent-desktop-so-important-linux](https://www.linux.com/news/why-convergent-desktop-so-important-linux)
 
 Inside Ubuntu i'd like to see convergence between cli and desktop, for example knowing what my deafult text editor is called or file-manager.
@@ -39,5 +39,5 @@ Inside Ubuntu i'd like to see convergence between cli and desktop, for example k
 
 ## Why don't you use xfce/budgie/whatever
 
-I will not use Ubuntu, this was a test only, courious people do that.
+I will not use Ubuntu, this was a test only, curious people do that. If I was I'd go with openbox.
 
