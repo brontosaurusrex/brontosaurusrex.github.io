@@ -30,10 +30,12 @@ See how the top-bar features lil ugly shadows even when the rest of the theme do
 
 ## long path to failure
 
-So where did it all start?
+So where did it all start? How did 'we' came to this?
 
 - HID [https://en.wikipedia.org/wiki/Human_interface_guidelines](https://en.wikipedia.org/wiki/Human_interface_guidelines) doesn't exaplain anything and it's certainly as easy to apply to almost any DE/wm, a buzz word. 
 - Convergent Desktop : Didn't happen, apple knew it all along. [https://www.linux.com/news/why-convergent-desktop-so-important-linux](https://www.linux.com/news/why-convergent-desktop-so-important-linux)
+
+I'd like to belive that good people just followed the wrong path, but I can't.
 
 Inside Ubuntu i'd like to see convergence between cli and desktop, for example knowing what my deafult text editor is called or file-manager.
 
