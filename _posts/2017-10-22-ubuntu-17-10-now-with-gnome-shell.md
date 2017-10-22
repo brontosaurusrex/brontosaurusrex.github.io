@@ -4,6 +4,8 @@ layout: post
 date: '2017-10-22 21:23 +0200'
 title: 'Ubuntu 17.10, now with gnome shell'
 ---
+## gnome 3
+
 Really nothing much to write about desktop wise, perhaps there are improvements in the core that ones eyes will not meet. There is that bitter-sweet taste about Unity gonne.
 
 [https://www.theregister.co.uk/2011/08/05/linus_slams_gnome_three/](https://www.theregister.co.uk/2011/08/05/linus_slams_gnome_three/)
@@ -24,9 +26,16 @@ A proof that I have actually installed/tested it (Even tweaked a little)
 
 [![VirtualBox_ubuntu_21_10_2017_19_12_11.th.png](https://cdn.scrot.moe/images/2017/10/21/VirtualBox_ubuntu_21_10_2017_19_12_11.th.png)](https://scrot.moe/image/6m07l)
 
+## long path to failure
+
 So where did it all start?
 
-- HID [https://en.wikipedia.org/wiki/Human_interface_guidelines](https://en.wikipedia.org/wiki/Human_interface_guidelines) doesn't exaplain anything and it's certainly as easy to apply to almost any DE/wm
+- HID [https://en.wikipedia.org/wiki/Human_interface_guidelines](https://en.wikipedia.org/wiki/Human_interface_guidelines) doesn't exaplain anything and it's certainly as easy to apply to almost any DE/wm, a buzz word.  
 - Convergent Desktop : Didn't happen, apple knew it all along. [https://www.linux.com/news/why-convergent-desktop-so-important-linux](https://www.linux.com/news/why-convergent-desktop-so-important-linux)
+
+Inside Ubuntu i'd like to see convergence between cli and desktop, for example knowing what my deafult text editor is called or file-manager.
+
+- possibly more?
+
 
 
