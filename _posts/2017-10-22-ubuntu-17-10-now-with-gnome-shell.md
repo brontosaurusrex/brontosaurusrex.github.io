@@ -37,5 +37,7 @@ Inside Ubuntu i'd like to see convergence between cli and desktop, for example k
 
 - possibly more?
 
+## Why don't you use xfce/budgie/whatever
 
+I will not use Ubuntu, this was a test only, courious people do that.
 
