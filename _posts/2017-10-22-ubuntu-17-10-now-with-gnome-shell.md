@@ -39,5 +39,5 @@ Inside Ubuntu i'd like to see convergence between cli and desktop, for example k
 
 ## Why don't you use xfce/budgie/whatever
 
-I will not use Ubuntu, this was a test only, curious people do that. If I was I'd go with openbox.
+Some people somehow deducted that I'd actually like to run that, so here is a statement: I will not use Ubuntu, this was a test only, curious people do that. If I was I'd go with openbox.
 
