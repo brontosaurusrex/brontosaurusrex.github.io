@@ -49,7 +49,7 @@ Ubuntu was my entrie point to Linux and they have certain resources to actually 
 
 ## Proposed solutions
 
-- Use (and improve) openbox, it's cool (dwm is cool too)
+- Use (and improve) openbox, it's cool (dwm is cool too, perhaps loging to dwm could be your so called 'classic desktop')
 - Spend your time to code a good free game
 - or a really good video editing app
 - or a photoshop/after effects replacement
