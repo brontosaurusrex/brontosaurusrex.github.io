@@ -26,7 +26,7 @@ A proof that I have actually installed/tested it (Even tweaked a little)
 
 [![VirtualBox_ubuntu_21_10_2017_19_12_11.th.png](https://cdn.scrot.moe/images/2017/10/21/VirtualBox_ubuntu_21_10_2017_19_12_11.th.png)](https://scrot.moe/image/6m07l)
 
-See how the top-bar features lil ugly shadows even when the rest of the theme doesn't?
+See how the top-bar features lil ugly shadows even when the rest of the theme doesn't? Tweak, tweak, tweak.
 
 ## long path to failure
 
