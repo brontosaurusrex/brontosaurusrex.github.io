@@ -43,9 +43,13 @@ Inside Ubuntu i'd like to see convergence between cli and desktop, for example k
 
 Some people somehow deducted that I'd actually like to run that, so here is a statement: I will not use Ubuntu, this was a test only, curious people do that. If I was I'd go with openbox.
 
+## Why would one care at all
+
+Ubuntu was my entrie point to Linux and they have certain resources to actually change the world (or it appears so).
+
 ## Proposed solutions
 
-- Use openbox, it's cool (dwm is cool too)
+- Use (and improve) openbox, it's cool (dwm is cool too)
 - Spend your time to code a good free game
 - or a really good video editing app
 - or a photoshop/after effects replacement
