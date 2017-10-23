@@ -9,4 +9,4 @@ title: Blender openbox
 [![openbox4.md.png](https://cdn.scrot.moe/images/2017/10/23/openbox4.md.png)](https://cdn.scrot.moe/images/2017/10/23/openbox4.png)
 [![openbox9.md.png](https://cdn.scrot.moe/images/2017/10/23/openbox9.md.png)](https://cdn.scrot.moe/images/2017/10/23/openbox9.png)
 [![openbox10.md.png](https://cdn.scrot.moe/images/2017/10/23/openbox10.md.png)](https://cdn.scrot.moe/images/2017/10/23/openbox10.png)
-
+[![openboxII_8bit.md.png](https://cdn.scrot.moe/images/2017/10/24/openboxII_8bit.md.png)](https://cdn.scrot.moe/images/2017/10/24/openboxII_8bit.png)
