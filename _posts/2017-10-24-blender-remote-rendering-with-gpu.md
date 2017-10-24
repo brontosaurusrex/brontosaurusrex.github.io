@@ -20,7 +20,11 @@ This should use **all** gpus.
 
 	-F EXR
     
--F switch seems to only support one format, one can't do EXR and PNG. To override this behaviour one could set 'File Output' node in compositor, press n to select which format would that be.
+-F switch seems to only support one format, one can't do EXR and PNG. 
+
+To override this behaviour one could set 'File Output' node(s) in compositor, press n to select which format would that be. One for exr and one for png and then the rendering command could be
+
+	./blender -P gpu.py -b test.blend -o /tmp/deletemenow -f 43 && rm /tmp/deletemenow*
 
 ## Old cpu vs modern nvidia gpu (3x GTX 1060 3GB)
 
