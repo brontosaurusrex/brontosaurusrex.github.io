@@ -22,6 +22,6 @@ This should use **all** gpus.
     
 -F switch seems to only support one format, one can't do EXR and PNG.
 
-## Old cpu vs modern nvidia gpu (3x)
+## Old cpu vs modern nvidia gpu (3x GTX 1060 3GB)
 
 GPUs are around 26 times faster than CPU :)
