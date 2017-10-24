@@ -14,4 +14,4 @@ cli (use that gpu.py, render test.blend, -o next to blend file, render just fram
 
 	./blender -P gpu.py -b test.blend -o //file -f 1
     
-This should use all gpus.
+This should use **all** gpus.
