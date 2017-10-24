@@ -11,7 +11,7 @@ gpu.py
     bpy.context.user_preferences.addons['cycles'].preferences.compute_device_type = 'CUDA'
     bpy.context.user_preferences.addons['cycles'].preferences.devices[0].use = True
 
-cli (use that gpu.py, render test.blend, -o next to blend file)
+cli (use that gpu.py, render test.blend, -o next to blend file, render just frame 1)
 
 	./blender -P gpu.py -b test.blend -o //file -f 1
     
