@@ -20,7 +20,7 @@ This should use **all** gpus.
 
 	-F EXR
     
--F switch seems to only support one format, one can't do EXR and PNG
+-F switch seems to only support one format, one can't do EXR and PNG.
 
 ## Old cpu vs modern nvidia gpu (3x)
 
