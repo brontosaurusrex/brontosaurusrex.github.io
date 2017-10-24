@@ -21,3 +21,7 @@ This should use **all** gpus.
 	-F EXR
     
 -F switch seems to only support one format, one can't do EXR and PNG
+
+## Old cpu vs modern nvidia gpu (3x)
+
+GPUs are around 26 times faster than CPU :)
