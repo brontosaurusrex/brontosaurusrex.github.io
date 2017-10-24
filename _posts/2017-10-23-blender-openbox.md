@@ -4,7 +4,7 @@ layout: post
 date: '2017-10-23 20:21 +0200'
 title: Blender openbox
 ---
-[![openbox6.md.png](https://cdn.scrot.moe/images/2017/10/23/openbox6.md.png)](https://cdn.scrot.moe/images/2017/10/23/openbox6.png)
+[![openbox6.md.png](https://cdn.scrot.moe/images/2017/10/23/openbox6.md.png)](https://cdn.scrot.moe/images/2017/10/24/openbox7.png)
 [![openbox5.md.png](https://cdn.scrot.moe/images/2017/10/23/openbox5.md.png)](https://cdn.scrot.moe/images/2017/10/23/openbox5.png)
 [![openbox4.md.png](https://cdn.scrot.moe/images/2017/10/23/openbox4.md.png)](https://cdn.scrot.moe/images/2017/10/23/openbox4.png)
 [![openbox9.md.png](https://cdn.scrot.moe/images/2017/10/23/openbox9.md.png)](https://cdn.scrot.moe/images/2017/10/23/openbox9.png)
