@@ -15,3 +15,4 @@ Oil paint effect
 
 [![openbox1oil2.th.png](https://cdn.scrot.moe/images/2017/10/24/openbox1oil2.th.png)](https://cdn.scrot.moe/images/2017/10/24/openbox1oil2.png) 
 [![openbox1oil.th.png](https://cdn.scrot.moe/images/2017/10/24/openbox1oil.th.png)](https://cdn.scrot.moe/images/2017/10/24/openbox1oil.png)
+[![openbox7oil.th.png](https://cdn.scrot.moe/images/2017/10/24/openbox7oil.th.png)](https://cdn.scrot.moe/images/2017/10/24/openbox7oil.png)
