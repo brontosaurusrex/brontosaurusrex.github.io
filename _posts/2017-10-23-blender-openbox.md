@@ -11,7 +11,7 @@ title: Blender openbox
 [![openbox10.md.png](https://cdn.scrot.moe/images/2017/10/23/openbox10.md.png)](https://cdn.scrot.moe/images/2017/10/23/openbox10.png)
 [![openboxII_8bit.md.png](https://cdn.scrot.moe/images/2017/10/24/openboxII_8bit.md.png)](https://cdn.scrot.moe/images/2017/10/24/openboxII_8bit.png)
 
-Oil paint effect
+Oil paint
 
 [![openbox1oil2.th.png](https://cdn.scrot.moe/images/2017/10/24/openbox1oil2.th.png)](https://cdn.scrot.moe/images/2017/10/24/openbox1oil2.png) 
 [![openbox1oil.th.png](https://cdn.scrot.moe/images/2017/10/24/openbox1oil.th.png)](https://cdn.scrot.moe/images/2017/10/24/openbox1oil.png)
