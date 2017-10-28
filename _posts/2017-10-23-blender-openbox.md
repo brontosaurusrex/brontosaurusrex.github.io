@@ -22,3 +22,4 @@ Volumetric
 [![openboxIII_vol2_ps1.th.png](https://cdn.scrot.moe/images/2017/10/25/openboxIII_vol2_ps1.th.png)](https://cdn.scrot.moe/images/2017/10/25/openboxIII_vol2_ps1.png)
 [![openboxIII_vol_ps2.th.png](https://cdn.scrot.moe/images/2017/10/27/openboxIII_vol_ps2.th.png)](https://cdn.scrot.moe/images/2017/10/27/openboxIII_vol_ps2.png)
 [![openboxIII_vol1.th.png](https://cdn.scrot.moe/images/2017/10/27/openboxIII_vol1.th.png)](https://cdn.scrot.moe/images/2017/10/27/openboxIII_vol1.png)
+[![openboxII6_crunch.th.png](https://cdn.scrot.moe/images/2017/10/28/openboxII6_crunch.th.png)](https://cdn.scrot.moe/images/2017/10/28/openboxII6_crunch.png)
