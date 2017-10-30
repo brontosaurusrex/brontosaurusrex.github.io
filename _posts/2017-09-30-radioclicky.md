@@ -4,8 +4,8 @@ layout: post
 date: '2017-09-30 12:26 +0200'
 title: radioClicky for tint2 and cli
 ---
-script  
-[https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/radioClicky](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/radioClicky)
+git
+[https://github.com/brontosaurusrex/radioClicky](https://github.com/brontosaurusrex/radioClicky)
 
 debate, install instructions  
 [https://forums.bunsenlabs.org/viewtopic.php?id=4226](https://forums.bunsenlabs.org/viewtopic.php?id=4226)
