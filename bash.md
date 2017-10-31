@@ -97,6 +97,11 @@ They say this is bad due to IO (disk) reads.
     base="${baseext%.*}"           # file
     ext="${file##*.}"              # ext
     dir=$(dirname "${file}")       # directory
+    
+or bash way
+
+    baseext=${i##*/}               # file.ext
+    dir=${i%/*}                    # directory
 
 
 [http://mywiki.wooledge.org/BashFAQ/073](http://mywiki.wooledge.org/BashFAQ/073)
