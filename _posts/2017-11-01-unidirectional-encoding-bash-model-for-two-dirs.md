@@ -29,8 +29,8 @@ basic parallel example, got to freenode #bash and type !parallel
 
         if (( i++ >= n )); then wait -n; fi
 
-        action & done 
+        action & 
+        
+    done 
 
     wait
-    
-
