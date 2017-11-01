@@ -93,17 +93,13 @@ They say this is bad due to IO (disk) reads.
 ## dirs and files and paths breakdown
 
     file=$(readlink -f "$1")       # quasi absolute
-    baseext=$(basename "${1}")     # file.ext
+    baseext=$(basename "${1}")     # or
+    baseext=${i##*/}               # file.ext
     base="${baseext%.*}"           # file
     ext="${file##*.}"              # ext
-    dir=$(dirname "${file}")       # directory
-    
-or bash way
-
-    baseext=${i##*/}               # file.ext
+    dir=$(dirname "${file}")       # or
     dir=${i%/*}                    # directory
-
-
+    
 [http://mywiki.wooledge.org/BashFAQ/073](http://mywiki.wooledge.org/BashFAQ/073)
     
 ## dump stuff from web pages
