@@ -9,3 +9,28 @@ plain serial
 
 and with some bash 4.3 parallelization (set n to wanted number of processes)  
 [https://github.com/brontosaurusrex/stretchbang/blob/master/.experiments/bin/unidirectionalDirParallelEncoderModel](https://github.com/brontosaurusrex/stretchbang/blob/master/.experiments/bin/unidirectionalDirParallelEncoderModel)
+
+basic parallel example, got to freenode #bash and type !parallel  
+
+    #!/bin/bash
+
+    action () {
+
+    echo "$RANDOM"
+    sleep 1
+
+    }
+
+    #Run n processes in parallel (bash 4.3)
+    i=0 n=4; 
+
+    # main
+    for run in {1..20}; do
+
+        if (( i++ >= n )); then wait -n; fi
+
+        action & done 
+
+    wait
+    
+
