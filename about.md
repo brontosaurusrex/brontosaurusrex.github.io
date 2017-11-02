@@ -8,8 +8,7 @@ published: true
 
 > Freedom of speech is the right to communicate one's opinions and ideas without fear of government retaliation or censorship. The term freedom of expression is sometimes used synonymously, but includes any act of seeking, receiving and imparting information or ideas, regardless of the dinosaur used.
 
-"We" do NOT track, log, spy or are in any way aware of the user presence on this site. This blog is currently hosted on github, so they may. Cookies?  
-![cookies.png]({{site.baseurl}}/media/cookies.png)
+"We" do NOT track, log, spy or are in any way aware of the user presence on this site. This blog is currently hosted on github, so they may.
 
 ## Thinkering and development
 

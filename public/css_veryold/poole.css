@@ -48,7 +48,7 @@ body {
 }
 
 html {
-  font-family: "Junction", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -59,8 +59,8 @@ html {
 }
 
 body {
-  color: #798685;
-  background-color: #13181B;
+  color: #515151;
+  background-color: #eee;
 
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -68,7 +68,7 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #4BB2C9;
+  color: #268bd2;
   text-decoration: none;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
@@ -80,13 +80,13 @@ a:focus {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
-  font-weight: normal;
+  font-weight: bold;
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 h2 {
   margin-top: 1rem;
@@ -129,8 +129,9 @@ dd {
 hr {
   position: relative;
   margin: 1.5rem 0;
-  border: 1px solid #7E7E7E;
-
+  border: 0;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #fff;
 }
 
 abbr {
@@ -175,16 +176,10 @@ pre {
   word-break: break-all;
   word-wrap: break-word;
   color: #f9f9f9;
-  color: #4A7F93;
+  color: #5DBEE4;
   
-  background-color: #111111;
-  
-  background: rgba(25, 25, 25, .25);
-  
+  background-color: #333333;
   border-radius: 5px;
-  
-
-  
 }
 pre code {
   padding: 0;
@@ -205,8 +200,8 @@ pre code {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #7e836d;
-  border-left: .01rem solid #7e836d;
+  color: #7a7a7a;
+  border-left: .25rem solid #e5e5e5;
 }
 blockquote p:last-child {
   margin-bottom: 0;
@@ -218,7 +213,7 @@ blockquote p:last-child {
   }
 }
 
-img, iframe {
+img {
   display: block;
   margin: 0 0 1rem;
   border-radius: 5px;
@@ -379,17 +374,16 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: Junction, "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
-  
 }
 
 /* Pagination items can be `span`s or `a`s */
 .pagination-item {
   display: block;
   padding: 1rem;
-  /* border: 1px solid #eee; */
+  border: 1px solid #eee;
 }
 .pagination-item:first-child {
   margin-bottom: -1px;

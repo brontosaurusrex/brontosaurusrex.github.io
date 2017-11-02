@@ -51,7 +51,7 @@ html {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Linden", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: #313131;
+  color: #7E7E7E;
   
   
 }
@@ -128,7 +128,7 @@ img {
 
 .brontologo {
     margin: auto; 
-    width: 850px;
+    width: 696px;
     max-width: 100%;
     margin-top:     -4.6rem;
     margin-bottom:  -1rem;
@@ -187,7 +187,7 @@ img {
   font-size: .875rem; /* 15px */
     
   color: rgba(255,255,255,.6);
-  background-color: #202020;
+  background-color: #196080;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
@@ -252,7 +252,7 @@ a.sidebar-nav-item:focus {
   display: block;
   width: 2.2rem;
   padding: .5rem .65rem;
-  color: #505050;
+  color: #7E7E7E;
   background-color: transparent;
   border-radius: 4px;
   cursor: pointer;
@@ -344,7 +344,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #7E7E7E;
   
 }
 .page-title,
@@ -408,7 +408,7 @@ a.sidebar-nav-item:focus {
 .pagination-item {
   display: block;
   padding: 1rem;
-  border: 1px solid #eee;
+  /* border: 1px solid #7e836d; */
 }
 .pagination-item:first-child {
   margin-bottom: -1px;
@@ -416,7 +416,7 @@ a.sidebar-nav-item:focus {
 
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
-  background-color: #f5f5f5;
+  background-color: #196080;
 }
 
 @media (min-width: 30rem) {
@@ -579,17 +579,17 @@ a.pagination-item:hover {
 
 .brontofooter {
 
-  color: black; 
+  
   text-align: center;
   padding:        1rem;
   padding-bottom: 6rem;
   padding-top:    4rem;
   width: 100%;
-  background-color: #fcfcfc;
-  background-color: #ececec;
+
+  background-color: #031f29;
 
 
-  border-top: dotted #cccccc 1px;  
+  /* border-top: dotted #cccccc 1px; */  
   
   background-image: url("/public/mozillaGrain.png");
 
@@ -600,7 +600,7 @@ a.pagination-item:hover {
 input[type="text"] {	
 /*	font-size: 26px; */
 	color: #fff;
-	background-color: #191C1E;
+	background-color: #094763;
 	border: none ;
 	margin:0px ; 
 	padding:10px ;
