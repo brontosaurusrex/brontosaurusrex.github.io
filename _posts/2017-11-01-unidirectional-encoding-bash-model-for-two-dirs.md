@@ -34,3 +34,7 @@ basic parallel example, got to freenode #bash and type !parallel
     done 
 
     wait
+
+A tool that can copy paste tags from one to another?
+
+[https://github.com/jangler/taffy](https://github.com/jangler/taffy)
