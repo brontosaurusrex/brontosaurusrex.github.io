@@ -136,7 +136,7 @@ img {
     z-index: -10;
     overflow: visible;
     
-    mix-blend-mode: luminosity;
+    /* mix-blend-mode: luminosity; */
     /* mix-blend-mode: overlay; */
     
   }
