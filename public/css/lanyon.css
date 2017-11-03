@@ -134,6 +134,10 @@ img {
     margin-bottom:  -0.5rem;
     z-index: -10;
     overflow: visible;
+    
+    mix-blend-mode: luminosity;
+    /* mix-blend-mode: overlay; */
+    
   }
   
 @media screen and (max-width: 600px) {
@@ -349,6 +353,7 @@ a.sidebar-nav-item:focus {
 .post-title,
 .post-title a {
   color: #76C4CF;
+  /* mix-blend-mode: overlay; */
   
 }
 .page-title,
