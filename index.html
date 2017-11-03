@@ -19,7 +19,7 @@ title: Home
   {% endfor %}
 </div>
 
-<div class="pagination">
+<!-- <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="/page{{paginator.next_page}}">&#60;</a>
   {% else %}
@@ -33,9 +33,23 @@ title: Home
     {% endif %}
   {% else %}
     <span class="pagination-item newer">&#62;</span>
+  {% endif %} -->
+  
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">&#60;</a>
+  {% else %}
+    <span class="pagination-item older"> </span>
   {% endif %}
-
-
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="/">&#62;</a>
+    {% else %}
+      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">&#62;</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer"> </span>
+  {% endif %} 
 
 </div>
 

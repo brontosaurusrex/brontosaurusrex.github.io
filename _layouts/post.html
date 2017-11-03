@@ -28,13 +28,16 @@ layout: default
 <!-- bronto: This are actually completely unrelated, so disabled -->
 <div class="pagination">
    
-   {% if page.previous.url %}
-    <a class="pagination-item older" href="{{page.previous.url}}"><</a>
-   {% endif %}
+  {% if page.previous.url %}
+    <a class="pagination-item older" href="{{page.previous.url}}">&#60;</a>
+  {% else %}
+    <span class="pagination-item older"> </span>
+  {% endif %}
     
-    
-   {% if page.next.url %}
-    <a class="pagination-item newer" href="{{page.next.url}}">></a>
-   {% endif %}
+  {% if page.next.url %}
+    <a class="pagination-item newer" href="{{page.next.url}}">&#62;</a>
+  {% else %}
+    <span class="pagination-item newer"> </span>
+  {% endif %}
   
 </div>
