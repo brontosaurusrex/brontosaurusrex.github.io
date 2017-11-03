@@ -10,7 +10,7 @@ plain serial
 and with some bash 4.3 parallelization (set n to wanted number of processes)  
 [~bin/unidirectionalDirParallelEncoderModel](https://github.com/brontosaurusrex/stretchbang/blob/master/.experiments/bin/unidirectionalDirParallelEncoderModel)
 
-basic parallel example, got to freenode #bash and type !parallel  
+basic parallel example, go to freenode #bash and type !parallel  
 
     #!/bin/bash
 
