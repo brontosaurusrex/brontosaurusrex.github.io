@@ -51,8 +51,9 @@ html {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Linden", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: #7E7E7E;
-  
+
+  color: #CB6317;
+  color: #CB6317CC;
   
 }
 
@@ -128,7 +129,7 @@ img {
 
 .brontologo {
     margin: auto; 
-    width: 835px;
+    width: 935px;
     max-width: 100%;
     margin-top:     -4.0rem;
     margin-bottom:  -0.3rem;
@@ -260,7 +261,7 @@ a.sidebar-nav-item:focus {
   display: block;
   width: 2.2rem;
   padding: .5rem .65rem;
-  color: #7E7E7E;
+  color: #B7B7B7;
   background-color: transparent;
   border-radius: 4px;
   cursor: pointer;
@@ -352,8 +353,8 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #76C4CF;
-  /* mix-blend-mode: overlay; */
+  color: #28C1D7CC;
+
   
 }
 .page-title,
@@ -368,7 +369,7 @@ a.sidebar-nav-item:focus {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: #545454;
+  color: #d1d1d1;
 }
 
 /* Related posts */
