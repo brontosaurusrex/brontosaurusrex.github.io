@@ -24,9 +24,9 @@ Landscape Ant addon
 Rerender, more samples, lower DOF
 
 1920x1200  
-[![planetarium8_ps1_1920x1200.th.png](https://cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_1920x1200.th.png)](https://cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_1920x1200.png)
+[![planetarium8_ps1_1920x1200.th.png](https://cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_1920x1200.th.png)](https://cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_1920x1200.png)  
 3840x1200 (dual monitor)  
-[![planetarium8_ps1_3840x1200.th.png](https://cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_3840x1200.th.png)](https://cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_3840x1200.png)
+[![planetarium8_ps1_3840x1200.th.png](https://cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_3840x1200.th.png)](https://cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_3840x1200.png)  
 3440x1440  
 [![planetarium8_ps1_3440x1440.th.png](https://cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_3440x1440.th.png)](https://cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_3440x1440.png)
 
