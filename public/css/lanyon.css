@@ -26,6 +26,10 @@
  * Reverse layout
  * Themes
  */
+ 
+/* b: disable ants in firefox */ 
+:focus {outline:none;}
+::-moz-focus-inner {border:0;}
 
 
 /*
@@ -123,7 +127,8 @@ h1, h2, h3, h4, h5, h6 {
 /* image max width bronto */
 
 img {
-    max-width: 720px;
+    max-width: 100%;
+    height: auto;
 }
 
 
