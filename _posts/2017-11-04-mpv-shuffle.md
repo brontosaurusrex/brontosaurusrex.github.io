@@ -13,3 +13,4 @@ Short one
 Long one
 
     mpv --no-config --no-video --no-resume-playback --no-ytdl --af=lavfi=[loudnorm=LRA=10:I=-17] --shuffle *
+    # alias rndPlay='mpv --no-config --no-video --no-resume-playback --no-ytdl --af=lavfi=[loudnorm=LRA=10:I=-17] --shuffle *'
