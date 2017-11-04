@@ -8,4 +8,6 @@ title: 'New logo, vector silhuete'
 ![NewLogosvg2.svg]({{site.baseurl}}/media/NewLogosvg2.svg)
 ![NewLogosvgJustLogo.svg]({{site.baseurl}}/media/NewLogosvgJustLogo.svg)
 ![NewLogosvg2red.svg]({{site.baseurl}}/media/NewLogosvg2red.svg)
+![NewLogosvg2cuba.svg]({{site.baseurl}}/media/NewLogosvg2cuba.svg)
+
 
