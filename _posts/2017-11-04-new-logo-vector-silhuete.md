@@ -7,4 +7,5 @@ title: 'New logo, vector silhuete'
 ![NewLogosvgJustLogo.svg]({{site.baseurl}}/media/NewLogosvgJustLogo.svg)
 ![NewLogosvg.svg]({{site.baseurl}}/media/NewLogosvg.svg)
 ![NewLogosvg2.svg]({{site.baseurl}}/media/NewLogosvg2.svg)
+![NewLogosvg2red.svg]({{site.baseurl}}/media/NewLogosvg2red.svg)
 
