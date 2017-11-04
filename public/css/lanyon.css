@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 56rem) {
   .container {
-    max-width: 38rem;
+    max-width: 40rem;
   }
 }
 
@@ -130,26 +130,40 @@ img {
 .brontologo {
     margin: auto; 
     width: 935px;
-    max-width: 100%;
+    max-width: 935px;
     margin-top:     -4.0rem;
     margin-bottom:  -0.3rem;
+    margin-left: -5rem;
+    /* b: Z index must be smaller than navigation block, this is not working */
     z-index: -10;
+  /*
     overflow: visible;
+    display: block; */
     
     /* mix-blend-mode: luminosity; */
     /* mix-blend-mode: overlay; */
     
   }
-  
-@media screen and (max-width: 600px) {
+
+/* b: i dont want to deal with this! */
+@media screen and (max-width: 900px) {
 
     .brontologo {
-
-    visibility: hidden;
-    display: none;
+    
+    max-width: 600px;
+    margin-left: 0rem;
+    /* display: none; */
+    /* visibility: hidden; */
   }
+}
 
+/* b: i dont want to deal with this! */
+@media screen and (max-width: 608px) {
 
+    .brontologo {
+    display: none; 
+    visibility: hidden; 
+  }
 }
   
   
