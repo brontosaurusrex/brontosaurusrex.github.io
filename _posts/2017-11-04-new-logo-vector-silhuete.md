@@ -4,8 +4,8 @@ layout: post
 date: '2017-11-04 16:00 +0100'
 title: 'New logo, vector silhuete'
 ---
-![NewLogosvgJustLogo.svg]({{site.baseurl}}/media/NewLogosvgJustLogo.svg)
 ![NewLogosvg.svg]({{site.baseurl}}/media/NewLogosvg.svg)
 ![NewLogosvg2.svg]({{site.baseurl}}/media/NewLogosvg2.svg)
+![NewLogosvgJustLogo.svg]({{site.baseurl}}/media/NewLogosvgJustLogo.svg)
 ![NewLogosvg2red.svg]({{site.baseurl}}/media/NewLogosvg2red.svg)
 
