@@ -15,6 +15,8 @@ Long one
     mpv --no-config --no-video --no-resume-playback --no-ytdl --af=lavfi=[loudnorm=LRA=10:I=-17] --shuffle *
     # alias rndPlay='mpv --no-config --no-video --no-resume-playback --no-ytdl --af=lavfi=[loudnorm=LRA=10:I=-17] --shuffle *'
     
+How about video window to be used for some audio visualizations  
+[https://bbs.archlinux.org/viewtopic.php?pid=1640982#p1640982](https://bbs.archlinux.org/viewtopic.php?pid=1640982#p1640982)
     
 Extremly smart version by 'glacial', usable if there was no --shuffle in specific utility
 
