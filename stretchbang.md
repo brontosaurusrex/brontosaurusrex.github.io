@@ -322,6 +322,12 @@ Blender configs might be in
 
 <a href="/"><img src="{{site.baseurl}}/public/bronto.png" style="-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH;"></a>
 
+# Donate
+
+You can support the good couse by sending some zcash (ZEC) to this transparent address:
+
+    t1ZARh9pACR2kp7xVJCtC5Xsw8agcFWZy3G
+
 # TOC
 {:.no_toc}
 
