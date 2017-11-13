@@ -10,5 +10,5 @@ Deinterlace with nvidia
 
 Denoise, deinterlace, sharpen with nvidia
 
-	mpv --vf=vdpaupp=denoise=0.3:deint-mode=temporal-spatial:sharpen=0.1
+	mpv --vf=vdpaupp=denoise=0.3:deint-mode=temporal-spatial:sharpen=0.5
     
