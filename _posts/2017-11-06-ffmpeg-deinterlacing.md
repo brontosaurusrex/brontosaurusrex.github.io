@@ -8,6 +8,8 @@ yadif, bwdif, nnedi
 
 [http://macilatthefront.blogspot.si/2017/04/deinterlacing-hd-footage-without-losing.html](http://macilatthefront.blogspot.si/2017/04/deinterlacing-hd-footage-without-losing.html)
 
+### bwdif
+
 	-vf bwdif=mode=0:parity=0
     # mode 0 frame to frame
     # parity 0 = tff
