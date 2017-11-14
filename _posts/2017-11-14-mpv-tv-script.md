@@ -24,6 +24,6 @@ title: mpv tv script
     
 ## Questions
 
-- Shortcut to jump to specific playlist entrie ?
-- A way to make mpv to remember and resume playlist position (Can't resume stream itself) ?
-- Force mpv OSD title to reflect the one on EXTINF and not some silly stream name ?
+1. Keyboard shortcut to jump to specific playlist entrie ?
+1. A way to make mpv to remember and resume playlist position (Can't resume stream itself) ?
+1. Force mpv OSD title to reflect the one on EXTINF and not some silly stream name ?
