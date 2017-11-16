@@ -2,8 +2,10 @@
 published: true
 layout: post
 date: '2017-11-14 11:57 +0100'
-title: mpv tv script
+title: mpv tv
 ---
+## tv script
+
     #!/bin/bash
 
     mpv --no-resume-playback -playlist=- <<EOF
@@ -22,8 +24,19 @@ title: mpv tv script
     # d             toggle deinterlacing
     # shift +a      cycle aspect ratio
     
-## Questions
+### Questions
 
 1. Keyboard shortcut to jump to specific playlist entrie ?
 1. A way to make mpv to remember and resume playlist position (Can't resume stream itself) ?
 1. Force mpv OSD title to reflect the one on EXTINF and not some silly stream name ?
+
+## .bash_aliases
+
+	alias foxmovies='mpv --vo=vdpau --no-resume-playback http://streamurl 2&>/dev/null &'
+
+## .gmrunrc
+
+	# type hbo: and enter
+	URL_hbo = mpv --no-resume-playback http://streamurl
+    
+^ winner.
