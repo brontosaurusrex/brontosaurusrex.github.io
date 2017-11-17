@@ -45,3 +45,5 @@ published: true
 
     sudo apt autoremove # removes unused deps
     sudo apt autoclean  # clears downloaded cache
+
+![](http://svn.debianart.org/themes/moreblue2red/gdm/espiral.svg)
