@@ -7,4 +7,4 @@ title: Dune 2 in browser
 [https://epicport.com/en/dune2](https://epicport.com/en/dune2)  
 ![dune2.png]({{site.baseurl}}/media/dune2.png)
 
-
+[https://lutris.net/games/dune-2000/](https://lutris.net/games/dune-2000/)
