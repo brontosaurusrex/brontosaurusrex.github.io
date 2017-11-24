@@ -12,7 +12,7 @@ In .zshrc
     source $HOME/.bash_aliases
     
 ## Why
-It has fuzzy autocomplete
+It has fuzzy autocomplete build in
 
     open 300[tab]
     open scrot30040.png 
