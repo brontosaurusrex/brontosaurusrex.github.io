@@ -11,4 +11,4 @@ title: 'New logo, vector silhuete'
 ![NewLogosvg2cuba.svg]({{site.baseurl}}/media/NewLogosvg2cuba.svg)
 ![NewLogosvg2cuba2.svg]({{site.baseurl}}/media/NewLogosvg2cuba2.svg)
 ![NewLogosvg2dark.svg]({{site.baseurl}}/media/NewLogosvg2dark.svg)
-
+![NewLogosvgOutline.svg]({{site.baseurl}}/media/NewLogosvgOutline.svg)
