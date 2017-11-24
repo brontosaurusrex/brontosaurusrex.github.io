@@ -10,3 +10,9 @@ In .zshrc
     ZSH_THEME="rgm"
     # use bash aliases
     source $HOME/.bash_aliases
+    
+## Why
+It has fuzzy autocomplete
+
+    open 300[tab]
+    open scrot30040.png 
