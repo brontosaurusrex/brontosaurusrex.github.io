@@ -37,4 +37,5 @@ basic parallel example, go to freenode #bash and type !parallel
 
 A tool that can copy paste tags from one to another?
 
-[https://github.com/jangler/taffy](https://github.com/jangler/taffy)
+[https://github.com/jangler/taffy](https://github.com/jangler/taffy)  
+[https://hydrogenaud.io/index.php/topic,50822.msg455253.html#msg455253](https://hydrogenaud.io/index.php/topic,50822.msg455253.html#msg455253)
