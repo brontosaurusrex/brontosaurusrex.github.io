@@ -19,3 +19,7 @@ And a lil anim
 
 Making of black hole  
 [https://youtu.be/7QaWFNPQ8ng](https://youtu.be/7QaWFNPQ8ng)
+
+With some cubism  
+[![ballOfLight4cubism2.md.png](https://cdn.scrot.moe/images/2017/12/03/ballOfLight4cubism2.md.png)](https://cdn.scrot.moe/images/2017/12/03/ballOfLight4cubism2.png)
+[![ballOfLight3cubism2.md.png](https://cdn.scrot.moe/images/2017/12/03/ballOfLight3cubism2.md.png)](https://cdn.scrot.moe/images/2017/12/03/ballOfLight3cubism2.png)
