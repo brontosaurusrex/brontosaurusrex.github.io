@@ -42,6 +42,8 @@ and in /etc/X11/Xwrapper.conf
     
 to enable running script without sudo.
 
+^ This is the one in use right now.
+
 ## git repo
 
 [https://github.com/brontosaurusrex/tothemoon](https://github.com/brontosaurusrex/tothemoon)
