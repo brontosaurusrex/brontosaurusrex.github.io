@@ -64,3 +64,9 @@ to get some clocks
     
 Start X, run the script, kill X version of this mess  
 [https://devtalk.nvidia.com/default/topic/981655/fan-speed-on-headless-linux-machine-without-performance-loss/?offset=3](https://devtalk.nvidia.com/default/topic/981655/fan-speed-on-headless-linux-machine-without-performance-loss/?offset=3)
+
+## more
+
+> I might be late but you can overclock pascal cards under GNU/Linux, via nvidia-settings. It's shame it's closely bounded to X.. so you should via root: nvidia-xconfig --enable-all-gpus --allow-empty-initial-configuration --cool-bits=31 Now you can continue with non-root user, but add him to video group. Make .xinitrc in your own choice and startx (or startx& if you want to send it to background) Now you have to keep X running while you play with nvidia-settings. Now - export DISPLAY=:0 and in same terminal type something (you should play with values by testing it) like nvidia-settings -a [gpu:0]/GPUPowerMizerMode=1 nvidia-settings -a [gpu:0]/GPUGraphicsClockOffset[3]=-100 nvidia-settings -a [gpu:0]/GPUMemoryTransferRateOffset[3]=1200 nvidia-settings -a [gpu:0]/GPUFanControlState=1 nvidia-settings -a [fan:0]/GPUTargetFanSpeed=50 You can create script to execute it at startup. Also if you have many GPUs replace gpu:0 with gpu:1, gpu:2 etc. Also you can downvolt it via nvidia-smi -pl 90 (90 is just for example, value is watt) .
+
+from [https://www.reddit.com/r/EtherMining/comments/6gbnw4/is_anyone_able_to_overclockp0_a_1060_under_linux/](https://www.reddit.com/r/EtherMining/comments/6gbnw4/is_anyone_able_to_overclockp0_a_1060_under_linux/)
