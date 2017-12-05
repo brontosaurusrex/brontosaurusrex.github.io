@@ -45,3 +45,14 @@ published: true
 
     sudo apt autoremove # removes unused deps
     sudo apt autoclean  # clears downloaded cache
+    
+## SysInfo
+
+### ram
+
+    sudo /usr/sbin/dmidecode --type memory
+    
+### general
+
+    inxi -F -c 0
+
