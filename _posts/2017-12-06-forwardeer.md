@@ -6,4 +6,6 @@ title: forwardeer
 ---
 ![derForwardeer.svg]({{site.baseurl}}/media/derForwardeer.svg)
 ![derForwarder.svg]({{site.baseurl}}/media/derForwarder.svg)
+![derForwarderHole.svg]({{site.baseurl}}/media/derForwarderHole.svg)
+![derForwarderHoleOrange.svg]({{site.baseurl}}/media/derForwarderHoleOrange.svg)
 
