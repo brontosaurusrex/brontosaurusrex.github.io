@@ -9,7 +9,8 @@ title: Snowflake
 
 (Blender / darktable / gimp 2.9)
 
-## part2
+## stuff
 
 [https://chaoticmind75.blogspot.si/p/wallpapers.html](https://chaoticmind75.blogspot.si/p/wallpapers.html)  
 [http://paulkaplan.me/SnowflakeGenerator](http://paulkaplan.me/SnowflakeGenerator)  
+[https://openclipart.org/detail/206156/snowflake-generator](https://openclipart.org/detail/206156/snowflake-generator) (inkscape)  
