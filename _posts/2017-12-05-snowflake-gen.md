@@ -11,4 +11,5 @@ title: Snowflake
 
 ## part2
 
-[http://paulkaplan.me/SnowflakeGenerator](http://paulkaplan.me/SnowflakeGenerator)
+[https://chaoticmind75.blogspot.si/p/wallpapers.html](https://chaoticmind75.blogspot.si/p/wallpapers.html)  
+[http://paulkaplan.me/SnowflakeGenerator](http://paulkaplan.me/SnowflakeGenerator)  
