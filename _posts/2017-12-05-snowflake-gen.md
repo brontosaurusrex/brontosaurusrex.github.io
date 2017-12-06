@@ -8,3 +8,7 @@ title: Snowflake
 [![snowflake2_gimp3.md.png](https://cdn.scrot.moe/images/2017/12/06/snowflake2_gimp3.md.png)](https://cdn.scrot.moe/images/2017/12/06/snowflake2_gimp3.png)
 
 (Blender / darktable / gimp 2.9)
+
+## part2
+
+[http://paulkaplan.me/SnowflakeGenerator](http://paulkaplan.me/SnowflakeGenerator)
