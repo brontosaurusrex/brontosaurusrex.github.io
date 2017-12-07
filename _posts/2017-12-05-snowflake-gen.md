@@ -9,7 +9,8 @@ title: Snowflake
 
 (Blender / darktable / gimp 2.9)
 
-soon: flake4_ps1.png, flake4b.png
+[![flake4_ps1.md.png](https://cdn.scrot.moe/images/2017/12/07/flake4_ps1.md.png)](https://cdn.scrot.moe/images/2017/12/07/flake4_ps1.png)
+[![flake4b.md.png](https://cdn.scrot.moe/images/2017/12/07/flake4b.md.png)](https://cdn.scrot.moe/images/2017/12/07/flake4b.png)
 
 ## stuff
 
