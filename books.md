@@ -53,3 +53,9 @@ published: true
 > Whilst mercury delay-line storage systems were being developed at NPL, Cambridge and elsewhere, another line of research had been started in America. Engineers at the Massachusetts Institute of Technology (MIT) had attempted to memorise, or store, a radar scan using electrostatic charges inside a cathode ray tube (CRT). (1946)
 
 ^ This one is probably not worth reading, besides those little interesting pieces of computer history info.
+
+## "Surely You're Joking, Mr. Feynman!"
+
+Anekdotes, but the main idea is 'how to think about things'.
+
+> It's nice that I got some money ­­ I was able to buy a beach house ­­ but altogether, I think it would have been much nicer not to have had the Prize ­­ because you never, any longer, can be taken straightforwardly in any public situation.
