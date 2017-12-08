@@ -7,3 +7,6 @@ title: dim display
     xrandr --output HDMI-1 --brightness 0.7 # 1 is default
     
 On this specific monitor/setup 0.7 seems fine for ebook reading.
+
+[toggleBrightness script](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/toggleBrightness)
+
