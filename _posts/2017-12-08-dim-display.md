@@ -8,5 +8,7 @@ title: dim display
     
 On this specific monitor/setup 0.7 seems fine for ebook reading.
 
-[toggleBrightness script](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/toggleBrightness)
+Software [toggleBrightness script](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/toggleBrightness) of primary/connected monitor for the benefit of reading an ebook.
+
+
 
