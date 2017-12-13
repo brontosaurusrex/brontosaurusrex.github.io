@@ -27,3 +27,9 @@ title: Magic background color
   style="fill:#263238" />
 </svg> 
 263238 > As seen in Tilix
+
+<svg width="720" height="200">
+  <rect width="720" height="200" rx="5" ry="5" 
+  style="fill:#303D43" />
+</svg> 
+303D43 > Charcoal grey
