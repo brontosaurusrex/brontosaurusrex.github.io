@@ -23,3 +23,6 @@ Making of black hole
 With some cubism  
 [![ballOfLight4cubism2.md.png](https://cdn.scrot.moe/images/2017/12/03/ballOfLight4cubism2.md.png)](https://cdn.scrot.moe/images/2017/12/03/ballOfLight4cubism2.png)
 [![ballOfLight3cubism2.md.png](https://cdn.scrot.moe/images/2017/12/03/ballOfLight3cubism2.md.png)](https://cdn.scrot.moe/images/2017/12/03/ballOfLight3cubism2.png)
+
+Another try, rendered via sheepit post with gimp2.9  
+[![ballOfLight7_gimp2.md.png](https://cdn.scrot.moe/images/2017/12/15/ballOfLight7_gimp2.md.png)](https://cdn.scrot.moe/images/2017/12/15/ballOfLight7_gimp2.png)
