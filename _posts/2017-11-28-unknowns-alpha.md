@@ -30,8 +30,7 @@ Same, [but less luminous](https://cdn.scrot.moe/images/2017/12/15/ballOfLight7_g
 
 And one more  
 [![anim2_gimp6.md.png](https://cdn.scrot.moe/images/2017/12/15/anim2_gimp6.md.png)](https://cdn.scrot.moe/images/2017/12/15/anim2_gimp6.png)  
-[less lumious.](https://cdn.scrot.moe/images/2017/12/15/anim2_gimp5.png)
+[Less lumious.](https://cdn.scrot.moe/images/2017/12/15/anim2_gimp5.png) [And monotone.](https://cdn.scrot.moe/images/2017/12/15/anim2_gimp6_mono.png)
 
 Material (mixing random colors with env texture)  
 ![mixingRandomColorsWithEnvForColor-fs8.png]({{site.baseurl}}/media/mixingRandomColorsWithEnvForColor-fs8.png)
-
