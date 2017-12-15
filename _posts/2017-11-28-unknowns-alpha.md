@@ -27,3 +27,11 @@ With some cubism
 Another try, rendered via sheepit post with gimp2.9  
 [![ballOfLight7_gimp2.md.png](https://cdn.scrot.moe/images/2017/12/15/ballOfLight7_gimp2.md.png)](https://cdn.scrot.moe/images/2017/12/15/ballOfLight7_gimp2.png)  
 Same, [but less luminous](https://cdn.scrot.moe/images/2017/12/15/ballOfLight7_gimp3.png).
+
+And one more  
+[![anim2_gimp6.md.png](https://cdn.scrot.moe/images/2017/12/15/anim2_gimp6.md.png)](https://cdn.scrot.moe/images/2017/12/15/anim2_gimp6.png)  
+[less lumious.](https://cdn.scrot.moe/images/2017/12/15/anim2_gimp5.png)
+
+Material (mixing random colors with env texture)  
+![mixingRandomColorsWithEnvForColor-fs8.png]({{site.baseurl}}/media/mixingRandomColorsWithEnvForColor-fs8.png)
+
