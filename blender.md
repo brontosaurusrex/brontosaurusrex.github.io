@@ -32,6 +32,7 @@ published: true
 
     shift + a = add stuff
     ctrl + alt + shift + c = set origin ...
+    alt +g = center stuff
     
 ## bezier
 
