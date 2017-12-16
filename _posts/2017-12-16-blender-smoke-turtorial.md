@@ -8,3 +8,6 @@ title: Blender smoke turtorial
 
     ctrl + h (hides emitter)
     alt + g (center stuff)
+    
+My try (opengl render)  
+[https://youtu.be/_zA595eVCl8](https://youtu.be/_zA595eVCl8)
