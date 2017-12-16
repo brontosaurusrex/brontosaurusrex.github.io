@@ -10,4 +10,6 @@ title: Blender smoke turtorial
     alt + g (center stuff)
     
 My try (opengl render)  
-[https://youtu.be/_zA595eVCl8](https://youtu.be/_zA595eVCl8)
+[https://youtu.be/_zA595eVCl8](https://youtu.be/_zA595eVCl8)  
+tmp dl  
+[https://transfer.sh/5WWzA/smokeAll.mkv](https://transfer.sh/5WWzA/smokeAll.mkv)
