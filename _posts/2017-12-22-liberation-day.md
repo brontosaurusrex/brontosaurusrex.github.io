@@ -10,7 +10,7 @@ title: Liberation day
 EVENT OF RECENT TIMES, AND DEFINITELY THE MOST
 SURPRISING DOCUMENTARY YOU’LL SEE THIS YEAR”
 
-It happened in 2015.
+It happened in 2015 (film released in 2016).
 
 ![visual-film-1.jpg]({{site.baseurl}}/media/visual-film-1.jpg)
 
