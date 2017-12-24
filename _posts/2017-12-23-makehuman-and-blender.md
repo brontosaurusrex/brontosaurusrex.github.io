@@ -12,3 +12,6 @@ Good background could be some sort of blue #254D60.
 
 Materials  
 [https://www.3d-wolf.com/materials.html](https://www.3d-wolf.com/materials.html)
+
+Statue, keyboard worker  
+[![ladyStatue10_gimp4.md.png](https://cdn.scrot.moe/images/2017/12/24/ladyStatue10_gimp4.md.png)](https://cdn.scrot.moe/images/2017/12/24/ladyStatue10_gimp4.png)
