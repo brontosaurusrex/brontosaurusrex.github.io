@@ -4,7 +4,7 @@ layout: post
 date: '2017-12-23 16:41 +0100'
 title: Makehuman and Blender
 ---
-Statue, keyboard worker  
+Statue, _Keyboard Worker_  
 [![ladyStatue10_gimp4.md.png](https://cdn.scrot.moe/images/2017/12/24/ladyStatue10_gimp4.md.png)](https://cdn.scrot.moe/images/2017/12/24/ladyStatue10_gimp4.png)
 [![ladyStatue12_gimp3.md.png](https://cdn.scrot.moe/images/2017/12/24/ladyStatue12_gimp3.md.png)](https://cdn.scrot.moe/images/2017/12/24/ladyStatue12_gimp3.png)
 [![ladyStatue12_gimp2.md.png](https://cdn.scrot.moe/images/2017/12/24/ladyStatue12_gimp2.md.png)](https://cdn.scrot.moe/images/2017/12/24/ladyStatue12_gimp2.png)
