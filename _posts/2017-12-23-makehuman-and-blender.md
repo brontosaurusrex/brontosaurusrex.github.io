@@ -10,3 +10,5 @@ Good background could be some sort of blue #254D60.
 
 ![simpleSkinMaterial.png]({{site.baseurl}}/media/simpleSkinMaterial.png)
 
+Materials  
+[https://www.3d-wolf.com/materials.html](https://www.3d-wolf.com/materials.html)
