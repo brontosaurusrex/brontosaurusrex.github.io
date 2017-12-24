@@ -6,6 +6,8 @@ title: Makehuman and Blender
 ---
 Statue, keyboard worker  
 [![ladyStatue10_gimp4.md.png](https://cdn.scrot.moe/images/2017/12/24/ladyStatue10_gimp4.md.png)](https://cdn.scrot.moe/images/2017/12/24/ladyStatue10_gimp4.png)
+[![ladyStatue12_gimp3.md.png](https://cdn.scrot.moe/images/2017/12/24/ladyStatue12_gimp3.md.png)](https://cdn.scrot.moe/images/2017/12/24/ladyStatue12_gimp3.png)
+[![ladyStatue12_gimp2.md.png](https://cdn.scrot.moe/images/2017/12/24/ladyStatue12_gimp2.md.png)](https://cdn.scrot.moe/images/2017/12/24/ladyStatue12_gimp2.png)
 
 Plain  
 [![lady9.md.png](https://cdn.scrot.moe/images/2017/12/23/lady9.md.png)](https://cdn.scrot.moe/images/2017/12/23/lady9.png)
