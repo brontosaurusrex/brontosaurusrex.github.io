@@ -9,9 +9,9 @@ Statue, _Keyboard Worker_
 [![ladyStatue12_gimp3.md.png](https://cdn.scrot.moe/images/2017/12/24/ladyStatue12_gimp3.md.png)](https://cdn.scrot.moe/images/2017/12/24/ladyStatue12_gimp3.png)
 [![ladyStatue12_gimp2.md.png](https://cdn.scrot.moe/images/2017/12/24/ladyStatue12_gimp2.md.png)](https://cdn.scrot.moe/images/2017/12/24/ladyStatue12_gimp2.png)
 
-![scrot-fs8.png]({{site.baseurl}}/media/scrot-fs8.png)
-
 Attribution: [Apple wireless keyboard model](https://www.blendswap.com/blends/view/89423) is released under Creative Commons Attribution 3.0 by keeslaff.
+
+![scrot-fs8.png]({{site.baseurl}}/media/scrot-fs8.png)
 
 Plain  
 [![lady9.md.png](https://cdn.scrot.moe/images/2017/12/23/lady9.md.png)](https://cdn.scrot.moe/images/2017/12/23/lady9.png)
