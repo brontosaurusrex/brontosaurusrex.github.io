@@ -38,6 +38,15 @@ published: true
 
     ctrl + c = close curve
     
+## node wrangler addon
+
+https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Nodes/Nodes_Efficiency_Tools
+
+    ctrl + shift + LMB = Shader viewer (Easy way of prewiewing textures.)
+    alt + s = swap links
+    ctrl + T = Add Texture Setup (especially for world node)
+    O = Link to Output Node
+    
 ## addons
 
 - booltool (bundled)
