@@ -138,8 +138,8 @@ img {
     width: 935px;
     max-width: 935px;
 */
-    margin-top:     -3.2rem;
-    margin-bottom:  -1.0rem;
+    margin-top:     -4.5rem;
+    margin-bottom:  -2.0rem;
     margin-left: 0rem;
     /* b: Z index must be smaller than navigation block, this is not working */
     z-index: -10;
