@@ -134,11 +134,13 @@ img {
 
 .brontologo {
     margin: auto; 
+/*
     width: 935px;
     max-width: 935px;
-    margin-top:     -4.0rem;
-    margin-bottom:  -0.3rem;
-    margin-left: -5rem;
+*/
+    margin-top:     -3.2rem;
+    margin-bottom:  -1.0rem;
+    margin-left: 0rem;
     /* b: Z index must be smaller than navigation block, this is not working */
     z-index: -10;
   /*
