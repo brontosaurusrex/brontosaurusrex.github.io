@@ -57,6 +57,7 @@ https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Nodes/Nodes_Efficie
 - Animation Nodes (free) < amazing!
 - Sverchok (free)
 - hard ops (commercial)
+- EasyFX (free postprocessing single-click effects, like sharpen or vignette)
 
 ## Shortcut infographics
 
