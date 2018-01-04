@@ -59,6 +59,8 @@ https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Nodes/Nodes_Efficie
 - hard ops (commercial)
 - EasyFX (free postprocessing single-click effects, like sharpen or vignette)
 
+Many more https://www.blenderguru.com/articles/12-useful-blender-addons-everyone-should-use
+
 ## Shortcut infographics
 
 [infographics](https://tplinnovator.files.wordpress.com/2015/09/blender3d-shortcuts-infographic.jpg)  
