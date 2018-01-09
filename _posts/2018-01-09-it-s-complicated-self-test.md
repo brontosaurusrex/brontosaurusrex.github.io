@@ -16,7 +16,7 @@ Personally never heard about iMesagge (asumming that something osxish). I guess 
 
 > Not knowing why having an Android user in a group text makes it worse than an iMessage group with iPhone users
 
-What?
+What? Is that the same sort of knowhow that makes you send excel crap in attachements?
 
 > Thinking Hulu and Roku were the same thing
 
@@ -24,7 +24,7 @@ I thought they are brothers.
 
 > “Why can’t Siri play Spotify?”
 
-Cos she doesn't who Roku is?
+Cos she doesn't who Roku is? Or she is just that complicated and offended.
 
 So I guess it is complicated, or I'am less of a f..... **consumer**.
 
