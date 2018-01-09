@@ -26,7 +26,7 @@ No idea what either of those is.
 
 Why?
 
-So I guess it is, or I'am less of f**** **consumer**.
+So I guess it is complicated, or I'am less of a f**** **consumer**.
 
 Is it a **gui** problem? This one is pretty clear I guess:  
 ![](https://img2.cgtrader.com/items/26165/b5d26d92cf/old-time-radio-3d-model-max.jpg)
