@@ -33,4 +33,5 @@ Is it a **gui** problem? This one is pretty clear I guess:
 
 I'd like a unit with some [mega and gigacycles](https://swling.com/blog/wp-content/uploads/2017/05/Last-Import-1-of-154-11.jpg) please.
 
-
+Winner:  
+> I can understand a button-knob, but I cannot fathom why anyone would want their climate controls in a touchscreen.
