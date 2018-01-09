@@ -20,11 +20,11 @@ What?
 
 > Thinking Hulu and Roku were the same thing
 
-No idea what either of those is.
+I thought they are brothers.
 
 > “Why can’t Siri play Spotify?”
 
-Cos it doesn't know what roku is?
+Cos she doesn't who Roku is?
 
 So I guess it is complicated, or I'am less of a f..... **consumer**.
 
