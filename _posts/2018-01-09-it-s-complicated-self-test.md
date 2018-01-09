@@ -35,3 +35,12 @@ I'd like a unit with some [mega and gigacycles](https://swling.com/blog/wp-conte
 
 Winner:  
 > I can understand a button-knob, but I cannot fathom why anyone would want their climate controls in a touchscreen.
+
+p.s. This one  
+![offOnRedOne.png]({{site.baseurl}}/media/offOnRedOne.png)
+
+is confusing as well:
+- Why is red attached to on?
+- Why is on down (isn't it usually the other way?)
+- Will this start Siri or Roku?
+
