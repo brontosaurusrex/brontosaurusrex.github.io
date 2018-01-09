@@ -12,7 +12,7 @@ Fair.
 
 > Not knowing the difference between iMessage and SMS, or what iMessage is except “blue bubbles”
 
-Personally never heard about iMesagge (asumming that something osxish)
+Personally never heard about iMesagge (asumming that something osxish). I guess it gets complicated when SMS is money and the other stuff isn't.
 
 > Not knowing why having an Android user in a group text makes it worse than an iMessage group with iPhone users
 
