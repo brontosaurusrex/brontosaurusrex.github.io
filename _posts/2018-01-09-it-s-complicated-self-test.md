@@ -24,7 +24,7 @@ No idea what either of those is.
 
 > “Why can’t Siri play Spotify?”
 
-Why?
+Cos it doesn't know what roku is?
 
 So I guess it is complicated, or I'am less of a f..... **consumer**.
 
