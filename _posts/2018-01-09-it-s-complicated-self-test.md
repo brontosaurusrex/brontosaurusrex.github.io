@@ -39,7 +39,7 @@ Winner:
 p.s. This one  
 ![offOnRedOne.png]({{site.baseurl}}/media/offOnRedOne.png)
 
-is confusing as well:
+is complicated as well:
 - Why is red attached to on?
 - Why is on down (isn't it usually the other way?)
 - Will this start Siri or Roku?
