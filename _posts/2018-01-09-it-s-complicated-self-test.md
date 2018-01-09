@@ -31,4 +31,6 @@ So I guess it is, or I'am less of f**** **consumer**.
 Is it a **gui** problem? This one is pretty clear I guess:  
 ![](https://img2.cgtrader.com/items/26165/b5d26d92cf/old-time-radio-3d-model-max.jpg)
 
+I'd like a unit with some [mega and gigacycles](https://swling.com/blog/wp-content/uploads/2017/05/Last-Import-1-of-154-11.jpg) please.
+
 
