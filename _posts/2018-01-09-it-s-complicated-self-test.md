@@ -24,7 +24,7 @@ I thought they are brothers.
 
 > “Why can’t Siri play Spotify?”
 
-Cos she doesn't who Roku is? Or she is just that complicated and offended.
+Cos she doesn't know who Roku is? Or she is just that complicated and offended.
 
 So I guess it is complicated, or I'am less of a f..... **consumer**.
 
@@ -43,4 +43,3 @@ is complicated as well:
 - Why is red attached to on?
 - Why is on down (isn't it usually the other way?)
 - Will this start Siri or Roku?
-
