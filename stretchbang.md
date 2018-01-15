@@ -72,6 +72,12 @@ Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance.
 
 Darker version would be Adapta-Nokto for gtk and openbox, 'Breeze Dark Papirus GTK b full' for icons, .Xresources.adaptaColors, 'browser' script for firefox (patched to wbar and ob menu).
 
+edit: Another nice icon set is [luv](https://github.com/Nitrux/luv-icon-theme). With inheritance in index.theme set to
+
+    Inherits=breeze-dark-Papirus-GTK-b_full
+
+or some other Papirus variant.
+
 # wbar
 
     sudo apt install --no-install-recommends wbar wbar-config
