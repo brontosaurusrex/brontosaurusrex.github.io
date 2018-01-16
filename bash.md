@@ -2,6 +2,7 @@
 layout: page
 title: bash and friends
 published: true
+tags: bash cli
 ---
 
 ## TOC
