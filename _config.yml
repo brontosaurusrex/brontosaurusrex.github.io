@@ -50,3 +50,21 @@ prose:
         field:
           element: "hidden"
           value: "true"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+             - name: "Linux"
+              value: "Linux"
+             - name: "Blender"
+              value: "Blender"
+             - name: "Video"
+              value: "Video"
+             - name: "Audio"
+              value: "Audio"
+             - name: "cli"
+              value: "cli"
+             - name: "misc"
+              value: "misc"
