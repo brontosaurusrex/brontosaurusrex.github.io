@@ -34,4 +34,10 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+  
+  <!-- tags http://longqian.me/2017/02/09/github-jekyll-tag/ -->
+  {% if site.tags != "" %}
+  {% include collecttags.html %}
+  {% endif %}
+
 </head>

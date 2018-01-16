@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-11-14 11:57 +0100'
 title: mpv tv
+tags: video mine
 ---
 ## tv script
 

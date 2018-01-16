@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-12-22 13:17 +0100'
 title: Liberation day
+tags: video misc
 ---
 [http://www.liberationday.film/](http://www.liberationday.film/)
 

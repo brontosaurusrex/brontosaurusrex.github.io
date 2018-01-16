@@ -626,6 +626,17 @@ a.pagination-item:hover {
 
 }
 
+.tags {
+        font-size: .75rem;
+}
+
+/*
+a.tags:link {
+        color: #C9614B;
+}
+*/
+
+
 /* this should apply to searchform only by bronto */
 
 input[type="text"] {	

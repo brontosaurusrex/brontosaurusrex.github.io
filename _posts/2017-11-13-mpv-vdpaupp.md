@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-11-13 19:48 +0100'
 title: mpv vdpaupp
+tags: video
 ---
 Deinterlace with nvidia
 

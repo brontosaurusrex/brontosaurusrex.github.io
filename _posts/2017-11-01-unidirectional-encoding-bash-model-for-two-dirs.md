@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-11-01 10:17 +0100'
 title: unidirectional encoding bash model for two dirs
+tags: bash cli linux
 ---
 plain serial  
 [~bin/unidirectionalDirEncoderModel](https://github.com/brontosaurusrex/stretchbang/blob/master/.experiments/bin/unidirectionalDirEncoderModel)

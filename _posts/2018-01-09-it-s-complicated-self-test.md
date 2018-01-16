@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2018-01-09 21:29 +0100'
 title: It's complicated (self test)
+tags: misc
 ---
 [https://www.theverge.com/2018/1/7/16861056/ces-2018-bad-assumptions-smart-assistants-tech-confusion](https://www.theverge.com/2018/1/7/16861056/ces-2018-bad-assumptions-smart-assistants-tech-confusion)
 

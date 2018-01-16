@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-10-24 21:37 +0200'
 title: blender remote rendering with gpu(s)
+tags: blender cli linux
 ---
 gpu.py
 

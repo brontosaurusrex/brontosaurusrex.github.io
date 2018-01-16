@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-11-08 11:30 +0100'
 title: encrypt/decryp and cloud storage
+tags: cli linux
 ---
 [http://distrowatch.com/weekly.php?issue=20110516#tips](http://distrowatch.com/weekly.php?issue=20110516#tips)
 

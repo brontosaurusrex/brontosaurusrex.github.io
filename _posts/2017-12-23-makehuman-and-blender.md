@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-12-23 16:41 +0100'
 title: Makehuman and Blender
+tags: blender
 ---
 Statue, _Keyboard Worker_ (or _Keyboard Warrior_).
 [![ladyStatue10_gimp4.md.png](https://cdn.scrot.moe/images/2017/12/24/ladyStatue10_gimp4.md.png)](https://cdn.scrot.moe/images/2017/12/24/ladyStatue10_gimp4.png)

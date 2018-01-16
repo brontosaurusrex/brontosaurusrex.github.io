@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-10-22 21:23 +0200'
 title: 'Ubuntu 17.10, now with gnome shell'
+tags: linux
 ---
 ## gnome 3
 

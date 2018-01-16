@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-11-06 17:10 +0100'
 title: ffmpeg deinterlacing
+tags: video cli
 ---
 yadif, bwdif, nnedi
 

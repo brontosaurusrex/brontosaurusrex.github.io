@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-10-26 14:26 +0200'
 title: Cineform goes opensource
+tags: video
 ---
 [https://gopro.github.io/cineform-sdk/](https://gopro.github.io/cineform-sdk/)
 

@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2018-01-03 20:01 +0100'
 title: Easy low poly character using skin modifier
+tags: blender
 ---
 [https://www.youtube.com/watch?v=W0ySG59xkys](https://www.youtube.com/watch?v=W0ySG59xkys)
 

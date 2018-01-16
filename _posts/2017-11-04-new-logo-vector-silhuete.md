@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-11-04 16:00 +0100'
 title: 'New logo, vector silhuete'
+tags: mine
 ---
 ![NewLogosvg.svg]({{site.baseurl}}/media/NewLogosvg.svg)
 ![NewLogosvg2.svg]({{site.baseurl}}/media/NewLogosvg2.svg)

@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2018-01-13 19:33 +0100'
 title: cuda thing
+tags: linux
 ---
 Install the driver that comes with this cuda thing!
 

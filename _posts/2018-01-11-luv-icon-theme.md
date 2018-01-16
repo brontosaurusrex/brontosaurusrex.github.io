@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2018-01-11 18:58 +0100'
 title: luv icon theme
+tags: misc luv
 ---
 [https://github.com/Nitrux/luv-icon-theme](https://github.com/Nitrux/luv-icon-theme)
 
