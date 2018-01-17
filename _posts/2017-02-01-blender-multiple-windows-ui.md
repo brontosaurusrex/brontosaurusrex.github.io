@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-02-01 18:25 +0100'
 title: Blender multiple windows UI
+tags: blender
 ---
 Somehow I didn't even know this was possible.
 

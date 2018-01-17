@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-01-11 13:13 +0100'
 title: specific urxvt transparent
+tags: linux mine
 ---
 start with
 

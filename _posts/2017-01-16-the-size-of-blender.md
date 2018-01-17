@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-01-16 13:40 +0100'
 title: The size of Blender
+tags: blender
 ---
 [https://www.youtube.com/watch?v=CqSEtTF8hPE](https://www.youtube.com/watch?v=CqSEtTF8hPE)
 

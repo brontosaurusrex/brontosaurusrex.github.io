@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-06-10 19:33 +0200'
 title: yeah i totally have a pc…it lives in canada
+tags: luv
 ---
 > john fur:  you are correct. but my computer accumulated dust in that time and i need compressed air to clean it out again  
 > john: so hopefully that'll be done by today and i can stop relying on this pi for youtube vids  

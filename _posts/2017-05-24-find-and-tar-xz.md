@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-05-24 13:56 +0200'
 title: find and tar xz
+tags: linux cli
 ---
     find . -type f -name "*.blend" | tar -cJf blenderBlends.tar.xz -T -
     

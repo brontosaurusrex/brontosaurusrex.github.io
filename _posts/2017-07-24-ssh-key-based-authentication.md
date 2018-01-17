@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-07-24 18:52 +0200'
 title: SSH Key-Based Authentication
+tags: linux
 ---
 ### local machine
 

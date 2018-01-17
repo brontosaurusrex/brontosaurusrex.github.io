@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-01-17 00:32 +0100'
 title: 'Blender, stamping with normal brush to normal map'
+tags: blender mine
 ---
 - A new texture filled with default normal color, hex 8080FF, make it float. Save the image.
 - unwrap the model

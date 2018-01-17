@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-09-03 00:36 +0200'
 title: link to Blender
+tags: linux blender bash mine
 ---
     lynx -listonly -nonumbers -dump https://builder.blender.org/download/ | grep x86_64 | grep linux | grep https | head -1
     

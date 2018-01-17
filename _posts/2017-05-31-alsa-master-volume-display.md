@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-06-02 12:05 +0200'
 title: ALSA master volume display in tint2 executor
+tags: audio bash mine linux
 ---
     awk -F"[][]" '/dB/ { print $2 }' <(amixer sget Master)
     # or without the percentage sign

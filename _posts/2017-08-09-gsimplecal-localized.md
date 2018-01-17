@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-08-09 16:36 +0200'
 title: gsimplecal localized
+tags: linux mine 
 ---
 Example
 

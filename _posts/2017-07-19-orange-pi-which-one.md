@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-07-19 13:41 +0200'
 title: orange pi (which one?)
+tags: misc linux
 ---
 ## power supply
 

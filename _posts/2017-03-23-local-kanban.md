@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-04-05 11:22 +0100'
 title: local kanban
+tags: cli mine
 ---
 ![kanban image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Simple-kanban-board-.jpg/600px-Simple-kanban-board-.jpg)
 

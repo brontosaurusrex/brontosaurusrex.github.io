@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-05-24 23:53 +0200'
 title: Debian Stretch on 2009 MacPro
+tags: linux mine
 ---
 ## Problemos:
 

@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-12-16 12:21 +0100'
 title: Blender initial particle speed
+tags: blender
 ---
 For particles to have initial emitter speed:
 - Physics must be newtonian or fluid (boids will not work)

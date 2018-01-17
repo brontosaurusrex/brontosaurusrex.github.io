@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-08-11 22:00 +0200'
 title: Nvidia and small fonts
+tags: linux
 ---
 Add
 

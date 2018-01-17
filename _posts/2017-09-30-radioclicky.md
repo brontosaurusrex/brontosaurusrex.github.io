@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-09-30 12:26 +0200'
 title: radioClicky for tint2 and cli
+tags: mine cli bash linux
 ---
 git
 [https://github.com/brontosaurusrex/radioClicky](https://github.com/brontosaurusrex/radioClicky)

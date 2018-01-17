@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-02-06 20:41 +0100'
 title: Mount a VirtualBox drive image (vdi)?
+tags: cli linux
 ---
 [http://askubuntu.com/questions/19430/mount-a-virtualbox-drive-image-vdi](http://askubuntu.com/questions/19430/mount-a-virtualbox-drive-image-vdi)
 

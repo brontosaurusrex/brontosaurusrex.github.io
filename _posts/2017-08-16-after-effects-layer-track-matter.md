@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-08-16 18:50 +0200'
 title: 'after effects, layer track matte'
+tags: video
 ---
     eye     layer name       TrkMat
     ---------------------------------

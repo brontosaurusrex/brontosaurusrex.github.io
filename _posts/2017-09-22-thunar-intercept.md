@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-09-22 12:40 +0200'
 title: thunar intercept
+tags: bash linux
 ---
 Custom action like this
 

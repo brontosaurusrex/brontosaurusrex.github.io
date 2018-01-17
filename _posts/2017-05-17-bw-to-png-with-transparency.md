@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-05-17 17:11 +0200'
 title: bw to png with transparency
+tags: linux cli
 ---
 [https://forums.bunsenlabs.org/viewtopic.php?id=3705](https://forums.bunsenlabs.org/viewtopic.php?id=3705)
 

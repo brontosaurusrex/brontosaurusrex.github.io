@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-06-14 23:15 +0200'
 title: Apple Cinema Display Control Utility for Linux
+tags: cli linux
 ---
     git clone https://github.com/warvariuc/acdcontrol
     make

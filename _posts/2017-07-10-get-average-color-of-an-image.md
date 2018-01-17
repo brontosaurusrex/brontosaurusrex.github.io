@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-07-10 12:45 +0200'
 title: Get average color of an image
+tags: misc
 ---
 [http://matkl.github.io/average-color/](http://matkl.github.io/average-color/)  
 [http://stuf.ro/finding-the-average-color-of-an-image](http://stuf.ro/finding-the-average-color-of-an-image)

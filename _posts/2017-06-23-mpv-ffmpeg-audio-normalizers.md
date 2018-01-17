@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-06-23 08:31 +0200'
 title: 'mpv, ffmpeg audio normalizers'
+tags: video audio
 ---
 ## Make some sort of alias
 

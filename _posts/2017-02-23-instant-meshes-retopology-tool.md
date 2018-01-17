@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-02-23 11:41 +0100'
 title: Instant meshes (retopology tool?)
+tags: blender
 ---
 [https://github.com/wjakob/instant-meshes](https://github.com/wjakob/instant-meshes)
 

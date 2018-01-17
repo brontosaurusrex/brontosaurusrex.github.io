@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-09-11 19:02 +0200'
 title: curl gmail
+tags: cli web
 ---
     curl -u user@gmail.com --silent "https://mail.google.com/mail/feed/atom" > tmp.txt
     # will ask for password

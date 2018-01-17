@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-10-12 22:03 +0200'
 title: gimp 2.9.x nth time
+tags: linux
 ---
 ## an appimage
 

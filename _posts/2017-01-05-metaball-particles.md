@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-01-05 00:35 +0100'
 title: Metaball particles
+tags: mine blender
 ---
 ![meta.png]({{site.baseurl}}/media/meta.png)
 

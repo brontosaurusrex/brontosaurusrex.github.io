@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-05-12 10:23 +0200'
 title: Video editing gui
+tags: video
 ---
 a.
 

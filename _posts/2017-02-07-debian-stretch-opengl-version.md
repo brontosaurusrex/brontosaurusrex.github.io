@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-02-07 14:00 +0100'
 title: Debian Stretch OpenGL version?
+tags: video linux blender
 ---
 ![openGl.png]({{site.baseurl}}/media/openGl.png)
 

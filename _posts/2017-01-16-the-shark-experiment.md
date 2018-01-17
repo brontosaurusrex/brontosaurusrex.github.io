@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-01-16 20:20 +0100'
 title: The shark experiment
+tags: mine blender
 ---
 [![shark.th.jpg](https://cdn.scrot.moe/images/2017/01/16/shark.th.jpg)](https://cdn.scrot.moe/images/2017/01/16/shark.jpg)
 [![shark2.th.jpg](https://cdn.scrot.moe/images/2017/01/16/shark2.th.jpg)](https://cdn.scrot.moe/images/2017/01/16/shark2.jpg)

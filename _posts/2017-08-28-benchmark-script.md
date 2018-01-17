@@ -3,6 +3,7 @@ published: false
 layout: post
 date: '2017-08-28 18:22 +0200'
 title: benchmark script
+tags: cli
 ---
     time for i in $(seq 1000); do script; done
     

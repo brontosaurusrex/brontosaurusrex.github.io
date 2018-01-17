@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-02-01 10:35 +0100'
 title: Why tilers are bad idea
+tags: linux
 ---
 - window is at the wrong place
 - window has wrong width/height

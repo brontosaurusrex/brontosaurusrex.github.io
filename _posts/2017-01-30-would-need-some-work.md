@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-02-01 15:00 +0100'
 title: Mental projection of my digital self
+tags: blender mine
 ---
 [![brontoRender_ps1.th.png](https://cdn.scrot.moe/images/2017/01/30/brontoRender_ps1.th.png)](https://cdn.scrot.moe/images/2017/01/30/brontoRender_ps1.png)
 

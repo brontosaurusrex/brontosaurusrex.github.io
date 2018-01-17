@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-01-03 10:04 +0100'
 title: Disney BSDF/BSSRDF in Blender?
+tags: blender
 ---
 > Pascal (Germany) joined the Cycles team this year, contributing the implementation of the Disney BSDF/BSSRDF.
 

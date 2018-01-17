@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-04-17 22:25 +0200'
 title: weather in terminal
+tags: cli linux
 ---
 without installing anything
 

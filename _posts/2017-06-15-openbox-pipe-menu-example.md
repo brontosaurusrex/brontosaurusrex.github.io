@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-06-15 23:36 +0200'
 title: Openbox pipe menu example
+tags: linux bash
 ---
 pipeTest (echo current date/time)
 

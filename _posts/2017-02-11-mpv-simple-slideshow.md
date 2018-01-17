@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-02-11 00:38 +0100'
 title: mpv simple slideshow
+tags: video cli
 ---
 This will not allow you to jump to previous pic, mpv is not aware of multiple files
 

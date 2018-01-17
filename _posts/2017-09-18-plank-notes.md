@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-09-18 23:20 +0200'
 title: plank notes
+tags: linux
 ---
     # local themes
     ~/.local/share/plank/themes

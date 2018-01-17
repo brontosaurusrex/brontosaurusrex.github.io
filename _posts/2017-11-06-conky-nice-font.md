@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-11-06 09:59 +0100'
 title: 'Conky, nice font'
+tags: linux
 ---
     default_bar_size 75 6
     TEXT

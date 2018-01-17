@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-01-17 17:55 +0100'
 title: ffmpeg extract multiple audio tracks
+tags: cli video audio
 ---
     ffmpeg -i input.mxf -map 0:a:0 -c copy ~/output/a1.wav -map 0:a:1 -c copy ~/output/a2.wav -map 0:a:2 -c copy ~/output/a3.wav -map 0:a:3 -c copy ~/output/a4.wav
     

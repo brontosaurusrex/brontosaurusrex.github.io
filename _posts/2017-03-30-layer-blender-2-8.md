@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-03-30 12:09 +0200'
 title: Layer (Blender 2.8)
+tags: blender
 ---
 [https://code.blender.org/2016/11/layers-and-beyond/](https://code.blender.org/2016/11/layers-and-beyond/)
 

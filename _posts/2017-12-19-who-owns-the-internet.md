@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2017-12-19 13:27 +0100'
 title: Who owns the internet?
-tags: misc
+tags: misc web
 ---
 [https://blog.medium.com/who-owns-the-internet-e6e44b17c815](https://blog.medium.com/who-owns-the-internet-e6e44b17c815)
 

@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-10-11 20:31 +0200'
 title: Running mpv as biatch
+tags: video linux cli bash
 ---
 ## primitive pipe (unidirectional, seems to be the best/simplest one)
 

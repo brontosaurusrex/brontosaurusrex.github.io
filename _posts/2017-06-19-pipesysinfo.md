@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-06-19 12:20 +0200'
 title: pipeSysInfo
+tags: mine bash linux
 ---
 [![pipeSysInfo.th.png](https://cdn.scrot.moe/images/2017/06/18/pipeSysInfo.th.png)](https://cdn.scrot.moe/images/2017/06/18/pipeSysInfo.png)
 

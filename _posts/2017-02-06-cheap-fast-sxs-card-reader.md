@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-02-06 15:17 +0100'
 title: Cheap & fast SxS card reader?
+tags: video
 ---
 ## Sony SBAC-US30 (fast & expensive)
 

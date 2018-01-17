@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-03-30 12:21 +0200'
 title: 'The Secret Ingredient to Photorealism '
+tags: video blender
 ---
 [https://www.youtube.com/watch?v=m9AT7H4GGrA](https://www.youtube.com/watch?v=m9AT7H4GGrA)  
 [http://www.blenderguru.com/tutorials/secret-ingredient-photorealism/](http://www.blenderguru.com/tutorials/secret-ingredient-photorealism/)  

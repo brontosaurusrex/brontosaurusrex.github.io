@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2017-12-17 00:54 +0100'
 title: Plexus with animation nodes
-tags: blender
+tags: blender mine
 ---
 [https://www.youtube.com/watch?v=dS2eid2hs-A](https://www.youtube.com/watch?v=dS2eid2hs-A)
 

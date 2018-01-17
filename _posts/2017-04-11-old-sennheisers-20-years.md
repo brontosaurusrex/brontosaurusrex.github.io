@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-04-11 12:50 +0200'
 title: Old Sennheisers (>20 years)
+tags: audio luv
 ---
 ## sennheiser HD 25-1, 70ohm  
 [![oldSenn-2407.th.jpg](https://cdn.scrot.moe/images/2017/04/11/oldSenn-2407.th.jpg)](https://cdn.scrot.moe/images/2017/04/11/oldSenn-2407.jpg)

@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-02-20 21:19 +0100'
 title: lanyon-plus
+tags: web
 ---
 [http://jekyllthemes.org/themes/lanyon-plus/](http://jekyllthemes.org/themes/lanyon-plus/)
 

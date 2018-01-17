@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-04-13 12:12 +0200'
 title: 'count up clock, after effects, javascript'
+tags: mine video
 ---
 ## expressions
 

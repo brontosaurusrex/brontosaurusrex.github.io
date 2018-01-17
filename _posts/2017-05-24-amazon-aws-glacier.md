@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-05-24 11:48 +0200'
 title: Amazon AWS glacier
+tags: web
 ---
 ![glacier.png]({{site.baseurl}}/media/glacier.png)
 

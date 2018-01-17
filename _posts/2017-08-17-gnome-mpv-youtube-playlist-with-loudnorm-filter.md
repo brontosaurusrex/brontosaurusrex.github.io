@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-08-17 23:13 +0200'
 title: 'mpv, youtube playlist with loudnorm filter'
+tags: video audio cli
 ---
 Deconstruct the url removing video entrie, just leave the playlist, like:
 

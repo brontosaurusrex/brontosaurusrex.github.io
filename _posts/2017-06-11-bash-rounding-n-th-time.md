@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-06-11 00:30 +0200'
 title: 'bash rounding, n-th time'
+tags: bash mine
 ---
 This bash function
 

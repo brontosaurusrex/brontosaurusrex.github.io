@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-07-03 09:41 +0200'
 title: 'Debian, list backports'
+tags: linux cli
 ---
 ## list
 

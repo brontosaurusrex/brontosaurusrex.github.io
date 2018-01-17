@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-04-03 10:31 +0200'
 title: hp laserjet 1018 on Debian
+tags: linux
 ---
     apt install cups printer-driver-foo2zjs
     

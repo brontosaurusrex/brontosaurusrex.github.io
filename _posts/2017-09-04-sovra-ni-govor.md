@@ -3,6 +3,7 @@ published: false
 layout: post
 date: '2017-09-04 19:07 +0200'
 title: Sovražni govor
+tags: misc
 ---
 [https://www.spletno-oko.si/sovrazni-govor/kaj-je-sovrazni-govor](https://www.spletno-oko.si/sovrazni-govor/kaj-je-sovrazni-govor)
 

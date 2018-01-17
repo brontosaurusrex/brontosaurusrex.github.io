@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-08-07 00:23 +0200'
 title: Yes You Can Public License (YYC)
+tags: misc
 ---
 ## YYC0
 

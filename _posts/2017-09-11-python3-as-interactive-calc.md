@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-09-11 10:38 +0200'
 title: python3 as interactive calc
+tags: cli linux bash mine
 ---
 Start python3 with empty prompt
 

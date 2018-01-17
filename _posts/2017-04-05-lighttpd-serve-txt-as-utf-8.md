@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-04-05 17:08 +0200'
 title: lighttpd serve .txt as utf-8
+tags: linux web
 ---
 In /etc/lighttpd/lighttpd.conf comment/disable
 

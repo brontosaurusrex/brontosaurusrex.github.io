@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-04-12 08:47 +0200'
 title: qt5 configuration tool - qt5ct
+tags: linux
 ---
 [https://fixmynix.com/change-qt5-application-style-with-qt5ct/](https://fixmynix.com/change-qt5-application-style-with-qt5ct/)  
 [https://sourceforge.net/projects/qt5ct/](https://sourceforge.net/projects/qt5ct/)

@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-07-06 22:32 +0200'
 title: cp or mv multiple src files to some dir
+tags: cli mine linux
 ---
     cd tmp
     mkdir dir && touch a b c

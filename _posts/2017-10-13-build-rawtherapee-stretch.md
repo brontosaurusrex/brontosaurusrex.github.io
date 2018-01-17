@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-10-13 17:41 +0200'
 title: build rawtherapee (stretch)
+tags: linux
 ---
 ### install debian build dependecies + some more
 

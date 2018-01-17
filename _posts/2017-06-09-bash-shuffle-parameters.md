@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-06-09 23:28 +0200'
 title: 'Bash, shuffle parameters'
+tags: bash
 ---
     # looptest
     # shuffle parameters

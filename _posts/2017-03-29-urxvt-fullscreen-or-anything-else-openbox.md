@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-03-29 10:26 +0200'
 title: 'urxvt fullscreen (or anything else), openbox'
+tags: mine linux
 ---
 ~/bin/fullscreen is a script like
 

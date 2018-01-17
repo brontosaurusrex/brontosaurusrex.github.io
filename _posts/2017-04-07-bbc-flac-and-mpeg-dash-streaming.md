@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-04-07 12:16 +0200'
 title: BBC FLAC and MPEG-DASH streaming (experiment)
+tags: video
 ---
 [http://www.bbc.co.uk/taster/projects/radio-3-concert-sound/inside-story](http://www.bbc.co.uk/taster/projects/radio-3-concert-sound/inside-story)
 

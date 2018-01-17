@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-06-23 08:24 +0200'
 title: How to make a website that won't get blocked by users
+tags: mine web
 ---
 ## 1st draft, for web "masters"
 

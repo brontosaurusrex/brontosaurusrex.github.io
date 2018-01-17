@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-03-01 19:55 +0100'
 title: Download all images linked from this site
+tags: mine web
 ---
 [https://raw.githubusercontent.com/brontosaurusrex/postbang/master/bin/siteImages](https://raw.githubusercontent.com/brontosaurusrex/postbang/master/bin/siteImages)
 

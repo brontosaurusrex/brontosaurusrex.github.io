@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-10-10 12:55 +0200'
 title: when mining stops
+tags: cli
 ---
     aptitude -r install linux-headers-$(uname -r|sed 's/[^-]*-[^-]*-//')
     cd Downloads

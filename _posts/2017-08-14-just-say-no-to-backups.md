@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-08-14 22:45 +0200'
 title: Just say NO to backups
+tags: misc mine
 ---
 Backups are bad karma, they are like that saying that "past will always haunt you", so no backups = solved. 
 

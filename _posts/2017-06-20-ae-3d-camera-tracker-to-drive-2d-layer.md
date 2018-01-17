@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-06-20 15:55 +0200'
 title: AE 3d camera tracker to drive 2d layer
+tags: video blender
 ---
 a. Do the solving  
 b. Create null and camera  

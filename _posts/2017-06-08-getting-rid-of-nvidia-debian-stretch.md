@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-06-08 10:47 +0200'
 title: Getting rid of nvidia (Debian Stretch)
+tags: linux
 ---
 ## Tested
 

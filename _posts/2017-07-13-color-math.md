@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-07-13 17:05 +0200'
 title: Color math
+tags: misc
 ---
 ## general
 [http://www.easyrgb.com/en/math.php](http://www.easyrgb.com/en/math.php)  

@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-08-03 15:36 +0200'
 title: draw audio waveform
+tags: audio cli
 ---
     # get some audio
     flite -voice slt -t "stretchbang" -o stretchbang.wav

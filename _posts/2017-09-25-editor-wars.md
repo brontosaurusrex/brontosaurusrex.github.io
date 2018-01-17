@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-09-25 00:22 +0200'
 title: editor wars
+tags: linux misc
 ---
 ## Kwrite 
 

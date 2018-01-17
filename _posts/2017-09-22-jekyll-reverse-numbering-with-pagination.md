@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-09-22 21:45 +0200'
 title: jekyll reverse numbering with pagination
+tags: web
 ---
     now:
 

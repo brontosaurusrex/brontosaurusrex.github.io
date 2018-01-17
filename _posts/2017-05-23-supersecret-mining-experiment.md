@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-05-23 21:34 +0200'
 title: Supersecret mining experiment
+tags: linux mine
 ---
 ![amazonTest.png]({{site.baseurl}}/media/amazonTest.png)
 

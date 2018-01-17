@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-07-31 09:06 +0200'
 title: 'openbox, move to next monitor'
+tags: linux
 ---
 In .config/openbox/rc.xml
 

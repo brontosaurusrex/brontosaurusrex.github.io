@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-03-08 13:32 +0100'
 title: Install jekyll as --user
+tags: web cli
 ---
     gem install --user jekyll
     

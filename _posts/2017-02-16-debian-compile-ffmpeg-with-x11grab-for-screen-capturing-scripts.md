@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-02-16 17:24 +0100'
 title: 'Debian, compile ffmpeg with libxcb (x11grab) for screen-capturing'
+tags: linux video
 ---
     sudo apt install libx264-dev yasm
 

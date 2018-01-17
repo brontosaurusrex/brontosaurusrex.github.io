@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-08-04 15:40 +0200'
 title: Gradients
+tags: linux mine 
 ---
 2pt sissy sky
 ![skySissy.svg]({{site.baseurl}}/media/skySissy.svg)

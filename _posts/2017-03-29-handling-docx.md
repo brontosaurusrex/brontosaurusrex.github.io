@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-03-29 11:41 +0200'
 title: Handling docx
+tags: cli linux mine
 ---
     apt install unoconv
     

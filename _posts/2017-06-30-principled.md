@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-06-30 18:03 +0200'
 title: Principled BSDF
+tags: blender
 ---
 Principled + filmic blender + some textures from [Andrew](https://www.poliigon.com).
 

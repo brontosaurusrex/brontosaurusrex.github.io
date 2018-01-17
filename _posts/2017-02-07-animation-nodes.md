@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-02-07 13:20 +0100'
 title: Animation nodes
+tags: blender
 ---
 [https://github.com/JacquesLucke/animation_nodes](https://github.com/JacquesLucke/animation_nodes)  
 [https://blenderartists.org/forum/showthread.php?350296-Addon-Animation-Nodes](https://blenderartists.org/forum/showthread.php?350296-Addon-Animation-Nodes)  

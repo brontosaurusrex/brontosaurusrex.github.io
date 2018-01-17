@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-09-13 20:45 +0200'
 title: 'duc, disk size to image'
+tags: cli linux
 ---
     sudo apt install duc
     duc index ~/. && duc graph -o ~/size.png ~/source

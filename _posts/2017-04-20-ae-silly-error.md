@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-04-20 13:04 +0200'
 title: ae silly error
+tags: video
 ---
 if this
 

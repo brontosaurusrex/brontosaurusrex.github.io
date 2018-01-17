@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-04-26 21:21 +0200'
 title: BMZ cursor
+tags: linux
 ---
 [https://www.gnome-look.org/p/1158321/](https://www.gnome-look.org/p/1158321/)
 

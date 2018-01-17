@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-08-23 20:06 +0200'
 title: tint2 show updates
+tags: cli bash linux
 ---
 ## interval - quasi solution
 

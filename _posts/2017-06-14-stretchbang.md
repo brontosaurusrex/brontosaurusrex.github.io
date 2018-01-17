@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-07-02 21:00 +0200'
 title: stretchbang
+tags: blender mine
 ---
 ## 2d
 [![stretchbangGreen2_1920x1200.th.png](https://cdn.scrot.moe/images/2017/06/18/stretchbangGreen2_1920x1200.th.png)](https://cdn.scrot.moe/images/2017/06/18/stretchbangGreen2_1920x1200.png)

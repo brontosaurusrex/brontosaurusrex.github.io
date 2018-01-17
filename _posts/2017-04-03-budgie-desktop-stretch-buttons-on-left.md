@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-04-03 15:19 +0200'
 title: 'Budgie desktop, Stretch, buttons on left'
+tags: linux mine
 ---
     apt install dconf-cli
     

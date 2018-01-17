@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-04-06 09:14 +0200'
 title: yubuntu to drop yunity
+tags: mine linux
 ---
 What Mark didn't say
 

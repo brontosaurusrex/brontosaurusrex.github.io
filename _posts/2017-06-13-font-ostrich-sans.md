@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-06-13 11:13 +0200'
 title: font Ostrich Sans
+tags: luv misc
 ---
 [https://www.theleagueofmoveabletype.com/ostrich-sans](https://www.theleagueofmoveabletype.com/ostrich-sans)
 

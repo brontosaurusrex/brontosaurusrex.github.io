@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-04-07 16:40 +0200'
 title: xls > csv > srt subtitles conversion
+tags: mine video cli
 ---
 ![libresubs.png]({{site.baseurl}}/media/libresubs.png)
 

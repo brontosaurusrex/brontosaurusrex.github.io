@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-05-05 13:39 +0200'
 title: 'CSS methodology '
+tags: web
 ---
 ## BEM css
 [http://getbem.com/](http://getbem.com/)

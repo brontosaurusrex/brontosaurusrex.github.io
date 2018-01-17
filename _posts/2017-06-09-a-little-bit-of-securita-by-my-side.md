@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-06-09 13:06 +0200'
 title: A bit of Securita by my side
+tags: mine linux
 ---
 Warning: Some uneducated comments from someone who is seriously bored with just a notion of computer security.
 

@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-03-06 15:33 +0100'
 title: matplotlib (python) and curves and edl's
+tags: mine video
 ---
 This is in Debian repos. 
 
