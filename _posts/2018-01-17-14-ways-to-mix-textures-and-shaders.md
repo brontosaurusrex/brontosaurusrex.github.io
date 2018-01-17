@@ -9,3 +9,5 @@ tags:
 [https://www.youtube.com/watch?v=liNGmdXsfbs](https://www.youtube.com/watch?v=liNGmdXsfbs)
 
 [Procedurals as mask with noise added](http://www.creativeshrimp.com/wp-content/uploads/2016/06/07_2_procedural_textures.jpg).
+
+![](https://download.blender.org/institute/logos/blender-socket.png)
