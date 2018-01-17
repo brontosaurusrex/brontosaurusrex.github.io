@@ -5,7 +5,8 @@ date: '2017-11-14 11:57 +0100'
 title: mpv tv
 tags:
   - bash
-  - video mine
+  - video
+  - mine
 ---
 ## tv script
 
