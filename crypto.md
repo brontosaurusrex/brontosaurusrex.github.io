@@ -12,7 +12,7 @@ published: true
 ## Exchange
 
 [www.cryptopia.co.nz](https://www.cryptopia.co.nz/Login/Register) < Can' register at the moment  
-[https://crypto-bridge.org/](https://crypto-bridge.org/) < decentralized
+[https://crypto-bridge.org/](https://crypto-bridge.org/) < decentralized (use chrome, not firefox-esr)
 
 ## Wallet
 
