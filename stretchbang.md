@@ -325,7 +325,7 @@ Blender configs might be in
 
 # Comments?
 
-wow, [https://github.com/brontosaurusrex/stretchbang/issues](so value).
+wow, [so value](https://github.com/brontosaurusrex/stretchbang/issues).
 
 # Donate
 
