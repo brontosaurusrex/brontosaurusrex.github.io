@@ -7,3 +7,5 @@ title: bulwark masternode
 [https://github.com/masterhash-us/Bulwark-MN-Install/blob/master/install.sh](https://github.com/masterhash-us/Bulwark-MN-Install/blob/master/install.sh) < read, not run
 
 [https://github.com/bulwark-crypto](https://github.com/bulwark-crypto)
+
+server [https://masternodeguides.com/best-vps-provider-cryptocurrency-masternodes/](https://masternodeguides.com/best-vps-provider-cryptocurrency-masternodes/)
