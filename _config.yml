@@ -80,3 +80,5 @@ prose:
             value: "luv"
           - name: "web"
             value: "web"
+          - name: "crypto"
+            value: "crypto"

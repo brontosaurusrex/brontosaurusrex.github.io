@@ -6,6 +6,7 @@ title: argocoins
 tags:
   - linux
   - misc
+  - crypto
 ---
 ## wallet
 
