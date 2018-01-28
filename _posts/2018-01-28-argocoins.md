@@ -7,12 +7,14 @@ tags:
   - linux
   - crypto
 ---
+[https://bitcointalk.org/index.php?topic=2834315.0](https://bitcointalk.org/index.php?topic=2834315.0)
+
 ## wallet
 
 git clone https://github.com/argocoins/argo/  
-https://github.com/argocoins/argo/blob/master/doc/build-unix.md  
+[https://github.com/argocoins/argo/blob/master/doc/build-unix.md](https://github.com/argocoins/argo/blob/master/doc/build-unix.md)  
 (build berkeley manually)  
-https://github.com/argocoins/argo/blob/master/doc/init.md < config  
+[https://github.com/argocoins/argo/blob/master/doc/init.md](https://github.com/argocoins/argo/blob/master/doc/init.md) < config  
 
     sudo apt install libdb-dev
     sudo apt install libev-libevent-dev
