@@ -5,7 +5,6 @@ date: '2018-01-28 13:58 +0100'
 title: argocoins
 tags:
   - linux
-  - misc
   - crypto
 ---
 ## wallet
@@ -26,4 +25,3 @@ https://github.com/argocoins/argo/blob/master/doc/init.md < config
 ## gui
 
     ~/source/argo-wallet/argo/src/qt
-
