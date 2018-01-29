@@ -45,6 +45,6 @@ start the masternode
 
 	bulwark-cli masternode start
     bulwark-cli masternode status
-    bulwark-cli getwalletinfo
+    bulwark-cli getwalletinfo		# see the profit
 
 Warning: All this assumes ^ that bulwark is same/close to vivo, so value.
