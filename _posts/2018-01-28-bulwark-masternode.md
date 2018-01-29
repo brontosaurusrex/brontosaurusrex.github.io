@@ -34,3 +34,12 @@ might hodl
 	masternode=1
     masternodeprivkey=looooongnumber
     
+start server again
+
+	bulwarkd -daemon
+    
+Transfer request number of coins from your local wallet to masternode address0 (getaccountaddress 0).  
+Wait for confirmations (in vivo case 15), that is visible in your local gui waller under 'transactions'.
+
+
+    
