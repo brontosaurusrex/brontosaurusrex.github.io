@@ -19,7 +19,7 @@ master node
 [https://masternodes.pro](https://masternodes.pro)  
 [https://youtu.be/c2CiRdE18Ww](https://youtu.be/c2CiRdE18Ww) < Most likely the procedure is pretty much the same as vivo.
 
-	bulwarkd -daemon
-	bulwark-cli getinfo
-  	bulwark-cli getaccountaddress 0
+	bulwarkd -daemon 					# starts wallet?
+	bulwark-cli getinfo					# test wallet
+  	bulwark-cli getaccountaddress 0		# 
 
