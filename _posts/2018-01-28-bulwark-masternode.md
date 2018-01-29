@@ -24,3 +24,5 @@ master node
   	bulwark-cli getaccountaddress 0		# get main address where coins must reside
     bulwark-cli masternode genkey		# masternode private key
     bulwark-cli stop					# stop server
+    vi ~/.bulwark/bulwark.conf
+    
