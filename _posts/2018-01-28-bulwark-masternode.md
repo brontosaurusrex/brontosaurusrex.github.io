@@ -13,3 +13,7 @@ tags:
 [https://github.com/bulwark-crypto/Bulwark/blob/master/doc/build-unix.md](https://github.com/bulwark-crypto/Bulwark/blob/master/doc/build-unix.md) < build unix
 
 server [https://masternodeguides.com/best-vps-provider-cryptocurrency-masternodes/](https://masternodeguides.com/best-vps-provider-cryptocurrency-masternodes/)
+
+master node  
+[https://bulwarkcrypto.com/bulwark-cold-masternode-setup-ubuntu-16-04/](https://bulwarkcrypto.com/bulwark-cold-masternode-setup-ubuntu-16-04/)  
+
