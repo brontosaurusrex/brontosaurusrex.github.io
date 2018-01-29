@@ -18,3 +18,8 @@ master node
 [https://bulwarkcrypto.com/bulwark-cold-masternode-setup-ubuntu-16-04/](https://bulwarkcrypto.com/bulwark-cold-masternode-setup-ubuntu-16-04/)  
 [https://masternodes.pro](https://masternodes.pro)  
 [https://youtu.be/c2CiRdE18Ww](https://youtu.be/c2CiRdE18Ww) < Most likely the procedure is pretty much the same as vivo.
+
+	bulwarkd -daemon
+	bulwark-cli getinfo
+  	bulwark-cli getaccountaddress 0
+
