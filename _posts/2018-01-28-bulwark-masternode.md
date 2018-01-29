@@ -41,5 +41,10 @@ start server again
 Transfer request number of coins from your local wallet to masternode address0 (getaccountaddress 0).  
 Wait for confirmations (in vivo case 15), that is visible in your local gui waller under 'transactions'.
 
+start the masternode
 
-    
+	bulwark-cli masternode start
+    bulwark-cli masternode status
+    bulwark-cli getwalletinfo
+
+Warning: All this assumes ^ that bulwark is same/close to vivo, so value.
