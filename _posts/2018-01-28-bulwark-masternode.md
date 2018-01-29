@@ -16,7 +16,10 @@ server [https://masternodeguides.com/best-vps-provider-cryptocurrency-masternode
 
 master node  
 [https://bulwarkcrypto.com/bulwark-cold-masternode-setup-ubuntu-16-04/](https://bulwarkcrypto.com/bulwark-cold-masternode-setup-ubuntu-16-04/)  
-[https://masternodes.pro](https://masternodes.pro)  
+[https://masternodes.pro](https://masternodes.pro)
+
+## master node
+
 [https://youtu.be/c2CiRdE18Ww](https://youtu.be/c2CiRdE18Ww) < Most likely the procedure is pretty much the same as vivo.
 
 	bulwarkd -daemon                 # starts wallet?
@@ -52,3 +55,13 @@ Warning: All this assumes ^ that bulwark is same/close to vivo, so wow.
 
 Patching back the masternode to your local wallet software?  
 [https://youtu.be/Lybtz7iucVs?t=22m15s](https://youtu.be/Lybtz7iucVs?t=22m15s)
+
+## hardening
+
+fail2ban, firewall?
+
+[https://youtu.be/7xuQ0-Kch7U?t=12m26s](https://youtu.be/7xuQ0-Kch7U?t=12m26s)
+
+irc fail2ban assumes complicated user configuration, so i'd skip that, firewall seems unnecesarry. 
+
+keybased ssh auth only < that.
