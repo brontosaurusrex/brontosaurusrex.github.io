@@ -21,5 +21,5 @@ master node
 
 	bulwarkd -daemon 					# starts wallet?
 	bulwark-cli getinfo					# test wallet
-  	bulwark-cli getaccountaddress 0		# 
+  	bulwark-cli getaccountaddress 0		# get main address where coins must reside
 
