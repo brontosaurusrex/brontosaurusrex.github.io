@@ -64,4 +64,5 @@ fail2ban, firewall?
 
 irc fail2ban assumes complicated user configuration, so i'd skip that, firewall seems unnecesarry. 
 
-keybased ssh auth only < that.
+keybased ssh auth only < that.  
+backup wallet < that.
