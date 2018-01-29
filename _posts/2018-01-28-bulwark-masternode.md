@@ -23,4 +23,4 @@ master node
 	bulwark-cli getinfo					# test wallet
   	bulwark-cli getaccountaddress 0		# get main address where coins must reside
     bulwark-cli masternode genkey		# masternode private key
-
+    bulwark-cli stop					# stop server
