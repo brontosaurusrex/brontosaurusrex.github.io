@@ -16,4 +16,4 @@ server [https://masternodeguides.com/best-vps-provider-cryptocurrency-masternode
 
 master node  
 [https://bulwarkcrypto.com/bulwark-cold-masternode-setup-ubuntu-16-04/](https://bulwarkcrypto.com/bulwark-cold-masternode-setup-ubuntu-16-04/)  
-
+[https://masternodes.pro](https://masternodes.pro)
