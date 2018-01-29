@@ -19,12 +19,12 @@ master node
 [https://masternodes.pro](https://masternodes.pro)  
 [https://youtu.be/c2CiRdE18Ww](https://youtu.be/c2CiRdE18Ww) < Most likely the procedure is pretty much the same as vivo.
 
-	bulwarkd -daemon 					# starts wallet?
-	bulwark-cli getinfo					# test wallet
-    bulwark-cli getaccountaddress 0		# get main address 
-    									# where coins must reside
-    bulwark-cli masternode genkey		# masternode private key
-    bulwark-cli stop					# stop server
+	bulwarkd -daemon                 # starts wallet?
+	bulwark-cli getinfo              # test wallet
+    bulwark-cli getaccountaddress 0  # get main address 
+                                     # where coins must reside
+    bulwark-cli masternode genkey    # masternode private key
+    bulwark-cli stop                 # stop server
     
 Edit the conf
     
