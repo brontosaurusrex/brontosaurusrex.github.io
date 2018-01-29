@@ -48,3 +48,6 @@ start the masternode
     bulwark-cli getwalletinfo		# see the profit
 
 Warning: All this assumes ^ that bulwark is same/close to vivo, so value.
+
+Patching back the masternode to your local wallet software?  
+[https://youtu.be/Lybtz7iucVs?t=22m15s](https://youtu.be/Lybtz7iucVs?t=22m15s)
