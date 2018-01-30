@@ -66,3 +66,9 @@ irc fail2ban assumes complicated user configuration, so i'd skip that, firewall 
 
 keybased ssh auth only < that.  
 backup wallet < that.
+
+## concept of cold wallet
+
+[https://www.vivocrypto.com/vivo-technologies/masternodes/cold-wallet-guide/](https://www.vivocrypto.com/vivo-technologies/masternodes/cold-wallet-guide/)
+
+>  masternode itself doesn’t hold any coins, they are all in your local wallet.
