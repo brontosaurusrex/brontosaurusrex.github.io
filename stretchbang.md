@@ -229,6 +229,8 @@ Making [gsimplecal](https://brontosaurusrex.github.io/2017/08/09/gsimplecal-loca
     dconf load /com/gexperts/Tilix/ < tilix.dconf
     # or run the provided script.
 
+[![cosIcan.md.png](https://cdn.scrot.moe/images/2018/02/10/tilixThumb.png)](https://cdn.scrot.moe/images/2018/02/10/thisIsASingleTilixWindow2.png)
+
 ## gimp 2.9.x (appimage)
 
 [https://discuss.pixls.us/t/community-built-software/2137](https://discuss.pixls.us/t/community-built-software/2137)
