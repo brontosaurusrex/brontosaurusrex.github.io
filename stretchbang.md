@@ -335,6 +335,10 @@ You can support the good couse by sending some zcash (ZEC) to this transparent a
 
     t1ZARh9pACR2kp7xVJCtC5Xsw8agcFWZy3G
 
+or ethereum (ETH) to this address:
+
+    0x3be5db568f839d700ec32f81627d3218adccef4a
+
 # TOC
 {:.no_toc}
 
