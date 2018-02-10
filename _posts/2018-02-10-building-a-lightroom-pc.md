@@ -3,6 +3,11 @@ published: true
 layout: post
 date: '2018-02-10 12:21 +0100'
 title: Building a Lightroom PC
+tags:
+  - linux
+  - video
+  - luv
+  - web
 ---
 [https://paulstamatiou.com/building-a-windows-10-lightroom-photo-editing-pc/](https://paulstamatiou.com/building-a-windows-10-lightroom-photo-editing-pc/)
 
