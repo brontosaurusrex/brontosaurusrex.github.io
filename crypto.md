@@ -17,3 +17,7 @@ published: true
 ## Wallet
 
 [www.cryptonator.com](https://www.cryptonator.com/)
+
+## to the bank
+
+[https://www.bitstamp.net](https://www.bitstamp.net)
