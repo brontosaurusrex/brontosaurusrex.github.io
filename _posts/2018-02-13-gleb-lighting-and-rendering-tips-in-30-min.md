@@ -4,6 +4,8 @@ layout: post
 date: '2018-02-13 11:55 +0100'
 title: 'Gleb, Lighting and Rendering Tips in 30 min'
 ---
+![gleb.jpg]({{site.baseurl}}/media/gleb.jpg)
+
 [https://www.youtube.com/watch?v=xrvsDB_VhqY](https://www.youtube.com/watch?v=xrvsDB_VhqY)
 
     0:00 - Introduction 
