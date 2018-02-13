@@ -9,4 +9,4 @@ tags:
 ---
 [https://github.com/brontosaurusrex/slightlyHackedLanyonTheme](https://github.com/brontosaurusrex/slightlyHackedLanyonTheme)
 
-Note to myself: use master branch for dev.
+Note to myself: use gh-pages branch for dev.
