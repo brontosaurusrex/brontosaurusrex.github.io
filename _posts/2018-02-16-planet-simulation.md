@@ -7,7 +7,7 @@ tags:
   - blender
   - mine
 ---
-![]({{site.baseurl}}/media/simulaPlanetsBlender.JPG)[simulaPlanetsBlender.JPG]
+![simulaPlanetsBlender.JPG]({{site.baseurl}}/media/simulaPlanetsBlender.JPG)
 
 Note that this has almost nothing to do with reality, the 'moons' are not affecting each other gravitationaly, same for the two 'planets'. The 'force' however does resemble some gravitational properties.
 
