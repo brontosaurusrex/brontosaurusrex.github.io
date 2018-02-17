@@ -35,3 +35,6 @@ Quote from that link:
 > 5- Modify the settings of the Force Field: In the properties panel physics tab, you can find the settings for the force field. By deafult, the strength is set to a positive value, which will push objects apart. To make them attract, input a negative value. Note that massive/distant objects will require a lot more strength to be effective.
 
 > Repeat this process for every object in your scene, and you will have your magnetic attraction the next time you click play.
+
+edit2: Keep in mind that rotation [will not just happen here](http://curious.astro.cornell.edu/about-us/56-our-solar-system/planets-and-dwarf-planets/general-questions/218-why-do-planets-rotate-intermediate), since we are talking about rigid system, when in reality the mass is changing shape and "conservation of angular momentum" kicks in increasing rotational forces.
+
