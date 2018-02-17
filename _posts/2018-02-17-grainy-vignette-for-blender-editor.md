@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2018-02-17 15:25 +0100'
-title: Grainy vignette for blender editor
+title: Grainy vignette for blender video editor (VST)
 tags:
   - blender
   - mine
