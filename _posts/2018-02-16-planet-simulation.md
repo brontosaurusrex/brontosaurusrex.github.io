@@ -14,7 +14,7 @@ Note that this has almost nothing to do with reality, the 'moons' are not affect
 blender file download  
 [simulaRound3.zip](/blends/simulaRound3.zip)
 
-[link to youtube here](https://youtu.be/0kbdKWVT7qw).
+[link to youtube here](https://youtu.be/0kbdKWVT7qw), and [one more](https://youtu.be/CMz_BZj0oCU).
 
 edit: Possibly better way to set this up is [described here](https://blender.stackexchange.com/questions/57090/how-do-i-make-two-objects-pull-toward-each-other-in-a-zero-gravity-scene), but it misses the part where force null object would have to be the same size as the parent object and force shape would have to be set to 'surface' (i think).
 
