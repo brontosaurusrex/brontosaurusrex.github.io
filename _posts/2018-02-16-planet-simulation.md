@@ -32,4 +32,4 @@ Quote from that link:
 
 edit2: Keep in mind that rotation [will not just happen here](http://curious.astro.cornell.edu/about-us/56-our-solar-system/planets-and-dwarf-planets/general-questions/218-why-do-planets-rotate-intermediate), since we are talking about rigid system, when in reality the mass is changing shape and "conservation of angular momentum" kicks in increasing rotational forces.
 
-edit3 Could "conservation of angular momentum" be just faked/animated by making planet smaller (and keeping mass)?
+edit3 Could "conservation of angular momentum" be just faked/animated by making planet smaller (and keeping mass)? edit4: < Doesn't really show the rotational effect.
