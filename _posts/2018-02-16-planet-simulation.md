@@ -16,3 +16,6 @@ blender file download
 
 [link to youtube here](https://youtu.be/0kbdKWVT7qw).
 
+edit: Possibly better way to set this up is [described here](https://blender.stackexchange.com/questions/57090/how-do-i-make-two-objects-pull-toward-each-other-in-a-zero-gravity-scene), but it missed the part where force null object would have to be the same size as the parent object and force shape would have to be set to 'surface' (i think).
+
+![surface.jpg]({{site.baseurl}}/media/surface.jpg)
