@@ -24,7 +24,7 @@ in ~/.asoundrc
         slave.pcm "plug:dmix";
     }
     
-start eq with 
+start eq gui with 
 
 	alsamixer -D equal -g
     # -g is for colorless
