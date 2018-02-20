@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2018-02-20 11:35 +0100'
-title: alsa equalizer
+title: alsa equalizer & loudnorm?
 tags:
   - linux
   - audio
@@ -31,5 +31,6 @@ start eq gui with
 	# or for instant gui
     # urxvt -e alsamixer -D equal -g
     
-[https://www.alsa-project.org/main/index.php/Asoundrc](https://www.alsa-project.org/main/index.php/Asoundrc)
-    
+[https://www.alsa-project.org/main/index.php/Asoundrc](https://www.alsa-project.org/main/index.php/Asoundrc)  
+[http://k.ylo.ph/2016/04/04/loudnorm.html](http://k.ylo.ph/2016/04/04/loudnorm.html) < loudnorm plugin in ffmpeg  
+[http://vlevel.sourceforge.net/using/](http://vlevel.sourceforge.net/using/) < vlevel plugin using [LADSPA](https://www.ladspa.org/)  
