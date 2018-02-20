@@ -31,3 +31,5 @@ start eq with
 	# or for instant gui
     # urxvt -e alsamixer -D equal -g
     
+[https://www.alsa-project.org/main/index.php/Asoundrc](https://www.alsa-project.org/main/index.php/Asoundrc)
+    
