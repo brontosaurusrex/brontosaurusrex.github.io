@@ -28,3 +28,6 @@ start eq with
 
 	alsamixer -D equal -g
     # -g is for colorless
+	# or for instant gui
+    # urxvt -e alsamixer -D equal -g
+    
