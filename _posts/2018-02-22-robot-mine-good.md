@@ -1,0 +1,10 @@
+---
+published: true
+layout: post
+date: '2018-02-22 03:07 +0100'
+title: 'robot, mine, good'
+tags:
+  - blender
+  - mine
+---
+[![roboto.md.png](https://cdn.scrot.moe/images/2018/02/22/roboto.md.png)](https://cdn.scrot.moe/images/2018/02/22/roboto.png)
