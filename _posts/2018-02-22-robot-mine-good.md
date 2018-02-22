@@ -13,3 +13,4 @@ tags:
 [![roboto18PlacedAo.md.png](https://cdn.scrot.moe/images/2018/02/22/roboto18PlacedAo.md.png)](https://cdn.scrot.moe/images/2018/02/22/roboto18PlacedAo.png)
 [![roboto22PlacedAoTV.md.png](https://cdn.scrot.moe/images/2018/02/22/roboto22PlacedAoTV.md.png)](https://cdn.scrot.moe/images/2018/02/22/roboto22PlacedAoTV.png)
 [![roboto23PlacedAoTV.md.png](https://cdn.scrot.moe/images/2018/02/22/roboto23PlacedAoTV.md.png)](https://cdn.scrot.moe/images/2018/02/22/roboto23PlacedAoTV.png)
+[![roboto1.md.png](https://cdn.scrot.moe/images/2018/02/22/roboto1.md.png)](https://cdn.scrot.moe/images/2018/02/22/roboto1.png)
