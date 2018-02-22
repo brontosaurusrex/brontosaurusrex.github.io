@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2018-02-22 03:07 +0100'
-title: 'robot, mine, good'
+title: 'Robot, mine, good'
 tags:
   - blender
   - mine
