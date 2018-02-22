@@ -8,3 +8,4 @@ tags:
   - mine
 ---
 [![roboto.md.png](https://cdn.scrot.moe/images/2018/02/22/roboto.md.png)](https://cdn.scrot.moe/images/2018/02/22/roboto.png)
+[![roboto8ao.md.png](https://cdn.scrot.moe/images/2018/02/22/roboto8ao.md.png)](https://cdn.scrot.moe/images/2018/02/22/roboto8ao.png)
