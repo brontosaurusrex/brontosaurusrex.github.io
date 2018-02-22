@@ -12,3 +12,4 @@ tags:
 [![roboto14ao.md.png](https://cdn.scrot.moe/images/2018/02/22/roboto14ao.md.png)](https://cdn.scrot.moe/images/2018/02/22/roboto14ao.png)
 [![roboto18PlacedAo.md.png](https://cdn.scrot.moe/images/2018/02/22/roboto18PlacedAo.md.png)](https://cdn.scrot.moe/images/2018/02/22/roboto18PlacedAo.png)
 [![roboto22PlacedAoTV.md.png](https://cdn.scrot.moe/images/2018/02/22/roboto22PlacedAoTV.md.png)](https://cdn.scrot.moe/images/2018/02/22/roboto22PlacedAoTV.png)
+[![roboto24PlacedAoTV.md.png](https://cdn.scrot.moe/images/2018/02/22/roboto24PlacedAoTV.md.png)](https://cdn.scrot.moe/images/2018/02/22/roboto24PlacedAoTV.png)
