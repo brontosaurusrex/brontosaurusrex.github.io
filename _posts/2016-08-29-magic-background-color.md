@@ -33,3 +33,9 @@ title: Magic background color
   style="fill:#303D43" />
 </svg> 
 303D43 > Charcoal grey
+
+<svg width="720" height="200">
+  <rect width="720" height="200" rx="5" ry="5" 
+  style="fill:#36535A" />
+</svg> 
+36535A > slate (as seen on transfer.sh)
