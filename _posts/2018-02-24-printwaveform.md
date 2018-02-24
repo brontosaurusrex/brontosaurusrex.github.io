@@ -12,4 +12,4 @@ tags:
 
 ![printWaveform.png]({{site.baseurl}}/media/printWaveform.png)
 
-
+[debate.](https://forums.bunsenlabs.org/viewtopic.php?pid=68438#p68438)
