@@ -10,4 +10,6 @@ tags:
 ---
 [https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/printWaveform](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/printWaveform)
 
+![printWaveform.png]({{site.baseurl}}/media/printWaveform.png)
+
 
