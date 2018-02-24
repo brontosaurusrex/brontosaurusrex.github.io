@@ -11,7 +11,8 @@ tags:
 [https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/printWaveform](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/printWaveform)
 
 ![printWaveform.png]({{site.baseurl}}/media/printWaveform.png)  
-^ In this case invisible echo "$1" could be replaced with
+
+In hi-res case invisible _echo "$1"_ could be replaced with
 
 	figlet "$1" -w "$tw"
     
