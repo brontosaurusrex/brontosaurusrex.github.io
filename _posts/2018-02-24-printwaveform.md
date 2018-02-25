@@ -12,10 +12,9 @@ tags:
 
 ![printWaveform.png]({{site.baseurl}}/media/printWaveform.png)  
 
-In hi-res case invisible _echo "$1"_ could be replaced with
+Usage
 
-	figlet "$1" -w "$tw"
-    
-[![scrot15012.md.png](https://cdn.scrot.moe/images/2018/02/24/scrot15012.md.png)](https://cdn.scrot.moe/images/2018/02/24/scrot15012.png)
-
-[debate.](https://forums.bunsenlabs.org/viewtopic.php?pid=68438)
+	# print and play
+	printWaveform *.mp3
+    # just print
+    printWaveform np *.mp3
