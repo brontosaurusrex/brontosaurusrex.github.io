@@ -231,6 +231,24 @@ examples
     ans="a"
     isNumber "$ans"          # $ans will be 0 if not a number
     
+## timer (benchmark)
+
+This is useful for timing parts of the script
+
+    # benchmark start
+    START=$(date +%s.%N)
+
+    # your script here
+      
+    # benchmark end
+    END=$(date +%s.%N)
+    DIFF=$(echo "$END - $START" | bc)
+    echo "done in $DIFF seconds"
+
+for whole thing one could run script as
+
+    time script
+    
 ## flames?
 
 [https://github.com/brontosaurusrex/brontosaurusrex.github.io/issues](https://github.com/brontosaurusrex/brontosaurusrex.github.io/issues)
