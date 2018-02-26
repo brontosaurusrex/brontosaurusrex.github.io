@@ -3,6 +3,9 @@ published: true
 layout: post
 date: '2018-02-26 22:06 +0100'
 title: foobar2000 and wine in stretchbang
+tags:
+  - linux
+  - audio
 ---
 ![foobar2018-fs8.png]({{site.baseurl}}/media/foobar2018-fs8.png)
 
