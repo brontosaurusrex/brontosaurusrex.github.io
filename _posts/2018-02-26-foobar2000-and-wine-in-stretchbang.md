@@ -25,9 +25,6 @@ Now you can select it in playlist view (right mice button on the top, stuff ...)
 ![foobar2018-fs8.png]({{site.baseurl}}/media/foobar2018-fs8.png)
 
 
-
-
-
 	
 
 
