@@ -22,4 +22,3 @@ Simple launcher
             ;;
         esac
         
-  123
