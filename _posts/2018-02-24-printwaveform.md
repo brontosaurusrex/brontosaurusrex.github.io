@@ -6,6 +6,7 @@ title: printWaveform
 tags:
   - linux
   - mine
+  - audio
   - cli
 ---
 [https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/printWaveform](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/printWaveform)
