@@ -1,0 +1,59 @@
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://brontosaurusrex.github.io/'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "date"
+        field:
+          element: "hidden"
+          value: "CURRENT_DATETIME"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+          - name: "linux"
+            value: "linux"
+          - name: "blender"
+            value: "blender"
+          - name: "mine"
+            value: "mine"
+          - name: "video"
+            value: "video"
+          - name: "audio"
+            value: "audio"
+          - name: "cli"
+            value: "cli"
+          - name: "bash"
+            value: "bash"
+          - name: "misc"
+            value: "misc"
+          - name: "books"
+            value: "books"
+          - name: "nvidia"
+            value: "nvidia"
+          - name: "luv"
+            value: "luv"
+          - name: "web"
+            value: "web"
+          - name: "crypto"
+            value: "crypto"
