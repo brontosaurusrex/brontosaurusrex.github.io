@@ -34,3 +34,7 @@ start eq gui with
 [https://www.alsa-project.org/main/index.php/Asoundrc](https://www.alsa-project.org/main/index.php/Asoundrc)  
 [http://k.ylo.ph/2016/04/04/loudnorm.html](http://k.ylo.ph/2016/04/04/loudnorm.html) < loudnorm plugin in ffmpeg  
 [http://vlevel.sourceforge.net/using/](http://vlevel.sourceforge.net/using/) < vlevel plugin using [LADSPA](https://www.ladspa.org/)  
+
+## The actual alsa loudnorm implementation?
+
+[there](https://github.com/dpapavas/alsaloudness).
