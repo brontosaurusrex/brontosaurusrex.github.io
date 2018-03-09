@@ -3,7 +3,6 @@ published: true
 layout: post
 date: '2018-03-05 14:27'
 title: Jupiter Blues
-tags: 
 ---
 [https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA21972](https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA21972)
 
@@ -11,3 +10,6 @@ tags:
 
 wallpaper  
 [![jupiterSouth4.th.png](https://cdn.scrot.moe/images/2018/03/05/jupiterSouth4.th.png)](https://cdn.scrot.moe/images/2018/03/05/jupiterSouth4.png)
+
+
+
