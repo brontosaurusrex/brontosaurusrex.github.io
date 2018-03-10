@@ -48,6 +48,7 @@ Network-manager
 ### Install packages
 
     # automatic
+    cd ~/source/stretchbang/packs
     sudo ./installLess # or sudo ./installAll
 
     # or manual
