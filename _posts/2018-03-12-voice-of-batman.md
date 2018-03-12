@@ -14,3 +14,5 @@ tags:
 1. bottom track, same thing, but do -20
 1. maybe *select all* (ctrl + a) and *effect/change speed*, set speed multiplier to 0.95
 1. maybe some sort of compressor on everything
+
+![](https://png.icons8.com/metro/1600/batman-old.png)
