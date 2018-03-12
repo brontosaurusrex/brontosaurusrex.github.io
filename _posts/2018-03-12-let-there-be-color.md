@@ -10,3 +10,9 @@ title: Let there be color
 
 [https://colorize.dev.kaisou.misosi.ru/](https://colorize.dev.kaisou.misosi.ru/)  
 [http://hi.cs.waseda.ac.jp:8082/](http://hi.cs.waseda.ac.jp:8082/)
+
+## Testing with some cgi
+
+orig, grayscaled, ai colorized
+
+![]({{site.baseurl}}/https://cdn.scrot.moe/images/2018/03/12/rocketAIcolorized.jpg)
