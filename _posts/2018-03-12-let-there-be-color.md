@@ -15,4 +15,4 @@ title: Let there be color
 
 orig, grayscaled, ai colorized
 
-![]({{site.baseurl}}/https://cdn.scrot.moe/images/2018/03/12/rocketAIcolorized.jpg)
+![](https://cdn.scrot.moe/images/2018/03/12/rocketAIcolorized.jpg)
