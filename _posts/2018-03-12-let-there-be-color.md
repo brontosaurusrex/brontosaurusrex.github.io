@@ -4,6 +4,8 @@ layout: post
 date: '2018-03-12 06:25 +0100'
 title: Let there be color
 ---
+[http://forum.doom9.org/showthread.php?p=1836196#post1836196](http://forum.doom9.org/showthread.php?p=1836196#post1836196)
+
 > Neural Network-based Automatic Image Colorization
 
 ## web apps for colorization
