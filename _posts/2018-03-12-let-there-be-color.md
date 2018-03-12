@@ -13,6 +13,6 @@ title: Let there be color
 
 ## Testing with some cgi
 
-orig, grayscaled, ai colorized
+1. orig, 2. gimp grayscaled, 3. ai colorized
 
 ![](https://cdn.scrot.moe/images/2018/03/12/rocketAIcolorized.jpg)
