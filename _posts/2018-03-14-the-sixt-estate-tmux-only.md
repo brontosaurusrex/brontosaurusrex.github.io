@@ -9,3 +9,4 @@ title: The Sixt Estate Tmux Only
 And something less filmic and more practical (removing tmux silly default border coloring and enters tile names with solid block that says tile is active)
 
 [![morePractical.md.png](https://cdn.scrot.moe/images/2018/03/14/morePractical.md.png)](https://cdn.scrot.moe/images/2018/03/14/morePractical.png)
+[![anotherJulian.md.png](https://cdn.scrot.moe/images/2018/03/14/anotherJulian.md.png)](https://cdn.scrot.moe/images/2018/03/14/anotherJulian.png)
