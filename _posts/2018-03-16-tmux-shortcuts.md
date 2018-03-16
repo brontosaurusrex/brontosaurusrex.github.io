@@ -38,6 +38,10 @@ title: Tmux shortcuts
     outside commands
     ----------------
     tmux kill-session -t myname
+    
+Example, show pane number
+
+![tmuxShortcuts-fs8.png]({{site.baseurl}}/media/tmuxShortcuts-fs8.png)
 
 [https://gist.github.com/MohamedAlaa/2961058](https://gist.github.com/MohamedAlaa/2961058)
 
