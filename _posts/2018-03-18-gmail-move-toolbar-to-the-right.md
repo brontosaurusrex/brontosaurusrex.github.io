@@ -9,26 +9,25 @@ title: Gmail move toolbar to the right
 2. Make a new style for *URLs staring with* https://mail.google.com
 
 ```css
-    /* toolbar */
+/* toolbar */
 
-    .nn {
-        float: right;
-        margin: 0;
-        padding: 0;
-    }
-    .nM {
-        margin: 0;
-        padding: 0;
-    }
+.nn {
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+.nM {
+    margin: 0;
+    padding: 0;
+}
 
-    /* main area with emails listed */
+/* main area with emails listed */
 
-    .AO {
-        margin-left: 10px;
-        padding-right: 0;
-    }
-    .aeH {
-        margin-left: 10px;
-    }
+.AO {
+    margin-left: 10px;
+    padding-right: 0;
+}
+.aeH {
+    margin-left: 10px;
+}
 ```
-
