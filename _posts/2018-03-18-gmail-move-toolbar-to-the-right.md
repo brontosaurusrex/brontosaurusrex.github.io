@@ -3,6 +3,9 @@ published: true
 layout: post
 date: '2018-03-18 11:59 +0100'
 title: Gmail move toolbar to the right
+tags:
+  - mine
+  - web
 ---
 1. Install [Stylish - Custom themes for any website](https://addons.mozilla.org/en-US/firefox/addon/stylish/) addon
 
