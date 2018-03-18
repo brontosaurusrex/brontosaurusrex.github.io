@@ -3,6 +3,9 @@ published: true
 layout: post
 date: '2018-03-16 17:36 +0100'
 title: Tmux shortcuts
+tags:
+  - linux
+  - cli
 ---
     ctrl + a (PREFIX)
     -----------------
