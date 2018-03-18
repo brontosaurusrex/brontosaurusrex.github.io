@@ -8,6 +8,7 @@ title: Gmail move toolbar to the right
 
 2. Make a new style for *URLs staring with* https://mail.google.com
 
+```css
     /* toolbar */
 
     .nn {
@@ -29,5 +30,5 @@ title: Gmail move toolbar to the right
     .aeH {
         margin-left: 10px;
     }
-
+```
 
