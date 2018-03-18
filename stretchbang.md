@@ -69,7 +69,7 @@ Should now boot into lightdm / openbox.
 ---
 
 # Themes, icons, fonts
-Arc-Darker for 'Widget', Arc-Dark_ob_border for 'Window Border' in lxappearance. 'Papirus GTK b' for icons. Cuprum is the main font.
+Arc-Darker for 'Widget', Arc-Dark_ob_border_kv for 'Window Border' in lxappearance. 'Papirus GTK b' for icons. Cuprum is the main font.
 
 Darker version would be Adapta-Nokto for gtk and openbox, 'Breeze Dark Papirus GTK b full' for icons, .Xresources.adaptaColors, 'browser' script for firefox (patched to wbar and ob menu).
 
