@@ -23,3 +23,5 @@ for 1060 GTX could return
     HEVC_MAIN_444                  --- not supported ---
     
 which would mean no 10bit 4:2:2 HEVC I guess. edit: Or perhaps vdpau doesn't support 10bit.
+
+edit2: About mpv: On linux (nvidia) one would generally want nvdec-copy and with intel/amd vaapi-copy (JEEB).
