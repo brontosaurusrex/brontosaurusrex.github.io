@@ -11,7 +11,9 @@ Basically (if you want to stick with port 22 for ssh and ssh is the only service
     sudo apt install fail2ban
     sudo service fail2ban status
 
-> On Debian, the default Fail2ban filter settings will be stored in both the /etc/fail2ban/jail.conf file and the /etc/fail2ban/jail.d/defaults-debian.conf file. Remember that settings in the latter file will override corresponding settings in the former one. 
+> On Debian, the default Fail2ban filter settings will be stored in both the /etc/fail2ban/jail.conf file and the /etc/fail2ban/jail.d/defaults-debian.conf file. Remember that settings in the latter file will override corresponding settings in the former one.
+
+Do not edit this two ^ directly, instead provide */etc/fail2ban/jail.local* and store stuff there.
 
 Show banned
 
