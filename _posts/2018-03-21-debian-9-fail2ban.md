@@ -15,4 +15,6 @@ Basically (if you want to stick with port 22 for ssh and ssh is the only service
 
 Show banned
 
-    sudo cat /var/log/fail2ban.log | grep Ban 
+    sudo cat /var/log/fail2ban.log | grep Ban
+    # If any ip's are banned, that should also show in
+    sudo iptables -L
