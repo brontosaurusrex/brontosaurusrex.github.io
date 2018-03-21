@@ -3,6 +3,9 @@ published: true
 layout: post
 date: '2018-03-21 23:39 +0100'
 title: Debian 9 fail2ban
+tags:
+  - linux
+  - cli
 ---
 [https://www.vultr.com/docs/how-to-setup-fail2ban-on-debian-9-stretch](https://www.vultr.com/docs/how-to-setup-fail2ban-on-debian-9-stretch)
 
