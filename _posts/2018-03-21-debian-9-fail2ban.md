@@ -13,7 +13,11 @@ Basically (if you want to stick with port 22 for ssh and ssh is the only service
 
 > On Debian, the default Fail2ban filter settings will be stored in both the /etc/fail2ban/jail.conf file and the /etc/fail2ban/jail.d/defaults-debian.conf file. Remember that settings in the latter file will override corresponding settings in the former one.
 
-Do not edit this two ^ directly, instead provide */etc/fail2ban/jail.local* and store stuff there.
+Do not edit this two ^ directly, instead provide */etc/fail2ban/jail.local* and store stuff there. For example to increase ban and search time
+
+    [DEFAULT]
+    bantime = 3600
+    findtime = 3600
 
 Show banned
 
