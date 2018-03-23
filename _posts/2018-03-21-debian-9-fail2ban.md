@@ -20,7 +20,7 @@ Show banned
     # If any ip's are banned, that should also show in
     sudo iptables -L
     
-Custom config
+## Custom config
 
 > On Debian, the default Fail2ban filter settings will be stored in both the /etc/fail2ban/jail.conf file and the /etc/fail2ban/jail.d/defaults-debian.conf file. Remember that settings in the latter file will override corresponding settings in the former one.
 
@@ -52,3 +52,14 @@ could show
     fail2ban.server    INFO    Jail sshd is not a JournalFilter instance
     fail2ban.jail      INFO    Jail 'sshd' started
     fail2ban.actions   NOTICE  [sshd] Ban 58.218.201.189
+    
+## Manual ban using iptables
+
+To block an IP Address with iptables:
+
+	iptables -A INPUT -s 58.218.201.189 -j DROP
+
+to unblock:
+
+	iptables -D INPUT -s 58.218.201.189 -j DROP
+
