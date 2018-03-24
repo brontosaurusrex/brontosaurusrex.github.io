@@ -39,3 +39,7 @@ Middle mouse click will toggle mute.
 [![2017-06-02-175339_1920x1200_scrot.th.png](https://cdn.scrot.moe/images/2017/06/02/2017-06-02-175339_1920x1200_scrot.th.png)](https://cdn.scrot.moe/images/2017/06/02/2017-06-02-175339_1920x1200_scrot.png)
 
 changelog: Changed all the logic to continous, thanks to tint2 developer o9000.
+
+## 2018 added Pulseaudio support
+
+[https://forums.bunsenlabs.org/viewtopic.php?pid=69546](https://forums.bunsenlabs.org/viewtopic.php?pid=69546)
