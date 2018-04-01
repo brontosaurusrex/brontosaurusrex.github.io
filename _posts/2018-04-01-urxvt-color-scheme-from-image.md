@@ -13,4 +13,4 @@ tags:
 
 Example, img to img
 
- 	schemer2 -format img::img -in Downloads/snow.jpg -imageOutType circles -circlesBlurred -circlesFilled -circlesSize 900 -width 1920 -height 1200 -out woot.png
+    schemer2 -format img::img -in Downloads/snow.jpg -imageOutType circles -circlesBlurred -circlesFilled -circlesSize 900 -width 1920 -height 1200 -out woot.png
