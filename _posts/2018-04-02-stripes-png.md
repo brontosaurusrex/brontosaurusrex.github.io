@@ -6,3 +6,6 @@ title: stripes png
 ---
 ![stripes.png]({{site.baseurl}}/media/stripes.png)
 
+
+
+
