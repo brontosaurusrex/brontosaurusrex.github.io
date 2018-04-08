@@ -8,5 +8,6 @@ tags:
   - luv
 ---
 [![fractal2fx2.md.png](https://cdn.scrot.moe/images/2018/04/08/fractal2fx2.md.png)](https://cdn.scrot.moe/images/2018/04/08/fractal2fx2.png)
+[![fractal7fx3.md.png](https://cdn.scrot.moe/images/2018/04/08/fractal7fx3.md.png)](https://cdn.scrot.moe/images/2018/04/08/fractal7fx3.png)
 
 (qfractalnow, gimp 2.10)
