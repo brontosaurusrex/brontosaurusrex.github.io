@@ -3,6 +3,9 @@ published: true
 layout: post
 date: '2018-04-09 09:27 +0200'
 title: Perceptual adaptive JPEG encoder
+tags:
+  - cli
+  - misc
 ---
 [https://github.com/google/guetzli](https://github.com/google/guetzli)
 
