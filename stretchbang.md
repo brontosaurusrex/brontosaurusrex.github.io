@@ -203,6 +203,7 @@ update: pipeMisc (pipe) now incorporates ~/bin/pipePlaces (places), rename or re
     lst            # ls by date
     up             # apt update/upgrade
     search         # apt-cache search
+    bman           # man in firefox
 
 # Autologin
 
