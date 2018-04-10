@@ -156,7 +156,7 @@ update: pipeMisc (pipe) now incorporates ~/bin/pipePlaces (places), rename or re
 
     SUPER (W in rc.xml) +
     space   openbox menu
-    w       x-www-browser
+    w       browser (script)
     f       thunar
     t       urxvt
     e       geany
