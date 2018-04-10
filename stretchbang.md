@@ -152,10 +152,11 @@ update: pipeMisc (pipe) now incorporates ~/bin/pipePlaces (places), rename or re
 
 # Basic hotkeys
 
-    Launchers
+    *Launchers*
+
     SUPER (W in rc.xml) +
     space   openbox menu
-    w       browser
+    w       x-www-browser
     f       thunar
     t       urxvt
     e       geany
@@ -167,7 +168,8 @@ update: pipeMisc (pipe) now incorporates ~/bin/pipePlaces (places), rename or re
     ALT +
     space   gmrun
 
-    Windows
+    *Windows*
+
     ALT +
     y,x     left/right half
     c       center window x
@@ -180,8 +182,12 @@ update: pipeMisc (pipe) now incorporates ~/bin/pipePlaces (places), rename or re
     f12     toggle compton # ~/bin/toggleCompton
     w       toggle show desktop
 
-    SUPER + alt +
+    SUPER + ALT +
     c       center window x and y
+
+    SHIFT + ALT +
+    left    send to desktop leqft
+    right   send to desktop right
 
     Run *shortcuts* in terminal for more.
 
