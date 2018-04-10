@@ -152,17 +152,35 @@ update: pipeMisc (pipe) now incorporates ~/bin/pipePlaces (places), rename or re
 
 # Basic hotkeys
 
-    alt +
+    Launchers
+    SUPER (W in rc.xml) +
+    space   openbox menu
+    w       browser
+    f       thunar
+    t       urxvt
+    e       geany
+    v       alsamixer
+    m       toggle mute
+    x       xkill
+    Tab     openbox combined menu
+
+    ALT +
+    space   gmrun
+
+    Windows
+    ALT +
     y,x     left/right half
     c       center window x
     v       full width, quite some height
     m       move to next monitor
+    f2      openbox client menu
 
-    meta +
+    SUPER +
     f11     fullscreen
     f12     toggle compton # ~/bin/toggleCompton
+    w       toggle show desktop
 
-    meta + alt +
+    SUPER + alt +
     c       center window x and y
 
     Run *shortcuts* in terminal for more.
@@ -174,7 +192,6 @@ update: pipeMisc (pipe) now incorporates ~/bin/pipePlaces (places), rename or re
     today          # small weather
     pipeSysInfo    # extremly basic sysinfo
     bronto         # asci brontographics
-    easyfind file  # find files using find/grep
     findosaurus -h # find files using find (beta)
     duh            # ncdu's lil brother - disk space usage
     lst            # ls by date
