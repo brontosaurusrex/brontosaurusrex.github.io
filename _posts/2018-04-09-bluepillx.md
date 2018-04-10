@@ -15,3 +15,4 @@ Blisfull ignorance
 >    Knowledge, freedom, adversity and the brutal truth of reality (red pill)
 >    Falsehood, security, happiness and the blissful ignorance of illusion (blue pill)
 
+[https://en.wikipedia.org/wiki/Red_pill_and_blue_pill](https://en.wikipedia.org/wiki/Red_pill_and_blue_pill)
