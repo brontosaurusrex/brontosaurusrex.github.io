@@ -13,6 +13,8 @@ Blisfull ignorance
 
 Magic bg color: #0D314D.
 
+p.s. It could be Solaranite (a sort of sun-driven bomb) instead of bluepill.
+
 > The red pill and its opposite, the blue pill, are a popular cultural meme representing the choice between:
 >    Knowledge, freedom, adversity and the brutal truth of reality (red pill)
 >    Falsehood, security, happiness and the blissful ignorance of illusion (blue pill)
