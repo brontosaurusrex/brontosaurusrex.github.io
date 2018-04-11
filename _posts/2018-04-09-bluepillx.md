@@ -24,3 +24,6 @@ p.s. It could be Solaranite (a sort of sun-driven bomb) instead of bluepill.
 
 [![scrot02955.md.png](https://cdn.scrot.moe/images/2018/04/11/scrot02955.md.png)](https://cdn.scrot.moe/images/2018/04/11/scrot02955.png)
 [![scrot16343.md.png](https://cdn.scrot.moe/images/2018/04/11/scrot16343.md.png)](https://cdn.scrot.moe/images/2018/04/11/scrot16343.png)
+
+Slightly colorized tint2 conf  
+[https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/.config/tint2/tint2rc.busterTest](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/.config/tint2/tint2rc.busterTest)
