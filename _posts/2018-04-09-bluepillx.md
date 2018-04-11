@@ -16,6 +16,7 @@ Magic bg color: #0D314D.
 p.s. It could be Solaranite (a sort of sun-driven bomb) instead of bluepill.
 
 ![a_sort_of_sun-driven_bombC2crop.svg]({{site.baseurl}}/media/a_sort_of_sun-driven_bombC2crop.svg)
+![a_sort_of_sun-driven_bombC2b.svg]({{site.baseurl}}/media/a_sort_of_sun-driven_bombC2b.svg)
 
 > The red pill and its opposite, the blue pill, are a popular cultural meme representing the choice between:
 >    Knowledge, freedom, adversity and the brutal truth of reality (red pill)
