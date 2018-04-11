@@ -11,6 +11,8 @@ Blisfull ignorance
 
 ![bluepillConceptLogo.svg]({{site.baseurl}}/media/bluepillConceptLogo.svg)
 
+Magic bg color: #0D314D.
+
 > The red pill and its opposite, the blue pill, are a popular cultural meme representing the choice between:
 >    Knowledge, freedom, adversity and the brutal truth of reality (red pill)
 >    Falsehood, security, happiness and the blissful ignorance of illusion (blue pill)
