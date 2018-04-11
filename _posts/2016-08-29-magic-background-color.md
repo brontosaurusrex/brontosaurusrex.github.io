@@ -39,3 +39,9 @@ title: Magic background color
   style="fill:#36535A" />
 </svg> 
 36535A > slate (as seen on transfer.sh)
+
+<svg width="720" height="200">
+  <rect width="720" height="200" rx="5" ry="5" 
+  style="fill:#0D314D" />
+</svg> 
+0D314D > deep blue, bluepill
