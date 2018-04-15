@@ -18,6 +18,8 @@ tags:
 [![bunsen11_retopo1_post1.th.png](https://cdn.scrot.moe/images/2017/02/25/bunsen11_retopo1_post1.th.png)](https://cdn.scrot.moe/images/2017/02/25/bunsen11_retopo1_post1_1920x1200.png)
 [![bunsen11_post2_1920x1200.th.png](https://cdn.scrot.moe/images/2017/02/22/bunsen11_post2_1920x1200.th.png)](https://cdn.scrot.moe/images/2017/02/22/bunsen11_post2_1920x1200.png)
 [![bunsen.th.png](https://cdn.scrot.moe/images/2018/04/12/bunsen.th.png)](https://cdn.scrot.moe/images/2018/04/12/bunsen.png)
+[![bunsenBattle2fakeGLowABitGreen.th.png](https://cdn.scrot.moe/images/2018/04/15/bunsenBattle2fakeGLowABitGreen.th.png)](https://cdn.scrot.moe/images/2018/04/15/bunsenBattle2fakeGLowABitGreen.png)
+[![bunsenBattle2fakeGLowGreenBlue.th.png](https://cdn.scrot.moe/images/2018/04/15/bunsenBattle2fakeGLowGreenBlue.th.png)](https://cdn.scrot.moe/images/2018/04/15/bunsenBattle2fakeGLowGreenBlue.png)
 
 Blend  
 [bunsen21_retopo.blend]({{site.baseurl}}/blends/bunsen21_retopo.blend)  
