@@ -335,7 +335,7 @@ Into ~/.xsessionrc add
 
 Get one from [https://builder.blender.org/download/](https://builder.blender.org/download/) or try the script
 
-    ./getBlender
+    ./bin/getBlender
 
 which should download/unpack new one to ~/apps/blender. Script should also work for updates, since it will move/backup old version automagically.
 
