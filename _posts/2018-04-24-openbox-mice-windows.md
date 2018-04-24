@@ -23,7 +23,7 @@ Submenu _pos_ in _menu.xml_
         </item>
         <item label="center">
             <action name="Execute">
-                <execute>xdotool key alt+super+c</execute>
+                <execute>xdotool key alt+c</execute>
             </action>
         </item>
         <item label="show desktop">
@@ -68,5 +68,3 @@ and something like this in _rc.xml_
         <y>center</y>
       </action>
     </keybind>
-
-
