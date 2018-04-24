@@ -68,3 +68,5 @@ and something like this in _rc.xml_
         <y>center</y>
       </action>
     </keybind>
+
+![scrot30863pos-fs8.png]({{site.baseurl}}/media/scrot30863pos-fs8.png)
