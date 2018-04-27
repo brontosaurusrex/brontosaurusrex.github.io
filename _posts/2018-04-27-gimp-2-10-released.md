@@ -14,3 +14,7 @@ tags:
 [https://download.gimp.org/mirror/pub/gimp/v2.10/linux/](https://download.gimp.org/mirror/pub/gimp/v2.10/linux/)
 
 ![](https://www.gimp.org/images/frontpage/wilber-big.png)
+
+~/bin/gimp could be
+
+	flatpak run org.gimp.GIMP "$@"
