@@ -11,7 +11,7 @@ tags:
 [https://www.gimp.org/downloads/](https://www.gimp.org/downloads/)  
 [http://docs.flatpak.org/en/latest/using-flatpak.html](http://docs.flatpak.org/en/latest/using-flatpak.html)
 
-[https://download.gimp.org/mirror/pub/gimp/v2.10/linux/](https://download.gimp.org/mirror/pub/gimp/v2.10/linux/)
+^ At the moment flatpak seems to be still at 2.8.x ...., but here is a 2.10 rc2: [https://download.gimp.org/mirror/pub/gimp/v2.10/linux/](https://download.gimp.org/mirror/pub/gimp/v2.10/linux/)
 
 ![](https://www.gimp.org/images/frontpage/wilber-big.png)
 
