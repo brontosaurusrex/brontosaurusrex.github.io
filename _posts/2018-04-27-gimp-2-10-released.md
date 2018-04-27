@@ -11,4 +11,6 @@ tags:
 [https://www.gimp.org/downloads/](https://www.gimp.org/downloads/)  
 [http://docs.flatpak.org/en/latest/using-flatpak.html](http://docs.flatpak.org/en/latest/using-flatpak.html)
 
+[https://download.gimp.org/mirror/pub/gimp/v2.10/linux/](https://download.gimp.org/mirror/pub/gimp/v2.10/linux/)
+
 ![](https://www.gimp.org/images/frontpage/wilber-big.png)
