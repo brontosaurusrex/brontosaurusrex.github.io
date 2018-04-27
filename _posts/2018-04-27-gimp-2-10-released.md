@@ -3,6 +3,8 @@ published: true
 layout: post
 date: '2018-04-27 21:19 +0200'
 title: Gimp 2.10 released
+tags:
+  - linux
 ---
 [https://www.gimp.org/release-notes/gimp-2.10.html](https://www.gimp.org/release-notes/gimp-2.10.html)
 
