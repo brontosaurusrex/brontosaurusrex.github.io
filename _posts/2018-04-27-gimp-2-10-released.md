@@ -14,3 +14,5 @@ tags:
 ~/bin/gimp could be
 
 	flatpak run org.gimp.GIMP "$@"
+    
+![](https://cdn.scrot.moe/images/2018/05/07/gimp210.png)
