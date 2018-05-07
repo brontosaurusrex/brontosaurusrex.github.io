@@ -256,7 +256,13 @@ Making [gsimplecal](https://brontosaurusrex.github.io/2017/08/09/gsimplecal-loca
 
 [![cosIcan.md.png](https://cdn.scrot.moe/images/2018/02/10/tilixThumb.png)](https://cdn.scrot.moe/images/2018/02/10/thisIsASingleTilixWindow2.png)
 
-## gimp 2.10.x (appimage)
+## gimp 2.10.x 
+
+### flatpak
+
+[https://brontosaurusrex.github.io/2018/04/27/gimp-2-10-released/](https://brontosaurusrex.github.io/2018/04/27/gimp-2-10-released/)
+
+### appimage
 
 [https://discuss.pixls.us/t/gimp-2-10-0-rc1-appimage-available-for-download/7101](https://discuss.pixls.us/t/gimp-2-10-0-rc1-appimage-available-for-download/7101)
 
