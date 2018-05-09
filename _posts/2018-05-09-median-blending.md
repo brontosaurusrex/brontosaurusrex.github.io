@@ -8,4 +8,5 @@ title: Median blending
 
 Imagemagicks
 
-	convert OUT_PREFIX* -evaluate-sequence median output.png
+	convert *.png -evaluate-sequence median output.png
+    # *.png is input (multiple frames)
