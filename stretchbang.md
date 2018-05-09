@@ -266,6 +266,10 @@ Making [gsimplecal](https://brontosaurusrex.github.io/2017/08/09/gsimplecal-loca
 
 [https://discuss.pixls.us/t/gimp-2-10-0-rc1-appimage-available-for-download/7101](https://discuss.pixls.us/t/gimp-2-10-0-rc1-appimage-available-for-download/7101)
 
+## krita
+
+[https://binary-factory.kde.org/job/Krita_Nightly_Appimage_Build/](https://binary-factory.kde.org/job/Krita_Nightly_Appimage_Build/)
+
 ## mpv
 
     sudo apt install libncurses5-dev liblua5.1-0.dev devscripts equivs
