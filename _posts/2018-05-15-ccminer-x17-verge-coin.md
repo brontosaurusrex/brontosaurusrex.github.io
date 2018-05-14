@@ -17,6 +17,4 @@ If that would run stable for a while, then try the version without '-i 17'.
 
 Monitor a bit
 
-	watch -n 60 nvidia-smi
-
-	
+	watch -n 60 nvidia-smi	
