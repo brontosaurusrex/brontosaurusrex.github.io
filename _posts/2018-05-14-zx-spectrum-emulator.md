@@ -9,5 +9,9 @@ title: zx spectrum emulator
     
 In 'Options/peripherals/General' enable 'Kempston joystick' and disable the rest.
 
-![jetpac.png]({{site.baseurl}}/media/jetpac.png)
+![bruceLeeZx-fs8.png]({{site.baseurl}}/media/bruceLeeZx-fs8.png)
+
+Bruce lee  
+[http://www.worldofspectrum.org/pub/sinclair/games/b/BruceLee.tzx.zip](http://www.worldofspectrum.org/pub/sinclair/games/b/BruceLee.tzx.zip)  
+[http://www.worldofspectrum.org/infoseekid.cgi?id=0000718](http://www.worldofspectrum.org/infoseekid.cgi?id=0000718)
 
