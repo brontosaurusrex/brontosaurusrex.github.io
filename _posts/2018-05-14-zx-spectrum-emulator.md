@@ -6,3 +6,8 @@ title: zx spectrum emulator
 ---
     sudo apt install fuse-emulator-gtk
     fuse-gtk
+    
+In 'Options/peripherals/General' enable 'Kempston joystick' and disable the rest.
+
+![jetpac.png]({{site.baseurl}}/media/jetpac.png)
+
