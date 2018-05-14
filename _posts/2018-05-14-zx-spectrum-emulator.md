@@ -10,7 +10,7 @@ tags:
     sudo apt install fuse-emulator-gtk
     fuse-gtk
     # or better
-    fuse-sdl
+    fuse-sdl BruceLee.tzx.zip
     
 In 'Options/peripherals/General' enable 'Kempston joystick' and disable the rest.
 
