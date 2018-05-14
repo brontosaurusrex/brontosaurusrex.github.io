@@ -15,3 +15,6 @@ Bruce lee
 [http://www.worldofspectrum.org/pub/sinclair/games/b/BruceLee.tzx.zip](http://www.worldofspectrum.org/pub/sinclair/games/b/BruceLee.tzx.zip)  
 [http://www.worldofspectrum.org/infoseekid.cgi?id=0000718](http://www.worldofspectrum.org/infoseekid.cgi?id=0000718)
 
+Best games  
+[http://www.worldofspectrum.org/bestgames.html](http://www.worldofspectrum.org/bestgames.html)
+
