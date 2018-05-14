@@ -23,6 +23,8 @@ Bruce lee
 Scuba Dive  
 [http://www.worldofspectrum.org/infoseekid.cgi?id=0004381](http://www.worldofspectrum.org/infoseekid.cgi?id=0004381)
 
+![](https://www.worldofspectrum.org/pub/sinclair/games-inlays/Rereleases/s/ScubaDive(GrupoDeTrabajoSoftware).jpg)
+
 Skool daze  
 [http://www.worldofspectrum.org/infoseekid.cgi?id=0004549](http://www.worldofspectrum.org/infoseekid.cgi?id=0004549)
 
