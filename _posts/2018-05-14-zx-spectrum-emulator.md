@@ -7,7 +7,7 @@ tags:
   - misc
   - luv
 ---
-    sudo apt install fuse-emulator-gtk
+    sudo apt install fuse-emulator-gtk spectrum-roms
     fuse-gtk
     # or better
     fuse-sdl BruceLee.tzx.zip
