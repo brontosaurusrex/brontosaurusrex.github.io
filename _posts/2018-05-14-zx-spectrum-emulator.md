@@ -20,5 +20,11 @@ Bruce lee
 [http://www.worldofspectrum.org/pub/sinclair/games/b/BruceLee.tzx.zip](http://www.worldofspectrum.org/pub/sinclair/games/b/BruceLee.tzx.zip)  
 [http://www.worldofspectrum.org/infoseekid.cgi?id=0000718](http://www.worldofspectrum.org/infoseekid.cgi?id=0000718)
 
+Scuba Dive  
+[http://www.worldofspectrum.org/infoseekid.cgi?id=0004381](http://www.worldofspectrum.org/infoseekid.cgi?id=0004381)
+
+Skool daze  
+[http://www.worldofspectrum.org/infoseekid.cgi?id=0004549](http://www.worldofspectrum.org/infoseekid.cgi?id=0004549)
+
 Best games  
 [http://www.worldofspectrum.org/bestgames.html](http://www.worldofspectrum.org/bestgames.html)
