@@ -17,4 +17,3 @@ Bruce lee
 
 Best games  
 [http://www.worldofspectrum.org/bestgames.html](http://www.worldofspectrum.org/bestgames.html)
-
