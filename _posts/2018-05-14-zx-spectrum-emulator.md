@@ -2,12 +2,14 @@
 published: true
 layout: post
 date: '2018-05-14 17:38 +0200'
-title: ZX Spectrum emulator
+title: ZX Spectrum & C64 emulators
 tags:
   - misc
   - luv
 ---
-    sudo apt install fuse-emulator-gtk spectrum-roms
+## Spectrum
+
+	sudo apt install fuse-emulator-gtk spectrum-roms
     fuse-gtk
     # or better
     fuse-sdl BruceLee.tzx.zip
@@ -30,3 +32,11 @@ Skool daze
 
 Best games  
 [http://www.worldofspectrum.org/bestgames.html](http://www.worldofspectrum.org/bestgames.html)
+
+## C64
+
+	sudo apt install vice
+    # get roms
+    wget http://www.zimmers.net/anonftp/pub/cbm/crossplatform/emulators/VICE/old/vice-0.14.2-roms.tar.gz
+    # extract them to .vice/C64 and so on
+    x64
