@@ -30,6 +30,9 @@ Scuba Dive
 Skool daze  
 [http://www.worldofspectrum.org/infoseekid.cgi?id=0004549](http://www.worldofspectrum.org/infoseekid.cgi?id=0004549)
 
+Starquake  
+[http://www.worldofspectrum.org/infoseekid.cgi?id=0004873](http://www.worldofspectrum.org/infoseekid.cgi?id=0004873)
+
 Best games  
 [http://www.worldofspectrum.org/bestgames.html](http://www.worldofspectrum.org/bestgames.html)
 
