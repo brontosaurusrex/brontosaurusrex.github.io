@@ -33,6 +33,12 @@ Skool daze
 Starquake  
 [http://www.worldofspectrum.org/infoseekid.cgi?id=0004873](http://www.worldofspectrum.org/infoseekid.cgi?id=0004873)
 
+    CONTROLLING BLOB
+    Keyboard:
+    O Left                                  P Right
+    A Down or lay bridging platform         Q Up or pick up an object
+    M Fire                                  Also user definable key option
+
 Best games  
 [http://www.worldofspectrum.org/bestgames.html](http://www.worldofspectrum.org/bestgames.html)
 
