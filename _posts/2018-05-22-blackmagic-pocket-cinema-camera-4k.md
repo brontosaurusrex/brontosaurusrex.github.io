@@ -12,8 +12,6 @@ tags:
 
 Can do RAW (with expensive cards), no lenses included, you get full version of Resolve. 4/3 lenses should be smaller than Canon DSLR ones, so worth purchasing.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sensor_sizes_overlaid_inside_-_updated.svg/550px-Sensor_sizes_overlaid_inside_-_updated.svg.png)
-
 So to get:
 
 - expensive cards for RAW (lots)
