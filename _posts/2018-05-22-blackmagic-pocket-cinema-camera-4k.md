@@ -3,6 +3,8 @@ published: true
 layout: post
 date: '2018-05-22 10:45 +0200'
 title: Blackmagic Pocket Cinema Camera 4K
+tags:
+  - video
 ---
 [https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/techspecs/W-CIN-12](https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/techspecs/W-CIN-12)
 
