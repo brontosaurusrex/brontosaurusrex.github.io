@@ -17,3 +17,6 @@ So to get:
 - expensive cards for RAW (lots)
 - lens
 - stabilizer electronic for mobility
+
+And  
+[https://www.youtube.com/watch?v=L4pE-pdhnJw](https://www.youtube.com/watch?v=L4pE-pdhnJw)
