@@ -3,6 +3,8 @@ published: true
 layout: post
 date: '2018-05-22 21:44 +0200'
 title: Automounting of large external drives
+tags:
+  - linux
 ---
 [https://wiki.archlinux.org/index.php/thunar#Automounting_of_large_external_drives](https://wiki.archlinux.org/index.php/thunar#Automounting_of_large_external_drives)
 
