@@ -16,4 +16,6 @@ Something like this in your .config/openbox/autostart
 
 	# automount
 	udiskie -2 &
+    
+[https://forums.bunsenlabs.org/viewtopic.php?id=4847](https://forums.bunsenlabs.org/viewtopic.php?id=4847)
 
