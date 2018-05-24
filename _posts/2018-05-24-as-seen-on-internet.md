@@ -7,6 +7,6 @@ tags:
   - blender
   - mine
 ---
-[![saturns1.md.png](https://cdn.scrot.moe/images/2018/05/24/saturns1.md.png)](https://scrot.moe/image/9Lkeu)
+[![saturns1.md.png](https://cdn.scrot.moe/images/2018/05/24/saturns1.md.png)](https://cdn.scrot.moe/images/2018/05/24/saturns1.png)
 
 [https://forums.bunsenlabs.org/viewtopic.php?pid=72239#p72239](https://forums.bunsenlabs.org/viewtopic.php?pid=72239#p72239)
