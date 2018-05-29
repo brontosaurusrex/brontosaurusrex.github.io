@@ -6,6 +6,8 @@ title: Automounting of large external drives
 tags:
   - linux
 ---
+## desktop
+
 [https://wiki.archlinux.org/index.php/thunar#Automounting_of_large_external_drives](https://wiki.archlinux.org/index.php/thunar#Automounting_of_large_external_drives)
 
 man
@@ -18,4 +20,17 @@ Something like this in your .config/openbox/autostart
 	udiskie -2 &
     
 [https://forums.bunsenlabs.org/viewtopic.php?id=4847](https://forums.bunsenlabs.org/viewtopic.php?id=4847)
+
+## headless rasbpian
+
+	apt install usbmount
+
+edit
+
+	sudo vi /lib/systemd/system/systemd-udevd.service 
+    # change from MountFlags=slave to MountFlags=shared
+    
+reboot
+
+It should mount as /media/usb# (Also make sure if disk is ext4 that it is chowned to you)
 
