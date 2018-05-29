@@ -21,7 +21,7 @@ Something like this in your .config/openbox/autostart
     
 [https://forums.bunsenlabs.org/viewtopic.php?id=4847](https://forums.bunsenlabs.org/viewtopic.php?id=4847)
 
-## headless rasbpian
+## headless raspbian
 
 	apt install usbmount
 
