@@ -32,5 +32,6 @@ edit
     
 reboot
 
-It should mount as /media/usb# (Also make sure if disk is ext4 that it is chowned to you)
+It should mount as /media/usb#. Also make sure if disk is ext4 that it is chowned to you, for example
 
+	sudo chown -R pi:pi /media/usb
