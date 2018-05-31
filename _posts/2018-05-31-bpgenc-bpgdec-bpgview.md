@@ -3,6 +3,9 @@ published: true
 layout: post
 date: '2018-05-31 10:25 +0200'
 title: bpgenc bpgdec bpgview
+tags:
+  - linux
+  - cli
 ---
 [https://bellard.org/bpg/](https://bellard.org/bpg/)
 
