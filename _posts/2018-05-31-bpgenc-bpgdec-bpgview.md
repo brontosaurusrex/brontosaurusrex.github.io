@@ -76,6 +76,7 @@ like: bpgenc -f 444 -q 12 *.png (slow)
 
 	444 -q 12 bpg = 221 M
 
+^ Looks kinda good, but at this size still useless
 
 There is no crf like mode as it seems, shame.
 
