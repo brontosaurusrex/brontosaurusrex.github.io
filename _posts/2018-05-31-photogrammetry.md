@@ -11,3 +11,6 @@ tags:
 Maybe an easy start  
 [https://colmap.github.io/](https://colmap.github.io/)  
 [http://www.meshlab.net/](http://www.meshlab.net/)
+
+Stuff  
+[https://www.3dflow.net/3df-zephyr-pro-3d-models-from-photos/](https://www.3dflow.net/3df-zephyr-pro-3d-models-from-photos/)
