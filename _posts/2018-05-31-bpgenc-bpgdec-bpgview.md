@@ -72,5 +72,7 @@ Another lossy mode with 444 chroma, like: bpgenc -f 444 *.png
     
 ^ Blocky, blurry, useless
 
+like: bpgenc -f 444 -q 12 *.png
+
 
 
