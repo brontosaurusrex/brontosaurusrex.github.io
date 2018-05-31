@@ -68,5 +68,7 @@ Lossles bpg, like bpgenc: -lossless *.png
 
 Another lossy mode with 444 chroma, like: bpgenc -f 444 *.png
 
+	444 bpg = 42 M
+
 
 
