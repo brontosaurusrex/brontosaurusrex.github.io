@@ -80,5 +80,9 @@ like: bpgenc -f 444 -q 12 *.png (slow)
 
 There is no crf like mode as it seems, shame.
 
+## HEIF ?
+
+Container for HEVC and stuff, should be able to pack any I-frame encoded image into it?
+
 
 
