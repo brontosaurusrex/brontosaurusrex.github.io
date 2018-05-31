@@ -21,7 +21,7 @@ then
 
 	cp bpgenc bpgdec bpgview ~/bin
     
-or softlink or make install
+or softlink or make install.
 
 A simple one by one conversion script could look like
 
