@@ -75,4 +75,7 @@ Another lossy mode with 444 chroma, like: bpgenc -f 444 *.png
 like: bpgenc -f 444 -q 12 *.png
 
 
+There is no crf like mode as it seems, shame.
+
+
 
