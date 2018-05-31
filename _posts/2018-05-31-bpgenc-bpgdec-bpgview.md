@@ -47,4 +47,26 @@ A simple one by one conversion script could look like
         shift
 
     done
+    
+## size
+
+Original png
+
+	png = 659 M
+
+Default lossy mode (with alpha), like: bpgenc *.png
+
+	bpg = 32 M
+    
+^ Blocky, blurry, useless
+    
+Lossles bpg, like bpgenc: -lossless *.png
+
+    lossless bpg = 643 M (oops)
+    
+^ Not much better than png
+
+Another lossy mode with 444 chroma, like: bpgenc -f 444 *.png
+
+
 
