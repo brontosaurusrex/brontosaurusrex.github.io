@@ -3,9 +3,8 @@ layout: page
 title: vim learning notes
 published: true
 ---
-![vim]({{site.baseurl}}/media/vimClean.png)
 
-## .vimrc
+## .vimrc quicky
 
 [postbang/blob/master/.vimrc](https://github.com/brontosaurusrex/postbang/blob/master/.vimrc)
 
