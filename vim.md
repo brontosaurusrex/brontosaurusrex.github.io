@@ -136,6 +136,23 @@ make each buffer appear in tab
 
 [link](http://stackoverflow.com/questions/1879219/how-to-temporarily-exit-vim-and-go-back)
 
+or
+
+    :shell or just :sh "do your shell stuff" then 
+    exit
+
+insert output of the shell command to the current document
+
+    :r ! ls
+
+## Bang
+
+One can also execute commands directly from the editor
+
+    :! python %
+
+will run the active (must be saved) file with python interpreter.
+
 ## Debian
 
 vi and vim are the same, they are symbolic links to 
@@ -143,25 +160,6 @@ vi and vim are the same, they are symbolic links to
     /usr/bin/vim.basic
 
 vi and vim are the same on OSX as well.
-
-## neovim?
-
-> Neovim is emphatically a fork of Vim in order to leverage the work already spent on thousands of Vim plugins, while enabling new types of plugins and integrations.
-
-[https://geoff.greer.fm/2015/01/15/why-neovim-is-better-than-vim/](https://geoff.greer.fm/2015/01/15/why-neovim-is-better-than-vim/)  
-[https://neovim.io/doc/user/vim_diff.html#nvim-features](https://neovim.io/doc/user/vim_diff.html#nvim-features)
-
-User visible differences:
-
-- gt always work in nvim, sometimes fails in vim
-- /search is interactive < this could be due to some sort of config difference, anyway seems like a sane deafult
-- code coloration is different < again perhaps due to some sort of config ...
-
-### urxvt and neovim
-
-colorschemes defined in .config/nvim/init.vim do not apply well, workaround is to start nvim like 
-
-    nvim -c "colors molokai" # < or make an alias like that
 
 ## latest vim on OSX
 
