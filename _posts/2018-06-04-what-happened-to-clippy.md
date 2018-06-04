@@ -7,7 +7,7 @@ tags:
   - linux
   - mine
 ---
-[![clippy6.md.png](https://cdn.scrot.moe/images/2018/06/04/clippy6.md.png)](https://scrot.moe/image/9XzjZ)
+[![clippy6.md.png](https://cdn.scrot.moe/images/2018/06/04/clippy6.md.png)](https://cdn.scrot.moe/images/2018/06/04/clippy6.png)
 
 > Would ya like to
 > a. git push ?
