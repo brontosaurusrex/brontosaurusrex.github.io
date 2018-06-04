@@ -4,7 +4,7 @@ layout: post
 date: '2018-06-04 22:20 +0200'
 title: What happened to Clippy?
 tags:
-  - linux
+  - blender
   - mine
 ---
 [![clippy6.md.png](https://cdn.scrot.moe/images/2018/06/04/clippy6.md.png)](https://cdn.scrot.moe/images/2018/06/04/clippy6.png)
