@@ -9,7 +9,7 @@ title: Speed up Jekyll builds
 
 Limiting # of posts
 
-	jekyll serve --host=0.0.0.0 --limit_posts 100
+	jekyll serve --host=0.0.0.0 --limit_posts 100 --incremental
     
 3rd party thumb maker
 
