@@ -13,5 +13,5 @@ Limiting # of posts
     
 3rd party thumb maker
 
-[https://images.weserv.nl/](https://images.weserv.nl/)
+[https://images.weserv.nl/](https://images.weserv.nl/) with nice gdpr policy [https://github.com/andrieslouw/imagesweserv/blob/3.x/Privacy-Policy.md](https://github.com/andrieslouw/imagesweserv/blob/3.x/Privacy-Policy.md)
 
