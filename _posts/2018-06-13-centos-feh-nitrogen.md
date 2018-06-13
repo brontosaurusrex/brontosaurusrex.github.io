@@ -6,4 +6,4 @@ title: CentOS feh/nitrogen?
 ---
 [https://jdhao.github.io/2017/05/06/install-feh-image-viewer-on-centos/](https://jdhao.github.io/2017/05/06/install-feh-image-viewer-on-centos/)
 
-
+[![Screenshot-from-2018-06-13-13-53-20.md.png](https://cdn.scrot.moe/images/2018/06/13/Screenshot-from-2018-06-13-13-53-20.md.png)](https://scrot.moe/image/9Ee0Y)
