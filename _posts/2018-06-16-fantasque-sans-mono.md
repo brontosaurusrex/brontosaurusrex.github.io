@@ -8,5 +8,3 @@ title: Fantasque Sans Mono
     
 ![fantasqueSansMono-fs8.png]({{site.baseurl}}/media/fantasqueSansMono-fs8.png)
 
-    
-
