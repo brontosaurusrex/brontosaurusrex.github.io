@@ -34,9 +34,10 @@ tags:
 
 I do kinda trust my raspberry as a server/'cloud', I can have my own cloud right?
 
+![]({{site.baseurl}}/https://www.raspberrypi.org/app/uploads/2015/08/raspberry-pi-logo.png)
+
 > Microsoft loves Linux.
 
 > If you are going to have a risk-taking culture, you can't really look at every failure as a failure, you've got to be able to look at the failure as a learning opportunity.
 
 > This is a software-powered world.
-
