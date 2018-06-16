@@ -38,6 +38,17 @@ I do kinda trust my raspberry as a server/'cloud', I can have my own cloud right
 
 > Microsoft loves Linux.
 
+Cute, especially considering another quote (Not from Satya):
+
+> Linux treats everyone equally and allows everyone the maximum amount of power. That is egalitarian. Other operating systems are elitist and exclusive because they withhold or hide their power behind an inflexible Graphical User Interface that allows one to do only what the developers think we should be allowed to do.
+
+And older UNIX philosophy
+
+- Make each program do one thing well. To do a new job, build afresh rather than complicate old programs by adding new "features".
+- Expect the output of every program to become the input to another, as yet unknown, program. Don't clutter output with extraneous information. Avoid stringently columnar or binary input formats. Don't insist on interactive input.
+- Design and build software, even operating systems, to be tried early, ideally within weeks. Don't hesitate to throw away the clumsy parts and rebuild them.
+- Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you've finished using them.
+
 > If you are going to have a risk-taking culture, you can't really look at every failure as a failure, you've got to be able to look at the failure as a learning opportunity.
 
 > This is a software-powered world.
