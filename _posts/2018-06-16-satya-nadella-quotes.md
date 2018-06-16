@@ -34,7 +34,7 @@ tags:
 
 I do kinda trust my raspberry as a server/'cloud', I can have my own cloud right?
 
-![]({{site.baseurl}}/https://www.raspberrypi.org/app/uploads/2015/08/raspberry-pi-logo.png)
+![](https://www.raspberrypi.org/app/uploads/2015/08/raspberry-pi-logo.png)
 
 > Microsoft loves Linux.
 
