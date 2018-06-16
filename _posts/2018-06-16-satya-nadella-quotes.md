@@ -38,7 +38,7 @@ I do kinda trust my raspberry as a server/'cloud', I can have my own cloud right
 
 > Microsoft loves Linux.
 
-Cute, especially considering another quote (Not from Satya):
+Another quote (Not from Satya):
 
 > Linux treats everyone equally and allows everyone the maximum amount of power. That is egalitarian. Other operating systems are elitist and exclusive because they withhold or hide their power behind an inflexible Graphical User Interface that allows one to do only what the developers think we should be allowed to do.
 
