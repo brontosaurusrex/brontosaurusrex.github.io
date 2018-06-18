@@ -10,3 +10,8 @@ tags:
 	apt install fonts-fantasque-sans
     
 ![fantasqueSansMono-fs8.png]({{site.baseurl}}/media/fantasqueSansMono-fs8.png)
+
+Monaco is actually kinda similar (urxvt .Xresources)
+
+	URxvt.font: xft:monaco:size=11
+	URxvt.letterSpace: -1
