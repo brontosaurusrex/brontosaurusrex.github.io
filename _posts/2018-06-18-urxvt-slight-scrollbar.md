@@ -17,3 +17,5 @@ tags:
 and start with
 
 	urxvt -sb
+    
+![urxvtScrollbarsLight-fs8.png]({{site.baseurl}}/media/urxvtScrollbarsLight-fs8.png)
