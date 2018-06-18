@@ -15,3 +15,5 @@ Monaco is actually kinda similar (urxvt .Xresources)
 
 	URxvt.font: xft:monaco:size=11
 	URxvt.letterSpace: -1
+    
+![monacoFontInUrxvt-fs8.png]({{site.baseurl}}/media/monacoFontInUrxvt-fs8.png)
