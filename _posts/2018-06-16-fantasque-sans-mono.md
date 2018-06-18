@@ -18,7 +18,7 @@ In .Xresources (urxvt)
 
 ![fanatsqueUrxvt-fs8.png]({{site.baseurl}}/media/fanatsqueUrxvt-fs8.png)
 
-Monaco is actually kinda similar (urxvt .Xresources)
+Monaco is actually kinda similar
 
 	URxvt.font: xft:monaco:size=11
 	URxvt.letterSpace: -1
