@@ -11,6 +11,13 @@ tags:
     
 ![fantasqueSansMono-fs8.png]({{site.baseurl}}/media/fantasqueSansMono-fs8.png)
 
+In .Xresources (urxvt)
+
+	URxvt.font: xft:FantasqueSansMono-Regular:size=14
+	URxvt.letterSpace: -1
+
+![fanatsqueUrxvt-fs8.png]({{site.baseurl}}/media/fanatsqueUrxvt-fs8.png)
+
 Monaco is actually kinda similar (urxvt .Xresources)
 
 	URxvt.font: xft:monaco:size=11
