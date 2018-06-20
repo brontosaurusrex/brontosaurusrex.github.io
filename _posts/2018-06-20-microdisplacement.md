@@ -13,3 +13,5 @@ tags:
 - Modifier tab: add subsurf, set it to adaptive
 - Material node: image texture -> Displacement / height -> Material output / Displacement
 - Image texture / color can also drive ColorRamp -> Shader Base Color
+
+[![microDisp.md.png](https://cdn.scrot.moe/images/2018/06/20/microDisp.md.png)](https://scrot.moe/image/9tLaA)
