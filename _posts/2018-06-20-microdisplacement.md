@@ -20,4 +20,5 @@ Texture [http://www.texturemate.com/Textures/seamless-seamless-sci-fi_Free_Textu
 Dicing scale set to 0.5:  
 [![microDisp1.md.png](https://cdn.scrot.moe/images/2018/06/21/microDisp1.md.png)](https://scrot.moe/image/9tMcL)  
 Stronger displacement:  
-[![microDisp4.md.png](https://cdn.scrot.moe/images/2018/06/21/microDisp4.md.png)](https://scrot.moe/image/9tIhp)
+[![microDisp4.md.png](https://cdn.scrot.moe/images/2018/06/21/microDisp4.md.png)](https://scrot.moe/image/9tIhp)  
+[![microDisp6.th.png](https://cdn.scrot.moe/images/2018/06/21/microDisp6.th.png)](https://scrot.moe/image/9tmoW) [![microDisp5.th.png](https://cdn.scrot.moe/images/2018/06/21/microDisp5.th.png)](https://scrot.moe/image/9tcG3)
