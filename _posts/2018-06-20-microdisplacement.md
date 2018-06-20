@@ -14,5 +14,7 @@ tags:
 - Material node: image texture -> Displacement / height -> Material output / Displacement
 - Image texture / color can also drive ColorRamp -> Shader Base Color
 
+Texture [http://www.texturemate.com/Textures/seamless-seamless-sci-fi_Free_Texture_366](http://www.texturemate.com/Textures/seamless-seamless-sci-fi_Free_Texture_366)
+
 [![microDisp.md.png](https://cdn.scrot.moe/images/2018/06/20/microDisp.md.png)](https://scrot.moe/image/9tLaA)
 [![microDisp1.md.png](https://cdn.scrot.moe/images/2018/06/21/microDisp1.md.png)](https://scrot.moe/image/9tMcL)
