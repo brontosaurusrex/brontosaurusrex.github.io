@@ -15,3 +15,4 @@ tags:
 - Image texture / color can also drive ColorRamp -> Shader Base Color
 
 [![microDisp.md.png](https://cdn.scrot.moe/images/2018/06/20/microDisp.md.png)](https://scrot.moe/image/9tLaA)
+[![microDisp1.md.png](https://cdn.scrot.moe/images/2018/06/21/microDisp1.md.png)](https://scrot.moe/image/9tMcL)
