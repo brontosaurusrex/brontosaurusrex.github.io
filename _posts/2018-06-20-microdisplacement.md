@@ -22,3 +22,7 @@ Dicing scale set to 0.5:
 Stronger displacement:  
 [![microDisp4.md.png](https://cdn.scrot.moe/images/2018/06/21/microDisp4.md.png)](https://scrot.moe/image/9tIhp)  
 [![microDisp6.th.png](https://cdn.scrot.moe/images/2018/06/21/microDisp6.th.png)](https://scrot.moe/image/9tmoW) [![microDisp5.th.png](https://cdn.scrot.moe/images/2018/06/21/microDisp5.th.png)](https://scrot.moe/image/9tcG3)
+
+## Depth map generators
+
+[Jsplacement](https://windmillart.net/?p=jsplacement) is a rather cool pseudo-random 8k displacement map generator made with JavaScript.
