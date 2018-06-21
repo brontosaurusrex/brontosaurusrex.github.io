@@ -26,3 +26,5 @@ Stronger displacement:
 ## Depth map generators
 
 [Jsplacement](https://windmillart.net/?p=jsplacement) is a rather cool pseudo-random 8k displacement map generator made with JavaScript.
+
+[![microDisp8.md.png](https://cdn.scrot.moe/images/2018/06/21/microDisp8.md.png)](https://scrot.moe/image/9tsWZ)
