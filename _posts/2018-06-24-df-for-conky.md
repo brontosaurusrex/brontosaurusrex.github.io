@@ -3,6 +3,10 @@ published: true
 layout: post
 date: '2018-06-24 22:44 +0200'
 title: df for conky
+tags:
+  - linux
+  - cli
+  - bash
 ---
 See all there is
 
