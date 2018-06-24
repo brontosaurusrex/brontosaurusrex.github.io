@@ -8,6 +8,8 @@ tags:
   - cli
   - bash
 ---
+[https://forums.bunsenlabs.org/viewtopic.php?pid=73939#p73939](https://forums.bunsenlabs.org/viewtopic.php?pid=73939#p73939)
+
 See all there is
 
 	df -h --output
