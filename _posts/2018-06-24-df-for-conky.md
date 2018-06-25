@@ -78,3 +78,16 @@ should return
     |||||||||||||||||||||||||||                              100G free
     |||||                                                    45.5T free
     |||||||||||||||||||||||||||||||||||||||||||||||||||||||| woot
+    
+# dfascii (full script)
+
+[https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/dfascii](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/dfascii)
+
+may return
+
+                                                             free	 mount
+    ||||||||||||||||||||||||||||||||||||||||||||||           16G	 /
+    ||||||                                                   1.6T	 /home/b/pi
+    ||||||||||||||||||||||||                                 491G	 /media/b/data
+
+
