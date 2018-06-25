@@ -10,6 +10,8 @@ tags:
 ---
 [https://forums.bunsenlabs.org/viewtopic.php?pid=73939#p73939](https://forums.bunsenlabs.org/viewtopic.php?pid=73939#p73939)
 
+## df
+
 See all there is
 
 	df -h --output
@@ -24,3 +26,54 @@ could return
 	/              89%
 	/home/b/pi     12%
 	/media/b/data  44%
+    
+## General draw ascii bar function
+
+    #!/bin/bash
+
+    # ascii bar in percents
+
+    # Mostly taken from:
+    # http://mywiki.wooledge.org/BashFAQ/044
+
+    # 1st parameter is percentage, 
+    # 2nd is whatever you want printed on the right
+    bar () {
+    bar="|||||||||||||||||||||||||||||||||||||||||||||||||||||||||"
+    barlength=${#bar}
+
+    perc="$1"
+    i=0
+
+    while ((i < perc)); do
+
+      n=$((i*barlength / 100))
+
+      printf "\r%-${barlength}s" "${bar:0:n}"
+      printf "$2"
+
+      ((i += 1))
+
+    done
+    echo
+    }
+
+    bar 5 "10G free"
+    bar 50 "100G free"
+    bar 10 "45.5T free"
+    bar 100 "woot"
+    bar 5 "10G free"
+    bar 50 "100G free"
+    bar 10 "45.5T free"
+    bar 100 "woot"
+    
+Should return
+
+	    ||                                                       10G free
+    |||||||||||||||||||||||||||                              100G free
+    |||||                                                    45.5T free
+    |||||||||||||||||||||||||||||||||||||||||||||||||||||||| woot
+    ||                                                       10G free
+    |||||||||||||||||||||||||||                              100G free
+    |||||                                                    45.5T free
+    |||||||||||||||||||||||||||||||||||||||||||||||||||||||| woot
