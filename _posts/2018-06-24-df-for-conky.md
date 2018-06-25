@@ -16,7 +16,7 @@ See all there is
 
 	df -h --output
     
-Filter stuff (probably -t ntfs is a good idead here as well)
+Filter stuff (probably -t ntfs is a good idea here as well)
 
 	df -h -t ext4 -t vfat -t fuse.sshfs --output=target,pcent | grep -v "boot"
     
@@ -80,3 +80,4 @@ may return
     ||||||||||||||||||||     16G	 /
     ||                       1.6T	 /home/b/pi
     ||||||||||               491G	 /media/b/data
+    
