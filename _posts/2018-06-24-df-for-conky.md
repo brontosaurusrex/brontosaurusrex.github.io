@@ -85,9 +85,7 @@ should return
 
 may return
 
-                                                             free	 mount
-    ||||||||||||||||||||||||||||||||||||||||||||||           16G	 /
-    ||||||                                                   1.6T	 /home/b/pi
-    ||||||||||||||||||||||||                                 491G	 /media/b/data
-
-
+                             free	 mount
+    ||||||||||||||||||||     16G	 /
+    ||                       1.6T	 /home/b/pi
+    ||||||||||               491G	 /media/b/data
