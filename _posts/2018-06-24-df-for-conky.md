@@ -39,23 +39,23 @@ could return
     # 1st parameter is percentage, 
     # 2nd is whatever you want printed on the right
     bar () {
-    bar="|||||||||||||||||||||||||||||||||||||||||||||||||||||||||"
-    barlength=${#bar}
+        bar="|||||||||||||||||||||||||||||||||||||||||||||||||||||||||"
+        barlength=${#bar}
 
-    perc="$1"
-    i=0
+        perc="$1"
+        i=0
 
-    while ((i < perc)); do
+        while ((i < perc)); do
 
-      n=$((i*barlength / 100))
+          n=$((i*barlength / 100))
 
-      printf "\r%-${barlength}s" "${bar:0:n}"
-      printf "$2"
+          printf "\r%-${barlength}s" "${bar:0:n}"
+          printf "$2"
 
-      ((i += 1))
+          ((i += 1))
 
-    done
-    echo
+        done
+        echo
     }
 
     bar 5 "10G free"
@@ -66,8 +66,9 @@ could return
     bar 50 "100G free"
     bar 10 "45.5T free"
     bar 100 "woot"
+
     
-Should return
+should return
 
 	||                                                       10G free
     |||||||||||||||||||||||||||                              100G free
