@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2018-06-24 22:44 +0200'
-title: df for conky
+title: df (not) for conky
 tags:
   - linux
   - cli
@@ -80,4 +80,3 @@ may return
     ||||||||||||||||||||     16G	 /
     ||                       1.6T	 /home/b/pi
     ||||||||||               491G	 /media/b/data
-    
