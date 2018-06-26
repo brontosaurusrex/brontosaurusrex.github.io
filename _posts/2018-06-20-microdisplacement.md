@@ -21,7 +21,7 @@ Dicing scale set to 0.5:
 [![microDisp1.md.png](https://cdn.scrot.moe/images/2018/06/21/microDisp1.md.png)](https://scrot.moe/image/9tMcL)  
 Stronger displacement:  
 [![microDisp4.md.png](https://cdn.scrot.moe/images/2018/06/21/microDisp4.md.png)](https://scrot.moe/image/9tIhp)  
-[![microDisp6.th.png](https://cdn.scrot.moe/images/2018/06/21/microDisp6.th.png)](https://scrot.moe/image/9tmoW) [![microDisp5.th.png](https://cdn.scrot.moe/images/2018/06/21/microDisp5.th.png)](https://scrot.moe/image/9tcG3)[![microDisp6gimp.th.png](https://cdn.scrot.moe/images/2018/06/26/microDisp6gimp.th.png)](https://scrot.moe/image/9OzIL) [![bunsenMicro.th.png](https://cdn.scrot.moe/images/2018/06/26/bunsenMicro.th.png)](https://scrot.moe/image/9OK6A) [![bunsenSilicon2.th.png](https://cdn.scrot.moe/images/2018/06/26/bunsenSilicon2.th.png)](https://scrot.moe/image/9OG7b)
+[![microDisp6.th.png](https://cdn.scrot.moe/images/2018/06/21/microDisp6.th.png)](https://scrot.moe/image/9tmoW) [![microDisp5.th.png](https://cdn.scrot.moe/images/2018/06/21/microDisp5.th.png)](https://scrot.moe/image/9tcG3) [![microDisp6gimp.th.png](https://cdn.scrot.moe/images/2018/06/26/microDisp6gimp.th.png)](https://scrot.moe/image/9OzIL) [![bunsenMicro.th.png](https://cdn.scrot.moe/images/2018/06/26/bunsenMicro.th.png)](https://scrot.moe/image/9OK6A) [![bunsenSilicon2.th.png](https://cdn.scrot.moe/images/2018/06/26/bunsenSilicon2.th.png)](https://scrot.moe/image/9OG7b)
 
 Displacement driven by Pointiness > ramp > Displacement (scale)
 
