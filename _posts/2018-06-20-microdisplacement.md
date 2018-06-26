@@ -23,6 +23,10 @@ Stronger displacement:
 [![microDisp4.md.png](https://cdn.scrot.moe/images/2018/06/21/microDisp4.md.png)](https://scrot.moe/image/9tIhp)  
 [![microDisp6.th.png](https://cdn.scrot.moe/images/2018/06/21/microDisp6.th.png)](https://scrot.moe/image/9tmoW) [![microDisp5.th.png](https://cdn.scrot.moe/images/2018/06/21/microDisp5.th.png)](https://scrot.moe/image/9tcG3)[![microDisp6gimp.th.png](https://cdn.scrot.moe/images/2018/06/26/microDisp6gimp.th.png)](https://scrot.moe/image/9OzIL) [![bunsenMicro.th.png](https://cdn.scrot.moe/images/2018/06/26/bunsenMicro.th.png)](https://scrot.moe/image/9OK6A) [![bunsenSilicon2.th.png](https://cdn.scrot.moe/images/2018/06/26/bunsenSilicon2.th.png)](https://scrot.moe/image/9OG7b)
 
+Displacement driven by Pointiness > ramp > Displacement (scale)
+
+[![bunsenMicro3_2x_c.md.png](https://cdn.scrot.moe/images/2018/06/26/bunsenMicro3_2x_c.md.png)](https://scrot.moe/image/9OjK3)
+
 ## Depth map generators
 
 [Jsplacement](https://windmillart.net/?p=jsplacement) is a rather cool pseudo-random 8k displacement map generator made with JavaScript.
