@@ -50,7 +50,7 @@ could return
         #printf "\r%-${barlength}s" "${bar:0:n}"
         printf "%-${barlength}s" "${bar:0:n}"
         printf " %s\n" "$2"
-        #echo
+        
     }
 
     bar 5 "10G free"
