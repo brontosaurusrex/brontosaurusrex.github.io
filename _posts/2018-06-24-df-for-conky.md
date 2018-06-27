@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2018-06-24 22:44 +0200'
-title: df (not) for conky
+title: 'dfascii, also for conky'
 tags:
   - linux
   - cli
