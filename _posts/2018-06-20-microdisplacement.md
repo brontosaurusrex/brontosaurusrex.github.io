@@ -30,6 +30,7 @@ Displacement driven by Pointiness > ramp > Displacement (scale)
 And the one that was a lot of work
 
 [![bunsenMicro6d_gimp1.md.png](https://cdn.scrot.moe/images/2018/06/27/bunsenMicro6d_gimp1.md.png)](https://scrot.moe/image/9Olqz)
+[![bunsenMicro6d_mono_3x3_b.md.png](https://cdn.scrot.moe/images/2018/06/27/bunsenMicro6d_mono_3x3_b.md.png)](https://scrot.moe/image/9O7UQ)
 
 ## Depth map generators
 
