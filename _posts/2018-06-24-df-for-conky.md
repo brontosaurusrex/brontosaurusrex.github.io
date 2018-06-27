@@ -39,23 +39,18 @@ could return
     # 1st parameter is percentage, 
     # 2nd is whatever you want printed on the right
     bar () {
+
         bar="|||||||||||||||||||||||||||||||||||||||||||||||||||||||||"
         barlength=${#bar}
 
         perc="$1"
-        i=0
 
-        while ((i < perc)); do
+        n=$((perc*barlength / 100))
 
-          n=$((i*barlength / 100))
-
-          printf "\r%-${barlength}s" "${bar:0:n}"
-          printf "$2"
-
-          ((i += 1))
-
-        done
-        echo
+        #printf "\r%-${barlength}s" "${bar:0:n}"
+        printf "%-${barlength}s" "${bar:0:n}"
+        printf " %s\n" "$2"
+        #echo
     }
 
     bar 5 "10G free"
