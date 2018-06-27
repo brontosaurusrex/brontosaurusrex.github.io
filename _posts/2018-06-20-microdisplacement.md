@@ -27,6 +27,10 @@ Displacement driven by Pointiness > ramp > Displacement (scale)
 
 [![bunsenMicro3_2x_c.md.png](https://cdn.scrot.moe/images/2018/06/26/bunsenMicro3_2x_c.md.png)](https://scrot.moe/image/9OjK3)
 
+And the one that was a lot of work
+
+[![bunsenMicro6d_gimp1.md.png](https://cdn.scrot.moe/images/2018/06/27/bunsenMicro6d_gimp1.md.png)](https://scrot.moe/image/9Olqz)
+
 ## Depth map generators
 
 [Jsplacement](https://windmillart.net/?p=jsplacement) is a rather cool pseudo-random 8k displacement map generator made with JavaScript.
