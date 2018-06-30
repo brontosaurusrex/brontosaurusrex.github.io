@@ -249,6 +249,17 @@ for whole thing one could run script as
 
     time script
     
+## Try Until it works
+
+    play() {
+        /usr/bin/mpv https://stream/chunklist.m3u8 --no-resume-playback
+    }
+
+    until play
+    do
+      sleep 60
+    done
+    
 ## flames?
 
 [https://github.com/brontosaurusrex/brontosaurusrex.github.io/issues](https://github.com/brontosaurusrex/brontosaurusrex.github.io/issues)
