@@ -34,7 +34,7 @@ And the one that was a lot of work
 
 HUD of some sort
 
-[![bunsenMicro6d_mono_3x3_b_hudSmall.md.png](https://cdn.scrot.moe/images/2018/06/30/bunsenMicro6d_mono_3x3_b_hudSmall.md.png)](https://scrot.moe/image/9Z9R8)
+[![bunsenMicro6d_mono_3x3_b_hudSmall.md.png](https://cdn.scrot.moe/images/2018/06/30/bunsenMicro6d_mono_3x3_b_hudSmall.md.png)](https://cdn.scrot.moe/images/2018/06/30/bunsenMicro6d_mono_3x3_b_hudSmall.png)
 
 ## Depth map generators
 
