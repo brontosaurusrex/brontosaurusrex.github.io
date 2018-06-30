@@ -32,6 +32,10 @@ And the one that was a lot of work
 [![bunsenMicro6d_gimp1.md.png](https://cdn.scrot.moe/images/2018/06/27/bunsenMicro6d_gimp1.md.png)](https://scrot.moe/image/9Olqz)
 [![bunsenMicro6d_mono_3x3_b.md.png](https://cdn.scrot.moe/images/2018/06/27/bunsenMicro6d_mono_3x3_b.md.png)](https://scrot.moe/image/9O7UQ)
 
+HUD of some sort
+
+[![bunsenMicro6d_mono_3x3_b_hudSmall.md.png](https://cdn.scrot.moe/images/2018/06/30/bunsenMicro6d_mono_3x3_b_hudSmall.md.png)](https://scrot.moe/image/9Z9R8)
+
 ## Depth map generators
 
 [Jsplacement](https://windmillart.net/?p=jsplacement) is a rather cool pseudo-random 8k displacement map generator made with JavaScript.
