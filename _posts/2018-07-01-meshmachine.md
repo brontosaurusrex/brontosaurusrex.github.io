@@ -7,7 +7,8 @@ tags:
   - blender
 ---
 [https://blenderartists.org/t/addon-meshmachine/1102529](https://blenderartists.org/t/addon-meshmachine/1102529)  
-[https://www.youtube.com/watch?v=Z1ta37oAe8w](https://www.youtube.com/watch?v=Z1ta37oAe8w)
+[https://www.youtube.com/watch?v=Z1ta37oAe8w](https://www.youtube.com/watch?v=Z1ta37oAe8w)  
+[https://machin3.io/](https://machin3.io/)
 
 > MESHmachine is a blender modeling addon - created to allow for more flexibility, especially when dealing with rounded surfaces, traditionally created with the Bevel and Bridge tools.
 
