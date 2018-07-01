@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2018-07-01 14:45 +0200'
-title: MESHmachine
+title: MESHmachine (addon)
 tags:
   - blender
 ---
