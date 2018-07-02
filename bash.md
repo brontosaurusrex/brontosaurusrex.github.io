@@ -260,6 +260,10 @@ for whole thing one could run script as
       sleep 60
     done
     
+Also works nicely interactively
+
+    until latoya ; do sleep 30 ; done
+    
 ## flames?
 
 [https://github.com/brontosaurusrex/brontosaurusrex.github.io/issues](https://github.com/brontosaurusrex/brontosaurusrex.github.io/issues)
