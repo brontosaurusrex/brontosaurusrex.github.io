@@ -9,4 +9,8 @@ tags:
 ---
 [https://the.exa.website/docs/colour-themes](https://the.exa.website/docs/colour-themes)
 
+Install
 
+	sudo apt install libhttp-parser2.1
+
+then unpack/rename [this](https://the.exa.website/#installation) to ~/bin/exa
