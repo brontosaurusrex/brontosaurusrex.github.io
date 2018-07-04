@@ -14,3 +14,5 @@ Install
 	sudo apt install libhttp-parser2.1
 
 then unpack/rename [this](https://the.exa.website/#installation) to ~/bin/exa
+
+![exa-fs8.png]({{site.baseurl}}/media/exa-fs8.png)
