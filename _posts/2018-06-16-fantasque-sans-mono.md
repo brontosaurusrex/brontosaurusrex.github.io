@@ -13,7 +13,7 @@ tags:
 
 In .Xresources (urxvt)
 
-	URxvt.font: xft:FantasqueSansMono-Regular:size=14
+	URxvt.font: xft:FantasqueSansMono-Regular:size=12
 	URxvt.letterSpace: -1
 
 ![fanatsqueUrxvt-fs8.png]({{site.baseurl}}/media/fanatsqueUrxvt-fs8.png)
