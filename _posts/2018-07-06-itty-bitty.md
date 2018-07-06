@@ -6,5 +6,5 @@ title: itty.bitty
 tags:
   - web
 ---
-https://itty.bitty.site/edit  
+[https://itty.bitty.site/edit](https://itty.bitty.site/edit)    
 [https://github.com/alcor/itty-bitty](https://github.com/alcor/itty-bitty) (MIT License)
