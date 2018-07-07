@@ -4,6 +4,12 @@ title: books
 published: true
 ---
 
+## TOC
+{:.no_toc}
+
+* TOC
+{:toc}
+
 ## The Selfish Gene
 
 > is a 1976 book on evolution by Richard Dawkins, in which he builds upon the principal theory of George C. Williams's Adaptation and Natural Selection (1966). Dawkins uses the term "selfish gene" as a way of expressing the gene-centred view of evolution as opposed to the views focused on the organism and the group, popularising ideas developed during the 1960s by W. D. Hamilton and others. From the gene-centred view, it follows that the more two individuals are genetically related, the more sense (at the level of the genes) it makes for them to behave selflessly with each other.
@@ -59,3 +65,9 @@ published: true
 Anekdotes, but the main idea is 'how to think about things'.
 
 > It's nice that I got some money ­­ I was able to buy a beach house ­­ but altogether, I think it would have been much nicer not to have had the Prize ­­ because you never, any longer, can be taken straightforwardly in any public situation.
+
+## Chasing New Horizons: Inside the Epic First Mission to Pluto
+
+> In January of 2006, a tiny one-thousand-pound spacecraft, mounted on top of a powerful 224-foot-tall rocket, blasted off from Cape Canaveral, Florida. Thus began the longest and farthest journey of exploration our species has ever attempted—a journey to explore Pluto, the last of the unvisited planets known at the dawn of the Space Age. That spaceship, aptly named New Horizons, carried the hopes and dreams of a team of scientists and engineers who had poured much of their lives into what had—at many times—seemed an improbable quest.
+
+> There were many reasons that some expected Pluto to be a relatively dead world, geologically speaking. After all, it is such a small planet, and it lacks the tidal heat sources that being in a giant planet’s satellite system would provide. Also, it is far from the Sun and solar heating is weak. So, by the conventional wisdom born of exploring the rest of the solar system, Pluto should have been largely or even completely geologically inactive for eons. But the conventional wisdom was seriously wrong. New Horizons found a wide range of surface ages, ranging from ancient and heavily cratered to completely fresh-looking areas with no craters at all— meaning that Pluto has been geologically active throughout its 4- billion-year history. In fact, Pluto has been alive and kicking throughout history, and is even today. Why that is so is the subject of intense scientific debate and modeling, and it portends that we can expect more surprises when other small planets in the Kuiper Belt are explored.
