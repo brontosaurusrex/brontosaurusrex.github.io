@@ -4,6 +4,7 @@ layout: post
 date: '2018-07-04 17:28 +0200'
 title: Design axioms
 ---
+[https://www.youtube.com/watch?v=mxzK4sWfvH8&t=5s](https://www.youtube.com/watch?v=mxzK4sWfvH8&t=5s)
 [https://www.designprinciplesftw.com/collections/design-axioms](https://www.designprinciplesftw.com/collections/design-axioms)  
 [http://www.mit.edu/~juhan/design_axioms.html](http://www.mit.edu/~juhan/design_axioms.html) < similar  
 [http://www.uxaxioms.com/](http://www.uxaxioms.com/)  
