@@ -15,6 +15,6 @@ In Grace, I go.
 Praise be.  
 Under His eye.  
 We have been sent great weather.  
-May God find me worthy.  
+Praise be to you, and may God find me worthy.  
 
 ![handmaidsGhost4_cropped-fs8.png]({{site.baseurl}}/media/handmaidsGhost4_cropped-fs8.png)
