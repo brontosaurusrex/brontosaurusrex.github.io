@@ -116,15 +116,12 @@ Install dependencies
 
 ## Install firefox addons
 
-    # ./firefoxAddons # or
-    cd ~/tmp || exit
-    # wget and install uBlock and Scrollbar anywhere
-    wget https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/addon-607454-latest.xpi
-    wget https://addons.mozilla.org/firefox/downloads/latest/scrollbaranywhere/addon-292702-latest.xpi
-    firefox-esr *.xpi
-    # yes, yes, restart
+    # Run the script
+    ./firefoxAddons
 
-If uBlock is to new, workaround might be to install [older version](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/versions/beta).
+Click the blue install buttons (as needed) and restart the browser.
+
+To enable smooth scrolling and scrolling with middle-mice-hold button go to [about:preferences#advanced](about:preferences#advanced) and enable stuff under Browsing (autoscrolling, smooth scrolling, hardware accelearation, speling) as needed.
 
 ## hosts file
 [http://someonewhocares.org/hosts/zero/](http://someonewhocares.org/hosts/zero/)
@@ -256,7 +253,7 @@ Making [gsimplecal](https://brontosaurusrex.github.io/2017/08/09/gsimplecal-loca
 
 [![cosIcan.md.png](https://cdn.scrot.moe/images/2018/02/10/tilixThumb.png)](https://cdn.scrot.moe/images/2018/02/10/thisIsASingleTilixWindow2.png)
 
-## gimp 2.10.x 
+## gimp 2.10.x
 
 ### flatpak
 
