@@ -121,7 +121,7 @@ Install dependencies
 
 Click the blue install buttons (as needed) and restart the browser.
 
-To enable smooth scrolling and scrolling with middle-mice-hold button go to *about:preferences#advanced* and enable stuff under Browsing (autoscrolling, smooth scrolling, hardware accelearation, speling) as needed.
+To enable smooth scrolling and scrolling with middle-mice-hold button go to *about:preferences#advanced* and enable stuff under Browsing (autoscrolling, smooth scrolling, hardware accelearation, spelling) as needed.
 
 ## hosts file
 [http://someonewhocares.org/hosts/zero/](http://someonewhocares.org/hosts/zero/)
