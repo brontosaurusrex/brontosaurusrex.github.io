@@ -12,10 +12,9 @@ Blessed be the fruit.
 May the Lord open.  
 Go in grace.  
 In Grace, I go.  
-Praised be.  
+Praise be.  
 Under His eye.  
 We have been sent great weather.  
 May God find me worthy.  
 
 ![handmaidsGhost4_cropped-fs8.png]({{site.baseurl}}/media/handmaidsGhost4_cropped-fs8.png)
-
