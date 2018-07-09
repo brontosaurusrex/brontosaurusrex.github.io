@@ -3,6 +3,9 @@ published: true
 layout: post
 date: '2018-07-09 19:35 +0200'
 title: Gilead greetings
+tags:
+  - misc
+  - books
 ---
 Blessed day.  
 Blessed be the fruit.  
