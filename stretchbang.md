@@ -148,7 +148,7 @@ Static menu with a dynamic twist (powered by *pipeMisc* and *pipeSysInfo*).
 
 ![menu]({{site.baseurl}}/media/stretchMenu.png)
 
-update: pipeMisc (pipe) now incorporates ~/bin/pipePlaces (places), rename or remove pipePlaces to disable showing it.
+update: pipeMisc is now a generator that outputs ~/bin/misc.xml file,  which is constructed from ~/bin/misc template and in openbox menu read via your average cat (still as pipemenu). Reason: speed.
 
 # Basic hotkeys
 
