@@ -9,6 +9,7 @@ tags:
 ---
 Blessed day.  
 Blessed be the fruit.  
+Glory be.  
 May the Lord open.  
 Go in grace.  
 In Grace, I go.  
