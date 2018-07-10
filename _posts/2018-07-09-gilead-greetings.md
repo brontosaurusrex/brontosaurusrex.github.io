@@ -20,3 +20,8 @@ Praise be to you, and may God find me worthy.
 By His hand. (judgement day)  
 
 ![handmaidsGhost4_cropped-fs8.png]({{site.baseurl}}/media/handmaidsGhost4_cropped-fs8.png)
+
+## Other quotes
+
+Aunt Lydia  
+*Remeber the scripture, blessed are the meek.*
