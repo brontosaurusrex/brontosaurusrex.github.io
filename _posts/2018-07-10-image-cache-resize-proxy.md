@@ -8,7 +8,9 @@ tags:
 ---
 [https://images.weserv.nl/](https://images.weserv.nl/)
 
-Example
+Example (imagine cnd.scrot.moe would be your kitchen server):
+
+	https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/05/24/saturns1.png&w=760
 
 ![](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/05/24/saturns1.png&w=760)
 
