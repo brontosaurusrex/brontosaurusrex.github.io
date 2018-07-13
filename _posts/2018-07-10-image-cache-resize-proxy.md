@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2018-07-10 11:12 +0200'
-title: image cache & resize proxy
+title: Image cache & resize proxy
 tags:
   - web
 ---
@@ -13,5 +13,3 @@ Example (imagine cnd.scrot.moe would be your kitchen server):
 	https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/05/24/saturns1.png&w=760
 
 ![](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/05/24/saturns1.png&w=760)
-
-
