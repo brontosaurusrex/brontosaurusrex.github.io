@@ -21,4 +21,8 @@ guile
 Complete failure at first example already;  
 > Exercise 1.3.  Define a procedure that takes three numbers as arguments and returns the sum of the squares of the two larger numbers. 
 
-f*** this.
+edit: How is this
+
+	echo "30000 1 2000" | grep -oE "[0-9]*" | sort -nr | head -n 2
+
+And do the squares yourself.
