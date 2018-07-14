@@ -13,3 +13,5 @@ tags:
 In repos:  
 racket (seems to have a decent interactive shell)   
 mit-scheme  
+guile  
+
