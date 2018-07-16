@@ -24,7 +24,7 @@ published: true
 
 ## ReWork: Change the Way You Work Forever
 
-> Rework is the perfect playbook for anyone who's ever dreamed of doing it on their own. Hardcore entrepreneurs, small-business owners, people stuck in day jobs who want to get out, and artists who don't want to starve anymore will all find valuable inspiration and guidance in these pages. 
+> Rework is the perfect playbook for anyone who's ever dreamed of doing it on their own. Hardcore entrepreneurs, small-business owners, people stuck in day jobs who want to get out, and artists who don't want to starve anymore will all find valuable inspiration and guidance in these pages.
 
 ## CSS MASTER
 
@@ -71,3 +71,9 @@ Anekdotes, but the main idea is 'how to think about things'.
 > In January of 2006, a tiny one-thousand-pound spacecraft, mounted on top of a powerful 224-foot-tall rocket, blasted off from Cape Canaveral, Florida. Thus began the longest and farthest journey of exploration our species has ever attempted—a journey to explore Pluto, the last of the unvisited planets known at the dawn of the Space Age. That spaceship, aptly named New Horizons, carried the hopes and dreams of a team of scientists and engineers who had poured much of their lives into what had—at many times—seemed an improbable quest.
 
 > There were many reasons that some expected Pluto to be a relatively dead world, geologically speaking. After all, it is such a small planet, and it lacks the tidal heat sources that being in a giant planet’s satellite system would provide. Also, it is far from the Sun and solar heating is weak. So, by the conventional wisdom born of exploring the rest of the solar system, Pluto should have been largely or even completely geologically inactive for eons. But the conventional wisdom was seriously wrong. New Horizons found a wide range of surface ages, ranging from ancient and heavily cratered to completely fresh-looking areas with no craters at all— meaning that Pluto has been geologically active throughout its 4- billion-year history. In fact, Pluto has been alive and kicking throughout history, and is even today. Why that is so is the subject of intense scientific debate and modeling, and it portends that we can expect more surprises when other small planets in the Kuiper Belt are explored.
+
+## Space Odyssey - Stanley Kubrick, Arthur C. Clarke, and the Making of a Masterpiece
+
+> HAL’s red eye was actually a Nikon 8-millimeter wide-angle lens lit from behind.
+
+> On hearing that they still hadn’t figured out how HAL could overhear them, Lyndon looked at Dullea and Lockwood as though it was the most obvious thing in the world. “He could just read your lips,” he said. There was a moment of thunderstruck silence. “God, that’s a great idea!” Kubrick exclaimed. They had their answer.
