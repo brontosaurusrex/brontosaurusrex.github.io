@@ -14,27 +14,27 @@ tags: bash cli
 ## no file for you
 
     [[ -f /var/log/apt/history.log ]] || exit
-    
+
 Will exit if file is not there, same thing should be used if you use cd in your scripts
 
     cd /some/path || exit
-    
+
 This will ensure that script doesn't continue if dir doesn't exist. Another way might be:
 
     config="$HOME/bin/singularity.cfg"
     test -f "$config" && source "$config" >/dev/null || { echo "$config does not exist" ; exit 1; }
-    
+
 Do something if directory is there
 
     [[ -d $HOME/apps/blender ]] && mv "$HOME/apps/blender" "$HOME/apps/blender_bak_$RANDOM"
-    
+
 With if
 
     file="$HOME/.pcalc.txt"
     if [ -f "$file" ]; then
         tail -n 100 "$file" > "$file.tmp" && mv "$file.tmp" "$file"
     fi
-    
+
 Note that -e would be any file/dir/socket/node, -d is dir and so on
 
     -b filename - Block special file
@@ -53,13 +53,13 @@ Note that -e would be any file/dir/socket/node, -d is dir and so on
     -u filename - Check if file set-user-id bit is set
     -w filename - Check if file is writable
     -x filename - Check if file is executable
-    
+
 ## mkdir
 
 Only if one is not already there, should also be recursive
 
     mkdir -p ~/tmp/stuff
-    
+
 ## exit if var is empty
 
     [[ -z "$url" ]] && (echo "no url for you" && exit 1)
@@ -67,14 +67,14 @@ Only if one is not already there, should also be recursive
 ## benchmark script
 
     time for i in $(seq 1000); do script; done
-    
+
 They say this is bad due to IO (disk) reads.
-    
+
 ## remove numerals and fill some variables
 
     stuff="1680x1050+2880+23"
     read -r h w x y <<< $(echo ${stuff//[!0-9]/ })
-    
+
 2nd part is called *special parameter expansion replacing non-numeric characters with space*.
 
 ## random word
@@ -85,7 +85,7 @@ They say this is bad due to IO (disk) reads.
         shuf -n1 "$dict" | tr -dc '[:alnum:]\n\r' | tr '[:upper:]' '[:lower:]'
     }
     word=$(randomword)
-    
+
 ## checks critical and non-critical
 
     command -v mediainfo >/dev/null 2>&1 || { >&2 echo "I need mediainfo installed." ; exit 1; }
@@ -100,23 +100,23 @@ They say this is bad due to IO (disk) reads.
     ext="${file##*.}"              # ext
     dir=$(dirname "${file}")       # or
     dir=${i%/*}                    # directory
-    
+
 [http://mywiki.wooledge.org/BashFAQ/073](http://mywiki.wooledge.org/BashFAQ/073)
-    
+
 ## dump stuff from web pages
 
     read -r _ temp _<<< $(lynx -dump http://some/link.htm | grep Cityname) && echo "$temp°C"
-    
+
 Lynx may be a fat solution, but it's an easy one.
 
 Another interesting option is combo of wget and xml2/html2
 
     wget http://some/link.htm -O - -o /dev/null | html2 | #more filtering
-    
+
 ## grep AND
 
     lynx -listonly -nonumbers -dump https://builder.blender.org/download/ | grep "$bits" | grep linux | grep https | grep tar | head -1
-    
+
 Such grep sequence will behave as logical AND, there are other shorter ways.
 
 ## Check for certain extensions yourself
@@ -153,7 +153,7 @@ The idea is you can do all your floating math using bc, but this will give you f
     }
 
     calca 1/3
-    
+
 > that characters special to the shell must be escaped or quoted on the
 command line. This applies particularly to the multiplication symbol, *.
 
@@ -176,7 +176,7 @@ or prettier,
     calc2 () {
          bc <<< "scale=5; $*"
     }
-    
+
 but slower than echo/pipe version above. That triple < is called here-string.
 
 ## add path and modify env
@@ -185,27 +185,27 @@ This may be usefull to add to scripts that are run from cron
 
     PATH="/home/ticho/bin/":$PATH
     export LC_ALL=en_US.UTF-8
-    
+
 or one could run firefox with a different theme
 
     GTK_THEME=Adapta launchee firefox
-    
+
 see what's out there
 
     env
     echo $PATH
-    
+
 ## tmpdir
 
     # tmp dir http://mywiki.wooledge.org/BashFAQ/062
     tmpdir="/tmp/$RANDOM-$$"
     trap '[ -n "$tmpdir" ] && rm -fr "$tmpdir"' EXIT
     mkdir -m 700 "$tmpdir" || { echo '!! unable to create a tmpdir' >&2; tmpdir=; exit 1; }
-    
+
 ## I did something audio
 
     flite -voice rms "I did something" >/dev/null 2>&1
-    
+
 ## isNumber function
 
     # function
@@ -213,24 +213,24 @@ see what's out there
     isNumber() {
     var="$1"
     # ˇ will fail for numbers like 4.044676226059745e-17 (so called scientific notation)
-    if [[ $var = @(*[0-9]*|!([+-]|)) && $var = ?([+-])*([0-9])?(.*([0-9])) ]]; then 
+    if [[ $var = @(*[0-9]*|!([+-]|)) && $var = ?([+-])*([0-9])?(.*([0-9])) ]]; then
       #echo "fine"
       ans="$var"
       true  # return 0
-    else 
+    else
       #echo "bad"
       ans="0"
       false # return 1
     fi
     }
-    
+
 examples
-    
+
     ans="33.3"
     if isNumber "$ans"; then # do something
     ans="a"
     isNumber "$ans"          # $ans will be 0 if not a number
-    
+
 ## timer (benchmark)
 
 This is useful for timing parts of the script
@@ -239,7 +239,7 @@ This is useful for timing parts of the script
     START=$(date +%s.%N)
 
     # your script here
-      
+
     # benchmark end
     END=$(date +%s.%N)
     DIFF=$(echo "$END - $START" | bc)
@@ -248,7 +248,7 @@ This is useful for timing parts of the script
 for whole thing one could run script as
 
     time script
-    
+
 ## Try Until it works
 
     play() {
@@ -259,11 +259,12 @@ for whole thing one could run script as
     do
       sleep 60
     done
-    
+
 Also works nicely interactively
 
     until latoya ; do sleep 30 ; done
-    
-## flames?
 
-[https://github.com/brontosaurusrex/brontosaurusrex.github.io/issues](https://github.com/brontosaurusrex/brontosaurusrex.github.io/issues)
+## bool
+
+    value="1"
+    ((value)) && echo "is true"
