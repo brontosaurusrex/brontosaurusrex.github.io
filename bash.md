@@ -272,7 +272,9 @@ Also works nicely interactively
     ((value)) && echo "is true"
 
 ## Command in variable is a NO
-(http://mywiki.wooledge.org/BashFAQ/050)[http://mywiki.wooledge.org/BashFAQ/050]
+[http://mywiki.wooledge.org/BashFAQ/050](http://mywiki.wooledge.org/BashFAQ/050)
+
+> A simple variable string wouldn't work because no other "expansions" happen after word splitting, and that includes recognition of keywords and control operators. Keywords and control operators expanded after word splitting are considered to be just ordinary arguments, and not part of the syntax
 
 ## Quasi multidimensional array
 
