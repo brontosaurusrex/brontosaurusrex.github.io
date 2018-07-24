@@ -11,7 +11,7 @@ tags: bash cli
 * TOC
 {:toc}
 
-## no file for you
+## No file for you
 
     [[ -f /var/log/apt/history.log ]] || exit
 
@@ -60,38 +60,40 @@ Only if one is not already there, should also be recursive
 
     mkdir -p ~/tmp/stuff
 
-## exit if var is empty
+## Exit if var is empty
 
     [[ -z "$url" ]] && (echo "no url for you" && exit 1)
 
-## benchmark script
+## Benchmark script
 
     time for i in $(seq 1000); do script; done
 
 They say this is bad due to IO (disk) reads.
 
-## remove numerals and fill some variables
+## Remove numerals and fill some variables
 
     stuff="1680x1050+2880+23"
     read -r h w x y <<< $(echo ${stuff//[!0-9]/ })
 
 2nd part is called *special parameter expansion replacing non-numeric characters with space*.
 
-## random word
+## Random word
 
-    # random word dictionary function
     randomword()  {
         dict="/usr/share/dict/words"
-        shuf -n1 "$dict" | tr -dc '[:alnum:]\n\r' | tr '[:upper:]' '[:lower:]'
+        word=$(shuf -n1 "$dict" | tr -dc '[:alnum:]\n\r' | tr '[:upper:]' '[:lower:]')
+        # if dict gets us null length then replace with something else
+        [ -z "$word" ] && word="$RANDOM"
+        echo "$word"
     }
     word=$(randomword)
 
-## checks critical and non-critical
+## Checks critical and non-critical
 
     command -v mediainfo >/dev/null 2>&1 || { >&2 echo "I need mediainfo installed." ; exit 1; }
     command -v mediainfo >/dev/null 2>&1 || { >&2 echo "I'd like mediainfo installed." ; }
 
-## dirs and files and paths breakdown
+## Dirs and files and paths breakdown
 
     file=$(readlink -f "$1")       # quasi absolute
     baseext=$(basename "${1}")     # or
@@ -103,7 +105,7 @@ They say this is bad due to IO (disk) reads.
 
 [http://mywiki.wooledge.org/BashFAQ/073](http://mywiki.wooledge.org/BashFAQ/073)
 
-## dump stuff from web pages
+## Dump stuff from web pages
 
     read -r _ temp _<<< $(lynx -dump http://some/link.htm | grep Cityname) && echo "$temp°C"
 
@@ -127,7 +129,7 @@ Such grep sequence will behave as logical AND, there are other shorter ways.
     (( $# )) || set -- *.@(mp3|mp4|m4a|flac|ogg|mpc|wav|aif|opus); [[ -e $1 ]] || \
     { echo "No audio files find in this dir (mp3|mp4|m4a|flac|ogg|mpc|wav|aif|opus)"; stty sane; exit 1; }
 
-## rounding math
+## Rounding math
 
     # awk_round
 
@@ -179,7 +181,7 @@ or prettier,
 
 but slower than echo/pipe version above. That triple < is called here-string.
 
-## add path and modify env
+## Add path and modify env
 
 This may be usefull to add to scripts that are run from cron
 
@@ -231,7 +233,7 @@ examples
     ans="a"
     isNumber "$ans"          # $ans will be 0 if not a number
 
-## timer (benchmark)
+## Timer (benchmark)
 
 This is useful for timing parts of the script
 
@@ -249,7 +251,7 @@ for whole thing one could run script as
 
     time script
 
-## Try Until it works
+## Try until it works
 
     play() {
         /usr/bin/mpv https://stream/chunklist.m3u8 --no-resume-playback
@@ -264,7 +266,31 @@ Also works nicely interactively
 
     until latoya ; do sleep 30 ; done
 
-## bool
+## Bool 'if'
 
     value="1"
     ((value)) && echo "is true"
+
+## Command in variable is a NO
+(http://mywiki.wooledge.org/BashFAQ/050)[http://mywiki.wooledge.org/BashFAQ/050]
+
+## Quasi multidimensional array
+
+    #!/bin/bash
+
+    # 1D array with 'one,two,three' fields
+    data=(
+    one,two,three
+    four,five,six
+    seven,eight,nine
+    )
+
+    # actualy each line is a single field of array,
+    # but we can break the lines with a fancy loop:
+
+    while read -r line; do
+        IFS=, read -r app config method <<< "$line"
+
+        echo "$app $config $method"
+
+    done < <(printf '%s\n' "${data[@]}")
