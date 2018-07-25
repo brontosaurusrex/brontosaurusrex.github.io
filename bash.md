@@ -7,7 +7,7 @@ tags: bash cli
 
 ## Bash guide
 
-(https://mywiki.wooledge.org/BashGuide)[https://mywiki.wooledge.org/BashGuide]
+[https://mywiki.wooledge.org/BashGuide](https://mywiki.wooledge.org/BashGuide)
 
 They also have a pdf version.
 
