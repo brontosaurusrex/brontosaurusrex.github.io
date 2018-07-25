@@ -13,11 +13,11 @@ They also have a pdf version.
 
 ## No file for you
 
-    [[ -f /var/log/apt/history.log ]] || exit
+    [[ -f /var/log/apt/history.log ]] || exit 1
 
 Will exit if file is not there, same thing should be used if you use cd in your scripts
 
-    cd /some/path || exit
+    cd /some/path || exit 1
 
 This will ensure that script doesn't continue if dir doesn't exist. Another way might be:
 
