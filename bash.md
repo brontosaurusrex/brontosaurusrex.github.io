@@ -291,13 +291,52 @@ Also works nicely interactively
 
     done < <(printf '%s\n' "${data[@]}")
 
-## [[ brackets
+## [[ brackets ]] = Test
 
 (http://mywiki.wooledge.org/BashFAQ/031)[http://mywiki.wooledge.org/BashFAQ/031]
 
 Are used for testing stuff, for example string comparision and it's smarter brother of single [.
 
     [[ a > b ]] || echo "a does not come after b"
+    
+## ( brackets ) = Subshell
+
+> Subshell is similar to child, but more info is inherited.
+
+(cd /tmp || exit 1; date > timestamp)
+pwd
+
+Cd to /tmp folder is internal to only that subshell. Also if cd would fail, it would only terminate that specific subshell and not the main process.
+
+## { brackets; } = Command group
+
+Generally speaking last command must be terminated with ;, unless } is at the start of line
+
+    {   echo "app, config, restart method"
+        echo "---, ------, --------------"
+        while read -r line; do
+            IFS=, read -r app config method <<< "$line"
+
+            
+            echo "$app, $config, $method" 
+            
+          
+        done < <(printf '%s\n' "${configs[@]}")
+    } | column -s, -t
+    
+When at the end, use ;
+
+    [[ -f $file ]] || { echo "$file not found"; exit 1; }
+    
+## <() and ()> brackets = Process Substitution
+
+> A cousin of the pipe is the process substitution operator, which comes in two forms: <() and >(). It’s a convenient way to use named pipes without having to create temporary files. Whenever you think you need a temporary file to do something,
+process substitution might be a better way to handle things.
+> What it does, is basically run the command inside the parentheses. With the <() operator, the command’s output is put in a something similar to named pipe.
+
+    diff -y <(head -n 1 .dictionary) <(tail -n 1 .dictionary)
+    
+Basically diff will see two files.
 
 ## Redirects
 
@@ -305,19 +344,19 @@ Are used for testing stuff, for example string comparision and it's smarter brot
 
 should write both stdout and stderr to file.log.
 
-Cron example where stdout and stderr are separated into two files
+### Cron example where stdout and stderr are separated into two files
 
     0 0 * * * bin/dropbox start >/tmp/dbstdout.log 2>/tmp/dbstderr.log
     
-Stdout to null
+### Stdout to null
 
     ls >/dev/null  # same with space: ls > /dev/null
     
-Stderr to null
+### Stderr to null
 
     ls 2>/dev/null # same with space: ls 2> /dev/null
     
-Stdout and stderr to null
+### Stdout and stderr to null
 
     ls >/dev/null 2>&1
     # same with space: ls > /dev/null 2>&1
