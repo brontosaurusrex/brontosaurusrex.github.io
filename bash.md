@@ -5,12 +5,6 @@ published: true
 tags: bash cli
 ---
 
-## TOC
-{:.no_toc}
-
-* TOC
-{:toc}
-
 ## No file for you
 
     [[ -f /var/log/apt/history.log ]] || exit
@@ -71,7 +65,7 @@ Only if one is not already there, should also be recursive
 They say this is bad due to IO (disk) reads.
 
 ## Remove numerals and fill some variables
-
+echo "Uh oh. Something went really bad.." >&2
     stuff="1680x1050+2880+23"
     read -r h w x y <<< $(echo ${stuff//[!0-9]/ })
 
@@ -296,3 +290,41 @@ Also works nicely interactively
         echo "$app $config $method"
 
     done < <(printf '%s\n' "${data[@]}")
+
+## [[ brackets
+
+(http://mywiki.wooledge.org/BashFAQ/031)[http://mywiki.wooledge.org/BashFAQ/031]
+
+Are used for testing stuff, for example string comparision and it's smarter brother of single [.
+
+    [[ a > b ]] || echo "a does not come after b"
+
+## Redirects
+
+    ls > file.log 2>&1
+
+should write both stdout and stderr to file.log.
+
+Cron example where stdout and stderr are separated into two files
+
+    0 0 * * * bin/dropbox start >/tmp/dbstdout.log 2>/tmp/dbstderr.log
+    
+Stdout to null
+
+    ls >/dev/null  # same with space: ls > /dev/null
+    
+Stderr to null
+
+    ls 2>/dev/null # same with space: ls 2> /dev/null
+    
+Stdout and stderr to null
+
+    ls >/dev/null 2>&1
+    # same with space: ls > /dev/null 2>&1
+    
+
+## TOC
+{:.no_toc}
+
+* TOC
+{:toc}
