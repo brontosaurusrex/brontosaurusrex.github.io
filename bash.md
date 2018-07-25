@@ -382,13 +382,15 @@ Imagine a script named 'woot'
 
 If I ./woot, nothing will change (pwd will stay the same), however if I
 
-. ./woot      # dotting
-# or
-source ./woot
-# if woot is somewhere on $PATH, this will also work
-. woot
-
+    . ./woot      # dotting
+    #or
+    source ./woot
+    
 pwd will change.
+
+if woot is somewhere on $PATH, this will also work
+
+    . woot
 
 ## TOC
 {:.no_toc}
