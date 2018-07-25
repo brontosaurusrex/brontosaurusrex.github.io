@@ -308,7 +308,7 @@ pwd
 
 Cd to /tmp folder is internal to only that subshell. Also if cd would fail, it would only terminate that specific subshell and not the main process.
 
-## { brackets; } = Command group
+## { brackets; } = Command grouping
 
 Generally speaking last command must be terminated with ;, unless } is at the start of line
 
@@ -337,6 +337,12 @@ process substitution might be a better way to handle things.
     diff -y <(head -n 1 .dictionary) <(tail -n 1 .dictionary)
     
 Basically diff will see two files.
+    
+## (( brackets )) = Arithmetic evaluation
+
+    (( 2 == 2 )) && echo true
+    echo $(( 2 + 2 ))
+    echo "There are $(($rows * $columns)) cells"
 
 ## Redirects
 
@@ -361,6 +367,22 @@ should write both stdout and stderr to file.log.
     ls >/dev/null 2>&1
     # same with space: ls > /dev/null 2>&1
     
+## Sourcing
+
+Imagine a script named 'woot'
+
+    #!/bin/bash
+    cd /tmp
+
+If I ./woot, nothing will change (pwd will stay the same), however if I
+
+. ./woot      # dotting
+# or
+source ./woot
+# if woot is somewhere on $PATH, this will also work
+. woot
+
+pwd will change.
 
 ## TOC
 {:.no_toc}
