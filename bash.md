@@ -349,6 +349,10 @@ Basically diff will see two files.
     (( 2 == 2 )) && echo true
     echo $(( 2 + 2 ))
     echo "There are $(($rows * $columns)) cells"
+    
+Roll dice alias
+
+    alias dice='echo $(( RANDOM % 6 + 1 ))'
 
 ## Redirects
 
