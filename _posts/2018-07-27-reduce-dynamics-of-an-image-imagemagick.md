@@ -13,9 +13,8 @@ tags:
     
 Seems to work with alpha channel as well.
 
-Before  
-![barsBefore.png]({{site.baseurl}}/media/barsBefore.png)  
-After  
+Before && After  
+![barsBefore.png]({{site.baseurl}}/media/barsBefore.png)
 ![barsAfter.png]({{site.baseurl}}/media/barsAfter.png)
 
 
