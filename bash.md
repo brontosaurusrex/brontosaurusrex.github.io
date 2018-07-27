@@ -340,7 +340,7 @@ When at the end, use ;
 process substitution might be a better way to handle things.
 > What it does, is basically run the command inside the parentheses. With the <() operator, the command’s output is put in a something similar to named pipe.
 
-    diff -y <(head -n 1 .dictionary) <(tail -n 1 .dictionary)
+    # diff -y <(head -n 1 .dictionary) <(tail -n 1 .dictionary)
     
 Basically diff will see two files.
     
