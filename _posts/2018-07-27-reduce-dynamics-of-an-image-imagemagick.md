@@ -16,3 +16,5 @@ Seems to work with alpha channel as well.
 Before && After  
 ![barsBefore.png]({{site.baseurl}}/media/barsBefore.png)
 ![barsAfter.png]({{site.baseurl}}/media/barsAfter.png)
+
+p.s. Unexpectedly this seems to be somehow relative to the input (bad).
