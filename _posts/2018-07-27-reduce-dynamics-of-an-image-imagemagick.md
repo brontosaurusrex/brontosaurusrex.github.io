@@ -9,13 +9,10 @@ tags:
 ---
 [https://www.imagemagick.org/script/command-line-options.php#level-colors](https://www.imagemagick.org/script/command-line-options.php#level-colors)
 
-    convert mars.png +level-colors "rgb(20,20,20)","rgb(200,200,200)" mars2.png
+    convert in.png +level-colors "rgb(20,20,20)","rgb(200,200,200)" out.png
     
 Seems to work with alpha channel as well.
 
 Before && After  
 ![barsBefore.png]({{site.baseurl}}/media/barsBefore.png)
 ![barsAfter.png]({{site.baseurl}}/media/barsAfter.png)
-
-
-
