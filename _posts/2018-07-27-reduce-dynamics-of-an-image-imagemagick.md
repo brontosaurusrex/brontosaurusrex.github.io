@@ -1,0 +1,19 @@
+---
+published: true
+layout: post
+date: '2018-07-27 19:43 +0200'
+title: Reduce dynamics of an image (imagemagick)
+---
+[https://www.imagemagick.org/script/command-line-options.php#level-colors](https://www.imagemagick.org/script/command-line-options.php#level-colors)
+
+    convert mars.png +level-colors "rgb(20,20,20)","rgb(200,200,200)" mars2.png
+    
+Seems to work with alpha channel as well.
+
+Before  
+![barsBefore.png]({{site.baseurl}}/media/barsBefore.png)  
+After  
+![barsAfter.png]({{site.baseurl}}/media/barsAfter.png)
+
+
+
