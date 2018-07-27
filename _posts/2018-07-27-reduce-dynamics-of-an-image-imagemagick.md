@@ -3,6 +3,9 @@ published: true
 layout: post
 date: '2018-07-27 19:43 +0200'
 title: Reduce dynamics of an image (imagemagick)
+tags:
+  - cli
+  - misc
 ---
 [https://www.imagemagick.org/script/command-line-options.php#level-colors](https://www.imagemagick.org/script/command-line-options.php#level-colors)
 
