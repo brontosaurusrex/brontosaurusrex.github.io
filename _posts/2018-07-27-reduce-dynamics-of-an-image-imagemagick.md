@@ -17,4 +17,4 @@ Before && After
 ![barsBefore.png]({{site.baseurl}}/media/barsBefore.png)
 ![barsAfter.png]({{site.baseurl}}/media/barsAfter.png)
 
-p.s. Unexpectedly this seems to be somehow relative to the input (bad).
+p.s. Unexpectedly this is not related to the actual input (bad), so this will stack and make image lesses and lesser.
