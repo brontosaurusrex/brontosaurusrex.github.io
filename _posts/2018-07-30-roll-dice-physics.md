@@ -9,4 +9,5 @@ tags:
 ---
 [https://youtu.be/ejgEffcz8N8](https://youtu.be/ejgEffcz8N8)
 
-blend.
+Blend  
+[dice3.blend.zip]({{site.baseurl}}/blends/dice3.blend.zip)
