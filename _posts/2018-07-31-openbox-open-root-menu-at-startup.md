@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2018-07-31 11:20 +0200'
-title: 'Openbox, open root menu at startup'
+title: 'Openbox, open root-menu at startup'
 tags:
   - linux
   - mine
