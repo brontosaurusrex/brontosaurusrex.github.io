@@ -6,3 +6,5 @@ title: Nerd fonts
 ---
 [https://github.com/ryanoasis/nerd-fonts/releases](https://github.com/ryanoasis/nerd-fonts/releases)  
 [https://github.com/ryanoasis/nerd-fonts/issues/287](https://github.com/ryanoasis/nerd-fonts/issues/287)
+
+Problems with *installing* for urxvt.
