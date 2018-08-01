@@ -16,6 +16,7 @@ They also have a pdf version.
     [[ -f /var/log/apt/history.log ]] || exit 1
 
 Will exit if file is not there, same thing should be used if you use cd in your scripts
+Note: Actually just using 'exit' should be enough, as it returns the status value of previous command (exit equals to exit $?).
 
     cd /some/path || exit 1
 
