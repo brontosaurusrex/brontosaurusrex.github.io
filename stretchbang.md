@@ -177,7 +177,7 @@ update: pipeMisc is now a generator that outputs ~/bin/misc.xml file,  which is 
     SUPER +
     f11     fullscreen
     f12     toggle compton # ~/bin/toggleCompton
-    w       toggle show desktop
+    s       toggle show desktop
 
     SUPER + ALT +
     c       center window x and y
