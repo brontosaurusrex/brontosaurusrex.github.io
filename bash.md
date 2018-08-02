@@ -396,6 +396,18 @@ pwd will change.
 if woot is somewhere on $PATH, this will also work
 
     . woot
+    
+## Find and xz pack
+
+All in this dir, including hidden files
+
+    find . -type f -exec xz {} +   # pack file by file
+    find . -type f -exec unxz {} + # unpack file by file
+    
+xz entire dir as single file (staring from one dir above)
+
+     tar -cf- dir | xz > roboto.tar.xz
+
 
 ## TOC
 {:.no_toc}
