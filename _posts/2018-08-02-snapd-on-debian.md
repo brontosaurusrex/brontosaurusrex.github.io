@@ -9,4 +9,5 @@ title: Snapd on Debian
 	sudo apt install snapd
     snap find gimp
     sudo snap install gimp
+    snap run gimp
     
