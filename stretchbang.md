@@ -79,6 +79,8 @@ edit: Another nice icon set is [luv](https://github.com/Nitrux/luv-icon-theme). 
 
 or some other Papirus variant.
 
+To make a quick dark version [see here](https://brontosaurusrex.github.io/2018/01/11/luv-icon-theme/).
+
 # wbar
 
     sudo apt install --no-install-recommends wbar wbar-config
