@@ -35,7 +35,7 @@ Boot into cli, install/configure git, sed, vim
 
 sources.list with some https power
 
-    sudo cp -b ect/apt/sources.list /etc/apt
+    sudo cp -b etc/apt/sources.list /etc/apt
     sudo apt update && sudo apt dist-upgrade
 
 Network-manager
