@@ -180,7 +180,7 @@ update: pipeMisc is now a generator that outputs ~/bin/misc.xml file,  which is 
     s       toggle show desktop
 
     SUPER + ALT +
-    c       center window x and y
+    c       center window y
 
     SHIFT + ALT +
     left    send to desktop leqft
