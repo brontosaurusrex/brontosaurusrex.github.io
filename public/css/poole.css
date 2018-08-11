@@ -252,6 +252,7 @@ th {
   border: 0px solid #292C2E;
   text-align: left;
   font-size: 16px;
+  font-weight: normal;
 }
 
 /* tbody tr:nth-child(odd) td,
