@@ -9,6 +9,6 @@ tags:
 ---
 Select part of a screen with mice and load that screenshot into clipboard
 
-    maim -s /tmp/woot.png && xclip -verbose -selection clipboard -t image/png /tmp/woot.png && rm /tmp/woot.png
+    maim -s /tmp/woot.png && xclip -selection clipboard -t image/png /tmp/woot.png && rm /tmp/woot.png
 
 [https://forums.bunsenlabs.org/viewtopic.php?pid=75345#p75345](https://forums.bunsenlabs.org/viewtopic.php?pid=75345#p75345)
