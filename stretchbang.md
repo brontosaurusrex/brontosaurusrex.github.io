@@ -188,7 +188,7 @@ update: pipeMisc is now a generator that outputs ~/bin/misc.xml file,  which is 
     left    send to desktop leqft
     right   send to desktop right
 
-    Run *shortcuts* in terminal for more.
+    Run *hotkeys* or *shortcuts* in terminal for more.
 
 # Aliases and ~/bin scripts
 
