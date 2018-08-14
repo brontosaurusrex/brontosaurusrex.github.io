@@ -27,6 +27,8 @@ https://www.imagemagick.org/Usage/masking/#alpha
 that actually works
 
     convert front.png back.png -mask alpha.png -composite out.png
+    # or
+     composite front.png back.png alpha.png out2.png
     
 and as usually I had to guess that.
 
@@ -40,4 +42,4 @@ front, back, alpha, out
 
 [http://www.graphicsmagick.org/](http://www.graphicsmagick.org/)
 
-    gm composite front.png back.png alpha.png out2.png
+    gm composite front.png back.png alpha.png out3.png
