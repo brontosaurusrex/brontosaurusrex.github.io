@@ -29,3 +29,9 @@ that actually works
     convert front.png back.png -mask alpha.png -composite out.png
     
 and as usually I have to guess that.
+
+front, back, alpha, out  
+[![front.th.png](https://cdn.scrot.moe/images/2018/08/14/front.th.png)](https://scrot.moe/image/9CqS8)
+[![back.th.png](https://cdn.scrot.moe/images/2018/08/14/back.th.png)](https://scrot.moe/image/9Cs1W)
+[![alpha.th.png](https://cdn.scrot.moe/images/2018/08/14/alpha.th.png)](https://scrot.moe/image/9CE72)
+[![out.th.png](https://cdn.scrot.moe/images/2018/08/14/out.th.png)](https://scrot.moe/image/9CDjZ) 
