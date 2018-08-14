@@ -28,7 +28,7 @@ that actually works
 
     convert front.png back.png -mask alpha.png -composite out.png
     
-and as usually I have to guess that.
+and as usually I had to guess that.
 
 front, back, alpha, out  
 [![front.th.png](https://cdn.scrot.moe/images/2018/08/14/front.th.png)](https://scrot.moe/image/9CqS8)
