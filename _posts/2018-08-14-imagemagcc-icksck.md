@@ -39,3 +39,5 @@ front, back, alpha, out
 ## Fork
 
 [http://www.graphicsmagick.org/](http://www.graphicsmagick.org/)
+
+    gm composite front.png back.png alpha.png out2.png
