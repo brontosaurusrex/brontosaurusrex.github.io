@@ -28,7 +28,7 @@ that actually works
 
     convert front.png back.png -mask alpha.png -composite out.png
     # or
-     composite front.png back.png alpha.png out2.png
+    composite front.png back.png alpha.png out2.png
     
 and as usually I had to guess that.
 
