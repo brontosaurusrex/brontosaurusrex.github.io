@@ -407,6 +407,32 @@ All in this dir, including hidden files
 xz entire dir as single file (staring from one dir above)
 
      tar -cf- dir | xz > roboto.tar.xz
+     
+## Do it maybe
+
+    rotateMaybe () {
+    if (( RANDOM %2 )) ; then
+        mogrify -rotate 180 "$final"
+        printf "r"
+    else
+        printf "n"
+    fi
+    }
+    
+## Restart something
+
+    restart() {
+    if pgrep -x "$1" > /dev/null
+    then
+        (echo "$1 running, restarting"
+        killall -w "$1"
+        "${1}" &) &
+    else
+        echo "$1 wasn't running"
+    fi
+    }
+    
+    restart wbar
 
 
 ## TOC
