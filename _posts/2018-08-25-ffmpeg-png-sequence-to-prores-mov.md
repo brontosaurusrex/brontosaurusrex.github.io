@@ -15,3 +15,7 @@ Assuming frames are named
 then this should do the trick
 
 	ffmpeg -i %04d.png -c:v prores -pix_fmt yuv422p -an -r 25 tetris9.mov
+    
+Cropping (keeping bottom part) from 1920x1200 to 1920x1080 ( 1200 - 1080 = 120 )
+    
+    ffmpeg -i %04d.png -filter:v "crop=1920:1080:0:120" -c:v prores -pix_fmt yuv422p -an -r 25 tetris9_1080p.mov -y
