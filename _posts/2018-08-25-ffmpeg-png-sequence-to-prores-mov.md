@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2018-08-25 14:03 +0200'
-title: ffmpeg png sequence to prores mov
+title: ffmpeg png sequence to mov
 ---
 Assuming frames are named
 
