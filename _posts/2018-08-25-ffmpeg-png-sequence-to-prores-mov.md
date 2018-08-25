@@ -3,6 +3,10 @@ published: true
 layout: post
 date: '2018-08-25 14:03 +0200'
 title: ffmpeg png sequence to mov
+tags:
+  - blender
+  - video
+  - cli
 ---
 Assuming frames are named
 
