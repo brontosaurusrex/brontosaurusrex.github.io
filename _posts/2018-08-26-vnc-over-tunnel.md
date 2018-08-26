@@ -8,7 +8,7 @@ tags:
 ---
 ## On remote
 
-apt install x11vnc # ...
+    apt install x11vnc # ...
 
 ## On local
 
