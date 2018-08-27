@@ -7,3 +7,6 @@ title: Scan APK Files
 [https://www.maketecheasier.com/scan-apk-files-for-virus/](https://www.maketecheasier.com/scan-apk-files-for-virus/)
 
 [https://www.virustotal.com](https://www.virustotal.com)
+
+cli?  
+[https://github.com/adrianherrera/virustotal](https://github.com/adrianherrera/virustotal)
