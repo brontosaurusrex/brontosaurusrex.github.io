@@ -12,4 +12,4 @@ cli?
 [https://github.com/adrianherrera/virustotal](https://github.com/adrianherrera/virustotal)
 
 Android emulator?  
-[http://www.linuxandubuntu.com/home/anbox-runs-android-in-your-linux-without-emulation](http://www.linuxandubuntu.com/home/anbox-runs-android-in-your-linux-without-emulation)
+[https://developer.android.com/studio/](https://developer.android.com/studio/)
