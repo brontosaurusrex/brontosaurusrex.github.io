@@ -8,3 +8,5 @@ tags:
   - bash
 ---
 [playrnd script](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/playrnd)
+
+![playrnd_alpha-fs8.png]({{site.baseurl}}/media/playrnd_alpha-fs8.png)
