@@ -433,7 +433,16 @@ xz entire dir as single file (staring from one dir above)
     }
     
     restart wbar
+    
+## Center text
 
+    centertext(){
+        columns=$(tput cols) 
+        string="$1" 
+        printf "%*s\n" $(((${#string}+columns)/2)) "$string"
+    }
+    
+    centertext "woot"
 
 ## TOC
 {:.no_toc}
