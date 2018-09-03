@@ -237,7 +237,7 @@ table {
   width: 100%;
   border: 1px solid #e5e5e5;
   border: 0px solid #459FE4;
-  /* border-collapse: collapse; */
+  border-collapse: collapse; 
   
   background-color: #111111;
   
@@ -245,15 +245,35 @@ table {
   
   border-radius: 5px;
   
+
+
+  
 }
 td,
 th {
   padding: .25rem .5rem;
   border: 0px solid #292C2E;
+  border-right: 1px solid #213942;
   text-align: left;
-  font-size: 16px;
-  font-weight: normal;
+  font-size: 12px;
+  font-weight: bold;
+  vertical-align: bottom;
 }
+
+th {
+text-transform: uppercase;
+border-bottom: 1px solid #213942;
+}
+
+td {
+vertical-align: top;
+font-size: 12px;
+}
+
+td[value="false"] {
+    color: red;
+}
+
 
 /* tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
