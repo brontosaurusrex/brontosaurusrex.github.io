@@ -125,6 +125,9 @@ Click the blue install buttons (as needed) and restart the browser.
 
 To enable smooth scrolling and scrolling with middle-mice-hold button go to *about:preferences#advanced* and enable stuff under Browsing (autoscrolling, smooth scrolling, hardware accelearation, spelling) as needed.
 
+Edit: Note that with Quantum alsa is no longer supported, also check some design tweaks here:  
+[https://brontosaurusrex.github.io/2018/09/08/firefox-quantum/](https://brontosaurusrex.github.io/2018/09/08/firefox-quantum/)
+
 ## hosts file
 [http://someonewhocares.org/hosts/zero/](http://someonewhocares.org/hosts/zero/)
 
