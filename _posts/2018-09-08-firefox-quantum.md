@@ -8,9 +8,9 @@ Quick theme that may match Adapta-Nokto, get this
 
 [https://addons.mozilla.org/en-US/firefox/addon/native-dark/](https://addons.mozilla.org/en-US/firefox/addon/native-dark/)
 
-Set 'Static color' to 29353B and toolbar difference to 5.
+Set 'Static color' to 29353B and the rest to
 
-[![scrot05373.md.png](https://cdn.scrot.moe/images/2018/09/08/scrot05373.md.png)](https://scrot.moe/image/9dE7C)
+![quantumTweaks-fs8.png]({{site.baseurl}}/media/quantumTweaks-fs8.png)
 
 To get some curves on tabs from old version in your profile folder add chrome/userChrome.css with
 
