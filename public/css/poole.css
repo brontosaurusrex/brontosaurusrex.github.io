@@ -71,6 +71,8 @@ body {
 a {
   color: #4BB2C9;
   text-decoration: none;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
