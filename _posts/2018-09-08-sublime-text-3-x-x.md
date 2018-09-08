@@ -3,6 +3,8 @@ published: true
 layout: post
 date: '2018-09-08 18:11 +0200'
 title: Sublime text 3.x.x
+tags:
+  - misc
 ---
 Preferences.sublime-settings (Preferences/Settings)
 
