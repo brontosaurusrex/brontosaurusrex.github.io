@@ -11,3 +11,6 @@ Quick theme that may match Adapta-Nokto, get this
 Set 'Static color' to 29353B and toolbar difference to 5.
 
 [![scrot05373.md.png](https://cdn.scrot.moe/images/2018/09/08/scrot05373.md.png)](https://scrot.moe/image/9dE7C)
+
+Or switch to chrome, smoothscroll extension  
+[https://chrome.google.com/webstore/detail/smoothscroll/nbokbjkabcmbfdlbddjidfmibcpneigj/related](https://chrome.google.com/webstore/detail/smoothscroll/nbokbjkabcmbfdlbddjidfmibcpneigj/related)
