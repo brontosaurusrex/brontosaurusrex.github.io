@@ -6,9 +6,42 @@ published: true
 
 ## The table
 
-| Model |35mm sensor size (24 mm × 36 mm) 	|  Hasn't got a rolling shutter problem 	|   RAW/log mode	| 4:2:2 |    Useful also as shouldercam	|  Real viewfinder | Can be wifi controled with Android tablet | Price 	| Lens mount | Ultra fast smart auto face-detection-real-time-tracking focus |pros & cons |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   Canon 7d	|true   	|false   	|  6s quasi-raw with firmware change 	| false | false  |false	| false (but there is usb way) | good | Canon EF/EF-S | In your dream | old, can't really be considered HD (due to crappy h.264 recording format), no canon audio inputs. |
+<div style="overflow-x:auto;">
+<table>
+  <thead>
+    <tr>
+      <th>Model</th>
+      <th>35mm sensor size (24 mm × 36 mm)</th>
+      <th>Hasn’t got a rolling shutter problem</th>
+      <th>RAW/log mode</th>
+      <th>4:2:2</th>
+      <th>Useful also as shouldercam</th>
+      <th>Real viewfinder</th>
+      <th>Can be wifi controled with Android tablet</th>
+      <th>Price</th>
+      <th>Lens mount</th>
+      <th>Ultra fast smart auto face-detection-real-time-tracking focus</th>
+      <th>pros &amp; cons</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Canon 7d</td>
+      <td>true</td>
+      <td>false</td>
+      <td>6s quasi-raw with firmware change</td>
+      <td>false</td>
+      <td>false</td>
+      <td>false</td>
+      <td>false (but there is usb way)</td>
+      <td>good</td>
+      <td>Canon EF/EF-S</td>
+      <td>In your dream</td>
+      <td>old, can’t really be considered HD (due to crappy h.264 recording format), no canon audio inputs.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ## Notes
 
