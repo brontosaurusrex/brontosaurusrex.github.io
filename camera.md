@@ -39,6 +39,20 @@ published: true
       <td>In your dream</td>
       <td>old, can’t really be considered HD (due to crappy h.264 recording format), no canon audio inputs.</td>
     </tr>
+    <tr>
+      <td>Sony Alpha a7S</td>
+      <td>true</td>
+      <td>false</td>
+      <td>S-Log2/3</td>
+      <td>Not internally, 4k 4:2:2 via hdmi</td>
+      <td>false</td>
+      <td>false</td>
+      <td>true, untested</td>
+      <td>good</td>
+      <td>E-Mount</td>
+      <td>unclear</td>
+      <td>Really decent picture when downscaled to HD and shot with S-Log3</td>
+    </tr>
   </tbody>
 </table>
 </div>
