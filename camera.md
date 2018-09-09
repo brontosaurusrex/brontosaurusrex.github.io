@@ -6,6 +6,7 @@ published: true
 
 ## The table
 
+<!--
 <div style="overflow-x:auto;">
 <table>
   <thead>
@@ -20,6 +21,7 @@ published: true
       <th>Can be wifi controled with Android tablet</th>
       <th>Price</th>
       <th>Lens mount</th>
+      <th>Built-in ND filter</th>
       <th>Ultra fast smart auto face-detection-real-time-tracking focus</th>
       <th>pros &amp; cons</th>
     </tr>
@@ -36,6 +38,7 @@ published: true
       <td>false (but there is usb way)</td>
       <td>good</td>
       <td>Canon EF/EF-S</td>
+      <td>false</td>
       <td>In your dream</td>
       <td>old, can’t really be considered HD (due to crappy h.264 recording format), no canon audio inputs.</td>
     </tr>
@@ -50,12 +53,17 @@ published: true
       <td>true, untested</td>
       <td>good</td>
       <td>E-Mount</td>
+      <td>false</td>
       <td>unclear</td>
       <td>Really decent picture when downscaled to HD and shot with S-Log3</td>
     </tr>
   </tbody>
 </table>
 </div>
+
+-->
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQeo5UEG6daIXBbrxSxfslKewb-_GIHmO9ezQcsz7H53pis7ueWg4Rt2P6iiaw7vk2xMC6quduY6JyJ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; height: 520px;"></iframe>
 
 ## Notes
 
