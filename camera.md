@@ -6,7 +6,6 @@ published: true
 
 ## The table
 
-<!--
 <div style="overflow-x:auto;">
 <table>
   <thead>
@@ -61,9 +60,10 @@ published: true
 </table>
 </div>
 
--->
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQeo5UEG6daIXBbrxSxfslKewb-_GIHmO9ezQcsz7H53pis7ueWg4Rt2P6iiaw7vk2xMC6quduY6JyJ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; height: 520px;"></iframe>
+<!--
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQeo5UEG6daIXBbrxSxfslKewb-_GIHmO9ezQcsz7H53pis7ueWg4Rt2P6iiaw7vk2xMC6quduY6JyJ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; height: 520px;"></iframe> 
+-->
 
 ## Notes
 
