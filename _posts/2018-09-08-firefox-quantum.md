@@ -6,25 +6,14 @@ title: Firefox Quantum
 ---
 Quick theme that may match Adapta-Nokto, get this
 
-[https://addons.mozilla.org/en-US/firefox/addon/native-dark/](https://addons.mozilla.org/en-US/firefox/addon/native-dark/)
+[https://addons.mozilla.org/en-US/firefox/addon/native-dark/](https://addons.mozilla.org/en-US/firefox/addon/native-dark/)  
+Disable shadow? [https://github.com/spikespaz/firefox-nativedark/issues/29](https://github.com/spikespaz/firefox-nativedark/issues/29)
 
 Set 'Static color' to 29353B and the rest to
 
 ![quantumTweaks-fs8.png]({{site.baseurl}}/media/quantumTweaks-fs8.png)
 
-To get some curves on tabs from old version in your profile folder add chrome/userChrome.css with
+To get some curves on tabs and various other hacks, in your profile folder add [chrome/userChrome.css](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/.mozilla/firefox/userChrome.css).
 
-    .tab-background {
-      border-radius: 16px 16px 0px 0px !important;
-      border-image: none !important;
-    }
-    .tab-line {
-      display: none;
-    }
-    /* remove colored line above each tab */
-       #TabsToolbar .tabbrowser-tab .tab-line {
-           visibility: hidden;
-    }
-
-Or switch to chrome, smoothscroll extension  
+Or switch to Chrome, smoothscroll extension  
 [https://chrome.google.com/webstore/detail/smoothscroll/nbokbjkabcmbfdlbddjidfmibcpneigj/related](https://chrome.google.com/webstore/detail/smoothscroll/nbokbjkabcmbfdlbddjidfmibcpneigj/related)
