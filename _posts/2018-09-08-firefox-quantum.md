@@ -15,5 +15,7 @@ Set 'Static color' to 29353B and the rest to
 
 To get some curves on tabs and various other hacks, in your profile folder add [chrome/userChrome.css](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/.mozilla/firefox/userChrome.css).
 
-Or switch to Chrome, smoothscroll extension  
+![tabs.png]({{site.baseurl}}/media/tabs.png)
+
+Or be evil and switch to Chrome, obviously with smoothscroll extension  
 [https://chrome.google.com/webstore/detail/smoothscroll/nbokbjkabcmbfdlbddjidfmibcpneigj/related](https://chrome.google.com/webstore/detail/smoothscroll/nbokbjkabcmbfdlbddjidfmibcpneigj/related)
