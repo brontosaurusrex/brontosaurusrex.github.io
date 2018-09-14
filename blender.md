@@ -54,12 +54,16 @@ https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Nodes/Nodes_Efficie
 - f2 (bundled?)
 - node wrangler (bundled)
 - Dynamic Sky (free)
-- Animation Nodes (free) < amazing!
+- [Animation Nodes (free) < amazing!](https://github.com/JacquesLucke/animation_nodes)
 - Sverchok (free)
 - hard ops (commercial)
 - EasyFX (free postprocessing single-click effects, like sharpen or vignette)
 
 Many more https://www.blenderguru.com/articles/12-useful-blender-addons-everyone-should-use
+
+## materials
+
+- [3dwolf PBR](https://www.3d-wolf.com/products/materials.html)
 
 ## Shortcut infographics
 
