@@ -3,6 +3,8 @@ published: true
 layout: post
 date: '2018-09-18 10:25 +0200'
 title: Code of Conduct (kernel)
+tags:
+  - linux
 ---
 diff  
 [https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8a104f8b5867c682d994ffa7a74093c54469c11f](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8a104f8b5867c682d994ffa7a74093c54469c11f)  
