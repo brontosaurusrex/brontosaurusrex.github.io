@@ -17,5 +17,3 @@ actually funny or a good sign that I was hoping to just skip the
 yearly kernel summit entirely, and on the other hand realizing that I
 really had been ignoring some fairly deep-seated feelings in the
 community.
-
-![](https://upload.wikimedia.org/wikipedia/en/5/5e/Linus_van_Pelt.gif)
