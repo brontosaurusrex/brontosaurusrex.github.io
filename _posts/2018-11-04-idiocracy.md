@@ -6,6 +6,8 @@ title: Idiocracy
 ---
 [https://en.wikipedia.org/wiki/Idiocracy](https://en.wikipedia.org/wiki/Idiocracy)
 
-Upgrayedd, Rita, Not Sure, Rehabilitation Officer
+Upgrayedd, Rita, Not Sure, Rehabilitation Officer, time masheen
+
+dystopian [https://en.wikipedia.org/wiki/Dystopia](https://en.wikipedia.org/wiki/Dystopia)
 
 
