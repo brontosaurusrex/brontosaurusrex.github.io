@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2018-11-15 19:28 +0100'
-title: What's New in Davinci Resolve 15.2
+title: Davinci Resolve 15.2
 tags:
   - video
 ---
