@@ -21,7 +21,7 @@ Something like this in your .config/openbox/autostart
     
 [https://forums.bunsenlabs.org/viewtopic.php?id=4847](https://forums.bunsenlabs.org/viewtopic.php?id=4847)
 
-## headless raspbian
+## headless raspbian with usbmount
 
 	apt install usbmount
 
@@ -35,3 +35,15 @@ reboot
 It should mount as /media/usb#. Also make sure if disk is ext4 that it is chowned to you, for example
 
 	sudo chown -R pi:pi /media/usb
+    
+## headless raspbian manual
+
+Since usbmount since to stop working for some reason..., on pi an alias like:
+
+    alias mountusb='sudo mount /dev/sda1 ~/usbman'
+    
+On desktop still the same thing
+
+    alias mountpi='sshfs pi@192.168.1.6:/media/usbman/usb/filmi ~/pi'
+    # and in openbox autostart
+    sshfs pi@192.168.1.6:/media/usbman/usb/filmi ~/pi
