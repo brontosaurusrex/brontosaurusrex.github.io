@@ -47,3 +47,7 @@ On desktop still the same thing
     alias mountpi='sshfs pi@192.168.1.6:/media/usbman/usb/filmi ~/pi'
     # and in openbox autostart
     sshfs pi@192.168.1.6:/media/usbman/usb/filmi ~/pi
+    
+## fstab way
+
+fix me.
