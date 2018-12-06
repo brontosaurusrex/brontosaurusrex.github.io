@@ -6,4 +6,6 @@ title: Alias 'rock'
 ---
     alias rock='mpv --shuffle=yes --no-resume-playback "https://www.youtube.com/watch?list=PL3485902CC4FB6C67"'
     
+^ Random clip from youtube playlist.
+    
 [https://forums.bunsenlabs.org/viewtopic.php?pid=79160#p79160](https://forums.bunsenlabs.org/viewtopic.php?pid=79160#p79160)
