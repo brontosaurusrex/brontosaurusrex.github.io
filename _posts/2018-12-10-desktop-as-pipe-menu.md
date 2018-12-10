@@ -67,4 +67,57 @@ More
 
     # And so on ...
     
- Not particulary efficient with two loops...
+ Not particulary efficient with two loops... And some hardcoded xml/pipeMenu code
+ 
+     #!/bin/bash
+
+    # Desktop in pipe menu
+
+    where=$(xdg-user-dir DESKTOP)
+
+    cd "$where" || exit
+
+    # menu head
+    echo "<openbox_pipe_menu>"
+
+    # fodlers
+    for stuff in *
+    do
+        if [[ -d $stuff ]]; then
+    cat << ITEM
+        <item label="$stuff">
+            <action name="Execute">
+                <execute>thunar '$where/$stuff'</execute>
+            </action>
+        </item>
+    ITEM
+        fi
+    done
+
+    echo "<separator/>"
+
+    # files & links
+    for stuff in *
+    do
+        if [[ -f $stuff ]]; then
+    cat << ITEM
+        <item label="$stuff">
+            <action name="Execute">
+                <execute>thunar '$where/$stuff'</execute>
+            </action>
+        </item>
+    ITEM
+        fi
+    done
+
+    # menu foot
+    echo "</openbox_pipe_menu>"
+
+Call this pipeDesktop, put it in ~/bin, chmod +x it.
+And add that to .config/openbox/menu.xml like:
+
+    <menu execute="pipeDesktop" id="desktop" label="desktop"/>
+    
+Done.
+
+
