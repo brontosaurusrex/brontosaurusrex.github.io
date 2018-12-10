@@ -12,3 +12,7 @@ A start
     echo "$where"
     
     # more
+    
+Launch .desktop (gtk-launch?)
+
+[https://askubuntu.com/questions/5172/running-a-desktop-file-in-the-terminal](https://askubuntu.com/questions/5172/running-a-desktop-file-in-the-terminal)
