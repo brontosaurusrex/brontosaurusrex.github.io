@@ -73,7 +73,7 @@ More
     
  Not particulary efficient with two loops... And some hardcoded xml/pipeMenu code
  
-     #!/bin/bash
+    #!/bin/bash
 
     # Desktop in pipe menu
 
