@@ -37,4 +37,34 @@ More
     done
 
     # And so on ...
+    
+ And separate fodlers from files&links
+ 
+     #!/bin/bash
 
+    # Desktop in pipe menu
+
+    where=$(xdg-user-dir DESKTOP)
+
+    cd "$where" || exit
+
+    # fodlers
+    for stuff in *
+    do
+        if [[ -d $stuff ]]; then
+                echo "$stuff is dir"
+        fi
+    done
+
+    # files
+    for stuff in *
+    do
+        if [[ -f $stuff ]]; then
+            echo "$stuff is file"
+        fi
+    done
+
+
+    # And so on ...
+    
+ Not particulary efficient with two loops...
