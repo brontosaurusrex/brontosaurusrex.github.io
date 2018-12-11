@@ -13,4 +13,8 @@ tags:
 [https://www.pixplant.com/](https://www.pixplant.com/)   
 [https://texturehaven.com/](https://texturehaven.com/) (free)  
 
+## Material database
+
+[https://www.blenderkit.com/](https://www.blenderkit.com/)
+
 
