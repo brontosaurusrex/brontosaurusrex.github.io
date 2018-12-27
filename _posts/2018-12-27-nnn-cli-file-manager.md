@@ -3,6 +3,9 @@ published: true
 layout: post
 date: '2018-12-27 21:49 +0100'
 title: nnn (cli file manager)
+tags:
+  - linux
+  - cli
 ---
 [https://github.com/jarun/nnn](https://github.com/jarun/nnn)
 
