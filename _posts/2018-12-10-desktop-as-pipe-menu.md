@@ -117,7 +117,7 @@ More
     # menu foot
     echo "</openbox_pipe_menu>"
 
-Call this pipeDesktop, put it in ~/bin, chmod +x it.
+Call this [pipeDesktop](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/pipeDesktop), put it in ~/bin, chmod +x it.
 And add that to .config/openbox/menu.xml like:
 
     <menu execute="pipeDesktop" id="desktop" label="desktop"/>
@@ -125,5 +125,3 @@ And add that to .config/openbox/menu.xml like:
 Done.
 
 [![pipeDesktop.md.png](https://cdn.scrot.moe/images/2018/12/10/pipeDesktop.md.png)](https://scrot.moe/image/aPXqQ)
-
-
