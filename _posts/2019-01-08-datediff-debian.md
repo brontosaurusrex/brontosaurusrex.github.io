@@ -9,4 +9,8 @@ tags:
 ---
     sudo apt install dateutils
     
+    # help
+    info dateutils
+    
+    # diff between now and some future date
     dateutils.ddiff now 2025-01-29 -f '%Y years %d days'
