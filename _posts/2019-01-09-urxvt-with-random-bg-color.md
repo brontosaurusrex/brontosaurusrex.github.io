@@ -10,4 +10,16 @@ tags:
 ---
 [![urxvtRndColorBG.md.png](https://cdn.scrot.moe/images/2019/01/09/urxvtRndColorBG.md.png)](https://cdn.scrot.moe/images/2019/01/09/urxvtRndColorBG.png)
 
-[script.](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/urxvtRndColorBG)
+    #!/bin/bash
+
+    # urxvtRndColorBG
+
+    # open urxvt with random background color
+
+    r=$(( ( RANDOM % 4 )  + 1 ))
+    g=$(( ( RANDOM % 4 )  + 1 ))
+    b=$(( ( RANDOM % 4 )  + 1 ))
+
+    urxvt -bg rgb:$r/$g/$b &
+
+[latest version of the script.](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/urxvtRndColorBG)
