@@ -21,4 +21,13 @@ An openbox menu
     tile --all-auto (active), tile --all-auto
     killall tile
     
+Openbox keybind
+
+    <!-- rtile all -->
+    <keybind key="A-a">
+      <action name="Execute">
+        <command>tile --all</command>
+      </action>
+    </keybind>
+    
 [![rtile.md.png](https://cdn.scrot.moe/images/2019/01/17/rtile.md.png)](https://scrot.moe/image/aGvNZ)
