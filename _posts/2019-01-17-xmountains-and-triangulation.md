@@ -24,5 +24,8 @@ Paper plane render
 Pacific  
 ![triangulated-pacific.svg]({{site.baseurl}}/media/triangulated-pacific.svg)
 
+2x 1920x1200  
+![triangulated-pacific_mac2.svg]({{site.baseurl}}/media/triangulated-pacific_mac2.svg)
+
 Another generator [https://msurguy.github.io/triangles/](https://msurguy.github.io/triangles/)  
 ![triangles.svg]({{site.baseurl}}/media/triangles.svg)
