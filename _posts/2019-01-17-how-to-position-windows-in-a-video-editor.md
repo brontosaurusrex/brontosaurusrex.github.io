@@ -18,3 +18,5 @@ Material window must be implemented in a way to not get in a way of player/recor
 View2 could be default for smaller screens or smaller program window sizes (but that shall be in preferences).
 
 Buttons like _play, frame back/forward, in, out_ must not drastically increase the distance between player/recorder and timeline, good default seems to be either don't show any or perhaps overlayed over video at proper time (hard one).
+
+Timeline shall not be necessarily video tracks, then audio tracks, each track can be either one. Or at least audio tracks that are not synced to video could be positioned anywhere (see After effects).
