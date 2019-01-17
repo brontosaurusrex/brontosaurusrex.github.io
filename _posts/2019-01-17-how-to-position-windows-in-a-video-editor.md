@@ -8,8 +8,7 @@ tags:
   - video
   - luv
 ---
-YYC3 license
-> Yes you can, but for non-commercial purposes only.
+**YYC3 license = Yes you can, but for non-commercial purposes only.**
 
 [Cuprum font](https://fonts.google.com/specimen/Cuprum).
 
