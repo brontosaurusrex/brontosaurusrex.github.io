@@ -12,5 +12,11 @@ tags:
 Then [https://snorpey.github.io/triangulation/](https://snorpey.github.io/triangulation/)  
 ![triangulated-image.svg]({{site.baseurl}}/media/triangulated-image.svg)
 
+Cloud photo  
+![triangulated-clouds.svg]({{site.baseurl}}/media/triangulated-clouds.svg)
+
+Paper plane render  
+![triangulated-paperPlane.svg]({{site.baseurl}}/media/triangulated-paperPlane.svg)
+
 Another generator [https://msurguy.github.io/triangles/](https://msurguy.github.io/triangles/)  
 ![triangles.svg]({{site.baseurl}}/media/triangles.svg)
