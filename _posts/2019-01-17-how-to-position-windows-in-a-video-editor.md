@@ -11,6 +11,8 @@ tags:
 YYC3 license
 > Yes you can, but for non-commercial purposes only.
 
+[Cuprum font](https://fonts.google.com/specimen/Cuprum).
+
 ![editor.svg]({{site.baseurl}}/media/editor.svg)
 
 ## More on windows and screens
