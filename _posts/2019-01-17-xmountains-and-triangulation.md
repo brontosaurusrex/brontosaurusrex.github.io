@@ -15,6 +15,9 @@ Then [https://snorpey.github.io/triangulation/](https://snorpey.github.io/triang
 Cloud photo  
 ![triangulated-clouds.svg]({{site.baseurl}}/media/triangulated-clouds.svg)
 
+Paper boat photo  
+![triangulated-boat.svg]({{site.baseurl}}/media/triangulated-boat.svg)
+
 Paper plane render  
 ![triangulated-paperPlane.svg]({{site.baseurl}}/media/triangulated-paperPlane.svg)
 
