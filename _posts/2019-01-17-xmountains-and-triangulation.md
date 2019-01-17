@@ -18,5 +18,8 @@ Cloud photo
 Paper plane render  
 ![triangulated-paperPlane.svg]({{site.baseurl}}/media/triangulated-paperPlane.svg)
 
+Pacific  
+![triangulated-pacific.svg]({{site.baseurl}}/media/triangulated-pacific.svg)
+
 Another generator [https://msurguy.github.io/triangles/](https://msurguy.github.io/triangles/)  
 ![triangles.svg]({{site.baseurl}}/media/triangles.svg)
