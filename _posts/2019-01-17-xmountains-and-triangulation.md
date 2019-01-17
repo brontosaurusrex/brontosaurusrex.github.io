@@ -7,7 +7,7 @@ tags:
   - mine
 ---
     xmountains -I 9 -A 9 -F 1 -f 1 -p 7 -e 0.2 -v 0.1 -l 12 -t 3 -s 7 -g 1920x1200
- 	# scrot the thing
+    # scrot the thing
 
 Then [https://snorpey.github.io/triangulation/](https://snorpey.github.io/triangulation/)  
 ![triangulated-image.svg]({{site.baseurl}}/media/triangulated-image.svg)
