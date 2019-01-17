@@ -21,4 +21,4 @@ Buttons like _play, frame back/forward, in, out_ must not drastically increase t
 
 Timeline shall not be necessarily video tracks, then audio tracks, each track can be either one. Or at least audio tracks that are not synced to video could be positioned anywhere (see After effects for example).
 
-GUI elements like graph editor or effects editor of which effect are regularly and mostly applied to clips or elements in timeline can use/re-purpose the player window or be overlayed over part of recorder window (there must be some sort of show/hide toggle, bumping the edge of the screen with mouse should work fine in full-screen situations, less so in windowed modes). 
+GUI elements like graph editor, effects editor or grading of which effect are regularly and mostly applied to clips or elements in timeline can use/re-purpose the player window or be overlayed over part of recorder window (there must be some sort of show/hide toggle, bumping the edge of the screen with mouse should work fine in full-screen situations, less so in windowed modes). 
