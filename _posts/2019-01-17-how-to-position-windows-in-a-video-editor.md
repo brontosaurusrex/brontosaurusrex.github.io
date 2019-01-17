@@ -12,3 +12,5 @@ YYC3 license
 > Yes you can, but for non-commercial purposes only.
 
 ![editor.svg]({{site.baseurl}}/media/editor.svg)
+
+Material window must be implemented in a way to not get in a way of player/recorder layouts, it could be a separated screen (see Autodesk smoke*), it could be a floating window ..., it could be ...
