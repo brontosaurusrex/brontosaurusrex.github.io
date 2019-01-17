@@ -10,10 +10,6 @@ tags:
  	# scrot the thing
 
 Then [https://snorpey.github.io/triangulation/](https://snorpey.github.io/triangulation/)  
-
-
-
-
-
+![triangulated-image.svg]({{site.baseurl}}/media/triangulated-image.svg)
 
 Another generator [https://msurguy.github.io/triangles/](https://msurguy.github.io/triangles/)
