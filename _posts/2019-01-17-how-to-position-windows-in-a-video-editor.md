@@ -9,6 +9,5 @@ tags:
   - luv
 ---
 YYC3 license
-> Yes you can, but for non-commercial purposes only.
-
+> Yes you can, but for non-commercial purposes only.  
 ![editor.svg]({{site.baseurl}}/media/editor.svg)
