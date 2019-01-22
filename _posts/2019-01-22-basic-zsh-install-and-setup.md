@@ -6,6 +6,7 @@ title: Basic Zsh install and setup
 tags:
   - linux
 ---
+## Basics
 
     sudo apt install zsh
     zsh # select 2 to populate some basic configuration
@@ -22,10 +23,14 @@ and change prompt theme to
 To be continued ...
 
 
-Prompt themes
+## Prompt themes
 
 [https://wiki.archlinux.org/index.php/zsh#Prompt_themes](https://wiki.archlinux.org/index.php/zsh#Prompt_themes)
 
     prompt -l
     prompt walters
     prompt -p
+    
+Built in prompts are stored in 
+
+    /usr/share/zsh/functions/Prompts
