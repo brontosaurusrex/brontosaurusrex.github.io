@@ -51,6 +51,13 @@ Or the good old two-line prompt (using oh-my-zsh git plugin)
     %{$fg[cyan]%}%~ $(git_prompt_info)
     %{$fg[white]%}%(?.∴.%{$fg[red]%}∵%{$reset_color%})% %n@%m%{$fg[white]%}> %{$reset_color%}'
       
+## $PATH
+
+Also somewhere in .zshrc
+
+    # append
+    path+=$HOME/bin
+
 ## Make Zsh default shell
  
      chsh -s $(which zsh)
