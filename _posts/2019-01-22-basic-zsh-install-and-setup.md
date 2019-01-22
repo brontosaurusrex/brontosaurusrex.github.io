@@ -34,3 +34,14 @@ To be continued ...
 Built in prompts are stored in 
 
     /usr/share/zsh/functions/Prompts
+    
+It is unclear on how to do user prompt properly, but one can probably paste this to .zshrc (to get walters without the silly underline)
+
+    if [[ "$TERM" != "dumb" ]]; then
+        PROMPT='%B%(?..[%?] )%b%n@%m> '
+        RPROMPT="%F{${1:-green}}%~%f"
+    else
+        PROMPT="%(?..[%?] )%n@%m:%~> "
+    fi
+
+      prompt_opts=(cr percent)
