@@ -3,6 +3,9 @@ published: true
 layout: post
 date: '2019-01-22 17:19 +0100'
 title: gtk / openbox theme collections
+tags:
+  - linux
+  - luv
 ---
 [https://github.com/addy-dclxvi](https://github.com/addy-dclxvi)
 
