@@ -45,12 +45,6 @@ It is unclear on how to do user prompt properly, but one can probably paste this
     fi
       prompt_opts=(cr percent)
       
-Or the good old two-line prompt (using oh-my-zsh git plugin)
-
-    PROMPT='
-    %{$fg[cyan]%}%~ $(git_prompt_info)
-    %{$fg[white]%}%(?.∴.%{$fg[red]%}∵%{$reset_color%})% %n@%m%{$fg[white]%}> %{$reset_color%}'
-      
 ## $PATH
 
 Also somewhere in .zshrc
