@@ -6,6 +6,10 @@ title: Basic Zsh install and setup
 tags:
   - linux
 ---
+
+* TOC
+{:toc}
+
 ## Basics
 
     sudo apt install zsh
