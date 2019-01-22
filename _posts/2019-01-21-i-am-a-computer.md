@@ -7,5 +7,3 @@ tags:
   - luv
 ---
 [https://www.docubyte.com/works/i-am-a-computer/](https://www.docubyte.com/works/i-am-a-computer/)
-
-![](https://www.docubyte.com/media/2018/05/I_AM_AN_APPLE_MAC_720.gif)
