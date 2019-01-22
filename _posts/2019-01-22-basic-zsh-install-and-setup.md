@@ -20,3 +20,12 @@ and change prompt theme to
     prompt walters
     
 To be continued ...
+
+
+Prompt themes
+
+[https://wiki.archlinux.org/index.php/zsh#Prompt_themes](https://wiki.archlinux.org/index.php/zsh#Prompt_themes)
+
+    prompt -l
+    prompt walters
+    prompt -p
