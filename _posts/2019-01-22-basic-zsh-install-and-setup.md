@@ -46,6 +46,6 @@ It is unclear on how to do user prompt properly, but one can probably paste this
 
       prompt_opts=(cr percent)
       
- ## Make Zsh default shell
+## Make Zsh default shell
  
      chsh -s $(which zsh)
