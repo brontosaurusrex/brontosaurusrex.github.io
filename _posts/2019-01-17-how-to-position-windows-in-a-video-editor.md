@@ -32,5 +32,7 @@ tags:
 
 - Wipe/dissolve type of effects shall take the **last duration used on timeline** as default for a new one of the same type.
 
+- [Loudness normalization](https://github.com/olive-editor/olive/issues/262#issuecomment-456788768)
+
 [Comments?](https://github.com/olive-editor/olive/issues/322)
 
