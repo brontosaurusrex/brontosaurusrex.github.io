@@ -7,3 +7,6 @@ tags:
   - video
 ---
 [https://www.youtube.com/watch?v=3Rc0dNDzbuM](https://www.youtube.com/watch?v=3Rc0dNDzbuM)
+
+Decay, grass  
+[https://www.videocopilot.net/tutorials/damage_and_decay_fx/](https://www.videocopilot.net/tutorials/damage_and_decay_fx/)
