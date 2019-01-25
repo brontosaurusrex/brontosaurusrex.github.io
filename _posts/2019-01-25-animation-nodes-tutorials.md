@@ -27,3 +27,7 @@ Effector
 
 Motion blur test (animated effektor position)  
 ![](https://cdn.scrot.moe/images/2019/01/25/effektorMotionBlur2.png)
+
+Something Glitchy  
+[https://youtu.be/7c-vKxQk4SI](https://youtu.be/7c-vKxQk4SI)  
+[![somethingGlitchyAnimNodes.th.png](https://cdn.scrot.moe/images/2019/01/25/somethingGlitchyAnimNodes.th.png)](https://scrot.moe/image/aM5yY)
