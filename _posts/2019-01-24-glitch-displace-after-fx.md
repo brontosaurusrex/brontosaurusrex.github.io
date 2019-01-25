@@ -10,3 +10,6 @@ tags:
 
 Decay, grass  
 [https://www.videocopilot.net/tutorials/damage_and_decay_fx/](https://www.videocopilot.net/tutorials/damage_and_decay_fx/)
+
+Blender  
+[![glitch.md.png](https://cdn.scrot.moe/images/2019/01/25/glitch.md.png)](https://cdn.scrot.moe/images/2019/01/25/glitch.png)
