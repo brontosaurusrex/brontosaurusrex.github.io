@@ -9,7 +9,8 @@ tags:
 dl  
 [https://github.com/JacquesLucke/animation_nodes/releases](https://github.com/JacquesLucke/animation_nodes/releases)
 
-Magic hotkeys  
+Magic hotkeys
+
     ctrl + a
     shift + a
 
