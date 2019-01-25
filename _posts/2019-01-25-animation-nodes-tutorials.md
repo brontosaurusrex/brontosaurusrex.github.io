@@ -16,4 +16,4 @@ Basics
 Effector  
 [![animationNodeBasics04EffektorElastic.th.jpg](https://cdn.scrot.moe/images/2019/01/25/animationNodeBasics04EffektorElastic.th.jpg)](https://scrot.moe/image/aMlxC) [![animationNodeBasics04Effektor.th.jpg](https://cdn.scrot.moe/images/2019/01/25/animationNodeBasics04Effektor.th.jpg)](https://scrot.moe/image/aM7mj)
 
-Blend.
+[Blend.](AnimationNodes2-effektor.blend)
