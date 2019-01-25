@@ -3,6 +3,8 @@ published: true
 layout: post
 date: '2019-01-25 14:49 +0100'
 title: Animation nodes tutorials
+tags:
+  - blender
 ---
 dl  
 [https://github.com/JacquesLucke/animation_nodes/releases](https://github.com/JacquesLucke/animation_nodes/releases)
