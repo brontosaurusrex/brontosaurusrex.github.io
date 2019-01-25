@@ -26,4 +26,4 @@ Effector
 [Effector.blend.]({{site.baseurl}}/blends/AnimationNodes2-effektor.blend)
 
 Motion blur test (animated effektor position)  
-
+![](https://cdn.scrot.moe/images/2019/01/25/effektorMotionBlur2.png)
