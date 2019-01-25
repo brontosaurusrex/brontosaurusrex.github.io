@@ -7,6 +7,10 @@ title: Animation nodes tutorials
 dl  
 [https://github.com/JacquesLucke/animation_nodes/releases](https://github.com/JacquesLucke/animation_nodes/releases)
 
+Magic hotkeys  
+    ctrl + a
+    shift + a
+
 youtabe  
 [Loopy lists.](https://www.youtube.com/watch?v=o3N8H8X-GJk)
 
