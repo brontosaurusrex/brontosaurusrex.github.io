@@ -9,6 +9,8 @@ tags:
 Convert to obj  
 [http://www.realtimerendering.com/erich/minecraft/public/mineways/](http://www.realtimerendering.com/erich/minecraft/public/mineways/)
 
+    mineways, wine ~/apps/mineways/mineways.exe -s /home/b/.minecraft
+
 Import with some materials/textures (Blender addon)  
 [https://theduckcow.com/dev/blender/mcprep/](https://theduckcow.com/dev/blender/mcprep/)
 
