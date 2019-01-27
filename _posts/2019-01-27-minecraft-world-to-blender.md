@@ -15,3 +15,4 @@ Import with some materials/textures (Blender addon)
 [https://theduckcow.com/dev/blender/mcprep/](https://theduckcow.com/dev/blender/mcprep/)
 
 [![world.md.png](https://cdn.scrot.moe/images/2019/01/27/world.md.png)](https://scrot.moe/image/ajlZA)
+[![world4.md.png](https://cdn.scrot.moe/images/2019/01/27/world4.md.png)](https://scrot.moe/image/aj75L)
