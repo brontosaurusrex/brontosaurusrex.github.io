@@ -6,4 +6,6 @@ title: Terminal replacement for WSL on Windows 10?
 tags:
   - cli
 ---
-To test [http://cmder.net/](http://cmder.net/)
+[http://cmder.net](http://cmder.net/)
+
+![](https://cdn.scrot.moe/images/2019/01/29/cmder.png)
