@@ -12,3 +12,13 @@ tags:
 
 Worth reading  
 [http://www.akitaonrails.com/2017/09/20/windows-subsystem-for-linux-is-good-but-not-enough-yet](http://www.akitaonrails.com/2017/09/20/windows-subsystem-for-linux-is-good-but-not-enough-yet)
+
+Observations  
+- WSL starts fast (a second) and allready in the 'correct' directory (Called from total commander icon)
+- cmder behaves a bit differently than your 'Debian icon cmd thingy', it appears that it runs bash.exe which launches the entire Debian subsistem, so silly hacks like 
+
+	# run zsh
+    zsh
+    
+are required at the end of .bashrc ... (maybe there is a better place for it?)
+- cmder looks way better
