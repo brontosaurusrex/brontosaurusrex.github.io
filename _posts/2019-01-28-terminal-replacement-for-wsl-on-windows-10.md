@@ -9,3 +9,6 @@ tags:
 [http://cmder.net](http://cmder.net/)
 
 ![](https://cdn.scrot.moe/images/2019/01/29/cmder.png)
+
+Worth reading  
+[http://www.akitaonrails.com/2017/09/20/windows-subsystem-for-linux-is-good-but-not-enough-yet](http://www.akitaonrails.com/2017/09/20/windows-subsystem-for-linux-is-good-but-not-enough-yet)
