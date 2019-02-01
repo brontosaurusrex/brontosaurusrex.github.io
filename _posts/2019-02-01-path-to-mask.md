@@ -10,5 +10,5 @@ tags:
 
 Of course mask can be on some other layer.
 
-Mine, similar (Shape 2 mask)  
+Similar (Shape 2 mask)  
 [https://youtu.be/lmRdHQ_56zY](https://youtu.be/lmRdHQ_56zY)
