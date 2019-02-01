@@ -11,4 +11,4 @@ tags:
 Of course mask can be on some other layer.
 
 Similar (Shape 2 mask)  
-[https://youtu.be/lmRdHQ_56zY](https://youtu.be/lmRdHQ_56zY)
+[https://youtu.be/ILqS7qjC9Jo](https://youtu.be/ILqS7qjC9Jo)
