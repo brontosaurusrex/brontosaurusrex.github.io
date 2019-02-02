@@ -3,6 +3,10 @@ published: true
 layout: post
 date: '2019-02-02 21:51 +0100'
 title: Quantum entanglement from the holographic principle
+tags:
+  - misc
+  - luv
+  - web
 ---
 [https://arxiv.org/abs/1109.3542](https://arxiv.org/abs/1109.3542)
 
