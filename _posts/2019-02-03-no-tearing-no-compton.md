@@ -19,3 +19,5 @@ This is dual-monitor setup, in `/etc/X11/xorg.conf` add `{ ForceFullCompositionP
 
 to proper place. In `.config/openbox/autostart` disable compton. Log in and out.
 
+From [https://github.com/chjj/compton/issues/227](https://github.com/chjj/compton/issues/227)
+
