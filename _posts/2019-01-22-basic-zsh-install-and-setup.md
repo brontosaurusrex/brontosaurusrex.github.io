@@ -49,6 +49,8 @@ It is unclear on how to do user prompt properly, but one can probably paste this
     fi
       prompt_opts=(cr percent)
       
+And remove any 'prompt walters' definitions from above.
+      
 ## $PATH
 
 Also somewhere in .zshrc
