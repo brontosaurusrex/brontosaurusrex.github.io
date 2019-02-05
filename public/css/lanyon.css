@@ -610,20 +610,29 @@ a.pagination-item:hover {
 
 .brontofooter {
 
-  
   text-align: center;
   padding:        1rem;
-  padding-bottom: 6rem;
-  padding-top:    4rem;
+  padding-bottom: 2rem;
+  padding-top:    26rem;
   width: 100%;
+  
+  /* 
+  padding-bottom: 16rem;
+  padding-top:    14rem;
 
-  background-color: #031f29;
-
+  background-color: #031f29; 
+ */
 
   /* border-top: dotted #cccccc 1px; */  
   
-  background-image: url("/public/mozillaGrain.png");
+  /* background-image: url("/public/mozillaGrain.png"); */
 
+  background-image: url("/public/grass_sm2.png"); 
+  
+
+
+  background-repeat: repeat-x;
+  background-position: bottom center;
 }
 
 .tags {
