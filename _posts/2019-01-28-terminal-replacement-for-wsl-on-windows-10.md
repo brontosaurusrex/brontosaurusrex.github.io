@@ -15,7 +15,7 @@ tags:
 
 ## Observations  
 - WSL starts fast (a second) and already in the 'correct' directory (Called from total commander icon)
-- cmder behaves a bit differently than your 'Debian icon cmd thingy', it appears that it runs bash.exe which launches the entire Debian subsystem, so silly hacks like `zsh` are required at the end of .bashrc ... (maybe there is a better place for it?) edit: There must be wsl.exe version of this.
+- cmder behaves a bit differently than your 'Debian icon cmd thingy', it appears that it runs bash.exe which launches the entire Debian subsystem, so silly hacks like `zsh` are required at the end of .bashrc ... (maybe there is a better place for it?) edit: There must be wsl.exe version of this. Or [just run the engine like explained here](https://waynewerner.com/blog/how-to-use-cmder-ubuntu-1804-on-windows.html).
 - cmder looks way better
 - i/o performance from/to say `/mnt/b` seems good for big files (Haven't done any real benchmarks), *people are complaining about poor small files read/write i/o*.
 - CPU saturation seems 100% with `ffmpeg/x264`.
