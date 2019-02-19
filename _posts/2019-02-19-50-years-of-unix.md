@@ -3,6 +3,8 @@ published: true
 layout: post
 date: '2019-02-19 23:16 +0100'
 title: 50 years of Unix
+tags:
+  - linux
 ---
 [https://www.youtube.com/watch?v=EZMA3Ge144U](https://www.youtube.com/watch?v=EZMA3Ge144U)
 
