@@ -12,8 +12,6 @@ tags:
 > Rapid texture creation.
 > Blend, paint & sculpt tileable materials in no-time.
 
-![](https://d3uwib8iif8w1p.cloudfront.net/quixel/mixer/mixer-mix-and-match.jpg)
-
 ## Materialize (win only), free
 
 [http://www.boundingboxsoftware.com/materialize](http://www.boundingboxsoftware.com/materialize)
