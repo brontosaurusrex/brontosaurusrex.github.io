@@ -11,8 +11,8 @@ git
 debate, install instructions  
 [https://forums.bunsenlabs.org/viewtopic.php?id=4226](https://forums.bunsenlabs.org/viewtopic.php?id=4226)
 
-[![radioClicky.md.png](https://cdn.scrot.moe/images/2017/09/30/radioClicky.md.png)](https://cdn.scrot.moe/images/2017/09/30/radioClicky.png)
-[![optionalOpenboxAndConly.md.png](https://cdn.scrot.moe/images/2017/10/04/optionalOpenboxAndConly.md.png)](https://cdn.scrot.moe/images/2017/10/04/optionalOpenboxAndConly.png)
+[![radioClicky.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/09/30/radioClicky.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/09/30/radioClicky.png)
+[![optionalOpenboxAndConly.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/10/04/optionalOpenboxAndConly.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/10/04/optionalOpenboxAndConly.png)
 
     radioClicky help          # show available switches
     

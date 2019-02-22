@@ -142,9 +142,9 @@ things that are done
 [http://kanban.leanlabs.io/](http://kanban.leanlabs.io/)  
 
 Xpad  
-[![localTrelloWithXpad.th.png](https://cdn.scrot.moe/images/2017/03/23/localTrelloWithXpad.th.png)](https://cdn.scrot.moe/images/2017/03/23/localTrelloWithXpad.png)
-[![localTrelloWithXpadNoShadow.th.png](https://cdn.scrot.moe/images/2017/03/23/localTrelloWithXpadNoShadow.th.png)](https://cdn.scrot.moe/images/2017/03/23/localTrelloWithXpadNoShadow.png)
-[![localTrelloWithXpadNoShadow2.th.png](https://cdn.scrot.moe/images/2017/03/23/localTrelloWithXpadNoShadow2.th.png)](https://cdn.scrot.moe/images/2017/03/23/localTrelloWithXpadNoShadow2.png)
+[![localTrelloWithXpad.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/03/23/localTrelloWithXpad.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/03/23/localTrelloWithXpad.png)
+[![localTrelloWithXpadNoShadow.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/03/23/localTrelloWithXpadNoShadow.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/03/23/localTrelloWithXpadNoShadow.png)
+[![localTrelloWithXpadNoShadow2.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/03/23/localTrelloWithXpadNoShadow2.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/03/23/localTrelloWithXpadNoShadow2.png)
 
 Theory  
 [https://en.wikipedia.org/wiki/Kanban_board](https://en.wikipedia.org/wiki/Kanban_board)

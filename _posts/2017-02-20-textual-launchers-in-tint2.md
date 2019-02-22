@@ -7,4 +7,4 @@ tags: mine linux
 ---
 [https://forums.bunsenlabs.org/viewtopic.php?pid=45630#p45630](https://forums.bunsenlabs.org/viewtopic.php?pid=45630#p45630)
 
-[![tint2asTextualButtonsLauncher.th.png](https://cdn.scrot.moe/images/2017/02/20/tint2asTextualButtonsLauncher.th.png)](https://cdn.scrot.moe/images/2017/02/20/tint2asTextualButtonsLauncher.png)
+[![tint2asTextualButtonsLauncher.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/02/20/tint2asTextualButtonsLauncher.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/02/20/tint2asTextualButtonsLauncher.png)

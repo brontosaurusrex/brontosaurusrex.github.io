@@ -6,9 +6,9 @@ title: Makehuman and Blender
 tags: blender mine
 ---
 Statue, _Keyboard Worker_ (or _Keyboard Warrior_).
-[![ladyStatue10_gimp4.md.png](https://cdn.scrot.moe/images/2017/12/24/ladyStatue10_gimp4.md.png)](https://cdn.scrot.moe/images/2017/12/24/ladyStatue10_gimp4.png)
-[![ladyStatue13_sheep_gimp_nr2.md.png](https://cdn.scrot.moe/images/2017/12/25/ladyStatue13_sheep_gimp_nr2.md.png)](https://cdn.scrot.moe/images/2017/12/25/ladyStatue13_sheep_gimp_nr2.png)
-[![ladyStatue14_sheep_gimp2.md.png](https://cdn.scrot.moe/images/2017/12/25/ladyStatue14_sheep_gimp2.md.png)](https://cdn.scrot.moe/images/2017/12/25/ladyStatue14_sheep_gimp2.png)
+[![ladyStatue10_gimp4.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/12/24/ladyStatue10_gimp4.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/12/24/ladyStatue10_gimp4.png)
+[![ladyStatue13_sheep_gimp_nr2.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/12/25/ladyStatue13_sheep_gimp_nr2.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/12/25/ladyStatue13_sheep_gimp_nr2.png)
+[![ladyStatue14_sheep_gimp2.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/12/25/ladyStatue14_sheep_gimp2.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/12/25/ladyStatue14_sheep_gimp2.png)
 
 Attribution: [Apple wireless keyboard model](https://www.blendswap.com/blends/view/89423) is released under Creative Commons Attribution 3.0 by keeslaff.
 

@@ -13,7 +13,7 @@ tags: misc
     convert senn.jpg -resize 1x1 -format '%[fx:int(255*r)],%[fx:int(255*g)],%[fx:int(255*b)]' info:-
     65,103,194
     
-[![scrot03116.th.png](https://cdn.scrot.moe/images/2017/07/10/scrot03116.th.png)](https://cdn.scrot.moe/images/2017/07/10/scrot03116.png)
+[![scrot03116.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/07/10/scrot03116.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/07/10/scrot03116.png)
     
 Gpick *tools/pallete from image* generates similar results (colors=1)
 

@@ -8,7 +8,7 @@ tags:
   - mine
   - bash
 ---
-[![urxvtRndColorBG.md.png](https://cdn.scrot.moe/images/2019/01/09/urxvtRndColorBG.md.png)](https://cdn.scrot.moe/images/2019/01/09/urxvtRndColorBG.png)
+[![urxvtRndColorBG.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2019/01/09/urxvtRndColorBG.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2019/01/09/urxvtRndColorBG.png)
 
     #!/bin/bash
 

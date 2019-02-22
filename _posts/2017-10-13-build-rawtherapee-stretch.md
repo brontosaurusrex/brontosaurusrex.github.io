@@ -17,4 +17,4 @@ tags: linux
 
 This will take quite some time and ram and all the cpu.
 
-[![scrot09550.md.png](https://cdn.scrot.moe/images/2017/10/13/scrot09550.md.png)](https://cdn.scrot.moe/images/2017/10/13/scrot09550.png)
+[![scrot09550.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/10/13/scrot09550.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/10/13/scrot09550.png)

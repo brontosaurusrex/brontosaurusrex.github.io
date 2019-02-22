@@ -30,4 +30,4 @@ Openbox keybind
       </action>
     </keybind>
     
-[![rtile.md.png](https://cdn.scrot.moe/images/2019/01/17/rtile.md.png)](https://scrot.moe/image/aGvNZ)
+[![rtile.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2019/01/17/rtile.md.png)](https://scrot.moe/image/aGvNZ)

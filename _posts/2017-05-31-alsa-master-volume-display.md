@@ -34,9 +34,9 @@ Middle mouse click will toggle mute.
 [https://forums.bunsenlabs.org/viewtopic.php?pid=52826#p52826](https://forums.bunsenlabs.org/viewtopic.php?pid=52826#p52826)  
 [https://gitlab.com/o9000/tint2/blob/master/doc/tint2.md#executor](https://gitlab.com/o9000/tint2/blob/master/doc/tint2.md#executor)
 
-[![printVolumeTint2Slider.th.png](https://cdn.scrot.moe/images/2017/05/31/printVolumeTint2Slider.th.png)](https://cdn.scrot.moe/images/2017/05/31/printVolumeTint2Slider.png)
-[![printVol2.th.png](https://cdn.scrot.moe/images/2017/05/31/printVol2.th.png)](https://cdn.scrot.moe/images/2017/05/31/printVol2.png)
-[![2017-06-02-175339_1920x1200_scrot.th.png](https://cdn.scrot.moe/images/2017/06/02/2017-06-02-175339_1920x1200_scrot.th.png)](https://cdn.scrot.moe/images/2017/06/02/2017-06-02-175339_1920x1200_scrot.png)
+[![printVolumeTint2Slider.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/05/31/printVolumeTint2Slider.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/05/31/printVolumeTint2Slider.png)
+[![printVol2.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/05/31/printVol2.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/05/31/printVol2.png)
+[![2017-06-02-175339_1920x1200_scrot.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/06/02/2017-06-02-175339_1920x1200_scrot.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/06/02/2017-06-02-175339_1920x1200_scrot.png)
 
 changelog: Changed all the logic to continous, thanks to tint2 developer o9000.
 

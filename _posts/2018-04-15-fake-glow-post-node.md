@@ -7,6 +7,6 @@ tags:
   - blender
   - mine
 ---
-![https://cdn.scrot.moe/images/2018/04/15/fakeglowPostNode.png](https://cdn.scrot.moe/images/2018/04/15/fakeglowPostNode.png)
+![https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/04/15/fakeglowPostNode.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/04/15/fakeglowPostNode.png)
 
 Shiny material as base, filmic render (base contrast). 

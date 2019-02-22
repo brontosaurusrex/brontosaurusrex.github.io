@@ -10,4 +10,4 @@ tags: blender
 ![2018-01-03-200225_1920x1200_scrot.png]({{site.baseurl}}/media/2018-01-03-200225_1920x1200_scrot.png)
 
 My try  
-[![runningMan12.md.png](https://cdn.scrot.moe/images/2018/01/03/runningMan12.md.png)](https://cdn.scrot.moe/images/2018/01/03/runningMan12.png)
+[![runningMan12.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/01/03/runningMan12.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/01/03/runningMan12.png)

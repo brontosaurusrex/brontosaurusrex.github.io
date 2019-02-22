@@ -8,4 +8,4 @@ tags: linux
 [https://solus-project.com/2017/08/15/solus-3-released/](https://solus-project.com/2017/08/15/solus-3-released/)
 
 New dock mode  
-[![solus3.md.png](https://cdn.scrot.moe/images/2017/08/22/solus3.md.png)](https://cdn.scrot.moe/images/2017/08/22/solus3.png)
+[![solus3.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/08/22/solus3.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/08/22/solus3.png)

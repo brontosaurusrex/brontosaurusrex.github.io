@@ -9,7 +9,7 @@ tags: cli
 
     telnet mapscii.me
     
-[![mapscii.th.png](https://cdn.scrot.moe/images/2017/05/11/mapscii.th.png)](https://cdn.scrot.moe/images/2017/05/11/mapscii.png)
+[![mapscii.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/05/11/mapscii.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/05/11/mapscii.png)
 
 If installing localy you will probably want nodejs 6 (not 7) at this point in time.
 

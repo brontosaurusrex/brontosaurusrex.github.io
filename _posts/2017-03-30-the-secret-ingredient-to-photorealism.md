@@ -16,7 +16,7 @@ tags: video blender
 ![](https://s3.amazonaws.com/blenderguru.com/uploads/2017/02/29089698821_9b865a6cb5_o-673x674.jpg)
 
 Quick test  
-[![filmicLogEncodingBase.th.png](https://cdn.scrot.moe/images/2017/03/30/filmicLogEncodingBase.th.png)](https://cdn.scrot.moe/images/2017/03/30/filmicLogEncodingBase.png)
+[![filmicLogEncodingBase.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/03/30/filmicLogEncodingBase.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/03/30/filmicLogEncodingBase.png)
 
 Not sure if there is any difference compared to rendering to fullrange exr and doing post in modern photoshop/gimp (What I have been doing till now). It might be usefull to use that as a presentation/preview render thought, but I would like my film-looks back.
 
