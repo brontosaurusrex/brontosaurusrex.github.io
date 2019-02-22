@@ -18,3 +18,7 @@ tags:
     # sed -i 's/foo/bar/g' *
 
     sed -i 's/https:\/\/cdn.scrot.moe/https:\/\/images.weserv.nl\/?url=\/\/cdn.scrot.moe/g' *.md
+    
+According to git:
+    
+    170 files changed, 452 insertions(+), 432 deletions(-)
