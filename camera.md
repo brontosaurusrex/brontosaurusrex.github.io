@@ -11,7 +11,7 @@ published: true
   <thead>
     <tr>
       <th>Model</th>
-      <th>35mm sensor size (24 mm × 36 mm)</th>
+      <th>Full frame (36 x 24 mm) or Super35 sensor size (25 x 19 mm)</th>
       <th>Hasn’t got a rolling shutter problem</th>
       <th>RAW/log mode</th>
       <th>4:2:2</th>
@@ -28,7 +28,7 @@ published: true
   <tbody>
     <tr>
       <td>Canon 7d</td>
-      <td>true</td>
+      <td>close to Super35 (22.3 × 14.9 mm) CMOS</td>
       <td>false</td>
       <td>6s quasi-raw with firmware change</td>
       <td>false</td>
@@ -43,7 +43,7 @@ published: true
     </tr>
     <tr>
       <td>Sony Alpha a7S</td>
-      <td>true</td>
+      <td>full frame (35.6mm x 23.8mm)</td>
       <td>false</td>
       <td>S-Log2/3</td>
       <td>Not internally, 4k 4:2:2 via hdmi</td>
