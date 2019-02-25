@@ -14,3 +14,6 @@ tags: bash linux
 [Flame bash script](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/flame).
 
 [There is no debate.](https://forums.bunsenlabs.org/viewtopic.php?id=5628)
+
+Some gimping  
+[![flame_109123899_gimp4.th.png](https://cdn.scrot.moe/images/2019/02/25/flame_109123899_gimp4.th.png)](https://scrot.moe/image/atkU0) [![flame_1807221468_animal_gimp2.th.png](https://cdn.scrot.moe/images/2019/02/25/flame_1807221468_animal_gimp2.th.png)](https://scrot.moe/image/atT6A)
