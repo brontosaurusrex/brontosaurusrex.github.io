@@ -13,4 +13,4 @@ tags: bash linux
 
 [Flame bash script](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/flame).
 
-[Debate.](https://forums.bunsenlabs.org/viewtopic.php?id=5628)
+[There is no debate.](https://forums.bunsenlabs.org/viewtopic.php?id=5628)
