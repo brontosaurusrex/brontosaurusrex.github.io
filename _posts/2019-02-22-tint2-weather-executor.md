@@ -28,3 +28,5 @@ Simpler looking version
 Might return
 
     ☀️ +5°C
+
+Note: Data/temperature from wttr.in is wrong.
