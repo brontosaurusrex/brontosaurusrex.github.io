@@ -17,3 +17,4 @@ tags: bash linux
 
 Some gimping  
 [![flame_109123899_gimp4.th.png](https://cdn.scrot.moe/images/2019/02/25/flame_109123899_gimp4.th.png)](https://scrot.moe/image/atkU0) [![flame_1807221468_animal_gimp2.th.png](https://cdn.scrot.moe/images/2019/02/25/flame_1807221468_animal_gimp2.th.png)](https://scrot.moe/image/atT6A)
+[![flame_1656114610_gimp2.th.png](https://cdn.scrot.moe/images/2019/02/26/flame_1656114610_gimp2.th.png)](https://scrot.moe/image/atR7b) [![flame_2034821992_gimp.th.png](https://cdn.scrot.moe/images/2019/02/26/flame_2034821992_gimp.th.png)](https://scrot.moe/image/atUIL)
