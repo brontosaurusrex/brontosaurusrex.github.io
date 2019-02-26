@@ -27,4 +27,4 @@ For some sort of final quality, it appears that resolution must be at least 3x t
     3440*1440 * 3 = 10320x4320
     and supersample="3"
 
-the enable mogrify for downscaling.
+And enable mogrify for downscaling.
