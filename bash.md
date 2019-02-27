@@ -82,9 +82,13 @@ echo "Uh oh. Something went really bad.." >&2
 
     randomword()  {
         dict="/usr/share/dict/words"
-        word=$(shuf -n1 "$dict" | tr -dc '[:alnum:]\n\r' | tr '[:upper:]' '[:lower:]')
-        # if dict gets us null length then replace with something else
-        [ -z "$word" ] && word="$RANDOM"
+        if [ -f "$dict" ]; then
+            word=$(shuf -n1 "$dict" | tr -dc '[:alnum:]\n\r' | tr '[:upper:]' '[:lower:]')
+            # if dict gets us null length then replace with something else
+            [ -z "$word" ] && word="$RANDOM"
+        else # there is no dict file
+            word="$RANDOM"
+        fi
         echo "$word"
     }
     word=$(randomword)
