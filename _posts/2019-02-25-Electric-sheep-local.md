@@ -6,9 +6,7 @@ title: Flame, your personal electric sheep wallpaper generator
 tags: bash linux
 ---
 [![flamesheep.th.png](https://cdn.scrot.moe/images/2019/02/25/flamesheep.th.png)](https://cdn.scrot.moe/images/2019/02/25/flamesheep.png)
-
 [![flame_2170131666.th.png](https://cdn.scrot.moe/images/2019/02/25/flame_2170131666.th.png)](https://scrot.moe/image/at7ua)
-
 [![flame_98352037_3440x1440.md.jpg](https://cdn.scrot.moe/images/2019/02/25/flame_98352037_3440x1440.md.jpg)](https://scrot.moe/image/atCEX)
 [![flame_28287154.md.jpg](https://cdn.scrot.moe/images/2019/02/26/flame_28287154.md.jpg)](https://scrot.moe/image/atfIU)
 
