@@ -9,6 +9,7 @@ tags: bash linux
 [![flame_2170131666.th.png](https://cdn.scrot.moe/images/2019/02/25/flame_2170131666.th.png)](https://scrot.moe/image/at7ua)
 [![flame_98352037_3440x1440.md.jpg](https://cdn.scrot.moe/images/2019/02/25/flame_98352037_3440x1440.md.jpg)](https://scrot.moe/image/atCEX)
 [![flame_28287154.md.jpg](https://cdn.scrot.moe/images/2019/02/26/flame_28287154.md.jpg)](https://scrot.moe/image/atfIU)
+[![flame_190227-1913_12624.md.jpg](https://cdn.scrot.moe/images/2019/03/01/flame_190227-1913_12624.md.jpg)](https://scrot.moe/image/aOyF3)
 
 [Flame bash script](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/flame).
 
