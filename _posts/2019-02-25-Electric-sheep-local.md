@@ -27,3 +27,7 @@ For some sort of final quality, it appears that resolution must be at least 3x t
     and supersample="3"
 
 And enable mogrify for downscaling.
+
+## GUI apps
+
+[jwildfire](http://www.andreas-maschke.com/?page_id=351) (excellent, java)
