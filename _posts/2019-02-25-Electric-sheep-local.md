@@ -30,4 +30,4 @@ And enable mogrify for downscaling.
 
 ## GUI apps
 
-[jwildfire](http://www.andreas-maschke.com/?page_id=351) (excellent, java)
+[jwildfire](http://www.andreas-maschke.com/?page_id=351) (excellent, java) Flowers3d and spherical are the two presets worth checking.
