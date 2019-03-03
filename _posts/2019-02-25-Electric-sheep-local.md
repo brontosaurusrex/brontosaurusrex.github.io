@@ -34,6 +34,7 @@ And enable mogrify for downscaling.
 [![circular_q1000_gimp4.th.png](https://cdn.scrot.moe/images/2019/03/02/circular_q1000_gimp4.th.png)](https://scrot.moe/image/aZgSv)
 [![ray_e_01.th.png](https://cdn.scrot.moe/images/2019/03/03/ray_e_01.th.png)](https://scrot.moe/image/aZKYa) [![ray_d_04.th.png](https://cdn.scrot.moe/images/2019/03/03/ray_d_04.th.png)](https://scrot.moe/image/aZzDN) [![ray_b_02.th.png](https://cdn.scrot.moe/images/2019/03/03/ray_b_02.th.png)](https://scrot.moe/image/aZGTX)
 [![ray_g_04.th.png](https://cdn.scrot.moe/images/2019/03/03/ray_g_04.th.png)](https://scrot.moe/image/aZD5W) [![ray_f_03.th.png](https://cdn.scrot.moe/images/2019/03/03/ray_f_03.th.png)](https://scrot.moe/image/aZqYZ) [![ray_g2_04.th.png](https://cdn.scrot.moe/images/2019/03/03/ray_g2_04.th.png)](https://scrot.moe/image/aZtE2)
+[![ray_II_03.th.png](https://cdn.scrot.moe/images/2019/03/03/ray_II_03.th.png)](https://scrot.moe/image/aZT6Q)
 
 ## Fermi paradox explained (Bubbles3d)
 [![planet_b_06.th.png](https://cdn.scrot.moe/images/2019/03/03/planet_b_06.th.png)](https://scrot.moe/image/aZobm) [![alien_02.th.png](https://cdn.scrot.moe/images/2019/03/03/alien_02.th.png)](https://scrot.moe/image/aZn7U)
