@@ -12,5 +12,4 @@ title: Cube volume
     2*2*2=8
     3*3*3=27
 
-
-
+[https://www.desmos.com/calculator/htaujimo8v](https://www.desmos.com/calculator/htaujimo8v)
