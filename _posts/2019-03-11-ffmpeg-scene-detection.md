@@ -33,7 +33,7 @@ More complex, but fails badly on dark video ...
                -filter:v "select='gt(scene\,0.3)',showinfo" \
                -f null \
                - 2>&1 | tee "$tmp/all.txt"
-               
+        
         grep showinfo "$tmp/all.txt" | grep pts_time:[0-9.]* -o | grep [0-9.]* -o | tee "$tmp/greped.txt"
 
         # get fps?
@@ -43,3 +43,12 @@ More complex, but fails badly on dark video ...
 
     shift
     done 
+    
+Even more complex version (detection is the same), that will produce a lil timeline/stats like
+
+    /media/b/data/trailers/Captain.mkv timeline
+    ||------------|----|-----|----|----|||||||||||||||----|-|--|--|-|-||||||||||||||---|----|--|-|-|-|||-|---|--|---|--|-|-|-|-|||||||||-|-|-||-----|-|-|--|-|-|-|--|-||||---|-||-|||-||-|-|-||||-|--|--||--||||
+    average clip length: 1.06221 seconds
+    103 clips, 1 min 56 s 641 ms
+
+[https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/sceneDetection](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/sceneDetection)
