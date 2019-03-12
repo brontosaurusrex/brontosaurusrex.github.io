@@ -24,4 +24,7 @@ And the first page
 VANNEVAR BUSH [JULY 1945 ISSUE](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)  
 > The world has arrived at an age of cheap complex devices of great reliability; and something is bound to come of it.
 
-
+More  
+[https://www.w3.org/History/19921103-hypertext/hypertext/WWW/DesignIssues/Overview.html](https://www.w3.org/History/19921103-hypertext/hypertext/WWW/DesignIssues/Overview.html)  
+[https://www.w3.org/People/Berners-Lee/FAQ.html](https://www.w3.org/People/Berners-Lee/FAQ.html)  
+ 
