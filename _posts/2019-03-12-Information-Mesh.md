@@ -6,16 +6,16 @@ title: As We May Think
 tags: web 
 ---
 ## Large hypertext database with typed links
-> Berners-Lee wrote a proposal in March 1989 for "a large hypertext database with typed links".[7] Although the proposal attracted little interest, Berners-Lee was encouraged by his boss, Mike Sendall, to begin implementing his system on a newly acquired NeXT workstation.[8] He considered several names, including Information Mesh,[7] The Information Mine or Mine of Information, but settled on World Wide Web.[9]
+> Berners-Lee wrote a proposal in March 1989 for "a large hypertext database with typed links". Although the proposal attracted little interest, Berners-Lee was encouraged by his boss, Mike Sendall, to begin implementing his system on a newly acquired NeXT workstation. He considered several names, including Information Mesh, The Information Mine or Mine of Information, but settled on World Wide Web.
 
-> By Christmas 1990, Berners-Lee had built all the tools necessary for a working Web: the HyperText Transfer Protocol (HTTP) 0.9,[11] the HyperText Markup Language (HTML), the first Web browser (named WorldWideWeb, which was also a Web editor)
+> By Christmas 1990, Berners-Lee had built all the tools necessary for a working Web: the HyperText Transfer Protocol (HTTP) 0.9, the HyperText Markup Language (HTML), the first Web browser (named WorldWideWeb, which was also a Web editor)
 
 Web was originally [read-write](http://info.cern.ch/NextBrowser.html).
 
 ![next browser](http://info.cern.ch/images/NextEditorBW.gif)  
 [https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
 
-> I just had to take the hypertext idea and connect it to the Transmission Control Protocol and domain name system ideas and—ta-da!—the World Wide Web[33] ... Creating the web was really an act of desperation, because the situation without it was very difficult when I was working at CERN later. Most of the technology involved in the web, like the hypertext, like the internet, multifont text objects, had all been designed already. I just had to put them together. It was a step of generalising, going to a higher level of abstraction, thinking about all the documentation systems out there as being possibly part of a larger imaginary documentation system.
+> I just had to take the hypertext idea and connect it to the Transmission Control Protocol and domain name system ideas and—ta-da!—the World Wide Web ... Creating the web was really an act of desperation, because the situation without it was very difficult when I was working at CERN later. Most of the technology involved in the web, like the hypertext, like the internet, multifont text objects, had all been designed already. I just had to put them together. It was a step of generalising, going to a higher level of abstraction, thinking about all the documentation systems out there as being possibly part of a larger imaginary documentation system.
 
 [https://en.wikipedia.org/wiki/Tim_Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
 
