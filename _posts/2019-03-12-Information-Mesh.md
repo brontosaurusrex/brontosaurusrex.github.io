@@ -21,8 +21,8 @@ Web was originally [read-write](http://info.cern.ch/NextBrowser.html).
 And the first page  
 [http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html)
 
-VANNEVAR BUSH [JULY 1945 ISSUE](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)  
 > The world has arrived at an age of cheap complex devices of great reliability; and something is bound to come of it.
+VANNEVAR BUSH [JULY 1945 ISSUE](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)  
 
 More  
 [https://www.w3.org/History/19921103-hypertext/hypertext/WWW/DesignIssues/Overview.html](https://www.w3.org/History/19921103-hypertext/hypertext/WWW/DesignIssues/Overview.html)  
