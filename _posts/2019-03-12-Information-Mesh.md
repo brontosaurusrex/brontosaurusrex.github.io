@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2019-03-12 18:28'
-title: Information Mesh
+title: As We May Think
 tags: web 
 ---
 ## Large hypertext database with typed links
