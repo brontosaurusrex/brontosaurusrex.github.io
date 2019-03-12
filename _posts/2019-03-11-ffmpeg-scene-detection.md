@@ -21,6 +21,6 @@ More complex version (detection is the same), that shall produce a lil timeline/
 
 Note: ffmpeg scene detection filter fails prety much every time, needs replacement with something better.
 
-Update: The old way, abusing x264 debug info, unfortunately the results are in frames
+Update: The [old way](https://github.com/brontosaurusrex/stretchbang/blob/master/.experiments/bin/scriptFFdropSceneDetection), abusing x264 debug info, unfortunately the results are in frames
 
     ffmpeg -i "$file" -vf scale=100:100 -sws_flags neighbor -an -pix_fmt yuv420p -f yuv4mpegpipe - 2>/dev/null | x264 - --demuxer y4m --bframes 0 --min-keyint 10 --scenecut 45 --preset superfast --crf 30 --threads 1 -v --output /dev/null 2>&1 | grep scene
