@@ -9,9 +9,17 @@ tags: web
 
 > By Christmas 1990, Berners-Lee had built all the tools necessary for a working Web: the HyperText Transfer Protocol (HTTP) 0.9,[11] the HyperText Markup Language (HTML), the first Web browser (named WorldWideWeb, which was also a Web editor)
 
-Web was originally read-write.
-
+Web was originally read-write.  
 [https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
+
+> I just had to take the hypertext idea and connect it to the Transmission Control Protocol and domain name system ideas and—ta-da!—the World Wide Web[33] ... Creating the web was really an act of desperation, because the situation without it was very difficult when I was working at CERN later. Most of the technology involved in the web, like the hypertext, like the internet, multifont text objects, had all been designed already. I just had to put them together. It was a step of generalising, going to a higher level of abstraction, thinking about all the documentation systems out there as being possibly part of a larger imaginary documentation system.
+
+[https://en.wikipedia.org/wiki/Tim_Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
+
+> Berners-Lee is one of the pioneer voices in favour of [net neutrality](https://en.wikipedia.org/wiki/Net_neutrality), and has expressed the view that ISPs should supply "connectivity with no strings attached", and should neither control nor monitor the browsing activities of customers without their expressed consent.
+
+And the first page  
+[http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html)
 
 And a Gopher server  
 [http://gopher.quux.org:70/](http://gopher.quux.org:70/)
