@@ -37,6 +37,9 @@ More
 
 > In 1992, Lynx was born as an early Internet web browser. Its ability to provide hypertext links within documents that could reach into documents anywhere on the Internet began the creation of the Web on the Internet.
 
+    # Still kicking in 2019
+    lynx -nocolor -use-mouse https://brontosaurusrex.github.io/2019/03/12/Information-Mesh/
+
 > In 1995, Ward Cunningham made the first wiki available, making the Web more hypertextual by adding easy editing, and (within a single wiki) backlinks and limited [source tracking](https://en.wikipedia.org/wiki/Source_tracking). It also added the innovation of making it possible to link to pages that did not yet exist.
 
 > The Firefox Add-On Hyperwords which has been developed in cooperation with Doug Engelbart and Ted Nelson gives Web surfers the ability to issue many commands on any text on the web, not only pre-written links—a return to what users could do 40 years earlier with Doug Engelbart's NLS.
