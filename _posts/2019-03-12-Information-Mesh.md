@@ -25,7 +25,9 @@ And the first page
 
 > The world has arrived at an age of cheap complex devices of great reliability; and something is bound to come of it.
 
-Vannevar Bush [july 1945 issue](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)  
+Vannevar Bush [july 1945 issue](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
+
+> [The memex](https://en.wikipedia.org/wiki/Memex) would provide an "enlarged intimate supplement to one's memory". The concept of the memex influenced the development of early hypertext systems (eventually leading to the creation of the World Wide Web) and personal knowledge base software. The hypothetical implementation depicted by Bush for the purpose of concrete illustration was based upon a document bookmark list of static microfilm pages and lacked a true hypertext system, where parts of pages would have internal structure beyond the common textual format. Early electronic hypertext systems were thus inspired by memex rather than modeled directly upon it.
 
 More  
 [https://www.w3.org/History/19921103-hypertext/hypertext/WWW/DesignIssues/Overview.html](https://www.w3.org/History/19921103-hypertext/hypertext/WWW/DesignIssues/Overview.html)  
