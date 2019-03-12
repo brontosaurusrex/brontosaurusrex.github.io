@@ -29,6 +29,20 @@ More
 [https://www.w3.org/People/Berners-Lee/FAQ.html](https://www.w3.org/People/Berners-Lee/FAQ.html)  
 ^ Note the weird html source of this pages (missing head, body tags)
 
+## Hypertext
+
+> Starting in 1963, Ted Nelson developed a model for creating and using linked content he called "hypertext" and "hypermedia" (first published reference 1965)
+
+> 1968, Engelbart demonstrated a hypertext interface to the public for the first time, in what has come to be known as "The Mother of All Demos".
+
+> In 1992, Lynx was born as an early Internet web browser. Its ability to provide hypertext links within documents that could reach into documents anywhere on the Internet began the creation of the Web on the Internet.
+
+> In 1995, Ward Cunningham made the first wiki available, making the Web more hypertextual by adding easy editing, and (within a single wiki) backlinks and limited [source tracking](https://en.wikipedia.org/wiki/Source_tracking). It also added the innovation of making it possible to link to pages that did not yet exist.
+
+> The Firefox Add-On Hyperwords which has been developed in cooperation with Doug Engelbart and Ted Nelson gives Web surfers the ability to issue many commands on any text on the web, not only pre-written links—a return to what users could do 40 years earlier with Doug Engelbart's NLS.
+
+[https://en.wikipedia.org/wiki/History_of_hypertext](https://en.wikipedia.org/wiki/History_of_hypertext)
+
 ## As We May Think
 
 > The world has arrived at an age of cheap complex devices of great reliability; and something is bound to come of it.
