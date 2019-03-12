@@ -5,6 +5,7 @@ date: '2019-03-12 18:28'
 title: Information Mesh
 tags: web 
 ---
+## Large hypertext database with typed links
 > Berners-Lee wrote a proposal in March 1989 for "a large hypertext database with typed links".[7] Although the proposal attracted little interest, Berners-Lee was encouraged by his boss, Mike Sendall, to begin implementing his system on a newly acquired NeXT workstation.[8] He considered several names, including Information Mesh,[7] The Information Mine or Mine of Information, but settled on World Wide Web.[9]
 
 > By Christmas 1990, Berners-Lee had built all the tools necessary for a working Web: the HyperText Transfer Protocol (HTTP) 0.9,[11] the HyperText Markup Language (HTML), the first Web browser (named WorldWideWeb, which was also a Web editor)
@@ -23,13 +24,18 @@ Web was originally [read-write](http://info.cern.ch/NextBrowser.html).
 And the first page  
 [http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html)
 
+More  
+[https://www.w3.org/History/19921103-hypertext/hypertext/WWW/DesignIssues/Overview.html](https://www.w3.org/History/19921103-hypertext/hypertext/WWW/DesignIssues/Overview.html)  
+[https://www.w3.org/People/Berners-Lee/FAQ.html](https://www.w3.org/People/Berners-Lee/FAQ.html)  
+^ Note the weird html source of this pages (missing head, body tags)
+
+## As We May Think
+
 > The world has arrived at an age of cheap complex devices of great reliability; and something is bound to come of it.
 
 Vannevar Bush [july 1945 issue](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 
 > [The memex](https://en.wikipedia.org/wiki/Memex) would provide an "enlarged intimate supplement to one's memory". The concept of the memex influenced the development of early hypertext systems (eventually leading to the creation of the World Wide Web) and personal knowledge base software. The hypothetical implementation depicted by Bush for the purpose of concrete illustration was based upon a document bookmark list of static microfilm pages and lacked a true hypertext system, where parts of pages would have internal structure beyond the common textual format. Early electronic hypertext systems were thus inspired by memex rather than modeled directly upon it.
 
-More  
-[https://www.w3.org/History/19921103-hypertext/hypertext/WWW/DesignIssues/Overview.html](https://www.w3.org/History/19921103-hypertext/hypertext/WWW/DesignIssues/Overview.html)  
-[https://www.w3.org/People/Berners-Lee/FAQ.html](https://www.w3.org/People/Berners-Lee/FAQ.html)  
+ 
  
