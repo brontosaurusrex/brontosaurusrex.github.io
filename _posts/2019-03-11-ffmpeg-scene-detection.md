@@ -45,3 +45,28 @@ Ffmpeg only version, still abusing x264 (unclear on how to pass parameters to x2
     552
     
 Increasing detection threshold with -sc_threshold 90 might detect fade-in/fade-out situations, but will also place I frames in the middle of long shots.
+
+    diff -y Captain.txt Captain90.txt 
+    1                                 | 2
+    36                                  36
+                                      > 57
+                                      > 59
+    63                                  63
+    534                               | 269
+                                      > 397
+                                      > 505
+                                      > 601
+    611                                 611
+                                      > 711
+    720                                 720
+                                      > 723
+                                      > 726
+    729                                 729
+                                      > 732
+                                      > 735
+    738                                 738
+    842                                 842
+    854                                 854
+                                      > 856
+    901                                 901
+                                      > 950
