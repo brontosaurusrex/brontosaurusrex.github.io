@@ -25,7 +25,7 @@ Update: The [old way](https://github.com/brontosaurusrex/stretchbang/blob/master
 
     ffmpeg -i "$file" -vf scale=100:100 -sws_flags neighbor -an -pix_fmt yuv420p -f yuv4mpegpipe - 2>/dev/null | x264 - --demuxer y4m --bframes 0 --min-keyint 10 --scenecut 45 --preset superfast --crf 30 --threads 1 -v --output /dev/null 2>&1 | grep scene
     
-Ffmpeg only version, still abusing x264
+Ffmpeg only version, still abusing x264 (unclear on how to pass parameters to x264, -preset ultrafast not working for example)
 
     ffmpeg -v debug -an -i "$file" -vf scale=100:100 -sws_flags neighbor -c:v libx264 -f null - 2>&1 | grep "scene cut at" | cut -d ' ' -f 7
     
