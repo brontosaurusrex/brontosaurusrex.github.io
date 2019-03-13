@@ -27,7 +27,7 @@ Update: The [old way](https://github.com/brontosaurusrex/stretchbang/blob/master
     
 Ffmpeg only version, still abusing x264 (unclear on how to pass parameters to x264, -preset ultrafast not working for example)
 
-    ffmpeg -v debug -an -i "$file" -vf scale=100:100 -sws_flags neighbor -c:v libx264 -f null - 2>&1 | grep "scene cut at" | cut -d ' ' -f 7
+    ffmpeg -v debug -an -i "$file" -vf scale=100:100 -sws_flags neighbor -c:v libx264 -f null - 2>&1 | grep "scene cut at" | cut -d ' ' -f 7 | uniq
     
     43
     78
@@ -43,3 +43,4 @@ Ffmpeg only version, still abusing x264 (unclear on how to pass parameters to x2
     465
     494
     552
+    
