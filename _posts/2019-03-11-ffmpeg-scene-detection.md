@@ -44,3 +44,4 @@ Ffmpeg only version, still abusing x264 (unclear on how to pass parameters to x2
     494
     552
     
+Increasing detection threshold with -sc_threshold 90 might detect fade-in/fade-out situations, but will also place I frames in the middle of long shots.
