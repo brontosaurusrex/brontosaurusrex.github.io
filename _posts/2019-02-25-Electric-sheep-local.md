@@ -38,3 +38,6 @@ And enable mogrify for downscaling.
 
 ## Fermi paradox explained (Bubbles3d)
 [![planet_b_06.th.png](https://cdn.scrot.moe/images/2019/03/03/planet_b_06.th.png)](https://scrot.moe/image/aZobm) [![alien_02.th.png](https://cdn.scrot.moe/images/2019/03/03/alien_02.th.png)](https://scrot.moe/image/aZn7U)
+
+## Nice one
+[https://www.deviantart.com/capn-damo/art/Electron-Kiss-01-790065218](https://www.deviantart.com/capn-damo/art/Electron-Kiss-01-790065218)
