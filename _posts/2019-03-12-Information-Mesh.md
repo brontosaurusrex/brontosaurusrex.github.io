@@ -46,6 +46,14 @@ More
 
 [https://en.wikipedia.org/wiki/History_of_hypertext](https://en.wikipedia.org/wiki/History_of_hypertext)
 
+> Berners-Lee’s links were designed to be one-way, unlike the two way hyperlinks first suggested by Ted Nelson. In Nelson’s ongoing Project Xanadu, “links must be bivisible and bifollowable,” says Barnet, “capable of being seen and followed from the destination document as well as the originating document.” And Nelson went further, with a method of citing text or media by integrating parts of the original into the first ‘window’ or ‘document’, something he refers to as a “parallel presentation” in Werner Herzog’s documentary Lo and Behold: Reveries of the Connected World. These were hyperlinked so that the user could click through to get the full context with a mechanism for micropayments to the original author.
+
+> The Semantic Web, first proposed by Berners-Lee in 1994, moves away from 20th-century ideas of interlinked documents and pages towards a web of data, that can be processed by machines.. Barnet similarly suggests a “more intelligent linking system”, something she says the Semantic Web is seeking to rectify: “Is there a more efficient way of linking that could identify content by what it is, not just where it is?”
+
+[https://www.wired.co.uk/article/google-link-hyperlink-seo](https://www.wired.co.uk/article/google-link-hyperlink-seo)
+
+[Memory machines](https://www.cambridge.org/core/books/memory-machines/3020E1AC5BB9D4AD640CA1E2D7509418)
+
 ## As We May Think
 
 > The world has arrived at an age of cheap complex devices of great reliability; and something is bound to come of it.
