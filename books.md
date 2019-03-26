@@ -77,3 +77,13 @@ Anekdotes, but the main idea is 'how to think about things'.
 > HAL’s red eye was actually a Nikon 8-millimeter wide-angle lens lit from behind.
 
 > On hearing that they still hadn’t figured out how HAL could overhear them, Lyndon looked at Dullea and Lockwood as though it was the most obvious thing in the world. “He could just read your lips,” he said. There was a moment of thunderstruck silence. “God, that’s a great idea!” Kubrick exclaimed. They had their answer.
+
+## Memory Machines - The Evolution of Hypertext (Belinda Barnet)
+
+> [Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) believes that human beings live within an existing technical and
+cultural system, an ‘augmentation’ system. We are born with a particular set
+of genetic capabilities, and then we build on these innate capabilities using
+tools, techniques, skills, language and technology. There is no ‘naked ape’;
+from the moment we are born we are always already augmented by language,
+tools and technologies. This augmentation system defines the limits of what is
+possible for us as a species.

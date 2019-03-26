@@ -52,8 +52,6 @@ More
 
 [https://www.wired.co.uk/article/google-link-hyperlink-seo](https://www.wired.co.uk/article/google-link-hyperlink-seo)
 
-[Memory machines](https://www.cambridge.org/core/books/memory-machines/3020E1AC5BB9D4AD640CA1E2D7509418)
-
 ## As We May Think
 
 > The world has arrived at an age of cheap complex devices of great reliability; and something is bound to come of it.
@@ -62,5 +60,12 @@ Vannevar Bush [july 1945 issue](https://www.theatlantic.com/magazine/archive/194
 
 > [The memex](https://en.wikipedia.org/wiki/Memex) would provide an "enlarged intimate supplement to one's memory". The concept of the memex influenced the development of early hypertext systems (eventually leading to the creation of the World Wide Web) and personal knowledge base software. The hypothetical implementation depicted by Bush for the purpose of concrete illustration was based upon a document bookmark list of static microfilm pages and lacked a true hypertext system, where parts of pages would have internal structure beyond the common textual format. Early electronic hypertext systems were thus inspired by memex rather than modeled directly upon it.
 
+> [Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) believes that human beings live within an existing technical and
+cultural system, an ‘augmentation’ system. We are born with a particular set
+of genetic capabilities, and then we build on these innate capabilities using
+tools, techniques, skills, language and technology. There is no ‘naked ape’;
+from the moment we are born we are always already augmented by language,
+tools and technologies. This augmentation system defines the limits of what is
+possible for us as a species.
  
- 
+[Memory machines](https://www.cambridge.org/core/books/memory-machines/3020E1AC5BB9D4AD640CA1E2D7509418)
