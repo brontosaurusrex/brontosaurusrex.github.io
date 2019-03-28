@@ -35,6 +35,8 @@ More
 
 > 1968, Engelbart demonstrated a hypertext interface to the public for the first time, in what has come to be known as "The Mother of All Demos".
 
+![early mice](https://upload.wikimedia.org/wikipedia/commons/c/cc/SRI_Computer_Mouse.jpg)
+
 > In 1992, Lynx was born as an early Internet web browser. Its ability to provide hypertext links within documents that could reach into documents anywhere on the Internet began the creation of the Web on the Internet.
 
     # Still kicking in 2019
