@@ -75,8 +75,6 @@ Quoted from [Memory machines](https://www.cambridge.org/core/books/memory-machin
 
 > To Nelson’s dismay, Xanadu has (unfairly) been hailed as ‘the longest-running vaporware project in the history of computing’ (Wolf 1995). 
 
-> Nelson is often accused of hand waving and lucid dreaming, but
-Xanadu has nonetheless become the most important vision in the history of
-computing.
+> Nelson is often accused of hand waving and lucid dreaming, but Xanadu has nonetheless become the most important vision in the history of computing.
 
 Quoted from [Memory machines](https://www.cambridge.org/core/books/memory-machines/3020E1AC5BB9D4AD640CA1E2D7509418)
