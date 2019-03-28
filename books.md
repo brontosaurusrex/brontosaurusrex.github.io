@@ -80,10 +80,6 @@ Anekdotes, but the main idea is 'how to think about things'.
 
 ## Memory Machines - The Evolution of Hypertext (Belinda Barnet)
 
-> [Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) believes that human beings live within an existing technical and
-cultural system, an ‘augmentation’ system. We are born with a particular set
-of genetic capabilities, and then we build on these innate capabilities using
-tools, techniques, skills, language and technology. There is no ‘naked ape’;
-from the moment we are born we are always already augmented by language,
-tools and technologies. This augmentation system defines the limits of what is
-possible for us as a species.
+> [Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) believes that human beings live within an existing technical and cultural system, an ‘augmentation’ system. We are born with a particular set of genetic capabilities, and then we build on these innate capabilities using tools, techniques, skills, language and technology. There is no ‘naked ape’; from the moment we are born we are always already augmented by language, tools and technologies. This augmentation system defines the limits of what is possible for us as a species.
+
+> One dream in particular has recurred throughout this book: a device that ‘enables associative connections that attempt to partially reflect the ‘intricate web of trails carried by the cells of the brain’ (Wardrip-Fruin 2003, 35). More precisely, a tool for thought – a tool that might organize the mass of deeply tangled data that surrounds us. For the world grows more and more complex every day, and the information we are expected to keep track of proliferates at every click. How are we to keep track of the mess? The problem that Bush identified in 1945 is just as urgent today.

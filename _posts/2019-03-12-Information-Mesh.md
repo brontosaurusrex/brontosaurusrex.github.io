@@ -67,7 +67,7 @@ Vannevar Bush [july 1945 issue](https://www.theatlantic.com/magazine/archive/194
 > Engelbart claimed it was Bush’s concept of a __‘co-evolution’__
 between humans and machines, and also his conception of our human ‘augmentation system’, that inspired him (Engelbart 1999). 
 
-Quoted from [Memory machines](https://www.cambridge.org/core/books/memory-machines/3020E1AC5BB9D4AD640CA1E2D7509418)
+Quoted from [Memory machines](https://www.cambridge.org/core/books/memory-machines/3020E1AC5BB9D4AD640CA1E2D7509418).
 
 ## Xanadu
 
@@ -81,4 +81,10 @@ Quoted from [Memory machines](https://www.cambridge.org/core/books/memory-machin
 
 > Nelson is often accused of hand waving and lucid dreaming, but Xanadu has nonetheless become the most important vision in the history of computing.
 
-Quoted from [Memory machines](https://www.cambridge.org/core/books/memory-machines/3020E1AC5BB9D4AD640CA1E2D7509418)
+Quoted from [Memory machines](https://www.cambridge.org/core/books/memory-machines/3020E1AC5BB9D4AD640CA1E2D7509418).
+
+## Thoughts
+
+> One dream in particular has recurred throughout this book: a device that ‘enables associative connections that attempt to partially reflect the ‘intricate web of trails carried by the cells of the brain’ (Wardrip-Fruin 2003, 35). More precisely, a tool for thought – a tool that might organize the mass of deeply tangled data that surrounds us. For the world grows more and more complex every day, and the information we are expected to keep track of proliferates at every click. How are we to keep track of the mess? The problem that Bush identified in 1945 is just as urgent today.
+
+Quoted from [Memory machines](https://www.cambridge.org/core/books/memory-machines/3020E1AC5BB9D4AD640CA1E2D7509418).
