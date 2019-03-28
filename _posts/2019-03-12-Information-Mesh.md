@@ -60,12 +60,23 @@ Vannevar Bush [july 1945 issue](https://www.theatlantic.com/magazine/archive/194
 
 > [The memex](https://en.wikipedia.org/wiki/Memex) would provide an "enlarged intimate supplement to one's memory". The concept of the memex influenced the development of early hypertext systems (eventually leading to the creation of the World Wide Web) and personal knowledge base software. The hypothetical implementation depicted by Bush for the purpose of concrete illustration was based upon a document bookmark list of static microfilm pages and lacked a true hypertext system, where parts of pages would have internal structure beyond the common textual format. Early electronic hypertext systems were thus inspired by memex rather than modeled directly upon it.
 
-> [Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) believes that human beings live within an existing technical and
-cultural system, an ‘augmentation’ system. We are born with a particular set
-of genetic capabilities, and then we build on these innate capabilities using
-tools, techniques, skills, language and technology. There is no ‘naked ape’;
-from the moment we are born we are always already augmented by language,
-tools and technologies. This augmentation system defines the limits of what is
-possible for us as a species.
- 
-[Memory machines](https://www.cambridge.org/core/books/memory-machines/3020E1AC5BB9D4AD640CA1E2D7509418)
+> [Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) believes that human beings live within an existing technical and cultural system, an ‘augmentation’ system. We are born with a particular set of genetic capabilities, and then we build on these innate capabilities using tools, techniques, skills, language and technology. There is no ‘naked ape’; from the moment we are born we are always already augmented by language, tools and technologies. This augmentation system defines the limits of what is possible for us as a species.
+
+> Engelbart claimed it was Bush’s concept of a __‘co-evolution’__
+between humans and machines, and also his conception of our human ‘augmentation system’, that inspired him (Engelbart 1999). 
+
+Quoted from [Memory machines](https://www.cambridge.org/core/books/memory-machines/3020E1AC5BB9D4AD640CA1E2D7509418)
+
+## Xanadu
+
+> It was a vision in a dream. A computer filing system that would store and deliver the great body of human literature, in all its historical versions and with all its messy interconnections, __acknowledging authorship__, ownership, quotation and linkage. Like the Web, but much better: no links would ever be broken, no documents would ever be lost, and copyright and ownership would be scrupulously preserved. The Magical Place of Literary Memory: Xanadu. In this place, users would be able to mark and annotate any document, see and intercompare versions of documents side by side, follow visible hyperlinks from both ends (‘two-way links’) and reuse content pieces that stay connected to their original source document. There would be multiple ways to view all this on a computer screen, but the canonical view would be side-by-side parallel strips with visible connections (‘visible beams’). Just imagine. This vision – which is actually older than the Web, and aspects of it are older than personal computing – belongs to hypertext pioneer Theodor Holm Nelson, who dubbed the project Xanadu in October 1966.> Imagine if the same item could appear in multiple places. You could connect each item to its original by an addressing method and retrieve them on a computer screen. Because this would be reuse by reference rather than by copying, you could trace each item back to its original source. This idea – that you should be able to see all the contexts of reuse, and that you should be able to trace items back to their original source – would ‘drive my work to the edge of madness’ (Nelson 2010c, 104). It would later become the kernel of Nelson’s most innovative idea: transclusion. [Transclusion](https://en.wikipedia.org/wiki/Transclusion), and also the ability to visually compare prior or alternative versions of the same document on screen (‘intercomparison’) were integral to the design of Xanadu.
+
+![](https://upload.wikimedia.org/wikipedia/commons/b/b9/Transclusion-simple.png)
+
+> To Nelson’s dismay, Xanadu has (unfairly) been hailed as ‘the longest-running vaporware project in the history of computing’ (Wolf 1995). 
+
+> Nelson is often accused of hand waving and lucid dreaming, but
+Xanadu has nonetheless become the most important vision in the history of
+computing.
+
+Quoted from [Memory machines](https://www.cambridge.org/core/books/memory-machines/3020E1AC5BB9D4AD640CA1E2D7509418)
