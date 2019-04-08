@@ -5,7 +5,7 @@ date: '2019-04-08 12:28'
 title: FAB txt subtitles
 tags: video 
 ---
-Subtitleditor can't open [these](https://www.fab-online.com/kb/sup/fabsubtitler/import.html).
+Subtitleditor can't open [these](https://www.fab-online.com/kb/sup/fabsubtitler/import.html). [Gaupol](https://otsaloma.io/gaupol/) can (also in Debian repos).
 
     10:00:02:14 10:00:05:23
     First line of text
