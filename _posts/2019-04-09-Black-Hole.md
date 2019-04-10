@@ -13,3 +13,6 @@ tags: luv
 > ... due to gravitational lensing, no part of the disk could be hidden, even its rear side! And simple considerations about the relativistic rotation of the disk implied that a strong Doppler shift would cause a strong asymmetry of the apparent flux.
 
 [Live stream.](https://www.youtube.com/watch?reload=9&v=Dr20f19czeE)
+
+## Real One
+![](https://cdn.eso.org/images/screen/eso1907a.jpg)
