@@ -11,3 +11,5 @@ tags: luv
 [http://www.sciencemag.org/news/2019/04/here-s-what-scientists-think-black-hole-looks](http://www.sciencemag.org/news/2019/04/here-s-what-scientists-think-black-hole-looks)
 
 > ... due to gravitational lensing, no part of the disk could be hidden, even its rear side! And simple considerations about the relativistic rotation of the disk implied that a strong Doppler shift would cause a strong asymmetry of the apparent flux.
+
+[Live stream.](https://www.youtube.com/watch?reload=9&v=Dr20f19czeE)
