@@ -17,7 +17,7 @@ tags: luv
 ## Real One
 ![](https://cdn.eso.org/images/screen/eso1907a.jpg)
 
-It is a black hole that belongs to
+a black hole that belongs to
 
 > [Messier 87](https://en.wikipedia.org/wiki/Messier_87) (also known as Virgo A or NGC 4486, generally abbreviated to M87) is a supergiant elliptical galaxy in the constellation Virgo. One of the most massive galaxies in the local Universe ...
 
