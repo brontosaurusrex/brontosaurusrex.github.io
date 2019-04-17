@@ -9,3 +9,4 @@ tags: blender
 
 Example background replacement node setup with cryptomatte  
 [![crypto3.md.jpg](https://cdn.scrot.moe/images/2019/04/17/crypto3.md.jpg)](https://scrot.moe/image/aTJCY)
+[![ladyNew30.md.jpg](https://cdn.scrot.moe/images/2019/04/17/ladyNew30.md.jpg)](https://scrot.moe/image/aTehd)
