@@ -9,6 +9,6 @@ tags: web
 
 > In the interview, Cook suggested that U.S. regulators could look to Europe's passage of the General Data Protection Regulation (GDPR) in 2018. "GDPR isn't ideal," said Cook. "But GDPR is a step in the right direction." In light of recent data breaches and foreign election influence through social media, Cook's view is that the tech industry has no other responsible option but to accept more government oversight, a position he outlined in a recent TIME Ideas piece. 
 
-Good start: OS doesn't call home for any reason ever, (no auto-updates ever). Can't be any clearer than that.
+Good start: OS/apps/software doesn't auto-call home for any reason ever, (no auto-updates ever). Can't be any clearer than that.
 
 Look… it’s not you, it’s me.  
