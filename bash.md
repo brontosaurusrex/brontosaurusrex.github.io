@@ -447,6 +447,22 @@ xz entire dir as single file (staring from one dir above)
     }
     
     centertext "woot"
+    
+## printf examples
+
+    # round float
+    a=3.123456
+    printf "%.2f\n" "a"         
+    3.12
+    printf "%.4f\n" "a"
+    3.1235
+
+    # type protection
+    a="1"
+    printf "%d\n" "a"
+    a="b"
+    printf "%d\n" "a"
+    0
 
 ## TOC
 {:.no_toc}
