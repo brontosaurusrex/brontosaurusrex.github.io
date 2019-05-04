@@ -15,3 +15,6 @@ tags: blender
 
 My try (normal map 2 strong)   
 [![scrot10667.md.png](https://cdn.scrot.moe/images/2019/05/05/scrot10667.md.png)](https://scrot.moe/image/abNAz)
+
+And a different material  
+![](https://cdn.scrot.moe/images/2019/05/05/06_d_dist.png)
