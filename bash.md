@@ -457,9 +457,10 @@ xz entire dir as single file (staring from one dir above)
     printf "%.4f\n" "a"
     3.1235
 
-    # type protection
+    # type protection ?
     a="1"
     printf "%d\n" "a"
+    1
     a="b"
     printf "%d\n" "a"
     0
