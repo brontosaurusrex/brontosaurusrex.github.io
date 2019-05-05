@@ -14,7 +14,8 @@ tags: blender
 </div>
 
 My try (normal map 2 strong)   
-[![scrot10667.md.png](https://cdn.scrot.moe/images/2019/05/05/scrot10667.md.png)](https://scrot.moe/image/abNAz)
+[![scrot10667.md.png](https://cdn.scrot.moe/images/2019/05/05/scrot10667.md.png)](https://scrot.moe/image/abNAz)  
+*Note: AO map should be multiplied to color map (and not overlayed)*
 
 And a different material  
 ![](https://cdn.scrot.moe/images/2019/05/05/06_d_dist.png)
