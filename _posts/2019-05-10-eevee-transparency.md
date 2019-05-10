@@ -6,4 +6,5 @@ title: Eevee transparency
 tags:
   - blender
 ---
-![eevee_transparency.JPG]({{site.baseurl}}/media/eevee_transparency.JPG)
+![eevee_transparency.JPG]({{site.baseurl}}/media/eevee_transparency.JPG)  
+Note: The resulting alpha is weird (Not sure how to interpret it).
