@@ -9,4 +9,4 @@ tags: blender
 
 [![ladjica1920x1200.md.png](https://cdn.scrot.moe/images/2019/05/10/ladjica1920x1200.md.png)](https://scrot.moe/image/afuFy)
 
-Notes: Reduce the thikness to -0.001, fix the uv's, use some other texture.
+Notes: Reduce the solidify thickness to -0.001, fix the uv's (internal), use some other texture.
