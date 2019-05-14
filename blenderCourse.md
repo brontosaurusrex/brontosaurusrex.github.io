@@ -9,7 +9,7 @@ ol > li:hover {
 }
 </style>
 
-<a href="#toc" id="markdown-toc-toc"><img src="{{site.baseurl}}/media/blender_logo.png" style="max-width:1000px; position:relative; left:50%; transform:translate(-50%, 0%); margin-top: -70px; margin-bottom: 0px"></a>
+<a href="#toc" id="markdown-toc-toc"><img src="{{site.baseurl}}/media/blender_logo.png" style="max-width:100%; position:relative; left:50%; transform:translate(-50%, 0%); margin-top: -70px; margin-bottom: 0px"></a>
 
 ## 3d representation
 
