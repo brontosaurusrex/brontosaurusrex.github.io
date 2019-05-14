@@ -39,3 +39,5 @@ What are the tasks that can be achieved with blender (3d print?)
 
 For example extrude and bevel an invaders character.  
 *Not clear what a 3d version of invader really is?*
+
+To be continued ...
