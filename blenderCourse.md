@@ -48,4 +48,17 @@ What are the tasks that can be achieved with blender (3d print?)
 For example extrude and bevel an invaders character.  
 *Not clear what a 3d version of invader really is?*
 
+Ngons  
+[https://www.youtube.com/watch?v=BjnCV2PIkKA](https://www.youtube.com/watch?v=BjnCV2PIkKA)
+
+## 2.8 Keyboard shortcuts
+
+    Tab & 1 2 3     toggle edit mode and select vertex, edge or face mode
+    ctrl + Tab      pie menu
+    shift + space   play (depends)
+    space           search (depends)
+    ctrl + space    fullscreen window
+    z               solid, wireframe ...
+    q               quick favorites
+
 To be continued ...
