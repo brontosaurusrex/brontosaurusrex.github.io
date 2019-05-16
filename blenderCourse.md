@@ -61,4 +61,10 @@ Ngons
     z               solid, wireframe ...
     q               quick favorites
 
-To be continued ...
+## Render something with cycles
+
+Model a quick scene, define materials, lights, render image.
+
+## Animation
+
+Keyframes, procedural, on a path.
