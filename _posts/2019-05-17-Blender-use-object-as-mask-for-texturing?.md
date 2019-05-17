@@ -9,4 +9,6 @@ tags: blender
 
     Texture Coordinates > Gradient Texture > Color Ramp > Mix (Fac)
 
-This behaves completely unpredictable (could be 2.8 issue).
+This behaves a bit unpredictable (could be 2.8 issue).
+
+[![raca2.md.jpg](https://cdn.scrot.moe/images/2019/05/17/raca2.md.jpg)](https://scrot.moe/image/arZbN)
