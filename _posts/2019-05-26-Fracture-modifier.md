@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2019-05-26 16:31'
-title: Fracture modifier
+title: Fracture modifier branch
 tags: blender 
 ---
 [http://kaikostack.com/fracture/](http://kaikostack.com/fracture/)  
