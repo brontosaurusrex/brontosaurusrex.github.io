@@ -10,3 +10,4 @@ tags: blender
 
 [![fracture_bunsen2_slightGlow_post2_nr.md.png](https://cdn.scrot.moe/images/2019/05/26/fracture_bunsen2_slightGlow_post2_nr.md.png)](https://cdn.scrot.moe/images/2019/05/26/fracture_bunsen2_slightGlow_post2_nr.png)
 [![fracture_clay2.md.png](https://cdn.scrot.moe/images/2019/05/26/fracture_clay2.md.png)](https://cdn.scrot.moe/images/2019/05/26/fracture_clay2.png)
+[![fracture_clay.md.png](https://cdn.scrot.moe/images/2019/05/27/fracture_clay.md.png)](https://cdn.scrot.moe/images/2019/05/27/fracture_clay.png)
