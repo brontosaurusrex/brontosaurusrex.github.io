@@ -8,6 +8,8 @@ published: true
 
 [http://learnpython.org/](http://learnpython.org/)
 
+[Python Online Courses](https://classpert.com/python-programming)
+
 ## echo floating point with 4 digits, "argument specifier"
 
     f=3.3465922378323784
