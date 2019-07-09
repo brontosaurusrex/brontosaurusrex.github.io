@@ -7,13 +7,13 @@ tags: linux
 ---
 ### problems
 
-glxinfo exists with error  
-mpv errors with 'no glx context'  
-tearing on playback with mpv
+- glxinfo exists with error  
+- mpv errors with 'no glx context'  
+- tearing on playback with mpv
 
 ### solution
 
-replace in xorg.conf, from
+Replace in /etc/X11/xorg.conf, from
 
     Section "Files"
     EndSection
