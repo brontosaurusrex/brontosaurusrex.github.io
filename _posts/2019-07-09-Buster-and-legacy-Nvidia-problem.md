@@ -9,7 +9,7 @@ tags: linux
 
 - glxinfo exists with error  
 - mpv errors with 'no glx context'  
-- tearing on playback with mpv
+- tearing on playback with mpv, tearing all over the place (browser)
 
 ### solution
 
