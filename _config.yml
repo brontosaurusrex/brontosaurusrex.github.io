@@ -18,4 +18,8 @@ author:
 
 paginate:         7
 
+# collections https://jekyllrb.com/docs/step-by-step/09-collections/
 
+collections:
+    bucentaur:
+        output: true
