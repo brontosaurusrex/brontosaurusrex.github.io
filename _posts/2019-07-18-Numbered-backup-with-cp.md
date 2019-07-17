@@ -5,8 +5,7 @@ date: '2019-07-18 00:03'
 title: Numbered backup with cp
 tags: linux cli 
 ---
-    ls            
-    woot
+    touch woot
 
     cp --backup=t woot woot2
     ls
@@ -23,3 +22,8 @@ tags: linux cli
     -rw-r--r-- 1 b b 4 Jul 18 00:01 woot2.~2~
     -rw-r--r-- 1 b b 4 Jul 18 00:01 woot2.~3~
     -rw-r--r-- 1 b b 4 Jul 18 00:01 woot2
+
+### Verbose version
+
+    cp --backup=t -v woot woot2
+    'woot' -> 'woot2' (backup: 'woot2.~1~')
