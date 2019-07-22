@@ -2,9 +2,10 @@
 published: true
 layout: post
 date: '2019-07-22 11:43'
-title: What lenses for 'Blackmagic Pocket Cinema Camera 4K'
+title: What X for 'Blackmagic Pocket Cinema Camera 4K'
 tags: video 
 ---
+# Lenses
 ## Many
 [wolfcrow.com/the-best-lenses-for-the-blackmagic-pocket-cinema-camera-4k/](https://wolfcrow.com/the-best-lenses-for-the-blackmagic-pocket-cinema-camera-4k/)
 
@@ -39,3 +40,7 @@ visual style.
 The maximum ultra fast aperture of **T0.95** makes
 the 50mm Hyperprime Cine Lens great for low
 light photography.
+
+# Media
+Portable SSD  
+[https://nofilmschool.com/SSD-Blackmagic-Pocket-4K](https://nofilmschool.com/SSD-Blackmagic-Pocket-4K)
