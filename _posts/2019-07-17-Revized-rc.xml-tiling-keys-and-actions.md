@@ -89,3 +89,7 @@ Openbox desktop margins are set to
     left    6
     right   6
     bottom 46 # due to wbar
+    
+### Notes
+
+This breaks [clickyClicky](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/clickyClicky) script.
