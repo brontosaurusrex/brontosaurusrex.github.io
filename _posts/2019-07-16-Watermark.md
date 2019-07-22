@@ -1,12 +1,12 @@
 ---
 published: true
 layout: post
-date: '2019-07-16 17:39'
-title: Watermark
+date: '2019-07-22 17:39'
+title: Watermark, updated
 tags: 
 ---
 
-Needs some work
+## Concept
 
     #!/bin/bash
 
@@ -25,3 +25,16 @@ Needs some work
     convert "$back" \( $logo -resize $amt \) -gravity center -compose over -composite watermarked.png
 
 [http://www.imagemagick.org/discourse-server/viewtopic.php?t=33782](http://www.imagemagick.org/discourse-server/viewtopic.php?t=33782)
+
+## Update, script
+
+[Watermark script](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/watermark), [Background example](https://cdn.scrot.moe/images/2019/07/22/back.png), [Logo example](https://cdn.scrot.moe/images/2019/07/22/logoBunsen2019red.png).
+
+    mkdir test && cd test
+    wget https://cdn.scrot.moe/images/2019/07/22/back.png
+    wget https://cdn.scrot.moe/images/2019/07/22/logoBunsen2019red.png -O logo.png
+    watermark back.png logo.png wall 25
+    viewnior --fullscreen --slideshow *wall*
+
+Output of `watermark back.png logo.png wall 15`    
+[![wall-plus.md.png](https://cdn.scrot.moe/images/2019/07/22/wall-plus.md.png)](https://cdn.scrot.moe/images/2019/07/22/wall-plus.png)
