@@ -38,3 +38,8 @@ tags:
 
 Output of `watermark back.png logo.png wall 15`    
 [![wall-plus.md.png](https://cdn.scrot.moe/images/2019/07/22/wall-plus.md.png)](https://cdn.scrot.moe/images/2019/07/22/wall-plus.png)
+
+## Future
+[Gimp batch.](https://www.gimp.org/tutorials/Basic_Batch/)
+
+> We suggest you use the Procedure Browser as found in the Help menu. It gives you a detailed list of all commands.
