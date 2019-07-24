@@ -24,7 +24,8 @@ The new back + back over alpha method
 [![bunsen-back.md.png](https://cdn.scrot.moe/images/2019/07/24/bunsen-back.md.png)](https://cdn.scrot.moe/images/2019/07/24/bunsen-back.png)  
 Debian [Diverse](https://gitlab.com/valessiobrito/artwork/tree/master/Debian/debian-diversity)  
 [![divers-back.md.png](https://cdn.scrot.moe/images/2019/07/24/divers-back.md.png)](https://cdn.scrot.moe/images/2019/07/24/divers-back.png)  
-
+Destroyed alpha with some random lines  
+[![woot2-destroyedDefault.md.jpg](https://cdn.scrot.moe/images/2019/07/24/woot2-destroyedDefault.md.jpg)](https://cdn.scrot.moe/images/2019/07/24/woot2-destroyedDefault.jpg)
 
 ## Misc
 [Gimp batch.](https://www.gimp.org/tutorials/Basic_Batch/)
