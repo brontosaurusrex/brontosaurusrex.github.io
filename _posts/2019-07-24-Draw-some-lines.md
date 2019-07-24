@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2019-07-24 16:32'
 title: Draw some lines
-tags: 
+tags: mine
 ---
 [https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/lines](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/lines)
 
