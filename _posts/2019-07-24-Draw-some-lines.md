@@ -12,3 +12,5 @@ Usage:
     lines lines.png
 
 will generate 1920x1200 image with bunch of lines (useful as some sort of mask).
+
+[![woot.md.png](https://cdn.scrot.moe/images/2019/07/24/woot.md.png)](https://cdn.scrot.moe/images/2019/07/24/woot.png)
