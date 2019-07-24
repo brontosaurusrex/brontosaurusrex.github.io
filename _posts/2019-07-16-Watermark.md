@@ -46,3 +46,5 @@ The new back + back over alpha method
 [Gimp batch.](https://www.gimp.org/tutorials/Basic_Batch/)
 
 > We suggest you use the Procedure Browser as found in the Help menu. It gives you a detailed list of all commands.
+
+[https://javier.xyz/visual-center/](https://javier.xyz/visual-center/)
