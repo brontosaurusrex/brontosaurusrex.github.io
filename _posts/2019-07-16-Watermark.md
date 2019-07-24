@@ -37,7 +37,10 @@ tags:
     viewnior --fullscreen --slideshow *wall*
 
 Output of `watermark back.png logo.png wall 15`    
-[![wall-plus.md.png](https://cdn.scrot.moe/images/2019/07/22/wall-plus.md.png)](https://cdn.scrot.moe/images/2019/07/22/wall-plus.png)
+[![wall-plus.md.png](https://cdn.scrot.moe/images/2019/07/22/wall-plus.md.png)](https://cdn.scrot.moe/images/2019/07/22/wall-plus.png)  
+The new back + back over alpha method  
+[![bunsen-back.md.png](https://cdn.scrot.moe/images/2019/07/24/bunsen-back.md.png)](https://cdn.scrot.moe/images/2019/07/24/bunsen-back.png)
+
 
 ## Future
 [Gimp batch.](https://www.gimp.org/tutorials/Basic_Batch/)
