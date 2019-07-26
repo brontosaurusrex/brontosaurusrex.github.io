@@ -19,6 +19,10 @@ Will exit if file is not there, same thing should be used if you use cd in your 
 Note: Actually just using 'exit' should be enough, as it returns the status value of previous command (exit equals to exit $?).
 
     cd /some/path || exit 1
+    
+Or do it on a more global level with 
+
+    set -e # script will from now on exit on 1st error
 
 This will ensure that script doesn't continue if dir doesn't exist. Another way might be:
 
