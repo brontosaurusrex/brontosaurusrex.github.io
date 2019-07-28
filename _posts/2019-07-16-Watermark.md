@@ -29,7 +29,9 @@ Destroyed alpha with some random lines
 [![bunsennew-destroyedDefault.md.png](https://cdn.scrot.moe/images/2019/07/25/bunsennew-destroyedDefault.md.png)](https://cdn.scrot.moe/images/2019/07/25/bunsennew-destroyedDefault.png)
 
 ## Misc
-[Gimp batch.](https://www.gimp.org/tutorials/Basic_Batch/)
+[Gimp batch.](https://www.gimp.org/tutorials/Basic_Batch/)  
+[omg, it's scheme](https://docs.gimp.org/2.10/en/gimp-using-script-fu-tutorial.html)  
+> Use Script-Fu Console.
 
 > We suggest you use the Procedure Browser as found in the Help menu. It gives you a detailed list of all commands.
 
