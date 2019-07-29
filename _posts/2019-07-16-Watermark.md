@@ -31,7 +31,9 @@ Destroyed alpha with some random lines
 ## Misc
 [Gimp batch.](https://www.gimp.org/tutorials/Basic_Batch/)  
 [omg, it's scheme](https://docs.gimp.org/2.10/en/gimp-using-script-fu-tutorial.html)  
-> Use Script-Fu Console.
+> Use Script-Fu Console.  
+
+[Gimp Python](https://www.gimp.org/docs/python/index.html).
 
 > We suggest you use the Procedure Browser as found in the Help menu. It gives you a detailed list of all commands.
 
