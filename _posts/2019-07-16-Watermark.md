@@ -28,6 +28,10 @@ Destroyed alpha with some random lines
 [![woot2-destroyedDefault.md.jpg](https://cdn.scrot.moe/images/2019/07/24/woot2-destroyedDefault.md.jpg)](https://cdn.scrot.moe/images/2019/07/24/woot2-destroyedDefault.jpg)  
 [![bunsennew-destroyedDefault.md.png](https://cdn.scrot.moe/images/2019/07/25/bunsennew-destroyedDefault.md.png)](https://cdn.scrot.moe/images/2019/07/25/bunsennew-destroyedDefault.png)
 
+## Attribution
+
+Bunsen logo by [Ututo](https://forums.bunsenlabs.org/viewtopic.php?pid=40614#p40614) under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) / modified from original.
+
 ## Misc
 [Gimp batch.](https://www.gimp.org/tutorials/Basic_Batch/)  
 [omg, it's scheme](https://docs.gimp.org/2.10/en/gimp-using-script-fu-tutorial.html)  
