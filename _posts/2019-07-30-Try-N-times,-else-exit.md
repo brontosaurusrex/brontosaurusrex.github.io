@@ -20,15 +20,15 @@ tags: bash mine
     for i in $(seq 1 $n); do 
 
         num2="$(( RANDOM % 6 + 1 ))"
-        echo "num2=${num2}"
+        echo "num2=${num2} $i"
         (( num2 == num1 )) && break
         # sleep 1
         
     done 
 
     # results
-    if (( i == n )); then
-
+    if (( i == n )) && (( num2 != num1 )); then
+    a
         echo "Not guessed in $n tries"
         exit 1
 
