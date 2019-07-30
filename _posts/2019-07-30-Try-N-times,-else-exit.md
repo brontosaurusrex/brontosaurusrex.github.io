@@ -28,7 +28,7 @@ tags: bash mine
 
     # results
     if (( i == n )) && (( num2 != num1 )); then
-    a
+    
         echo "Not guessed in $n tries"
         exit 1
 
