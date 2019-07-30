@@ -37,3 +37,5 @@ tags: bash mine
         echo "Bravo!"
         
     fi
+
+[Earlybird fancy C-style for loop alternative.](https://forums.bunsenlabs.org/viewtopic.php?pid=88988#p88988)
