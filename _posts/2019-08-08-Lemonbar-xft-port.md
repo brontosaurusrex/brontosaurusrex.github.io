@@ -11,11 +11,15 @@ tags: linux cli bash
     git clone https://github.com/krypt-n/bar # xft-port
     cd bar && make
     
-Simple launcher
+### Simple launcher
 
     echo "%{c}%{A:thunar:}thunar%{A}%{A:geany:} geany%{A} %{A:urxvt:} urxvt%{A}" | lemonbar -b -p -f "Cuprum" |  while read line; do "${line}"; done
 
-This requires compositor (compton) to be running for transparency.
+This requires compositor (compton) to be running for transparency. Edit: Not working as expected.
+
+### Font Awesome
+
+[https://fontawesome.com/how-to-use/on-the-desktop/setup/getting-started](https://fontawesome.com/how-to-use/on-the-desktop/setup/getting-started)
 
 Examples:
 
