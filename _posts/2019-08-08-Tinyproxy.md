@@ -9,6 +9,6 @@ tags: linux
     
 minimum config here, /etc/tinyproxy.conf
 
-    ...
+    soon ... grep -v "#" /etc/tinyproxy.conf
 
 [https://support.mozilla.org/en-US/kb/connection-settings-firefox](https://support.mozilla.org/en-US/kb/connection-settings-firefox)
