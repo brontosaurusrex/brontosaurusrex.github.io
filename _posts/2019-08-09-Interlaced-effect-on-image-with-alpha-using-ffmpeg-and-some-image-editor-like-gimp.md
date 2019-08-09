@@ -79,5 +79,5 @@ p.s.3. With imagemagick the gimp repositioning part could be simply done by addi
     convert "$file" -background transparent -gravity southeast -splice "${n}"x"${n}" "$tmp/field_002.png"
 
     # interlace
-    ffmpeg -i "$tmp/field_%03d.png" -filter:v interlace=scan=1:lowpass=2 "$dir/${base}_interlaced.png"
+    ffmpeg -i "$tmp/field_%03d.png" -filter:v interlace=scan=1:lowpass=2 -y "$dir/${base}_interlaced.png"
 
