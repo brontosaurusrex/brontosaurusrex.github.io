@@ -7,8 +7,10 @@ tags: linux
 ---
     apt install tinyproxy
     
-minimum config here, /etc/tinyproxy.conf
+minimum config here, 
 
-    soon ... grep -v "#" /etc/tinyproxy.conf
-
+    grep "^Allow" /etc/tinyproxy/tinyproxy.conf
+    Allow 127.0.0.1
+    Allow 10.10.9.xxx # < This
+    
 [https://support.mozilla.org/en-US/kb/connection-settings-firefox](https://support.mozilla.org/en-US/kb/connection-settings-firefox)
