@@ -43,7 +43,7 @@ p.s.3. With imagemagick the gimp repositioning part could be simply done by addi
     # input should be transparent image 
 
     # usage: interlaceMagick logo.png 0.5
-                                       ^ percents of height-based offset
+    #                                  ^ percents of height-based offset
 
     set -ex
 
