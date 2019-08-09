@@ -26,3 +26,8 @@ Voila.
 p.s. [Css](https://css-tricks.com/almanac/properties/o/object-position/) to embed this 1:1 ^
 
     style="object-position: 0 0; object-fit: none; width:1313px; height:568px;"
+    
+p.s.2. The not-working-as-expected [imagemagick way to interlace.](https://stackoverflow.com/questions/36355337/how-can-i-interlace-two-images-using-imagemagick)
+
+### Wallpaper
+[![brontointer-back.md.png](https://cdn.scrot.moe/images/2019/08/09/brontointer-back.md.png)](https://scrot.moe/image/xzTiU)
