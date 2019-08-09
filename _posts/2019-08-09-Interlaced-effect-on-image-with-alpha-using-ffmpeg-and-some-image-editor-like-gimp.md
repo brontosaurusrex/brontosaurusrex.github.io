@@ -29,5 +29,7 @@ p.s. [Css](https://css-tricks.com/almanac/properties/o/object-position/) to embe
     
 p.s.2. The not-working-as-expected [imagemagick way to interlace.](https://stackoverflow.com/questions/36355337/how-can-i-interlace-two-images-using-imagemagick)
 
+p.s.3. With imagemagick the gimp repositioning part could be simply done by adding transparent TL pixels on one and BR pixels on 2nd 'field'. [https://www.imagemagick.org/Usage/crop/#extent](https://www.imagemagick.org/Usage/crop/#extent)
+
 ### Wallpaper
 [![brontointer-back.md.png](https://cdn.scrot.moe/images/2019/08/09/brontointer-back.md.png)](https://scrot.moe/image/xzTiU)
