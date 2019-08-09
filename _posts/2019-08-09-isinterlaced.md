@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2019-08-09 13:16'
 title: isInterlaced
-tags: video bash
+tags: video bash mine
 ---
 [Idea from here.](http://www.aktau.be/2013/09/22/detecting-interlaced-video-with-ffmpeg/)
 
