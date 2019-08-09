@@ -10,10 +10,18 @@ In Gimp save first frame as bronto_001.png, reposition the logo and save as bron
 Then, using ffmpeg
 
     ffmpeg -i bronto_%03d.png -filter:v interlace bronto_interlaced.png
+    
+or, sharper
+
+    ffmpeg -i bronto_%03d.png -filter:v interlace=scan=1:lowpass=2 bronto_interlaced2.png
+    
+and with scale
+
+    ffmpeg -i bronto_%03d.png -filter:v scale=900:-1,interlace=scan=1:lowpass=2 bronto_interlaced_logo.png
 
 Voila.
 
-<a href="/public/bronto_interlaced.png"><img src="/public/bronto_interlaced.png" style="object-position: 0 0; object-fit: none; width:1313px; height:568px;"></a>
+<a href="/public/bronto_interlaced2.png"><img src="/public/bronto_interlaced2.png" style="object-position: 0 0; object-fit: none; width:1313px; height:568px;"></a>
 
 p.s. [Css](https://css-tricks.com/almanac/properties/o/object-position/) to embed this 1:1 ^
 
