@@ -22,3 +22,7 @@ Firefox
 
 Debian apt (WSL)  
 [https://dev.to/david_j_eddy/windows-10-wsl-ubuntu-1804-proxy-configuration-for-apt-fhi](https://dev.to/david_j_eddy/windows-10-wsl-ubuntu-1804-proxy-configuration-for-apt-fhi)
+
+Git  
+
+    git config --global http.proxy http://proxy.server:port
