@@ -14,3 +14,7 @@ Then, using ffmpeg
 Voila.
 
 <a href="/public/bronto_interlaced.png"><img src="/public/bronto_interlaced.png" style="object-position: 0 0; object-fit: none; width:1313px; height:568px;"></a>
+
+p.s. [Css](https://css-tricks.com/almanac/properties/o/object-position/) to embed this 1:1 ^
+
+    style="object-position: 0 0; object-fit: none; width:1313px; height:568px;"
