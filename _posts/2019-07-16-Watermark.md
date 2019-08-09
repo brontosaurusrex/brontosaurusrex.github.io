@@ -28,6 +28,10 @@ Destroyed alpha with some random lines
 [![woot2-destroyedDefault.md.jpg](https://cdn.scrot.moe/images/2019/07/24/woot2-destroyedDefault.md.jpg)](https://cdn.scrot.moe/images/2019/07/24/woot2-destroyedDefault.jpg)  
 [![bunsennew-destroyedDefault.md.png](https://cdn.scrot.moe/images/2019/07/25/bunsennew-destroyedDefault.md.png)](https://cdn.scrot.moe/images/2019/07/25/bunsennew-destroyedDefault.png)
 
+## FIXME
+
+Option to skip logo resizing ( 0 in cli could be the trigger for that).
+
 ## Attribution
 
 Bunsen logo by [Ututo](https://forums.bunsenlabs.org/viewtopic.php?pid=40614#p40614) under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) / modified from original.
