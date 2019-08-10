@@ -31,9 +31,6 @@ p.s.2. The not-working-as-expected [imagemagick way to interlace.](https://stack
 
 p.s.3. With imagemagick the gimp repositioning part could be simply done by adding transparent TL pixels on one and BR pixels on 2nd 'field'. [https://www.imagemagick.org/Usage/crop/#extent](https://www.imagemagick.org/Usage/crop/#extent)
 
-### Wallpaper
-[![brontointer-back.md.png](https://cdn.scrot.moe/images/2019/08/09/brontointer-back.md.png)](https://scrot.moe/image/xzTiU)
-
 ### Script
 
     #!/bin/bash
@@ -80,4 +77,13 @@ p.s.3. With imagemagick the gimp repositioning part could be simply done by addi
 
     # interlace
     ffmpeg -i "$tmp/field_%03d.png" -filter:v interlace=scan=1:lowpass=2 -y "$dir/${base}_interlaced.png"
+    
+3 pass degradation + some gimp video fx
+
+[![bronto-silber_interlaced_interlaced_interlaced.png](https://cdn.scrot.moe/images/2019/08/10/bronto-silber_interlaced_interlaced_interlaced.png)](https://cdn.scrot.moe/images/2019/08/10/bronto-silber_interlaced_interlaced_interlaced.png)
+
+### Wallpapers
+[![brontointer-back.md.png](https://cdn.scrot.moe/images/2019/08/09/brontointer-back.md.png)](https://cdn.scrot.moe/images/2019/08/09/brontointer-back.png)
+
+[![mkay2-pegtop-light.md.png](https://cdn.scrot.moe/images/2019/08/10/mkay2-pegtop-light.md.png)](https://cdn.scrot.moe/images/2019/08/10/mkay2-pegtop-light.png)
 
