@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2019-07-24 17:39'
+date: '2019-08-11 17:39'
 title: Watermark
 tags: mine
 ---
@@ -31,7 +31,8 @@ Destroyed alpha with some random lines
 
 ## FIXME
 
-Option to skip logo resizing ( 0 in cli could be the trigger for that).
+~~Option to skip logo resizing ( 0 in cli could be the trigger for that).~~ Fixed.  
+Make function 'many' reusable for all actions. (There seems to be a problem with passing array as function positional parameter)
 
 ## Attribution
 

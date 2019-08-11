@@ -27,6 +27,8 @@ Single file and more logic could be done
     ☰ interlaced
     yes
     
-As is, this is an interesting info tool, but I wouldn't let it decide anything.
+As is, this is an interesting info tool, but I wouldn't let it decide anything.  
 
 Perhaps [idet man](https://ffmpeg.org/ffmpeg-filters.html#idet), the part about *intl_thres* might be used for 2nd pass analysis to determine if there is significant difference between fields, to decide for yadif 0 (1 frame = 1 frame) or yadif 1 (1 field = 1 frame, output has double frame-rate).
+
+Note: There is a hardcoded limit of only 1000 frames to scan (change if needed).
