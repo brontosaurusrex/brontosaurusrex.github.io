@@ -26,7 +26,8 @@ Debian [Diverse](https://gitlab.com/valessiobrito/artwork/tree/master/Debian/deb
 [![divers-back.md.png](https://cdn.scrot.moe/images/2019/07/24/divers-back.md.png)](https://cdn.scrot.moe/images/2019/07/24/divers-back.png)  
 Destroyed alpha with some random lines  
 [![woot2-destroyedDefault.md.jpg](https://cdn.scrot.moe/images/2019/07/24/woot2-destroyedDefault.md.jpg)](https://cdn.scrot.moe/images/2019/07/24/woot2-destroyedDefault.jpg)  
-[![bunsennew-destroyedDefault.md.png](https://cdn.scrot.moe/images/2019/07/25/bunsennew-destroyedDefault.md.png)](https://cdn.scrot.moe/images/2019/07/25/bunsennew-destroyedDefault.png)
+[![bunsennew-destroyedDefault.md.png](https://cdn.scrot.moe/images/2019/07/25/bunsennew-destroyedDefault.md.png)](https://cdn.scrot.moe/images/2019/07/25/bunsennew-destroyedDefault.png)  
+[![test9-destroyedDefault.md.jpg](https://cdn.scrot.moe/images/2019/08/11/test9-destroyedDefault.md.jpg)](https://cdn.scrot.moe/images/2019/08/11/test9-destroyedDefault.jpg)
 
 ## FIXME
 
