@@ -46,6 +46,8 @@ then
     sudo systemctl enable antipop.service 
     #Created symlink /etc/systemd/system/multi-user.target.wants/antipop.service → /lib/systemd/system/antipop.service.
     
-### Notes
+Note: sudo crontab -e, @reboot way didn't work.
+    
+### General notes
 
 [https://www.techtimejourney.net/how-to-blacklist-a-sound-card-in-linux/](https://www.techtimejourney.net/how-to-blacklist-a-sound-card-in-linux/)
