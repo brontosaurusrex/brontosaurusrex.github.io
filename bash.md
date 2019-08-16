@@ -468,6 +468,21 @@ xz entire dir as single file (staring from one dir above)
     a="b"
     printf "%d\n" "a"
     0
+    
+## Inline block of text to variable
+
+This is not compatible with 'set -e'
+
+    # custom css
+    css=$(cat <<'CSS'
+    <style type="text/css">
+        p       { margin-top: 0; margin-bottom: 0; vertical-align: top; font-family: 'Noto Serif', serif; font-size: large }
+        a       { font-family: 'Noto Serif', serif; font-size: large }
+        pre     { margin-top: 0; margin-bottom: 0; vertical-align: top; font-size: large }
+    </style>''
+    CSS
+    )
+    echo "$css"
 
 ## TOC
 {:.no_toc}
