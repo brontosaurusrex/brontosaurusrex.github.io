@@ -1,0 +1,2609 @@
+<!-- Creator     : groff version 1.22.4 -->
+<!-- CreationDate: Fri Aug 16 20:36:43 2019 -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta name="generator" content="groff -Thtml, see www.gnu.org">
+<meta http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+<meta name="Content-Style" content="text/css">
+<style type="text/css">
+       p       { margin-top: 0; margin-bottom: 0; vertical-align: top }
+       pre     { margin-top: 0; margin-bottom: 0; vertical-align: top }
+       table   { margin-top: 0; margin-bottom: 0; vertical-align: top }
+       h1      { text-align: center }
+</style>
+<title>urxvt</title>
+
+<!-- Bronto custom css --> <style type="text/css">     p       { margin-top: 0; margin-bottom: 0; vertical-align: top; font-family: 'Noto Serif', serif; font-size: large }     a       { font-family: 'Noto Sans', serif; font-size: large }     pre     { margin-top: 0; margin-bottom: 0; vertical-align: top; font-size: large }     table   { margin-top: 0; margin-bottom: 0; vertical-align: top }     h1      { text-align: center; font-family: 'Noto Serif', serif; font-size: xx-large }     h2      { font-family: 'Noto Sans', sans; }     hr      { border-top: 1px solid black; visibility: hidden; }     a:link {         text-decoration: none;     }     a:visited {         text-decoration: none;     }     a:hover {         text-decoration: underline;     }     a:active {         text-decoration: underline;     }     body {         background-color: #F5F5F5;         color: #111111;         line-height: 1.6;     }  </style> </head>
+<body>
+
+<h1 align="center">urxvt</h1>
+
+<a href="#NAME">NAME</a><br>
+<a href="#SYNOPSIS">SYNOPSIS</a><br>
+<a href="#DESCRIPTION">DESCRIPTION</a><br>
+<a href="#FREQUENTLY ASKED QUESTIONS">FREQUENTLY ASKED QUESTIONS</a><br>
+<a href="#RXVT-UNICODE VS. RXVT">RXVT-UNICODE VS. RXVT</a><br>
+<a href="#OPTIONS">OPTIONS</a><br>
+<a href="#RESOURCES">RESOURCES</a><br>
+<a href="#BACKGROUND IMAGE OPTIONS AND RESOURCES">BACKGROUND IMAGE OPTIONS AND RESOURCES</a><br>
+<a href="#THE SCROLLBAR">THE SCROLLBAR</a><br>
+<a href="#MOUSE REPORTING">MOUSE REPORTING</a><br>
+<a href="#THE SELECTION: SELECTING AND PASTING TEXT">THE SELECTION: SELECTING AND PASTING TEXT</a><br>
+<a href="#CHANGING FONTS">CHANGING FONTS</a><br>
+<a href="#ISO 14755 SUPPORT">ISO 14755 SUPPORT</a><br>
+<a href="#LOGIN STAMP">LOGIN STAMP</a><br>
+<a href="#COLOURS AND GRAPHICS">COLOURS AND GRAPHICS</a><br>
+<a href="#ENVIRONMENT">ENVIRONMENT</a><br>
+<a href="#FILES">FILES</a><br>
+<a href="#SEE ALSO">SEE ALSO</a><br>
+<a href="#CURRENT PROJECT COORDINATOR">CURRENT PROJECT COORDINATOR</a><br>
+<a href="#AUTHORS">AUTHORS</a><br>
+
+<hr>
+
+
+<h2>NAME
+<a name="NAME"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em">rxvt-unicode -
+(ouR XVT, unicode), a VT102 emulator for the X window
+system</p>
+
+<h2>SYNOPSIS
+<a name="SYNOPSIS"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em"><b>urxvt</b>
+[options] [-e command [ args ]]</p>
+
+<h2>DESCRIPTION
+<a name="DESCRIPTION"></a>
+</h2>
+
+
+
+<p style="margin-left:11%; margin-top: 1em"><b>rxvt-unicode</b>,
+version <b>9.22</b>, is a colour vt102 terminal emulator
+intended as an <i>xterm</i>(1) replacement for users who do
+not require features such as Tektronix 4014 emulation and
+toolkit-style configurability. As a result,
+<b>rxvt-unicode</b> uses much less swap space -- a
+significant advantage on a machine serving many X
+sessions.</p>
+
+<p style="margin-left:11%; margin-top: 1em">This document
+is also available on the World-Wide-Web at
+&lt;http://pod.tst.eu/http://cvs.schmorp.de/rxvt-unicode/doc/rxvt.1.pod&gt;.</p>
+
+<h2>FREQUENTLY ASKED QUESTIONS
+<a name="FREQUENTLY ASKED QUESTIONS"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em">See urxvt(7)
+(try &quot;man 7 urxvt&quot;) for a list of frequently asked
+questions and answer to them and some common problems. That
+document is also accessible on the World-Wide-Web at
+&lt;http://pod.tst.eu/http://cvs.schmorp.de/rxvt-unicode/doc/rxvt.7.pod&gt;.</p>
+
+<h2>RXVT-UNICODE VS. RXVT
+<a name="RXVT-UNICODE VS. RXVT"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em">Unlike the
+original rxvt, <b>rxvt-unicode</b> stores all text in
+Unicode internally. That means it can store and display most
+scripts in the world. Being a terminal emulator, however,
+some things are very difficult, especially cursive scripts
+such as arabic, vertically written scripts like mongolian or
+scripts requiring extremely complex combining rules, like
+tibetan or devanagari. Don&rsquo;t expect pretty output when
+using these scripts. Most other scripts, latin, cyrillic,
+kanji, thai etc. should work fine, though. A somewhat
+difficult case are right-to-left scripts, such as hebrew:
+<b>rxvt-unicode</b> adopts the view that bidirectional
+algorithms belong in the application, not the terminal
+emulator (too many things -- such as cursor-movement while
+editing -- break otherwise), but that might change.</p>
+
+<p style="margin-left:11%; margin-top: 1em">If you are
+looking for a terminal that supports more exotic scripts,
+let me recommend &quot;mlterm&quot;, which is a very user
+friendly, lean and clean terminal emulator. In fact, the
+reason rxvt-unicode was born was solely because the author
+couldn&rsquo;t get &quot;mlterm&quot; to use one font for
+latin1 and another for japanese.</p>
+
+<p style="margin-left:11%; margin-top: 1em">Therefore
+another design rationale was the use of multiple fonts to
+display characters: The idea of a single unicode font which
+many other programs force onto its users never made sense to
+me: You should be able to choose any font for any script
+freely.</p>
+
+<p style="margin-left:11%; margin-top: 1em">Apart from
+that, rxvt-unicode is also much better internationalised
+than its predecessor, supports things such as
+<small>XFT</small> and <small>ISO 14755</small> that are
+handy in i18n-environments, is faster, and has a lot bugs
+less than the original rxvt. This all in addition to dozens
+of other small improvements.</p>
+
+<p style="margin-left:11%; margin-top: 1em">It is still
+faithfully following the original rxvt idea of being lean
+and nice on resources: for example, you can still configure
+rxvt-unicode without most of its features to get a lean
+binary. It also comes with a client/daemon pair that lets
+you open any number of terminal windows from within a single
+process, which makes startup time very fast and drastically
+reduces memory usage. See urxvtd(1) (daemon) and urxvtc(1)
+(client).</p>
+
+<p style="margin-left:11%; margin-top: 1em">It also makes
+technical information about escape sequences (which have
+been extended) more accessible: see urxvt(7) for technical
+reference documentation (escape sequences etc.).</p>
+
+<h2>OPTIONS
+<a name="OPTIONS"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em">The
+<b>urxvt</b> options (mostly a subset of
+<i>xterm</i>&rsquo;s) are listed below. In keeping with the
+smaller-is-better philosophy, options may be eliminated or
+default values chosen at compile-time, so options and
+defaults listed may not accurately reflect the version
+installed on your system. &rsquo;urxvt -h&rsquo; gives a
+list of major compile-time options on the <i>Options</i>
+line. Option descriptions may be prefixed with which compile
+option each is dependent upon. e.g. &rsquo;Compile
+<i><small>XIM</small></i> :&rsquo; requires
+<i><small>XIM</small></i> on the <i>Options</i> line. Note:
+&rsquo;urxvt -help&rsquo; gives a list of all command-line
+options compiled into your version.</p>
+
+<p style="margin-left:11%; margin-top: 1em">Note that
+<b>urxvt</b> permits the resource name to be used as a
+long-option (--/++ option) so the potential command-line
+options are far greater than those listed. For example:
+&rsquo;urxvt --loginShell --color1 Orange&rsquo;.</p>
+
+<p style="margin-left:11%; margin-top: 1em">The following
+options are available: <b><br>
+-help</b>, <b>--help</b></p>
+
+<p style="margin-left:17%;">Print out a message describing
+available options.</p>
+
+<p style="margin-left:11%;"><b>-display</b>
+<i>displayname</i></p>
+
+<p style="margin-left:17%;">Attempt to open a window on the
+named X display (the older form <b>-d</b> is still
+respected. but deprecated). In the absence of this option,
+the display specified by the <b><small>DISPLAY</small></b>
+environment variable is used.</p>
+
+<p style="margin-left:11%;"><b>-depth</b>
+<i>bitdepth</i></p>
+
+<p style="margin-left:17%;">Compile <i>frills</i>: Attempt
+to find a visual with the given bit depth; resource
+<b>depth</b>.</p>
+
+<p style="margin-left:17%; margin-top: 1em">[Please note
+that many X servers (and libXft) are buggy with respect to
+&quot;-depth 32&quot; and/or alpha channels, and will cause
+all sorts of graphical corruption. This is harmless, but we
+can&rsquo;t do anything about this, so watch out]</p>
+
+<p style="margin-left:11%;"><b>-visual</b>
+<i>visualID</i></p>
+
+<p style="margin-left:17%;">Compile <i>frills</i>: Use the
+given visual (see e.g. &quot;xdpyinfo&quot; for possible
+visual ids) instead of the default, and also allocate a
+private colormap. All visual types except for DirectColor
+are supported.</p>
+
+<p style="margin-left:11%;"><b>-geometry</b>
+<i>geom</i></p>
+
+<p style="margin-left:17%;">Window geometry (<b>-g</b>
+still respected); resource <b>geometry</b>.</p>
+
+<p style="margin-left:11%;"><b>-rv</b>|<b>+rv</b></p>
+
+<p style="margin-left:17%;">Turn on/off simulated reverse
+video; resource <b>reverseVideo</b>.</p>
+
+<p style="margin-left:11%;"><b>-j</b>|<b>+j</b></p>
+
+<p style="margin-left:17%;">Turn on/off jump scrolling
+(allow multiple lines per refresh); resource
+<b>jumpScroll</b>.</p>
+
+<p style="margin-left:11%;"><b>-ss</b>|<b>+ss</b></p>
+
+<p style="margin-left:17%;">Turn on/off skip scrolling
+(allow multiple screens per refresh); resource
+<b>skipScroll</b>.</p>
+
+<p style="margin-left:11%;"><b>-fade</b> <i>number</i></p>
+
+<p style="margin-left:17%;">Fade the text by the given
+percentage when focus is lost. Small values fade a little
+only, 100 completely replaces all colours by the fade
+colour; resource <b>fading</b>.</p>
+
+<p style="margin-left:11%;"><b>-fadecolor</b>
+<i>colour</i></p>
+
+<p style="margin-left:17%;">Fade to this colour when fading
+is used (see <b>-fade</b>). The default colour is opaque
+black. resource <b>fadeColor</b>.</p>
+
+<p style="margin-left:11%;"><b>-icon</b> <i>file</i></p>
+
+<p style="margin-left:17%;">Compile <i>pixbuf</i>: Use the
+specified image as application icon. This is used by many
+window managers, taskbars and pagers to represent the
+application window; resource <i>iconFile</i>.</p>
+
+<p style="margin-left:11%;"><b>-bg</b> <i>colour</i></p>
+
+<p style="margin-left:17%;">Window background colour;
+resource <b>background</b>.</p>
+
+<p style="margin-left:11%;"><b>-fg</b> <i>colour</i></p>
+
+<p style="margin-left:17%;">Window foreground colour;
+resource <b>foreground</b>.</p>
+
+<p style="margin-left:11%;"><b>-cr</b> <i>colour</i></p>
+
+<p style="margin-left:17%;">The cursor colour; resource
+<b>cursorColor</b>.</p>
+
+<p style="margin-left:11%;"><b>-pr</b> <i>colour</i></p>
+
+<p style="margin-left:17%;">The mouse pointer foreground
+colour; resource <b>pointerColor</b>.</p>
+
+<p style="margin-left:11%;"><b>-pr2</b> <i>colour</i></p>
+
+<p style="margin-left:17%;">The mouse pointer background
+colour; resource <b>pointerColor2</b>.</p>
+
+<p style="margin-left:11%;"><b>-bd</b> <i>colour</i></p>
+
+<p style="margin-left:17%;">The colour of the border around
+the text area and between the scrollbar and the text;
+resource <b>borderColor</b>.</p>
+
+<p style="margin-left:11%;"><b>-fn</b> <i>fontlist</i></p>
+
+<p style="margin-left:17%;">Select the fonts to be used.
+This is a comma separated list of font names that are
+checked in order when trying to find glyphs for characters.
+The first font defines the cell size for characters; other
+fonts might be smaller, but not (in general) larger. A
+(hopefully) reasonable default font list is always appended
+to it. See resource <b>font</b> for more details.</p>
+
+<p style="margin-left:17%; margin-top: 1em">In short, to
+specify an X11 core font, just specify its name or prefix it
+with &quot;x:&quot;. To specify an XFT-font, you need to
+prefix it with &quot;xft:&quot;, e.g.:</p>
+
+<p style="margin-left:17%; margin-top: 1em">urxvt -fn
+&quot;xft:Bitstream Vera Sans Mono:pixelsize=15&quot; <br>
+urxvt -fn &quot;9x15bold,xft:Bitstream Vera Sans
+Mono&quot;</p>
+
+<p style="margin-left:17%; margin-top: 1em">See also the
+question &quot;How does rxvt-unicode choose fonts?&quot; in
+the <small>FAQ</small> section of urxvt(7).</p>
+
+<p style="margin-left:11%;"><b>-fb</b> <i>fontlist</i></p>
+
+<p style="margin-left:17%;">Compile <i>font-styles</i>: The
+bold font list to use when <b>bold</b> characters are to be
+printed. See resource <b>boldFont</b> for details.</p>
+
+<p style="margin-left:11%;"><b>-fi</b> <i>fontlist</i></p>
+
+<p style="margin-left:17%;">Compile <i>font-styles</i>: The
+italic font list to use when <i>italic</i> characters are to
+be printed. See resource <b>italicFont</b> for details.</p>
+
+<p style="margin-left:11%;"><b>-fbi</b> <i>fontlist</i></p>
+
+<p style="margin-left:17%;">Compile <i>font-styles</i>: The
+bold italic font list to use when <b><i>bold italic</i></b>
+characters are to be printed. See resource
+<b>boldItalicFont</b> for details.</p>
+
+<p style="margin-left:11%;"><b>-is</b>|<b>+is</b></p>
+
+<p style="margin-left:17%;">Compile <i>font-styles</i>:
+Bold/Blink font styles imply high intensity
+foreground/background (default). See resource
+<b>intensityStyles</b> for details.</p>
+
+<p style="margin-left:11%;"><b>-name</b> <i>name</i></p>
+
+<p style="margin-left:17%;">Specify the application name
+under which resources are to be obtained, rather than the
+default executable file name. Name should not contain
+&rsquo;.&rsquo; or &rsquo;*&rsquo; characters. Also sets the
+icon and title name.</p>
+
+<p style="margin-left:11%;"><b>-ls</b>|<b>+ls</b></p>
+
+<p style="margin-left:17%;">Start as a
+login-shell/sub-shell; resource <b>loginShell</b>.</p>
+
+<p style="margin-left:11%;"><b>-mc</b>
+<i>milliseconds</i></p>
+
+<p style="margin-left:17%;">Specify the maximum time
+between multi-click selections.</p>
+
+<p style="margin-left:11%;"><b>-ut</b>|<b>+ut</b></p>
+
+<p style="margin-left:17%;">Compile <i>utmp</i>:
+Inhibit/enable writing a utmp entry; resource
+<b>utmpInhibit</b>.</p>
+
+<p style="margin-left:11%;"><b>-vb</b>|<b>+vb</b></p>
+
+<p style="margin-left:17%;">Turn on/off visual bell on
+receipt of a bell character; resource <b>visualBell</b>.</p>
+
+<p style="margin-left:11%;"><b>-sb</b>|<b>+sb</b></p>
+
+<p style="margin-left:17%;">Turn on/off scrollbar; resource
+<b>scrollBar</b>.</p>
+
+<p style="margin-left:11%;"><b>-sr</b>|<b>+sr</b></p>
+
+<p style="margin-left:17%;">Put scrollbar on right/left;
+resource <b>scrollBar_right</b>.</p>
+
+<p style="margin-left:11%;"><b>-st</b>|<b>+st</b></p>
+
+<p style="margin-left:17%;">Display rxvt (non XTerm/NeXT)
+scrollbar without/with a trough; resource
+<b>scrollBar_floating</b>.</p>
+
+<p style="margin-left:11%;"><b>-si</b>|<b>+si</b></p>
+
+<p style="margin-left:17%;">Turn on/off scroll-to-bottom on
+<small>TTY</small> output inhibit; resource
+<b>scrollTtyOutput</b> has opposite effect.</p>
+
+<p style="margin-left:11%;"><b>-sk</b>|<b>+sk</b></p>
+
+<p style="margin-left:17%;">Turn on/off scroll-to-bottom on
+keypress; resource <b>scrollTtyKeypress</b>.</p>
+
+<p style="margin-left:11%;"><b>-sw</b>|<b>+sw</b></p>
+
+<p style="margin-left:17%;">Turn on/off scrolling with the
+scrollback buffer as new lines appear. This only takes
+effect if <b>-si</b> is also given; resource
+<b>scrollWithBuffer</b>.</p>
+
+<p style="margin-left:11%;"><b>-ptab</b>|<b>+ptab</b></p>
+
+<p style="margin-left:17%;">If enabled (default),
+&quot;Horizontal Tab&quot; characters are being stored as
+actual wide characters in the screen buffer, which makes it
+possible to select and paste them. Since a horizontal tab is
+a cursor movement and not an actual glyph, this can
+sometimes be visually annoying as the cursor on a tab
+character is displayed as a wide cursor; resource
+<b>pastableTabs</b>.</p>
+
+<p style="margin-left:11%;"><b>-bc</b>|<b>+bc</b></p>
+
+<p style="margin-left:17%;">Blink the cursor; resource
+<b>cursorBlink</b>.</p>
+
+<p style="margin-left:11%;"><b>-uc</b>|<b>+uc</b></p>
+
+<p style="margin-left:17%;">Make the cursor underlined;
+resource <b>cursorUnderline</b>.</p>
+
+<p style="margin-left:11%;"><b>-iconic</b></p>
+
+<p style="margin-left:17%;">Start iconified, if the window
+manager supports that option. Alternative form is
+<b>-ic</b>.</p>
+
+<p style="margin-left:11%;"><b>-sl</b> <i>number</i></p>
+
+<p style="margin-left:17%;">Save <i>number</i> lines in the
+scrollback buffer. See resource entry for limits; resource
+<b>saveLines</b>.</p>
+
+<p style="margin-left:11%;"><b>-b</b> <i>number</i></p>
+
+<p style="margin-left:17%;">Compile <i>frills</i>: Internal
+border of <i>number</i> pixels. See resource entry for
+limits; resource <b>internalBorder</b>.</p>
+
+<p style="margin-left:11%;"><b>-w</b> <i>number</i></p>
+
+<p style="margin-left:17%;">Compile <i>frills</i>: External
+border of <i>number</i> pixels. Also, <b>-bw</b> and
+<b>-borderwidth</b>. See resource entry for limits; resource
+<b>externalBorder</b>.</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p><b>-bl</b></p></td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p>Compile <i>frills</i>: Set <small>MWM</small> hints to
+request a borderless window, i.e. if honoured by the
+<small>WM,</small> the rxvt-unicode window will not have
+window decorations; resource <b>borderLess</b>. If the
+window manager does not support <small>MWM</small> hints
+(e.g. kwin), enables override-redirect mode.</p></td></tr>
+</table>
+
+<p style="margin-left:11%;"><b>-override-redirect</b></p>
+
+<p style="margin-left:17%;">Compile <i>frills</i>: Sets
+override-redirect on the window; resource
+<b>override-redirect</b>.</p>
+
+<p style="margin-left:11%;"><b>-dockapp</b></p>
+
+<p style="margin-left:17%;">Sets the initial state of the
+window to WithdrawnState, which makes window managers that
+support this extension treat it as a dockapp.</p>
+
+<p style="margin-left:11%;"><b>-sbg</b></p>
+
+<p style="margin-left:17%;">Compile <i>frills</i>: Disable
+the usage of the built-in block graphics/line drawing
+characters and just rely on what the specified fonts
+provide. Use this if you have a good font and want to use
+its block graphic glyphs; resource
+<b>skipBuiltinGlyphs</b>.</p>
+
+<p style="margin-left:11%;"><b>-lsp</b> <i>number</i></p>
+
+<p style="margin-left:17%;">Compile <i>frills</i>: Lines
+(pixel height) to insert between each row of the display.
+Useful to work around font rendering problems; resource
+<b>lineSpace</b>.</p>
+
+<p style="margin-left:11%;"><b>-letsp</b> <i>number</i></p>
+
+<p style="margin-left:17%;">Compile <i>frills</i>: Amount
+to adjust the computed character width by to control overall
+letter spacing. Negative values will tighten up the letter
+spacing, positive values will space letters out more. Useful
+to work around odd font metrics; resource
+<b>letterSpace</b>.</p>
+
+<p style="margin-left:11%;"><b>-tn</b> <i>termname</i></p>
+
+<p style="margin-left:17%;">This option specifies the name
+of the terminal type to be set in the
+<b><small>TERM</small></b> environment variable. This
+terminal type must exist in the
+<b><i>termcap</i></b><i>(5)</i> database and should have
+<i>li#</i> and <i>co#</i> entries; resource
+<b>termName</b>.</p>
+
+<p style="margin-left:11%;"><b>-e</b> <i>command
+[arguments]</i></p>
+
+<p style="margin-left:17%;">Run the command with its
+command-line arguments in the <b>urxvt</b> window; also sets
+the window title and icon name to be the basename of the
+program being executed if neither <i>-title</i> (<i>-T</i>)
+nor <i>-n</i> are given on the command line. If this option
+is used, it must be the last on the command-line. If there
+is no <b>-e</b> option then the default is to run the
+program specified by the <b><small>SHELL</small></b>
+environment variable or, failing that,
+<b><i>sh</i></b><i>(1)</i>.</p>
+
+<p style="margin-left:17%; margin-top: 1em">Please note
+that you must specify a program with arguments. If you want
+to run shell commands, you have to specify the shell, like
+this:</p>
+
+<p style="margin-left:17%; margin-top: 1em">urxvt -e sh -c
+&quot;shell commands&quot;</p>
+
+<p style="margin-left:11%;"><b>-title</b> <i>text</i></p>
+
+<p style="margin-left:17%;">Window title (<b>-T</b> still
+respected); the default title is the basename of the program
+specified after the <b>-e</b> option, if any, otherwise the
+application name; resource <b>title</b>.</p>
+
+<p style="margin-left:11%;"><b>-n</b> <i>text</i></p>
+
+<p style="margin-left:17%;">Icon name; the default name is
+the basename of the program specified after the <b>-e</b>
+option, if any, otherwise the application name; resource
+<b>iconName</b>.</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p><b>-C</b></p></td>
+<td width="3%"></td>
+<td width="49%">
+
+
+<p>Capture system console messages.</p></td>
+<td width="34%">
+</td></tr>
+</table>
+
+<p style="margin-left:11%;"><b>-pt</b> <i>style</i></p>
+
+<p style="margin-left:17%;">Compile
+<i><small>XIM</small></i> : input style for input method;
+<b>OverTheSpot</b>, <b>OffTheSpot</b>, <b>Root</b>; resource
+<b>preeditType</b>.</p>
+
+<p style="margin-left:17%; margin-top: 1em">If the perl
+extension &quot;xim-onthespot&quot; is used (which is the
+default), then additionally the &quot;OnTheSpot&quot;
+preedit type is available.</p>
+
+<p style="margin-left:11%;"><b>-im</b> <i>text</i></p>
+
+<p style="margin-left:17%;">Compile
+<i><small>XIM</small></i> : input method name. resource
+<b>inputMethod</b>.</p>
+
+<p style="margin-left:11%;"><b>-imlocale</b>
+<i>string</i></p>
+
+<p style="margin-left:17%;">The locale to use for opening
+the <small>IM.</small> You can use an &quot;LC_CTYPE&quot;
+of e.g. &quot;de_DE.UTF-8&quot; for normal text processing
+but &quot;ja_JP.EUC-JP&quot; for the input extension to be
+able to input japanese characters while staying in another
+locale. resource <b>imLocale</b>.</p>
+
+<p style="margin-left:11%;"><b>-imfont</b>
+<i>fontset</i></p>
+
+<p style="margin-left:17%;">Set the font set to use for the
+X Input Method, see resource <b>imFont</b> for more
+info.</p>
+
+<p style="margin-left:11%;"><b>-tcw</b></p>
+
+<p style="margin-left:17%;">Change the meaning of
+triple-click selection with the left mouse button. Only
+effective when the original (non-perl) selection code is
+in-use. Instead of selecting a full line it will extend the
+selection to the end of the logical line only. resource
+<b>tripleclickwords</b>.</p>
+
+<p style="margin-left:11%;"><b>-insecure</b></p>
+
+<p style="margin-left:17%;">Enable &quot;insecure&quot;
+mode, which currently enables most of the escape sequences
+that echo strings. See the resource <b>insecure</b> for more
+info.</p>
+
+<p style="margin-left:11%;"><b>-mod</b> <i>modifier</i></p>
+
+<p style="margin-left:17%;">Override detection of Meta
+modifier with specified key: <b>alt</b>, <b>meta</b>,
+<b>hyper</b>, <b>super</b>, <b>mod1</b>, <b>mod2</b>,
+<b>mod3</b>, <b>mod4</b>, <b>mod5</b>; resource
+<i>modifier</i>.</p>
+
+<p style="margin-left:11%;"><b>-ssc</b>|<b>+ssc</b></p>
+
+<p style="margin-left:17%;">Turn on/off secondary screen
+(default enabled); resource <b>secondaryScreen</b>.</p>
+
+<p style="margin-left:11%;"><b>-ssr</b>|<b>+ssr</b></p>
+
+<p style="margin-left:17%;">Turn on/off secondary screen
+scroll (default enabled); resource
+<b>secondaryScroll</b>.</p>
+
+<p style="margin-left:11%;"><b>-hold</b>|<b>+hold</b></p>
+
+<p style="margin-left:17%;">Turn on/off hold window after
+exit support. If enabled, urxvt will not immediately destroy
+its window when the program executed within it exits.
+Instead, it will wait till it is being killed or closed by
+the user; resource <b>hold</b>.</p>
+
+<p style="margin-left:11%;"><b>-cd</b> <i>path</i></p>
+
+<p style="margin-left:17%;">Sets the working directory for
+the shell (or the command specified via <b>-e</b>). The
+<i>path</i> must be an absolute path and it must exist for
+urxvt to start; resource <b>chdir</b>.</p>
+
+<p style="margin-left:11%;"><b>-xrm</b> <i>string</i></p>
+
+<p style="margin-left:17%;">Works like the X Toolkit option
+of the same name, by adding the <i>string</i> as if it were
+specified in a resource file. Resource values specified this
+way take precedence over all other resource
+specifications.</p>
+
+<p style="margin-left:17%; margin-top: 1em">Note that you
+need to use the <i>same</i> syntax as in the .Xdefaults
+file, e.g. &quot;*.background: black&quot;. Also note that
+all urxvt-specific options can be specified as long-options
+on the commandline, so use of <b>-xrm</b> is mostly limited
+to cases where you want to specify other resources (e.g. for
+input methods) or for compatibility with other programs.</p>
+
+<p style="margin-left:11%;"><b>-keysym.</b><i>sym
+string</i></p>
+
+<p style="margin-left:17%;">Remap a key symbol. See
+resource <b>keysym</b>.</p>
+
+<p style="margin-left:11%;"><b>-embed</b>
+<i>windowid</i></p>
+
+<p style="margin-left:17%;">Tells urxvt to embed its
+windows into an already-existing window, which enables
+applications to easily embed a terminal.</p>
+
+<p style="margin-left:17%; margin-top: 1em">Right now,
+urxvt will first unmap/map the specified window, so it
+shouldn&rsquo;t be a top-level window. urxvt will also
+reconfigure it quite a bit, so don&rsquo;t expect it to keep
+some specific state. It&rsquo;s best to create an extra
+subwindow for urxvt and leave it alone.</p>
+
+<p style="margin-left:17%; margin-top: 1em">The window will
+not be destroyed when urxvt exits.</p>
+
+<p style="margin-left:17%; margin-top: 1em">It might be
+useful to know that urxvt will not close file descriptors
+passed to it (except for stdin/out/err, of course), so you
+can use file descriptors to communicate with the programs
+within the terminal. This works regardless of whether the
+&quot;-embed&quot; option was used or not.</p>
+
+<p style="margin-left:17%; margin-top: 1em">Here is a short
+Gtk2-perl snippet that illustrates how this option can be
+used (a longer example is in <i>doc/embed</i>):</p>
+
+<p style="margin-left:17%; margin-top: 1em">my $rxvt = new
+Gtk2::Socket; <br>
+$rxvt-&gt;signal_connect_after (realize =&gt; sub { <br>
+my $xid = $_[0]-&gt;window-&gt;get_xid; <br>
+system &quot;urxvt -embed $xid &amp;&quot;; <br>
+});</p>
+
+<p style="margin-left:11%;"><b>-pty-fd</b> <i>file
+descriptor</i></p>
+
+<p style="margin-left:17%;">Tells urxvt <small>NOT</small>
+to execute any commands or create a new pty/tty pair but
+instead use the given file descriptor as the tty master.
+This is useful if you want to drive urxvt as a generic
+terminal emulator without having to run a program within
+it.</p>
+
+<p style="margin-left:17%; margin-top: 1em">If this switch
+is given, urxvt will not create any utmp/wtmp entries and
+will not tinker with pty/tty permissions - you have to do
+that yourself if you want that.</p>
+
+<p style="margin-left:17%; margin-top: 1em">As an extremely
+special case, specifying &quot;-1&quot; will completely
+suppress pty/tty operations, which is probably only useful
+in conjunction with some perl extension that manages the
+terminal.</p>
+
+<p style="margin-left:17%; margin-top: 1em">Here is a
+example in perl that illustrates how this option can be used
+(a longer example is in <i>doc/pty-fd</i>):</p>
+
+<p style="margin-left:17%; margin-top: 1em">use IO::Pty;
+<br>
+use Fcntl; <br>
+my $pty = new IO::Pty; <br>
+fcntl $pty, F_SETFD, 0; # clear close-on-exec <br>
+system &quot;urxvt -pty-fd &quot; . (fileno $pty) .
+&quot;&amp;&quot;; <br>
+close $pty; <br>
+# now communicate with rxvt <br>
+my $slave = $pty-&gt;slave; <br>
+while (&lt;$slave&gt;) { print $slave &quot;got
+&lt;$_&gt;\n&quot; }</p>
+
+<p style="margin-left:11%;"><b>-pe</b> <i>string</i></p>
+
+<p style="margin-left:17%;">Comma-separated list of perl
+extension scripts to use (or not to use) in this terminal
+instance. See resource <b>perl-ext</b> for details.</p>
+
+<h2>RESOURCES
+<a name="RESOURCES"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em">Note:
+&rsquo;urxvt --help&rsquo; gives a list of all resources
+(long options) compiled into your version. All resources are
+also available as long-options.</p>
+
+<p style="margin-left:11%; margin-top: 1em">You can set and
+change the resources using X11 tools like <b>xrdb</b>. Many
+distribution do also load settings from the
+<b>~/.Xresources</b> file when X starts. urxvt will consult
+the following files/resources in order, with later settings
+overwriting earlier ones:</p>
+
+<p style="margin-left:11%; margin-top: 1em">1. app-defaults
+file in $XAPPLRESDIR <br>
+2. $HOME/.Xdefaults <br>
+3. RESOURCE_MANAGER property on root-window of screen 0 <br>
+4. SCREEN_RESOURCES property on root-window of the current
+screen <br>
+5. $XENVIRONMENT file OR $HOME/.Xdefaults-&lt;nodename&gt;
+<br>
+6. resources specified via -xrm on the commandline</p>
+
+<p style="margin-left:11%; margin-top: 1em">Note that when
+reading X resources, <b>urxvt</b> recognizes two class
+names: <b>Rxvt</b> and <b>URxvt</b>. The class name
+<b>Rxvt</b> allows resources common to both <b>urxvt</b> and
+the original <i>rxvt</i> to be easily configured, while the
+class name <b>URxvt</b> allows resources unique to
+<b>urxvt</b>, to be shared between different <b>urxvt</b>
+configurations. If no resources are specified, suitable
+defaults will be used. Command-line arguments can be used to
+override resource settings. The following resources are
+supported (you might want to check the urxvt<b>perl</b>(3)
+manpage for additional settings by perl extensions not
+documented here): <b><br>
+depth:</b> <i>bitdepth</i></p>
+
+<p style="margin-left:17%;">Compile <i>xft</i>: Attempt to
+find a visual with the given bit depth; option
+<b>-depth</b>.</p>
+
+<p style="margin-left:11%;"><b>buffered:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;">Compile <i>xft</i>: Turn on/off
+double-buffering for xft (default enabled). On some
+card/driver combination enabling it slightly decreases
+performance, on most it greatly helps it. The slowdown is
+small, so it should normally be enabled.</p>
+
+<p style="margin-left:11%;"><b>geometry:</b>
+<i>geom</i></p>
+
+<p style="margin-left:17%;">Create the window with the
+specified X window geometry [default 80x24]; option
+<b>-geometry</b>.</p>
+
+<p style="margin-left:11%;"><b>background:</b>
+<i>colour</i></p>
+
+<p style="margin-left:17%;">Use the specified colour as the
+window&rsquo;s background colour [default White]; option
+<b>-bg</b>.</p>
+
+<p style="margin-left:11%;"><b>foreground:</b>
+<i>colour</i></p>
+
+<p style="margin-left:17%;">Use the specified colour as the
+window&rsquo;s foreground colour [default Black]; option
+<b>-fg</b>.</p>
+
+<p style="margin-left:11%;"><b>color</b><i>n</i><b>:</b>
+<i>colour</i></p>
+
+<p style="margin-left:17%;">Use the specified colour for
+the colour value <i>n</i>, where 0-7 corresponds to
+low-intensity (normal) colours and 8-15 corresponds to
+high-intensity (bold = bright foreground, blink = bright
+background) colours. The canonical names are as follows:
+0=black, 1=red, 2=green, 3=yellow, 4=blue, 5=magenta,
+6=cyan, 7=white, but the actual colour names used are listed
+in the <b><small>COLOURS AND GRAPHICS</small></b>
+section.</p>
+
+<p style="margin-left:17%; margin-top: 1em">Colours higher
+than 15 cannot be set using resources (yet), but can be
+changed using an escape command (see urxvt(7)).</p>
+
+<p style="margin-left:17%; margin-top: 1em">Colours 16-79
+form a standard 4x4x4 colour cube (the same as xterm with 88
+colour support). Colours 80-87 are evenly spaces grey
+steps.</p>
+
+<p style="margin-left:11%;"><b>colorBD:</b> <i>colour</i>
+<b><br>
+colorIT:</b> <i>colour</i></p>
+
+<p style="margin-left:17%;">Use the specified colour to
+display bold or italic characters when the foreground colour
+is the default. If font styles are not available (Compile
+<i>styles</i>) and this option is unset, reverse video is
+used instead.</p>
+
+<p style="margin-left:11%;"><b>colorUL:</b>
+<i>colour</i></p>
+
+<p style="margin-left:17%;">Use the specified colour to
+display underlined characters when the foreground colour is
+the default.</p>
+
+<p style="margin-left:11%;"><b>underlineColor:</b>
+<i>colour</i></p>
+
+<p style="margin-left:17%;">If set, use the specified
+colour as the colour for the underline itself. If unset, use
+the foreground colour.</p>
+
+<p style="margin-left:11%;"><b>highlightColor:</b>
+<i>colour</i></p>
+
+<p style="margin-left:17%;">If set, use the specified
+colour as the background for highlighted characters. If
+unset, use reverse video.</p>
+
+<p style="margin-left:11%;"><b>highlightTextColor:</b>
+<i>colour</i></p>
+
+<p style="margin-left:17%;">If set and highlightColor is
+set, use the specified colour as the foreground for
+highlighted characters.</p>
+
+<p style="margin-left:11%;"><b>cursorColor:</b>
+<i>colour</i></p>
+
+<p style="margin-left:17%;">Use the specified colour for
+the cursor. The default is to use the foreground colour;
+option <b>-cr</b>.</p>
+
+<p style="margin-left:11%;"><b>cursorColor2:</b>
+<i>colour</i></p>
+
+<p style="margin-left:17%;">Use the specified colour for
+the colour of the cursor text. For this to take effect,
+<b>cursorColor</b> must also be specified. The default is to
+use the background colour.</p>
+
+<p style="margin-left:11%;"><b>reverseVideo:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;"><b>True</b>: simulate reverse
+video by foreground and background colours; option
+<b>-rv</b>. <b>False</b>: regular screen colours [default];
+option <b>+rv</b>. See note in <b><small>COLOURS AND
+GRAPHICS</small></b> section.</p>
+
+<p style="margin-left:11%;"><b>jumpScroll:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;"><b>True</b>: specify that jump
+scrolling should be used. When receiving lots of lines,
+urxvt will only scroll once a whole screen height of lines
+has been read, resulting in fewer updates while still
+displaying every received line; option <b>-j</b>.</p>
+
+<p style="margin-left:17%; margin-top: 1em"><b>False</b>:
+specify that smooth scrolling should be used. urxvt will
+force a screen refresh on each new line it received; option
+<b>+j</b>.</p>
+
+<p style="margin-left:11%;"><b>skipScroll:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;"><b>True</b>: (the default)
+specify that skip scrolling should be used. When receiving
+lots of lines, urxvt will only scroll once in a while
+(around 60 times per second), resulting in far fewer
+updates. This can result in urxvt not ever displaying some
+of the lines it receives; option <b>-ss</b>.</p>
+
+<p style="margin-left:17%; margin-top: 1em"><b>False</b>:
+specify that everything is to be displayed, even if the
+refresh is too fast for the human eye to read anything (or
+the monitor to display anything); option <b>+ss</b>.</p>
+
+<p style="margin-left:11%;"><b>fading:</b>
+<i>number</i></p>
+
+<p style="margin-left:17%;">Fade the text by the given
+percentage when focus is lost; option <b>-fade</b>.</p>
+
+<p style="margin-left:11%;"><b>fadeColor:</b>
+<i>colour</i></p>
+
+<p style="margin-left:17%;">Fade to this colour, when
+fading is used (see <b>fading:</b>). The default colour is
+black; option <b>-fadecolor</b>.</p>
+
+<p style="margin-left:11%;"><b>iconFile:</b>
+<i>file</i></p>
+
+<p style="margin-left:17%;">Set the application icon
+pixmap; option <b>-icon</b>.</p>
+
+<p style="margin-left:11%;"><b>scrollColor:</b>
+<i>colour</i></p>
+
+<p style="margin-left:17%;">Use the specified colour for
+the scrollbar [default #B2B2B2].</p>
+
+<p style="margin-left:11%;"><b>troughColor:</b>
+<i>colour</i></p>
+
+<p style="margin-left:17%;">Use the specified colour for
+the scrollbar&rsquo;s trough area [default #969696]. Only
+relevant for rxvt (non XTerm/NeXT) scrollbar.</p>
+
+<p style="margin-left:11%;"><b>borderColor:</b>
+<i>colour</i></p>
+
+<p style="margin-left:17%;">The colour of the border around
+the text area and between the scrollbar and the text.</p>
+
+<p style="margin-left:11%;"><b>font:</b>
+<i>fontlist</i></p>
+
+<p style="margin-left:17%;">Select the fonts to be used.
+This is a comma separated list of font names that are
+checked in order when trying to find glyphs for characters.
+The first font defines the cell size for characters; other
+fonts might be smaller, but not (in general) larger. A
+(hopefully) reasonable default font list is always appended
+to it; option <b>-fn</b>.</p>
+
+<p style="margin-left:17%; margin-top: 1em">Each font can
+either be a standard X11 core font ( <small>XLFD</small> )
+name, with optional prefix &quot;x:&quot; or a Xft font
+(Compile <i>xft</i>), prefixed with &quot;xft:&quot;.</p>
+
+<p style="margin-left:17%; margin-top: 1em">In addition,
+each font can be prefixed with additional hints and
+specifications enclosed in square brackets (&quot;[]&quot;).
+The only available hint currently is
+&quot;codeset=codeset-name&quot;, and this is only used for
+Xft fonts.</p>
+
+<p style="margin-left:17%; margin-top: 1em">For example,
+this font resource</p>
+
+<p style="margin-left:17%; margin-top: 1em">URxvt.font:
+9x15bold,\ <br>
+-misc-fixed-bold-r-normal--15-140-75-75-c-90-iso10646-1,\
+<br>
+-misc-fixed-medium-r-normal--15-140-75-75-c-90-iso10646-1, \
+<br>
+[codeset=JISX0208]xft:Kochi Gothic:antialias=false, \ <br>
+xft:Code2000:antialias=false</p>
+
+<p style="margin-left:17%; margin-top: 1em">specifies five
+fonts to be used. The first one is &quot;9x15bold&quot;
+(actually the iso8859-1 version of the second font), which
+is the base font (because it is named first) and thus
+defines the character cell grid to be 9 pixels wide and 15
+pixels high.</p>
+
+<p style="margin-left:17%; margin-top: 1em">The second font
+is just used to add additional unicode characters not in the
+base font, likewise the third, which is unfortunately
+non-bold, but the bold version of the font does contain
+fewer characters, so this is a useful supplement.</p>
+
+<p style="margin-left:17%; margin-top: 1em">The third font
+is an Xft font with aliasing turned off, and the characters
+are limited to the <b><small>JIS 0208</small></b> codeset
+(i.e. japanese kanji). The font contains other characters,
+but we are not interested in them.</p>
+
+<p style="margin-left:17%; margin-top: 1em">The last font
+is a useful catch-all font that supplies most of the
+remaining unicode characters.</p>
+
+<p style="margin-left:11%;"><b>boldFont:</b>
+<i>fontlist</i> <b><br>
+italicFont:</b> <i>fontlist</i> <b><br>
+boldItalicFont:</b> <i>fontlist</i></p>
+
+<p style="margin-left:17%;">The font list to use for
+displaying <b>bold</b>, <i>italic</i> or <b><i>bold
+italic</i></b> characters, respectively.</p>
+
+<p style="margin-left:17%; margin-top: 1em">If specified
+and non-empty, then the syntax is the same as for the
+<b>font</b>-resource, and the given font list will be used
+as is, which makes it possible to substitute completely
+different font styles for bold and italic.</p>
+
+<p style="margin-left:17%; margin-top: 1em">If unset (the
+default), a suitable font list will be synthesized by
+&quot;morphing&quot; the normal text font list into the
+desired shape. If that is not possible, replacement fonts of
+the desired shape will be tried.</p>
+
+<p style="margin-left:17%; margin-top: 1em">If set, but
+empty, then this specific style is disabled and the normal
+text font will being used for the given style.</p>
+
+<p style="margin-left:11%;"><b>intensityStyles:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;">When font styles are not
+enabled, or this option is enabled (<b>True</b>, option
+<b>-is</b>, the default), bold/blink font styles imply high
+intensity foreground/background colours. Disabling this
+option (<b>False</b>, option <b>+is</b>) disables this
+behaviour, the high intensity colours are not reachable.</p>
+
+<p style="margin-left:11%;"><b>title:</b> <i>string</i></p>
+
+<p style="margin-left:17%;">Set window title string, the
+default title is the command-line specified after the
+<b>-e</b> option, if any, otherwise the application name;
+option <b>-title</b>.</p>
+
+<p style="margin-left:11%;"><b>iconName:</b>
+<i>string</i></p>
+
+<p style="margin-left:17%;">Set the name used to label the
+window&rsquo;s icon or displayed in an icon manager window,
+it also sets the window&rsquo;s title unless it is
+explicitly set; option <b>-n</b>.</p>
+
+<p style="margin-left:11%;"><b>mapAlert:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;"><b>True</b>: de-iconify (map)
+on receipt of a bell character. <b>False</b>: no de-iconify
+(map) on receipt of a bell character [default].</p>
+
+<p style="margin-left:11%;"><b>urgentOnBell:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;"><b>True</b>: set the urgency
+hint for the wm on receipt of a bell character.
+<b>False</b>: do not set the urgency hint [default].</p>
+
+<p style="margin-left:17%; margin-top: 1em">urxvt resets
+the urgency hint on every focus change.</p>
+
+<p style="margin-left:11%;"><b>visualBell:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;"><b>True</b>: use visual bell on
+receipt of a bell character; option <b>-vb</b>.
+<b>False</b>: no visual bell [default]; option
+<b>+vb</b>.</p>
+
+<p style="margin-left:11%;"><b>loginShell:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;"><b>True</b>: start as a login
+shell by prepending a &rsquo;-&rsquo; to <b>argv[0]</b> of
+the shell; option <b>-ls</b>. <b>False</b>: start as a
+normal sub-shell [default]; option <b>+ls</b>.</p>
+
+<p style="margin-left:11%;"><b>multiClickTime:</b>
+<i>number</i></p>
+
+<p style="margin-left:17%;">Specify the maximum time in
+milliseconds between multi-click select events. The default
+is 500 milliseconds; option <b>-mc</b>.</p>
+
+<p style="margin-left:11%;"><b>utmpInhibit:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;"><b>True</b>: inhibit writing
+record into the system log file <b>utmp</b>; option
+<b>-ut</b>. <b>False</b>: write record into the system log
+file <b>utmp</b> [default]; option <b>+ut</b>.</p>
+
+<p style="margin-left:11%;"><b>print-pipe:</b>
+<i>string</i></p>
+
+<p style="margin-left:17%;">Specify a command pipe for
+vt100 printer [default <b><i>lpr</i></b><i>(1)</i>]. Use
+<b>Print</b> to initiate a screen dump to the printer and
+<b>Ctrl-Print</b> or <b>Shift-Print</b> to include the
+scrollback as well.</p>
+
+<p style="margin-left:17%; margin-top: 1em">The string will
+be interpreted as if typed into the shell as-is.</p>
+
+<p style="margin-left:17%; margin-top: 1em">Example:</p>
+
+
+<p style="margin-left:17%; margin-top: 1em">URxvt.print-pipe:
+cat &gt; $(TMPDIR=$HOME mktemp urxvt.XXXXXX)</p>
+
+<p style="margin-left:17%; margin-top: 1em">This creates a
+new file in your home directory with the screen contents
+every time you hit &quot;Print&quot;.</p>
+
+<p style="margin-left:11%;"><b>scrollstyle:</b>
+<i>mode</i></p>
+
+<p style="margin-left:17%;">Set scrollbar style to
+<b>rxvt</b>, <b>plain</b>, <b>next</b> or <b>xterm</b>.
+<b>plain</b> is the author&rsquo;s favourite.</p>
+
+<p style="margin-left:11%;"><b>thickness:</b>
+<i>number</i></p>
+
+<p style="margin-left:17%;">Set the scrollbar width in
+pixels.</p>
+
+<p style="margin-left:11%;"><b>scrollBar:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;"><b>True</b>: enable the
+scrollbar [default]; option <b>-sb</b>. <b>False</b>:
+disable the scrollbar; option <b>+sb</b>.</p>
+
+<p style="margin-left:11%;"><b>scrollBar_right:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;"><b>True</b>: place the
+scrollbar on the right of the window; option <b>-sr</b>.
+<b>False</b>: place the scrollbar on the left of the window;
+option <b>+sr</b>.</p>
+
+<p style="margin-left:11%;"><b>scrollBar_floating:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;"><b>True</b>: display an rxvt
+scrollbar without a trough; option <b>-st</b>. <b>False</b>:
+display an rxvt scrollbar with a trough; option
+<b>+st</b>.</p>
+
+<p style="margin-left:11%;"><b>scrollBar_align:</b>
+<i>mode</i></p>
+
+<p style="margin-left:17%;">Align the <b>top</b>,
+<b>bottom</b> or <b>centre</b> [default] of the scrollbar
+thumb with the pointer on middle button press/drag.</p>
+
+<p style="margin-left:11%;"><b>scrollTtyOutput:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;"><b>True</b>: scroll to bottom
+when tty receives output; option <b>-si</b>. <b>False</b>:
+do not scroll to bottom when tty receives output; option
+<b>+si</b>.</p>
+
+<p style="margin-left:11%;"><b>scrollWithBuffer:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;"><b>True</b>: scroll with
+scrollback buffer when tty receives new lines (i.e. try to
+show the same lines) and <b>scrollTtyOutput</b> is False;
+option <b>-sw</b>. <b>False</b>: do not scroll with
+scrollback buffer when tty receives new lines; option
+<b>+sw</b>.</p>
+
+<p style="margin-left:11%;"><b>scrollTtyKeypress:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;"><b>True</b>: scroll to bottom
+when a non-special key is pressed. Special keys are those
+which are intercepted by rxvt-unicode for special handling
+and are not passed onto the shell; option <b>-sk</b>.
+<b>False</b>: do not scroll to bottom when a non-special key
+is pressed; option <b>+sk</b>.</p>
+
+<p style="margin-left:11%;"><b>saveLines:</b>
+<i>number</i></p>
+
+<p style="margin-left:17%;">Save <i>number</i> lines in the
+scrollback buffer [default 1000]; option <b>-sl</b>.</p>
+
+<p style="margin-left:11%;"><b>internalBorder:</b>
+<i>number</i></p>
+
+<p style="margin-left:17%;">Internal border of
+<i>number</i> pixels. This resource is limited to 100;
+option <b>-b</b>.</p>
+
+<p style="margin-left:11%;"><b>externalBorder:</b>
+<i>number</i></p>
+
+<p style="margin-left:17%;">External border of
+<i>number</i> pixels. This resource is limited to 100;
+option <b>-w</b>, <b>-bw</b>, <b>-borderwidth</b>.</p>
+
+<p style="margin-left:11%;"><b>borderLess:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;">Set <small>MWM</small> hints to
+request a borderless window, i.e. if honoured by the
+<small>WM,</small> the rxvt-unicode window will not have
+window decorations; option <b>-bl</b>.</p>
+
+<p style="margin-left:11%;"><b>skipBuiltinGlyphs:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;">Compile <i>frills</i>: Disable
+the usage of the built-in block graphics/line drawing
+characters and just rely on what the specified fonts
+provide. Use this if you have a good font and want to use
+its block graphic glyphs; option <b>-sbg</b>.</p>
+
+<p style="margin-left:11%;"><b>termName:</b>
+<i>termname</i></p>
+
+<p style="margin-left:17%;">Specifies the terminal type
+name to be set in the <b><small>TERM</small></b> environment
+variable; option <b>-tn</b>.</p>
+
+<p style="margin-left:11%;"><b>lineSpace:</b>
+<i>number</i></p>
+
+<p style="margin-left:17%;">Specifies number of lines
+(pixel height) to insert between each row of the display
+[default 0]; option <b>-lsp</b>.</p>
+
+<p style="margin-left:11%;"><b>meta8:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;"><b>True</b>: handle Meta (Alt)
++ keypress to set the 8th bit. <b>False</b>: handle Meta
+(Alt) + keypress as an escape prefix [default].</p>
+
+<p style="margin-left:11%;"><b>mouseWheelScrollPage:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;"><b>True</b>: the mouse wheel
+scrolls a page full. <b>False</b>: the mouse wheel scrolls
+five lines [default].</p>
+
+<p style="margin-left:11%;"><b>pastableTabs:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;"><b>True</b>: store tabs as wide
+characters. <b>False</b>: interpret tabs as cursor movement
+only; option &quot;-ptab&quot;.</p>
+
+<p style="margin-left:11%;"><b>cursorBlink:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;"><b>True</b>: blink the cursor.
+<b>False</b>: do not blink the cursor [default]; option
+<b>-bc</b>.</p>
+
+<p style="margin-left:11%;"><b>cursorUnderline:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;"><b>True</b>: Make the cursor
+underlined. <b>False</b>: Make the cursor a box [default];
+option <b>-uc</b>.</p>
+
+<p style="margin-left:11%;"><b>pointerBlank:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;"><b>True</b>: blank the pointer
+when a key is pressed or after a set number of seconds of
+inactivity. <b>False</b>: the pointer is always visible
+[default].</p>
+
+<p style="margin-left:11%;"><b>pointerColor:</b>
+<i>colour</i></p>
+
+<p style="margin-left:17%;">Mouse pointer foreground
+colour.</p>
+
+<p style="margin-left:11%;"><b>pointerColor2:</b>
+<i>colour</i></p>
+
+<p style="margin-left:17%;">Mouse pointer background
+colour.</p>
+
+<p style="margin-left:11%;"><b>pointerShape:</b>
+<i>string</i></p>
+
+<p style="margin-left:17%;">Compile <i>frills</i>:
+Specifies the name of the mouse pointer shape [default
+<b>xterm</b>]. See the macros in the <b>X11/cursorfont.h</b>
+include file for possible values (omit the &quot;XC_&quot;
+prefix).</p>
+
+<p style="margin-left:11%;"><b>pointerBlankDelay:</b>
+<i>number</i></p>
+
+<p style="margin-left:17%;">Specifies number of seconds
+before blanking the pointer [default 2]. Use a large number
+(e.g. 987654321) to effectively disable the timeout.</p>
+
+<p style="margin-left:11%;"><b>backspacekey:</b>
+<i>string</i></p>
+
+<p style="margin-left:17%;">The string to send when the
+backspace key is pressed. If set to
+<b><small>DEC</small></b> or unset it will send
+<b>Delete</b> (code 127) or, with control, <b>Backspace</b>
+(code 8) - which can be reversed with the appropriate
+<small>DEC</small> private mode escape sequence.</p>
+
+<p style="margin-left:11%;"><b>deletekey:</b>
+<i>string</i></p>
+
+<p style="margin-left:17%;">The string to send when the
+delete key (not the keypad delete key) is pressed. If unset
+it will send the sequence traditionally associated with the
+<b>Execute</b> key.</p>
+
+<p style="margin-left:11%;"><b>cutchars:</b>
+<i>string</i></p>
+
+<p style="margin-left:17%;">The characters used as
+delimiters for double-click word selection (whitespace
+delimiting is added automatically if resource is given).</p>
+
+<p style="margin-left:17%; margin-top: 1em">When the perl
+selection extension is in use (the default if compiled in,
+see the urxvt<b>perl</b>(3) manpage), a suitable regex using
+these characters will be created (if the resource exists,
+otherwise, no regex will be created). In this mode,
+characters outside <small>ISO-8859-1</small> can be
+used.</p>
+
+<p style="margin-left:17%; margin-top: 1em">When the
+selection extension is not used, only
+<small>ISO-8859-1</small> characters can be used. If not
+specified, the built-in default is used:</p>
+
+
+<p style="margin-left:17%; margin-top: 1em"><b><small>BACKSLASH</small>
+&rsquo;&quot;&rsquo;&amp;()*,;&lt;=&gt;?@[]^{|}</b></p>
+
+<p style="margin-left:11%;"><b>preeditType:</b>
+<i>style</i></p>
+
+<p style="margin-left:17%;"><b>OnTheSpot</b>,
+<b>OverTheSpot</b>, <b>OffTheSpot</b>, <b>Root</b>; option
+<b>-pt</b>.</p>
+
+<p style="margin-left:11%;"><b>inputMethod:</b>
+<i>name</i></p>
+
+<p style="margin-left:17%;"><i>name</i> of inputMethod to
+use; option <b>-im</b>.</p>
+
+<p style="margin-left:11%;"><b>imLocale:</b>
+<i>name</i></p>
+
+<p style="margin-left:17%;">The locale to use for opening
+the <small>IM.</small> You can use an &quot;LC_CTYPE&quot;
+of e.g. &quot;de_DE.UTF-8&quot; for normal text processing
+but &quot;ja_JP.EUC-JP&quot; for the input extension to be
+able to input japanese characters while staying in another
+locale; option <b>-imlocale</b>.</p>
+
+<p style="margin-left:11%;"><b>imFont:</b>
+<i>fontset</i></p>
+
+<p style="margin-left:17%;">Specify the font-set used for
+<small>XIM</small> styles &quot;OverTheSpot&quot; or
+&quot;OffTheSpot&quot;. It must be a standard X font set (
+<small>XLFD</small> patterns separated by commas), i.e.
+it&rsquo;s not in the same format as the other font lists
+used in urxvt. The default will be set-up to chose *any*
+suitable found found, preferably one or two pixels differing
+in size to the base font. option <b>-imfont</b>.</p>
+
+<p style="margin-left:11%;"><b>tripleclickwords:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;">Change the meaning of
+triple-click selection with the left mouse button. Instead
+of selecting a full line it will extend the selection to the
+end of the logical line only; option <b>-tcw</b>.</p>
+
+<p style="margin-left:11%;"><b>insecure:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;">Enables &quot;insecure&quot;
+mode. Rxvt-unicode offers some escape sequences that echo
+arbitrary strings like the icon name or the locale. This
+could be abused if somebody gets 8-bit-clean access to your
+display, whether through a mail client displaying mail
+bodies unfiltered or through <b>write</b>(1) or any other
+means. Therefore, these sequences are disabled by default.
+(Note that many other terminals, including xterm, have these
+sequences enabled by default, which doesn&rsquo;t make it
+safer, though).</p>
+
+<p style="margin-left:17%; margin-top: 1em">You can enable
+them by setting this boolean resource or specifying
+<b>-insecure</b> as an option. At the moment, this enables
+display-answer, locale, findfont, icon label and window
+title requests.</p>
+
+<p style="margin-left:11%;"><b>modifier:</b>
+<i>modifier</i></p>
+
+<p style="margin-left:17%;">Set the key to be interpreted
+as the Meta key to: <b>alt</b>, <b>meta</b>, <b>hyper</b>,
+<b>super</b>, <b>mod1</b>, <b>mod2</b>, <b>mod3</b>,
+<b>mod4</b>, <b>mod5</b>; option <b>-mod</b>.</p>
+
+<p style="margin-left:11%;"><b>answerbackString:</b>
+<i>string</i></p>
+
+<p style="margin-left:17%;">Specify the reply rxvt-unicode
+sends to the shell when an <small>ENQ</small> (control-E)
+character is passed through. It may contain escape values as
+described in the entry on <b>keysym</b> following.</p>
+
+<p style="margin-left:11%;"><b>secondaryScreen:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;">Turn on/off secondary screen
+(default enabled).</p>
+
+<p style="margin-left:11%;"><b>secondaryScroll:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;">Turn on/off secondary screen
+scroll (default enabled). If this option is enabled, scrolls
+on the secondary screen will change the scrollback buffer
+and, when secondaryScreen is off, switching to/from the
+secondary screen will instead scroll the screen up.</p>
+
+<p style="margin-left:11%;"><b>hold</b>: <i>boolean</i></p>
+
+<p style="margin-left:17%;">Turn on/off hold window after
+exit support. If enabled, urxvt will not immediately destroy
+its window when the program executed within it exits.
+Instead, it will wait till it is being killed or closed by
+the user.</p>
+
+<p style="margin-left:11%;"><b>chdir</b>: <i>path</i></p>
+
+<p style="margin-left:17%;">Sets the working directory for
+the shell (or the command specified via <b>-e</b>). The
+<i>path</i> must be an absolute path and it must exist for
+urxvt to start. If it isn&rsquo;t specified then the current
+working directory will be used; option <b>-cd</b>.</p>
+
+<p style="margin-left:11%;"><b>keysym.</b><i>sym</i>:
+<i>action</i></p>
+
+<p style="margin-left:17%;">Compile <i>frills</i>:
+Associate <i>action</i> with keysym <i>sym</i>. The
+intervening resource name <b>keysym.</b> cannot be
+omitted.</p>
+
+<p style="margin-left:17%; margin-top: 1em">Using this
+resource, you can map key combinations such as
+&quot;Ctrl-Shift-BackSpace&quot; to various actions, such as
+outputting a different string than would normally result
+from that combination, making the terminal scroll up or down
+the way you want it, or any other thing an extension might
+provide.</p>
+
+<p style="margin-left:17%; margin-top: 1em">The key
+combination that triggers the action, <i>sym</i>, has the
+following format:</p>
+
+
+<p style="margin-left:17%; margin-top: 1em">(modifiers-)key</p>
+
+<p style="margin-left:17%; margin-top: 1em">Where
+<i>modifiers</i> can be any combination of the following
+full or abbreviated modifier names:</p>
+
+<p style="margin-left:17%; margin-top: 1em">The
+<b>NumLock</b>, <b>Meta</b> and <b>ISOLevel3</b> modifiers
+are usually aliased to whatever modifier the NumLock key,
+Meta/Alt keys or <small>ISO</small> Level3 Shift/AltGr keys
+are being mapped. <b>AppKeypad</b> is a synthetic modifier
+mapped to the current application keymap mode state.</p>
+
+<p style="margin-left:17%; margin-top: 1em">Due the the
+large number of modifier combinations, a key mapping will
+match if <i>at least</i> the specified identifiers are being
+set, and no other key mappings with those and more bits are
+being defined. That means that defining a mapping for
+&quot;a&quot; will automatically provide definitions for
+&quot;Meta-a&quot;, &quot;Shift-a&quot; and so on, unless
+some of those are defined mappings themselves. See the
+&quot;builtin:&quot; action, below, for a way to work around
+this when this is a problem.</p>
+
+<p style="margin-left:17%; margin-top: 1em">The spelling of
+<i>key</i> depends on your implementation of X. An easy way
+to find a key name is to use the <b>xev</b>(1) command. You
+can find a list by looking for the &quot;XK_&quot; macros in
+the <b>X11/keysymdef.h</b> include file (omit the
+&quot;XK_&quot; prefix). Alternatively you can specify
+<i>key</i> by its hex keysym value (<b>0x0000 -
+0xFFFF</b>).</p>
+
+<p style="margin-left:17%; margin-top: 1em">As with any
+resource value, the <i>action</i> string may contain
+backslash escape sequences (&quot;\n&quot;: newline,
+&quot;\\&quot;: backslash, &quot;\000&quot;: octal number),
+see <small>RESOURCES</small> in &quot;man 7 X&quot; for
+further details.</p>
+
+<p style="margin-left:17%; margin-top: 1em">An action
+starts with an action prefix that selects a certain type of
+action, followed by a colon. An action string without colons
+is interpreted as a literal string to pass to the tty (as if
+it was prefixed with &quot;string:&quot;).</p>
+
+<p style="margin-left:17%; margin-top: 1em">The following
+action prefixes are known - extensions can provide
+additional prefixes: <br>
+string:STRING</p>
+
+<p style="margin-left:23%;">If the <i>action</i> starts
+with &quot;string:&quot; (or otherwise contains no colons),
+then the remaining &quot;STRING&quot; will be passed to the
+program running in the terminal. For example, you could
+replace whatever Shift-Tab outputs by the string &quot;echo
+rm -rf /&quot; followed by a newline:</p>
+
+
+<p style="margin-left:23%; margin-top: 1em">URxvt.keysym.Shift-Tab:
+string:echo rm -rf /\n</p>
+
+<p style="margin-left:23%; margin-top: 1em">This could in
+theory be used to completely redefine your keymap.</p>
+
+<p style="margin-left:23%; margin-top: 1em">In addition,
+for actions of this type, you can define a range of keysyms
+in one shot by loading the &quot;keysym-list&quot; perl
+extension and providing an <i>action</i> with pattern
+<b>list/PREFIX/MIDDLE/SUFFIX</b>, where the delimiter
+&rsquo;/&rsquo; should be a character not used by the
+strings.</p>
+
+<p style="margin-left:23%; margin-top: 1em">Its usage can
+be demonstrated by an example:</p>
+
+
+<p style="margin-left:23%; margin-top: 1em">URxvt.keysym.M-C-0x61:
+list|\033&lt;|abc|&gt;</p>
+
+<p style="margin-left:23%; margin-top: 1em">The above line
+is equivalent to the following three lines:</p>
+
+
+<p style="margin-left:23%; margin-top: 1em">URxvt.keysym.Meta-Control-0x61:
+string:\033&lt;a&gt; <br>
+URxvt.keysym.Meta-Control-0x62: string:\033&lt;b&gt; <br>
+URxvt.keysym.Meta-Control-0x63: string:\033&lt;c&gt;</p>
+
+<p style="margin-left:17%;">command:STRING</p>
+
+<p style="margin-left:23%;">If <i>action</i> takes the form
+of &quot;command:STRING&quot;, the specified
+<b><small>STRING</small></b> is interpreted and executed as
+urxvt&rsquo;s control sequence (basically the opposite of
+&quot;string:&quot; - instead of sending it to the program
+running in the terminal, it will be treated as if it were
+program output). This is most useful to feed command
+sequences into urxvt.</p>
+
+<p style="margin-left:23%; margin-top: 1em">For example the
+following means &quot;change the current locale to
+&quot;zh_CN.GBK&quot; when Control-Meta-c is being
+pressed&quot;:</p>
+
+
+<p style="margin-left:23%; margin-top: 1em">URxvt.keysym.M-C-c:
+command:\033]701;zh_CN.GBK\007</p>
+
+<p style="margin-left:23%; margin-top: 1em">The following
+example will map Control-Meta-1 and Control-Meta-2 to the
+fonts &quot;suxuseuro&quot; and &quot;9x15bold&quot;, so you
+can have some limited font-switching at runtime:</p>
+
+
+<p style="margin-left:23%; margin-top: 1em">URxvt.keysym.M-C-1:
+command:\033]50;suxuseuro\007 <br>
+URxvt.keysym.M-C-2: command:\033]50;9x15bold\007</p>
+
+<p style="margin-left:23%; margin-top: 1em">Other things
+are possible, e.g. resizing (see urxvt(7) for more
+info):</p>
+
+
+<p style="margin-left:23%; margin-top: 1em">URxvt.keysym.M-C-3:
+command:\033[8;25;80t <br>
+URxvt.keysym.M-C-4: command:\033[8;48;110t</p>
+
+<p style="margin-left:17%;">builtin:</p>
+
+<p style="margin-left:23%;">The builtin action is the
+action that urxvt would execute if no key binding existed
+for the key combination. The obvious use is to undo the
+effect of existing bindings. The not so obvious use is to
+reinstate bindings when another binding overrides too many
+modifiers.</p>
+
+<p style="margin-left:23%; margin-top: 1em">For example if
+you overwrite the &quot;Insert&quot; key you will disable
+urxvt&rsquo;s &quot;Shift-Insert&quot; mapping. To re-enable
+that, you can poke &quot;holes&quot; into the user-defined
+keymap using the &quot;builtin:&quot; replacement:</p>
+
+
+<p style="margin-left:23%; margin-top: 1em">URxvt.keysym.Insert:
+&lt;my insert key sequence&gt; <br>
+URxvt.keysym.S-Insert: builtin:</p>
+
+<p style="margin-left:23%; margin-top: 1em">The first line
+defines a mapping for &quot;Insert&quot; and <i>any</i>
+combination of modifiers. The second line re-establishes the
+default mapping for &quot;Shift-Insert&quot;.</p>
+
+<p style="margin-left:17%;">builtin-string:</p>
+
+<p style="margin-left:23%;">This action is mainly useful to
+restore string mappings for keys that have predefined
+actions in urxvt. The exact semantics are a bit difficult to
+explain - basically, this action will send the string to the
+application that would be sent if urxvt wouldn&rsquo;t have
+a built-in action for it.</p>
+
+<p style="margin-left:23%; margin-top: 1em">An example
+might make it clearer: urxvt normally pastes the selection
+when you press &quot;Shift-Insert&quot;. With the following
+bindings, it would instead emit the (undocumented, but what
+applications running in the terminal might expect) sequence
+&quot;ESC [ 2 $&quot; instead:</p>
+
+
+<p style="margin-left:23%; margin-top: 1em">URxvt.keysym.S-Insert:
+builtin-string: <br>
+URxvt.keysym.C-S-Insert: builtin:</p>
+
+<p style="margin-left:23%; margin-top: 1em">The first line
+disables the paste functionality for that key combination,
+and the second reinstates the default behaviour for
+&quot;Control-Shift-Insert&quot;, which would otherwise be
+overridden.</p>
+
+<p style="margin-left:23%; margin-top: 1em">Similarly, to
+let applications gain access to the &quot;C-M-c&quot; (copy
+to clipboard) and &quot;C-M-v&quot; (paste clipboard) key
+combination, you can do this:</p>
+
+
+<p style="margin-left:23%; margin-top: 1em">URxvt.keysym.C-M-c:
+builtin-string: <br>
+URxvt.keysym.C-M-v: builtin-string:</p>
+
+
+<p style="margin-left:17%;"><small>EXTENSION:STRING</small></p>
+
+<p style="margin-left:23%;">An action of this form invokes
+the action <b><small>STRING</small></b> , if any, provided
+by the urxvt<b>perl</b>(3) extension
+<b><small>EXTENSION</small></b> . The extension will be
+loaded automatically if necessary.</p>
+
+<p style="margin-left:23%; margin-top: 1em">Not all
+extensions define actions, but popular extensions that do
+include the <i>selection</i> and <i>matcher</i> extensions
+(documented in their own manpages, urxvt-<b>selection</b>(1)
+and urxvt-<b>matcher</b>(1), respectively).</p>
+
+<p style="margin-left:23%; margin-top: 1em">From the silly
+examples department, this will rot13-&quot;encrypt&quot;
+urxvt&rsquo;s selection when Alt-Control-c is pressed on
+typical <small>PC</small> keyboards:</p>
+
+
+<p style="margin-left:23%; margin-top: 1em">URxvt.keysym.M-C-c:
+selection:rot13</p>
+
+<p style="margin-left:17%;">perl:STRING *DEPRECATED*</p>
+
+<p style="margin-left:23%;">This is a deprecated way of
+invoking commands provided by perl extensions. It is still
+supported, but should not be used anymore.</p>
+
+<p style="margin-left:11%;"><b>perl-ext-common</b>:
+<i>string</i> <b><br>
+perl-ext</b>: <i>string</i></p>
+
+<p style="margin-left:17%;">Comma-separated list(s) of perl
+extension scripts (default: &quot;default&quot;) to use in
+this terminal instance; option <b>-pe</b>.</p>
+
+<p style="margin-left:17%; margin-top: 1em">Extension names
+can be prefixed with a &quot;-&quot; sign to prohibit using
+them. This can be useful to selectively disable some
+extensions loaded by default, or specified via the
+&quot;perl-ext-common&quot; resource. For example,
+&quot;default,-selection&quot; will use all the default
+extensions except &quot;selection&quot;.</p>
+
+<p style="margin-left:17%; margin-top: 1em">The default set
+includes the &quot;selection&quot;,
+&quot;option-popup&quot;, &quot;selection-popup&quot;,
+&quot;readline&quot; and &quot;searchable-scrollback&quot;
+extensions, and extensions which are mentioned in
+<b>keysym</b> resources.</p>
+
+<p style="margin-left:17%; margin-top: 1em">Any extension
+such that a corresponding resource is given on the command
+line is automatically appended to <b>perl-ext</b>.</p>
+
+<p style="margin-left:17%; margin-top: 1em">Each extension
+is looked up in the library directories, loaded if
+necessary, and bound to the current terminal instance. When
+the library search path contains multiple extension files of
+the same name, then the first one found will be used.</p>
+
+<p style="margin-left:17%; margin-top: 1em">If both of
+these resources are the empty string, then the perl
+interpreter will not be initialized. The rationale for
+having two options is that <b>perl-ext-common</b> will be
+used for extensions that should be available to all
+instances, while <b>perl-ext</b> is used for specific
+instances.</p>
+
+<p style="margin-left:11%;"><b>perl-eval</b>:
+<i>string</i></p>
+
+<p style="margin-left:17%;">Perl code to be evaluated when
+all extensions have been registered. See the
+urxvt<b>perl</b>(3) manpage.</p>
+
+<p style="margin-left:11%;"><b>perl-lib</b>:
+<i>path</i></p>
+
+<p style="margin-left:17%;">Colon-separated list of
+additional directories that hold extension scripts. When
+looking for perl extensions, urxvt will first look in these
+directories, then in $URXVT_PERL_LIB,
+<i>$HOME/.urxvt/ext</i> and lastly in
+<i>/usr/lib/x86_64-linux-gnu/urxvt/perl/</i>.</p>
+
+<p style="margin-left:17%; margin-top: 1em">See the
+urxvt<b>perl</b>(3) manpage.</p>
+
+
+<p style="margin-left:11%;"><b>selection.pattern-</b><b><i>idx</i></b>:
+<i>perl-regex</i></p>
+
+<p style="margin-left:17%;">Additional selection patterns,
+see the urxvt<b>perl</b>(3) manpage for details.</p>
+
+
+<p style="margin-left:11%;"><b>selection-autotransform.</b><b><i>idx</i></b>:
+<i>perl-transform</i></p>
+
+<p style="margin-left:17%;">Selection auto-transform
+patterns, see the urxvt<b>perl</b>(3) manpage for
+details.</p>
+
+<p style="margin-left:11%;"><b>searchable-scrollback:</b>
+<i>keysym</i> *DEPRECATED*</p>
+
+<p style="margin-left:17%;">This resource is deprecated and
+will be removed. Use a <b>keysym</b> resource instead,
+e.g.:</p>
+
+
+<p style="margin-left:17%; margin-top: 1em">URxvt.keysym.M-s:
+searchable-scrollback:start</p>
+
+<p style="margin-left:11%;"><b>url-launcher</b>:
+<i>string</i></p>
+
+<p style="margin-left:17%;">Specifies the program to be
+started with a <small>URL</small> argument. Used by the
+&quot;selection-popup&quot; and &quot;matcher&quot; perl
+extensions.</p>
+
+<p style="margin-left:11%;"><b>transient-for</b>:
+<i>windowid</i></p>
+
+<p style="margin-left:17%;">Compile <i>frills</i>: Sets the
+<small>WM_TRANSIENT_FOR</small> property to the given window
+id.</p>
+
+<p style="margin-left:11%;"><b>override-redirect</b>:
+<i>boolean</i></p>
+
+<p style="margin-left:17%;">Compile <i>frills</i>: Sets
+override-redirect for the terminal window, making it almost
+invisible to window managers; option
+<b>-override-redirect</b>.</p>
+
+<p style="margin-left:11%;"><b>iso14755:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;">Turn on/off <small>ISO
+14755</small> (default enabled).</p>
+
+<p style="margin-left:11%;"><b>iso14755_52:</b>
+<i>boolean</i></p>
+
+<p style="margin-left:17%;">Turn on/off <small>ISO 14755
+5.2</small> mode (default enabled).</p>
+
+<h2>BACKGROUND IMAGE OPTIONS AND RESOURCES
+<a name="BACKGROUND IMAGE OPTIONS AND RESOURCES"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em"><b>-pixmap</b>
+<i>file[;oplist]</i> <b><br>
+backgroundPixmap:</b> <i>file[;oplist]</i></p>
+
+<p style="margin-left:17%;">Compile <i>pixbuf</i>: Use the
+specified image file as the window&rsquo;s background and
+also optionally specify a colon separated list of operations
+to modify it. Note that you may need to quote the
+&quot;;&quot; character when using the command line option,
+as &quot;;&quot; is usually a metacharacter in shells.
+Supported operations are: <b><br>
+WxH+X+Y</b></p>
+
+<p style="margin-left:23%;">sets scale and position.
+<b>&quot;W&quot; / &quot;H&quot;</b> specify the
+horizontal/vertical scale (percent), and <b>&quot;X&quot; /
+&quot;Y&quot;</b> locate the image centre (percent). A scale
+of 0 disables scaling.</p>
+
+<p style="margin-left:17%;"><b>op=tile</b></p>
+
+<p style="margin-left:23%;">enables tiling</p>
+
+<p style="margin-left:17%;"><b>op=keep-aspect</b></p>
+
+<p style="margin-left:23%;">maintain the image aspect ratio
+when scaling</p>
+
+<p style="margin-left:17%;"><b>op=root-align</b></p>
+
+<p style="margin-left:23%;">use the position of the
+terminal window relative to the root window as the image
+offset, simulating a root window background</p>
+
+<p style="margin-left:17%; margin-top: 1em">The default
+scale and position setting is &quot;100x100+50+50&quot;.
+Alternatively, a predefined set of templates can be used to
+achieve the most common setups: <b><br>
+style=tiled</b></p>
+
+<p style="margin-left:23%;">the image is tiled with no
+scaling. Equivalent to 0x0+0+0:op=tile</p>
+
+
+<p style="margin-left:17%;"><b>style=aspect-stretched</b></p>
+
+<p style="margin-left:23%;">the image is scaled to fill the
+whole window maintaining the aspect ratio and centered.
+Equivalent to 100x100+50+50:op=keep-aspect</p>
+
+<p style="margin-left:17%;"><b>style=stretched</b></p>
+
+<p style="margin-left:23%;">the image is scaled to fill the
+whole window. Equivalent to 100x100</p>
+
+<p style="margin-left:17%;"><b>style=centered</b></p>
+
+<p style="margin-left:23%;">the image is centered with no
+scaling. Equivalent to 0x0+50+50</p>
+
+<p style="margin-left:17%;"><b>style=root-tiled</b></p>
+
+<p style="margin-left:23%;">the image is tiled with no
+scaling and using &rsquo;root&rsquo; positioning. Equivalent
+to 0x0:op=tile:op=root-align</p>
+
+<p style="margin-left:17%; margin-top: 1em">If multiple
+templates are specified the last one wins. Note that a
+template overrides all the scale, position and operations
+settings.</p>
+
+<p style="margin-left:17%; margin-top: 1em">If used in
+conjunction with pseudo-transparency, the specified pixmap
+will be blended over the transparent background using
+alpha-blending.</p>
+
+<p style="margin-left:11%;"><b>-tr</b>|<b>+tr <br>
+transparent:</b> <i>boolean</i></p>
+
+<p style="margin-left:17%;">Turn on/off pseudo-transparency
+by using the root pixmap as background.</p>
+
+<p style="margin-left:17%; margin-top: 1em"><b>-ip</b>
+(<b>inheritPixmap</b>) is still accepted as an obsolete
+alias but will be removed in future versions.</p>
+
+<p style="margin-left:11%;"><b>-tint</b> <i>colour</i>
+<b><br>
+tintColor:</b> <i>colour</i></p>
+
+<p style="margin-left:17%;">Tint the transparent background
+with the given colour. Note that a black tint yields a
+completely black image while a white tint yields the image
+unchanged.</p>
+
+<p style="margin-left:11%;"><b>-sh</b> <i>number</i>
+<b><br>
+shading:</b> <i>number</i></p>
+
+<p style="margin-left:17%;">Darken (0 .. 99) or lighten
+(101 .. 200) the transparent background. A value of 100
+means no shading.</p>
+
+<p style="margin-left:11%;"><b>-blr</b> <i>HxV</i> <b><br>
+blurRadius:</b> <i>HxV</i></p>
+
+<p style="margin-left:17%;">Apply gaussian blur with the
+specified radius to the transparent background. If a single
+number is specified, the vertical and horizontal radii are
+considered to be the same. Setting one of the radii to 1 and
+the other to a large number creates interesting effects on
+some backgrounds. The maximum radius value is 128. An
+horizontal or vertical radius of 0 disables blurring.</p>
+
+<p style="margin-left:11%;"><b>path:</b> <i>path</i></p>
+
+<p style="margin-left:17%;">Specify the colon-delimited
+search path for finding background image files.</p>
+
+<h2>THE SCROLLBAR
+<a name="THE SCROLLBAR"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em">Lines of text
+that scroll off the top of the <b>urxvt</b> window
+(resource: <b>saveLines</b>) and can be scrolled back using
+the scrollbar or by keystrokes. The normal <b>urxvt</b>
+scrollbar has arrows and its behaviour is fairly intuitive.
+The <b>xterm-scrollbar</b> is without arrows and its
+behaviour mimics that of <i>xterm</i></p>
+
+<p style="margin-left:11%; margin-top: 1em">Scroll down
+with <b>Button1</b> (<b>xterm-scrollbar</b>) or
+<b>Shift-Next</b>. Scroll up with <b>Button3</b>
+(<b>xterm-scrollbar</b>) or <b>Shift-Prior</b>. Continuous
+scroll with <b>Button2</b>.</p>
+
+<h2>MOUSE REPORTING
+<a name="MOUSE REPORTING"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em">To temporarily
+override mouse reporting, for either the scrollbar or the
+normal text selection/insertion, hold either the Shift or
+the Meta (Alt) key while performing the desired mouse
+action.</p>
+
+<p style="margin-left:11%; margin-top: 1em">If mouse
+reporting mode is active, the normal scrollbar actions are
+disabled -- on the assumption that we are using a fullscreen
+application. Instead, pressing Button1 and Button3 sends
+<b><small>ESC</small> [ 6 ~</b> (Next) and
+<b><small>ESC</small> [ 5 ~</b> (Prior), respectively.
+Similarly, clicking on the up and down arrows sends
+<b><small>ESC</small> [ A</b> (Up) and <b><small>ESC</small>
+[ B</b> (Down), respectively.</p>
+
+<h2>THE SELECTION: SELECTING AND PASTING TEXT
+<a name="THE SELECTION: SELECTING AND PASTING TEXT"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em">The behaviour
+of text selection and insertion/pasting mechanism is similar
+to <i>xterm</i>(1). <b><br>
+Selecting</b>:</p>
+
+<p style="margin-left:17%;">Left click at the beginning of
+the region, drag to the end of the region and release; Right
+click to extend the marked region; Left double-click to
+select a word; Left triple-click to select the entire
+logical line (which can span multiple screen lines), unless
+modified by resource <b>tripleclickwords</b>.</p>
+
+<p style="margin-left:17%; margin-top: 1em">Starting a
+selection while pressing the <b>Meta</b> key (or
+<b>Meta+Ctrl</b> keys) (Compile: <i>frills</i>) will create
+a rectangular selection instead of a normal one. In this
+mode, every selected row becomes its own line in the
+selection, and trailing whitespace is visually underlined
+and removed from the selection.</p>
+
+<p style="margin-left:11%;"><b>Pasting</b>:</p>
+
+<p style="margin-left:17%;">Pressing and releasing the
+Middle mouse button in an <b>urxvt</b> window causes the
+value of the <small>PRIMARY</small> selection (or
+<small>CLIPBOARD</small> with the <b>Meta</b> modifier) to
+be inserted as if it had been typed on the keyboard.</p>
+
+<p style="margin-left:17%; margin-top: 1em">Pressing
+<b>Shift-Insert</b> causes the value of the
+<small>PRIMARY</small> selection to be inserted too.</p>
+
+<p style="margin-left:17%; margin-top: 1em">rxvt-unicode
+also provides the bindings <b>Ctrl-Meta-c</b> and
+&lt;Ctrl-Meta-v&gt; to interact with the
+<small>CLIPBOARD</small> selection. The first binding causes
+the value of the internal selection to be copied to the
+<small>CLIPBOARD</small> selection, while the second binding
+causes the value of the <small>CLIPBOARD</small> selection
+to be inserted.</p>
+
+<h2>CHANGING FONTS
+<a name="CHANGING FONTS"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em">Changing fonts
+(or font sizes, respectively) via the keypad is not yet
+supported in rxvt-unicode. Bug me if you need this.</p>
+
+<p style="margin-left:11%; margin-top: 1em">You can,
+however, switch fonts at runtime using escape sequences,
+e.g.:</p>
+
+<p style="margin-left:11%; margin-top: 1em">printf
+'\e]710;%s\007' &quot;9x15bold,xft:Kochi Gothic&quot;</p>
+
+<p style="margin-left:11%; margin-top: 1em">You can use
+keyboard shortcuts, too:</p>
+
+
+<p style="margin-left:11%; margin-top: 1em">URxvt.keysym.M-C-1:
+command:\033]710;suxuseuro\007\033]711;suxuseuro\007 <br>
+URxvt.keysym.M-C-2:
+command:\033]710;9x15bold\007\033]711;9x15bold\007</p>
+
+<p style="margin-left:11%; margin-top: 1em">rxvt-unicode
+will automatically re-apply these fonts to the output so
+far.</p>
+
+<h2>ISO 14755 SUPPORT
+<a name="ISO 14755 SUPPORT"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em"><small>ISO
+14755</small> is a standard for entering and viewing unicode
+characters and character codes using the keyboard. It
+consists of 4 parts. The first part is available if
+rxvt-unicode has been compiled with
+&quot;--enable-frills&quot;, the rest is available when
+rxvt-unicode was compiled with
+&quot;--enable-iso14755&quot;.</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="1%">
+
+
+<p>&bull;</p></td>
+<td width="5%"></td>
+<td width="26%">
+
+
+<p>5.1: Basic method</p></td>
+<td width="57%">
+</td></tr>
+</table>
+
+<p style="margin-left:17%; margin-top: 1em">This allows you
+to enter unicode characters using their hexcode.</p>
+
+<p style="margin-left:17%; margin-top: 1em">Start by
+pressing and holding both &quot;Control&quot; and
+&quot;Shift&quot;, then enter hex-digits (between one and
+six). Releasing &quot;Control&quot; and &quot;Shift&quot;
+will commit the character as if it were typed directly.
+While holding down &quot;Control&quot; and &quot;Shift&quot;
+you can also enter multiple characters by pressing
+&quot;Space&quot;, which will commit the current character
+and lets you start a new one.</p>
+
+<p style="margin-left:17%; margin-top: 1em">As an example
+of use, imagine a business card with a japanese e-mail
+address, which you cannot type. Fortunately, the card has
+the e-mail address printed as hexcodes, e.g. &quot;671d
+65e5&quot;. You can enter this easily by pressing
+&quot;Control&quot; and &quot;Shift&quot;, followed by
+&quot;6-7-1-D-SPACE-6-5-E-5&quot;, followed by releasing the
+modifier keys.</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="1%">
+
+
+<p style="margin-top: 1em">&bull;</p></td>
+<td width="5%"></td>
+<td width="52%">
+
+
+<p style="margin-top: 1em">5.2: Keyboard symbols entry
+method</p> </td>
+<td width="31%">
+</td></tr>
+</table>
+
+<p style="margin-left:17%; margin-top: 1em">This mode lets
+you input characters representing the keycap symbols of your
+keyboard, if representable in the current locale
+encoding.</p>
+
+<p style="margin-left:17%; margin-top: 1em">Start by
+pressing &quot;Control&quot; and &quot;Shift&quot; together,
+then releasing them. The next special key (cursor keys, home
+etc.) you enter will not invoke its usual function but
+instead will insert the corresponding keycap symbol. The
+symbol will only be entered when the key has been released,
+otherwise pressing e.g. &quot;Shift&quot; would enter the
+symbol for &quot;ISO Level 2 Switch&quot;, although your
+intention might have been to enter a reverse tab
+(Shift-Tab).</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="1%">
+
+
+<p style="margin-top: 1em">&bull;</p></td>
+<td width="5%"></td>
+<td width="52%">
+
+
+<p style="margin-top: 1em">5.3: Screen-selection entry
+method</p> </td>
+<td width="31%">
+</td></tr>
+</table>
+
+<p style="margin-left:17%; margin-top: 1em">While this is
+implemented already (it&rsquo;s basically the selection
+mechanism), it could be extended by displaying a unicode
+character map.</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="1%">
+
+
+<p style="margin-top: 1em">&bull;</p></td>
+<td width="5%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em">5.4: Feedback method for
+identifying displayed characters for later input</p></td></tr>
+</table>
+
+<p style="margin-left:17%; margin-top: 1em">This method
+lets you display the unicode character code associated with
+characters already displayed.</p>
+
+<p style="margin-left:17%; margin-top: 1em">You enter this
+mode by holding down &quot;Control&quot; and
+&quot;Shift&quot; together, then pressing and holding the
+left mouse button and moving around. The unicode hex code(s)
+(it might be a combining character) of the character under
+the pointer is displayed until you release
+&quot;Control&quot; and &quot;Shift&quot;.</p>
+
+<p style="margin-left:17%; margin-top: 1em">In addition to
+the hex codes it will display the font used to draw this
+character - due to implementation reasons, characters
+combined with combining characters, line drawing characters
+and unknown characters will always be drawn using the
+built-in support font.</p>
+
+<p style="margin-left:11%; margin-top: 1em">With respect to
+conformance, rxvt-unicode is supposed to be compliant to
+both scenario A and B of <small>ISO 14755,</small> including
+part 5.2.</p>
+
+<h2>LOGIN STAMP
+<a name="LOGIN STAMP"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em"><b>urxvt</b>
+tries to write an entry into the <i>utmp</i>(5) file so that
+it can be seen via the <b><i>who</i></b><i>(1)</i> command,
+and can accept messages. To allow this feature, <b>urxvt</b>
+may need to be installed setuid root on some systems or
+setgid to root or to some other group on others.</p>
+
+<h2>COLOURS AND GRAPHICS
+<a name="COLOURS AND GRAPHICS"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em">In addition to
+the default foreground and background colours, <b>urxvt</b>
+can display up to 88/256 colours: 8 <small>ANSI</small>
+colours plus high-intensity (potentially bold/blink)
+versions of the same, and 72 (or 240 in 256 colour mode)
+colours arranged in an 4x4x4 (or 6x6x6) colour
+<small>RGB</small> cube plus a 8 (24) colour greyscale
+ramp.</p>
+
+<p style="margin-left:11%; margin-top: 1em">Here is a list
+of the <small>ANSI</small> colours with their names.</p>
+
+<p style="margin-left:11%; margin-top: 1em">It is also
+possible to specify the colour values of <b>foreground</b>,
+<b>background</b>, <b>cursorColor</b>, <b>cursorColor2</b>,
+<b>colorBD</b>, <b>colorUL</b> as a number 0-15, as a
+convenient shorthand to reference the colour name of
+color0-color15.</p>
+
+<p style="margin-left:11%; margin-top: 1em">The following
+text gives values for the standard 88 colour mode (and
+values for the 256 colour mode in parentheses).</p>
+
+<p style="margin-left:11%; margin-top: 1em">The
+<small>RGB</small> cube uses indices 16..79 (16..231) using
+the following formulas:</p>
+
+<p style="margin-left:11%; margin-top: 1em">index_88 = (r *
+4 + g) * 4 + b + 16 # r, g, b = 0..3 <br>
+index_256 = (r * 6 + g) * 6 + b + 16 # r, g, b = 0..5</p>
+
+<p style="margin-left:11%; margin-top: 1em">The grayscale
+ramp uses indices 80..87 (232..239), from 10% to 90% in 10%
+steps (1/26 to 25/26 in 1/26 steps) - black and white are
+already part of the <small>RGB</small> cube.</p>
+
+<p style="margin-left:11%; margin-top: 1em">Together, all
+those colours implement the 88 (256) colour xterm colours.
+Only the first 16 can be changed using resources currently,
+the rest can only be changed via command sequences
+(&quot;escape codes&quot;).</p>
+
+<p style="margin-left:11%; margin-top: 1em">Applications
+are advised to use terminfo or command sequences to discover
+number and <small>RGB</small> values of all colours (yes,
+you can query this...).</p>
+
+<p style="margin-left:11%; margin-top: 1em">Note that
+<b>-rv</b> (<b>&quot;reverseVideo: True&quot;</b>) simulates
+reverse video by always swapping the foreground/background
+colours. This is in contrast to <i>xterm</i>(1) where the
+colours are only swapped if they have not otherwise been
+specified. For example,</p>
+
+<p style="margin-left:11%; margin-top: 1em">urxvt -fg Black
+-bg White -rv</p>
+
+<p style="margin-left:11%; margin-top: 1em">would yield
+White on Black, while on <i>xterm</i>(1) it would yield
+Black on White.</p>
+
+
+<p style="margin-left:11%; margin-top: 1em"><b><small>ALPHA
+CHANNEL SUPPORT</small></b> <br>
+If Xft support has been compiled in and as long as
+Xft/Xrender/X don&rsquo;t get their act together,
+rxvt-unicode will do its own alpha channel management:</p>
+
+<p style="margin-left:11%; margin-top: 1em">You can prefix
+any colour with an opaqueness percentage enclosed in
+brackets, i.e. &quot;[percent]&quot;, where
+&quot;percent&quot; is a decimal percentage (0-100) that
+specifies the opacity of the colour, where 0 is completely
+transparent and 100 is completely opaque. For example,
+&quot;[50]red&quot; is a half-transparent red, while
+&quot;[95]#00ff00&quot; is an almost opaque green. This is
+the recommended format to specify transparency values, and
+works with all ways to specify a colour.</p>
+
+<p style="margin-left:11%; margin-top: 1em">For complete
+control, rxvt-unicode also supports
+&quot;rgba:rrrr/gggg/bbbb/aaaa&quot; (exactly four hex
+digits/component) colour specifications, where the
+additional &quot;aaaa&quot; component specifies opacity
+(alpha) values. The minimum value of 0000 is completely
+transparent, while &quot;ffff&quot; is completely opaque).
+The two example colours from earlier could also be specified
+as &quot;rgba:ff00/0000/0000/8000&quot; and
+&quot;rgba:0000/ff00/0000/f332&quot;.</p>
+
+<p style="margin-left:11%; margin-top: 1em">You probably
+need to specify <b>&quot;-depth 32&quot;</b>, too, to force
+a visual with alpha channels, and have the luck that your
+X-server uses <small>ARGB</small> pixel layout, as X is far
+from just supporting <small>ARGB</small> visuals out of the
+box, and rxvt-unicode just fudges around.</p>
+
+<p style="margin-left:11%; margin-top: 1em">For example,
+the following selects an almost completely transparent black
+background, and an almost opaque pink foreground:</p>
+
+<p style="margin-left:11%; margin-top: 1em">urxvt -depth 32
+-bg rgba:0000/0000/0000/4444 -fg &quot;[80]pink&quot;</p>
+
+<p style="margin-left:11%; margin-top: 1em">When not using
+a background image, then the interpretation of the alpha
+channel is up to your compositing manager (most interpret it
+as transparency of course).</p>
+
+<p style="margin-left:11%; margin-top: 1em">When using a
+background pixmap or pseudo-transparency, then the
+background colour will always behave as if it were
+completely transparent (so the background image shows
+instead), regardless of how it was specified, while other
+colours will either be transparent as specified (the
+background image will show through) on servers supporting
+the <small>RENDER</small> extension, or fully opaque on
+servers not supporting the <small>RENDER
+EXTENSION.</small></p>
+
+<p style="margin-left:11%; margin-top: 1em">Please note
+that due to bugs in Xft, specifying alpha values might
+result in garbage being displayed when the X-server does not
+support the <small>RENDER</small> extension.</p>
+
+<h2>ENVIRONMENT
+<a name="ENVIRONMENT"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em"><b>urxvt</b>
+sets and/or uses the following environment variables:
+<b><small><br>
+TERM</small></b></p>
+
+<p style="margin-left:17%;">Normally set to
+&quot;rxvt-unicode&quot;, unless overwritten at configure
+time, via resources or on the command line.</p>
+
+
+<p style="margin-left:11%;"><b><small>COLORTERM</small></b></p>
+
+<p style="margin-left:17%;">Either &quot;rxvt&quot;,
+&quot;rxvt-xpm&quot;, depending on whether urxvt was
+compiled with background image support, and optionally with
+the added extension &quot;-mono&quot; to indicate that
+rxvt-unicode runs on a monochrome screen.</p>
+
+
+<p style="margin-left:11%;"><b><small>COLORFGBG</small></b></p>
+
+<p style="margin-left:17%;">Set to a string of the form
+&quot;fg;bg&quot; or &quot;fg;xpm;bg&quot;, where
+&quot;fg&quot; is the colour code used as default
+foreground/text colour (or the string &quot;default&quot; to
+indicate that the default-colour escape sequence is to be
+used), &quot;bg&quot; is the colour code used as default
+background colour (or the string &quot;default&quot;), and
+&quot;xpm&quot; is the string &quot;default&quot; if urxvt
+was compiled with background image support. Libraries like
+&quot;ncurses&quot; and &quot;slang&quot; can (and do) use
+this information to optimize screen output.</p>
+
+
+<p style="margin-left:11%;"><b><small>WINDOWID</small></b></p>
+
+<p style="margin-left:17%;">Set to the (decimal) X Window
+<small>ID</small> of the urxvt window (the toplevel window,
+which usually has subwindows for the scrollbar, the terminal
+window and so on).</p>
+
+
+<p style="margin-left:11%;"><b><small>TERMINFO</small></b></p>
+
+<p style="margin-left:17%;">Set to the terminfo directory
+iff urxvt was configured with
+&quot;--with-terminfo=PATH&quot;.</p>
+
+
+<p style="margin-left:11%;"><b><small>DISPLAY</small></b></p>
+
+<p style="margin-left:17%;">Used by urxvt to connect to the
+display and set to the correct display in its child
+processes if &quot;-display&quot; isn&rsquo;t used to
+override. It defaults to &quot;:0&quot; if it doesn&rsquo;t
+exist.</p>
+
+
+<p style="margin-left:11%;"><b><small>SHELL</small></b></p>
+
+<p style="margin-left:17%;">The shell to be used for
+command execution, defaults to &quot;/bin/sh&quot;.</p>
+
+
+<p style="margin-left:11%;"><b><small>RXVT_SOCKET</small></b>
+[<i>sic</i>]</p>
+
+<p style="margin-left:17%;">The unix domain socket path
+used by urxvtc(1) and urxvtd(1).</p>
+
+<p style="margin-left:17%; margin-top: 1em">Default
+<i>$HOME/.urxvt/urxvtd-&lt;nodename&gt;</i>.</p>
+
+
+<p style="margin-left:11%;"><b><small>URXVT_PERL_LIB</small></b></p>
+
+<p style="margin-left:17%;">Additional <i>:</i>-separated
+library search path for perl extensions. Will be searched
+after <b>-perl-lib</b> but before <i>~/.urxvt/ext</i> and
+the system library directory.</p>
+
+
+<p style="margin-left:11%;"><b><small>URXVT_PERL_VERBOSITY</small></b></p>
+
+<p style="margin-left:17%;">See urxvtperl(3).</p>
+
+<p style="margin-left:11%;"><b><small>HOME</small></b></p>
+
+<p style="margin-left:17%;">Used to locate the default
+directory for the unix domain socket for daemon
+communications and to locate various resource files (such as
+&quot;.Xdefaults&quot;)</p>
+
+
+<p style="margin-left:11%;"><b><small>XAPPLRESDIR</small></b></p>
+
+<p style="margin-left:17%;">Directory where
+application-specific X resource files are located.</p>
+
+
+<p style="margin-left:11%;"><b><small>XENVIRONMENT</small></b></p>
+
+<p style="margin-left:17%;">If set and accessible, gives
+the name of a X resource file to be loaded by urxvt.</p>
+
+<h2>FILES
+<a name="FILES"></a>
+</h2>
+
+
+
+<p style="margin-left:11%; margin-top: 1em"><b>/etc/X11/rgb.txt</b></p>
+
+<p style="margin-left:17%;">Colour names.</p>
+
+<h2>SEE ALSO
+<a name="SEE ALSO"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em">urxvt(7),
+urxvtc(1), urxvtd(1), urxvt-<b>extensions</b>(1),
+urxvt<b>perl</b>(3), <b>xterm</b>(1), <b>sh</b>(1),
+<b>resize</b>(1), X(1), <b>pty</b>(4), <b>tty</b>(4),
+<b>utmp</b>(5)</p>
+
+<h2>CURRENT PROJECT COORDINATOR
+<a name="CURRENT PROJECT COORDINATOR"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em">Project
+Coordinator</p>
+
+<p style="margin-left:17%;">Marc A. Lehmann
+&lt;rxvt-unicode@schmorp.de&gt;.</p>
+
+
+<p style="margin-left:17%; margin-top: 1em">&lt;http://software.schmorp.de/pkg/rxvt-unicode.html&gt;</p>
+
+<h2>AUTHORS
+<a name="AUTHORS"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em">John Bovey</p>
+
+<p style="margin-left:17%;">University of Kent, 1992, wrote
+the original Xvt.</p>
+
+<p style="margin-left:11%;">Rob Nation
+&lt;nation@rocket.sanders.lockheed.com&gt;</p>
+
+<p style="margin-left:17%;">very heavily modified Xvt and
+came up with Rxvt</p>
+
+<p style="margin-left:11%;">Angelo Haritsis
+&lt;ah@doc.ic.ac.uk&gt;</p>
+
+<p style="margin-left:17%;">wrote the Greek Keyboard Input
+(no longer in code)</p>
+
+<p style="margin-left:11%;">mj olesen
+&lt;olesen@me.QueensU.CA&gt;</p>
+
+<p style="margin-left:17%;">Wrote the menu system.</p>
+
+<p style="margin-left:17%; margin-top: 1em">Project
+Coordinator (changes.txt 2.11 to 2.21)</p>
+
+<p style="margin-left:11%;">Oezguer Kesim
+&lt;kesim@math.fu-berlin.de&gt;</p>
+
+<p style="margin-left:17%;">Project Coordinator
+(changes.txt 2.21a to 2.4.5)</p>
+
+<p style="margin-left:11%;">Geoff Wing
+&lt;gcw@pobox.com&gt;</p>
+
+<p style="margin-left:17%;">Rewrote screen display and text
+selection routines.</p>
+
+<p style="margin-left:17%; margin-top: 1em">Project
+Coordinator (changes.txt 2.4.6 - rxvt-unicode)</p>
+
+<p style="margin-left:11%;">Marc Alexander Lehmann
+&lt;rxvt-unicode@schmorp.de&gt;</p>
+
+<p style="margin-left:17%;">Forked rxvt-unicode, unicode
+support, rewrote almost all the code, perl extension, random
+hacks, numerous bugfixes and extensions.</p>
+
+<p style="margin-left:17%; margin-top: 1em">Project
+Coordinator (Changes 1.0 -)</p>
+
+<p style="margin-left:11%;">Emanuele Giaquinta
+&lt;emanuele.giaquinta@gmail.com&gt;</p>
+
+<p style="margin-left:17%;">pty/utmp code rewrite, image
+code improvements, many random hacks and bugfixes.</p>
+<hr>
+</body>
+</html>
