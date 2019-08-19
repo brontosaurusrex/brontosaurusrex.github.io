@@ -20,6 +20,13 @@ minimum config here,
 Firefox  
 [https://support.mozilla.org/en-US/kb/connection-settings-firefox](https://support.mozilla.org/en-US/kb/connection-settings-firefox)
 
+Chrome  
+Untested, but
+
+    google-chrome --proxy-server=host:port
+    
+might work.
+
 Debian apt (WSL)  
 [https://dev.to/david_j_eddy/windows-10-wsl-ubuntu-1804-proxy-configuration-for-apt-fhi](https://dev.to/david_j_eddy/windows-10-wsl-ubuntu-1804-proxy-configuration-for-apt-fhi)
 
