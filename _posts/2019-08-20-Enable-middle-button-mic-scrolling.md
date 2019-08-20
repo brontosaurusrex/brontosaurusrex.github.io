@@ -84,7 +84,7 @@ To use right-mouse button with openbox, disable this in rc.xml
     
 and change this
 
-    <mousebind action="Drag" button="A-Middle">
+    <mousebind action="Drag" button="A-Right">
         <action name="Resize"/>
     </mousebind>
       
