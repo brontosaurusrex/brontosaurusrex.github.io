@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2019-08-20 17:26'
-title: Enable middle button mic scrolling
+title: Enable middle button mice scrolling, system wide
 tags: linux 
 ---
 [https://askubuntu.com/questions/28150/chrome-chromium-middle-mouse-button-for-scroll-linux-mac](https://askubuntu.com/questions/28150/chrome-chromium-middle-mouse-button-for-scroll-linux-mac)
