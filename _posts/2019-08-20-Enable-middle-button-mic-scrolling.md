@@ -65,5 +65,9 @@ And test each id more precisely if it holds proper method
 	libinput Scroll Method Enabled Default (290):	0, 0, 0
     ok
 
-interesting 'case' type of script  
+Interesting 'case' type of script  
 [https://forums.bunsenlabs.org/viewtopic.php?pid=10771#p10771](https://forums.bunsenlabs.org/viewtopic.php?pid=10771#p10771)
+
+### middleMice script
+
+edit: And the actual [middleMice script](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/middleMice).
