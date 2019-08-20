@@ -64,3 +64,6 @@ And test each id more precisely if it holds proper method
 	libinput Scroll Method Enabled (289):	0, 0, 1
 	libinput Scroll Method Enabled Default (290):	0, 0, 0
     ok
+
+interesting 'case' type of script  
+[https://forums.bunsenlabs.org/viewtopic.php?pid=10771#p10771](https://forums.bunsenlabs.org/viewtopic.php?pid=10771#p10771)
