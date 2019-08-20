@@ -38,3 +38,29 @@ and
     # This is middle mouse. Already 2 by default
 
 This will not behave exactly like expected endless scrolling in browser, but close. Also this is valid system-wide.
+
+### Getting id's for scripting purposes
+
+    xinput | grep -i "mouse" | grep -iE "id=[0-9]{1,3}" 
+    
+    ⎜   ↳ HP HP USB 1000dpi Laser Mouse           	id=9	[slave  pointer  (2)]
+    ⎜   ↳ HP HP USB 1000dpi Laser Mouse Consumer Control	id=10	[slave  pointer  (2)]
+        ↳ HP HP USB 1000dpi Laser Mouse Consumer Control	id=11	[slave  keyboard (3)]
+
+    xinput | grep -i "mouse" | grep -iEo "id=[0-9]{1,3}" 
+    
+    id=9
+    id=10
+    id=11
+
+    xinput | grep -i "mouse" | grep -iEo "id=[0-9]{1,3}" | grep -iEo "[0-9{1,3}"
+    9
+    10
+    11
+    
+And test each id more precisely if it holds proper method
+
+    xinput list-props 9 | grep "libinput Scroll Method Enabled" && echo "ok"
+	libinput Scroll Method Enabled (289):	0, 0, 1
+	libinput Scroll Method Enabled Default (290):	0, 0, 0
+    ok
