@@ -71,3 +71,29 @@ Interesting 'case' type of script
 ### middleMice script
 
 edit: And the actual [middleMice script](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/middleMice).
+
+### How about the right button
+
+To use right-mouse button with openbox, disable this in rc.xml
+
+    <!-- <mousebind action="Press" button="A-Middle">
+    <action name="Lower"/>
+    <action name="FocusToBottom"/>
+    <action name="Unfocus"/>
+    </mousebind> -->
+    
+and change this
+
+    <mousebind action="Drag" button="A-Middle">
+        <action name="Resize"/>
+    </mousebind>
+      
+to this
+
+    <mousebind action="Drag" button="A-Middle">
+        <action name="Resize"/>
+    </mousebind>
+
+Now alt+middle click is window resize.
+
+In middleMice script define `button=3`.
