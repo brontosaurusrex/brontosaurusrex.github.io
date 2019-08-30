@@ -12,4 +12,4 @@ tags: luv mine
 1. gimp: crop & scale
 1. gimp: simple linear iterative clustering, duplicate layer, video degradation (large 3x3) additive, Blending mode: LCh Chroma.
 
-
+[![sagrada4fx3-fs8.md.png](https://cdn.scrot.moe/images/2019/08/30/sagrada4fx3-fs8.md.png)](https://cdn.scrot.moe/images/2019/08/30/sagrada4fx3-fs8.png)
