@@ -55,6 +55,10 @@ Should now boot into lightdm / openbox.
 
 [Virtual box guest additions.](https://virtualboxes.org/doc/installing-guest-additions-on-debian/)
 
+## Generate wallpaper
+
+    noise +++ -p
+
 ---
 
 # Behaviour
