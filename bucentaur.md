@@ -70,7 +70,14 @@ fixme ...
 
 # FZF
 
-fixme ... https://packages.debian.org/buster/fzf
+    sudo apt install fzf
+    
+and add this to .bashrc
+
+    # fzf /usr/share/doc/fzf/README.Debian
+    source /usr/share/doc/fzf/examples/key-bindings.bash
+    
+Test Ctrl+R and Ctrl+T.
 
 # Behaviour
 
