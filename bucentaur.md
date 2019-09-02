@@ -29,6 +29,7 @@ Boot into cli, install/configure git, sed, vim
     ./overwriteConfigs  # copy user stuff, themes, fonts, icons ...
     ./fixPaths          # in .wbar and .Xresources
     ./makeUserDirs      # mkdir documents downloads images ...
+    ./bin/pipeMisc      # generates first-run ~/bin/misc.xml user submenu
 
 sources.list with some https power
 
