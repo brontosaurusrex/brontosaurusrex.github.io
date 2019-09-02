@@ -19,7 +19,7 @@ Boot into cli, install/configure git, sed, vim
     sudo apt install git apt-transport-https sed vim
     git config --global core.editor "vim" # optional
 
-## get bucentaur git and apply configs
+# Get bucentaur git and apply configs
 
     cd && mkdir source && cd source
     git clone https://github.com/brontosaurusrex/bucentaur
@@ -42,7 +42,7 @@ Network-manager
 
 [https://wiki.debian.org/NetworkManager](https://wiki.debian.org/NetworkManager)
 
-### Install packages
+## Install packages
 
     # automatic
     cd ~/source/bucentaur/packs
