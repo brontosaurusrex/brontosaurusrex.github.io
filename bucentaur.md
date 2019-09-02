@@ -59,7 +59,18 @@ Should now boot into lightdm / openbox.
 
     noise +++ -p
 
+## Install Chrome
+
+[https://www.google.com/chrome/](https://www.google.com/chrome/)
+
 ---
+# ZSH
+
+fixme ...
+
+# FZF
+
+fixme ... https://packages.debian.org/buster/fzf
 
 # Behaviour
 
