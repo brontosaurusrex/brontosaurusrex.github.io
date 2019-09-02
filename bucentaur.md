@@ -82,6 +82,10 @@ fixme ...
     sudo vi /etc/lightdm/lightdm.conf
     # under [Seat:*] enable
     autologin-user=yourUserName
+    
+# Troubles
+
+- nm-applet will not autostart, even when in /etc/xdg/autostart
 
 # TOC
 {:.no_toc}
