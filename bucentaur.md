@@ -104,7 +104,8 @@ fixme ...
     
 # Troubles
 
-- nm-applet will not autostart, even when in /etc/xdg/autostart
+- nm-applet will not autostart when in /etc/xdg/autostart, workaround: move it to openbox autostart (fixme?).
+- bcterm calc is always decorated differently, replaced with galculator (fixed).
 
 # TOC
 {:.no_toc}
