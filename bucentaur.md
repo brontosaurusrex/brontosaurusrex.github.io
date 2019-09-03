@@ -68,7 +68,21 @@ Note: This assumes that you are loged into openbox already, more pluses will gen
 
 ## Install Chrome
 
-[https://www.google.com/chrome/](https://www.google.com/chrome/)
+[https://www.google.com/chrome/](https://www.google.com/chrome/), save file
+
+    cd downloads
+    sudo dpkg -i google*.deb
+    sudo apt -f install # fix deps
+    
+And 'ublock origin' extension.
+
+Note: To start with http proxy
+
+    google-chrome --proxy-server=host:port
+    
+## Hosts file
+
+fixme ...
 
 ---
 # ZSH
