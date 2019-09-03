@@ -48,6 +48,10 @@ Network-manager
     # automatic
     cd ~/source/bucentaur/packs
     sudo ./installLess # or sudo ./installAll
+    
+    # remove nm-applet xdg autostart
+    # will be started from openbox autostart
+    sudo rm /etc/xdg/autostart/nm-applet.desktop
 
     # reboot
     systemctl reboot
