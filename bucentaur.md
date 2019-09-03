@@ -86,10 +86,6 @@ Note: To start with http proxy
 
     google-chrome --proxy-server=host:port
     
-### Hosts file
-
-fixme ...
-
 ---
 ## ZSH
 
@@ -111,12 +107,12 @@ Test Ctrl+R and Ctrl+T.
 ### printVolCont in tint2
 *~/bin/printVolCont* is something that can be used to control ALSA master volume, alternative would be volumeicon-alsa or pnmixer.
 
-### hosts file
+### Hosts file
 [http://someonewhocares.org/hosts/zero/](http://someonewhocares.org/hosts/zero/)
 
 ## Basic hotkeys
 
-fixme ...
+    hotkeys
 
 ## Aliases and ~/bin scripts
 
