@@ -134,7 +134,7 @@ fixme ...
 - bcterm calc is always decorated differently, replaced with galculator (fixed).
 - Thunar's 'open terminal here' fails.
 - Horrible virtualbox6 experience. (increasing video ram and changing adapter type fixed it)
-- Cursor is dark in virtualbox, should be snowy.
+- Cursor is dark in virtualbox, should be snowy. (fixed with 'sudo lxapperance' and seting the cursor theme there as well...).
 
 ## TOC
 {:.no_toc}
