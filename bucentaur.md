@@ -59,6 +59,8 @@ Should now boot into lightdm / openbox.
 ## Generate wallpaper
 
     noise +++ -p
+    
+Note: This assumes that you are loged into openbox already, more pluses will generate brighter wallpaper.
 
 ## Install Chrome
 
