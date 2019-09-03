@@ -4,9 +4,15 @@ comments: true
 title: bucentaur
 published: true
 ---
-Logo here
+# Bucentaur
 
-# Install Debian 10
+*Bucentaur is half-man and half-ox and half-dormouse.  
+Bucentaur is a name that has first two letters the same as Buster.  
+Bucentaur is a next generation of Stretchbang, without stretch and bang.*
+
+[![2019-09-03-174445_2072x1254_scrot.md.png](https://cdn.scrot.moe/images/2019/09/03/2019-09-03-174445_2072x1254_scrot.md.png)](https://cdn.scrot.moe/images/2019/09/03/2019-09-03-174445_2072x1254_scrot.png)
+
+## Install Debian 10
 
 [https://www.debian.org/distrib/netinst](https://www.debian.org/distrib/netinst)
 
@@ -19,7 +25,7 @@ Boot into cli, install/configure git, sed, vim
     sudo apt install git apt-transport-https sed vim
     git config --global core.editor "vim" # optional
 
-# Get bucentaur git and apply configs
+## Get bucentaur git and apply configs
 
     cd && mkdir source && cd source
     git clone https://github.com/brontosaurusrex/bucentaur
@@ -43,7 +49,7 @@ Network-manager
 
 [https://wiki.debian.org/NetworkManager](https://wiki.debian.org/NetworkManager)
 
-## Install packages
+### Install packages
 
     # automatic
     cd ~/source/bucentaur/packs
@@ -60,13 +66,13 @@ Should now boot into lightdm / openbox.
 
 [Virtual box guest additions.](https://virtualboxes.org/doc/installing-guest-additions-on-debian/)
 
-## Generate wallpaper
+### Generate wallpaper
 
     noise +++ -p
     
 Note: This assumes that you are loged into openbox already, more pluses will generate brighter wallpaper.
 
-## Install Chrome
+### Install Chrome
 
 [https://www.google.com/chrome/](https://www.google.com/chrome/), save file
 
@@ -80,16 +86,16 @@ Note: To start with http proxy
 
     google-chrome --proxy-server=host:port
     
-## Hosts file
+### Hosts file
 
 fixme ...
 
 ---
-# ZSH
+## ZSH
 
 fixme ...
 
-# FZF
+## FZF
 
     sudo apt install fzf
     
@@ -100,41 +106,41 @@ and add this to .bashrc
     
 Test Ctrl+R and Ctrl+T.
 
-# Behaviour
+## Behaviour
 
-## printVolCont in tint2
+### printVolCont in tint2
 *~/bin/printVolCont* is something that can be used to control ALSA master volume, alternative would be volumeicon-alsa or pnmixer.
 
-## hosts file
+### hosts file
 [http://someonewhocares.org/hosts/zero/](http://someonewhocares.org/hosts/zero/)
 
-# Basic hotkeys
+## Basic hotkeys
 
 fixme ...
 
-# Aliases and ~/bin scripts
+## Aliases and ~/bin scripts
 
 fixme ...
 
-# Autologin
+## Autologin
 
     sudo vi /etc/lightdm/lightdm.conf
     # under [Seat:*] enable
     autologin-user=yourUserName
     
-# Troubles and fixes
+## Troubles and fixes
 
-- nm-applet will sometimes not autostart when in /etc/xdg/autostart, workaround: move it to openbox autostart.
+- nm-applet will sometimes not autostart when in /etc/xdg/autostart, workaround: move it to openbox autostart (fixed).
 - bcterm calc is always decorated differently, replaced with galculator (fixed).
 - Thunar's 'open terminal here' fails.
-- Horrible virtualbox6 experience, to try: get rid of lightdm (add changeres script back to autostart?)
-- Cursor is dark in virtualbox, should be snowy
+- Horrible virtualbox6 experience. (increasing video ram and changing adapter type fixed it)
+- Cursor is dark in virtualbox, should be snowy.
 
-# TOC
+## TOC
 {:.no_toc}
 
 * TOC
 {:toc}
 
-### <a href="#">^</a>
+# <a href="#">^</a>
 {:.no_toc}
