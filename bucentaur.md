@@ -102,10 +102,11 @@ fixme ...
     # under [Seat:*] enable
     autologin-user=yourUserName
     
-# Troubles
+# Troubles and fixes
 
-- nm-applet will not autostart when in /etc/xdg/autostart, workaround: move it to openbox autostart (fixme?).
+- nm-applet will sometimes not autostart when in /etc/xdg/autostart, workaround: move it to openbox autostart.
 - bcterm calc is always decorated differently, replaced with galculator (fixed).
+- Thunar's 'open terminal here' fails.
 
 # TOC
 {:.no_toc}
