@@ -76,13 +76,19 @@ Note: This assumes that you are loged into openbox already, more pluses will gen
 
 ### Install Chrome
 
-[https://www.google.com/chrome/](https://www.google.com/chrome/), save file
-
     cd downloads
-    sudo dpkg -i google*.deb
+    wget \
+    https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    sudo apt install -y ./google*.deb
     sudo apt -f install # fix deps
+    rm ./google*.deb
     
-And 'ublock origin' extension.
+And 'ublock origin' extension. Configure the [look](https://cdn.scrot.moe/images/2019/09/09/chrome.png).
+
+To make `bman` script to open man pages in chrome
+
+    xdg-settings set default-web-browser google-chrome.desktop
+    bman vim # to test
 
 Note: To start with http proxy
 
@@ -104,10 +110,14 @@ and add this to .bashrc
     
 Test Ctrl+R and Ctrl+T.
 
-## Behaviour
+## Behaviorism
 
 ### printVolCont in tint2
-*~/bin/printVolCont* is something that can be used to control ALSA master volume, alternative would be volumeicon-alsa or pnmixer.
+*~/bin/printVolCont* is something that can be used to control ALSA master volume, with some cooperation from tint2. Alternative would be volumeicon-alsa or pnmixer.
+
+### Mice scroll
+
+Everything, including browser should be scrollable by holding down `right-mouse button`. This interesting feature did require patching window resizing to `alt+middle-mouse-button`, windows moving is still `alt+left-mouse-button`.
 
 ### Hosts file
 [http://someonewhocares.org/hosts/zero/](http://someonewhocares.org/hosts/zero/)
@@ -118,7 +128,7 @@ Test Ctrl+R and Ctrl+T.
 
 ## Aliases and ~/bin scripts
 
-fixme ...
+[/bucentaur/scripts/](/bucentaur/scripts/)
 
 ## Autologin
 
