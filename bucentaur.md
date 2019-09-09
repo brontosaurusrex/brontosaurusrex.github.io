@@ -138,18 +138,18 @@ Everything, including browser should be scrollable by holding down `right-mouse 
     
 ## Troubles and fixes and tests
 
-o: = open  
-c: = closed  
-n: = won't fix  
-u: = nothing to fix
+    o: = open  
+    c: = closed  
+    n: = won't fix  
+    u: = nothing to fix
 
 - c: nm-applet will sometimes not autostart when in /etc/xdg/autostart, workaround: move it to openbox autostart (fixed).
 - c: bcterm calc is always decorated differently, replaced with galculator (fixed).
 - c: Horrible virtualbox6 experience. (increasing video ram and changing adapter type fixed it)
 - c: Cursor is dark in virtualbox, should be snowy. (fixed with 'sudo lxapperance' and seting the cursor theme there as well...).
-- Tearing test  [https://www.youtube.com/results?search_query=tearing+test](https://www.youtube.com/results?search_query=tearing+test)
+- u: Tearing test  [https://www.youtube.com/results?search_query=tearing+test](https://www.youtube.com/results?search_query=tearing+test)
 - o: Thunar's 'open terminal here' fails.
-- o: Tint2 systray looks different when compton is running (more transparent)
+- u: Tint2 systray looks different when compton is running (more transparent)  
 
 ## TOC
 {:.no_toc}
