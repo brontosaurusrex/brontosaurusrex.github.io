@@ -74,11 +74,26 @@ Should now boot into lightdm / openbox.
     
 Note: This assumes that you are loged into openbox already, more pluses will generate brighter wallpaper.
 
+Or download one (1920x1200)
+
+    cd images
+    
+    wget \
+    https://cdn.scrot.moe/images/2019/09/04/buc2-destroyedBack_post3-fs8.png \
+    -O wall.png
+    
+    nitrogen --set-centered --save wall.png
+    wbarRestart # or right-mouse-click wbar panel to refresh
+    
+[![ofishalwall.md.png](https://cdn.scrot.moe/images/2019/09/09/ofishalwall.md.png)](https://cdn.scrot.moe/images/2019/09/09/ofishalwall.png)
+
 ### Install Chrome
 
     cd downloads
+    
     wget \
     https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    
     sudo apt install -y ./google*.deb
     sudo apt -f install # fix deps
     rm ./google*.deb
@@ -148,6 +163,7 @@ Everything, including browser should be scrollable by holding down `right-mouse 
 - c: Horrible virtualbox6 experience. (increasing video ram and changing adapter type fixed it)
 - c: Cursor is dark in virtualbox, should be snowy. (fixed with 'sudo lxapperance' and seting the cursor theme there as well...).
 - u: Tearing test  [https://www.youtube.com/results?search_query=tearing+test](https://www.youtube.com/results?search_query=tearing+test)
+- c: Various geany look related fixes
 - o: Thunar's 'open terminal here' fails.
 - u: Tint2 systray looks different when compton is running (more transparent)  
 
