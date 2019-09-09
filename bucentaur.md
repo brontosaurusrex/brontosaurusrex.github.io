@@ -143,6 +143,7 @@ Everything, including browser should be scrollable by holding down `right-mouse 
 - Thunar's 'open terminal here' fails.
 - Horrible virtualbox6 experience. (increasing video ram and changing adapter type fixed it)
 - Cursor is dark in virtualbox, should be snowy. (fixed with 'sudo lxapperance' and seting the cursor theme there as well...).
+- Tearing test  [https://www.youtube.com/results?search_query=tearing](https://www.youtube.com/results?search_query=tearing)
 
 ## TOC
 {:.no_toc}
