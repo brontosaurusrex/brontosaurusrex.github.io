@@ -114,7 +114,10 @@ Note: To start with http proxy
 ---
 ## ZSH
 
-fixme ...
+Basic ~/.zshrc is provided
+
+    sudo apt install zsh
+    chsh -s $(which zsh) # to make zsh default
 
 ## FZF
 
