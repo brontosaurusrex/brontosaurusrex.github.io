@@ -164,7 +164,7 @@ Everything, including browser should be scrollable by holding down `right-mouse 
 - c: Cursor is dark in virtualbox, should be snowy. (fixed with 'sudo lxapperance' and seting the cursor theme there as well...).
 - u: Tearing test  [https://www.youtube.com/results?search_query=tearing+test](https://www.youtube.com/results?search_query=tearing+test)
 - c: Various geany look related fixes
-- o: Thunar's 'open terminal here' fails.
+- c: Thunar's 'open terminal here' fails. (added exo-utils and libexo* to base.list)
 - u: Tint2 systray looks different when compton is running (more transparent)  
 
 ## TOC
