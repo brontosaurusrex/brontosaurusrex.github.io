@@ -82,7 +82,7 @@ Or download one (1920x1200)
     https://cdn.scrot.moe/images/2019/09/04/buc2-destroyedBack_post3-fs8.png \
     -O wall.png
     
-    nitrogen --set-centered --save wall.png
+    nitrogen --set-zoom-fill --save wall.png
     wbarRestart # or right-mouse-click wbar panel to refresh
     
 [![ofishalwall.md.png](https://cdn.scrot.moe/images/2019/09/09/ofishalwall.md.png)](https://cdn.scrot.moe/images/2019/09/09/ofishalwall.png)
