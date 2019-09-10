@@ -161,7 +161,8 @@ Everything, including browser should be scrollable by holding down `right-mouse 
 - u: Tearing test  [https://www.youtube.com/results?search_query=tearing+test](https://www.youtube.com/results?search_query=tearing+test)
 - c: Various geany look related fixes
 - c: Thunar's 'open terminal here' fails. (added exo-utils and libexo* to base.list)
-- u: Tint2 systray looks different when compton is running (more transparent)  
+- u: Tint2 systray looks different when compton is running (more transparent)
+- o: Thunar custom actions (search: use catfish ...)
 
 ## TOC
 {:.no_toc}
