@@ -166,6 +166,10 @@ Everything, including browser should be scrollable by holding down `right-mouse 
 - c: Thunar icon sizes for sidebar
 - o: Main Thunar icons (back, forward, up, home) are stupidly big
 
+## Report Issues
+
+[https://github.com/brontosaurusrex/bucentaur/issues](https://github.com/brontosaurusrex/bucentaur/issues)
+
 ## TOC
 {:.no_toc}
 
