@@ -166,6 +166,10 @@ Everything, including browser should be scrollable by holding down `right-mouse 
 - c: Thunar icon sizes for sidebar
 - o: Main Thunar icons (back, forward, up, home) are stupidly big
 
+## Atribution
+
+[Luv icons](https://github.com/Nitrux/luv-icon-theme) are licensed under the Creative Commons Attribution-ShareAlike International 4.0 License
+
 ## Report Issues
 
 [https://github.com/brontosaurusrex/bucentaur/issues](https://github.com/brontosaurusrex/bucentaur/issues)

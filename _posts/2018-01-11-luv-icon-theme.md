@@ -24,7 +24,7 @@ Quick and ugly dark version
     cd Luv-dark || exit
     find . -name "*.svg" -exec sed -i 's/#4d4d4d/#f5f5f5/gI' {} \;
     sed -i 's/Name=Lüv/Name=Lüv-dark/g' index.theme
-    sed -i 's/Inherits=/Inherits=Papirus-Adapta-Nokto/g' index.theme
+    sed -i 's/Inherits=/Inherits=Papirus-Dark/g' index.theme
     [[ -d $HOME/.icons ]] &&  mv ../Luv-dark ~/.icons
 
 
