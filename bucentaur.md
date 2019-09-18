@@ -164,6 +164,7 @@ Everything, including browser should be scrollable by holding down `right-mouse 
 - u: Tint2 systray looks different when compton is running (more transparent)
 - c: Thunar custom actions (search: use catfish )
 - c: Thunar icon sizes for sidebar
+- o: Main Thunar icons (back, forward, up, home) are stupidly big
 
 ## TOC
 {:.no_toc}
