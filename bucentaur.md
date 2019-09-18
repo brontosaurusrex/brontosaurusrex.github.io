@@ -162,7 +162,8 @@ Everything, including browser should be scrollable by holding down `right-mouse 
 - c: Various geany look related fixes
 - c: Thunar's 'open terminal here' fails. (added exo-utils and libexo* to base.list)
 - u: Tint2 systray looks different when compton is running (more transparent)
-- o: Thunar custom actions (search: use catfish ...)
+- c: Thunar custom actions (search: use catfish )
+- c: Thunar icon sizes for sidebar
 
 ## TOC
 {:.no_toc}
