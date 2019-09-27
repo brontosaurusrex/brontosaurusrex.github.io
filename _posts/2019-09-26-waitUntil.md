@@ -46,3 +46,33 @@ While this naive code might look interesting it's actaully quite a cpu eater
     done
 
 [Some debate.](https://forums.bunsenlabs.org/viewtopic.php?pid=91342)
+
+Similar, but using [datetools](https://github.com/caronc/datetools)
+
+    #!/bin/bash
+
+    #set -x
+
+    # waitUntil2, using https://github.com/caronc/datetools dateblock
+    # This should run 'thecode' at approximate real-clock minute change.
+
+    waitUntil() {
+
+        dateblock -n /1
+
+    }
+
+    thecode() {
+
+        date +%H%M | toilet -f 3x3
+        
+    }
+
+    while true
+    do
+
+        thecode
+        waitUntil
+
+    done
+
