@@ -7,7 +7,7 @@ tags: linux bash
 ---
 ### 'Native'
 
-While this naive code might look interesting it's actaully quite a cpu eater
+While this naive code might look interesting it's actually quite a cpu eater
 
     #!/bin/bash
 
