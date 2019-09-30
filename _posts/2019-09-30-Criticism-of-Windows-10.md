@@ -13,7 +13,7 @@ tags: linux
 
 > The data collection functionality is capable of transmitting personal information, browsing history, the contents of emails, chat, video calls, voice mail, photos, documents, personal files[53] and keystrokes to Microsoft, for analysis, in accordance with the End User License Agreement.
 
-## More about privacy
+## Living on the edge
 
 - [Where's Our 'Local Account' Option Gone?](https://tech.slashdot.org/story/19/09/30/1739212/windows-10-users-fume-microsoft-wheres-our-local-account-option-gone) < Lets see how the users will jump this time experiment?
 - [All privacy gone](https://www.eurodns.com/blog/windows-10-privacy-concerns) < Large quantity of wasted time for users to protect against their own OS.
