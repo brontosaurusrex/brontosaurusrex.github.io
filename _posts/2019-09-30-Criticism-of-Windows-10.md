@@ -18,6 +18,7 @@ tags: linux
 - [Where's Our 'Local Account' Option Gone?](https://tech.slashdot.org/story/19/09/30/1739212/windows-10-users-fume-microsoft-wheres-our-local-account-option-gone) < Lets see how the users will jump this time experiment?
 - [All privacy gone](https://www.eurodns.com/blog/windows-10-privacy-concerns) < Large quantity of wasted time for users to protect against their own OS.
 - [Your OS want's to sell you crap](https://www.pcworld.com/article/2975790/how-to-stop-windows-10s-annoying-microsoft-office-ads.html) < Feels worse than telemarketing even.
+- [Your OS uses your interent connection without asking](https://www.howtogeek.com/249254/how-to-stop-windows-10-from-using-so-much-data/) < How about no.
 
 ## Mantra (work in progress)
 
