@@ -12,5 +12,7 @@ tags: linux
 > The data collection functionality is capable of transmitting personal information, browsing history, the contents of emails, chat, video calls, voice mail, photos, documents, personal files[53] and keystrokes to Microsoft, for analysis, in accordance with the End User License Agreement.
 
 Color of the chassis ...?  
-Negotiations will not work in this case.  
+
+Negotiations/talking/fines will not work in this case. 
+Microsoft is repeat offender.   
 Ban this thing in EU. Today. 
