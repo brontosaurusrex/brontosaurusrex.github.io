@@ -30,5 +30,3 @@ Nothing will work in this case.
 Microsoft is repeat offender.  
 Ban this thing in EU.  
 Today.*
-
-![](https://upload.wikimedia.org/wikipedia/commons/5/56/Bsodwindows10.png)
