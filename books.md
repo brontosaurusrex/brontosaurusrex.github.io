@@ -87,3 +87,20 @@ Anekdotes, but the main idea is 'how to think about things'.
 ## Dot Con: The Art of Scamming a Scammer (James Veitch)
 
 > And the poem?
+
+## Rakety i lyudi
+
+[https://www.nasa.gov/connect/ebooks/rockets_people_vol1_detail.html](https://www.nasa.gov/connect/ebooks/rockets_people_vol1_detail.html)
+
+> Boris Chertok’s sixty-year-long career and the many successes and failures of the Soviet space program constitute the core of his memoirs, Rockets and People
+
+## The Linux Programming Interface
+
+> In this authoritative work, Linux programming expert Michael Kerrisk provides detailed descriptions of the system calls and library functions that you need in order to master the craft of system programming
+
+> A process doesn’t know where it is located in RAM or, in general, whether a particular part of its memory space is currently resident in memory or held in the swap area (a
+reserved area of disk space used to supplement the computer’s RAM). Similarly, a process doesn’t know where on the disk drive the files it accesses are being held; it
+simply refers to the files by name. A process operates in isolation; it can’t directly
+communicate with another process. A process can’t itself create a new process or even end its own existence. Finally, a process can’t communicate directly with the input and output devices attached to the computer. By contrast, a running system has one kernel that knows and controls every-thing. The kernel facilitates the running of all processes on the system. The kernel decides which process will next obtain access to the CPU, when it will do so, and for...
+
+Absosmurfly essential reading, wish I found this before.
