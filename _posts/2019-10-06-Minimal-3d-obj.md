@@ -8,6 +8,6 @@ tags: blender luv
 Vertices only, no poligons, save as test.obj, import to blender
 
     o test
-    v 0.000000 0.000000 0.000000
-    v 1.000000 1.000000 1.000000
-    v -1.000000 -1.000000 -1.000000
+    v 0 0 0
+    v 1 1 1
+    v -1 -1 -1
