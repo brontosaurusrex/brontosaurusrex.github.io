@@ -11,7 +11,7 @@ tags: linux
     
     # rename desktop 1 
      xmlstarlet ed --inplace -N o="http://openbox.org/3.4/rc" \
-    -u '//o:openbox_config/o:desktops/o:names/o:name[1]' \           
+    -u '//o:openbox_config/o:desktops/o:names/o:name[1]' \
     -v one rc.xml
     
     # restart openbox
