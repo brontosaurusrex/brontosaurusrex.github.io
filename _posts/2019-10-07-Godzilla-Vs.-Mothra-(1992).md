@@ -10,3 +10,5 @@ tags: video
 > Godzilla Vs Mothra (ゴジラＶＳモスラ Gojira tai Mosura) is a 1992 tokusatsu Kaiju film produced by Toho, and the 19th installment as well as the 4th in the Heisei series. It was released to Japanese theaters on December 12, 1992.
 
     alias godzilla='mpv https://ia800701.us.archive.org/2/items/02GodzillaVs.Mothra/02%20-%20Godzilla%20Vs.%20Mothra.mp4'
+    
+![](https://m.media-amazon.com/images/M/MV5BNWYxZjE3MGQtZWZmMC00NTFjLTlkZmUtODFkZDY1MGYyZWQ4XkEyXkFqcGdeQXVyNjM2NTM3ODA@._V1_.jpg)
