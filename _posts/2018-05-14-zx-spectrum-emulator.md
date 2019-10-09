@@ -13,7 +13,9 @@ tags:
     fuse-gtk
     # or better
     fuse-sdl BruceLee.tzx.zip
-    
+    # or fullscreen, function keys are controling fuse then (try F1)
+    fuse-sdl --full-screen ~/downloads/BruceLee.tzx.zip
+
 In 'Options/peripherals/General' enable 'Kempston joystick' and disable the rest.
 
 ![bruceLeeZx-fs8.png]({{site.baseurl}}/media/bruceLeeZx-fs8.png)
