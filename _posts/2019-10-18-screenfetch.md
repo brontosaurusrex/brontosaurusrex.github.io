@@ -21,4 +21,6 @@ tags: linux
     GPU: Mesa DRI Intel(R) Ironlake Desktop 
     RAM: 1512MiB / 3747MiB
     
-For each line make that xml for pipe menu.
+[For each line make that xml for pipe menu](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/bin/pipeScreenfetch) (pipeScreenfetch).
+
+[![scrot31573.md.png](https://cdn.scrot.moe/images/2019/10/18/scrot31573.md.png)](https://scrot.moe/image/xNuZz)
