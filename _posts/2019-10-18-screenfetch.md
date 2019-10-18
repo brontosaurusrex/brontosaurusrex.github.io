@@ -24,3 +24,25 @@ tags: linux
 [For each line make that xml for pipe menu](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/bin/pipeScreenfetch) (pipeScreenfetch).
 
 [![scrot31573.md.png](https://cdn.scrot.moe/images/2019/10/18/scrot31573.md.png)](https://scrot.moe/image/xNuZz)
+
+Variables may be omited from display, like so
+
+    screenfetch -nN -d "-host;-shell"
+    
+[Valid vars](https://github.com/KittyKatt/screenFetch/blob/master/screenfetch-dev#L44) seem to be
+
+		'distro'
+		'host'
+		'kernel'
+		'uptime'
+		'pkgs'
+		'shell'
+		'res'
+		'de'
+		'wm'
+		'wmtheme'
+		'gtk'
+		'disk'
+		'cpu'
+		'gpu'
+		'mem'
