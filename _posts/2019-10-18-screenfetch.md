@@ -1,0 +1,24 @@
+---
+published: true
+layout: post
+date: '2019-10-18 14:31'
+title: screenfetch -nN
+tags: linux 
+---
+    ticho@i5
+    OS: Debian 10 buster
+    Kernel: x86_64 Linux 4.19.0-6-amd64
+    Uptime: 1d 4h 22m
+    Packages: 4878
+    Shell: zsh 5.7.1
+    Resolution: 1920x1200
+    WM: OpenBox
+    WM Theme: ArchLabs-dARK-Alt-brex
+    GTK Theme: dARK-Arc [GTK2/3]
+    Icon Theme: Luv-dark
+    Font: Cuprum 11
+    CPU: Intel Core i5 650 @ 4x 3.333GHz
+    GPU: Mesa DRI Intel(R) Ironlake Desktop 
+    RAM: 1512MiB / 3747MiB
+    
+For each line make that xml for pipe menu.
