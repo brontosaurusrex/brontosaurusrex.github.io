@@ -2,9 +2,11 @@
 published: true
 layout: post
 date: '2019-10-18 14:31'
-title: screenfetch -nN
+title: pipeScreenfetch and pipeNeofetch
 tags: linux 
 ---
+## screenfetch
+
     ticho@i5
     OS: Debian 10 buster
     Kernel: x86_64 Linux 4.19.0-6-amd64
@@ -21,7 +23,7 @@ tags: linux
     GPU: Mesa DRI Intel(R) Ironlake Desktop 
     RAM: 1512MiB / 3747MiB
     
-[For each line make that xml for pipe menu](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/bin/pipeScreenfetch) (pipeScreenfetch).
+[pipeScreenfetch](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/bin/pipeScreenfetch).
 
 [![scrot31573.md.png](https://cdn.scrot.moe/images/2019/10/18/scrot31573.md.png)](https://scrot.moe/image/xNuZz)
 
@@ -46,3 +48,11 @@ Variables may be omited from display, like so
 		'cpu'
 		'gpu'
 		'mem'
+
+## neofetch
+
+[pipeNeofetch](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/bin/pipeNeofetch).
+
+Seems to give better info overall.
+
+[![scrot17819.md.png](https://cdn.scrot.moe/images/2019/10/19/scrot17819.md.png)](https://scrot.moe/image/xTK3Z)
