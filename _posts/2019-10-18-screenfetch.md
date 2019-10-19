@@ -34,7 +34,7 @@ Variables may be omited from display, like so
 
     screenfetch -nN -d "-host;-shell"
     
-[Valid vars](https://github.com/KittyKatt/screenFetch/blob/master/screenfetch-dev#L44) seem to be
+[Valid variables](https://github.com/KittyKatt/screenFetch/blob/master/screenfetch-dev#L44) (for -d)
 
 		'distro'
 		'host'
@@ -59,3 +59,26 @@ Variables may be omited from display, like so
 Seems to give better info overall.
 
 [![scrot17819.md.png](https://cdn.scrot.moe/images/2019/10/19/scrot17819.md.png)](https://scrot.moe/image/xTK3Z)
+
+[Valid variables](https://github.com/dylanaraps/neofetch/blob/master/neofetch) (for --disable)
+
+     title
+     underline
+
+     "OS" distro
+     "Host" model
+     "Kernel" kernel
+     "Uptime" uptime
+     "Packages" packages
+     "Shell" shell
+     "Resolution" resolution
+     "DE" de
+     "WM" wm
+     "WM Theme" wm_theme
+     "Theme" theme
+     "Icons" icons
+     "Terminal" term
+     "Terminal Font" term_font
+     "CPU" cpu
+     "GPU" gpu
+     "Memory" memory
