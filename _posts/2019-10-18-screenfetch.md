@@ -5,6 +5,8 @@ date: '2019-10-18 14:31'
 title: pipeScreenfetch and pipeNeofetch
 tags: linux 
 ---
+[https://forums.bunsenlabs.org/viewtopic.php?pid=92381#p92381](https://forums.bunsenlabs.org/viewtopic.php?pid=92381#p92381)
+
 ## screenfetch
 
     ticho@i5
