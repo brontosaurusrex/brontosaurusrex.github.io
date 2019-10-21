@@ -89,3 +89,19 @@ Give me titles for submenus?
 
     inxi -F -v 8 -c 0 -r | grep -v '^ '
     inxi -F -v 8 -c 0 -r | grep -v '^ ' |  awk '{ print $1 }'
+    
+Part by part defined by user
+
+    -S # system
+    -M # machine
+    -C # cpu
+    -G # graphics
+    -A # audio
+    -N # network
+    -D # drives
+    -P # partition
+    -u # partitions with uuid
+    -r # repos
+    -s # sensors
+    -I # info
+    
