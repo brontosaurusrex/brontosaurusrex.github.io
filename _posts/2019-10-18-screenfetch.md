@@ -116,3 +116,16 @@ workaround ?
     #!/bin/bash
     inxi -F -c 0 &
     wait
+    
+this works as well
+
+    #!/bin/bash
+
+    array=( -S -M -C )
+    for i in "${array[@]}"
+    do
+
+        inxi "$i" -c 0 &
+        wait
+
+    done
