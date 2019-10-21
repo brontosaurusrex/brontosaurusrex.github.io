@@ -107,3 +107,7 @@ Part by part defined by user
     -t c # top cpu
     -t m # top memory
     
+
+inxi hangs when run from shell script  
+[https://github.com/smxi/inxi/issues/181](https://github.com/smxi/inxi/issues/181)
+    
