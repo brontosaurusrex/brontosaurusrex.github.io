@@ -144,7 +144,7 @@ Slightly faster, but random order
 
     wait
     
-A script. Ugly and slow.  
-[pipeInxi](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/bin/pipeInxi)
+[pipeInxi](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/bin/pipeInxi)  
+Ugly and slow.
 
-[![scrot02714.md.png](https://cdn.scrot.moe/images/2019/10/21/scrot02714.md.png)](https://scrot.moe/image/xTlAY)
+[![scrot06332.md.png](https://cdn.scrot.moe/images/2019/10/22/scrot06332.md.png)](https://scrot.moe/image/xT7bd)
