@@ -104,4 +104,6 @@ Part by part defined by user
     -r # repos
     -s # sensors
     -I # info
+    -t c # top cpu
+    -t m # top memory
     
