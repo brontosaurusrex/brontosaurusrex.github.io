@@ -111,3 +111,8 @@ Part by part defined by user
 inxi hangs when run from shell script  
 [https://github.com/smxi/inxi/issues/181](https://github.com/smxi/inxi/issues/181)
     
+workaround ? 
+
+    #!/bin/bash
+    inxi -F -c 0 &
+    wait
