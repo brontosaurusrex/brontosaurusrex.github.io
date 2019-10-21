@@ -82,3 +82,10 @@ Seems to give better info overall.
      "CPU" cpu
      "GPU" gpu
      "Memory" memory
+     
+## Inxi research
+
+Give me titles for submenus?
+
+    inxi -F -v 8 -c 0 -r | grep -v '^ '
+    inxi -F -v 8 -c 0 -r | grep -v '^ ' |  awk '{ print $1 }'
