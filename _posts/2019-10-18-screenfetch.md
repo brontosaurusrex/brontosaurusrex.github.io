@@ -83,7 +83,7 @@ Seems to give better info overall.
      "GPU" gpu
      "Memory" memory
      
-## Inxi research
+## inxi research
 
 Give me titles for submenus?
 
@@ -129,3 +129,17 @@ this works as well
         wait
 
     done
+    
+Slightly faster, but random order
+
+    #!/bin/bash
+
+    array=( -S -M -C -G -A -N -D -P -s -I )
+    for i in "${array[@]}"
+    do
+
+        (inxi "$i" -c 0 & wait) &
+
+    done
+
+    wait
