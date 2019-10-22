@@ -2,48 +2,49 @@
 published: true
 layout: post
 date: '2017-08-07 00:23 +0200'
-title: Yes You Can Public License (YYC)
+title: Yes You Can Permissive License (YYCPL)
 tags: misc
 ---
-## YYC0
+## YYCPL0
 
     Yes you can.
     
 Example: This Work is published under 'Yes You Can 0' permissive license.
+Short: License=YYCPL0
 
-## YYC1
+## YYCPL1
 
     Yes you can, but with another name and don't mention me.
     
 Example: This Work is published under 'Yes You Can 1, but do NOT mention me' permissive license.
     
-## YYC2
+## YYCPL2
 
     Yes you can, but you should mention me. 
     
 Example: This Work is published under 'Yes You Can 2, but do credit me and other authors' permissive license.
     
-## YYC3
+## YYCPL3
 
     Yes you can, but for non-commercial purposes only.
     
-## YYC4
+## YYCPL4
 
     Yes you can, but release the sources.
     
 # Combination examples
 
-## YYC1+3
+## YYCPL1+3
 
     Yes you can, but with another name and don't mention me AND for non-commercial purposes only.
     
-## YYC2+3
+## YYCPL2+3
 
     Yes you can, but you should mention me AND for non-commercial purposes only.
     
-## YYC3+4
+## YYCPL3+4
 
-    Yes, but release the sources AND for non-commercial purposes. 
+    Yes you can, but release the sources AND for non-commercial purposes. 
     
 # Explanation
 
@@ -59,4 +60,4 @@ Only valid in a case when you release modification of work publicly.
 
 # License for this licenses
 
-	This Licenses are published under 'Yes You Can 0' license.
+	This Licenses are published under 'Yes You Can 0' permissive license.
