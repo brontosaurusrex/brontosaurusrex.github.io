@@ -45,3 +45,27 @@ tags: mine
 ## First impression
 
 Louder than expected, flashy (can be toned down), slightly higher than expected (would need some sort of hand rest thing), extremely cool looking. Keys are slightly wider than my previous (default macos) keyboard, which will require some adjusting. This works in Linux as expected without any kind of hacking.
+
+## Openbox rc.xml
+
+This inside <keyboard></keyboard>
+
+    <!-- redragon -->
+    <keybind key="XF86AudioRaiseVolume">
+      <action name="Execute">
+        <command>amixer sset Master,0 5+</command>
+      </action>
+    </keybind>
+    <keybind key="XF86AudioLowerVolume">
+      <action name="Execute">
+        <command>amixer sset Master,0 5-</command>
+      </action>
+    </keybind>
+    <keybind key="XF86AudioMute">
+      <action name="Execute">
+        <command>amixer sset Master,0 toggle</command>
+      </action>
+    </keybind>
+    <!-- redragon end -->
+    
+will give some FN+f2/f3/f4 action. 
