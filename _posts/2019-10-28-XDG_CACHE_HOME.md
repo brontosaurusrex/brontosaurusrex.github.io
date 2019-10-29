@@ -26,3 +26,19 @@ tags: linux
     823M	./google-chrome
     2.6G	.
     2.6G	total
+    
+Everything in enviroment considering XDG (Debian Buster Openbox)
+
+    printenv | grep XDG
+    
+    XDG_SEAT=seat0
+    XDG_SESSION_TYPE=x11
+    XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+    XDG_SESSION_CLASS=user
+    XDG_SESSION_ID=1
+    XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+    XDG_RUNTIME_DIR=/run/user/1000
+    XDG_SESSION_DESKTOP=openbox
+    XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/b
+    XDG_VTNR=7
+    XDG_DATA_DIRS=/home/b/.local/share ...
