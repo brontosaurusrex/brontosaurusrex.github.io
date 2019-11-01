@@ -14,3 +14,7 @@ tags: blender luv
 
 Blender 2.81 release notes  
 [https://wiki.blender.org/wiki/Reference/Release_Notes/2.81/Cycles](https://wiki.blender.org/wiki/Reference/Release_Notes/2.81/Cycles)
+
+## How about ~2 minutes  
+[https://cdn.scrot.moe/images/2019/11/01/t55_bid_2min_1sample.png](https://cdn.scrot.moe/images/2019/11/01/t55_bid_2min_1sample.png) - Blender old internal denoiser, 1 sample, 1:49   
+[https://cdn.scrot.moe/images/2019/11/01/t55_oid_2min_23samples.png](https://cdn.scrot.moe/images/2019/11/01/t55_oid_2min_23samples.png) - Open image denoise, 23 samples, 2:19
