@@ -9,6 +9,11 @@ Mkay
 
     # capslock blink
     xset led on; sleep 1; xset led off
+    
+Could be by name (Does nothing on kumara)
+
+xset led named "Sleep"  # on
+xset -led named "Sleep" # off
 
 Definitions in
 
