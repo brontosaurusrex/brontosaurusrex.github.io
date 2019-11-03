@@ -12,10 +12,10 @@ Mkay
     
 Could be by name (Does nothing on kumara)
 
-xset led named "Sleep"  # on
-xset -led named "Sleep" # off
+    xset led named "Sleep"  # on
+    xset -led named "Sleep" # off
 
-Definitions in
+Missing? definitions in
 
     /sys/class/leds
     
