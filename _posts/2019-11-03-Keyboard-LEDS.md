@@ -30,6 +30,10 @@ xset -q
         09: Mail:        off    10: Charging:    off    11: Shift Lock:  off
         12: Group 2:     off    13: Mouse Keys:  off
 
+Export current settings to file
+
+    xkbcomp $DISPLAY myconf.xkb
+
 
 [https://www.kernel.org/doc/html/latest/leds/leds-class.html](https://www.kernel.org/doc/html/latest/leds/leds-class.html)  
 [https://dev.to/raymelon/automating-your-keyboards-backlit-with-bash](https://dev.to/raymelon/automating-your-keyboards-backlit-with-bash)  
