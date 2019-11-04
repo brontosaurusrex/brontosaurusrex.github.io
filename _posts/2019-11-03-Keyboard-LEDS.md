@@ -30,7 +30,7 @@ xset -q
         09: Mail:        off    10: Charging:    off    11: Shift Lock:  off
         12: Group 2:     off    13: Mouse Keys:  off
 
-Export current settings to file
+Export current settings to file (x11-xkb-utils)
 
     xkbcomp $DISPLAY myconf.xkb
 
