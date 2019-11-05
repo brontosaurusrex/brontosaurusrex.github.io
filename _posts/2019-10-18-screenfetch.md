@@ -148,3 +148,9 @@ Slightly faster, but random order
 Ugly and slow.
 
 [![scrot06332.md.png](https://cdn.scrot.moe/images/2019/10/22/scrot06332.md.png)](https://scrot.moe/image/xT7bd)
+
+## As Geany template
+
+    cd ~/.config/geany/templates/files
+    echo "{command:neofetch --off --stdout --disable title term model --memory_percent on}" > neofetch
+

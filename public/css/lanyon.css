@@ -165,7 +165,7 @@ img {
     .brontologo {
     
     max-width: 600px;
-    margin-left: 0rem;
+    margin-left: -40px;
     /* display: none; */
     /* visibility: hidden; */
   }
@@ -175,8 +175,12 @@ img {
 @media screen and (max-width: 608px) {
 
     .brontologo {
+/*
     display: none; 
     visibility: hidden; 
+*/
+    max-width: 380px;
+    margin-left: -30px;
   }
 }
   
