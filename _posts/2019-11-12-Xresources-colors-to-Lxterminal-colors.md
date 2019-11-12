@@ -11,7 +11,7 @@ Naive script to convert hex colors as seen in .Xresources to Lxterminal friendly
 
 Usage:
 
-    urxlx ~/.Xresources > tmp.txt
+    urxlx ~/.Xresources | xclip
 
 Converts this
 
