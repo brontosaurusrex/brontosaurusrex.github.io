@@ -36,5 +36,7 @@ A [reminder/alarm script](https://raw.githubusercontent.com/brontosaurusrex/buce
        # Notes:
        at -l       # will list pending jobs (or atq)
        at -r <num> # will remove job <num>  (or atrm)
+       
+Note: 'at' doesn't use seconds, max precision seems to be minutes.
 
 [Some debate](https://forums.bunsenlabs.org/viewtopic.php?id=6257).
