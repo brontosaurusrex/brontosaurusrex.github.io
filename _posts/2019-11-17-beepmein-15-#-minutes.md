@@ -32,7 +32,8 @@ A [reminder/alarm script](https://raw.githubusercontent.com/brontosaurusrex/buce
     beepmein --reaction reminder_text
     beepmein --reaction --alarm alarm_text
 
-    beepmein --help # this help
+    killall beepmein # kill all running playback,
+                      will not remove set 'at' timers.
             
     # Notes:
     at -l       # will list pending jobs (or atq)
