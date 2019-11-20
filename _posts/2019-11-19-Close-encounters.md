@@ -35,6 +35,9 @@ wavesurfer.load('/audio/closeEnc.opus');
 
 ## Alarm sounds
 
+Das boot (mod)  
+[https://dflund.se/~fernbom/music/mods/files/dasboot.zip](https://dflund.se/~fernbom/music/mods/files/dasboot.zip)
+
 Das boot remix (mod)  
 [https://modarchive.org/index.php?request=view_by_moduleid&query=110422](https://modarchive.org/index.php?request=view_by_moduleid&query=110422)
 
