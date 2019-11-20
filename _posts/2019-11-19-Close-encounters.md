@@ -41,4 +41,7 @@ Das boot remix (mod)
 Axel F (mod)  
 [https://modarchive.org/index.php?request=view_by_moduleid&query=32394](https://modarchive.org/index.php?request=view_by_moduleid&query=32394)
 
+Enjoy the silence (mod)  
+[https://dflund.se/~fernbom/music/mods/files/enjoy.zip](https://dflund.se/~fernbom/music/mods/files/enjoy.zip)
+
 
