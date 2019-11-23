@@ -6,5 +6,4 @@ title: URXVTConfig gui
 tags: linux cli 
 ---
 [https://github.com/daedreth/URXVTConfig](https://github.com/daedreth/URXVTConfig)  
-[![scrot12335.md.png](https://cdn.scrot.moe/images/2019/11/11/scrot12335.md.png)](https://cdn.scrot.moe/images/2019/11/11/scrot12335.png)  
-Note: Do backup ~/.Xresources first.
+[![scrot12335.png sltEVu1nL8nZb52 md](https://i.imgur.com/bmGSAD3l.png)̉](https://i.imgur.com/bmGSAD3.png)

@@ -8,4 +8,4 @@ tags: mine cli bash linux
 git
 [https://github.com/brontosaurusrex/radioClicky](https://github.com/brontosaurusrex/radioClicky)
 
-[![radioClickyScrot.md.png](https://cdn.scrot.moe/images/2017/10/18/radioClickyScrot.md.png)](https://cdn.scrot.moe/images/2017/10/18/radioClickyScrot.png)
+[![radioClickyScrot.png DVzj7RpPLmigIIJ md](https://i.imgur.com/wDGGB5nl.png)̉](https://i.imgur.com/wDGGB5n.png)
