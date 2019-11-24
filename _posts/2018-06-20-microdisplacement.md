@@ -19,6 +19,8 @@ Texture [http://www.texturemate.com/Textures/seamless-seamless-sci-fi_Free_Textu
 ### Dicing scale set to 0.5:  
 [![microDisp1.png-ZEqRmiEBw3lKrg5-th](https://images.weserv.nl/?url=https://i.imgur.com/NrI6ux9b.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/NrI6ux9.jpg)  
 
+FIXME
+
 ### Stronger displacement:  
 [![microDisp4.png-wqPnC4wD17RJmrX-th](https://images.weserv.nl/?url=https://i.imgur.com/2VAwDmcb.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/2VAwDmc.jpg)
 [![microDisp6.png-7GHcTnuxSaW9zMP-th](https://images.weserv.nl/?url=https://i.imgur.com/zV704z6b.png)](https://images.weserv.nl/?url=https://i.imgur.com/zV704z6.png)
@@ -26,6 +28,8 @@ Texture [http://www.texturemate.com/Textures/seamless-seamless-sci-fi_Free_Textu
 [![microDisp6gimp.png-AECveyXyZPOqHuP-th](https://images.weserv.nl/?url=https://i.imgur.com/QfCbi9Gb.png)](https://images.weserv.nl/?url=https://i.imgur.com/QfCbi9G.png)
 [![bunsenMicro.png-jMDvzEgLw6dG5Fh-th](https://images.weserv.nl/?url=https://i.imgur.com/6h0XqRdb.png)](https://images.weserv.nl/?url=https://i.imgur.com/6h0XqRd.png)
 [![bunsenSilicon2.png-BGBRJHcj4GXIY3j-th](https://images.weserv.nl/?url=https://i.imgur.com/AypvwoCb.png)](https://images.weserv.nl/?url=https://i.imgur.com/AypvwoC.png)
+
+FIXME
 
 ### Displacement driven by Pointiness > ramp > Displacement (scale)
 
