@@ -80,10 +80,8 @@ p.s.3. With imagemagick the gimp repositioning part could be simply done by addi
     
 3 pass degradation + some gimp video fx
 
-[![bronto-silber_interlaced_interlaced_interlaced.png](https://cdn.scrot.moe/images/2019/08/10/bronto-silber_interlaced_interlaced_interlaced.png)](https://cdn.scrot.moe/images/2019/08/10/bronto-silber_interlaced_interlaced_interlaced.png)
+[![bronto-silber_interlaced_interlaced_interlaced.png-RnMB69bSG2k9hy2-md](https://images.weserv.nl/?url=https://i.imgur.com/7lbMK52.png)](https://images.weserv.nl/?url=https://i.imgur.com/7lbMK52.png)
 
 ### Wallpapers
-[![brontointer-back.md.png](https://cdn.scrot.moe/images/2019/08/09/brontointer-back.md.png)](https://cdn.scrot.moe/images/2019/08/09/brontointer-back.png)
-
-[![mkay2-pegtop-light.md.png](https://cdn.scrot.moe/images/2019/08/10/mkay2-pegtop-light.md.png)](https://cdn.scrot.moe/images/2019/08/10/mkay2-pegtop-light.png)
-
+[![brontointer-back.png-FGydjnP3gxc4qu7-md](https://images.weserv.nl/?url=https://i.imgur.com/mNmssb6l.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/mNmssb6.jpg)
+[![mkay2-pegtop-light.png-sWJZAe1MFF63R7j-md](https://images.weserv.nl/?url=https://i.imgur.com/xfdK6h4l.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/xfdK6h4.jpg)

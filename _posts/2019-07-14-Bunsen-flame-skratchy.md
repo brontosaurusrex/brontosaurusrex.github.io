@@ -5,9 +5,9 @@ date: '2019-07-14 00:10'
 title: Bunsen flame skratchy
 tags: linux 
 ---
-png  
-[![bunsenSkratchRed2.md.png](https://cdn.scrot.moe/images/2019/07/14/bunsenSkratchRed2.md.png)](https://cdn.scrot.moe/images/2019/07/14/bunsenSkratchRed2.png)
-[![bunsenSkratchBW2.md.png](https://cdn.scrot.moe/images/2019/07/14/bunsenSkratchBW2.md.png)](https://cdn.scrot.moe/images/2019/07/14/bunsenSkratchBW2.png)
+jpg  
+[![bunsenSkratchRed2.png-xnJpj2quIXEhMUe-th](https://images.weserv.nl/?url=https://i.imgur.com/9lRMXR7b.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/9lRMXR7.jpg)
+[![bunsenSkratchBW2.png-WNCzEaOHxJUsSKO-th](https://images.weserv.nl/?url=https://i.imgur.com/XNSySgWb.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/XNSySgW.jpg)
 
 svg source  
 [Red svg]({{site.baseurl}}/media/bunsenSkratchRed2.svg) and 

@@ -28,7 +28,8 @@ tags: linux
     
 [pipeScreenfetch](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/bin/pipeScreenfetch).
 
-[![scrot31573.md.png](https://cdn.scrot.moe/images/2019/10/18/scrot31573.md.png)](https://scrot.moe/image/xNuZz)
+[![scrot31573.png-GZXtLXrityww7BY-md](https://images.weserv.nl/?url=https://i.imgur.com/LUQK4ctl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/LUQK4ct.jpg)
+
 
 Variables may be omited from display, like so
 
@@ -57,8 +58,6 @@ Variables may be omited from display, like so
 [pipeNeofetch](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/bin/pipeNeofetch).
 
 Seems to give better info overall.
-
-[![scrot17819.md.png](https://cdn.scrot.moe/images/2019/10/19/scrot17819.md.png)](https://scrot.moe/image/xTK3Z)
 
 [Valid variables](https://github.com/dylanaraps/neofetch/blob/master/neofetch) (for --disable)
 
@@ -147,7 +146,7 @@ Slightly faster, but random order
 [pipeInxi](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/bin/pipeInxi)  
 Ugly and slow.
 
-[![scrot06332.md.png](https://cdn.scrot.moe/images/2019/10/22/scrot06332.md.png)](https://scrot.moe/image/xT7bd)
+[![scrot06332.png-M9WLNJoNnXpj6SN-md](https://images.weserv.nl/?url=https://i.imgur.com/TqcSHH2l.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/TqcSHH2.jpg)
 
 ## As Geany template
 

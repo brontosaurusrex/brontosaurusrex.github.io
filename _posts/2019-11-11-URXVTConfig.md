@@ -6,4 +6,4 @@ title: URXVTConfig gui
 tags: linux cli 
 ---
 [https://github.com/daedreth/URXVTConfig](https://github.com/daedreth/URXVTConfig)  
-[![scrot12335.png sltEVu1nL8nZb52 md](https://i.imgur.com/bmGSAD3l.png)̉](https://i.imgur.com/bmGSAD3.png)
+[![scrot12335.png sltEVu1nL8nZb52 md](https://i.imgur.com/bmGSAD3l.png)](https://i.imgur.com/bmGSAD3.png)

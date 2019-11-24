@@ -7,27 +7,25 @@ tags: mine
 ---
 ## Script
 
-[Watermark script](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/watermark), [Background example](https://cdn.scrot.moe/images/2019/07/22/back.png), [Logo example](https://cdn.scrot.moe/images/2019/07/22/logoBunsen2019red.png).
+[Watermark script](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/watermark), [Background example](https://images.weserv.nl/?url=https://i.imgur.com/fxxMha5.jpg), [Logo example](https://images.weserv.nl/?url=https://i.imgur.com/WQj80Ny.png).
 
 Usage example:
 
-    mkdir test && cd test
-    wget https://cdn.scrot.moe/images/2019/07/22/back.png
-    wget https://cdn.scrot.moe/images/2019/07/22/logoBunsen2019red.png -O logo.png
-    watermark back.png logo.png wall 25
+    watermark back.jpg logo.png wall 25
     # Shall generate multiple output compositions
     viewnior --fullscreen --slideshow *wall*
 
-Output of `watermark back.png logo.png wall 15`    
-[![wall-plus.md.png](https://cdn.scrot.moe/images/2019/07/22/wall-plus.md.png)](https://cdn.scrot.moe/images/2019/07/22/wall-plus.png)  
+Output of `watermark back.jpg logo.png wall 15`    
+[![wall-plus.png-jmb5QKqyuxkmLAm-md](https://images.weserv.nl/?url=https://i.imgur.com/OEvIe6ul.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/OEvIe6u.jpg)
+ 
 The new back + back over alpha method  
-[![bunsen-back.md.png](https://cdn.scrot.moe/images/2019/07/24/bunsen-back.md.png)](https://cdn.scrot.moe/images/2019/07/24/bunsen-back.png)  
+[![bunsen-back.png-ILroNpdGCe8zxnq-md](https://images.weserv.nl/?url=https://i.imgur.com/iSHVzXDl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/iSHVzXD.jpg)  
 Debian [Diverse](https://gitlab.com/valessiobrito/artwork/tree/master/Debian/debian-diversity)  
-[![divers-back.md.png](https://cdn.scrot.moe/images/2019/07/24/divers-back.md.png)](https://cdn.scrot.moe/images/2019/07/24/divers-back.png)  
+[![divers-back.png-Fx6HKUf9l2LctUo-md](https://images.weserv.nl/?url=https://i.imgur.com/WiOrbkMl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/WiOrbkM.jpg)  
 Destroyed alpha with some random lines  
-[![woot2-destroyedDefault.md.jpg](https://cdn.scrot.moe/images/2019/07/24/woot2-destroyedDefault.md.jpg)](https://cdn.scrot.moe/images/2019/07/24/woot2-destroyedDefault.jpg)  
-[![bunsennew-destroyedDefault.md.png](https://cdn.scrot.moe/images/2019/07/25/bunsennew-destroyedDefault.md.png)](https://cdn.scrot.moe/images/2019/07/25/bunsennew-destroyedDefault.png)  
-[![test9-destroyedDefault.md.jpg](https://cdn.scrot.moe/images/2019/08/11/test9-destroyedDefault.md.jpg)](https://cdn.scrot.moe/images/2019/08/11/test9-destroyedDefault.jpg)
+[![woot2-destroyedDefault.jpg-YWo6q4DzENH6jrc-md](https://images.weserv.nl/?url=https://i.imgur.com/KxpFughl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/KxpFugh.jpg)  
+[![bunsennew-destroyedDefault.png-ztPNJUpFN5KMPAA-md](https://images.weserv.nl/?url=https://i.imgur.com/GmoPqjOl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/GmoPqjO.jpg)  
+[![test9-destroyedDefault.jpg-tvlRmP6ljqWmQDv-md](https://images.weserv.nl/?url=https://i.imgur.com/8pNz33ul.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/8pNz33u.jpg)
 
 ## FIXME
 

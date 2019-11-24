@@ -7,10 +7,10 @@ tags: video
 ---
 In edit tab, select clips on timeline, right-mice enable 'Render Cache Color Output".
 
-![](https://cdn.scrot.moe/images/2019/09/26/cachedPlaybackResolve16.jpg)
+[![cachedPlaybackResolve16.jpg-vY3saBHFMrA2H1E-md](https://images.weserv.nl/?url=https://i.imgur.com/sQVwpl6l.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/sQVwpl6.jpg)
 
 And in main menu/Playback/Render cache > set to 'User'
 
-![](https://cdn.scrot.moe/images/2019/09/26/user.jpg)
+[![user.jpg-cUOKBp4IxoZ6HmG-md](https://images.weserv.nl/?url=https://i.imgur.com/GVibSQDl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/GVibSQD.jpg)
 
 [https://www.youtube.com/watch?v=n941hdASHhQ](https://www.youtube.com/watch?v=n941hdASHhQ)

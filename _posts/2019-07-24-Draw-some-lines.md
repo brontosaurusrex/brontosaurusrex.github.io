@@ -5,7 +5,7 @@ date: '2019-07-24 16:32'
 title: Draw some lines
 tags: mine
 ---
-[https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/lines](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/lines)
+[/master/bin/lines](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/lines)
 
 Usage:
 
@@ -13,7 +13,7 @@ Usage:
 
 will generate 1920x1200 image with bunch of lines (useful as some sort of mask).
 
-[![woot.md.png](https://cdn.scrot.moe/images/2019/07/24/woot.md.png)](https://cdn.scrot.moe/images/2019/07/24/woot.png)
+[![woot.png-MX6fCDPk0bJh3lz-md](https://images.weserv.nl/?url=https://i.imgur.com/CVopsv5l.png)](https://images.weserv.nl/?url=https://i.imgur.com/CVopsv5.png)
 
 Additional destruction
 
@@ -21,6 +21,6 @@ Additional destruction
 
 and then blended with original may produce
 
-[![lines.md.png](https://cdn.scrot.moe/images/2019/08/11/lines.md.png)](https://scrot.moe/image/xGyfX)
+![lines.md.png](https://images.weserv.nl/?url=https://i.imgur.com/8Ojz1A1.png)
 
 And it tiles.

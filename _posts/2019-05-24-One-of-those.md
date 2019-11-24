@@ -5,7 +5,7 @@ date: '2019-05-24 03:03'
 title: One of those
 tags: blender mine 
 ---
-[![tedy_05.md.png](https://cdn.scrot.moe/images/2019/05/24/tedy_05.md.png)](https://cdn.scrot.moe/images/2019/05/24/tedy_05.png)
+[![tedy_05.png-Iq07v1Z6lzAxsgW-th](https://images.weserv.nl/?url=https://i.imgur.com/Npflekzb.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/Npflekz.jpg)
 
 3 wall place, one bear, one sun lamp, one world sky lamp (very low), no hdri environment. 
 Done in Blender 2.79 and some darktable post (especially *filmic, vignette* and *global tonemap* filters). 

@@ -9,6 +9,4 @@ Another awesomeness from [cog](https://forums.bunsenlabs.org/viewtopic.php?pid=9
 
 [https://github.com/willscreel/yeti](https://github.com/willscreel/yeti)
 
-![yeti.md.png KDMpzKR9Pjd3GNO md](https://i.imgur.com/8otP7JMl.png)̉
-
 Note: Build.sh puts the theme to $HOME/.local/share/themes/.

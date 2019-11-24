@@ -7,6 +7,4 @@ tags: linux
 ---
 [https://shop.sandisk.com/store/sdiskus/pd/productID.5312044100/varProductID.5312044100](https://shop.sandisk.com/store/sdiskus/pd/productID.5312044100/varProductID.5312044100)
 
-![what](https://cdn.scrot.moe/images/2019/10/09/sandisk.png)
-
 When the price is under 50 eur.
