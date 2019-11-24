@@ -12,4 +12,4 @@ Decay, grass
 [https://www.videocopilot.net/tutorials/damage_and_decay_fx/](https://www.videocopilot.net/tutorials/damage_and_decay_fx/)
 
 Blender  
-[![glitch.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2019/01/25/glitch.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2019/01/25/glitch.png)
+[![glitch.png-DHTRkxDbQUAbamH-md](https://images.weserv.nl/?url=https://i.imgur.com/c5CdtWfl.png)](https://images.weserv.nl/?url=https://i.imgur.com/c5CdtWf.png)

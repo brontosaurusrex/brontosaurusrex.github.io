@@ -5,10 +5,10 @@ date: '2019-04-03 15:39'
 title: Keyboard Warrior, update
 tags: blender 
 ---
-[![ladyNew14.md.jpg](https://cdn.scrot.moe/images/2019/04/05/ladyNew14.md.jpg)](https://scrot.moe/image/aCoxv)
-[![ladyNew12.md.jpg](https://cdn.scrot.moe/images/2019/04/05/ladyNew12.md.jpg)](https://scrot.moe/image/aCZve)
-[![ladyNew10.md.jpg](https://cdn.scrot.moe/images/2019/04/05/ladyNew10.md.jpg)](https://scrot.moe/image/aCidu)
-[![ladyNew9.md.jpg](https://cdn.scrot.moe/images/2019/04/03/ladyNew9.md.jpg)](https://scrot.moe/image/aBtEb)
+[![ladyNew14.jpg-dwNrzuFFe6lhmGu-th](https://images.weserv.nl/?url=https://i.imgur.com/DFbHt3nb.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/DFbHt3n.jpg)
+[![ladyNew12.jpg-ooXK0QIe2GhY9XK-th](https://images.weserv.nl/?url=https://i.imgur.com/GNnqMM6b.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/GNnqMM6.jpg)
+[![ladyNew10.jpg-h8nYRHdxQcqyBzM-th](https://images.weserv.nl/?url=https://i.imgur.com/Piadmynb.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/Piadmyn.jpg)
+[![ladyNew9.jpg-JNcwPdpD8p5on7B-th](https://images.weserv.nl/?url=https://i.imgur.com/PmAO9hEb.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/PmAO9hE.jpg)
 
 New keyboard, new cloth ... [https://youtu.be/zxTx02Llaqw](https://youtu.be/zxTx02Llaqw)
 

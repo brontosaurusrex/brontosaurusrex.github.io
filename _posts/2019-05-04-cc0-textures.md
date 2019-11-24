@@ -18,5 +18,4 @@ My try (normal map 2 strong)
 *Note: AO map should be multiplied to color map (and not overlayed)*
 
 And a different material  
-[![06_d_dist.png-EVlApoSFaE3p5Xl-md](https://images.weserv.nl/?url=https://i.imgur.com/IzMVkIVl.png)](https://images.weserv.nl/?url=https://i.imgur.com/IzMVkIV.png)
-
+[![06_d_dist.png-EVlApoSFaE3p5Xl-md](https://images.weserv.nl/?url=https://i.imgur.com/IzMVkIV.png)](https://images.weserv.nl/?url=https://i.imgur.com/IzMVkIV.png)

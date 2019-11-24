@@ -6,7 +6,7 @@ title: Maybe useful uv unwraped cubic sphere
 tags: blender 
 ---
 [click for blend.]({{site.baseurl}}/blends/maybeUsefulSphereUVunwraped.blend)  
-[![cubeSphereUVs.md.png](https://cdn.scrot.moe/images/2019/04/09/cubeSphereUVs.md.png)](https://scrot.moe/image/akgOn)
+[![cubeSphereUVs.png-OGbKuQjX410tWgA-md](https://images.weserv.nl/?url=https://i.imgur.com/lrWzJHzl.png)](https://images.weserv.nl/?url=https://i.imgur.com/lrWzJHz.png)
 
 Nice UV unwrap overview  
 [https://www.youtube.com/watch?v=brnaAL-QwhU](https://www.youtube.com/watch?v=brnaAL-QwhU)

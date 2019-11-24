@@ -14,11 +14,11 @@ Convert to obj
 Import with some materials/textures (Blender addon)  
 [https://theduckcow.com/dev/blender/mcprep/](https://theduckcow.com/dev/blender/mcprep/)
 
-[![world.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2019/01/27/world.md.png)](https://scrot.moe/image/ajlZA)
-[![world4gimp.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2019/01/27/world4gimp.md.png)](https://scrot.moe/image/ajBPb)
-[![world5creeperAndSquid.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2019/01/27/world5creeperAndSquid.md.png)](https://scrot.moe/image/ajT1W)
-[![world6.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2019/01/28/world6.md.png)](https://scrot.moe/image/ajQTC)
-[![world14.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2019/02/01/world14.md.png)](https://scrot.moe/image/aICVn)
+[![world14-fs8.png-APeMjI3jxkfZRXs-th](https://images.weserv.nl/?url=https://i.imgur.com/Ah6VvOZ.png)](https://images.weserv.nl/?url=https://i.imgur.com/Ah6VvOZ.png)
+[![world4gimp-fs8.png-QT1jGD71lmhv96u-th](https://images.weserv.nl/?url=https://i.imgur.com/Y6jQ3rd.png)](https://images.weserv.nl/?url=https://i.imgur.com/Y6jQ3rd.png)
+[![world6-fs8.png-6TFDgo51FB8Fhis-th](https://images.weserv.nl/?url=https://i.imgur.com/QskH69Q.png)](https://images.weserv.nl/?url=https://i.imgur.com/QskH69Q.png)
+[![world-fs8.png-6gi8saCYkVysK5J-th](https://images.weserv.nl/?url=https://i.imgur.com/lSV4mqd.png)](https://images.weserv.nl/?url=https://i.imgur.com/lSV4mqd.png)
+[![world5creeperAndSquid-fs8.png-f4nIZTrOgM2qA3O-th](https://images.weserv.nl/?url=https://i.imgur.com/UEf3NoI.png)](https://images.weserv.nl/?url=https://i.imgur.com/UEf3NoI.png)
 
 Worlds  
 [https://www.minecraftworldmap.com/#/323/64/290/-3/0/0](https://www.minecraftworldmap.com/#/323/64/290/-3/0/0)

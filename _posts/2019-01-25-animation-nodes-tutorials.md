@@ -31,3 +31,5 @@ Motion blur test (animated effektor position)
 Something Glitchy  
 [https://youtu.be/7c-vKxQk4SI](https://youtu.be/7c-vKxQk4SI)  
 [![somethingGlitchyAnimNodes.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2019/01/25/somethingGlitchyAnimNodes.th.png)](https://scrot.moe/image/aM5yY)
+
+Note: All scrots lost.

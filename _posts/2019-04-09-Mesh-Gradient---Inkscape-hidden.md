@@ -10,6 +10,6 @@ tags: video
 
 ToolMesh.
 
-[![mesh2.md.png](https://cdn.scrot.moe/images/2019/04/09/mesh2.md.png)](https://scrot.moe/image/akz0d)
+![mesh2.md.png-tK9NkZhzlot5nd3-md](https://images.weserv.nl/?url=https://i.imgur.com/4JJRLHW.png)
 
 Svg will be incompatible with browsers, pdf seems to work.
