@@ -7,10 +7,10 @@ tags:
   - blender
   - mine
 ---
-[![saturns1.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/05/24/saturns1.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/05/24/saturns1.png)
+[![saturns1.png-MgeKKj2KBnxBUsm-md](https://images.weserv.nl/?url=https://i.imgur.com/arWV7Ag.png)](https://images.weserv.nl/?url=https://i.imgur.com/FwvESzQ.png)
 
 [https://forums.bunsenlabs.org/viewtopic.php?pid=72239#p72239](https://forums.bunsenlabs.org/viewtopic.php?pid=72239#p72239)
 
-[![saturns1thumb.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/05/28/saturns1thumb.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/05/28/saturns1thumb.png)
-
-[![saturns6small.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/05/31/saturns6small.th.png)](https://scrot.moe/image/9jHon) [![saturns5small.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/05/31/saturns5small.th.png)](https://scrot.moe/image/9jpzQ) [![saturns6.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/05/31/saturns6.th.png)](https://scrot.moe/image/9jlWe) [![saturns5.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/05/31/saturns5.th.png)](https://scrot.moe/image/9jA2u)
+[![saturns1thumb.png-jT9gmHaZqCkRT3C-md](https://images.weserv.nl/?url=https://i.imgur.com/ZlBHMBMl.png)](https://images.weserv.nl/?url=https://i.imgur.com/ZlBHMBM.png)
+[![saturns5.png-fvicPUiUtUO1Cil-md](https://images.weserv.nl/?url=https://i.imgur.com/XPG1mLK.png)](https://images.weserv.nl/?url=https://i.imgur.com/YHgwIYk.png)
+[![saturns3.png-MMlBkAWefP5rUfT-md](https://images.weserv.nl/?url=https://i.imgur.com/O1WKo2f.png)](https://images.weserv.nl/?url=https://i.imgur.com/PmojLcF.png)
