@@ -6,7 +6,7 @@ title: Retro tiles with alpha
 tags:
   - misc
 ---
-[![tilesRetro.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/05/22/tilesRetro.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/05/22/tilesRetro.png)
+[![tilesRetro.png-hCasoqA54OsiqLD-md](https://images.weserv.nl/?url=https://i.imgur.com/tFBDURil.png)](https://images.weserv.nl/?url=https://i.imgur.com/tFBDURi.png)
 
 git  
 [https://github.com/brontosaurusrex/retrotiles](https://github.com/brontosaurusrex/retrotiles)
