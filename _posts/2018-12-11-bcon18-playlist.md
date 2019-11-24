@@ -17,4 +17,4 @@ tags:
 
 [https://www.blenderkit.com/](https://www.blenderkit.com/)
 
-[![blendKit.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/12/11/blendKit.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/12/11/blendKit.png)
+[![blendKit.png-zXEfkmw31tTOtu7-md](https://images.weserv.nl/?url=https://i.imgur.com/iTUhXYBl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/iTUhXYB.jpg)
