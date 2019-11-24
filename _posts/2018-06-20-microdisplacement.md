@@ -14,7 +14,8 @@ tags:
 
 Texture [http://www.texturemate.com/Textures/seamless-seamless-sci-fi_Free_Texture_366](http://www.texturemate.com/Textures/seamless-seamless-sci-fi_Free_Texture_366)
 
-[![microDisp.png-ZXVJTQdiAhhsyw3-th](https://images.weserv.nl/?url=https://i.imgur.com/FM9Rq7bb.png)](https://images.weserv.nl/?url=https://i.imgur.com/FM9Rq7b.png)  
+[![microDisp-fs8.png-QrUEQLKRZRHFG77-th](https://images.weserv.nl/?url=https://i.imgur.com/pDsOTM6.png)](https://images.weserv.nl/?url=https://i.imgur.com/pto1S7k.png)
+
 ### Dicing scale set to 0.5:  
 [![microDisp1.png-ZEqRmiEBw3lKrg5-th](https://images.weserv.nl/?url=https://i.imgur.com/NrI6ux9b.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/NrI6ux9.jpg)  
 
@@ -28,25 +29,21 @@ Texture [http://www.texturemate.com/Textures/seamless-seamless-sci-fi_Free_Textu
 
 ### Displacement driven by Pointiness > ramp > Displacement (scale)
 
-[![bunsenMicro3_2x_c.png-TR9Z1zZ33fnagFf-th](https://images.weserv.nl/?url=https://i.imgur.com/FS1ylgjb.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/FS1ylgj.jpg)
+[![bunsenMicro3_2x_c-fs8.png-W7K6ncZjv6qeBPe-th](https://images.weserv.nl/?url=https://i.imgur.com/PpphgUT.png)](https://images.weserv.nl/?url=https://i.imgur.com/kUetcB1.png)
 
 ### And the one that was a lot of work
 
-[![bunsenMicro6d_gimp1.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/06/27/bunsenMicro6d_gimp1.md.png)](https://scrot.moe/image/9Olqz)
+[![bunsenMicro6d_gimp1-fs8.png-gCnUYVBS14BbK8x-th](https://images.weserv.nl/?url=https://i.imgur.com/tfuxmvG.png)](https://images.weserv.nl/?url=https://i.imgur.com/fgAgaWx.png)
+[![bunsenMicro6d_mono_3x3_b-fs8.png-naqX5TqZPCvM5va-th](https://images.weserv.nl/?url=https://i.imgur.com/gqzUbTF.png)](https://images.weserv.nl/?url=https://i.imgur.com/Jc8KGQZ.png)
+[![bunsenMicro8_2x-fs8.png-ZWPa3nw3ELhVivk-th](https://images.weserv.nl/?url=https://i.imgur.com/5oIc9hl.png)](/media/bunsenMicro8_2x.png)
 
-[![bunsenMicro6d_mono_3x3_b.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/06/27/bunsenMicro6d_mono_3x3_b.md.png)](https://scrot.moe/image/9O7UQ)
+### HUD of some sort
 
-[![bunsenMicro8_2x.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/07/06/bunsenMicro8_2x.md.png)](https://scrot.moe/image/9o8HL)
+[![bunsenMicro6d_mono_3x3_b_hudSmall-fs8.png-LJDG0wMQm0hY4uy-th](https://images.weserv.nl/?url=https://i.imgur.com/bYFW9dL.png)](https://images.weserv.nl/?url=https://i.imgur.com/CPvnRfp.png)
+[![bunsenMicro6d_gimp2_hud-fs8.png-KKBmhuROAcn4cVb-th](https://images.weserv.nl/?url=https://i.imgur.com/LZeRqpQ.png)](https://images.weserv.nl/?url=https://i.imgur.com/P9FNFVg.png)
 
-HUD of some sort
-
-[![bunsenMicro6d_mono_3x3_b_hudSmall-fs8.png-R8g6BEhpAhyndCA-th](https://images.weserv.nl/?url=https://i.imgur.com/38cPYrYb.png)](https://images.weserv.nl/?url=https://i.imgur.com/38cPYrY.png)
-[![bunsenMicro6d_gimp2_hud-fs8.png-HsywDelYK5hVDH0-th](https://images.weserv.nl/?url=https://i.imgur.com/Klrqcazb.png)](https://images.weserv.nl/?url=https://i.imgur.com/Klrqcaz.png)
-
-## Depth map generators
+### Depth map generators
 
 [Jsplacement](https://windmillart.net/?p=jsplacement) is a rather cool pseudo-random 8k displacement map generator made with JavaScript.
 
-[![microDisp8.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/06/21/microDisp8.md.png)](https://scrot.moe/image/9tsWZ)
-
-FIXME.
+[![microDisp8.png-4xrSHh6AktfxWr1-th](https://images.weserv.nl/?url=https://i.imgur.com/oaNfNQl.png)](https://images.weserv.nl/?url=https://i.imgur.com/c4OBdk0.png)
