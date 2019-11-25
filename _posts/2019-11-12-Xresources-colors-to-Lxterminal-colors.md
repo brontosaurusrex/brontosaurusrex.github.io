@@ -40,4 +40,4 @@ to this
 
 then paste the results to strategic location in ~/.config/lxterminal/lxterminal.conf and win.
 
-[![sweetlove.png FPqDtgipscS9HYP md](https://i.imgur.com/H4iETtgl.png)](https://i.imgur.com/H4iETtg.png)
+[![sweetlove.png FPqDtgipscS9HYP md](https://images.weserv.nl/?url=https://i.imgur.com/H4iETtgl.png)](https://images.weserv.nl/?url=https://i.imgur.com/H4iETtg.png)
