@@ -7,9 +7,9 @@ tags:
   - linux
   - cli
 ---
-[![sixtEstate.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/03/14/sixtEstate.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/03/14/sixtEstate.png)
+[![sixtEstate.png-56rtjYX8Cp7fmNk-md](https://images.weserv.nl/?url=https://i.imgur.com/zFfmw99l.png)](https://images.weserv.nl/?url=https://i.imgur.com/zFfmw99.png)
 
 And something less filmic and more practical (removing tmux silly default border coloring and enters tile names with solid block that says tile is active)
 
-[![morePractical.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/03/14/morePractical.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/03/14/morePractical.png)
-[![anotherJulian.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/03/14/anotherJulian.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/03/14/anotherJulian.png)
+[![morePractical.png-32CQwFXn3ZoTNBf-md](https://images.weserv.nl/?url=https://i.imgur.com/7X84DKcl.png)](https://images.weserv.nl/?url=https://i.imgur.com/7X84DKc.png)
+[![anotherJulian.png-K7rFBWDAS5X34CV-md](https://images.weserv.nl/?url=https://i.imgur.com/W3k3d3Hl.png)](https://images.weserv.nl/?url=https://i.imgur.com/W3k3d3H.png)

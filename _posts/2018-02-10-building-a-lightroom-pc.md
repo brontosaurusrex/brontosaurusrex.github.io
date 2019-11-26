@@ -24,4 +24,4 @@ edit: ^ won't play mov/mp4 as it seems, unistalled.
 Being monospaced [https://www.fontsquirrel.com/fonts/M-1m](https://www.fontsquirrel.com/fonts/M-1m)
 
 Tilix with this font  
-[![thisIsASingleTilixWindow2.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/02/10/thisIsASingleTilixWindow2.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/02/10/thisIsASingleTilixWindow2.png)
+[![thisIsASingleTilixWindow2.png-dZQbr3IcGHOrVC4-md](https://images.weserv.nl/?url=https://i.imgur.com/MEM5WiWl.png)](https://images.weserv.nl/?url=https://i.imgur.com/MEM5WiW.png)

@@ -8,8 +8,6 @@ title: Jupiter Blues
 
 ![](https://www.jpl.nasa.gov/spaceimages/images/wallpaper/PIA21972-1280x800.jpg)
 
-wallpaper  
-[![jupiterSouth4.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/03/05/jupiterSouth4.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/03/05/jupiterSouth4.png)
 
 
 

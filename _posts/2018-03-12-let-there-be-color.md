@@ -17,4 +17,4 @@ title: Let there be color
 
 1. orig, 2. gimp grayscaled, 3. ai colorized
 
-![](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/03/12/rocketAIcolorized.jpg)
+[![rocketAIcolorized.jpg-FPwCKwRVDdlKHD2-md](https://images.weserv.nl/?url=https://i.imgur.com/otoyEI2l.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/otoyEI2.jpg)

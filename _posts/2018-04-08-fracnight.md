@@ -7,8 +7,8 @@ tags:
   - mine
   - luv
 ---
-[![fractal2fx2.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/04/08/fractal2fx2.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/04/08/fractal2fx2.png)
-[![fractal7fx3.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/04/08/fractal7fx3.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/04/08/fractal7fx3.png)
-[![fractal21fx.md.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/04/08/fractal21fx.md.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/04/08/fractal21fx.png)
+[![fractal2fx2.png-VpDBP1hqvHaHh4f-th](https://images.weserv.nl/?url=https://i.imgur.com/xCZOc8qb.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/xCZOc8q.jpg)
+[![fractal7fx3.png-2KjxQ9pP7yqrcRA-th](https://images.weserv.nl/?url=https://i.imgur.com/aNLG5qQb.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/aNLG5qQ.jpg)
+[![fractal21fx.png-jaEH1ykAHlhO8sS-th](https://images.weserv.nl/?url=https://i.imgur.com/Fw5X1gFb.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/Fw5X1gF.jpg)
 
 (qfractalnow, gimp 2.10)
