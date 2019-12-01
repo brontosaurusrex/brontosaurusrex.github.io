@@ -5,7 +5,6 @@ date: '2019-12-01 14:14'
 title: Time to some 'at' event
 tags: linux bash 
 ---
-{% highlight bash %}
     #!/bin/bash
 
     # timeToEvent
@@ -34,6 +33,5 @@ tags: linux bash
 
     job="480" # example
     timeToEvent "$job"
-{% endhighlight %}
 
 Implemented slightly differently in [pipeBeepmein](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/pipeBeepmein) jgmenu script.
