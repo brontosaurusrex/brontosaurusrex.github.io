@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2019-07-17 22:50'
+date: '2019-12-02 15:00'
 title: Revised Openbox rc.xml tiling keys and actions
 tags: linux mine 
 ---
@@ -10,6 +10,18 @@ tags: linux mine
     
     <!-- left side -->
     <keybind key="A-z">
+      <action name="UnmaximizeFull"/>
+      <action name="Maximize">
+        <direction>vertical</direction>
+      </action>
+      <action name="MoveResizeTo">
+        <x>0%</x>
+        <y>0</y>
+        <width>50%</width>
+        <!-- <height>98%</height> -->
+      </action>
+    </keybind>
+    <keybind key="A-y">
       <action name="UnmaximizeFull"/>
       <action name="Maximize">
         <direction>vertical</direction>
