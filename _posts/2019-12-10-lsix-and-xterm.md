@@ -24,3 +24,7 @@ Get the [lsix script](https://github.com/hackerb9/lsix).
 [![lsix.png-eaI1fWed0zQVBDi-md](https://images.weserv.nl/?url=https://i.imgur.com/a6kMShx.png)](https://images.weserv.nl/?url=https://i.imgur.com/a6kMShx.png)
 
 Default urxvt can't and won't.
+
+## Another way
+
+would be using [w3m-img, w3mimgdisplay](https://blog.z3bra.org/2014/01/images-in-terminal.html).
