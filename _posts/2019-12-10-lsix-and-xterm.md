@@ -28,3 +28,14 @@ Default urxvt can't and won't.
 ## Another way
 
 would be using [w3m-img, w3mimgdisplay](https://blog.z3bra.org/2014/01/images-in-terminal.html).
+
+## Cursor position
+
+It is possible to [store and restore cursor position](https://www.ibm.com/developerworks/aix/library/au-learningtput/index.html).
+
+    tput sc
+    tput cup 23 45
+    tput rc
+
+
+
