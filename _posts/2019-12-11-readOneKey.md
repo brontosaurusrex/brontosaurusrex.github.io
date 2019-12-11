@@ -48,7 +48,7 @@ tags: bash
 
     dostuff () {
         
-        m=$(( n - 1 )) # becouse it starts with 0
+        m=$(( n - 1 )) # because it starts with 0
         echo -n "parameter $n "
         echo "${file[$m]}"
 
@@ -58,22 +58,22 @@ tags: bash
 
     readOneKey () {
         
-        read -rsn1 woot
+        read -rsn1 key
         
-        set -x
-        if  [[ "$woot" == "j" ]]; then
+        if  [[ "$key" == "j" ]]; then
             n=$(( n + 1 ))
-        elif  [[ "$woot" == "k" ]]; then
+        elif  [[ "$key" == "k" ]]; then
             n=$(( n - 1 ))  
         fi
-        set +x
-        
-        # limits
-        (( "$n" >= "$max" )) && n="$max" 
-        (( "$n" <= "$min" )) && n="$min"
-        
-        dostuff "$n"
-
+          
+        # limit and dostuff
+        if (( "$n" > "$max" )); then
+            n="$max"
+        elif (( "$n" < "$min" )); then
+            n="$min"
+        else
+            dostuff "$n"
+        fi
     }
 
     while true; do readOneKey ; done
