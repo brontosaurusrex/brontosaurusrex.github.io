@@ -11,13 +11,4 @@ tags: mine bash
 
 Needs: 'w3m-img' (w3mimgdisplay) and supported terminal like xterm or urxvt. And probably more.
 
-Shortkeys:
-
-    j next
-    k previous
-    w set as wallpaper
-    i identify (imagemagick)
-    m mediainfo
-    q quit
-    
 Zebra is based around the code found [here](https://blog.z3bra.org/2014/01/images-in-terminal.html).
