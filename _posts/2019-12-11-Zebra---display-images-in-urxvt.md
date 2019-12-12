@@ -14,12 +14,18 @@ Needs: 'w3m-img' (w3mimgdisplay) and supported terminal like xterm or urxvt. And
 
 Zebra is based around the code found [here](https://blog.z3bra.org/2014/01/images-in-terminal.html).
 
-Notes:
+## Notes:
 
     FONTH=24 # 14 Size of one terminal row
     FONTW=12  # 8 Size of one terminal column
 
-todo:
+## Todo:
 
-- add rename image (should also rename array member?).
-- w should cycle wallpaper setter modes (--set-centered --set-scaled --set-tiled --set-zoom --set-zoom-fill).
+- maybe: add rename image (should also rename array member?).
+- maybe: add touch to update file date.
+- maybe: add specific key (r) for redraw (calls 'dostuff'), any nonspecified key will redraw right now.
+- done: <s>w should cycle wallpaper setter modes (--set-centered --set-scaled --set-tiled --set-zoom --set-zoom-fill).</s>
+
+## Known bugs:
+
+- zebraview sometimes doesn't show alpha as transparent (uses white instead)
