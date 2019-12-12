@@ -77,3 +77,25 @@ tags: bash
     }
 
     while true; do readOneKey ; done
+    
+## Single press menu (alternative to bash 'select')
+
+    #!/bin/bash
+
+    # alternative to bash builtin select menu
+    modes=(--set-centered --set-scaled --set-tiled --set-zoom --set-zoom-fill)
+    maxkey="${#modes[@]}"
+
+    for key in ${!modes[*]}
+    do
+        echo -n "${modes[$key]} ($(( key + 1 ))) "
+    done
+    echo
+    unset key
+
+    read -rsn1 key ; key="$(( key - 1 ))" 
+    if (( key >= 0 && key <= maxkey )); then
+        echo "${modes[$key]}"
+    else
+        echo "nope"
+    fi
