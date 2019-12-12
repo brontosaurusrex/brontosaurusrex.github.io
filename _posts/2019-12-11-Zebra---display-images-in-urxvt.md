@@ -22,14 +22,4 @@ Notes:
 todo:
 
 - add rename image (should also rename array member?).
-- w should cycle wallpaper setter modes (--set-centered --set-scaled --set-tiled --set-zoom --set-zoom-fill). 
-
-	--set-centered
-		Sets the background to the given file (centered)
-	--set-scaled
-		Sets the background to the given file (scaled)
-	--set-tiled
-		Sets the background to the given file (tiled)
-	--set-zoom
-		Sets the background to the given file (zoom)
-	--set-zoom-fill
+- w should cycle wallpaper setter modes (--set-centered --set-scaled --set-tiled --set-zoom --set-zoom-fill).
