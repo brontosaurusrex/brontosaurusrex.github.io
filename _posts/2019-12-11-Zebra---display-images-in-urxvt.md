@@ -28,4 +28,4 @@ Zebra is based around the code found [here](https://blog.z3bra.org/2014/01/image
 
 ## Known bugs:
 
-- zebraview sometimes doesn't show alpha as transparent (uses white instead)
+- zebraview sometimes doesn't show alpha as transparent (uses white instead), limited to urxvt (always ok in xterm).
