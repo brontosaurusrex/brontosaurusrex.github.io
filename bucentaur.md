@@ -14,8 +14,6 @@ published: true
 Bucentaur is a name that has first two letters the same as Buster.  
 Bucentaur is a next generation of Stretchbang, without stretch and bang.*
 
-[![2019-09-03-174445_2072x1254_scrot.md.png](https://cdn.scrot.moe/images/2019/09/03/2019-09-03-174445_2072x1254_scrot.md.png)](https://cdn.scrot.moe/images/2019/09/03/2019-09-03-174445_2072x1254_scrot.png)
-
 ## Install Debian 10
 
 [https://www.debian.org/distrib/netinst](https://www.debian.org/distrib/netinst)
@@ -75,19 +73,6 @@ Should now boot into lightdm / openbox.
     noise +++ -p
     
 Note: This assumes that you are loged into openbox already, more pluses will generate brighter wallpaper.
-
-Or download one (1920x1200)
-
-    cd images
-    
-    wget \
-    https://cdn.scrot.moe/images/2019/09/04/buc2-destroyedBack_post3-fs8.png \
-    -O wall.png
-    
-    nitrogen --set-zoom-fill --save wall.png
-    wbarRestart # or right-mouse-click wbar panel to refresh
-    
-[![ofishalwall.md.png](https://cdn.scrot.moe/images/2019/09/09/ofishalwall.md.png)](https://cdn.scrot.moe/images/2019/09/09/ofishalwall.png)
 
 ### Install Chrome
 
