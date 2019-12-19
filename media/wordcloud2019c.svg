@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="3440px" height="1440px" viewBox="0 0 3440 1440">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="3440px" height="1440px" viewBox="0 0 3440 1440" xml:space="preserve">
 <defs>
-<style type="text/css"> @import url(https://fonts.googleapis.com/css?family=Londrina+Sketch); </style>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Londrina+Sketch'); 
+    </style>
+
 </defs>
 <clipPath id="cp3">
 <path d="M 0,0 L 3440,0 L3440,1440 L 0,1440 z M 0,0 L 4300,0 L 4300,1800 L 0,1800 z" fill-rule="evenodd">
