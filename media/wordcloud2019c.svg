@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="3440px" height="1440px" viewBox="0 0 3440 1440" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="3440px" height="1440px" viewBox="0 0 3440 1440" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
 
     <style>
@@ -8,14 +8,19 @@
     </style>
 
 </defs>
+
 <clipPath id="cp3">
 <path d="M 0,0 L 3440,0 L3440,1440 L 0,1440 z M 0,0 L 4300,0 L 4300,1800 L 0,1800 z" fill-rule="evenodd">
 </path>
 </clipPath>
 <g clip-path="url(#cp3)">
 </g>
+
+
+
 <rect x="0" y="0" width="4300" height="1800" opacity="1" fill="rgb(54,50,49)" fill-opacity="0" stroke="none">
 </rect>
+
 <text x="-262.5" y="30.272000000000006" style="font: normal 303.744px Londrina Sketch" text-anchor="start" dy="120.05691699604745" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(1718, 718) rotate(-68.37766135561078)">linux</text>
 <text x="-338.5" y="28.08160000000001" style="font: normal 280.96320000000003px Londrina Sketch" text-anchor="start" dy="111.05264822134389" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(1454, 732) rotate(73.44514919088951)">action</text>
 <text x="-249.5" y="24.894400000000005" style="font: normal 250.58880000000002px Londrina Sketch" text-anchor="start" dy="99.04695652173915" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(2102, 722)">video</text>
