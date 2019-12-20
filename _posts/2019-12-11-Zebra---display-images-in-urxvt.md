@@ -20,7 +20,7 @@ Zebra is based around the code found [here](https://blog.z3bra.org/2014/01/image
 - done: add specific key (r) to reset view.
 - done: cycle wallpaper setter modes (--set-centered --set-scaled --set-tiled --set-zoom --set-zoom-fill).
 - maybe: thumbnail view (also --thumbnail to start in thumb view)
-- maybe: slideshow
+- done: simple slideshow
 - done: 1:1 view 
 
 ## Known bugs:
