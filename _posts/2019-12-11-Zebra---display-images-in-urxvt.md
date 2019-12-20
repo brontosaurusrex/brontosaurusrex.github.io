@@ -21,7 +21,8 @@ Zebra is based around the code found [here](https://blog.z3bra.org/2014/01/image
 - done: cycle wallpaper setter modes (--set-centered --set-scaled --set-tiled --set-zoom --set-zoom-fill).
 - maybe: thumbnail view (also --thumbnail to start in thumb view)
 - done: simple slideshow
-- done: 1:1 view 
+- done: 1:1 view
+- done: --quit some.png (show first and quit)
 
 ## Known bugs:
 
