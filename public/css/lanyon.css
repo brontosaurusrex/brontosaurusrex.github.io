@@ -150,6 +150,10 @@ img {
     margin-left: -90px;
     /* b: Z index must be smaller than navigation block, this is not working */
     z-index: -10;
+    
+    
+    
+    
   /*
     overflow: visible;
     display: block; */

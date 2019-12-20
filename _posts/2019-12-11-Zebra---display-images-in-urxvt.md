@@ -24,7 +24,11 @@ Zebra is based around the code found [here](https://blog.z3bra.org/2014/01/image
 - maybe: add touch to update file date.
 - maybe: add specific key (r) for redraw (calls 'dostuff'), any nonspecified key will redraw right now.
 - done: <s>w should cycle wallpaper setter modes (--set-centered --set-scaled --set-tiled --set-zoom --set-zoom-fill).</s>
+- maybe: thumbnail view (also --thumbnail to start in thumb view)
+- maybe: slideshow
+- maybe: 1:1 view (show random portion of image?)
 
 ## Known bugs:
 
 - zebraview sometimes doesn't show alpha as transparent (uses white instead), limited to urxvt (always ok in xterm).
+- image disappears when urxvt is not in focus (again ok in xterm).
