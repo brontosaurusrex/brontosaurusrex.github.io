@@ -22,6 +22,7 @@ Needs: 'w3m-img' (w3mimgdisplay) and supported terminal like xterm or urxvt. And
 - done: toggle 1:1 view
 - done: --quit some.png (show first and quit)
 - no, use zsh globing*(om): sort files (array) by date
+- maybe: --goto <int-array> (also internal command)
 
 ## Known bugs:
 
