@@ -23,8 +23,9 @@ Needs: 'w3m-img' (w3mimgdisplay) and supported terminal like xterm or urxvt. And
 - done: toggle 1:1 view
 - done: --quit some.png (show first and quit)
 - no, use zsh globing*(om): sort files (array) by date
-- maybe: --goto <int-array> (also internal command)
-- maybe: submenu: open in gimp, pngcrush, pngquant ...
+- done: goto is internal command only.
+- done: open in gimp.
+- maybe: pngcrush, pngquant ...
 
 ## Known bugs:
 
