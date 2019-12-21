@@ -5,11 +5,12 @@ date: '2019-12-11 23:43'
 title: Zebra - display images in urxvt
 tags: mine bash 
 ---
-[![zebra.png-jusqyA0HtN2GYXj-md](https://images.weserv.nl/?url=https://i.imgur.com/pBen3tDl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/pBen3tD.jpg)
-
 [The Zebra script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/zebra).
 
 Needs: 'w3m-img' (w3mimgdisplay) and supported terminal like xterm or urxvt. And probably more.
+
+[![zebra.png-jusqyA0HtN2GYXj-md](https://images.weserv.nl/?url=https://i.imgur.com/pBen3tDl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/pBen3tD.jpg)
+[![zebraIsFast.png-VU3a8uK1hGJ7PrB-md](https://images.weserv.nl/?url=https://i.imgur.com/RQGHoE2.png)](https://images.weserv.nl/?url=https://i.imgur.com/qFlhH6N.jpg)
 
 ## Todo:
 
@@ -23,6 +24,7 @@ Needs: 'w3m-img' (w3mimgdisplay) and supported terminal like xterm or urxvt. And
 - done: --quit some.png (show first and quit)
 - no, use zsh globing*(om): sort files (array) by date
 - maybe: --goto <int-array> (also internal command)
+- maybe: submenu: open in gimp, pngcrush, pngquant ...
 
 ## Known bugs:
 
