@@ -32,3 +32,9 @@ Needs: 'w3m-img' (w3mimgdisplay) and supported terminal like xterm or urxvt. And
 ## Acknowledgments
 
 Zebra is based around the code found [here](https://blog.z3bra.org/2014/01/images-in-terminal.html).
+
+## Überzug, complicated alternative 
+
+[https://github.com/seebye/ueberzug](https://github.com/seebye/ueberzug), fzfimg.sh is especially interesting.
+
+[![2019-12-21-122259_3840x1200_scrot.png-dkQedP2DyeYrq3M-md](https://images.weserv.nl/?url=https://i.imgur.com/BmKbxDOl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/BmKbxDO.jpg)
