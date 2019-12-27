@@ -9,6 +9,25 @@ tags: bash linux
 
 [Slight debate.](https://forums.bunsenlabs.org/viewtopic.php?id=5628)
 
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/DnWeMo0.png)](https://images.weserv.nl/?url=https://i.imgur.com/WMK197z.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/Mkpdpin.png)](https://images.weserv.nl/?url=https://i.imgur.com/gyVgtmM.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/L6a0xmb.png)](https://images.weserv.nl/?url=https://i.imgur.com/2gaxQc9.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/tUxSuMy.png)](https://images.weserv.nl/?url=https://i.imgur.com/p8DUnYL.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/VmZiNRd.png)](https://images.weserv.nl/?url=https://i.imgur.com/ZIEuS4O.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/Pv662Ew.png)](https://images.weserv.nl/?url=https://i.imgur.com/sUcD2Qh.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/9TOXxcE.png)](https://images.weserv.nl/?url=https://i.imgur.com/pzWbXBJ.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/gAA7rYD.png)](https://images.weserv.nl/?url=https://i.imgur.com/mo1NRzu.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/AhF9jLy.png)](https://images.weserv.nl/?url=https://i.imgur.com/2h9TS1g.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/Iu6d7Zob.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/Iu6d7Zo.jpg)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/xHoErd7.png)](https://images.weserv.nl/?url=https://i.imgur.com/nTlHTje.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/sJFqRc2.png)](https://images.weserv.nl/?url=https://i.imgur.com/8KV7ENq.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/jDCR59I.png)](https://images.weserv.nl/?url=https://i.imgur.com/jydLu4t.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/4UoCr3m.png)](https://images.weserv.nl/?url=https://i.imgur.com/k9nqlbU.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/93YhZz0.png)](https://images.weserv.nl/?url=https://i.imgur.com/6rTRMoR.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/4RCJ1EP.png)](https://images.weserv.nl/?url=https://i.imgur.com/Rw1xH3n.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/b7TgWnH.png)](https://images.weserv.nl/?url=https://i.imgur.com/T4pyjNs.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/UDKaTZP.png)](https://images.weserv.nl/?url=https://i.imgur.com/e1VWz04.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/tZRGDTT.png)](https://images.weserv.nl/?url=https://i.imgur.com/Um8tIzx.png)
 
 ## Notes
 For some sort of final quality, it appears that resolution must be at least 3x the final, for example: 
