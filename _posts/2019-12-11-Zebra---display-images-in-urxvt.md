@@ -15,7 +15,7 @@ Needs: 'w3m-img' (w3mimgdisplay) and supported terminal like xterm or urxvt. And
 ## Todo:
 
 - maybe: add rename image (should also rename array member?).
-- maybe: add touch to update file date.
+- done: add touch to update file date.
 - done: add specific key (r) to reset view.
 - done: cycle wallpaper setter modes (--set-centered --set-scaled --set-tiled --set-zoom --set-zoom-fill).
 - maybe: thumbnail view (also --thumbnail to start in thumb view)
