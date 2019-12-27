@@ -25,7 +25,8 @@ Needs: 'w3m-img' (w3mimgdisplay) and supported terminal like xterm or urxvt. And
 - no, use zsh globing*(om): sort files (array) by date
 - done: goto is internal command only.
 - done: open in gimp.
-- maybe: pngcrush, pngquant ...
+- maybe: pngcrush, pngquant
+- maybe: add thunar-compatible [emblem](https://askubuntu.com/questions/408743/how-do-i-set-emblems-in-thunar-without-the-gui)
 
 ## Known bugs:
 
