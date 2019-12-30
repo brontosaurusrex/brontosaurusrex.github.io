@@ -50,3 +50,7 @@ With array by [emilwest](https://www.reddit.com/r/bash/comments/6rs6sr/writing_f
         if [ -z $output ]; then output=$i; fi
         printf "%s\n" $output
     done
+
+Javascript [oneliner](https://codeburst.io/javascript-breaking-down-the-shortest-possible-fizzbuzz-answer-94a0ad9d128a)
+
+    for(let i=0;i<100;)console.log((++i%3?'':'fizz')+(i%5?'':'buzz')||i)
