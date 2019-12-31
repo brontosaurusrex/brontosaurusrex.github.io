@@ -177,6 +177,6 @@ Shell with seq and awk
 
     seq 100 | awk '$0=NR%15?NR%5?NR%3?$0:"Fizz":"Buzz":"FizzBuzz"'
     
-[CSS.](https://rosettacode.org/wiki/FizzBuzz#CSS)
+[CSS](https://rosettacode.org/wiki/FizzBuzz#CSS), [LabVIEW](https://rosettacode.org/wiki/FizzBuzz#LabVIEW)
     
 Ang [gazzilion others](https://rosettacode.org/wiki/FizzBuzz).
