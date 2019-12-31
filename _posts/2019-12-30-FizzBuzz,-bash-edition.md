@@ -182,11 +182,11 @@ Sed and yes (?)
     yes | sed -n '0~3s/y/Fizz/;0~5s/y*$/Buzz/;tx;=;b;:x;p;100q'
     
 > yes - output a string repeatedly until killed
-    
-[CSS](https://rosettacode.org/wiki/FizzBuzz#CSS), [LabVIEW](https://rosettacode.org/wiki/FizzBuzz#LabVIEW)
 
-With wget
+Wget
 
     wget https://s3.amazonaws.com/fizzbuzz/output -q -O -
     
+[CSS](https://rosettacode.org/wiki/FizzBuzz#CSS), [LabVIEW](https://rosettacode.org/wiki/FizzBuzz#LabVIEW), [tensorflow](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
+
 Ang [gazzilion others](https://rosettacode.org/wiki/FizzBuzz).
