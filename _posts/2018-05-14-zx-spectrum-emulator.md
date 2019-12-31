@@ -44,6 +44,10 @@ Starquake
 Best games  
 [http://www.worldofspectrum.org/bestgames.html](http://www.worldofspectrum.org/bestgames.html)
 
+## Spectrum online emulator
+
+[http://torinak.com/qaop](http://torinak.com/qaop)
+
 ## C64
 
 	sudo apt install vice
