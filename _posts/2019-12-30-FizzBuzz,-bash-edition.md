@@ -184,5 +184,9 @@ Sed and yes (?)
 > yes - output a string repeatedly until killed
     
 [CSS](https://rosettacode.org/wiki/FizzBuzz#CSS), [LabVIEW](https://rosettacode.org/wiki/FizzBuzz#LabVIEW)
+
+With wget
+
+    wget https://s3.amazonaws.com/fizzbuzz/output -q -O -
     
 Ang [gazzilion others](https://rosettacode.org/wiki/FizzBuzz).
