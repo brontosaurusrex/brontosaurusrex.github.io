@@ -7,7 +7,7 @@ tags: bash
 ---
 [http://wiki.c2.com/?FizzBuzzTest](http://wiki.c2.com/?FizzBuzzTest)
 
-My hack
+My bash hack
 
     #!/bin/bash
 
@@ -60,6 +60,8 @@ With array by [emilwest](https://www.reddit.com/r/bash/comments/6rs6sr/writing_f
 Javascript [oneliner](https://codeburst.io/javascript-breaking-down-the-shortest-possible-fizzbuzz-answer-94a0ad9d128a)
 
     for(let i=0;i<100;)console.log((++i%3?'':'fizz')+(i%5?'':'buzz')||i)
+    
+p.s. Returns fizz buzz, instead of Fizz Buzz.
     
 Lisp (unknown author).
 
