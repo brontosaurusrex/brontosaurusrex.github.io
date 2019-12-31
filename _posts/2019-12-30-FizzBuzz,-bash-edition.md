@@ -177,6 +177,12 @@ Shell with seq and awk
 
     seq 100 | awk '$0=NR%15?NR%5?NR%3?$0:"Fizz":"Buzz":"FizzBuzz"'
     
+Sed and yes (?)
+
+    yes | sed -n '0~3s/y/Fizz/;0~5s/y*$/Buzz/;tx;=;b;:x;p;100q'
+    
+> yes - output a string repeatedly until killed
+    
 [CSS](https://rosettacode.org/wiki/FizzBuzz#CSS), [LabVIEW](https://rosettacode.org/wiki/FizzBuzz#LabVIEW)
     
 Ang [gazzilion others](https://rosettacode.org/wiki/FizzBuzz).
