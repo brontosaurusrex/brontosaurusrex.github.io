@@ -56,6 +56,10 @@ With array by [emilwest](https://www.reddit.com/r/bash/comments/6rs6sr/writing_f
         if [ -z $output ]; then output=$i; fi
         printf "%s\n" $output
     done
+    
+Bash [oneliner](https://rosettacode.org/wiki/FizzBuzz#bash)
+
+    for i in {1..100};do((i%3))&&x=||x=Fizz;((i%5))||x+=Buzz;echo ${x:-$i};done
 
 Javascript [oneliner](https://codeburst.io/javascript-breaking-down-the-shortest-possible-fizzbuzz-answer-94a0ad9d128a)
 
@@ -168,3 +172,9 @@ The one that [looks correct](http://wiki.c2.com/?FizzBuzz) and reads easily (rub
           print line
       else:
           print n
+          
+Shell with seq and awk
+
+    seq 100 | awk '$0=NR%15?NR%5?NR%3?$0:"Fizz":"Buzz":"FizzBuzz"'
+    
+Ang [gazzilion others](https://rosettacode.org/wiki/FizzBuzz).
