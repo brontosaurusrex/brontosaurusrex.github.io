@@ -19,7 +19,7 @@ My bash hack
 
         echo -n "$i"
         
-        if (( i % 3 == 0 )); then
+        if (( i % 3 == 0 )); then # or if (( i / 3 * 3 == i )); then
             echo -ne "\\rFizz" # \r deletes the line
             three="1" # bool, divisible by 3
         fi
