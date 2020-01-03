@@ -12,6 +12,10 @@ tags: linux
 then
 
     Tools / Plugin manager
-    # alt + b = mine
+    
+    # possible shortkey
+    # alt + b 
+    # or
+    # ctrl + space
 
 [![commander.png-PvpKkFhuFFzzZHm-md](https://images.weserv.nl/?url=https://i.imgur.com/xHJEOPbl.png)](https://images.weserv.nl/?url=https://i.imgur.com/xHJEOPb.png)
