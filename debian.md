@@ -48,6 +48,10 @@ published: true
 
     sudo apt autoremove # removes unused deps
     sudo apt autoclean  # clears downloaded cache
+    
+### DontBreakDebian
+
+[https://wiki.debian.org/DontBreakDebian](https://wiki.debian.org/DontBreakDebian)
 
 ## SysInfo
 
