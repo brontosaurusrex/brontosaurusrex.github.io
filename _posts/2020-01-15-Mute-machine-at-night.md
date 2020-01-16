@@ -9,12 +9,8 @@ tags: linux
 
     crontab -e
     
-then add
+and add
 
     # Mute sound at night from 1:00 to 6:59
     0 1 * * * amixer set Master mute
     59 6 * * * amixer set Master unmute
-
-then
-
-    :wq
