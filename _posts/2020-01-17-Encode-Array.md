@@ -67,7 +67,7 @@ Irc this is called *array expansion*.
     }
     encode
 
-## two, better but untested
+## two, fails with filenames with spaces, omg
 
     encode() {
 
