@@ -58,10 +58,12 @@ Irc this is called *array expansion*.
         encarr+=("${output}")
         encarr+=("-movflags +faststart -loglevel panic -stats")
 
+        # preview
         for i in "${!encarr[@]}"; do 
             printf "%s\t%s\n" "$i" "${encarr[$i]}"
         done
             
+        # action
         ${encarr[@]}
 
     }
