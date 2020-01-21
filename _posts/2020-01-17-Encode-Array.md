@@ -95,3 +95,39 @@ Irc this is called *array expansion*.
     }
 
 Note that quoted *${encarr[@]}* doesn't expand as expected.
+
+## test 2, this is working, but human-ugly
+
+    #!/bin/bash
+
+    encode() {
+
+        input="$HOME/tmp/t e s t.mp4"
+        output="$HOME/tmp/out.mp4"
+
+        encarr=(ffmpeg)
+        encarr+=(-i)
+        encarr+=("${input}")
+        encarr+=(-vf yadif=0)
+        encarr+=(-pix_fmt yuv420p)
+        encarr+=(-c:v libx264)
+        encarr+=(-preset slow)
+        encarr+=(-tune film)
+        encarr+=(-crf 18)
+        encarr+=(-threads 0)
+        encarr+=(-an)
+        #encarr+=(-aspect 16:9)
+        #encarr+=(-level 4.1)
+        encarr+=(${output})
+        encarr+=(-movflags +faststart -loglevel panic -stats)
+
+        # preview
+        for i in "${!encarr[@]}"; do 
+            printf "%s\t%s\n" "$i" "${encarr[$i]}"
+        done
+            
+        # action
+        "${encarr[@]}"
+
+    }
+    encode
