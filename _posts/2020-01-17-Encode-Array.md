@@ -107,7 +107,7 @@ Note that quoted *${encarr[@]}* doesn't expand as expected.
 
         encarr=(ffmpeg)
         encarr+=(-i)
-        encarr+=("${input}")
+        encarr+=("$input")
         encarr+=(-vf yadif=0)
         encarr+=(-pix_fmt yuv420p)
         encarr+=(-c:v libx264)
@@ -118,7 +118,7 @@ Note that quoted *${encarr[@]}* doesn't expand as expected.
         encarr+=(-an)
         #encarr+=(-aspect 16:9)
         #encarr+=(-level 4.1)
-        encarr+=(${output})
+        encarr+=("$output")
         encarr+=(-movflags +faststart -loglevel panic -stats)
 
         # preview
