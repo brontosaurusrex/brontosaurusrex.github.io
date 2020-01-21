@@ -40,7 +40,7 @@ Irc this is called *array expansion*.
 
     encode() {
 
-        input="$HOME/tmp/test.mp4"
+        input="$HOME/tmp/t e s t.mp4"
         output="$HOME/tmp/out.mp4"
 
         encarr=("ffmpeg")
