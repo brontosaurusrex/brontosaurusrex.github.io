@@ -106,8 +106,7 @@ Note that quoted *${encarr[@]}* doesn't expand as expected.
         output="$HOME/tmp/out.mp4"
 
         encarr=(ffmpeg)
-        encarr+=(-i)
-        encarr+=("$input")
+        encarr+=("-i $input")
         encarr+=(-vf yadif=0)
         encarr+=(-pix_fmt yuv420p)
         encarr+=(-c:v libx264)
