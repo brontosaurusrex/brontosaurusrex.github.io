@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2020-01-29 23:17'
 title: Yad js-svg-css-html clock
-tags: linux 
+tags: linux web
 ---
 One [github.com/brontosaurusrex/svgclockcool](https://github.com/brontosaurusrex/svgclockcool)  
 Two [github.com/brontosaurusrex/anothersvgclock](https://github.com/brontosaurusrex/anothersvgclock)
