@@ -7,7 +7,8 @@ tags: linux
 ---
 One [github.com/brontosaurusrex/svgclockcool](https://github.com/brontosaurusrex/svgclockcool)  
 Two [github.com/brontosaurusrex/anothersvgclock](https://github.com/brontosaurusrex/anothersvgclock)
-![](https://raw.githubusercontent.com/brontosaurusrex/svgclockcool/master/scrot.png)
+
+[![clockssvg.png-okb1X9Zff6gVuL7-md](https://images.weserv.nl/?url=https://i.imgur.com/P30q2Hxl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/P30q2Hx.jpg)
 
 ## Other
 [github.com/PetrosKontakis/clockjs](https://github.com/PetrosKontakis/clockjs)  
