@@ -5,7 +5,8 @@ date: '2020-01-23 00:22'
 title: Yad js-svg-css-html clock
 tags: linux 
 ---
-[github.com/brontosaurusrex/svgclockcool](https://github.com/brontosaurusrex/svgclockcool)
+One [github.com/brontosaurusrex/svgclockcool](https://github.com/brontosaurusrex/svgclockcool)  
+Two [github.com/brontosaurusrex/anothersvgclock](https://github.com/brontosaurusrex/anothersvgclock)
 ![](https://raw.githubusercontent.com/brontosaurusrex/svgclockcool/master/scrot.png)
 
 ## Other
