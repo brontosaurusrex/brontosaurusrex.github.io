@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2020-01-28 19:58'
-title: Young audiophile c*** anti-troll
+title: Audiophile anti-troll campaign (AAC)
 tags: audio 
 ---
 > But true audio dimension is so deep, and there's so much data there if you want to capture it all — in the echo and the softness and the loudness and the difference as things are decaying and getting smaller and smaller as they go away. 
