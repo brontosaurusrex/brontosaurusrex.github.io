@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2020-01-23 00:22'
+date: '2020-01-29 23:17'
 title: Yad js-svg-css-html clock
 tags: linux 
 ---
