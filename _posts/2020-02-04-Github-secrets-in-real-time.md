@@ -6,3 +6,4 @@ title: Github secrets in real-time
 tags: luv 
 ---
 [https://shhgit.darkport.co.uk/](https://shhgit.darkport.co.uk/)
+[https://forums.bunsenlabs.org/viewtopic.php?id=6445](https://forums.bunsenlabs.org/viewtopic.php?id=6445)
