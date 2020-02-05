@@ -39,6 +39,6 @@ To check validity of lighttpd.conf
 To generate new user:pass pair for inclusion into lighttpd-htdigest.user
 
     sudo apt install apache2-utils
-    htpasswd -n boki
+    htpasswd -n username
 
 Confusing [lighttpd docs here](https://redmine.lighttpd.net/projects/lighttpd/wiki/Docs_ModAuth#htpasswd-mod_authn_file).
