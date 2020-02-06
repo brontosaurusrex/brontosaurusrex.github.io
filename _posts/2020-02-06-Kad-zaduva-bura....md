@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 date: '2020-02-06 09:05'
 title: Kad zaduva bura...
