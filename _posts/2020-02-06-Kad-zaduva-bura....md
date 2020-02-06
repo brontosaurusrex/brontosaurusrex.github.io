@@ -8,7 +8,7 @@ tags: misc
 ... kineski betmen poletjeo je do
 
   a. stratosfere  
-  b. jonosefere  
+  b. jonosfere  
   c. internacionalne svemirske stanice  
   d. 3 zarez 7 metara visine  
   
