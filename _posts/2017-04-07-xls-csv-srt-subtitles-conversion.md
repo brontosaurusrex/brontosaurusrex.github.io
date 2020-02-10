@@ -5,6 +5,8 @@ date: '2017-04-07 16:40 +0200'
 title: xls > csv > srt subtitles conversion
 tags: mine video cli
 ---
+## xml to srt
+
 ![libresubs.png]({{site.baseurl}}/media/libresubs.png)
 
 In Libreoffice insert one row at the beginning, use formula =ROW(), to get the counter. Export as csv using space as separator and disable " as text enclosures, should look like
@@ -39,3 +41,24 @@ This rougly coresponds to Adobe authoring formats, then subtitleeditor (in stret
 The timecode format used with srt is hours:minutes:seconds,milliseconds
 
 [https://en.wikipedia.org/wiki/SubRip](https://en.wikipedia.org/wiki/SubRip)
+
+## Unknown to srt
+
+Example unknown
+
+    00:00:00:13  00:00:04:08
+    *Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.*
+
+    00:00:44:06  00:00:47:03
+    At vero eos et accusamus?
+
+    00:00:47:07  00:00:52:24
+    Itaque earum rerum hic,
+    tenetur a sapiente delectus.
+
+    00:00:53:04  00:00:56:08
+    Ex ea commodi consequatur? 
+    -Velit esse.
+
+[unkown2srt](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/unknown2srt) script.
