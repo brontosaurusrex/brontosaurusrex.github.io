@@ -5,7 +5,7 @@ date: '2017-04-07 16:40 +0200'
 title: xls > csv > srt subtitles conversion
 tags: mine video cli
 ---
-## xml to srt
+## xls to srt
 
 ![libresubs.png]({{site.baseurl}}/media/libresubs.png)
 
