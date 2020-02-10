@@ -60,5 +60,34 @@ Example unknown
     00:00:53:04  00:00:56:08
     Ex ea commodi consequatur? 
     -Velit esse.
+    
+unknown2srt example.unknown # should return this srt like format
+    
+    1
+    00:00:00,520 --> 00:00:04,320
+    *Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.*
+
+    2
+    00:00:44,240 --> 00:00:47,120
+    At vero eos et accusamus?
+
+    3
+    00:00:47,280 --> 00:00:52,960
+    Itaque earum rerum hic,
+    tenetur a sapiente delectus.
+
+    4
+    00:00:53,160 --> 00:00:56,320
+    Ex ea commodi consequatur?
+    -Velit esse.
+
 
 [unkown2srt](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/unknown2srt) script.
+
+This script assumes a lot about input:
+
+- 25 fps timecode
+- unix line endings (use 'dos2unix input' prior to running the script  if unsure)
+- well formatted input, including empty line between subs
+- other stuff that can break in spectacular fashion
