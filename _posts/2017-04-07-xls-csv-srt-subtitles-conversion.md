@@ -91,3 +91,7 @@ This script assumes a lot about input:
 - unix line endings (use 'dos2unix input' prior to running the script  if unsure)
 - well formatted input, including empty line between subs
 - other stuff that can break in spectacular fashion
+
+## Known unknowns
+
+There is also [EBU Timed Text](https://tech.ebu.ch/publications/ebu_tech_fs_ebu-tt) (EBU Tech 3264) which uses xml structure of some sort. This is a succesor to old (binary?) EBU stl format.
