@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2020-02-17 20:38'
-title: Youtube to audio CD wip
+title: Youtube to audio CD
 tags: audio mine 
 ---
 ## Download
