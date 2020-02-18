@@ -29,6 +29,8 @@ This could/should be avoided by actually converting this files in correct order.
 
 ## A script to populate folders by size
 
+FIXME: Assumes and doesn't check if there is a single file bigger than 690 MB.
+
     #!/bin/bash
 
     # populate
@@ -76,6 +78,8 @@ k3b.
 
 ## Simple pdf cover for printing, 12x12cm
 
+Generate txt file declaring cd structure. todo: Add length of track (3'34"), maybe add simple waveform to each track.
+
     # txt
     printf '(%s)\n' "${PWD##*/}" > tmp.txt \
     && ls -chtr *.wav | rev | cut -d- -f1 --complement | rev | nl -n rz -w 2 -s '. ' >> tmp.txt
@@ -93,7 +97,7 @@ And some pdf from that (bad)
     enscript -p out.ps tmp.txt
     ps2pdf out.ps out.pdf # size???
     
-### Or better, a html template that should print to exactly 120x120 mm
+### Html template that should print to exactly 120x120 mm
 
 [Example cover.htm](/cover.htm).
 
