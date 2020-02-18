@@ -78,7 +78,7 @@ k3b.
 
 ## Simple pdf cover for printing, 12x12cm
 
-Generate txt file declaring cd structure. todo: Add length of track (3'34"), maybe add simple waveform to each track.
+Generate txt file declaring cd structure. todo: Maybe add length of track (3'34") and maybe full running time 01:12:02, maybe add simple waveform to each track.
 
     # txt
     printf '(%s)\n' "${PWD##*/}" > tmp.txt \
