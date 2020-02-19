@@ -44,15 +44,17 @@ Warning: Assumes and doesn't check if there is a single file longer than 80 minu
 
     #!/bin/bash
 
-    # populate
+    # populate cd folders by length script
+    # usage: ./script *.flac
 
     cd="1"
     mkdir -p "$cd"
     durall="0"
 
     # main
-    cat byDate.txt | while read -r line; do 
+    while [ $# -gt 0 ]; do
 
+        line="$1"
         echo "$cd $line"
         
         # duration of song in seconds
@@ -88,19 +90,17 @@ Warning: Assumes and doesn't check if there is a single file longer than 80 minu
         
         #sleep 1
         
+    shift
     done
 
-    
-Should be run inside that flac folder as ./script. Size of each folder might be checked with
+Should be run inside that flac folder as ./script *.flac. Size of each folder might be checked with
 
     cd 1
     du -mc *
 
 ## Burn
 
-k3b. Make sure that **CD-text** is populated.
-
-    k3b --audiocd *.flac # shortcut
+k3b. Make sure that **CD-text** is populated. Brasero also seems to support CD-text (untested).
 
 ## Cover txt
 
@@ -133,10 +133,8 @@ Generate tmp.txt file declaring cd structure. A script named *cover*, put in ~/b
             artist="$song"
         fi
         
-        #echo "$n. $title - $artist"
         printf '%02d. %s - %s\n' "$n" "$title" "$artist"
-
-       
+               
         (( n = n + 1 ))
 
     shift
