@@ -9,17 +9,17 @@ tags: audio mine
 
     youtube-dl -i -f 140 playlist
     
-## Detox file names
-
-    detox -r -v -n *.m4a # remove -n when ready
-    
-Because certain file names will cause problems with picard and with k3b.
-    
 ## Rename by date, adding numerals
 
     n=0; ls -tr *.m4a | while read i; do n=$((n+1)); mv -- "$i" "$(printf '%03d' "$n")"_"$i"; done
     
 Hacky, but works for this purpose, that is keeping playlist order.
+
+## Detox file names
+
+    detox -r -v -n *.m4a # remove -n when ready
+    
+Because certain file names will cause problems with picard and with k3b.
 
 ## Tag, Picard in repos
 
@@ -158,6 +158,8 @@ may return
     
 ### Html template that should print to exactly 120x120 mm
 
+<iframe src="/cover.htm" style="border:0; width:500px; height:500px;"></iframe>
+
 [Example cover template.htm](/cover.htm). 
 
 (Note: Two of this will fit in A4)
@@ -166,4 +168,4 @@ Asumming that template.htm has 'replaceme' string inside <pre> tags and it's in 
 
     sed -e "/replaceme/r tmp.txt" -e "/replaceme/d" ~/bin/template.htm > cover.htm
     
-In chrome or firefox, print to pdf.
+Open cover.htm in chrome or firefox, print to pdf.
