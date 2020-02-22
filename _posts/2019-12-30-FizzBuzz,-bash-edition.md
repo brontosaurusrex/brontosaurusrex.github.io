@@ -189,4 +189,4 @@ Wget
     
 [CSS](https://rosettacode.org/wiki/FizzBuzz#CSS), [LabVIEW](https://rosettacode.org/wiki/FizzBuzz#LabVIEW), [tensorflow](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
 
-Ang [gazzilion others](https://rosettacode.org/wiki/FizzBuzz).
+And [gazzilion others](https://rosettacode.org/wiki/FizzBuzz).
