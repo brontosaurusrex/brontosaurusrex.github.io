@@ -22,3 +22,7 @@ Blender 2.81 release notes
 ## How about ~2 minutes  
 [https://images.weserv.nl/?url=https://i.imgur.com/KFYCYPv.jpg](https://images.weserv.nl/?url=https://i.imgur.com/KFYCYPv.jpg) - Blender old internal denoiser, 1 sample, 1:49   
 [https://images.weserv.nl/?url=https://i.imgur.com/ePXJskx.jpg](https://images.weserv.nl/?url=https://i.imgur.com/ePXJskx.jpg) - Open image denoise, 23 samples, 2:19
+
+## Nodes
+
+![Nodes](/media/denoise.png)
