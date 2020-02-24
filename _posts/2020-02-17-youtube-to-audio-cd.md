@@ -167,7 +167,3 @@ Asumming that template.htm has 'replaceme' string inside <pre> tags and it's in 
     sed -e "/replaceme/r tmp.txt" -e "/replaceme/d" ~/bin/template.htm > cover.htm
     
 Open cover.htm in chrome or firefox, print to pdf.
-
-### Merge pdfs for easier print
-
-[https://unixblogger.com/how-to-easily-merge-pdf-documents-under-linux/](https://unixblogger.com/how-to-easily-merge-pdf-documents-under-linux/)
