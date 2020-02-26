@@ -5,6 +5,9 @@ date: '2020-02-17 20:38'
 title: Youtube to audio CD
 tags: audio mine 
 ---
+* TOC
+{:toc}
+
 ## Download
 
     youtube-dl -i -f 140 playlist
@@ -102,7 +105,9 @@ Should be run inside that flac folder as ./script *.flac. Size of each folder mi
 
 k3b. Make sure that **CD-text** is populated. Brasero also seems to support CD-text (untested).
 
-## Cover txt
+## Cover
+
+### Txt
 
 Generate tmp.txt file declaring cd structure. A script named *cover*, put in ~/bin
 
@@ -166,7 +171,7 @@ Asumming that template.htm has 'replaceme' string inside <pre> tags and it's in 
 
     sed -e "/replaceme/r tmp.txt" -e "/replaceme/d" ~/bin/template.htm > cover.htm
     
-### Merge this cover pdfs into one
+### Merge
 
 [https://unixblogger.com/how-to-easily-merge-pdf-documents-under-linux/](https://unixblogger.com/how-to-easily-merge-pdf-documents-under-linux/)
 
