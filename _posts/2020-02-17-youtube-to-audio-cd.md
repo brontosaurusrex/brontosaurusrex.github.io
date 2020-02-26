@@ -166,4 +166,13 @@ Asumming that template.htm has 'replaceme' string inside <pre> tags and it's in 
 
     sed -e "/replaceme/r tmp.txt" -e "/replaceme/d" ~/bin/template.htm > cover.htm
     
-Open cover.htm in chrome or firefox, print to pdf.
+### Merge this cover pdfs into one
+
+[https://unixblogger.com/how-to-easily-merge-pdf-documents-under-linux/](https://unixblogger.com/how-to-easily-merge-pdf-documents-under-linux/)
+
+    sudo apt install poppler-utils
+    
+    echo **/*.pdf(n) # zsh, 'n' sets the NUMERIC_GLOB_SORT option
+    # covers/1.pdf covers/2.pdf covers/3.pdf ...
+    
+    pdfunite **/*.pdf(n)  covers/1-16.pdf
