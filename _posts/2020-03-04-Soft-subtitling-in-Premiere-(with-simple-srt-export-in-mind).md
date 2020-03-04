@@ -33,3 +33,5 @@ Example exported srt:
     čšž ČŠŽ
 
 Note: It appears that term caption and subtitle are interchangeable in Adobe world.
+
+[https://www.youtube.com/watch?v=zrioNxpDH-c](https://www.youtube.com/watch?v=zrioNxpDH-c)
