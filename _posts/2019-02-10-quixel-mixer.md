@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2019-02-10 11:20 +0100'
+date: '2020-03-02 11:20 +0100'
 title: Quixel mixer
 tags:
   - blender
