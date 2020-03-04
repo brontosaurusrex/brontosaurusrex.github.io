@@ -13,6 +13,8 @@ c. To preview them in edit window, click on wrench icon and select
 `Closed Captions Display > Enable`  
 and maybe change settings.
 
+![wrench](https://images.creativecow.net/u/238657/wrench.jpg)
+
 d. When done click on subtitling item in project window and choose  
 `File > Export > Captions > srt`
 
