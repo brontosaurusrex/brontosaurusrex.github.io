@@ -2,8 +2,12 @@
 published: true
 layout: post
 date: '2020-02-26 15:20'
-title: Smithsonian 3D cc0 collection
+title: 3D cc0 collection
 tags: blender 
 ---
+Smithsonian  
 [https://3d.si.edu/collections](https://3d.si.edu/collections)  
 [![mamut.jpg-mKDJXopaiKJqJxj-md](https://images.weserv.nl/?url=https://i.imgur.com/i3DTZMFl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/i3DTZMF.jpg)
+
+Thomas Flynn, Cultural Heritage Lead at Sketchfab  
+[https://sketchfab.com/nebulousflynn/collections/cc0](https://sketchfab.com/nebulousflynn/collections/cc0)
