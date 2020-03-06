@@ -20,3 +20,7 @@ tags: misc
 > Shell programmers and the dinosaur cloners of Jurassic Park have much in common. They don’t have all the pieces they need, so they fill in the missing pieces with random genomic material. Despite tremendous self-confidence and ability, they can’t always control their creations.
 
 [https://danluu.com/cli-complexity/](https://danluu.com/cli-complexity/)
+
+## Powershell 7 released
+
+[https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-7#debian-10](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-7#debian-10)
