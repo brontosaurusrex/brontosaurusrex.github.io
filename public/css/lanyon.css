@@ -248,12 +248,14 @@ img {
   font-size: 130%;
 }
 .sidebar-item {
-  padding: 1rem;
+  padding: 1 rem;
 }
 .sidebar-item p:last-child {
   margin-bottom: 0;
   font-size: 120%;
 }
+
+
 
 /* Sidebar nav */
 .sidebar-nav {
