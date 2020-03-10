@@ -223,7 +223,7 @@ img {
   left: -14rem;
   width: 14rem;
   visibility: hidden;
-  overflow-y: auto;
+  overflow-x: hidden;
   /* font-family: Linden, "PT Sans", Helvetica, Arial, sans-serif; */
   font-family: Junction, "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
@@ -248,7 +248,7 @@ img {
   font-size: 130%;
 }
 .sidebar-item {
-  padding: 1 rem;
+  padding: 1rem;
 }
 .sidebar-item p:last-child {
   margin-bottom: 0;
