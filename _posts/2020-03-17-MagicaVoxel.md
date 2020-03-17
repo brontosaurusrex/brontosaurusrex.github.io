@@ -13,4 +13,6 @@ tags: blender mine
 [https://twitter.com/hashtag/voxelart](https://twitter.com/hashtag/voxelart)
 
 Maze  
-[![image-nohash-md](https://images.weserv.nl/?url=https://i.imgur.com/kYi7Kxdl.png)](https://images.weserv.nl/?url=https://i.imgur.com/kYi7Kxd.png)
+[![image-nohash-md](https://images.weserv.nl/?url=https://i.imgur.com/kYi7Kxdl.png)](https://images.weserv.nl/?url=https://i.imgur.com/kYi7Kxd.png)  
+[![image-nohash-md](https://images.weserv.nl/?url=https://i.imgur.com/YPbFQ3el.png)](https://images.weserv.nl/?url=https://i.imgur.com/YPbFQ3e.png)
+
