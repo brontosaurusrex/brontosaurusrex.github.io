@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2020-03-17 12:07'
-title: MaqicaVoxel
+title: MaqicaVoxel Maze
 tags: blender mine
 ---
 [https://www.youtube.com/watch?v=Oh_pkLHVW8o](https://www.youtube.com/watch?v=Oh_pkLHVW8o)  
@@ -17,4 +17,10 @@ Maze
 No dof  
 [![image-nohash-md](https://images.weserv.nl/?url=https://i.imgur.com/YPbFQ3el.png)](https://images.weserv.nl/?url=https://i.imgur.com/YPbFQ3e.png)  
 Some dof  
-[![image-nohash-md](https://images.weserv.nl/?url=https://i.imgur.com/69ZEL7El.png)](https://images.weserv.nl/?url=https://i.imgur.com/69ZEL7E.png)
+[![image-nohash-md](https://images.weserv.nl/?url=https://i.imgur.com/69ZEL7El.png)](https://images.weserv.nl/?url=https://i.imgur.com/69ZEL7E.png)  
+4k microdisplacement  
+[![image-nohash-md](https://images.weserv.nl/?url=https://i.imgur.com/xVxG4Nvl.png)](https://images.weserv.nl/?url=https://i.imgur.com/xVxG4Nv.png)  
+Blender microdisplacement node  
+![microdisplacement](/media/microdisplacement-node-fs8.png)
+
+
