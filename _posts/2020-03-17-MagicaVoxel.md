@@ -14,7 +14,7 @@ tags: blender mine
 
 Maze  
 [![image-nohash-md](https://images.weserv.nl/?url=https://i.imgur.com/kYi7Kxdl.png)](https://images.weserv.nl/?url=https://i.imgur.com/kYi7Kxd.png)  
-No dof  
+No dof (winner so far)   
 [![image-nohash-md](https://images.weserv.nl/?url=https://i.imgur.com/YPbFQ3el.png)](https://images.weserv.nl/?url=https://i.imgur.com/YPbFQ3e.png)  
 Some dof  
 [![image-nohash-md](https://images.weserv.nl/?url=https://i.imgur.com/69ZEL7El.png)](https://images.weserv.nl/?url=https://i.imgur.com/69ZEL7E.png)  
