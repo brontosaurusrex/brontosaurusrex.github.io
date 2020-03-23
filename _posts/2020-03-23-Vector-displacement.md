@@ -16,3 +16,4 @@ One with fake/post details, sharpen > shadow
 
 ### Notes 
 - Rendered on sheepit, cpu only (due to high ram expectancy).
+- Blender 2.82a keeps crashing on 'save-as' dialog button click.
