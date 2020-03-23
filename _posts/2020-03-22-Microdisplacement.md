@@ -8,3 +8,5 @@ tags: blender mine
 [![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/PsuCTmZb.png)](https://images.weserv.nl/?url=https://i.imgur.com/PsuCTmZ.png)
 [![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/v4vgHVtb.png)](https://images.weserv.nl/?url=https://i.imgur.com/v4vgHVt.png)
 ![nodes](/media/node-displacement-and-ao.png)
+
+All the height maps done using [JSplacement](https://windmillart.net/?p=jsplacement).
