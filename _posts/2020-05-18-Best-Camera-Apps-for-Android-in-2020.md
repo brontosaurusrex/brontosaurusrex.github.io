@@ -11,4 +11,4 @@ Testing FiLMiC Pro (Really fun app, but I guess my huawei-something is one phone
 
 > Get the exact image you want with full control over focus, exposure, white balance and variable speed zoom.
 
-In-app purchase of log options, but that didn't work for me (well, payment did go through ...). 
+In-app purchase of log options, but that didn't work for me (well, payment did go through ..., and while writing this sentence I see money is back for this part...). 
