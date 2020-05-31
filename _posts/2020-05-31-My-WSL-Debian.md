@@ -1,0 +1,8 @@
+---
+published: true
+layout: post
+date: '2020-05-31 10:42'
+title: My WSL Debian
+tags: linux 
+---
+[![image-nohash-md](https://images.weserv.nl/?url=https://i.imgur.com/4sAdgog.png)](https://images.weserv.nl/?url=https://i.imgur.com/U8bXBfI.png)
