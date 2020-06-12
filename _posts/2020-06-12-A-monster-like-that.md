@@ -11,4 +11,4 @@ tags: web
 
 > Brontosaurusrex,  an early ancestor of the modern alligator-like herbivore,  was first described in 1973. It's still the most well-known carnivore from the Cretaceous period. The fossil specimen at the new site in South Africa was unearthed in 2010. This new fossil was found in the same location as the older one, but its size is much bigger and its teeth are larger. The specimen was excavated from the sandstone and dated to about 30 million years old . This specimen is considered to be an ancestor of the alligator , and has been described as a "unique " member of the genus.
 
-[gpt2-large](https://transformer.huggingface.co/doc/gpt2-large)
+[Gpt2-large.](https://transformer.huggingface.co/doc/gpt2-large)
