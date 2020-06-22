@@ -8,16 +8,24 @@
   <!-- bronto: Previous line will disable zooming, so i dont like it, how about this one: -->
   <meta name="viewport" content="width=device-width">
 
-  
-  <!--    {% if page.title == "Home" %}
+  <title> 
+      
+     {% if page.title == "Home" %}
+      {{ site.title }}
+    {% else %}
+      {{ page.title }}
+      {% endif %} 
+
+  </title>
+
+<!--
+    {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
       {% endif %} 
-  -->
-  <title>
-  {{ site.title }}
-  </title>
+-->
+
 
   <!-- CSS -->
   <link rel="stylesheet" href="/public/css/poole.css">
