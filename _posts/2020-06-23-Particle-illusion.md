@@ -10,4 +10,6 @@ Is free now.
   <source src="/media/fuego.webm" type="video/webm">
 Your browser does not support the video tag.
 </video>
-[https://borisfx.com/products/particle-illusion](https://borisfx.com/products/particle-illusion/)
+[https://borisfx.com/products/particle-illusion](https://borisfx.com/products/particle-illusion/)  
+
+Html note: To actually *autoplay* stuff in video tag, make sure there is also *muted*.
