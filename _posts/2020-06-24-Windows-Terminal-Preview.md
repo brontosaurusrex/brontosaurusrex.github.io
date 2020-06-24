@@ -12,6 +12,7 @@ d. [Fantasque Sans Mono font](https://github.com/belluzj/fantasque-sans).
 
 Can't find an option to disable **cursor blink**. Can't find an option to increase **line height**.
 
-	Alt + Shift + d splits window.
+	Alt + Shift + d        splits window.
+	Ctrl + Alt + d         closes pane or window.
 
 [![wt.png-jizWdaREmAjWaq8-md](https://images.weserv.nl/?url=https://i.imgur.com/rI2zBZA.png)](https://images.weserv.nl/?url=https://i.imgur.com/Ur2evQn.png) 
