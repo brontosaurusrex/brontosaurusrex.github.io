@@ -20,6 +20,7 @@ Higly profesional final comp (with a lot of confusion what matte really is at wh
 
 The one with TV effect
 
-[![image-nohash-md](https://images.weserv.nl/?url=https://i.imgur.com/8IDvANJl.png)](https://images.weserv.nl/?url=https://i.imgur.com/8IDvANJ.png)
+[![image-nohash-md](https://images.weserv.nl/?url=https://i.imgur.com/8IDvANJl.png)](https://images.weserv.nl/?url=https://i.imgur.com/8IDvANJ.png)  
+[![brexFusion4-fs8.png-1qfjPYyEcSkeVAm-md](https://images.weserv.nl/?url=https://i.imgur.com/AzjGtHsl.png)](https://images.weserv.nl/?url=https://i.imgur.com/AzjGtHs.png)
 
 
