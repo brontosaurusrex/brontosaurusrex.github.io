@@ -8,6 +8,7 @@ tags: video
 Methods of panning viewers, middle mouse drag to pan is flaky, another method is hold down shift and control and left mice drag.
 
 Ctrl + p is pass-through for a node.
+Ctrl + t is switch bg and fg
 
 Merge node has in 3rd tab of inspector an option to select what is used as mask/key channel (should only show when mask is connected).
 
@@ -23,7 +24,5 @@ The one with TV effect
 [![image-nohash-md](https://images.weserv.nl/?url=https://i.imgur.com/8IDvANJl.png)](https://images.weserv.nl/?url=https://i.imgur.com/8IDvANJ.png)  
 [![brexFusion4-fs8.png-1qfjPYyEcSkeVAm-md](https://images.weserv.nl/?url=https://i.imgur.com/AzjGtHsl.png)](https://images.weserv.nl/?url=https://i.imgur.com/AzjGtHs.png)
 
-Animation
-
-[https://youtu.be/7_6eLm6ouC4](https://youtu.be/7_6eLm6ouC4)
+[Animation](https://youtu.be/7_6eLm6ouC4)
 
