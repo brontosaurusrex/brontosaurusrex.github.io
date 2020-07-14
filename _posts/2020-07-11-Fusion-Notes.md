@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2020-07-14 09:22'
-title: Resolve Fusion Notes
+title: Fusion Notes
 tags: video 
 ---
 This notes relate to Resolve inbuilt fusion tab, Davinci Resolve Studio 16.2.3.015.
@@ -48,6 +48,8 @@ This are 4k layers (png) and I seem to run out of gpu mem after adding a few mor
 [![fusionpsdLayers.PNG-l5n8rCFr7442zeL-md](https://images.weserv.nl/?url=https://i.imgur.com/NdedFXl.png)](https://images.weserv.nl/?url=https://i.imgur.com/6JaFWVY.png)
 
 This is multilayer psd (scaled down to 1920x1920), with instaces of this one single input and deinstancing layer and selecting each layer in inspector we can recreate this layer uhmm stuff. Seems like a lot of manual work.
+
+An attempt to add some sort of preturb/shake animation to some/most of this layers, precache will take 35 minutes on this machine, seems really really slow (and this is pure 2d comp).
 
 ## Experiments
 
