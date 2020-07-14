@@ -51,6 +51,12 @@ This is multilayer psd (scaled down to 1920x1920), with instaces of this one sin
 
 An attempt to add some sort of preturb/shake animation to some/most of this layers, precache will take 35 minutes on this machine, seems really really slow (and this is pure 2d comp). 'Cache to disk' didn't really work, manual render from resolve timeline now.
 
+2nd pass, fx and some compositing  
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/LYNJbpvb.png)](https://images.weserv.nl/?url=https://i.imgur.com/LYNJbpv.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/9qiREeJb.png)](https://images.weserv.nl/?url=https://i.imgur.com/9qiREeJ.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/umfCG4Db.png)](https://images.weserv.nl/?url=https://i.imgur.com/umfCG4D.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/uqOvXcAb.png)](https://images.weserv.nl/?url=https://i.imgur.com/uqOvXcA.png)
+
 ## Experiments
 
 Merge node has in 3rd tab of inspector an option to select what is used as mask/key channel (should only show when mask is connected).
