@@ -1,14 +1,45 @@
 ---
 published: true
 layout: post
-date: '2020-07-11 09:22'
-title: Fusion Notes
+date: '2020-07-14 09:22'
+title: Resolve Fusion Notes
 tags: video 
 ---
-Methods of panning viewers, middle mouse drag to pan is flaky, another method is hold down shift and control and left mice drag.
+This notes relate to Resolve inbuilt fusion tab, Davinci Resolve Studio 16.2.3.015.
 
-Ctrl + p is pass-through for a node.
-Ctrl + t is switch bg and fg
+## Shorcuts
+
+Ctrl + p is pass-through for a node.  
+Ctrl + t is switch bg and fg  
+Ctrl + shift + lmb drag pans the node tree  
+V toggles node minimap  
+shift + space opens search for nodes  
+Ctrl + G group, Ctrl + E toggle collapse
+
+## Preview
+
+Rmb on node and select 'Create/play preview on'. Shift+Rmb will reuse settings and skip quality selection tab.  
+Note: Seems to be flaky, easier way is to exit back to resolve timeline and see it rendered there.
+
+What exactly is proxy/autoproxy thing?
+
+## Various
+
+There is save image in viewers and it will save png with alpha.
+
+Routers are tiny nodes used to reshape the look of the node-tree. To add one, ctrl + click anywhere on the connection  
+
+To extract/disconnect node or nodes from a tree shift-drag them.  
+
+Node format is not binary, one can copy paste them into text editor and back.  
+
+Nodes can be instanced, ctrl+c a node, rmb on background and select 'paste instance'. A green line shows the link. Instance can be deinstanced. More interestingly a single parameter on that instance can be deinstanced (rmb on parameter name in inspector and choose deinstance). 
+
+Organization can be performed by using underlay boxes or groups. Groups can be precached on disk (in theory, in reality this seems to freeze fusion in resolve..., maybe in standalone version?). Groups can be saved to disk (rmb/settings/save as - page 172) and reused by drag droping.
+
+Macros are an advanced version of groups, one that enables creator to select exposed user inputs... Shall be used to generate for example title templates for resolve editor. Titles should be stored in *C:\Program Files\Blackmagic Design\DaVinci Resolve\Fusion\Templates\Edit\Titles*.
+
+## Experiments
 
 Merge node has in 3rd tab of inspector an option to select what is used as mask/key channel (should only show when mask is connected).
 
@@ -25,4 +56,5 @@ The one with TV effect
 [![brexFusion4-fs8.png-1qfjPYyEcSkeVAm-md](https://images.weserv.nl/?url=https://i.imgur.com/AzjGtHsl.png)](https://images.weserv.nl/?url=https://i.imgur.com/AzjGtHs.png)
 
 [Animation](https://youtu.be/7_6eLm6ouC4)
+
 
