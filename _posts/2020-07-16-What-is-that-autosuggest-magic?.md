@@ -15,6 +15,6 @@ tags: bash cli linux
 
 What is that forward-word magic?
 
-### Instaladar manual
+### Manual install
 
 [https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#manual-git-clone](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#manual-git-clone)
