@@ -84,3 +84,4 @@ d. animate position on path...
 
 [![textOnPath.png-ArEhuA9ibZDia4U-md](https://images.weserv.nl/?url=https://i.imgur.com/Qqh14hB.png)](https://images.weserv.nl/?url=https://i.imgur.com/v2ZwdmG.png)
 
+[textOnPath animation](https://youtu.be/hzMkQy1JB5Y)
