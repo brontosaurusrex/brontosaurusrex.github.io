@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2020-07-14 09:22'
+date: '2020-07-17 21:21'
 title: Fusion Notes
 tags: video 
 ---
@@ -75,4 +75,12 @@ The one with TV effect
 
 [Animation](https://youtu.be/7_6eLm6ouC4)
 
+## Text on path, char by char
+
+a. In text inspector, 2nd tab select type/path  
+b. rmb on 'Type', select 'bezier spline'  
+c. use tools in view to add/move points, you can smooth with rmb on points and select 'Text1:path/smooth'.  
+d. animate position on path...  
+
+[![textOnPath.png-ArEhuA9ibZDia4U-md](https://images.weserv.nl/?url=https://i.imgur.com/Qqh14hB.png)](https://images.weserv.nl/?url=https://i.imgur.com/v2ZwdmG.png)
 
