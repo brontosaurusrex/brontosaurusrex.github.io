@@ -90,3 +90,6 @@ d. animate position on path...
 
 [![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/FHMWT39b.png)](https://images.weserv.nl/?url=https://i.imgur.com/FHMWT39.png)
 [![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/gMH2p0Db.png)](https://images.weserv.nl/?url=https://i.imgur.com/gMH2p0D.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/TfieFiJb.png)](https://images.weserv.nl/?url=https://i.imgur.com/TfieFiJ.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/5rUbf3Ib.png)](https://images.weserv.nl/?url=https://i.imgur.com/5rUbf3I.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/DzYAadgb.png)](https://images.weserv.nl/?url=https://i.imgur.com/DzYAadg.png)
