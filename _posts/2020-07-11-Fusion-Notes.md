@@ -57,7 +57,7 @@ An attempt to add some sort of preturb/shake animation to some/most of this laye
 [![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/umfCG4Db.png)](https://images.weserv.nl/?url=https://i.imgur.com/umfCG4D.png)
 [![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/uqOvXcAb.png)](https://images.weserv.nl/?url=https://i.imgur.com/uqOvXcA.png)
 
-## Experiments
+## Experiment 1.
 
 Merge node has in 3rd tab of inspector an option to select what is used as mask/key channel (should only show when mask is connected).
 
@@ -85,3 +85,8 @@ d. animate position on path...
 [![textOnPath.png-ArEhuA9ibZDia4U-md](https://images.weserv.nl/?url=https://i.imgur.com/Qqh14hB.png)](https://images.weserv.nl/?url=https://i.imgur.com/v2ZwdmG.png)
 
 [textOnPath animation](https://youtu.be/hzMkQy1JB5Y)
+
+## Defocus
+
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/FHMWT39b.png)](https://images.weserv.nl/?url=https://i.imgur.com/FHMWT39.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/gMH2p0Db.png)](https://images.weserv.nl/?url=https://i.imgur.com/gMH2p0D.png)
