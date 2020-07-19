@@ -106,7 +106,7 @@ This is working
 	math.ceil(calculatedangle.Angle)
 	math.floor(calculatedangle.Angle)
 
-Construct text
+Construct text (for styled text input)
 
 	Text(input_.Width.."."..input_.Height)
 	# returns 1.12
