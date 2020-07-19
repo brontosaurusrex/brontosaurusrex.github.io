@@ -50,6 +50,7 @@ This are 4k layers (png) and I seem to run out of gpu mem after adding a few mor
 This is multilayer psd (scaled down to 1920x1920), with instaces of this one single input and deinstancing layer and selecting each layer in inspector we can recreate this layer uhmm stuff. Seems like a lot of manual work.
 
 edit: There is also import psd which generates some sort of node structure automagically.
+edit2: Also import svg, but slow and crashy (Don't use).
 
 An attempt to add some sort of preturb/shake animation to some/most of this layers, precache will take 35 minutes on this machine, seems really really slow (and this is pure 2d comp). 'Cache to disk' didn't really work, manual render from resolve timeline now.
 
