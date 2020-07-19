@@ -95,4 +95,22 @@ d. animate position on path...
 [![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/gMH2p0Db.png)](https://images.weserv.nl/?url=https://i.imgur.com/gMH2p0D.png)
 [![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/TfieFiJb.png)](https://images.weserv.nl/?url=https://i.imgur.com/TfieFiJ.png)
 [![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/5rUbf3Ib.png)](https://images.weserv.nl/?url=https://i.imgur.com/5rUbf3I.png)
-[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/DzYAadgb.png)](https://images.weserv.nl/?url=https://i.imgur.com/DzYAadg.png)
+[![image-nohash-th](https://images.weserv.nl/?url=https:a//i.imgur.com/DzYAadgb.png)](https://images.weserv.nl/?url=https://i.imgur.com/DzYAadg.png)
+
+## Expressions
+
+There is no int. Looks like LUA.
+
+This is working
+
+	math.ceil(calculatedangle.Angle)
+	math.floor(calculatedangle.Angle)
+
+Construct text
+
+	Text(input_.Width.."."..input_.Height)
+	# returns 1.12
+
+
+
+	
