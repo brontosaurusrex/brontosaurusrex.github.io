@@ -53,4 +53,3 @@ There is now very usefull command palette, with some keybindings things get real
 
 [![wtCommandPalette.png-CJQ6Y6oCuBpckGP-md](https://images.weserv.nl/?url=https://i.imgur.com/xRJbwCm.png)](https://images.weserv.nl/?url=https://i.imgur.com/qvWjhq2.png)
 
-[There is color tool.](https://devblogs.microsoft.com/commandline/introducing-the-windows-console-colortool/)
