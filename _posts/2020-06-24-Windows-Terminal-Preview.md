@@ -44,3 +44,11 @@ Zenburn
   	"background": "#3f3f3f",
   	"foreground": "#dcdccc"
 	}
+
+There is now very usefull command palette, with some keybindings things get really interesting
+
+    { "command": "toggleFocusMode", "keys": "shift+f11" },
+    { "command": "toggleRetroEffect", "keys": "ctrl+d" },
+    { "command": "commandPalette", "keys": "ctrl+space" }
+
+[![wtCommandPalette.png-CJQ6Y6oCuBpckGP-md](https://images.weserv.nl/?url=https://i.imgur.com/xRJbwCm.png)](https://images.weserv.nl/?url=https://i.imgur.com/qvWjhq2.png)
