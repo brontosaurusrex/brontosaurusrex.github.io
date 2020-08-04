@@ -28,7 +28,7 @@
         "defaults":
         {
             // Put settings here that you want to apply to all profiles
-		"colorScheme": "Batman",
+		"colorScheme": "Zenburn",
 		"fontFace" : "Fantasque Sans Mono",
 		"cursorShape" : "filledBox",
 		"tabWidthMode" : "compact"
@@ -70,6 +70,27 @@
     // Add custom color schemes to this array
     "schemes": [
 {
+  "name": "Chalk",
+  "black": "#7d8b8f",
+  "red": "#b23a52",
+  "green": "#789b6a",
+  "yellow": "#b9ac4a",
+  "blue": "#2a7fac",
+  "purple": "#bd4f5a",
+  "cyan": "#44a799",
+  "white": "#d2d8d9",
+  "brightBlack": "#888888",
+  "brightRed": "#f24840",
+  "brightGreen": "#80c470",
+  "brightYellow": "#ffeb62",
+  "brightBlue": "#4196ff",
+  "brightPurple": "#fc5275",
+  "brightCyan": "#53cdbd",
+  "brightWhite": "#d2d8d9",
+  "background": "#2b2d2e",
+  "foreground": "#d2d8d9"
+},
+{
   "name": "Batman",
   "black": "#1b1d1e",
   "red": "#e6dc44",
@@ -89,6 +110,90 @@
   "brightWhite": "#dadbd6",
   "background": "#1b1d1e",
   "foreground": "#6f6f6f"
+},
+{
+  "name": "DimmedMonokai",
+  "black": "#3a3d43",
+  "red": "#be3f48",
+  "green": "#879a3b",
+  "yellow": "#c5a635",
+  "blue": "#4f76a1",
+  "purple": "#855c8d",
+  "cyan": "#578fa4",
+  "white": "#b9bcba",
+  "brightBlack": "#888987",
+  "brightRed": "#fb001f",
+  "brightGreen": "#0f722f",
+  "brightYellow": "#c47033",
+  "brightBlue": "#186de3",
+  "brightPurple": "#fb0067",
+  "brightCyan": "#2e706d",
+  "brightWhite": "#fdffb9",
+  "background": "#1f1f1f",
+  "foreground": "#b9bcba"
+},
+{
+  "name": "Violet Dark",
+  "black": "#56595c",
+  "red": "#c94c22",
+  "green": "#85981c",
+  "yellow": "#b4881d",
+  "blue": "#2e8bce",
+  "purple": "#d13a82",
+  "cyan": "#32a198",
+  "white": "#c9c6bd",
+  "brightBlack": "#45484b",
+  "brightRed": "#bd3613",
+  "brightGreen": "#738a04",
+  "brightYellow": "#a57705",
+  "brightBlue": "#2176c7",
+  "brightPurple": "#c61c6f",
+  "brightCyan": "#259286",
+  "brightWhite": "#c9c6bd",
+  "background": "#1c1d1f",
+  "foreground": "#708284"
+},
+{
+  "name": "Zenburn",
+  "black": "#4d4d4d",
+  "red": "#705050",
+  "green": "#60b48a",
+  "yellow": "#f0dfaf",
+  "blue": "#506070",
+  "purple": "#dc8cc3",
+  "cyan": "#8cd0d3",
+  "white": "#dcdccc",
+  "brightBlack": "#709080",
+  "brightRed": "#dca3a3",
+  "brightGreen": "#c3bf9f",
+  "brightYellow": "#e0cf9f",
+  "brightBlue": "#94bff3",
+  "brightPurple": "#ec93d3",
+  "brightCyan": "#93e0e3",
+  "brightWhite": "#ffffff",
+  "background": "#3f3f3f",
+  "foreground": "#dcdccc"
+},
+{
+  "name": "Arthur",
+  "black": "#3d352a",
+  "red": "#cd5c5c",
+  "green": "#86af80",
+  "yellow": "#e8ae5b",
+  "blue": "#6495ed",
+  "purple": "#deb887",
+  "cyan": "#b0c4de",
+  "white": "#bbaa99",
+  "brightBlack": "#554444",
+  "brightRed": "#cc5533",
+  "brightGreen": "#88aa22",
+  "brightYellow": "#ffa75d",
+  "brightBlue": "#87ceeb",
+  "brightPurple": "#996600",
+  "brightCyan": "#b0c4de",
+  "brightWhite": "#ddccbb",
+  "background": "#1c1c1c",
+  "foreground": "#ddeedd"
 }
 ],
 
@@ -110,6 +215,14 @@
         // - "split": "auto" makes this pane open in the direction that provides the most surface area.
         // - "splitMode": "duplicate" makes the new pane use the focused pane's profile.
         // To learn more about panes, visit https://aka.ms/terminal-panes
-        { "command": { "action": "splitPane", "split": "auto", "splitMode": "duplicate" }, "keys": "alt+shift+d" }
-    ]
+        { "command": { "action": "splitPane", "split": "auto", "splitMode": "duplicate" }, "keys": "alt+shift+d" },
+
+{ "command": "toggleFocusMode", "keys": "shift+f11" },
+{ "command": "toggleRetroEffect", "keys": "ctrl+shift+r" },
+{ "command": "commandPalette", "keys": "ctrl+space" }
+    ],
+
+
+
+
 }

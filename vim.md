@@ -106,9 +106,26 @@ make each buffer appear in tab
     u < selected text to lowercase                                     
     :retab < convert tabs to spaces 
 
+## Indent
+
+In insert mode
+
+    ctrl+t < insert indent at start of line
+    ctrl+d < remove indent at start of line
+
+In normal mode
+
+    >> < indent line by shiftwidth spaces
+    << < deindent line 
+    3>> < indent 3 lines
+
+In visual mode, select lines and >>
+
+[Click for more](https://stackoverflow.com/questions/235839/indent-multiple-lines-quickly-in-vi)
+
 ## windows
 
-    :split < horizont
+    :split < horizontal
     :vsplit < vertical    
     ctrl+w+j < move down a screen
     ctrl+w+k < up
