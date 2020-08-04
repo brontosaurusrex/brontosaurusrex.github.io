@@ -14,6 +14,8 @@ tags: audio mine
     # -i stands for ignore errors and continue
     youtube-dl -i -f 140 -o '%(title)s.%(ext)s' --restrict-filename playlist
     # with nicer filenames
+
+[Naming templates.](https://github.com/ytdl-org/youtube-dl/blob/master/README.md#output-template)
     
 ## Rename by date, adding numerals
 
