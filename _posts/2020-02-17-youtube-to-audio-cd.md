@@ -11,6 +11,9 @@ tags: audio mine
 ## Download
 
     youtube-dl -i -f 140 playlist
+    # -i stands for ignore errors and continue
+    youtube-dl -i -f 140 -o '%(title)s.%(ext)s' --restrict-filename playlist
+    # with nicer filenames
     
 ## Rename by date, adding numerals
 
