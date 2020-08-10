@@ -15,6 +15,6 @@ Can't find anything that looks like that, so
 
 ^ no go, same crashy vbox (wm window crashed as wm reboot).
 
-At this point are playing good old windows reboot/guess the settins/reboor game, NO! 
+At this point playing good old windows reboot/guess the settings game, NO! 
 
 Mission aborted.
