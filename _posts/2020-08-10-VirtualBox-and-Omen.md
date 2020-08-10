@@ -12,4 +12,9 @@ Can't find anything that looks like that, so
 
 - F2 at boot, run memory test: passed
 - run/OptionalFeatures.exe, enabled 'Virtual Machine Platform' and 'Windows Hypervisor Platform' < guessing, reboot ...
+
 ^ no go, same crashy vbox (wm window crashed as wm reboot).
+
+At this point are playing good old windows reboot/guess the settins/reboor game, NO! 
+
+Mission aborted.
