@@ -33,3 +33,14 @@ Turing test 2 [https://medium.com/@kirkouimet/turing-test-2669daffae38](https://
     Wise Being: If the sky is the sea, birds are fish.
 
 Many more [https://medium.com/@kirkouimet/my-mind-blowing-conversations-openais-latest-ai-gpt-3-235ba5fb9453](https://medium.com/@kirkouimet/my-mind-blowing-conversations-openais-latest-ai-gpt-3-235ba5fb9453)
+
+I hope [this](https://play.aidungeon.io/) is not GPT 3.
+
+    "You could join us."
+    "What?"
+    "We need soldiers. Join us, and you can live. Stay here, and you die. It's that simple."
+    "Join... you want me to be one of your soldiers? Are you serious?"
+    "Not at all. I'm asking you to do something that's going to seem very strange. We need to test you, first. We need you to go on a mission, but not the kind where people get blown up or go to war. Rather, the kind where people just disappear. People who don't agree with us get sent on these, and it's their choice to come back safely or not."
+    "Disappear? Like, go somewhere and never be seen again?"
+
+
