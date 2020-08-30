@@ -104,3 +104,9 @@ simply refers to the files by name. A process operates in isolation; it can’t 
 communicate with another process. A process can’t itself create a new process or even end its own existence. Finally, a process can’t communicate directly with the input and output devices attached to the computer. By contrast, a running system has one kernel that knows and controls every-thing. The kernel facilitates the running of all processes on the system. The kernel decides which process will next obtain access to the CPU, when it will do so, and for...
 
 Absosmurfly essential reading, wish I found this before.
+
+## A New Kind of Science (Stephen Wolfram - 2002)
+
+[https://en.wikipedia.org/wiki/A_New_Kind_of_Science](https://en.wikipedia.org/wiki/A_New_Kind_of_Science)
+
+> The remarkable feature of simple programs is that a significant percentage of them are capable of producing great complexity. Simply enumerating all possible variations of almost any class of programs quickly leads one to examples that do unexpected and interesting things. This leads to the question: if the program is so simple, where does the complexity come from? In a sense, there is not enough room in the program's definition to directly encode all the things the program can do. Therefore, simple programs can be seen as a minimal example of emergence.
