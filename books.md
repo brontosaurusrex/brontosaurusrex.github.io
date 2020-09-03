@@ -110,3 +110,8 @@ Absosmurfly essential reading, wish I found this before.
 [https://en.wikipedia.org/wiki/A_New_Kind_of_Science](https://en.wikipedia.org/wiki/A_New_Kind_of_Science)
 
 > The remarkable feature of simple programs is that a significant percentage of them are capable of producing great complexity. Simply enumerating all possible variations of almost any class of programs quickly leads one to examples that do unexpected and interesting things. This leads to the question: if the program is so simple, where does the complexity come from? In a sense, there is not enough room in the program's definition to directly encode all the things the program can do. Therefore, simple programs can be seen as a minimal example of emergence.
+
+# Beginning Ruby: From Novice to Professional
+
+    5.times { print "woot " } 
+    woot woot woot woot woot => 5
