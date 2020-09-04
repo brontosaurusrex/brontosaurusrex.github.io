@@ -34,3 +34,11 @@ and to .bash_aliases
 usage example
 
     mylocate png | wc -l
+    
+with regex (anything that has 'Trap' anywhere and ends with mp3)
+
+    mylocate -ir ".*Trap.*mp3$"
+
+'singularity' fodler like structure
+
+    mylocate -i 'singularity/' | head
