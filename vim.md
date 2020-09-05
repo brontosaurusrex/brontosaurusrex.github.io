@@ -192,3 +192,10 @@ vi and vim are the same on OSX as well.
 ## books
 
  - [A Byte of Vim](https://vim.swaroopch.com/)
+
+## Resources
+
+q: [https://stackoverflow.com/questions/](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
+a: [Your problem with Vim is that you don't grok vi.](https://gist.github.com/nifl/1178878)  
+
+
