@@ -56,9 +56,9 @@
 .s1 { color: #CC3300 } /* Literal.String.Single */
 .ss { color: #FFCC33 } /* Literal.String.Symbol */
 .bp { color: #336666 } /* Name.Builtin.Pseudo */
-.vc { color: #003333 } /* Name.Variable.Class */
-.vg { color: #003333 } /* Name.Variable.Global */
-.vi { color: #003333 } /* Name.Variable.Instance */
+.vc { color: #5ac3c3 } /* Name.Variable.Class */
+.vg { color: #5ac3c3 } /* Name.Variable.Global */
+.vi { color: #5ac3c3 } /* Name.Variable.Instance */
 .il { color: #FF6600 } /* Literal.Number.Integer.Long */
 
 .css .o,
