@@ -10,6 +10,10 @@ tags:
 
 Where -d is part of terminal command and %P is total commander thing.
 
+edit: Actually this won't work with fodlers that have 's p a c e s' in names, workaround that seems to work is to use small p:
+
+    Parameters: -d %p
+
 From help
 
 	Here you can specify command line parameters.
