@@ -53,3 +53,14 @@ There is now very usefull command palette, with some keybindings things get real
 
 [![wtCommandPalette.png-CJQ6Y6oCuBpckGP-md](https://images.weserv.nl/?url=https://i.imgur.com/xRJbwCm.png)](https://images.weserv.nl/?url=https://i.imgur.com/qvWjhq2.png)
 
+## Total Commander button bar icon
+
+	Command: wt
+	Parameters: -d %P
+
+Where -d is part of terminal command and %P is total commander thing.
+
+edit: Actually this won't work with fodlers that have 's p a c e s' in names, workaround that seems to work is to use small p:
+
+    Parameters: -d %p
+
