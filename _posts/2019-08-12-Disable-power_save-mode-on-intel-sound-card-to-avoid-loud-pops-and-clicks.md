@@ -51,3 +51,17 @@ Note: sudo crontab -e, @reboot way didn't work.
 ### General notes
 
 [https://www.techtimejourney.net/how-to-blacklist-a-sound-card-in-linux/](https://www.techtimejourney.net/how-to-blacklist-a-sound-card-in-linux/)
+
+### edit: In 2020 John finds a better way
+
+to make power_safe permanent:
+
+[https://forums.bunsenlabs.org/viewtopic.php?pid=106454#p106454](https://forums.bunsenlabs.org/viewtopic.php?pid=106454#p106454)
+
+Quote: By adding this text 
+
+    options snd_hda_intel power_save=0
+
+to 
+
+    /etc/modprobe.d/audio_disable_powersave.conf
