@@ -49,7 +49,7 @@ While this naive code might look interesting it's actually quite a cpu eater
 
 [Some debate.](https://forums.bunsenlabs.org/viewtopic.php?pid=91342)
 
-### Native better
+### 'Native' better
 
     #!/bin/bash
     
@@ -72,6 +72,9 @@ While this naive code might look interesting it's actually quite a cpu eater
         waitUntil
     
     done
+
+[https://unix.stackexchange.com/questions/194655/shell-sleep-until-next-full-minute](https://unix.stackexchange.com/questions/194655/shell-sleep-until-next-full-minute)
+
 
 ### Datetools
 
