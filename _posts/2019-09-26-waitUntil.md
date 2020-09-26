@@ -49,6 +49,29 @@ While this naive code might look interesting it's actually quite a cpu eater
 
 [Some debate.](https://forums.bunsenlabs.org/viewtopic.php?pid=91342)
 
+### Native better
+
+    #!/bin/bash
+    
+    waitUntil() {
+    
+        sleep $((60 - $(date +%s) % 60))
+    
+    }   
+    
+    thecode() {
+    
+        date +%H%M | toilet -f 3x3
+        
+    }
+
+    while true
+    do
+    
+        thecode
+        waitUntil
+    
+    done
 
 ### Datetools
 
