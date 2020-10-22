@@ -90,3 +90,5 @@ Return
 ```
 Gives  
 ![Remote](https://images.weserv.nl/?url=https://i.imgur.com/FhGS1in.png)
+
+Note: To avoid premiere blinking when clicking buttons untick 'Disable video output when in background' in premiere preferences.
