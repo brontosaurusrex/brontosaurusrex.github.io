@@ -15,75 +15,78 @@ buttons are visible (CTRL+S would be good as well). This will not work for actua
 
 [Custom gui, my own lil onscreen keyboard?](https://www.autohotkey.com/docs/commands/Gui.htm)
 
-## My very 1st autohotkey script
+## My very 1st autohotkey script: Remote.ahk
 
-    ; autohotkey script named Remote
+```
+; autohotkey script named Remote
 
-    ; https://github.com/TaranVH/2nd-keyboard/blob/master/Almost_All_Premiere_Functions.ahk
-    Menu, Tray, Icon, shell32.dll, 283 ; this changes the tray icon to a little keyboard!
-    #SingleInstance force ;only one instance of this script may run at a time!
-    #MaxHotkeysPerInterval 2000
-    #WinActivateForce ;https://autohotkey.com/docs/commands/_WinActivateForce.htm
+; https://github.com/TaranVH/2nd-keyboard/blob/master/Almost_All_Premiere_Functions.ahk
+Menu, Tray, Icon, shell32.dll, 283 ; this changes the tray icon to a little keyboard!
+#SingleInstance force ;only one instance of this script may run at a time!
+#MaxHotkeysPerInterval 2000
+#WinActivateForce ;https://autohotkey.com/docs/commands/_WinActivateForce.htm
 
-    SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 
-    Gui, Font, s50, Verdana 
-    Gui, Add, Button, x142 y29 w100 h100 , K
-    Gui, Add, Button, x262 y29 w100 h100 , L
-    Gui, Add, Button, x22 y149 w100 h100 , <
-    Gui, Add, Button, x142 y149 w100 h100 , M
-    Gui, Add, Button, x262 y149 w100 h100 , >
-    Gui, Add, Button, x22 y269 w340 h90 , Save
-    Gui, Add, Button, x22 y29 w100 h100 , J
-    ; Generated using SmartGUI Creator 4.0
+Gui, +AlwaysOnTop 
+Gui, Font, s50
+Gui, Add, Button, x142 y29 w100 h100 , K
+Gui, Add, Button, x262 y29 w100 h100 , L
+Gui, Add, Button, x22 y149 w100 h100 , <
+Gui, Add, Button, x142 y149 w100 h100 , M
+Gui, Add, Button, x262 y149 w100 h100 , >
+Gui, Add, Button, x22 y269 w340 h90 , Save
+Gui, Add, Button, x22 y29 w100 h100 , J
+; Generated using SmartGUI Creator 4.0
 
-    Gui, Show, x357 y126 h388 w387, Remote
-    Return
+Gui, Show, x357 y126 h388 w387, Remote
 
-    GuiClose:
-    ExitApp
+Return
 
-    ButtonJ:
-      WinActivate ahk_class Premiere Pro
-      #IfWinActive, ahk_class Premiere Pro
-      Send j
-    Return
+GuiClose:
+ExitApp
 
-    ButtonK:
-      WinActivate ahk_class Premiere Pro
-      #IfWinActive, ahk_class Premiere Pro
-      Send k
-    Return
+ButtonJ:
+	WinActivate ahk_class Premiere Pro
+	#IfWinActive, ahk_class Premiere Pro
+	Send j
+Return
 
-    ButtonL:
-      WinActivate ahk_class Premiere Pro
-      #IfWinActive, ahk_class Premiere Pro
-      Send l
-    Return
+ButtonK:
+	WinActivate ahk_class Premiere Pro
+	#IfWinActive, ahk_class Premiere Pro
+	Send k
+Return
 
-    ButtonM:
-      WinActivate ahk_class Premiere Pro
-      #IfWinActive, ahk_class Premiere Pro
-      Send m
-    Return
+ButtonL:
+	WinActivate ahk_class Premiere Pro
+	#IfWinActive, ahk_class Premiere Pro
+	Send l
+Return
 
-    Button>:
-      WinActivate ahk_class Premiere Pro
-      #IfWinActive, ahk_class Premiere Pro
-      Send {Right}
-    Return
+ButtonM:
+	WinActivate ahk_class Premiere Pro
+	#IfWinActive, ahk_class Premiere Pro
+	Send m
+Return
 
-    Button<:
-      WinActivate ahk_class Premiere Pro
-      #IfWinActive, ahk_class Premiere Pro
-      Send {Left}
-    Return
+Button>:
+	WinActivate ahk_class Premiere Pro
+	#IfWinActive, ahk_class Premiere Pro
+	Send {Right}
+Return
 
-    ButtonSave:
-      WinActivate ahk_class Premiere Pro
-      #IfWinActive, ahk_class Premiere Pro
-      Send, ^s  
-    Return
+Button<:
+	WinActivate ahk_class Premiere Pro
+	#IfWinActive, ahk_class Premiere Pro
+	Send {Left}
+Return
 
-Gives  
-![Remote](https://images.weserv.nl/?url=https://i.imgur.com/HXknGDh.png)
+ButtonSave:
+	WinActivate ahk_class Premiere Pro
+	#IfWinActive, ahk_class Premiere Pro
+	Send, ^s  
+Return
+```
+
+![Remote](https://images.weserv.nl/?url=https://i.imgur.com/FhGS1in.png)
