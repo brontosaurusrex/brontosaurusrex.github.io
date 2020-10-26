@@ -1,11 +1,15 @@
 ---
-published: false
+published: true
 layout: post
 date: '2020-10-26 11:17'
-title: lighty mime
+title: lighty mime test (mp4 not streaming with chrome)
 tags: web 
 ---
-Add to /etc/lighttpd/lighttpd.conf
+In /etc/lighttpd/lighttpd.conf, disable perl script
+
+    #include_shell "/usr/share/lighttpd/create-mime.conf.pl"
+
+and add this to the bottom
 
     # by me from page
     # http://stackoverflow.com/questions/29349348/specifying-charset-in-http-header-with-lighttpd
