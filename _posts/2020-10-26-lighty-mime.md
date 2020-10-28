@@ -2,9 +2,11 @@
 published: true
 layout: post
 date: '2020-10-26 11:17'
-title: lighty mime test (mp4 not streaming with chrome)
+title: Lighty running on pi not streaming mp4
 tags: web 
 ---
+## Mime test (not a fix)
+
 In /etc/lighttpd/lighttpd.conf, disable perl script
 
     #include_shell "/usr/share/lighttpd/create-mime.conf.pl"
@@ -88,3 +90,7 @@ and add this to the bottom
       ".mp4"          =>      "video/mp4",
       ".m3u"	  =>	  "text/html; charset=utf-8",
     )
+
+## Compare configs?
+
+## Pi related?
