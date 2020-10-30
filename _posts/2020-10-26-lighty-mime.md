@@ -94,3 +94,12 @@ and add this to the bottom
 ## Compare configs?
 
 ## Pi related?
+
+## Solution
+
+Even thought ffmpeg did include the magic '-movflags +faststart' that doesn't seem to prepare the file properly, solution is 'qt-faststart'.
+
+    qt-faststart in.mp4 out.mp4
+    
+and out.mp4 shall behave.
+    
