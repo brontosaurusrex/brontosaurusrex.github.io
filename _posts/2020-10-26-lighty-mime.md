@@ -95,11 +95,34 @@ and add this to the bottom
 
 ## Pi related?
 
-## Solution
+## Qt-faststart workaround
 
-Even thought ffmpeg did include the magic '-movflags +faststart' that doesn't seem to prepare the file properly, solution is 'qt-faststart'.
+Even thought ffmpeg did include the magic '-movflags +faststart' that doesn't seem to prepare the file properly, workaround is 'qt-faststart'.
 
     qt-faststart in.mp4 out.mp4
     
-and out.mp4 shall behave.
+and out.mp4 should at least behave as progressive download.
+
+## headers
+
+What it should look like (curl -I someip)
+
+    HTTP/1.1 200 OK
+    Content-Type: text/html; charset=utf-8
+    Accept-Ranges: bytes
+    ETag: "1918464442"
+    Last-Modified: Thu, 17 Sep 2020 10:42:42 GMT
+    Content-Length: 4886
+    Date: Fri, 30 Oct 2020 11:45:01 GMT
+    Server: lighttpd/1.4.53
     
+and not
+
+    HTTP/1.1 200 OK
+    Content-Type: text/html; charset=utf-8
+    Accept-Ranges:  none
+    ETag: "2284669014"
+    Last-Modified: Tue, 07 Jul 2020 15:18:24 GMT
+    Content-Length: 8017
+    Date: Fri, 30 Oct 2020 11:44:35 GMT
+    Server: lighttpd/1.4.53
