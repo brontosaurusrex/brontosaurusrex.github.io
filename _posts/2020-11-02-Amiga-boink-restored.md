@@ -5,7 +5,8 @@ date: '2020-11-02 20:24'
 title: Amiga boink restored
 tags: blender 
 ---
-[![boinkEvee_ps2.png-p0q4ycrD8wLiY0r-md](https://images.weserv.nl/?url=https://i.imgur.com/Tq4wsQUl.png)](https://images.weserv.nl/?url=https://i.imgur.com/Tq4wsQU.png)
+[![boinkEvee_ps2.png-p0q4ycrD8wLiY0r-md](https://images.weserv.nl/?url=https://i.imgur.com/Tq4wsQUl.png)](https://images.weserv.nl/?url=https://i.imgur.com/Tq4wsQU.png)  
+[Similar 4k version of it.](https://images.weserv.nl/?url=https://i.imgur.com/1n0pSiJ.png)
 [![boinkEvee2_ps.png-i1JcoqPBwcYeQl9-md](https://images.weserv.nl/?url=https://i.imgur.com/cMCEfZbl.png)](https://images.weserv.nl/?url=https://i.imgur.com/cMCEfZb.png)  
 ^Blender eevee + some post.
 
