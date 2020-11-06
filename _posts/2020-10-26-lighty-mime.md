@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2020-10-26 11:17'
-title: Lighty running on pi not streaming mp4
+title: Lighty running on pi and NOT streaming mp4
 tags: web 
 ---
 ## Mime test (not a fix)
@@ -93,7 +93,11 @@ and add this to the bottom
 
 ## Compare configs?
 
+Looks good.
+
 ## Pi related?
+
+Not.
 
 ## Qt-faststart workaround
 
@@ -126,3 +130,10 @@ and not
     Content-Length: 8017
     Date: Fri, 30 Oct 2020 11:44:35 GMT
     Server: lighttpd/1.4.53
+
+## What was it?
+
+They say, they say that 'bytes' is that magic keyword. And for some reason and for that specific client some evil entity is blocking it.
+
+    curl -Is testhost.com | grep 'Accept-Ranges: bytes'
+
