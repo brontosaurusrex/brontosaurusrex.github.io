@@ -124,4 +124,4 @@ And add that to .config/openbox/menu.xml like:
     
 Done.
 
-![pipeDesktop.md.png](https://images.weserv.nl/?url=https://i.imgur.com/EK9xvue.png)
+![pipeDesktop.md.png](https://i.imgur.com/EK9xvue.png)

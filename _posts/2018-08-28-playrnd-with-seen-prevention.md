@@ -11,4 +11,4 @@ tags:
 
 What it does: Plays random song, but doesn't repeat it for a while, see "$lm".
 
-[![scrot29489.png-Z0nM52sucAYgrwA-md](https://images.weserv.nl/?url=https://i.imgur.com/gQEg6fRl.png)](https://images.weserv.nl/?url=https://i.imgur.com/gQEg6fR.png)
+[![scrot29489.png-Z0nM52sucAYgrwA-md](https://i.imgur.com/gQEg6fRl.png)](https://i.imgur.com/gQEg6fR.png)

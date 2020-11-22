@@ -6,7 +6,7 @@ title: SpeedCrunch calc (qt)
 tags: linux 
 ---
 Possible pycalc replacement (in Buster repos)  
-[![speedcrunch.png-LXQZq4spblPqgDX-md](https://images.weserv.nl/?url=https://i.imgur.com/9gamBDIl.png)](https://images.weserv.nl/?url=https://i.imgur.com/9gamBDI.png)  
+[![speedcrunch.png-LXQZq4spblPqgDX-md](https://i.imgur.com/9gamBDIl.png)](https://i.imgur.com/9gamBDI.png)  
 [Custom color schemes.](https://speedcrunch.org/advanced/colorschemeformat.html)
 
 ~/.local/share/SpeedCrunch/color-scheme/bunsenBeam.json

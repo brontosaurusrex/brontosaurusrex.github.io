@@ -14,4 +14,4 @@ Install [rust](https://doc.rust-lang.org/book/second-edition/ch01-01-installatio
     cargo run
 
 Profit  
-[![scrot16223.png-yM33UhxPAw0KMlG-th](https://images.weserv.nl/?url=https://i.imgur.com/8WVhwDTb.png)](https://images.weserv.nl/?url=https://i.imgur.com/8WVhwDT.png)
+[![scrot16223.png-yM33UhxPAw0KMlG-th](https://i.imgur.com/8WVhwDTb.png)](https://i.imgur.com/8WVhwDT.png)

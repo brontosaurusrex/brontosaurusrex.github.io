@@ -7,6 +7,6 @@ tags:
   - blender
   - mine
 ---
-[![fakeglowPostNode.png-i60Fn2W9HZoRQtz-md](https://images.weserv.nl/?url=https://i.imgur.com/1dz2lY7l.png)](https://images.weserv.nl/?url=https://i.imgur.com/1dz2lY7.png)
+[![fakeglowPostNode.png-i60Fn2W9HZoRQtz-md](https://i.imgur.com/1dz2lY7l.png)](https://i.imgur.com/1dz2lY7.png)
 
 Shiny material as base, filmic render (base contrast). 

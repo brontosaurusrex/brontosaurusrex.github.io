@@ -7,7 +7,7 @@ tags:
   - blender
   - mine
 ---
-[![clippy6.png-XAfZ0G3WEtSttHH-md](https://images.weserv.nl/?url=https://i.imgur.com/WFCrIoF.png)](https://images.weserv.nl/?url=https://i.imgur.com/4AUozri.png)
+[![clippy6.png-XAfZ0G3WEtSttHH-md](https://i.imgur.com/WFCrIoF.png)](https://i.imgur.com/4AUozri.png)
 
 > Would ya like to
 > a. git push ?

@@ -7,7 +7,7 @@ tags: blender
 ---
 It's almost 2020, Blender is 2.81a. And it has 'properties pane'.
 
-[![misteryMeat.png-Ojgwj14AAWz82So-md](https://images.weserv.nl/?url=https://i.imgur.com/LoUl6wg.png)](https://images.weserv.nl/?url=https://i.imgur.com/LoUl6wg.png)
+[![misteryMeat.png-Ojgwj14AAWz82So-md](https://i.imgur.com/LoUl6wg.png)](https://i.imgur.com/LoUl6wg.png)
 
 [https://en.wikipedia.org/wiki/Mystery_meat_navigation](https://en.wikipedia.org/wiki/Mystery_meat_navigation)
 

@@ -7,7 +7,7 @@ tags: mine
 ---
 ## Script
 
-[Watermark script](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/watermark), [Background example](https://images.weserv.nl/?url=https://i.imgur.com/fxxMha5.jpg), [Logo example](https://images.weserv.nl/?url=https://i.imgur.com/WQj80Ny.png).
+[Watermark script](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/watermark), [Background example](https://i.imgur.com/fxxMha5.jpg), [Logo example](https://i.imgur.com/WQj80Ny.png).
 
 Usage example:
 
@@ -16,16 +16,16 @@ Usage example:
     viewnior --fullscreen --slideshow *wall*
 
 Output of `watermark back.jpg logo.png wall 15`    
-[![wall-plus.png-jmb5QKqyuxkmLAm-md](https://images.weserv.nl/?url=https://i.imgur.com/OEvIe6ul.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/OEvIe6u.jpg)
+[![wall-plus.png-jmb5QKqyuxkmLAm-md](https://i.imgur.com/OEvIe6ul.jpg)](https://i.imgur.com/OEvIe6u.jpg)
  
 The new back + back over alpha method  
-[![bunsen-back.png-ILroNpdGCe8zxnq-md](https://images.weserv.nl/?url=https://i.imgur.com/iSHVzXDl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/iSHVzXD.jpg)  
+[![bunsen-back.png-ILroNpdGCe8zxnq-md](https://i.imgur.com/iSHVzXDl.jpg)](https://i.imgur.com/iSHVzXD.jpg)  
 Debian [Diverse](https://gitlab.com/valessiobrito/artwork/tree/master/Debian/debian-diversity)  
-[![divers-back.png-Fx6HKUf9l2LctUo-md](https://images.weserv.nl/?url=https://i.imgur.com/WiOrbkMl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/WiOrbkM.jpg)  
+[![divers-back.png-Fx6HKUf9l2LctUo-md](https://i.imgur.com/WiOrbkMl.jpg)](https://i.imgur.com/WiOrbkM.jpg)  
 Destroyed alpha with some random lines  
-[![woot2-destroyedDefault.jpg-YWo6q4DzENH6jrc-md](https://images.weserv.nl/?url=https://i.imgur.com/KxpFughl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/KxpFugh.jpg)  
-[![bunsennew-destroyedDefault.png-ztPNJUpFN5KMPAA-md](https://images.weserv.nl/?url=https://i.imgur.com/GmoPqjOl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/GmoPqjO.jpg)  
-[![test9-destroyedDefault.jpg-tvlRmP6ljqWmQDv-md](https://images.weserv.nl/?url=https://i.imgur.com/8pNz33ul.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/8pNz33u.jpg)
+[![woot2-destroyedDefault.jpg-YWo6q4DzENH6jrc-md](https://i.imgur.com/KxpFughl.jpg)](https://i.imgur.com/KxpFugh.jpg)  
+[![bunsennew-destroyedDefault.png-ztPNJUpFN5KMPAA-md](https://i.imgur.com/GmoPqjOl.jpg)](https://i.imgur.com/GmoPqjO.jpg)  
+[![test9-destroyedDefault.jpg-tvlRmP6ljqWmQDv-md](https://i.imgur.com/8pNz33ul.jpg)](https://i.imgur.com/8pNz33u.jpg)
 
 ## FIXME
 

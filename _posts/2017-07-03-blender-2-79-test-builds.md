@@ -14,10 +14,10 @@ tags: blender
 - principled
 
 ## Rendered with only 12 samples + default denoiser  
-[![denoiser.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/07/03/denoiser.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/07/03/denoiser.png)
+[![denoiser.th.png](//cdn.scrot.moe/images/2017/07/03/denoiser.th.png)](//cdn.scrot.moe/images/2017/07/03/denoiser.png)
 
 ## with alpha, dof and such
-[![plane14denoiserAlphaDOF3png.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/07/03/plane14denoiserAlphaDOF3png.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/07/03/plane14denoiserAlphaDOF3png.png)
+[![plane14denoiserAlphaDOF3png.th.png](//cdn.scrot.moe/images/2017/07/03/plane14denoiserAlphaDOF3png.th.png)](//cdn.scrot.moe/images/2017/07/03/plane14denoiserAlphaDOF3png.png)
 
 And this is one way of fixing alpha levels  
-[![fixingAlphaLevelsCompositor.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/07/03/fixingAlphaLevelsCompositor.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/07/03/fixingAlphaLevelsCompositor.png)
+[![fixingAlphaLevelsCompositor.th.png](//cdn.scrot.moe/images/2017/07/03/fixingAlphaLevelsCompositor.th.png)](//cdn.scrot.moe/images/2017/07/03/fixingAlphaLevelsCompositor.png)

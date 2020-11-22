@@ -28,7 +28,7 @@ tags: linux
     
 [pipeScreenfetch](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/bin/pipeScreenfetch).
 
-[![scrot31573.png-GZXtLXrityww7BY-md](https://images.weserv.nl/?url=https://i.imgur.com/LUQK4ctl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/LUQK4ct.jpg)
+[![scrot31573.png-GZXtLXrityww7BY-md](https://i.imgur.com/LUQK4ctl.jpg)](https://i.imgur.com/LUQK4ct.jpg)
 
 
 Variables may be omited from display, like so
@@ -146,7 +146,7 @@ Slightly faster, but random order
 [pipeInxi](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/bin/pipeInxi)  
 Ugly and slow.
 
-[![scrot06332.png-M9WLNJoNnXpj6SN-md](https://images.weserv.nl/?url=https://i.imgur.com/TqcSHH2l.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/TqcSHH2.jpg)
+[![scrot06332.png-M9WLNJoNnXpj6SN-md](https://i.imgur.com/TqcSHH2l.jpg)](https://i.imgur.com/TqcSHH2.jpg)
 
 ## As Geany template
 

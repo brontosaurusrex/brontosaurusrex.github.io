@@ -8,4 +8,4 @@ tags: linux
 edit: this is the latest link (softwaves)
 [https://github.com/Head-on-a-Stick/bunsen-themes-dev](https://github.com/Head-on-a-Stick/bunsen-themes-dev)
 
-[![grey.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/03/13/grey.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/03/13/grey.png)
+[![grey.th.png](//cdn.scrot.moe/images/2017/03/13/grey.th.png)](//cdn.scrot.moe/images/2017/03/13/grey.png)

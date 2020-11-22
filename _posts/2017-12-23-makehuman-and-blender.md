@@ -6,9 +6,9 @@ title: Makehuman and Blender
 tags: blender mine
 ---
 Statue, _Keyboard Worker_ (or _Keyboard Warrior_).  
-[![ladyStatue10_gimp4.png-sNQW4QX5bmPIzwU-th](https://images.weserv.nl/?url=https://i.imgur.com/djzzf5s.png)](https://images.weserv.nl/?url=https://i.imgur.com/z82ahbN.png)
-[![ladyStatue13_sheep_gimp_nr2.png-m37Ns9xbt61r2ki-th](https://images.weserv.nl/?url=https://i.imgur.com/hXANQb4.png)](https://images.weserv.nl/?url=https://i.imgur.com/UJUgEhm.png)
-[![ladyStatue14_sheep_gimp2.png-nnoVjqPqiwvTVKb-th](https://images.weserv.nl/?url=https://i.imgur.com/bpGaZ8r.png)](https://images.weserv.nl/?url=https://i.imgur.com/36FOKud.png)
+[![ladyStatue10_gimp4.png-sNQW4QX5bmPIzwU-th](https://i.imgur.com/djzzf5s.png)](https://i.imgur.com/z82ahbN.png)
+[![ladyStatue13_sheep_gimp_nr2.png-m37Ns9xbt61r2ki-th](https://i.imgur.com/hXANQb4.png)](https://i.imgur.com/UJUgEhm.png)
+[![ladyStatue14_sheep_gimp2.png-nnoVjqPqiwvTVKb-th](https://i.imgur.com/bpGaZ8r.png)](https://i.imgur.com/36FOKud.png)
 
 Attribution: [Apple wireless keyboard model](https://www.blendswap.com/blends/view/89423) is released under Creative Commons Attribution 3.0 by keeslaff.
 

@@ -26,4 +26,4 @@ d. conky is invisible
 e. FIXED (by reinstalling rEFInd) system will go directly to grub at boot time (rEFInd screen expected)  
 f. FIXED? propelers are too loud (xfce4-power-manager and disable all but last xset line in autostart)
 
-[![macproMetal.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/05/25/macproMetal.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/05/25/macproMetal.png)
+[![macproMetal.th.png](//cdn.scrot.moe/images/2017/05/25/macproMetal.th.png)](//cdn.scrot.moe/images/2017/05/25/macproMetal.png)
