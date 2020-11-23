@@ -285,7 +285,9 @@ Also works nicely interactively
 
 > A simple variable string wouldn't work because no other "expansions" happen after word splitting, and that includes recognition of keywords and control operators. Keywords and control operators expanded after word splitting are considered to be just ordinary arguments, and not part of the syntax
 
-## Quasi multidimensional array
+## Arrays
+
+### Quasi multidimensional array
 
     #!/bin/bash
 
@@ -305,6 +307,23 @@ Also works nicely interactively
         echo "$app $config $method"
 
     done < <(printf '%s\n' "${data[@]}")
+
+### Associative array expansion?
+
+    #!/bin/bash
+
+    # an array here
+    declare -A exe
+    exe=(
+    ["serverOne"]="echo woot" 
+    ["job"]="sleep 3" 
+    ["myserv"]="neofetch" 
+    )
+
+    # this is the exe
+    ${exe[serverOne]} 
+    ${exe[job]} 
+    ${exe[myserv]}
 
 ## [[ brackets ]] = Test
 
