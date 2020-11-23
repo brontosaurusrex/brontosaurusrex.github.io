@@ -10,8 +10,13 @@ published: true
 
 ## Privacy
 
-"We" do NOT track, log, spy or are in any way aware of the user presence on this site.  
- Edit: Due to unfortunate lost of scrot.moe, images are now hosted using [imgur.com](https://imgur.com/privacy).
+/me do NOT track, log, spy or are in any way aware of the user presence on this site. 
+
+This blog is hosted using 3rd party tech, curently '[github pages](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement)' and '[imgur image hosting](https://blog.imgur.com/tag/gdpr/)' where /me is [neither Controller, neither Processor](https://advisera.com/eugdpracademy/knowledgebase/eu-gdpr-controller-vs-processor-what-are-the-differences/). Their rules might apply.
+ 
+ Edit1: Due to unfortunate lost of scrot.moe, images are now hosted using [imgur.com](https://imgur.com/privacy).
+ 
+ Edit2: Since 23.Nov.2020 images are now directly linked to imgur services and as a result of that [their gdpr rules](https://blog.imgur.com/tag/gdpr/) apply when some posts or pages load images. The reason for this change is imgur [no longer suporting](https://github.com/weserv/images/issues/258#issuecomment-731525567) image proxy links via weserv.nl.
 
 ## Thinkering and development
 
