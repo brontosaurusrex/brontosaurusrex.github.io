@@ -32,7 +32,7 @@ This blog is hosted using 3rd party tech, curently '[github pages](https://docs.
 - Found [lanyon theme](https://github.com/poole/lanyon), uploaded it and add some posts using tinypress
 - Changing the theme slightly > at this point there is a working / online blog without even running jekyll offline on my machine [https://brontosaurusrex.github.io/2016/01/02/1st-tinypress-post/](https://brontosaurusrex.github.io/2016/01/02/1st-tinypress-post/)
 - Realized that tinypress has bugs and lacks features (concluded that with some workarounds it is still good enough for scribble posts, which can be later fixed offline with a real text editor or perhaps using github's online one) < 99% of my posts are quick scribbles anyway, so no big deal.
-Edit: tinypress replaced with prose.io.
+Edit: tinypress replaced with prose.io. Edit2: Nowadays it's a script called '[newPost](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/bin/newPost)' and Vim/Geany.
 - Being annoyed by the jekyll's idea of "front matter", I mean can't this be automatic or what ..., realized that included metadata is basically a good thing, posts are actually engine-independent on the long run. Saw that github understands "front matter" at some level. Edit: prose.io deals with frontmatter automagically as well if configured corectly.
 - Actually installed jekyll offline to do some more problematic positioning of the elements and some other hacks to the theme.
 
