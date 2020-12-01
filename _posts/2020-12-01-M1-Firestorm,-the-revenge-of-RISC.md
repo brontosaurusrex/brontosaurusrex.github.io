@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2020-12-01 16:41'
-title: M1 Firestorm, the revenge of RISC
+title: M1 Firestorm, revenge of the RISC
 tags: misc 
 ---
 [https://erik-engheim.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2](https://erik-engheim.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2)
