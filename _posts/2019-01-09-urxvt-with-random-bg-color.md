@@ -8,7 +8,7 @@ tags:
   - mine
   - bash
 ---
-[![urxvtRndColorBG.png-nEdxfVvVDNZ9Dfy-th](https://i.imgur.com/3zH3lfub.jpg)](https://i.imgur.com/3zH3lfu.jpg)
+[![urxvtRndColorBG.png-nEdxfVvVDNZ9Dfy-th](https://images.weserv.nl/?url=https://i.imgur.com/3zH3lfub.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/3zH3lfu.jpg)
 
     #!/bin/bash
 

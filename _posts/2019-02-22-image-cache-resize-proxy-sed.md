@@ -8,12 +8,12 @@ tags:
   - web
 ---
 
-    //
+    https://images.weserv.nl/?url=//
 
     from
     https://cdn.scrot.moe/images/2018/05/22/tilesRetro.md.png
     to
-    //cdn.scrot.moe/images/2018/05/22/tilesRetro.md.png
+    https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/05/22/tilesRetro.md.png
     
     # sed -i 's/foo/bar/g' *
 

@@ -36,6 +36,6 @@ And add to the lighttpd.conf (/etc/lighttpd/lighttpd.conf)
     
 You get something pretty like
 
-![](//cdn.scrot.moe/images/2016/11/02/lightDirList2.png)
+![](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2016/11/02/lightDirList2.png)
 
 [http://jsbin.com/tudigotopa/edit?html,css,output](http://jsbin.com/tudigotopa/edit?html,css,output)

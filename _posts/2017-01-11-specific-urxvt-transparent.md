@@ -17,4 +17,4 @@ And exclude shadows in ~/compton.conf
 
     ];
 
-[![transparentUrxvt.th.png](//cdn.scrot.moe/images/2017/01/11/transparentUrxvt.th.png)](//cdn.scrot.moe/images/2017/01/11/transparentUrxvt.png)
+[![transparentUrxvt.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/11/transparentUrxvt.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/11/transparentUrxvt.png)

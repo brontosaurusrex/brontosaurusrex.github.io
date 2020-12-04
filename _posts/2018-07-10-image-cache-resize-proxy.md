@@ -10,6 +10,6 @@ tags:
 
 Example (imagine cnd.scrot.moe would be your kitchen server):
 
-	//cdn.scrot.moe/images/2018/05/24/saturns1.png&w=760
+	https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/05/24/saturns1.png&w=760
 
-![](//cdn.scrot.moe/images/2018/05/24/saturns1.png&w=760)
+![](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2018/05/24/saturns1.png&w=760)

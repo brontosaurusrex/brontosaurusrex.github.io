@@ -10,6 +10,6 @@ tags: video
 
 ToolMesh.
 
-![mesh2.md.png-tK9NkZhzlot5nd3-md](https://i.imgur.com/4JJRLHW.png)
+![mesh2.md.png-tK9NkZhzlot5nd3-md](https://images.weserv.nl/?url=https://i.imgur.com/4JJRLHW.png)
 
 Svg will be incompatible with browsers, pdf seems to work.

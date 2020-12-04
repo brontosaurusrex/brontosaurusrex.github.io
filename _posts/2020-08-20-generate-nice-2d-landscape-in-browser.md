@@ -11,4 +11,4 @@ tags: misc web
 This is pure js, so one can save the page source to disk and edit generated image height. Moving to the right side is possible (D). When happy, rmb and save image.
 
 My try  
-[![2d.png-PzsMSlx7gjigBiS-md](https://i.imgur.com/LZF5dZel.png)](https://i.imgur.com/LZF5dZe.png)
+[![2d.png-PzsMSlx7gjigBiS-md](https://images.weserv.nl/?url=https://i.imgur.com/LZF5dZel.png)](https://images.weserv.nl/?url=https://i.imgur.com/LZF5dZe.png)

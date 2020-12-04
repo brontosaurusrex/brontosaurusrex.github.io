@@ -17,4 +17,4 @@ tags:
 
 [https://www.blenderkit.com/](https://www.blenderkit.com/)
 
-[![blendKit.png-zXEfkmw31tTOtu7-md](https://i.imgur.com/iTUhXYBl.jpg)](https://i.imgur.com/iTUhXYB.jpg)
+[![blendKit.png-zXEfkmw31tTOtu7-md](https://images.weserv.nl/?url=https://i.imgur.com/iTUhXYBl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/iTUhXYB.jpg)

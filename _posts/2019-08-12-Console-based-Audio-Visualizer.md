@@ -12,4 +12,4 @@ In .config/cava/config
     channels = mono 
     # and ; means commented out.
     
-[![cava.png-RfVY5kmVkfXcXVu-md](https://i.imgur.com/G9Us2li.png)](https://i.imgur.com/G9Us2li.png)
+[![cava.png-RfVY5kmVkfXcXVu-md](https://images.weserv.nl/?url=https://i.imgur.com/G9Us2li.png)](https://images.weserv.nl/?url=https://i.imgur.com/G9Us2li.png)

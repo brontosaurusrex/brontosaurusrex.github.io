@@ -7,4 +7,4 @@ tags: blender
 ---
 [https://github.com/paulcoops/blender_pro-theme](https://github.com/paulcoops/blender_pro-theme)
 
-[![blenderPro.png-YxD4BQnobaMdRQN-md](https://i.imgur.com/NmZXXUl.png)](https://i.imgur.com/YJ2lBUK.png)
+[![blenderPro.png-YxD4BQnobaMdRQN-md](https://images.weserv.nl/?url=https://i.imgur.com/NmZXXUl.png)](https://images.weserv.nl/?url=https://i.imgur.com/YJ2lBUK.png)

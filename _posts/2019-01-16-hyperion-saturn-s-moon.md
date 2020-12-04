@@ -6,6 +6,6 @@ title: Hyperion (Saturn's moon)
 tags:
   - luv
 ---
-[![SaturnsMoonHyperion.png-R6Kk01FprmVGodu-md](https://i.imgur.com/MwO2Mg6.png)](https://i.imgur.com/MwO2Mg6.png)
+[![SaturnsMoonHyperion.png-R6Kk01FprmVGodu-md](https://images.weserv.nl/?url=https://i.imgur.com/MwO2Mg6.png)](https://images.weserv.nl/?url=https://i.imgur.com/MwO2Mg6.png)
 
 From: [https://photojournal.jpl.nasa.gov/catalog/PIA07740](https://photojournal.jpl.nasa.gov/catalog/PIA07740)

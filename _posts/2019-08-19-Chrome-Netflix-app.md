@@ -17,4 +17,4 @@ Also, maybe enable thin scrollbars in chrome
     
 And disable decoration for window named netflix.com in your wm (openbox in this case).
 
-[Scrot.](https://i.imgur.com/J95crSl.jpg)
+[Scrot.](https://images.weserv.nl/?url=https://i.imgur.com/J95crSl.jpg)

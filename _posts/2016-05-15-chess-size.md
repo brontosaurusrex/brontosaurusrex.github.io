@@ -16,7 +16,7 @@ Tournament mesaurements
 
 p.s. Some Blends (3440x1440)
 
-[![chess1966_ps1.th.png](//cdn.scrot.moe/images/2016/05/15/chess1966_ps1.th.png)](//cdn.scrot.moe/images/2016/05/15/chess1966_ps1.png)
-[![chess1966_2_ps1.th.png](//cdn.scrot.moe/images/2016/05/15/chess1966_2_ps1.th.png)](//cdn.scrot.moe/images/2016/05/15/chess1966_2_ps1.png)
-[![chess1966_5b_ps2.th.png](//cdn.scrot.moe/images/2016/05/15/chess1966_5b_ps2.th.png)](//cdn.scrot.moe/images/2016/05/15/chess1966_5b_ps2.png)
-[![chess_ps1.th.png](//cdn.scrot.moe/images/2016/05/17/chess_ps1.th.png)](//cdn.scrot.moe/images/2016/05/17/chess_ps1.png)
+[![chess1966_ps1.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2016/05/15/chess1966_ps1.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2016/05/15/chess1966_ps1.png)
+[![chess1966_2_ps1.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2016/05/15/chess1966_2_ps1.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2016/05/15/chess1966_2_ps1.png)
+[![chess1966_5b_ps2.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2016/05/15/chess1966_5b_ps2.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2016/05/15/chess1966_5b_ps2.png)
+[![chess_ps1.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2016/05/17/chess_ps1.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2016/05/17/chess_ps1.png)

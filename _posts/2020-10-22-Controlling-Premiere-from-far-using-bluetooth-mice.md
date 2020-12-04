@@ -5,7 +5,7 @@ date: '2020-10-22 11:20'
 title: Controlling Premiere from far using bluetooth mice
 tags: video
 ---
-[![control-fs8.png-uGL13v221BXWTMK-md](https://i.imgur.com/3szP9Xnl.png)](https://i.imgur.com/3szP9Xn.png)  
+[![control-fs8.png-uGL13v221BXWTMK-md](https://images.weserv.nl/?url=https://i.imgur.com/3szP9Xnl.png)](https://images.weserv.nl/?url=https://i.imgur.com/3szP9Xn.png)  
 Since premiere has sort of limited number of buttons under the video panes (and they are small for this purpose), good way to control things from far is to open built-in onscreen keyboard so that the
 
     J K L
@@ -89,7 +89,7 @@ ButtonSave:
 Return
 ```
 Gives  
-![Remote](https://i.imgur.com/FhGS1in.png)
+![Remote](https://images.weserv.nl/?url=https://i.imgur.com/FhGS1in.png)
 
 ## v2 adds buttons for 10 frames jump left and right
 

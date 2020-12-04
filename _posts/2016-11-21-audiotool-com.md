@@ -10,7 +10,7 @@ dubstep Loopbass
 dubstep drums
 [https://music.tutsplus.com/tutorials/dubstep-for-beginners-part-1-the-drums--audio-11974](https://music.tutsplus.com/tutorials/dubstep-for-beginners-part-1-the-drums--audio-11974)
 
-[![audiotool.th.png](//cdn.scrot.moe/images/2016/11/23/audiotool.th.png)](//cdn.scrot.moe/images/2016/11/23/audiotool.png)
+[![audiotool.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2016/11/23/audiotool.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2016/11/23/audiotool.png)
 
 And some "results"  
 [https://www.audiotool.com/track/espresso](https://www.audiotool.com/track/espresso)  

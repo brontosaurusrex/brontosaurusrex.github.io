@@ -8,4 +8,4 @@ tags:
 ---
 Source: [ESA](https://imagearchives.esac.esa.int/index.php?/category/62/start-64#top)
 
-[![kometTestHUD-fs8.png-mh9Z6uLzzIEBiM4-md](https://i.imgur.com/M1rHkMm.png)](https://i.imgur.com/M1rHkMm.png)
+[![kometTestHUD-fs8.png-mh9Z6uLzzIEBiM4-md](https://images.weserv.nl/?url=https://i.imgur.com/M1rHkMm.png)](https://images.weserv.nl/?url=https://i.imgur.com/M1rHkMm.png)

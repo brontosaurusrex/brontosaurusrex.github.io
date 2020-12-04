@@ -21,7 +21,7 @@ Get the [lsix script](https://github.com/hackerb9/lsix).
 
 > Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 
-[![lsix.png-eaI1fWed0zQVBDi-md](https://i.imgur.com/a6kMShx.png)](https://i.imgur.com/a6kMShx.png)
+[![lsix.png-eaI1fWed0zQVBDi-md](https://images.weserv.nl/?url=https://i.imgur.com/a6kMShx.png)](https://images.weserv.nl/?url=https://i.imgur.com/a6kMShx.png)
 
 Default urxvt can't and won't.
 

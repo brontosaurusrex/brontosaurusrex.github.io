@@ -27,6 +27,6 @@ On linux side, install pulseaudio, in shell type
 
     export PULSE_SERVER=tcp:127.0.0.1
 
-[![pulse.png-mUYMOF1gC64QbyD-md](https://i.imgur.com/rspkNo7l.png)](https://i.imgur.com/rspkNo7.png)  
+[![pulse.png-mUYMOF1gC64QbyD-md](https://images.weserv.nl/?url=https://i.imgur.com/rspkNo7l.png)](https://images.weserv.nl/?url=https://i.imgur.com/rspkNo7.png)  
 Left: Windows running pulseaudio, Right: Debian using my radioClicky script. Win.
 

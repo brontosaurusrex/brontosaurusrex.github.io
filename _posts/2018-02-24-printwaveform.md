@@ -25,4 +25,4 @@ Half of waveform, enable the head part
     # print waveform, enable tail for half of the waveform
     img2txt -g 2 -b 2 -y 15 -W "$tw" -H "$thfinal" -f utf8 -d none "$tmpimg" | head -$(( th / 2)
     
-[![scrot09777.png-bEbcvoKgxXS4ExA-md](https://i.imgur.com/EMg0BjRl.jpg)](https://i.imgur.com/EMg0BjR.jpg)
+[![scrot09777.png-bEbcvoKgxXS4ExA-md](https://images.weserv.nl/?url=https://i.imgur.com/EMg0BjRl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/EMg0BjR.jpg)

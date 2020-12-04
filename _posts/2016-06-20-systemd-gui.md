@@ -6,4 +6,4 @@ title: systemd gui
 ---
 [https://forums.bunsenlabs.org/viewtopic.php?id=2180](https://forums.bunsenlabs.org/viewtopic.php?id=2180)
 
-[![2016-06-19-105521_995x693_scrot.th.png](//cdn.scrot.moe/images/2016/06/19/2016-06-19-105521_995x693_scrot.th.png)](https://scrot.moe/image/tG8A)
+[![2016-06-19-105521_995x693_scrot.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2016/06/19/2016-06-19-105521_995x693_scrot.th.png)](https://scrot.moe/image/tG8A)

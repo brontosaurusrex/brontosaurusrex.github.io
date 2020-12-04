@@ -20,7 +20,7 @@ tags: blender
 ![](http://blog.selfshadow.com/images/s2015-shading/title.jpg)
 
 edit: Something in "These builds are for developer use only!": 
-[![disney27min.th.png](//cdn.scrot.moe/images/2017/01/04/disney27min.th.png)](//cdn.scrot.moe/images/2017/01/04/disney27min.png)
+[![disney27min.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/04/disney27min.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/04/disney27min.png)
 
 tl sss  
 tr dark metal  
@@ -30,9 +30,9 @@ br dielectric with some coating
 Note: After 27 minutes of rendering sss material is still noisy while metal and dielectrics are basically done after about 3 minutes.
 
 13 hours later and different hdri  
-[![13hoursLater.th.png](//cdn.scrot.moe/images/2017/01/05/13hoursLater.th.png)](//cdn.scrot.moe/images/2017/01/05/13hoursLater.png)
+[![13hoursLater.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/05/13hoursLater.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/05/13hoursLater.png)
 
-Note2: Disney node inputs seems to be very [substance painter friendly](//cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMetalLayout.png) (I like!).
+Note2: Disney node inputs seems to be very [substance painter friendly](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2016/09/11/asian_dragon_substanceMetalLayout.png) (I like!).
 
 Note3: There is no refractive shader/controler exposed (refraction only happens with transparency). < No big deal.
 

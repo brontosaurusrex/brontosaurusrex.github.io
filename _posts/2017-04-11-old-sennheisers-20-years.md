@@ -6,13 +6,13 @@ title: Old Sennheisers (>20 years)
 tags: audio luv
 ---
 ## sennheiser HD 25-1, 70ohm  
-[![oldSenn-2407.th.jpg](//cdn.scrot.moe/images/2017/04/11/oldSenn-2407.th.jpg)](//cdn.scrot.moe/images/2017/04/11/oldSenn-2407.jpg)
-[![oldSenn-2405.th.jpg](//cdn.scrot.moe/images/2017/04/11/oldSenn-2405.th.jpg)](//cdn.scrot.moe/images/2017/04/11/oldSenn-2405.jpg)
-[![oldSenn-2404.th.jpg](//cdn.scrot.moe/images/2017/04/11/oldSenn-2404.th.jpg)](//cdn.scrot.moe/images/2017/04/11/oldSenn-2404.jpg)
-[![oldSenn-2406-3.th.jpg](//cdn.scrot.moe/images/2017/04/11/oldSenn-2406-3.th.jpg)](//cdn.scrot.moe/images/2017/04/11/oldSenn-2406-3.jpg)
+[![oldSenn-2407.th.jpg](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/04/11/oldSenn-2407.th.jpg)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/04/11/oldSenn-2407.jpg)
+[![oldSenn-2405.th.jpg](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/04/11/oldSenn-2405.th.jpg)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/04/11/oldSenn-2405.jpg)
+[![oldSenn-2404.th.jpg](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/04/11/oldSenn-2404.th.jpg)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/04/11/oldSenn-2404.jpg)
+[![oldSenn-2406-3.th.jpg](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/04/11/oldSenn-2406-3.th.jpg)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/04/11/oldSenn-2406-3.jpg)
 
 applied  
-[![senn.th.png](//cdn.scrot.moe/images/2017/04/11/senn.th.png)](//cdn.scrot.moe/images/2017/04/11/senn.png)
+[![senn.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/04/11/senn.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/04/11/senn.png)
 
 ## History
 

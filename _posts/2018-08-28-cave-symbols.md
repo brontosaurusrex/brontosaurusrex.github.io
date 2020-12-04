@@ -6,4 +6,4 @@ title: Cave symbols
 ---
 [https://www.youtube.com/watch?v=hJnEQCMA5Sg](https://www.youtube.com/watch?v=hJnEQCMA5Sg)
 
-[![mpv-shot0006.jpg-GsxIvIAtOWFK3ji-th](https://i.imgur.com/rrcgbHmb.jpg)](https://i.imgur.com/rrcgbHm.jpg)
+[![mpv-shot0006.jpg-GsxIvIAtOWFK3ji-th](https://images.weserv.nl/?url=https://i.imgur.com/rrcgbHmb.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/rrcgbHm.jpg)

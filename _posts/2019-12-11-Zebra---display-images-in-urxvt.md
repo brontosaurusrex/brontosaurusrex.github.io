@@ -9,8 +9,8 @@ tags: mine bash
 
 Needs: 'w3m-img' (w3mimgdisplay) and supported terminal like xterm or urxvt. And probably more.
 
-[![zebra.png-jusqyA0HtN2GYXj-md](https://i.imgur.com/pBen3tDl.jpg)](https://i.imgur.com/pBen3tD.jpg)
-[![zebraIsFast.png-VU3a8uK1hGJ7PrB-md](https://i.imgur.com/RQGHoE2.png)](https://i.imgur.com/qFlhH6N.jpg)
+[![zebra.png-jusqyA0HtN2GYXj-md](https://images.weserv.nl/?url=https://i.imgur.com/pBen3tDl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/pBen3tD.jpg)
+[![zebraIsFast.png-VU3a8uK1hGJ7PrB-md](https://images.weserv.nl/?url=https://i.imgur.com/RQGHoE2.png)](https://images.weserv.nl/?url=https://i.imgur.com/qFlhH6N.jpg)
 
 ## Todo:
 
@@ -41,4 +41,4 @@ Zebra is based around the code found [here](https://blog.z3bra.org/2014/01/image
 
 [https://github.com/seebye/ueberzug](https://github.com/seebye/ueberzug), fzfimg.sh is especially interesting.
 
-[![2019-12-21-122259_3840x1200_scrot.png-dkQedP2DyeYrq3M-md](https://i.imgur.com/BmKbxDOl.jpg)](https://i.imgur.com/BmKbxDO.jpg)
+[![2019-12-21-122259_3840x1200_scrot.png-dkQedP2DyeYrq3M-md](https://images.weserv.nl/?url=https://i.imgur.com/BmKbxDOl.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/BmKbxDO.jpg)
