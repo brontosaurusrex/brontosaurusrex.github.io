@@ -1,0 +1,58 @@
+<!--
+  - Full screen clock (24-hour)
+  - Copyright (c) 2020 Project Nayuki
+  - 
+  - https://www.nayuki.io/page/full-screen-clock-javascript
+  -->
+<!DOCTYPE html>
+<html style="height:80%; margin:0; padding:0">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <title>Clock</title>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap" rel="stylesheet">
+        <style type="text/css">
+
+			/* Customizable font and colors */
+			html {
+				background: #000000;
+                font-family: 'Cormorant Garamond', serif;
+				/* font-weight: bold; */
+				color: #FFFFFF;
+			}
+		</style>
+	</head>
+	
+	<body style="display:flex; height:80%; margin:0; padding:0; justify-content:center; align-items:top">
+		<span id="clocktext" style="font-kerning:none"></span>
+		
+		<script>
+			"use strict";
+			
+			var textElem = document.getElementById("clocktext");
+			var targetWidth = 0.7;  // Proportion of full screen width
+			var curFontSize = 20;  // Do not change
+			
+			function updateClock() {
+				var d = new Date();
+				var s = "";
+				s += (10 > d.getHours  () ? "0" : "") + d.getHours  () + "";
+				s += (10 > d.getMinutes() ? "0" : "") + d.getMinutes();
+				 textElem.textContent = s;
+                //listElement.innerHTML = s;
+				setTimeout(updateClock, 60000 - d.getTime() % 60000 + 100);
+			}
+			
+			function updateTextSize() {
+				for (var i = 0; 3 > i; i++) {  // Iterate for better better convergence
+					curFontSize *= targetWidth / (textElem.offsetWidth / textElem.parentNode.offsetWidth);
+					textElem.style.fontSize = curFontSize + "pt";
+				}
+			}
+			
+			updateClock();
+			updateTextSize();
+			window.addEventListener("resize", updateTextSize);
+		</script>
+	</body>
+</html>
