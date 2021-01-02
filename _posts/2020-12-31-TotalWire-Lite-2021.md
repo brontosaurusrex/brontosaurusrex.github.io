@@ -24,6 +24,8 @@ Yes
     command: cmd /k
     parameters: robocopy "%P\." "%T\." /E /xd Adobe*Premiere*pro
 
+also just \ should be enough, without a dot.
+
 ### powershell -NoExit -Command
 
 Yes
