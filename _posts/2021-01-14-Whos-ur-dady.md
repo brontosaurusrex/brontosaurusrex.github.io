@@ -11,3 +11,6 @@ tags: misc mine luv
 Another good one  
 <a href="https://www.chess.com/analysis/game/live/6239656796?tab=report">
 <img src="/media/board.gif" style="width: 640px; height: 640px; object-fit: cover;"></a>
+
+Another lost and found  
+[https://lichess.org/embed/5XT4XTle](https://lichess.org/embed/5XT4XTle)
