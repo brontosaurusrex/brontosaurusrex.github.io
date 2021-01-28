@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2021-01-28 11:31'
-title: MPV, L loops playlist
+title: MPV, let L loop playlist
 tags: video mine 
 ---
 In the file input.conf
