@@ -6,4 +6,10 @@ title: Rewritten in Rust
 tags: cli bash linux 
 ---
 [https://zaiste.net/posts/shell-commands-rust/](https://zaiste.net/posts/shell-commands-rust/)  
-![](https://user-images.githubusercontent.com/200613/90223573-9b9eb780-de0e-11ea-94e3-908957fe5a4e.png)
+
+grex
+
+    grex -d 00:12:23:12
+    ^\d\d:\d\d:\d\d:\d\d$
+
+> grex is a library as well as a command-line utility that is meant to simplify the often complicated and tedious task of creating regular expressions
