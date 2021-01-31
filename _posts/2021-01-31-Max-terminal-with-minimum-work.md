@@ -87,6 +87,11 @@ and
 
     apt install mediainfo htop rename tty-clock fd-find
 
+### remove bg colors in ls
+
+    # remove background colors
+    LS_COLORS=$LS_COLORS:'tw=00;33:ow=01;34:'; export LS_COLOR
+
 # min .vimrc
 
     cd && wget https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.vimrc
