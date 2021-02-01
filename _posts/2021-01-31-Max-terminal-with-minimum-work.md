@@ -77,7 +77,6 @@ and
     alias mi='mediainfo'
     alias htop='htop -C'
     alias search='apt-cache search'
-    alias cpu='ps -eo fname --sort pcpu | uniq | tail | tac'
     alias space2u="rename 's/ /_/g'"
     alias dice='echo $(( RANDOM % 6 + 1 ))'
     alias clock="tty-clock -C 4 -c -f ''"
