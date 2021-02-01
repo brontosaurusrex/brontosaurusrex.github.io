@@ -11,6 +11,8 @@ tags: mine misc linux cli
 
 Restart terminal, select option 2 after relauch, this gives you nice autocompletion already out of the zsh box.
 
+✨ Achievement unlocked: autocompletion, power of raw zsh: repeat 5 echo "woot"
+
 ## autosuggestions
 
     git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
@@ -20,6 +22,8 @@ Add this lines to .zshrc
     # autosuggestions
     # https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#manual-git-clone
     source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+✨ Achievement unlocked: autosuggestion magic.
 
 # starship prompt
 
@@ -39,6 +43,8 @@ and paste
 
     [cmd_duration]
     min_time = 10000
+
+✨ Achievement unlocked: Cute prompt for which you wasted very little time and can be used with bash as well.
    
 # Other stuff in .zshrc
 
@@ -48,6 +54,8 @@ and paste
     if [ -d "$HOME/bin" ] ; then
         PATH="$HOME/bin:$PATH"
     fi
+
+✨ Achievement unlocked: Your scripts in ~/bin will become alive.
 
 ### fzf (very optional)
 
@@ -60,6 +68,8 @@ and paste
 and
 
     apt install fzf
+
+✨ Achievement unlocked: EyeCandy with ctrl+R and ctrl+T.
 
 ### Include .bash_aliases 
 
@@ -86,12 +96,18 @@ and
 
     apt install mediainfo htop rename tty-clock fd-find
 
+✨ Achievement unlocked: bash_aliases can be used in bash as well without any changes if needed.
+
 ### remove bg colors in ls
 
     # remove background colors
     LS_COLORS=$LS_COLORS:'tw=00;33:ow=01;34:'; export LS_COLOR
 
+✨ Achievement unlocked: Readbility will perhaps improve.
+
 # min .vimrc
 
     cd && wget https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.vimrc
+
+✨ Achievement unlocked: If you vim, then you know what this is.
    
