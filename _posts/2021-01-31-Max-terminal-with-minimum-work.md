@@ -103,7 +103,7 @@ and
     # remove background colors
     LS_COLORS=$LS_COLORS:'tw=00;33:ow=01;34:'; export LS_COLOR
 
-✨ Achievement unlocked: Readbility will perhaps improve.
+✨ Achievement unlocked: ls readability improved.
 
 # min .vimrc
 
