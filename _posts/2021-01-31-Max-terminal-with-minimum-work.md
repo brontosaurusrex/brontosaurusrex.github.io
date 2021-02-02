@@ -8,6 +8,7 @@ tags: mine misc linux cli
 # zsh
 
     sudo apt install zsh
+    chsh -s $(which zsh) # make it default
 
 Restart terminal, select option 2 after relauch, this gives you nice autocompletion already out of the zsh box.
 
@@ -45,6 +46,11 @@ and paste
     min_time = 10000
 
 ✨ Achievement unlocked: Cute prompt for which you wasted very little time and can be used with bash as well.
+
+🙄 In urxvt a lot of special symbols will not display, some creative solutions might be needed, for example to replace lock with some read-only ascii
+
+    [directory]
+    read_only = " read-only"
    
 # Other stuff in .zshrc
 
