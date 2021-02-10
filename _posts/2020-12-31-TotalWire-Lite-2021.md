@@ -26,6 +26,10 @@ Yes
 
 also just \ should be enough, without a dot.
 
+Robocopy can also ignore files using /xf
+
+    robocopy "%P\" "%T\" /E /xd Adobe*Premiere*Pro* /xf *.blend1
+
 ### powershell -NoExit -Command
 
 Yes
