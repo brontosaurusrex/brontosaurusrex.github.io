@@ -21,4 +21,6 @@ Do some magic on the lighttpd.conf, mainly this at the bottom
       ssl.pemfile = "/etc/letsencrypt/live/my.sub.domain/fullchain.pem"
     }
 
+## Cron renew job seems to be automagically created on Debian
 
+    cat /etc/cron.d/certbot
