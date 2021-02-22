@@ -15,7 +15,5 @@ tags: misc luv
 [![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/4DQ1wq0.png)](https://images.weserv.nl/?url=https://i.imgur.com/18XLUtd.jpg)
 [![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/GEQH1Rq.png)](https://images.weserv.nl/?url=https://i.imgur.com/anA17Ju.jpg)
 [![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/c1ivwGb.png)](https://images.weserv.nl/?url=https://i.imgur.com/FOG9kGm.jpg)
-[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/CRpQiy7.png)](https://images.weserv.nl/?url=https://i.imgur.com/W9R4Zkh.jpg)
 [![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/Vkc4lVE.png)](https://images.weserv.nl/?url=https://i.imgur.com/nMp6EpB.jpg)
 [![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/fxo39QD.png)](https://images.weserv.nl/?url=https://i.imgur.com/nDhOz5B.jpg)
-[![image-nohash-th](https://images.weserv.nl/?url=https://i.imgur.com/eKyj0oP.png)](https://images.weserv.nl/?url=https://i.imgur.com/88HYDeY.jpg)
