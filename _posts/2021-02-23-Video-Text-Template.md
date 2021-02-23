@@ -6,7 +6,7 @@ title: Video Text Html Template
 tags: video mine 
 ---
 <iframe src="/videoTextTemplate.htm" title="video text template" width="760" height="428" style="border:0;"></iframe>
-[Link](/videoTextTemplate.htm).
+[Template1](/videoTextTemplate.htm) | [Template2](/videoTextTemplate2.htm)
 
 Screenshot example
 
