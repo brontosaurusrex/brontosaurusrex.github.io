@@ -8,4 +8,7 @@ tags: video mine
 <iframe src="/videoTextTemplate.htm" title="video text template" width="760" height="428" style="border:0;"></iframe>
 [Link](/videoTextTemplate.htm).
 
-How to screeshot with alpha? :/
+Screenshot example
+
+    $HOME/apps/firefox/firefox --screenshot --window-size=1920,1080 /mnt/d/tmp/videoTextTemplate.png "file:///mnt/d/tmp/videoTextTemplate.htm"
+
