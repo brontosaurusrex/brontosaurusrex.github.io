@@ -7,4 +7,5 @@ tags: mine blender
 ---
 [![image-nohash-md](https://images.weserv.nl/?url=https://i.imgur.com/PMV4oOO.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/LhoaFuj.png)  
 Cycles, some world volumetrics  
-[![image-nohash-md](https://images.weserv.nl/?url=https://i.imgur.com/cenbwHH.png)](https://images.weserv.nl/?url=https://i.imgur.com/HaVBw6Q.png)
+[![image-nohash-md](https://images.weserv.nl/?url=https://i.imgur.com/cenbwHH.png)](https://images.weserv.nl/?url=https://i.imgur.com/HaVBw6Q.png)  
+[![image-nohash-md](https://images.weserv.nl/?url=https://i.imgur.com/WxDAin0.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/RizPClE.png)
