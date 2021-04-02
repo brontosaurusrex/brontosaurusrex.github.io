@@ -9,7 +9,7 @@ plugins: 		[jekyll-sitemap, jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            "I know kung fu."
+title:            "Perhaps we are asking the wrong questions…"
 tagline:          ""
 description:      'brontosaurusrex.github.io'
 url:              http://brontosaurusrex.github.io
