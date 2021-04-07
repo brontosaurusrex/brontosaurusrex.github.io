@@ -5,7 +5,6 @@ title: stretchbang
 published: true
 ---
 <a href="#toc" id="markdown-toc-toc"><img src="{{site.baseurl}}/media/stretchBangLogo.png" style="max-width:1032px; position:relative; left:50%; transform:translate(-50%, 0%); margin-top: -100px; margin-bottom: -110px"></a>
-[![stretchbang.md.png](https://cdn.scrot.moe/images/2017/11/10/stretchbang.png)](https://cdn.scrot.moe/images/2017/11/10/stretchbang.png)
 
 # Severely out of date
 

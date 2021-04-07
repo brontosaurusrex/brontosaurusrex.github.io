@@ -1,7 +1,7 @@
 ---
 layout: page
 title: camera
-published: true
+published: false
 ---
 
 ## The table

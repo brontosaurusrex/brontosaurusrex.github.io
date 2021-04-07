@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Camera Obscura
-published: true
+published: false
 ---
 
 ## Temna soba, (Latinsko Camera Obscura)
