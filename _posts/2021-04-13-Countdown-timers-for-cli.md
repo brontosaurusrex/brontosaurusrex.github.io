@@ -14,5 +14,5 @@ tags: linux cli bash mine luv
     git clone # repo
     go build
 
-[Zsh one, mine, using perc2 script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/countPerc), not very correct, low cpu usage, neat progress bar.
+[Zsh, mine, using perc2 script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/countPerc), not very correct, low/medium cpu usage, neat progress bar.
 
