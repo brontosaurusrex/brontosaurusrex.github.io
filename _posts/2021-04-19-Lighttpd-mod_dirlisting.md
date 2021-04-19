@@ -5,7 +5,7 @@ date: '2021-04-19 11:26'
 title: Lighttpd mod_dirlisting
 tags: web 
 ---
-Sort by date in revere order
+Sort by date in reverse order
 
     ?C=M&O=A
     # example: https://yourhost/fodler/?C=M&O=A
