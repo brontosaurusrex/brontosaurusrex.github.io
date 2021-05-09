@@ -28,6 +28,8 @@ Add this lines to .zshrc
 
 # starship prompt
 
+<div style="background-color:#440000; border-radius: 4px; margin-bottom: 20px; padding: 10px;"><small>Note: Certain terminals like urxvt have problems displaying double-width unicode symbols that starhip uses, good alternative is <a href="https://ohmyz.sh/">oh-my-zsh</a> default prompt</small></div>
+
 a. Configure terminal to use some of the [nerd font](https://www.nerdfonts.com/font-downloads), I like 'FantasqueSansMono Nerd Font'.
 
 b. Follow [the curl](https://starship.rs/guide/#%F0%9F%9A%80-installation) and add the lines to .zshrc again
