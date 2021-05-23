@@ -22,13 +22,13 @@ Notes: [https://cloud.ibm.com/apidocs/text-to-speech](https://cloud.ibm.com/apid
 
 ### List voices
 
-    curl -u "apikey:yourapikey" "https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/{provided number here}/v1/voices"
+    curl -u "apikey:{yourapikey}" "https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/{provided number here}/v1/voices"
 
 ### Synthesize
 
 Store to file
 
-    curl -X POST -u "apikey:yourapikey" --header "Content-Type: application/json" --header "Accept: audio/ogg;codecs=opus" --data-binary "@test.txt" --output test4.opus "https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/{provided number here}/v1/synthesize?voice=en-US_AllisonVoice"
+    curl -X POST -u "apikey:{yourapikey}" --header "Content-Type: application/json" --header "Accept: audio/ogg;codecs=opus" --data-binary "@test.txt" --output test4.opus "https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/{provided number here}/v1/synthesize?voice=en-US_AllisonVoice"
 
 where test.txt is valid json
 
@@ -38,4 +38,4 @@ where test.txt is valid json
 
 Or pipe directly to player
 
-    curl -X POST -u "apikey:yourapikey" --header "Content-Type: application/json" --header "Accept: audio/ogg;codecs=opus" --data-binary "@test.txt" "https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/{provided number here}/v1/synthesize?voice=en-US_AllisonVoice" | mpv -
+    curl -X POST -u "apikey:{yourapikey}" --header "Content-Type: application/json" --header "Accept: audio/ogg;codecs=opus" --data-binary "@test.txt" "https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/{provided number here}/v1/synthesize?voice=en-US_AllisonVoice" | mpv -
