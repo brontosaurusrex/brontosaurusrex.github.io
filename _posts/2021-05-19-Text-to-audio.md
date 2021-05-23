@@ -2,9 +2,10 @@
 published: true
 layout: post
 date: '2021-05-19 14:03'
-title: Text to audio
+title: Text to speech
 tags: audio 
 ---
+## Flite and android are free
 
     flite -voice slt -t "Chuck Norris does not sleep. He waits." -o /dev/stdout | opusenc - - > chuck.opus
 
@@ -12,3 +13,29 @@ tags: audio
 [Youread script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/youread).
 
 Note: Much better text to speech syntesis could be done with [commercial google cloud account](https://cloud.google.com/text-to-speech/docs/quickstart-protocol), _using an API powered by Google’s AI technologies. Built based on DeepMind’s speech synthesis expertise, the API delivers voices that are near human quality._
+
+## IBM Watson Text to Speech
+
+Demo [https://www.ibm.com/demos/live/tts-demo/self-service/home](https://www.ibm.com/demos/live/tts-demo/self-service/home)
+
+Notes: [https://cloud.ibm.com/apidocs/text-to-speech](https://cloud.ibm.com/apidocs/text-to-speech)
+
+### List voices
+
+    curl -u "apikey:yourapikey" "https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/{provided number here}/v1/voices"
+
+### Synthesize
+
+Store to file
+
+    curl -X POST -u "apikey:yourapikey" --header "Content-Type: application/json" --header "Accept: audio/ogg;codecs=opus" --data-binary "@test.txt" --output test4.opus "https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/{provided number here}/v1/synthesize?voice=en-US_AllisonVoice"
+
+where test.txt is valid json
+
+    {
+    "text": "They had now reached the airlock - a large circular steel hatchway of massive strength and weight let into the inner skin of the craft. The guard operated a control and the hatchway swung smoothly open.  But thanks for taking an interest, said the Vogon guard. Bye now. He flung Ford and Arthur through the hatchway into the small chamber within. Arthur lay panting for breath. Ford scrambled round and flung his shoulder uselessly against the reclosing hatchway.  But listen, he shouted to the guard, there's a whole world you don't know anything about... here how about this? Desperately he grabbed for the only bit of culture he knew offhand - he hummed the first bar of Beethoven's Fifth."
+    }
+
+Or pipe directly to player
+
+    curl -X POST -u "apikey:yourapikey" --header "Content-Type: application/json" --header "Accept: audio/ogg;codecs=opus" --data-binary "@test.txt" "https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/{provided number here}/v1/synthesize?voice=en-US_AllisonVoice" | mpv -
