@@ -14,7 +14,7 @@ tags: audio
 
 Note: Much better text to speech syntesis could be done with [commercial google cloud account](https://cloud.google.com/text-to-speech/docs/quickstart-protocol), _using an API powered by Google’s AI technologies. Built based on DeepMind’s speech synthesis expertise, the API delivers voices that are near human quality._
 
-## IBM Watson Text to Speech
+## Cloudy IBM Watson Text to Speech
 
 Demo [https://www.ibm.com/demos/live/tts-demo/self-service/home](https://www.ibm.com/demos/live/tts-demo/self-service/home)
 
@@ -39,3 +39,12 @@ where test.txt is valid json
 Or pipe directly to player
 
     curl -X POST -u "apikey:{yourapikey}" --header "Content-Type: application/json" --header "Accept: audio/ogg;codecs=opus" --data-binary "@test.txt" "https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/{provided number here}/v1/synthesize?voice=en-US_AllisonVoice" | mpv -
+
+### Text to Json?
+
+[https://forums.bunsenlabs.org/viewtopic.php?id=7609](https://forums.bunsenlabs.org/viewtopic.php?id=7609)
+
+twoion:
+
+    jq -c -n --arg input 'This is arbitrary text input' '{ text: $input }'
+    jq -c -n --arg input "$(<anything.txt)" '{ text: $input }'
