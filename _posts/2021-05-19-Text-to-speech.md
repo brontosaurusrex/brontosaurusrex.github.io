@@ -63,6 +63,12 @@ This command is limited to 3000 chars, for the longer synth one is supposed to u
 
 [https://docs.aws.amazon.com/polly/latest/dg/get-started-cli-exercise.html](https://docs.aws.amazon.com/polly/latest/dg/get-started-cli-exercise.html)
 
+Output format can be
+
+    mp3 | ogg_vorbis | pcm
+
+[https://docs.aws.amazon.com/polly/latest/dg/API_SynthesizeSpeech.html](https://docs.aws.amazon.com/polly/latest/dg/API_SynthesizeSpeech.html)
+
 ### List of voices (returns json)
 
     aws polly describe-voices --language-code en-GB
