@@ -73,3 +73,9 @@ Output format can be
 
     aws polly describe-voices --language-code en-GB
     aws polly describe-voices --language-code en-US
+
+Neural voices are available in regions: 
+
+    us-east-1, us-west-2, eu-central-1, eu-west-1, eu-west-2  
+
+According to [https://docs.aws.amazon.com/polly/latest/dg/polly-dg.pdf](https://docs.aws.amazon.com/polly/latest/dg/polly-dg.pdf)
