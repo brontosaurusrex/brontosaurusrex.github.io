@@ -59,7 +59,7 @@ After a lot of clicking (and giving them your visa card number), installing aws 
         --text 'Hello, my name is Joanna. I learned about the W3C on 10/3 of last year.' \
         hello.mp3
 
-This command is limited to 3000 chars, for the longer synth one is supposed to use StartSpeechSynthesisTask and S3 buckets for storage (I don't care).
+They say text is limited to 3000 chars, for the longer synth one is supposed to use StartSpeechSynthesisTask and S3 buckets for storage (I don't care).
 
 [https://docs.aws.amazon.com/polly/latest/dg/get-started-cli-exercise.html](https://docs.aws.amazon.com/polly/latest/dg/get-started-cli-exercise.html)
 
