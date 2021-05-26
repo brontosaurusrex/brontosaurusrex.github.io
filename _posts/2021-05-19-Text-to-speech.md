@@ -62,3 +62,8 @@ After a lot of clicking (and giving them your visa card number), installing aws 
 This command is limited to 3000 chars, for the longer synth one is supposed to use StartSpeechSynthesisTask and S3 buckets for storage (I don't care).
 
 [https://docs.aws.amazon.com/polly/latest/dg/get-started-cli-exercise.html](https://docs.aws.amazon.com/polly/latest/dg/get-started-cli-exercise.html)
+
+### List of voices (returns json)
+
+    aws polly describe-voices --language-code en-GB
+    aws polly describe-voices --language-code en-US
