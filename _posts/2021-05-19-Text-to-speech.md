@@ -59,15 +59,25 @@ After a lot of clicking (and giving them your visa card number), installing aws 
         --text 'Hello, my name is Joanna. I learned about the W3C on 10/3 of last year.' \
         hello.mp3
 
-They say text is limited to 3000 chars, for the longer synth one is supposed to use StartSpeechSynthesisTask and S3 buckets for storage (I don't care).
-
+They say text is limited to 3000 chars, for the longer synth one is supposed to use StartSpeechSynthesisTask and S3 buckets for storage (I don't care).  
 [https://docs.aws.amazon.com/polly/latest/dg/get-started-cli-exercise.html](https://docs.aws.amazon.com/polly/latest/dg/get-started-cli-exercise.html)
+
+( The usual stdout - pipe is not working, but the named pipes should  
+[https://www.linuxjournal.com/content/using-named-pipes-fifos-bash](https://www.linuxjournal.com/content/using-named-pipes-fifos-bash) )
 
 Output format can be
 
     mp3 | ogg_vorbis | pcm
 
 [https://docs.aws.amazon.com/polly/latest/dg/API_SynthesizeSpeech.html](https://docs.aws.amazon.com/polly/latest/dg/API_SynthesizeSpeech.html)
+
+Ogg_vorbis is working fine.
+
+    mkfifo /tmp/testpipe
+    aws polly synthesize-speech \
+        --output-format ogg_vorbis \
+        --voice-id Joanna \
+        --text "$(cat tmp.txt)" /tmp/testpipe | mpv /tmp/testpipe
 
 ### List of voices (returns json)
 
