@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2021-05-19 14:03'
+date: '2021-05-26 8:00'
 title: Text to speech
 tags: audio 
 ---
@@ -48,3 +48,17 @@ twoion:
 
     jq -c -n --arg input 'This is arbitrary text input' '{ text: $input }'
     jq -c -n --arg input "$(<anything.txt)" '{ text: $input }'
+
+## Cloudy Amazon AWS polly
+
+After a lot of clicking (and giving them your visa card number), installing aws cli tools and running 'aws configure' and putting in secret keys and ...
+
+    aws polly synthesize-speech \
+        --output-format mp3 \
+        --voice-id Joanna \
+        --text 'Hello, my name is Joanna. I learned about the W3C on 10/3 of last year.' \
+        hello.mp3
+
+This command is limited to 3000 chars, for the longer synth one is supposed to use StartSpeechSynthesisTask and S3 buckets for storage (I don't care).
+
+[https://docs.aws.amazon.com/polly/latest/dg/get-started-cli-exercise.html](https://docs.aws.amazon.com/polly/latest/dg/get-started-cli-exercise.html)
