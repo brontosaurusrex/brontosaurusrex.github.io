@@ -111,9 +111,25 @@ Absosmurfly essential reading, wish I found this before.
 
 > The remarkable feature of simple programs is that a significant percentage of them are capable of producing great complexity. Simply enumerating all possible variations of almost any class of programs quickly leads one to examples that do unexpected and interesting things. This leads to the question: if the program is so simple, where does the complexity come from? In a sense, there is not enough room in the program's definition to directly encode all the things the program can do. Therefore, simple programs can be seen as a minimal example of emergence.
 
-[Today](https://www.youtube.com/watch?v=-t1_ffaFXaoa)
+[Video](https://www.youtube.com/watch?v=-t1_ffaFXaoa)
 
-# Beginning Ruby: From Novice to Professional
+## Beginning Ruby: From Novice to Professional
 
     5.times { print "woot " } 
     woot woot woot woot woot => 5
+
+## To Sleep in a Sea of Stars (Christopher Paolini - 2020)
+
+> With subsequent attempts, the xeno grew more
+> receptive, and she was able to get the same
+> result with a sense of focused concern—easy
+> to produce given the circumstances. While the
+> mask was in place, Kira lay for a while, staring
+> at the EM fields around her: the giant, hazy
+> loops emanating from the Valkyrie ’s fusion
+> drive and the generator it fed. The smaller,
+> brighter loops clustered around the interior of
+> the shuttle and stitched one segment of paneling
+> to another with tiny threads of energy.
+
+A long book, quasi sci-fi, I made the cloud read it to me out loud (AWS polly).
