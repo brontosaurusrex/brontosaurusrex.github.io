@@ -19,6 +19,7 @@ _Cons_
 _Pros_  
 - No aparent banding visible, possibly due to input being 10bit. 
 - Plays fine with mpv. 
+- Plays fine with firefox (not gpu accelerated).
 - The promise of 10 bit playback in browser.
 
 _Hardware used_ 
