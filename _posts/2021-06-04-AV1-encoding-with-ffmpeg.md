@@ -12,12 +12,12 @@ Using a [static build](https://johnvansickle.com/ffmpeg/) of ffmpeg, OS=Debian, 
 Encodes @ 2.7 fps. Cpu-used 8 is the fastest encoding speed. 
 
 _Cons_  
-- The out.mp4 looks very artifical, no noise retained. 
+- The out.mp4 looks very artificial, no noise retained. 
 - Jerky playback in chrome, according to chrome://media-internals/, player used is kPlay.
-- Extremly slow encoding speed, even with the fastest setting.
+- Extremely slow encoding speed, even with the fastest setting.
 
 _Pros_  
-- No aparent banding visible, possibly due to input being 10bit. 
+- No apparent banding visible, possibly due to input being 10bit. 
 - Plays fine with mpv. 
 - Plays fine with firefox (not gpu accelerated).
 - The promise of 10 bit playback in browser.
