@@ -5,6 +5,8 @@ date: '2021-06-04 18:30'
 title: AV1 encoding with ffmpeg
 tags: video 
 ---
+## one
+
 Using a [static build](https://johnvansickle.com/ffmpeg/) of ffmpeg, OS=Debian, running in wsl1.
 
     ffmpegStatic -i input.mov -c:v libaom-av1 -cpu-used 8 -row-mt true -threads 0 -crf 24 -tile-columns 1 -tile-rows 0 out.mp4
@@ -28,3 +30,13 @@ _Hardware used_
                 6 Core(s), 12 Logical Processor(s)
     GPU         NVIDIA GeForce RTX 2060
 
+## two, the noise?
+
+Parameter
+
+    -denoise-noise-level 50
+
+gives bunch of errors
+
+    aom_wiener_denoise_2d doesn't handle different chroma subsampling
+    Unable to denoise image
