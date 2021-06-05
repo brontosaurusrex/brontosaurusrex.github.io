@@ -55,4 +55,4 @@ Forcing format to
 
 seems to run the encode, but that is not the desired final format. The final encode looks visually great (all the grain and noise one would need).
 
-420 encode plays fine in chrome and firefox, 444 is jerky in both.
+420 (8 bit) encode plays fine in chrome and firefox, 444 (10 bit) is jerky in both.
