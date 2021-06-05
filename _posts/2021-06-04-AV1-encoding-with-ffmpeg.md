@@ -48,11 +48,12 @@ From [https://www.cambridge.org/...overview-of-coding-tools-in-av1.pdf](https://
 > Film grain synthesis
 > the grain is removed from the content before compression, its parameters are estimated and sent in the AV1 bitstream. The decoder synthesizes the grain based on the received parameters and adds it to the reconstructed video
 
-Forcing format to
+Forcing format to either (fast to slow encoding)
 
-    -pix_fmt yuv420p # or
+    -pix_fmt yuv420p
+    -pix_fmt yuv420p10le 
     -pix_fmt yuv444p10le
 
-seems to run the encode, but that is not the desired final format. The final encode looks visually great (all the grain and noise one would need).
+seems to run the encode, but that is not the desired final format. The final encodes looks visually great (all the grain and noise one would need).
 
-420 (8 bit) encode plays fine in chrome and firefox, 444 (10 bit) is jerky in both.
+420 (8 bit) encode plays fine in chrome and firefox, 444 (10 bit) is jerky in both. 420 (10 bit) plays fine in FF, jerky in chrome.
