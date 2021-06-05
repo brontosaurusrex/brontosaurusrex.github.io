@@ -41,12 +41,17 @@ gives bunch of errors
     aom_wiener_denoise_2d doesn't handle different chroma subsampling
     Unable to denoise image
 
+> Grain synthesis is disabled if this option is not set or set to 0.
+Range seems to be 1-50.
+
 From [https://www.cambridge.org/...overview-of-coding-tools-in-av1.pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5972E00494363BE37E3439FAE382DB10/S2048770320000025a.pdf/div-class-title-an-overview-of-coding-tools-in-av1-the-first-video-codec-from-the-alliance-for-open-media-div.pdf)  
 > Film grain synthesis
 > the grain is removed from the content before compression, its parameters are estimated and sent in the AV1 bitstream. The decoder synthesizes the grain based on the received parameters and adds it to the reconstructed video
 
 Forcing format to
 
-    -pix_fmt yuv420p
+    -pix_fmt yuv420p # or
+    -pix_fmt yuv444p10le
 
 seems to run the encode, but that is not the desired final format. The final encode looks visually great (all the grain and noise one would need).
+
