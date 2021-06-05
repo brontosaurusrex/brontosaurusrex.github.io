@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2021-06-04 18:30'
+date: '2021-06-05 19:00'
 title: AV1 encoding with ffmpeg
 tags: video 
 ---
@@ -30,7 +30,7 @@ _Hardware used_
                 6 Core(s), 12 Logical Processor(s)
     GPU         NVIDIA GeForce RTX 2060
 
-## two, the noise?
+## two, the noise, the grain?
 
 Parameter
 
@@ -40,3 +40,13 @@ gives bunch of errors
 
     aom_wiener_denoise_2d doesn't handle different chroma subsampling
     Unable to denoise image
+
+From [https://www.cambridge.org/...overview-of-coding-tools-in-av1.pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5972E00494363BE37E3439FAE382DB10/S2048770320000025a.pdf/div-class-title-an-overview-of-coding-tools-in-av1-the-first-video-codec-from-the-alliance-for-open-media-div.pdf)  
+> Film grain synthesis
+> the grain is removed from the content before compression, its parameters are estimated and sent in the AV1 bitstream. The decoder synthesizes the grain based on the received parameters and adds it to the reconstructed video
+
+Forcing format to
+
+    -pix_fmt yuv420p
+
+seems to run the encode, but that is not the desired final format.
