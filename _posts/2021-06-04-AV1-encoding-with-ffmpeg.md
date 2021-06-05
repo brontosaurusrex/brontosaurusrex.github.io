@@ -49,4 +49,4 @@ Forcing format to
 
     -pix_fmt yuv420p
 
-seems to run the encode, but that is not the desired final format.
+seems to run the encode, but that is not the desired final format. The final encode looks visually great.
