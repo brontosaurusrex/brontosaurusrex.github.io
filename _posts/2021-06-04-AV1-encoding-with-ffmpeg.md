@@ -57,3 +57,9 @@ Forcing format to either (fast to slow encoding)
 seems to run the encode, but that is not the desired final format. The final encodes looks visually great (all the grain and noise one would need).
 
 420 (8 bit) encode plays fine in chrome and firefox, 444 (10 bit) is jerky in both. 420 (10 bit) plays fine in FF, jerky in chrome.
+
+Example cli (That gives nice looking output)
+
+    ffmpegStatic -i input.mov -pix_fmt yuv420p -c:v libaom-av1 -cpu-used 8 -denoise-noise-level 50 -row-mt true -threads 0 -crf 24 -tile-columns 1 -tile-rows 0 out_denoise5o_420_8bit.mp4
+
+Lowering denoise level will increase bitrate and reduce film synth (imho lowering subjective quality).
