@@ -106,3 +106,9 @@ Very nice output. Noisegen probably worse than that of libaom, edge detection pr
 Remuxing ivf to mp4 should be a simple ffmpeg command
 
     ffmepg -i in.ivf -c:v copy out.mp4
+
+_[Magic grain procedure](https://github.com/AOMediaCodec/SVT-AV1/blob/master/Docs/Appendix-Film-Grain-Synthesis.md)_  
+
+> The film grain synthesis algorithm involves two key steps. In the first step, the input pictures are denoised and the resulting denoised version of the input pictures are used in the encoding process. In the second step, a model of the film grain in the source picture is estimated at the encoder side, and the noise model parameters are included in the bit stream for the decoder to reproduce the noise and add it in the reconstructed pictures.
+
+![grain!](https://raw.githubusercontent.com/AOMediaCodec/SVT-AV1/master/Docs/img/film_grain_fig1.png)
