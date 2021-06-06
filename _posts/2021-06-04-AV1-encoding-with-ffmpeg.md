@@ -70,7 +70,7 @@ Lowering denoise level will increase bitrate and reduce film synth (imho lowerin
 _Notes_  
 The potential is there, slightly annoyed by the fact that the user has to be aware of the magic `-denoise-noise-level` thing, which doesn't make much sense grammatically either.
 
-## Research
+## Experiment tres, what is netflix doing?
 
 The one used by netflix is called [SVT-AV1](https://github.com/AOMediaCodec/SVT-AV1). After building it, first try
 
