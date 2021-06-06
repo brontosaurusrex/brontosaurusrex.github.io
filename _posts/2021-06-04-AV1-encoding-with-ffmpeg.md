@@ -5,7 +5,7 @@ date: '2021-06-05 19:00'
 title: AV1 encoding with ffmpeg
 tags: video 
 ---
-## one
+## Experiment one
 
 Using a [static build](https://johnvansickle.com/ffmpeg/) of ffmpeg, OS=Debian, running in wsl1.
 
@@ -30,7 +30,10 @@ _Hardware used_
                 6 Core(s), 12 Logical Processor(s)
     GPU         NVIDIA GeForce RTX 2060
 
-## two, the noise, the grain?
+_Notes_  
+For some reason 422 chroma subsampling is not supported in libaom, also it seems that film grain synth is not enabled by default anyway.
+
+## Experiment two, the noise, the grain?
 
 Parameter
 
@@ -63,3 +66,6 @@ Example cli (That gives nice looking output)
     ffmpegStatic -i input.mov -pix_fmt yuv420p -c:v libaom-av1 -cpu-used 8 -denoise-noise-level 50 -row-mt true -threads 0 -crf 24 -tile-columns 1 -tile-rows 0 out_denoise5o_420_8bit.mp4
 
 Lowering denoise level will increase bitrate and reduce film synth (imho lowering subjective quality).
+
+_Notes_  
+The potential is there, slightly annoyed by the fact that the user has to be aware of the magic `-denoise-noise-level` thing, which doesn't make much sense grammatically either.
