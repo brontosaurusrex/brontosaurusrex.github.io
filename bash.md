@@ -213,6 +213,20 @@ see what's out there
     trap '[ -n "$tmp" ] && rm -fr "$tmp"' EXIT
     mkdir -m 700 "$tmp" || { echo '!! unable to create a tmpdir' >&2; tmp=; exit 1; }
 
+## tmpdir with more advanced trap calling function
+
+    cleanup () {
+    (( debug )) && echo "$?"
+    [ -n "$tmp" ] && rm -fr "$tmp"
+    tput cnorm
+    }
+
+    # tmp dir
+    tmp="/tmp/$RANDOM-$$"
+    trap cleanup EXIT SIGTERM SIGINT 
+    # https://www.gnu.org/software/libc/manual/html_node/Termination-Signals.html
+    mkdir -m 700 "$tmp" || { echo '!! unable to create a tmp dir' >&2; tmp=; exit 1; }
+
 ## I did something audio
 
     flite -voice rms "I did something" >/dev/null 2>&1
