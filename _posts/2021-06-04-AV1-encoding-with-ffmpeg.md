@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2021-06-05 19:00'
-title: AV1 encoding with ffmpeg
+title: AV1 encoding for dummies
 tags: video 
 ---
 ## Experiment one
@@ -69,3 +69,40 @@ Lowering denoise level will increase bitrate and reduce film synth (imho lowerin
 
 _Notes_  
 The potential is there, slightly annoyed by the fact that the user has to be aware of the magic `-denoise-noise-level` thing, which doesn't make much sense grammatically either.
+
+## Research
+
+The one used by netflix is called [SVT-AV1](https://github.com/AOMediaCodec/SVT-AV1). After building it, first try
+
+    ffmpeg -i /mnt/d/output/input.mov -nostdin -f rawvideo -pix_fmt yuv420p - | ./SvtAv1EncApp -i stdin -n 300 -w 1920 -h 1080 -b out.mp4
+
+Fast encoding, crap quality, generates ivf output, not mp4. -pix_fmt yuv422p10le is also accepted but produces file not playbale in mpv or vlc.
+
+The guide [https://github.com/AOMediaCodec/SVT-AV1/blob/master/Docs/svt-av1_encoder_user_guide.md](https://github.com/AOMediaCodec/SVT-AV1/blob/master/Docs/svt-av1_encoder_user_guide.md).
+
+_2 pass crf? medium quality_  
+
+    ffmpeg -i /mnt/d/output/input.mov -nostdin -f rawvideo -pix_fmt yuv420p - | ./SvtAv1EncApp -i stdin --fps 25 --rc 0 --preset 5 --irefresh-type 2 --passes 2 -n 300 -w 1920 -h 1080 --stats woot.stat -b 2passCrf.ivf
+
+> Svt[warn]: The 2-pass encoding support is a work-in-progress, it is only available for experimental and further development uses and should not be used for benchmarking until fully implemented.
+
+Bad quality. No grain, noise retained, posibly bugy encode due to ffmpeg pipe? Doing two pass procedure, that is exporting from ffmpeg to out.yuv and then encoding that yuv makes no difference.
+
+    ./SvtAv1EncApp -i out.yuv --fps 25 --rc 0 -q 20 --preset 8 --irefresh-type 2 --passes 2 -n 500 -w 1920 -h 1080 --stats
+ woot.stat --film-grain 50 -b 2passCrfFilmPreset8q20.ivf
+
+> Warn: --passes 2 CRF for preset > 3 is not supported yet, force single pass
+
+Nice looking output! Has noise, has grain.
+
+_Single pass CQP mode?_  
+
+> "CQP mode uses a qp scaling functionality that assigns different frame qps based on their hierarchical positioning to get better coding efficiencies." CQP is actually similar to CRF and does not use fixed QP value for all frames unless you explicitly limit QP range.
+
+    ./SvtAv1EncApp -i out.yuv --fps 25 --rc 0 -q 20 --preset 8 --irefresh-type 2 -w 1920 -h 1080 --film-grain 50 -b 1passCQP.ivf
+
+Very nice output. Noisegen probably worse than that of libaom, edge detection probably better. By lowering -q and --preset the bitrate and encoding speed will increase, increasing quality.
+
+Remuxing ivf to mp4 should be a simple ffmpeg command
+
+    ffmepg -i in.ivf -c:v copy out.mp4
