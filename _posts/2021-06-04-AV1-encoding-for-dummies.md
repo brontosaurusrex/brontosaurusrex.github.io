@@ -7,7 +7,7 @@ tags: video
 ---
 ## Experiment one
 
-Using a [static build](https://johnvansickle.com/ffmpeg/) of ffmpeg, OS=Debian, running in wsl1.
+Using a [static build](https://johnvansickle.com/ffmpeg/) of ffmpeg, OS=Debian, running in wsl1. according to that page build info, libaom version is: `libaom: 3.1.0-270-g42a875ffe`.
 
     ffmpegStatic -i input.mov -c:v libaom-av1 -cpu-used 8 -row-mt true -threads 0 -crf 24 -tile-columns 1 -tile-rows 0 out.mp4
 
