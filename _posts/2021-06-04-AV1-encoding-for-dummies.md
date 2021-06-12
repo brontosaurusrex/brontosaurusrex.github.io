@@ -170,3 +170,5 @@ Bitrate reached 2101 kb/s, perfect, quality very nice. Doing an asymmetric encod
     2[################################100.0%]        
     3[################################100.0%]        
     ...
+
+Note: ffmpeg nowadays offers 2pass audio EBU R128 [loudnorm filter built-in](http://k.ylo.ph/2016/04/04/loudnorm.html).
