@@ -5,6 +5,12 @@ date: '2021-06-05 19:00'
 title: AV1 encoding for dummies
 tags: video 
 ---
+## Index
+{:.no_toc}
+
+* TOC
+{:toc}
+
 ## Experiment one
 
 Using a [static build](https://johnvansickle.com/ffmpeg/) of ffmpeg, OS=Debian, running in wsl1. according to that page build info, libaom version is: `libaom: 3.1.0-270-g42a875ffe`.
