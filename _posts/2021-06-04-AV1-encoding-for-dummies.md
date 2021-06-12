@@ -172,3 +172,17 @@ Bitrate reached 2101 kb/s, perfect, quality very nice. Doing an asymmetric encod
     ...
 
 Note: ffmpeg nowadays offers 2pass audio EBU R128 [loudnorm filter built-in](http://k.ylo.ph/2016/04/04/loudnorm.html).
+
+## Seven, trying to do the same with netflix
+
+This time actually timing how long the encoding for 30s clip takes
+
+    time ffmpeg -i in.mov  -nostdin -f rawvideo -pix_fmt yuv420p - | SvtAv1EncApp -i stdin --fps 25 --rc 0 --preset 1 --passes 2 -w 1920 -h 1080 --stats woot.stats --film-grain 50 -b svt_q1.ivf
+
+Fail: Hangs on 2nd pass, presumably ffmpeg doesn't want to repeat already served frames. I feel no wish to do the huge intermediate yuv file.
+
+Retry with CQP
+
+    ffmpeg -i in.mov  -nostdin -f rawvideo -pix_fmt yuv420p - | SvtAv1EncApp -i stdin --fps 25 --rc 0 --preset 1 -q 30 -w 1920 -h 1080 --film-grain 50 -b svt_q1_cqp.ivf
+
+Only slightly faster (~0.3 fps) than aom, cpu decently, but not perfectly saturated.
