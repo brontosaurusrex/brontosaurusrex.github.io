@@ -163,4 +163,10 @@ Much better cpu saturation, encoding speed 1.3 fps. Average bitrate mid encode s
     ffmpeg -i in.mov -pix_fmt yuv420p -denoise-noise-level 50 -b:v 2M -c:v libaom-av1 -cpu-used 5 -row-mt true -threads 0 -tile-columns 4 -tile-rows 4 -denoise-noise-level 50 -pass 1 -an -f null /dev/null && \
     ffmpeg -i in.mov -pix_fmt yuv420p -denoise-noise-level 50 -b:v 2M -c:v libaom-av1 -cpu-used 5 -row-mt true -threads 0 -tile-columns 4 -tile-rows 4 -denoise-noise-level 50 -pass 2 2pass.mp4
 
-Bitrate reached 2101 kb/s, perfect, quality very nice. Doing an asymmetric encode where 1st pass is `-cpu-used 8` and 2nd pass is `-cpu-used 1` also seems to be possible (getting impossibly low encoding speeds fps ~ 0.2). 
+Bitrate reached 2101 kb/s, perfect, quality very nice. Doing an asymmetric encode where 1st pass is `-cpu-used 8` and 2nd pass is `-cpu-used 1` also seems to be possible (getting impossibly low encoding speeds fps ~ 0.2). With `-cpu-used 1` cpu looks really well saturated.
+
+
+    1[################################100.0%]        
+    2[################################100.0%]        
+    3[################################100.0%]        
+    ...
