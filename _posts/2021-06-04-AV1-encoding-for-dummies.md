@@ -112,3 +112,47 @@ _[Magic grain procedure](https://github.com/AOMediaCodec/SVT-AV1/blob/master/Doc
 > The film grain synthesis algorithm involves two key steps. In the first step, the input pictures are denoised and the resulting denoised version of the input pictures are used in the encoding process. In the second step, a model of the film grain in the source picture is estimated at the encoder side, and the noise model parameters are included in the bit stream for the decoder to reproduce the noise and add it in the reconstructed pictures.
 
 ![grain!](https://raw.githubusercontent.com/AOMediaCodec/SVT-AV1/master/Docs/img/film_grain_fig1.png)
+
+## Four, libaom 1pass ABR mode
+
+[https://trac.ffmpeg.org/wiki/Encode/AV1](https://trac.ffmpeg.org/wiki/Encode/AV1)
+
+    ffmpeg-i in.mov -pix_fmt yuv420p -denoise-noise-level 50 -b:v 2M -c:v libaom-av1 -cpu-used 8 -row-mt true -threads 0 -tile-columns 1 -tile-rows 0 -denoise-noise-level 50 out.mp4
+
+Encoding speed 1.1 fps. Generates file with the average bitrate of 5077 kb/s...
+
+## Five, libaom Constrained quality
+
+    ffmpegStatic -i in.mov -pix_fmt yuv420p -denoise-noise-level 50 -b:v 2M -crf 30 -c:v libaom-av1 -cpu-used 8 -row-mt true -threads 0 -tile-columns 1 -tile-rows 0 -denoise-noise-level 50 out_crf30_bv2M.mp4
+
+Encoder seems to understand input parameters
+
+    Stream #0:0(eng): Video: av1, yuv420p, 1920x1080, q=2-31, 2000 kb/s ...
+
+Getting some notes
+
+    Solving latest noise equation system failed 0!
+
+Gets me file with the average bitrate of 4503 kb/s :/. Upping the quality:
+
+    ffmpegStatic -i in.mov -pix_fmt yuv420p -denoise-noise-level 50 -b:v 2M -crf 30 -c:v libaom-av1 -cpu-used 5 -row-mt true -threads 0 -tile-columns 1 -tile-rows 0 -denoise-noise-level 50 out_crf30_bv2M_q5.mp4
+
+Cpu is far from saturated (staring at htop)
+
+    1[##*               9.8%]   4[##                7.2%]     
+    2[###*             11.9%]   5[#####*           22.5%]     
+    3[###############* 68.2%]   6[##                7.2%]     
+    7[#####*           20.0%]  10[#*                3.3%]
+    8[######*          25.7%]  11[####*            17.9%]
+    9[###*             13.7%]  12[##                4.6%]
+
+Encoding speed 0.9 fps. Aborted. Changing tiling stuff
+
+    ffmpeg-i in.mov -pix_fmt yuv420p -denoise-noise-level 50 -b:v 2M -crf 30 -c:v libaom-av1 -cpu-used 5 -row-mt true -threads 0 -tile-columns 4 -tile-rows 4 -denoise-noise-level 50 out_crf30_bv2M_q5_b.mp4
+
+Much better cpu saturation, encoding speed 1.3 fps. Average bitrate mid encode showing 4000 kbps, Aborting.
+
+## Six, libaom 2pass.
+
+    ffmpeg -i in.mov -pix_fmt yuv420p -denoise-noise-level 50 -b:v 2M -c:v libaom-av1 -cpu-used 5 -row-mt true -threads 0 -tile-columns 4 -tile-rows 4 -denoise-noise-level 50 -pass 1 -an -f null /dev/null && \
+    ffmpeg -i in.mov -pix_fmt yuv420p -denoise-noise-level 50 -b:v 2M -c:v libaom-av1 -cpu-used 5 -row-mt true -threads 0 -tile-columns 4 -tile-rows 4 -denoise-noise-level 50 -pass 2 2pass.mp4
