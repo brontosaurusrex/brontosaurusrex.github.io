@@ -181,8 +181,8 @@ This time actually timing how long the encoding for 30s clip takes
 
 Fail: Hangs on 2nd pass, presumably ffmpeg doesn't want to repeat already served frames. I feel no wish to do the huge intermediate yuv file.
 
-Retry with CQP
+Retry with `--preset 1` CQP
 
     ffmpeg -i in.mov  -nostdin -f rawvideo -pix_fmt yuv420p - | SvtAv1EncApp -i stdin --fps 25 --rc 0 --preset 1 -q 30 -w 1920 -h 1080 --film-grain 50 -b svt_q1_cqp.ivf
 
-Only slightly faster (~0.3 fps) than aom, cpu decently, but not perfectly saturated.
+Only slightly faster (~0.3 fps) than aom, cpu decently, but not perfectly saturated. This took 90 minutes to encode 30s clip, producing ~4000 kbps file with very nice quality. Not transparent. Subjective: Due to noise synthesis not kicking in when parts of the video are less noisy the quality feels a bit variable, but not in an annoying way.
