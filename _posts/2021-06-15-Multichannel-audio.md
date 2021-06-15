@@ -60,4 +60,5 @@ __E. The end.__
 Note: In premiere preferences there is also an option to always import stuff as mono pair, but that will imho make editing harder in most cases.  
 ![no](/public/multi/no.png)  
 Note2: Listening routing is also well hidden  
-![listen](/public/multi/listen.png) 
+![listen](/public/multi/listen.png)  
+Known unknowns: No idea how to make multichannel sequence/export where each stream will be stereo (8 channels of audio in 4x stereo for example).
