@@ -49,7 +49,7 @@ __A. New sequence__
 ![preset](/public/multi/preset.png)  
 __B. Copy/paste that stereo sequence and duplicate each channel (omg)__  
 ![omg](/public/multi/omg.png)  
-__C. And at this point things actually look like they are correcty routed already, but just in case, select all odd tracks, rmb on track/Audio channels, disable all right channels (and left for the even tracks)__  
+__C. And at this point things actually look like they are correctly routed already, but just in case, select all odd tracks, rmb on track/Audio channels, disable all right channels (and disable left for the even tracks)__  
 ![disable](/public/multi/disableRight.png)  
 __D. Export media__  
 ![export](/public/multi/export.png)  
