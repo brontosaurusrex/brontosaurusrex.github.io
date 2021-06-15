@@ -30,21 +30,34 @@ Is more complex in a way that 'channels' are stored as separated 'tracks' in the
 
 ## Premiere pro
 
-Has a pretty tricky setup to get to the multitrack audio.
+Has a pretty __tricky setup__ to get to the multitrack audio.
 
 Going from this stereo sequence:  
 ![from](/public/multi/fromThis.png)  
 to this 8 channel sequence:  
-![from](/public/multi/toThis.png)  
-Requires making a new sequence with wanted output routing (This are all routed in a mono fashion, but weirdly can hold stereo-paired-as-imported clips...) 
-![from](/public/multi/preset.png)  
-Copy/paste that stereo sequence and duplicate each channel (omg)  
-![from](/public/multi/omg.png)  
-And at this point things actually look like they are correcty routed already, but just in case, select all odd tracks, rmb on track/Audio channels, disable all right channels (and left for the even tracks) 
-![from](/public/multi/disableRight.png)  
-Export media  
-![from](/public/multi/export.png)  
+![to](/public/multi/toThis.png)  
+Requires making a new sequence with wanted output routing (This are all routed in a mono fashion, but weirdly can hold stereo-paired-as-imported clips...). Also check 'Output assignmenst': 
+
+    1 = 1-2
+    2 = 1-2
+    3 = 3-4
+    4 = 3-4 and so on 
+    
+edit: Assignmest can be also changed later in the 'Audio track mixer')  
+![mixer](/public/multi/mixer.png)  
+__A. New sequence__  
+![preset](/public/multi/preset.png)  
+__B. Copy/paste that stereo sequence and duplicate each channel (omg)__  
+![omg](/public/multi/omg.png)  
+__C. And at this point things actually look like they are correcty routed already, but just in case, select all odd tracks, rmb on track/Audio channels, disable all right channels (and left for the even tracks)__  
+![disable](/public/multi/disableRight.png)  
+__D. Export media__  
+![export](/public/multi/export.png)  
 If 'Separate mono tracks' is left unticked, output file will have just one 8 channel stream/track (which might be fine as well).
 
+__E. The end.__
+
 Note: In premiere preferences there is also an option to always import stuff as mono pair, but that will imho make editing harder in most cases.  
-![from](/public/multi/no.png)  
+![no](/public/multi/no.png)  
+Note2: Listening routing is also well hidden  
+![listen](/public/multi/listen.png) 
