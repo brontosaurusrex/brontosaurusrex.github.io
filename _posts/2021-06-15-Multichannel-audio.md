@@ -26,7 +26,6 @@ Generates 8ch wav.
     ffmpeg -i video.mov -i out8ch.wav -c copy -map 0:v:0 -map 1:a:0 out8ch.mov
 
 ## MXF and EBU story
-
 Is more complex in a way that 'channels' are stored as separated 'tracks' in the container and they may have certain meaning.  
 [https://tech.ebu.ch/docs/r/r123.pdf](https://tech.ebu.ch/docs/r/r123.pdf) and SMPTE 377-1-2009 (for mxf).  
 [https://github.com/CasparCG/Server/issues/144#issuecomment-49441377](https://github.com/CasparCG/Server/issues/144#issuecomment-49441377)  
@@ -35,9 +34,9 @@ Is more complex in a way that 'channels' are stored as separated 'tracks' in the
 > But you can find also MXF files with (for example) 4 streams and 2 channels or 1 stream of 2 channel and 1 stream with 6 channels,..., there is no fixed rules.
 
 ## Premiere pro
-
 Has a pretty __tricky setup__ to get to the multitrack audio.
 
+### the problem
 Going from this stereo sequence:  
 ![from](/public/multi/fromThis.png)  
 to this 8 channel sequence:  
@@ -51,6 +50,7 @@ Requires making a new sequence with wanted output routing (This are all routed i
     
 edit: Assignmest can be also changed later in the 'Audio track mixer')  
 ![mixer](/public/multi/mixer.png)  
+### the solution
 __A. New sequence__  
 ![preset](/public/multi/preset.png)  
 __B. Copy/paste that stereo sequence and duplicate each channel (omg)__  
@@ -63,8 +63,13 @@ If 'Separate mono tracks' is left unticked, output file will have just one 8 cha
 
 __E. The end.__
 
+### Mono pair import?
 Note: In premiere preferences there is also an option to always import stuff as mono pair, but that will imho make editing harder in most cases.  
 ![no](/public/multi/no.png)  
+
+### Listening
 Note2: Listening routing is also well hidden  
 ![listen](/public/multi/listen.png)  
-Known unknowns: No idea how to make multichannel sequence/export where each stream will be stereo (8 channels of audio in 4x stereo for example).
+
+### Known unknowns
+No idea how to make multichannel sequence/export where each stream will be stereo (8 channels of audio in 4x stereo for example).
