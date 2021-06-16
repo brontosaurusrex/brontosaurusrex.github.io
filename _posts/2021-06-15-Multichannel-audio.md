@@ -5,7 +5,13 @@ date: '2021-06-15 11:57'
 title: Multichannel audio
 tags: video audio 
 ---
-## One 4x stereo > 8ch wav with sox
+## Index
+{:.no_toc}
+
+* TOC
+{:toc}
+
+## 4x stereo > 8ch wav with sox
 
 Assuming 4 audio stems and 1 video file and skipping incomprehensible ffmpeg docs, sox might work
 
@@ -13,7 +19,7 @@ Assuming 4 audio stems and 1 video file and skipping incomprehensible ffmpeg doc
 
 Generates 8ch wav.
 
-## Two remux
+### remux
 
     ffmpeg -i video.mov -i out8ch.wav -c copy video8ch.mov
     # or to specifically ignore possible audio in video.mov
