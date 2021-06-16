@@ -133,3 +133,9 @@ Absosmurfly essential reading, wish I found this before.
 > to another with tiny threads of energy.
 
 A long book, quasi sci-fi, I made the cloud read it to me out loud (AWS polly).
+
+## The Long Way to a Small, Angry Planet (Becky Chambers - 2014)
+
+> Life aboard the Wayfarer is chaotic and crazy—exactly what Rosemary wants. It’s also about to get extremely dangerous when the crew is offered the job of a lifetime. Tunneling wormholes through space to a distant planet is definitely lucrative and will keep them comfortable for years.
+
+Another sci-fi.
