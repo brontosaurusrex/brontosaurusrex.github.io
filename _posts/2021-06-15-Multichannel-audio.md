@@ -55,8 +55,8 @@ __A. New sequence__
 ![preset](/public/multi/preset.png)  
 __B. Copy/paste that stereo sequence and duplicate each channel (omg)__  
 ![omg](/public/multi/omg.png)  
-__C. And at this point things actually look like they are correctly routed already, but just in case, select all odd tracks, rmb on track/Audio channels, disable all right channels (and disable left for the even tracks)__  
-![disable](/public/multi/disableRight.png)  
+__C. And at this point things actually look like they are correctly routed already, ~~but just in case, select all odd tracks, rmb on track/Audio channels, disable all right channels (and disable left for the even tracks)~~__
+
 __D. Export media - (MXF)__  
 ![export](/public/multi/export.png)  
 If 'Separate mono tracks' is left unticked, output file will have just one 8 channel stream/track (which might be fine as well).
