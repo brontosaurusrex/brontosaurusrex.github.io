@@ -11,6 +11,11 @@ tags: linux cli luv
 
 Example usage:
 
-    epub2txt -a in.epub > in.txt
+    epub2txt -a -n in.epub > in.txt
+
+where
+
+    -a,--ascii         try to output ASCII only
+    -n,--noansi        don't output ANSI terminal codes
 
 Note: Calibre comes with various conversion tools, but they seem to require running X.org, this one doesn't.
