@@ -70,6 +70,7 @@ Note: In premiere preferences there is also an option to always import stuff as 
 ### Listening
 Note2: Listening routing is also well hidden  
 ![listen](/public/multi/listen.png)  
+![Listen all](/public/multi/listenAll.png)  
 
 ### Known unknowns
 No idea how to make multichannel sequence/export where each stream will be stereo (8 channels of audio in 4x stereo for example).
