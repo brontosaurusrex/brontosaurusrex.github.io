@@ -9,3 +9,5 @@ tags: misc linux cli bash
     4
     
 How does it know that input format is YYYYMMDD?
+
+How does the Thermos know whether to keep things hot or cold?
