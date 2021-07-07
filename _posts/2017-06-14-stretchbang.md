@@ -27,3 +27,6 @@ svg should be in [git](https://github.com/brontosaurusrex/postbang/blob/master/i
 
 ### material node using new principled ubershader
 ![scrot27611-fs8.png]({{site.baseurl}}/media/scrot27611-fs8.png)
+
+
+
