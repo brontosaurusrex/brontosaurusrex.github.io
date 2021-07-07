@@ -4,13 +4,6 @@ title: bash and friends
 published: true
 tags: bash cli
 ---
-
-## Bash guide
-
-[https://mywiki.wooledge.org/BashGuide](https://mywiki.wooledge.org/BashGuide)
-
-They also have a pdf version.
-
 ## No file for you
 
     [[ -f /var/log/apt/history.log ]] || exit 1
@@ -517,7 +510,18 @@ This is not compatible with 'set -e'
     )
     echo "$css"
 
-## TOC
+## Bash literature
+
+### [https://mywiki.wooledge.org/BashGuide](https://mywiki.wooledge.org/BashGuide)  
+They also have a pdf version.
+
+### [https://github.com/dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)  
+_A collection of pure POSIX sh alternatives to external processes_
+
+### [https://hn.algolia.com/?q=bash](https://hn.algolia.com/?q=bash)  
+Search for 'bash' in hacker news.
+
+## Index
 {:.no_toc}
 
 * TOC
