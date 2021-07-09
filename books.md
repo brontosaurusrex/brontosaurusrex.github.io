@@ -139,3 +139,16 @@ A long book, quasi sci-fi, I made the cloud read it to me out loud (AWS polly).
 > Life aboard the Wayfarer is chaotic and crazy—exactly what Rosemary wants. It’s also about to get extremely dangerous when the crew is offered the job of a lifetime. Tunneling wormholes through space to a distant planet is definitely lucrative and will keep them comfortable for years.
 
 Another sci-fi.
+
+## The God Equation: The Quest for a Theory of Everything (Michio Kaku - 2021)
+
+> The God Equation: The Quest for a Theory of Everything is a popular science book by the futurist and physicist Michio Kaku.
+
+It was an easy read, Kaku knows how to deal with mortals. I did miss the futuristic part a bit. To my old self it feels I read at least 10 similar books in the previous years. Up to date (I hope) and with all the resources nicely quoted at the end. Also I don't care about anthropic principles (this surely must all be wrong?) or I don't understand how this must be applied to real stuff (experiments). The voices from cloud also read this to me (amazon polly).
+
+p.s. The good futuristic part is Ligo put in space, multiple satelites linked with lasers that will listen to the voices of big bang, or (drums) voices from the mother universe - start of creation - god doing its dice thing.
+
+[https://en.wikipedia.org/wiki/Anthropic_principle](https://en.wikipedia.org/wiki/Anthropic_principle)  
+> In 1961, Robert Dicke noted that the age of the universe, as seen by living observers, cannot be random.[9] Instead, biological factors constrain the universe to be more or less in a "golden age", neither too young nor too old.[10] If the universe were one tenth as old as its present age, there would not have been sufficient time to build up appreciable levels of metallicity (levels of elements besides hydrogen and helium) especially carbon, by nucleosynthesis. Small rocky planets did not yet exist.
+
+No. 
