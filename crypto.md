@@ -1,7 +1,7 @@
 ---
 layout: page
 title: crypto
-published: true
+published: false
 ---
 ![](https://cdn6.aptoide.com/imgs/2/1/b/21bd81cdfc43b9c8b304ccb9b29162d6_icon.png?w=240)
 

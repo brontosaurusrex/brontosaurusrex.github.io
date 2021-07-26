@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Client side search
-published: true
+published: false
 ---
 Note: Ignores pages, only index posts.  
 <form action="/search" method="get">
