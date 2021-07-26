@@ -710,4 +710,7 @@ input[type="submit"] {
     
 }
 
-style="border: none; background: none; color: inherit; font: inherit; outline: inherit;"
+::placeholder {
+  color: #ddd;
+  opacity: 1; /* Firefox */
+}
