@@ -1,0 +1,8 @@
+---
+published: true
+layout: post
+date: '2021-08-05 16:09'
+title: Full Reinstall
+tags: linux 
+---
+[![reinstall2-fs8.png-HZOdPOoW1vXd5Ni-md](https://images.weserv.nl/?url=https://i.imgur.com/h50c8qel.png)](https://images.weserv.nl/?url=https://i.imgur.com/h50c8qe.png)
