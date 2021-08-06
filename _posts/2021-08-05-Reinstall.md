@@ -6,5 +6,6 @@ title: Full Reinstall
 tags: linux 
 ---
 [![reinstall2-fs8.png-HZOdPOoW1vXd5Ni-md](https://images.weserv.nl/?url=https://i.imgur.com/h50c8qel.png)](https://images.weserv.nl/?url=https://i.imgur.com/h50c8qe.png)  
+[& my own sparc](https://learn.adafruit.com/build-your-own-sparc-with-qemu-and-solaris)  
 [![solaris7.png-9t18Mt8J6kcbHWh-md](https://images.weserv.nl/?url=https://i.imgur.com/K9IQaXal.png)](https://images.weserv.nl/?url=https://i.imgur.com/K9IQaXa.png)
 
