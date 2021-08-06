@@ -50,4 +50,4 @@ title: Magic background color
   <rect width="720" height="200" rx="5" ry="5" 
   style="fill:#708090" />
 </svg> 
-0D314D > steel, solaris
+708090 > steel, solaris
