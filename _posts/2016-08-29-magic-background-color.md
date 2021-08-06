@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2016-08-29 19:36 +0200'
+date: '2021-08-06 9:48 +0200'
 title: Magic background color
 ---
 <svg width="720" height="200">
@@ -45,3 +45,9 @@ title: Magic background color
   style="fill:#0D314D" />
 </svg> 
 0D314D > deep blue, bluepill
+
+<svg width="720" height="200">
+  <rect width="720" height="200" rx="5" ry="5" 
+  style="fill:#708090" />
+</svg> 
+0D314D > steel, solaris
