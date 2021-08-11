@@ -714,3 +714,8 @@ input[type="submit"] {
   color: #ddd;
   opacity: 1; /* Firefox */
 }
+
+/* by me https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme */
+:root {
+  color-scheme: dark;
+}
