@@ -152,3 +152,15 @@ p.s. The good futuristic part is Ligo put in space, multiple satelites linked wi
 > In 1961, Robert Dicke noted that the age of the universe, as seen by living observers, cannot be random.[9] Instead, biological factors constrain the universe to be more or less in a "golden age", neither too young nor too old.[10] If the universe were one tenth as old as its present age, there would not have been sufficient time to build up appreciable levels of metallicity (levels of elements besides hydrogen and helium) especially carbon, by nucleosynthesis. Small rocky planets did not yet exist.
 
 No. 
+
+## The Testaments (Margaret Atwood - 2019)
+
+[From wikipedia](https://en.wikipedia.org/wiki/The_Testaments)  
+>  It is a sequel to The Handmaid's Tale (1985).[2] The novel is set 15 years after the events of The Handmaid's Tale. It is narrated by Aunt Lydia, a character from the previous novel; Agnes, a young woman living in Gilead; and Daisy, a young woman living in Canada.[3]
+
+From the book   
+> When I'd first begun reading these files, I was appalled and sickened. Was someone trying to cause me distress? Or were the files part of my education? Was my mind being hardened? Was I being prepared for the tasks I would later be performing as an Aunt? 
+
+> This was what the Aunts did, I was learning. They recorded. They waited. They used their information to achieve goals known only to themselves. Their weapons were powerful but contaminating secrets, as the Marthas had always said. Secrets, lies, cunning, deceit-but the secrets, the lies, the cunning, and the deceit of others as well as their own. 
+
+Praise be.
