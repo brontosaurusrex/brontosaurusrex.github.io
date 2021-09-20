@@ -5,7 +5,7 @@ date: '2021-09-20 10:52'
 title: MPV copy current time as 25fps timecode
 tags: video 
 ---
-As seen [here](https://github.com/Arieleg/mpv-copyTime/blob/master/copyTime.lua), but assumes that input is 25fps
+As seen [here](https://github.com/Arieleg/mpv-copyTime/blob/master/copyTime.lua), but assumes that input is 25fps and that we want **HH:MM:SS:FRAMES** timecode format.
 
 ```lua
 require 'mp'
