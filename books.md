@@ -164,3 +164,9 @@ From the book
 > This was what the Aunts did, I was learning. They recorded. They waited. They used their information to achieve goals known only to themselves. Their weapons were powerful but contaminating secrets, as the Marthas had always said. Secrets, lies, cunning, deceit-but the secrets, the lies, the cunning, and the deceit of others as well as their own. 
 
 Praise be.
+
+## Sixteen Different Flavours of Hell (David Thorne - 2020)
+
+> I get all the information I need from algorithms customised to generate content sympathetic to my views.
+
+[https://27bslash6.com](https://27bslash6.com)
