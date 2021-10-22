@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2021-01-05 03:56'
+date: '2021-10-22 15:27'
 title: Beep on folder change, windows
 tags: misc 
 ---
@@ -17,7 +17,7 @@ In directory next to totalcmd ../util/whenChanged are
 
 where play.bat is
 
-    start "" /min ..\mpv\mpv --no-video chime.flac
+    ..\mpv\mpv --no-video turkey.wav
 
 and total commander button is
 
@@ -31,3 +31,24 @@ When button is pressed directory monitoring (recursive) is in effect (cmd window
 
 [![scrotWhen.png-s7xoXOcakoWYEEs-md](https://images.weserv.nl/?url=https://i.imgur.com/m1aEK9V.png)](https://images.weserv.nl/?url=https://i.imgur.com/m1aEK9V.png)
 
+Update, instead of play.bat there could be playRnd.bat which would play random file from folder
+
+    @echo off 
+    setlocal enableDelayedExpansion
+
+    cd /d "audio"
+
+    REM Count total files and store into array
+    set /a "i=0"
+    for %%f in (*.*) do (
+        set /a "i+=1"
+        set "list[!i!]=%%f"
+    )
+     
+    REM Get random number between 1 and %i%
+    set /a rnd=%random% %%%i% +1
+
+    REM Get MP3 at index of %i% and run it 
+    ..\..\mpv\mpv --af=loudnorm "!list[%rnd%]!"
+
+    timeout 5
