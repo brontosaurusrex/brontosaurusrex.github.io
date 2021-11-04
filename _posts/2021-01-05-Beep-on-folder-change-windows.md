@@ -36,6 +36,10 @@ Update, instead of play.bat there could be playRnd.bat which would play random f
     @echo off 
     setlocal enableDelayedExpansion
 
+    REM optional popup - msg.exe is copied to the same fodler
+    msg.exe /TIME:5 %username% "Stuff changed."
+
+    REM main
     cd /d "audio"
 
     REM Count total files and store into array
