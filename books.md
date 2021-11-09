@@ -170,3 +170,21 @@ Praise be.
 > I get all the information I need from algorithms customised to generate content sympathetic to my views.
 
 [https://27bslash6.com](https://27bslash6.com)
+
+## The Sparrow (Mary Doria Russell - 1996)
+
+> In the year 2019, the SETI program at Arecibo Observatory discovers radio broadcasts of music from the vicinity of Alpha Centauri. The first expedition to Rakhat, the world that is sending the music, is organized by the Society of Jesus (Jesuits), known for its missionary, linguistic and scientific activities since the time of its founder, Ignatius of Loyola.
+
+Haven't finished it yet.
+
+## Based on a True Story: (Not) A Memoir (Norm Macdonald - 2016)
+
+> “This sketch is gonna be big, Lorne, real big. Comedy is about what people relate to, and everybody has an answering machine. My God, did you even read it?”
+
+> “Yes, I read it, Norm, but it’s hardly a sketch. First of all, the host is barely in it. Sandler and Farley have no lines at all. As far as I can tell, it’s just you talking about how you don’t answer your phone anymore and how, later, you tell the person who phoned that you never got the message and that they must have left it on someone else’s answering machine. Then Sandler and Farley laugh for an uncomfortably long time.”
+
+> “Right, they laugh for a long time because what I’m saying is really funny.”
+
+> “Well, wouldn’t it be a better idea to let the audience decide whether it’s really funny?”
+
+>“With all due respect, Lorne, I think that would be the worst thing we could possibly do. Believe me, I’ve been down that road before.”
