@@ -1,16 +1,17 @@
 <!doctype html>
-<head><style>
+<head>
+  <title>spin</title>
+<style>
 body {
    transform: scale(0.2);
    transform-origin: 0 0;
    // add prefixed versions too.
 }
-
-
-</style></style></head>
+</style>
+</head>
 <body>
   <div id="wrapper" style="width: 2000px;"></div>
-  <script src="http://kickstart.ch/js/meshspin.min.js"></script>
+  <script src="/meshspinJs/meshspin.min.js"></script>
   <script>
   var dodecahedron = {}
   dodecahedron.nodes = [
@@ -185,7 +186,7 @@ body {
   mesh.props.fake3D = false;
   mesh.props.background = false;
 
-  /*mesh.props.fillColor = '#def';*/
+/*mesh.props.fillColor = '#def';*/
 /* mesh.props.debug = true; */
   mesh.getRotationOffset = function() {
     r = mesh.rotateByMouse();
@@ -196,3 +197,4 @@ body {
   mesh.run();
   </script>
 </body>
+</html>
