@@ -85,4 +85,4 @@ returns:
 [Putting it all together.](/meshspinBrex.htm)
 <iframe scrolling="no" src="/meshspinBrex.htm" height="300" width="500" title="brex 3d" style="border:none;"></iframe>
 
-<small>Note that fake shading wont work, since this object is not concave enough.</small>
+<small>Note that fake meshspin shading wont work, <br>since this object is not concave enough.</small>
