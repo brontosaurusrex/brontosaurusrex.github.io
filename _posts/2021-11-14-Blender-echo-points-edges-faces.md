@@ -83,6 +83,6 @@ returns:
     ...
 
 [Putting it all together.](/meshspinBrex.htm)
-<iframe scrolling="no" src="/meshspinBrex.htm" height="300" width="500" title="brex 3d" style="border:none;"></iframe>
+<iframe scrolling="no" src="/meshspinBrex.htm" height="250" width="700" title="brex 3d" style="border:none; mix-blend-mode: multiply;"></iframe>
 
 <small>Note that fake meshspin shading wont work, <br>since this object is not concave enough.</small>
