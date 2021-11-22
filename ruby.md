@@ -1,19 +1,20 @@
 ---
+layout: page
+title: ruby notes
 published: true
-layout: post
-date: '2020-09-29 21:20'
-title: Ruby
-tags: misc linux 
 ---
+
+
 ## Table of contents
 {:.no_toc}
 
 * TOC
 {:toc}
 
-## Best ruby books
+## Ruby books
 
-[https://whatpixel.com/best-ruby-books/](https://whatpixel.com/best-ruby-books/)
+[https://whatpixel.com/best-ruby-books/](https://whatpixel.com/best-ruby-books/)  
+[https://poignant.guide](https://poignant.guide)
 
 ## Loops
 
