@@ -7,6 +7,7 @@ tags: linux web
 ---
 Syntax for same user:pass file for multiple dirs (lighttpd.conf)
 
+    server.modules += ("mod_auth", "mod_authn_file")
     auth.backend = "htpasswd"
     auth.backend.htpasswd.userfile = "/etc/lighttpd/.htpasswd/lighttpd-htdigest.user"
     auth.require = ( "/nap" =>
