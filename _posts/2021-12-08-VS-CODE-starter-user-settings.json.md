@@ -5,6 +5,8 @@ date: '2021-12-08 13:04'
 title: VS CODE user - settings.json
 tags: mine 
 ---
+## settings.json
+
     {
         "window.zoomLevel": 1,
         "editor.inlineSuggest.enabled": true,
@@ -34,3 +36,9 @@ tags: mine
     }
 
 Perhaps a good starting point.
+
+## Nice themes
+
+Monokai pro (Filter machines)
+
+![vscodeMonokai-fs8](https://user-images.githubusercontent.com/4248721/145226658-35907702-a0bc-4ceb-b674-d39f0dfdac1d.png)
