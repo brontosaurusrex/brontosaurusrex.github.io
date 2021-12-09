@@ -41,4 +41,5 @@ Perhaps a good starting point.
 
 Monokai pro (Filter machines)
 
-![vscodeMonokai-fs8](https://user-images.githubusercontent.com/4248721/145226658-35907702-a0bc-4ceb-b674-d39f0dfdac1d.png)
+![vscodeMonokai-fs8](https://user-images.githubusercontent.com/4248721/145226658-35907702-a0bc-4ceb-b674-d39f0dfdac1d.png)  
+Other cool words are: Dracula, Nord, and Gruvbox.
