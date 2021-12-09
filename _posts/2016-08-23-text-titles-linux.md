@@ -12,4 +12,4 @@ title: text titles & linux
 Tex template should have better command line handling value + I can [ignore inkscape](https://github.com/brontosaurusrex/titles) then.
 
 Example (but this was not blured, neither density was set high)  
-[![newfile2downsized_fill.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2016/08/23/newfile2downsized_fill.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2016/08/23/newfile2downsized_fill.png)
+[![newfile2downsized_fill.th.png](//cdn.scrot.moe/images/2016/08/23/newfile2downsized_fill.th.png)](//cdn.scrot.moe/images/2016/08/23/newfile2downsized_fill.png)

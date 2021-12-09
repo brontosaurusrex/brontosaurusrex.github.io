@@ -29,4 +29,4 @@ This is for adding some video to audio-only recordings
 
     done
 
-[![mpv-shot0020.jpg-nglHqFbubUCoihD-md](https://images.weserv.nl/?url=https://i.imgur.com/MeQ0aaV.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/MeQ0aaV.jpg)
+[![mpv-shot0020.jpg-nglHqFbubUCoihD-md](https://i.imgur.com/MeQ0aaV.jpg)](https://i.imgur.com/MeQ0aaV.jpg)

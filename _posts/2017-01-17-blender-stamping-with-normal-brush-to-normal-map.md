@@ -16,11 +16,11 @@ tags: blender mine
 - Find some normal stamps or make one (that matcap shader might be usefull), they should probably be square.
 - Texture paint, be confused, load the brush to Texture, start stamping (Brush Mapping: View Plane)
 
-[![brush3.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/17/brush3.th.png)](https://scrot.moe/image/11dwL) [![brush.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/17/brush.th.png)](https://scrot.moe/image/11UQA)
+[![brush3.th.png](//cdn.scrot.moe/images/2017/01/17/brush3.th.png)](https://scrot.moe/image/11dwL) [![brush.th.png](//cdn.scrot.moe/images/2017/01/17/brush.th.png)](https://scrot.moe/image/11UQA)
 
 If the stamps renders inset instead of outset then go to edit mode and a and ctrl+n. Or change your mind.
 
-[![normal2normal.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/17/normal2normal.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/17/normal2normal.png)
+[![normal2normal.th.png](//cdn.scrot.moe/images/2017/01/17/normal2normal.th.png)](//cdn.scrot.moe/images/2017/01/17/normal2normal.png)
 
 Notes: 
 - In edit mode "shift + numpad 7" will align view to selected poli.

@@ -30,4 +30,4 @@ Openbox keybind
       </action>
     </keybind>
     
-[![rtile.png-ik7T8k2u0c3vetk-th](https://images.weserv.nl/?url=https://i.imgur.com/IcqMPPCb.png)](https://images.weserv.nl/?url=https://i.imgur.com/IcqMPPC.png)
+[![rtile.png-ik7T8k2u0c3vetk-th](https://i.imgur.com/IcqMPPCb.png)](https://i.imgur.com/IcqMPPC.png)

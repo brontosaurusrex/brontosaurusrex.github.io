@@ -80,8 +80,8 @@ p.s.3. With imagemagick the gimp repositioning part could be simply done by addi
     
 3 pass degradation + some gimp video fx
 
-[![bronto-silber_interlaced_interlaced_interlaced.png-RnMB69bSG2k9hy2-md](https://images.weserv.nl/?url=https://i.imgur.com/7lbMK52.png)](https://images.weserv.nl/?url=https://i.imgur.com/7lbMK52.png)
+[![bronto-silber_interlaced_interlaced_interlaced.png-RnMB69bSG2k9hy2-md](https://i.imgur.com/7lbMK52.png)](https://i.imgur.com/7lbMK52.png)
 
 ### Wallpapers
-[![brontointer-back.png-FGydjnP3gxc4qu7-md](https://images.weserv.nl/?url=https://i.imgur.com/mNmssb6l.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/mNmssb6.jpg)
-[![mkay2-pegtop-light.png-sWJZAe1MFF63R7j-md](https://images.weserv.nl/?url=https://i.imgur.com/xfdK6h4l.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/xfdK6h4.jpg)
+[![brontointer-back.png-FGydjnP3gxc4qu7-md](https://i.imgur.com/mNmssb6l.jpg)](https://i.imgur.com/mNmssb6.jpg)
+[![mkay2-pegtop-light.png-sWJZAe1MFF63R7j-md](https://i.imgur.com/xfdK6h4l.jpg)](https://i.imgur.com/xfdK6h4.jpg)

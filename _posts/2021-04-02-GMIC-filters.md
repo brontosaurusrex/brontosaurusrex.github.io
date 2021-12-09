@@ -6,4 +6,4 @@ title: GMIC filters
 tags: mine misc video 
 ---
 Gmic Etch and Dither and Gimps Video degradadation (and few more)  
-[![pacmanCityByNight3cam4_etchAndDitherAndMoreAndVideo-fs8.png-KNyreKArriD2KV9-md](https://images.weserv.nl/?url=https://i.imgur.com/AwWsotq.jpg)](https://images.weserv.nl/?url=https://i.imgur.com/UcBwtMK.png)
+[![pacmanCityByNight3cam4_etchAndDitherAndMoreAndVideo-fs8.png-KNyreKArriD2KV9-md](https://i.imgur.com/AwWsotq.jpg)](https://i.imgur.com/UcBwtMK.png)

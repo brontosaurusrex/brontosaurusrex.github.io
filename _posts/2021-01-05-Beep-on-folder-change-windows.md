@@ -29,7 +29,7 @@ and total commander button is
 
 When button is pressed directory monitoring (recursive) is in effect (cmd window will open) and on any changes mpv will play chime.flac.
 
-[![scrotWhen.png-s7xoXOcakoWYEEs-md](https://images.weserv.nl/?url=https://i.imgur.com/m1aEK9V.png)](https://images.weserv.nl/?url=https://i.imgur.com/m1aEK9V.png)
+[![scrotWhen.png-s7xoXOcakoWYEEs-md](https://i.imgur.com/m1aEK9V.png)](https://i.imgur.com/m1aEK9V.png)
 
 Update, instead of play.bat there could be playRnd.bat which would play random file from folder
 

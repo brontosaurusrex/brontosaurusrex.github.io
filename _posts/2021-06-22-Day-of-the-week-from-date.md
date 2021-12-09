@@ -9,5 +9,5 @@ tags: misc linux cli bash
     4
     
 How does it know that input format is YYYYMMDD?  
-<img src="https://images.weserv.nl/?url=https://i.imgur.com/RHfwtAx.png#sNAqSo9htNeLSbT" style="mix-blend-mode: multiply;">  
+<img src="https://i.imgur.com/RHfwtAx.png#sNAqSo9htNeLSbT" style="mix-blend-mode: multiply;">  
 How does the Thermos know whether to keep things hot or cold?  

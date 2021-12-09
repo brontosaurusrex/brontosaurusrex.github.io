@@ -7,6 +7,6 @@ tags: blender
 ---
 [https://youtu.be/X2NUWmijus4](https://youtu.be/X2NUWmijus4)
 
-![ladjica1920x1200.md.png](https://images.weserv.nl/?url=https://i.imgur.com/RXjxcEJ.png)
+![ladjica1920x1200.md.png](https://i.imgur.com/RXjxcEJ.png)
 
 Notes: Reduce the solidify thickness to -0.001, fix the uv's (internal), use some other texture.

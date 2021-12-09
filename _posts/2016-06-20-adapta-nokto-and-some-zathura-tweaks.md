@@ -6,4 +6,4 @@ title: adapta-nokto and some zathura tweaks
 ---
 [https://forums.bunsenlabs.org/viewtopic.php?pid=30427#p30427](https://forums.bunsenlabs.org/viewtopic.php?pid=30427#p30427)
 
-[![adaptaDark.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2016/06/20/adaptaDark.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2016/06/20/adaptaDark.png)
+[![adaptaDark.th.png](//cdn.scrot.moe/images/2016/06/20/adaptaDark.th.png)](//cdn.scrot.moe/images/2016/06/20/adaptaDark.png)

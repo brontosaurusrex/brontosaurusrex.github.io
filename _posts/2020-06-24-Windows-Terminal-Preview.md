@@ -15,7 +15,7 @@ Can't find an option to disable **cursor blink**. Can't find an option to increa
 	Alt + Shift + d        splits window.
 	Ctrl + Alt + d         closes pane or window.
 
-[![wt.png-jizWdaREmAjWaq8-md](https://images.weserv.nl/?url=https://i.imgur.com/rI2zBZA.png)](https://images.weserv.nl/?url=https://i.imgur.com/Ur2evQn.png) 
+[![wt.png-jizWdaREmAjWaq8-md](https://i.imgur.com/rI2zBZA.png)](https://i.imgur.com/Ur2evQn.png) 
 
 Update:
 
@@ -51,7 +51,7 @@ There is now very usefull command palette, with some keybindings things get real
     { "command": "toggleRetroEffect", "keys": "ctrl+d" },
     { "command": "commandPalette", "keys": "ctrl+space" }
 
-[![wtCommandPalette.png-CJQ6Y6oCuBpckGP-md](https://images.weserv.nl/?url=https://i.imgur.com/xRJbwCm.png)](https://images.weserv.nl/?url=https://i.imgur.com/qvWjhq2.png)
+[![wtCommandPalette.png-CJQ6Y6oCuBpckGP-md](https://i.imgur.com/xRJbwCm.png)](https://i.imgur.com/qvWjhq2.png)
 
 ## Total Commander button bar icon
 

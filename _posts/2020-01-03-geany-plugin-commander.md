@@ -18,4 +18,4 @@ then
     # or
     # ctrl + space
 
-[![commander.png-PvpKkFhuFFzzZHm-md](https://images.weserv.nl/?url=https://i.imgur.com/xHJEOPbl.png)](https://images.weserv.nl/?url=https://i.imgur.com/xHJEOPb.png)
+[![commander.png-PvpKkFhuFFzzZHm-md](https://i.imgur.com/xHJEOPbl.png)](https://i.imgur.com/xHJEOPb.png)

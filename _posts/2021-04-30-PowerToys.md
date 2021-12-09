@@ -11,4 +11,4 @@ tags: misc
 
 Also includes win+shift+c colorpicker.
 
-![color picker](https://images.weserv.nl/?url=https://i.imgur.com/TWiGWDg.png)
+![color picker](https://i.imgur.com/TWiGWDg.png)

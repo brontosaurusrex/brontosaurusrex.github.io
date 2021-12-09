@@ -13,7 +13,7 @@ Usage:
 
 will generate 1920x1200 image with bunch of lines (useful as some sort of mask).
 
-[![woot.png-MX6fCDPk0bJh3lz-md](https://images.weserv.nl/?url=https://i.imgur.com/CVopsv5l.png)](https://images.weserv.nl/?url=https://i.imgur.com/CVopsv5.png)
+[![woot.png-MX6fCDPk0bJh3lz-md](https://i.imgur.com/CVopsv5l.png)](https://i.imgur.com/CVopsv5.png)
 
 Additional destruction
 
@@ -21,6 +21,6 @@ Additional destruction
 
 and then blended with original may produce
 
-![lines.md.png](https://images.weserv.nl/?url=https://i.imgur.com/8Ojz1A1.png)
+![lines.md.png](https://i.imgur.com/8Ojz1A1.png)
 
 And it tiles.

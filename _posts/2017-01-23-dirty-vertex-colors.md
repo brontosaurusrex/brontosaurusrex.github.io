@@ -9,27 +9,27 @@ Sort of ambient occlusion
 [https://www.blenderguru.com/tutorials/how-to-quickly-add-dirt-to-crevices/](https://www.blenderguru.com/tutorials/how-to-quickly-add-dirt-to-crevices/)
 
 Landscape Ant addon  
-[![planetarium.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/23/planetarium.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/23/planetarium2.png)
+[![planetarium.th.png](//cdn.scrot.moe/images/2017/01/23/planetarium.th.png)](//cdn.scrot.moe/images/2017/01/23/planetarium2.png)
 
-[Material node](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/23/vertexAO.png).
+[Material node](//cdn.scrot.moe/images/2017/01/23/vertexAO.png).
 
 3440x1440  
-[![planetarium3_ps2.th.jpg](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/23/planetarium3_ps2.th.jpg)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/23/planetarium3_ps2.jpg)
-[![planetarium4_ps5.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/23/planetarium4_ps5.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/23/planetarium4_ps5.png)
-[![planetarium3_ps3.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/23/planetarium3_ps3.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/23/planetarium3_ps3.png)
-[![planetarium5_ps1.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/24/planetarium5_ps1.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/24/planetarium5_ps1.png)
+[![planetarium3_ps2.th.jpg](//cdn.scrot.moe/images/2017/01/23/planetarium3_ps2.th.jpg)](//cdn.scrot.moe/images/2017/01/23/planetarium3_ps2.jpg)
+[![planetarium4_ps5.th.png](//cdn.scrot.moe/images/2017/01/23/planetarium4_ps5.th.png)](//cdn.scrot.moe/images/2017/01/23/planetarium4_ps5.png)
+[![planetarium3_ps3.th.png](//cdn.scrot.moe/images/2017/01/23/planetarium3_ps3.th.png)](//cdn.scrot.moe/images/2017/01/23/planetarium3_ps3.png)
+[![planetarium5_ps1.th.png](//cdn.scrot.moe/images/2017/01/24/planetarium5_ps1.th.png)](//cdn.scrot.moe/images/2017/01/24/planetarium5_ps1.png)
 
 1920x1200  
-[![planetarium4_ps5_1920x1200.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/23/planetarium4_ps5_1920x1200.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/23/planetarium4_ps5_1920x1200.png)
+[![planetarium4_ps5_1920x1200.th.png](//cdn.scrot.moe/images/2017/01/23/planetarium4_ps5_1920x1200.th.png)](//cdn.scrot.moe/images/2017/01/23/planetarium4_ps5_1920x1200.png)
 
 Rerender, more samples, lower DOF
 
 1920x1200  
-[![planetarium8_ps1_1920x1200.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_1920x1200.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_1920x1200.png)  
+[![planetarium8_ps1_1920x1200.th.png](//cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_1920x1200.th.png)](//cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_1920x1200.png)  
 3840x1200 (dual monitor)  
-[![planetarium8_ps1_3840x1200.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_3840x1200.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_3840x1200.png)  
+[![planetarium8_ps1_3840x1200.th.png](//cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_3840x1200.th.png)](//cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_3840x1200.png)  
 3440x1440  
-[![planetarium8_ps1_3440x1440.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_3440x1440.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_3440x1440.png)
+[![planetarium8_ps1_3440x1440.th.png](//cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_3440x1440.th.png)](//cdn.scrot.moe/images/2017/01/25/planetarium8_ps1_3440x1440.png)
 
 Why is this not part of the shader nodes? This vertex map is kinda mesh-resolution dependant.
 

@@ -11,4 +11,4 @@ and
 
     dconf write /com/solus-project/budgie-wm/button-layout "'close,maximize,minimize:appmenu'"
     
-[![budgieStretch.th.png](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/04/03/budgieStretch.th.png)](https://images.weserv.nl/?url=//cdn.scrot.moe/images/2017/04/03/budgieStretch.png)
+[![budgieStretch.th.png](//cdn.scrot.moe/images/2017/04/03/budgieStretch.th.png)](//cdn.scrot.moe/images/2017/04/03/budgieStretch.png)
