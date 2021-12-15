@@ -39,7 +39,9 @@ Perhaps a good starting point.
 
 ## Nice themes
 
-Monokai pro (Filter machines)
+Monokai pro (Filter machines) < Turns out they will popup for some registration details...
 
 ![vscodeMonokai-fs8](https://user-images.githubusercontent.com/4248721/145226658-35907702-a0bc-4ceb-b674-d39f0dfdac1d.png)  
-Other cool words are: Dracula, Nord, and Gruvbox.
+Other cool words are: <s>Dracula, Nord</s>, Gruvbox and Zen.  
+Atom material theme is also good.  
+And Abyss (already installed) is interesting.
