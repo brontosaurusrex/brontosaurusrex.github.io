@@ -175,7 +175,7 @@ Praise be.
 
 > In the year 2019, the SETI program at Arecibo Observatory discovers radio broadcasts of music from the vicinity of Alpha Centauri. The first expedition to Rakhat, the world that is sending the music, is organized by the Society of Jesus (Jesuits), known for its missionary, linguistic and scientific activities since the time of its founder, Ignatius of Loyola.
 
-Haven't finished it yet.
+Haven't finished it yet. Stuck at 50%.
 
 ## Based on a True Story: (Not) A Memoir (Norm Macdonald - 2016)
 
@@ -188,3 +188,7 @@ Haven't finished it yet.
 > “Well, wouldn’t it be a better idea to let the audience decide whether it’s really funny?”
 
 >“With all due respect, Lorne, I think that would be the worst thing we could possibly do. Believe me, I’ve been down that road before.”
+
+## Deadlines Don't Care if Janet Doesn't Like Her Photo (David Thorne - 2021)
+
+> I like the yellow chair. It adds a splash of Melissa's personality to an otherwise coherent space. I also like the bee and think we should all incorporate animated gifs into our emails.
