@@ -16,7 +16,7 @@ This guide is now out of date, handle with care.
 Bucentaur is a name that has first two letters the same as Buster.  
 Bucentaur is a next generation of Stretchbang, without stretch and bang.*
 
-[![buc2020.png-whtww7zSOsCbWMt-md](https://images.weserv.nl/?url=https://i.imgur.com/XdJiF7gl.png)](https://images.weserv.nl/?url=https://i.imgur.com/XdJiF7g.png)
+[![image](https://i.imgur.com/XdJiF7gl.png)](https://i.imgur.com/XdJiF7g.png)
 
 ## Install Debian 10
 
