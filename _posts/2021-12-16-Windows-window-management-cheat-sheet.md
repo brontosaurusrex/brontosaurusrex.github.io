@@ -22,3 +22,4 @@ tags: misc
 |    ``⊞ + Shift + ⮜ or ⮞``  |  Move a 🗔 from one monitor to another. |
 |                       |              |
 |    ``⊞ + v``         | Clipboard manager |
+|    ``⊞ + x``         | Power User menu |
