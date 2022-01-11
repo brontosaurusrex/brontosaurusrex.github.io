@@ -20,3 +20,5 @@ tags: misc
 |    ``⊞ + ⮜``         | Maximize the 🗔 on the left side of the screen. |
 |    ``⊞ + ⮞``         | Maximize the 🗔 on the right side of the screen. |
 |    ``⊞ + Shift + ⮜ or ⮞``  |  Move a 🗔 from one monitor to another. |
+|                       |              |
+|    ``⊞ + v``         | Clipboard manager |
