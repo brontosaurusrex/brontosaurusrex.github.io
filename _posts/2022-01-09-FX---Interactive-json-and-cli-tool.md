@@ -11,6 +11,6 @@ There is standalone binary. [Related tools](https://github.com/antonmedv/fx#rela
 
 Example, getting latest xkcd comics url
 
-    curl -s https://xkcd.com/info.0.json | fx .img
+    curl -s https://xkcd.com/info.0.json | fx .img | xsel --clipboard
 
 [HN debate](https://news.ycombinator.com/item?id=29861043).
