@@ -5,7 +5,7 @@ date: '2022-01-25 09:45'
 title: Cli bookmark manager buku - in repos
 tags: linux cli
 ---
-[Wiki](https://github.com/jarun/buku/wiki/System-integration).
+[Wiki](https://github.com/jarun/buku/wiki/System-integration) & [man](/buku.htm).
 
 Import bookmarks from browsers
 

@@ -1,0 +1,2177 @@
+<!-- Creator     : groff version 1.22.4 -->
+<!-- CreationDate: Wed Jan 26 08:47:13 2022 -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta name="generator" content="groff -Thtml, see www.gnu.org">
+<meta http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+<meta name="Content-Style" content="text/css">
+<style type="text/css">
+       p       { margin-top: 0; margin-bottom: 0; vertical-align: top }
+       pre     { margin-top: 0; margin-bottom: 0; vertical-align: top }
+       table   { margin-top: 0; margin-bottom: 0; vertical-align: top }
+       h1      { text-align: center }
+</style>
+<title>BUKU</title>
+
+<!-- Bronto custom css --> <style type="text/css">     p       { margin-top: 0; margin-bottom: 0; vertical-align: top; font-family: 'Noto Serif', serif; font-size: large }     a       { font-family: 'Noto Sans', sans; font-size: large }     pre     { margin-top: 0; margin-bottom: 0; vertical-align: top; font-size: large }     table   { margin-top: 0; margin-bottom: 0; vertical-align: top }     h1      { text-align: center; font-family: 'Noto Serif', serif; font-size: xx-large }     h2      { font-family: 'Noto Sans', sans; }     hr      { border-top: 1px solid black; visibility: hidden; }     a:link {         text-decoration: none;     }     a:visited {         text-decoration: none;     }     a:hover {         text-decoration: underline;     }     a:active {         text-decoration: underline;     }     body {         background-color: #F5F5F5;         color: #111111;         line-height: 1.6;         } </style> </head>
+<body>
+
+<h1 align="center">BUKU</h1>
+
+<a href="#NAME">NAME</a><br>
+<a href="#SYNOPSIS">SYNOPSIS</a><br>
+<a href="#DESCRIPTION">DESCRIPTION</a><br>
+<a href="#OPERATIONAL NOTES">OPERATIONAL NOTES</a><br>
+<a href="#GENERAL OPTIONS">GENERAL OPTIONS</a><br>
+<a href="#EDIT OPTIONS">EDIT OPTIONS</a><br>
+<a href="#SEARCH OPTIONS">SEARCH OPTIONS</a><br>
+<a href="#ENCRYPTION OPTIONS">ENCRYPTION OPTIONS</a><br>
+<a href="#POWER OPTIONS">POWER OPTIONS</a><br>
+<a href="#PROMPT KEYS">PROMPT KEYS</a><br>
+<a href="#ENVIRONMENT">ENVIRONMENT</a><br>
+<a href="#COLORS">COLORS</a><br>
+<a href="#EXAMPLES">EXAMPLES</a><br>
+<a href="#AUTHOR">AUTHOR</a><br>
+<a href="#HOME">HOME</a><br>
+<a href="#WIKI">WIKI</a><br>
+<a href="#REPORTING BUGS">REPORTING BUGS</a><br>
+<a href="#LICENSE">LICENSE</a><br>
+
+<hr>
+
+
+<h2>NAME
+<a name="NAME"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em">buku - Bookmark
+manager like a text-based mini-web</p>
+
+<h2>SYNOPSIS
+<a name="SYNOPSIS"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em"><b>buku
+[OPTIONS] [KEYWORD [KEYWORD ...]]</b></p>
+
+<h2>DESCRIPTION
+<a name="DESCRIPTION"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em"><b>buku</b> is
+a command-line utility to store, tag, search and organize
+bookmarks.</p>
+
+
+<p style="margin-left:11%; margin-top: 1em"><b>Features</b></p>
+
+<p style="margin-left:11%; margin-top: 1em">* Store
+bookmarks with auto-fetched title, tags and description <br>
+* Auto-import from Firefox, Google Chrome and Chromium <br>
+* Open bookmarks and search results in browser <br>
+* Shorten, expand URLs, browse cached page from Wayback
+Machine <br>
+* Text editor integration <br>
+* Lightweight, clean interface, custom colors <br>
+* Powerful search options (regex, substring...) <br>
+* Continuous search with on the fly mode switch <br>
+* Portable, merge-able database to sync between systems <br>
+* Import/export bookmarks from/to HTML, Markdown or Orgfile
+<br>
+* Smart tag management using redirection (&gt;&gt;, &gt;,
+&lt;&lt;) <br>
+* Multithreaded full DB refresh, manual encryption support
+<br>
+* Shell completion scripts, man page with handy examples</p>
+
+<h2>OPERATIONAL NOTES
+<a name="OPERATIONAL NOTES"></a>
+</h2>
+
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p style="margin-top: 1em">1.</p></td>
+<td width="3%"></td>
+<td width="48%">
+
+
+<p style="margin-top: 1em">The database file is stored
+in:</p> </td>
+<td width="35%">
+</td></tr>
+</table>
+
+<p style="margin-left:17%;">-
+<i>$XDG_DATA_HOME/buku/bookmarks.db</i>, if XDG_DATA_HOME is
+defined (first preference), or <br>
+- <i>$HOME/.local/share/buku/bookmarks.db</i>, if HOME is
+defined (second preference), or <br>
+- <i>%APPDATA%\buku\bookmarks.db</i>, if you are on Windows,
+or <br>
+- the current directory.</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p style="margin-top: 1em">2.</p></td>
+<td width="3%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em">If the URL contains characters
+like &rsquo;;&rsquo;, &rsquo;&amp;&rsquo; or brackets they
+may be interpreted specially by the shell. To avoid it, add
+the URL within single or double quotes (&rsquo;/&quot;).</p></td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p>3.</p></td>
+<td width="3%"></td>
+<td width="83%">
+
+
+<p>URLs are unique in DB. The same URL cannot be added
+twice.</p> </td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p>4.</p></td>
+<td width="3%"></td>
+<td width="83%">
+
+
+<p>Bookmarks with immutable titles are listed with
+&rsquo;(L)&rsquo; after the title.</p></td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p>5.</p></td>
+<td width="3%"></td>
+<td width="83%">
+
+
+<p><b>Tags</b>:</p></td></tr>
+</table>
+
+<p style="margin-left:17%;">- Comma (&rsquo;,&rsquo;) is
+the tag delimiter in DB. A tag cannot have comma(s) in it.
+Tags are filtered (for unique tags) and sorted. Tags are
+stored in lower case and can be replaced, appended or
+deleted. <br>
+- Page keywords having a word to comma ratio &gt; 3 are
+appended to description rather than tags. <br>
+- Parent folder (and subfolder) names are converted to
+all-lowercase tags during bookmarks HTML import. <br>
+- Releases prior to v2.7 support both capital and lower
+cases in tags. From v2.7 all tags are stored in lowercase.
+An undocumented option --fixtags is introduced to modify the
+older tags. It also fixes another issue where the same tag
+appears multiple times in the tagset of a record. Run
+<b>buku --fixtags</b> once. <br>
+- Tags can be edited from the prompt very easily using
+&rsquo;&gt;&gt;&rsquo; (append), &rsquo;&gt;&rsquo;
+(overwrite) and &rsquo;&lt;&lt;&rsquo; (remove) symbols. The
+LHS of the operands denotes the indices and ranges of tags
+to apply (as listed by --tag or key &rsquo;t&rsquo; at
+prompt) and the RHS denotes the actual DB indices and ranges
+of the bookmarks to apply the change to.</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p style="margin-top: 1em">6.</p></td>
+<td width="3%"></td>
+<td width="26%">
+
+
+<p style="margin-top: 1em"><b>Update</b> operation:</p></td>
+<td width="57%">
+</td></tr>
+</table>
+
+<p style="margin-left:17%;">- If --title, --tag or
+--comment is passed without argument, clear the
+corresponding field from DB. <br>
+- If --url is passed (and --title is omitted), update the
+title from web using the URL. Description is updated (if
+--comment is omitted). Tags remain untouched. <br>
+- If indices are passed without any other options (--url,
+--title, --tag, --comment and --immutable), read the URLs
+from DB and update titles, description and append tags from
+web. Bookmarks marked immutable are skipped. <br>
+- Can update bookmarks matching a search, when combined with
+any of the search options and no arguments to update are
+passed.</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p style="margin-top: 1em">7.</p></td>
+<td width="3%"></td>
+<td width="26%">
+
+
+<p style="margin-top: 1em"><b>Delete</b> operation:</p></td>
+<td width="57%">
+</td></tr>
+</table>
+
+<p style="margin-left:17%;">- When a record is deleted, the
+last record is moved to the index. <br>
+- Delete doesn&rsquo;t work with range and indices provided
+together as arguments. It&rsquo;s an intentional decision to
+avoid extra sorting, in-range checks and to keep the auto-DB
+compaction functionality intact. On the same lines, indices
+are deleted in descending order. <br>
+- Can delete bookmarks matching a search, when combined with
+any of the search options and no arguments to delete are
+passed.</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p style="margin-top: 1em">8.</p></td>
+<td width="3%"></td>
+<td width="49%">
+
+
+<p style="margin-top: 1em"><b>Search</b> works in
+mysterious ways:</p></td>
+<td width="34%">
+</td></tr>
+</table>
+
+<p style="margin-left:17%;">- Case-insensitive. <br>
+- Matches words in URL, title and tags. <br>
+- --sany : match any of the keywords in URL, title or tags.
+Default search option. <br>
+- --sall : match all the keywords in URL, title or tags.
+<br>
+- --deep : match <b>substrings</b> (&rsquo;match&rsquo;
+matches &rsquo;rematched&rsquo;) in URL, title and tags.
+<br>
+- --sreg : match a regular expression (ignores --deep). <br>
+- --stag : search bookmarks by tags, or list all tags
+alphabetically with usage count (if no arguments). Delimit
+the list of tags in the query with &rsquo;,&rsquo; to search
+for bookmarks that match ANY of the listed tags. Delimit
+tags with &rsquo;+&rsquo; to search for bookmarks that match
+ALL of the listed tags. Note that &rsquo;,&rsquo; and
+&rsquo;+&rsquo; cannot be used together in the same search.
+Exclude bookmarks matching certain tags from the results by
+using &rsquo; - &rsquo; followed by the tags. Note that the
+&rsquo; - &rsquo; operator and the &rsquo; + &rsquo;
+delimiter must be space separated: &rsquo; - &rsquo; instead
+of &rsquo;-&rsquo; and &rsquo; + &rsquo; instead of
+&rsquo;+&rsquo;. This is to distinguish them from hyphenated
+tags (e.g., &rsquo;some-tag-name&rsquo;) and tags with
+&rsquo;+&rsquo;s (e.g., &rsquo;some+tag+name&rsquo;). <br>
+- Search for keywords along with tag filtering is possible.
+Two searches are issued (one for keywords and another for
+tags) and the intersection of the 2 sets is returned as the
+resultset. <br>
+- Search results are indexed incrementally. This index is
+different from actual database index of a bookmark record
+which is shown within &rsquo;[]&rsquo; after the title. <br>
+- Results for <i>any</i> keyword matches are ordered by the
+number of keyword matches - results matching more keywords
+(<i>match score</i>) will appear earlier in the list.
+Results having the same number of matches will be ranked by
+their record DB index. If only one keyword is searched,
+results will be ordered by DB index, since all matching
+records will have the same <i>match score</i>.</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p style="margin-top: 1em">9.</p></td>
+<td width="3%"></td>
+<td width="11%">
+
+
+<p style="margin-top: 1em"><b>Import</b>:</p></td>
+<td width="72%">
+</td></tr>
+</table>
+
+<p style="margin-left:17%;">- Auto-import looks in the
+default installation path and default user profile. <br>
+- URLs starting with &rsquo;place:&rsquo;,
+&rsquo;file://&rsquo; and &rsquo;apt:&rsquo; are ignored
+during import. <br>
+- Parent folder (and subfolder) names are automatically
+imported as tags if --tacit is used. <br>
+- Tags are merged even if bookmark URL exists when --tacit
+is used.</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">10.</p></td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em"><b>Encryption</b> is optional
+and manual. AES256 algorithm is used. To use encryption, the
+database file should be unlocked (-k) before using
+<b>buku</b> and locked (-l) afterwards. Between these 2
+operations, the database file lies unencrypted on the disk,
+and NOT in memory. Also, note that the database file is
+<b>unencrypted on creation</b>.</p></td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p>11.</p></td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p><b>Editor</b> support:</p></td></tr>
+</table>
+
+<p style="margin-left:17%;">- A single bookmark can be
+edited before adding. The editor can be set using the
+environment variable *EDITOR* or by explicitly specifying
+the editor. The latter takes precedence. If -a is used along
+with -w, the details are populated in the editor template.
+<br>
+- In case of edit and update (a single bookmark), the
+existing record details are fetched from DB and populated in
+the editor template. The environment variable EDITOR must be
+set. Note that -u works independently of -w. <br>
+- All lines beginning with &quot;#&quot; will be stripped.
+Then line 1 will be treated as the URL, line 2 will be the
+title, line 3 will be comma separated tags, and the rest of
+the lines will be parsed as descriptions.</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">12.</p></td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em"><b>Proxy</b> support: please
+refer to the <b>ENVIRONMENT</b> section.</p></td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p>13.</p></td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p><b>Alternative DB file</b>:</p></td></tr>
+</table>
+
+<p style="margin-left:17%;">- The option --db (to specify
+an alternative database file location) is app-only. Manual
+usage is prone to issues arising from human error.</p>
+
+<h2>GENERAL OPTIONS
+<a name="GENERAL OPTIONS"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em"><b>-a --add</b>
+<i>URL [tag, ...]</i></p>
+
+<p style="margin-left:22%;">Bookmark <i>URL</i> along with
+comma-separated tags. A tag can have multiple words.</p>
+
+<p style="margin-left:11%;"><b>-u --update</b>
+<i>[...]</i></p>
+
+<p style="margin-left:22%;">Update fields of the bookmarks
+at specified indices in DB. If no arguments are specified,
+all titles and descriptions are refreshed from the web. Tags
+remain untouched. Works with update modifiers for the fields
+url, title, tag and comment. If only indices are passed
+without any edit options, titles and descriptions are
+fetched and updated (if not empty). Accepts hyphenated
+ranges and space-separated indices. Updates search results
+when used with search options, if no arguments.</p>
+
+<p style="margin-left:11%;"><b>-w --write</b>
+<i>[editor|index]</i></p>
+
+<p style="margin-left:22%;">Edit a bookmark in
+<i>editor</i> before adding it. To edit and update an
+existing bookmark, the <i>index</i> should be passed.
+However, in this case the environment variable EDITOR must
+be set. The last record is opened in EDITOR if index=-1.</p>
+
+<p style="margin-left:11%;"><b>-d --delete</b>
+<i>[...]</i></p>
+
+<p style="margin-left:22%;">Delete bookmarks. Accepts
+space-separated list of indices (e.g. 5 6 23 4 110 45) or a
+single hyphenated range (e.g. 100-200). Note that range and
+list don&rsquo;t work together. Deletes search results when
+combined with search options, if no arguments.</p>
+
+<p style="margin-left:11%;"><b>-v --version</b></p>
+
+<p style="margin-left:22%;">Show program version and
+exit.</p>
+
+<p style="margin-left:11%;"><b>-h --help</b></p>
+
+<p style="margin-left:22%;">Show program help and exit.</p>
+
+<h2>EDIT OPTIONS
+<a name="EDIT OPTIONS"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em"><b>--url</b>
+<i>[...]</i></p>
+
+<p style="margin-left:22%;">Specify the URL, works with
+--update only. Fetches and updates title if --title is not
+used.</p>
+
+<p style="margin-left:11%;"><b>--tag</b> <i>[+|-]
+[...]</i></p>
+
+<p style="margin-left:22%;">Specify comma separated tags,
+works with --add, --update. Clears the tags, if no arguments
+passed. Appends or deletes tags, if list of tags is preceded
+by &rsquo;+&rsquo; or &rsquo;-&rsquo; respectively.</p>
+
+<p style="margin-left:11%;"><b>--title</b> <i>[...]</i></p>
+
+<p style="margin-left:22%;">Manually specify the title,
+works with --add, --update. Omits or clears the title, if no
+arguments passed.</p>
+
+<p style="margin-left:11%;"><b>-c --comment</b>
+<i>[...]</i></p>
+
+<p style="margin-left:22%;">Add notes or description of the
+bookmark, works with --add, --update. Clears the comment, if
+no arguments passed.</p>
+
+<p style="margin-left:11%;"><b>--immutable</b> <i>N</i></p>
+
+<p style="margin-left:22%;">Set the title, description and
+tags of a bookmark immutable during autorefresh. Works with
+--add, --update. N=1 sets the immutable flag, N=0 removes
+it. If omitted, bookmarks are added with N=0.</p>
+
+<h2>SEARCH OPTIONS
+<a name="SEARCH OPTIONS"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em"><b>-s
+--sany</b> <i>keyword [...]</i></p>
+
+<p style="margin-left:22%;">Search bookmarks with ANY of
+the keyword(s) in URL, title or tags and show the results.
+Prompts to enter result number to open in browser. Note that
+the sequential result index is not the DB index. The DB
+index is shown within &rsquo;[]&rsquo; after the title. <br>
+This is the default search option for positional arguments
+if no other search option is specified.</p>
+
+<p style="margin-left:11%;"><b>-S --sall</b> <i>keyword
+[...]</i></p>
+
+<p style="margin-left:22%;">Search bookmarks with ALL
+keywords in URL, title or tags and show the results.
+Behaviour same as --sany. <br>
+Special keywords: <br>
+&quot;blank&quot;: list entries with empty title/tag <br>
+&quot;immutable&quot;: list entries with locked title <br>
+NOTE: To search the keywords, use --sany</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="9%">
+
+
+<p><b>--deep</b></p></td>
+<td width="2%"></td>
+<td width="78%">
+
+
+<p>Search modifier to match substrings. Works with --sany,
+--sall.</p> </td></tr>
+</table>
+
+<p style="margin-left:11%;"><b>-r --sreg</b>
+<i>expression</i></p>
+
+<p style="margin-left:22%;">Scan for a regular expression
+match.</p>
+
+<p style="margin-left:11%;"><b>-t --stag</b> <i>[tag [,|+]
+...] [- tag, ...]</i></p>
+
+<p style="margin-left:22%;">Search bookmarks by tags. <br>
+Use &rsquo;,&rsquo; delimiter to find entries matching ANY
+of the tags <br>
+Use &rsquo; + &rsquo; delimiter to find entries matching ALL
+of the tags. (Note that the &rsquo; + &rsquo; delimiter must
+be space separated) <br>
+NOTE: Cannot combine &rsquo;,&rsquo; and &rsquo;+&rsquo; in
+the same search <br>
+Use &rsquo; - &rsquo; to exclude bookmarks that match the
+tags that follow. (Note that the &rsquo;-&rsquo; operator
+must be space separated). <br>
+List all tags alphabetically, if no arguments. The usage
+count (number of bookmarks having the tag) is shown within
+first brackets.</p>
+
+<p style="margin-left:11%;"><b>-x --exclude</b> <i>keyword
+[...]</i></p>
+
+<p style="margin-left:22%;">Exclude bookmarks matching the
+specified keywords. Works with --sany, --sall, --sreg and
+--stag.</p>
+
+<h2>ENCRYPTION OPTIONS
+<a name="ENCRYPTION OPTIONS"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em"><b>-l
+--lock</b> <i>[N]</i></p>
+
+<p style="margin-left:22%;">Encrypt (lock) the DB file with
+<i>N</i> (&gt; 0, default 8) hash passes to generate
+key.</p>
+
+<p style="margin-left:11%;"><b>-k --unlock</b>
+<i>[N]</i></p>
+
+<p style="margin-left:22%;">Decrypt (unlock) the DB file
+with <i>N</i> (&gt; 0, default 8) hash passes to generate
+key.</p>
+
+<h2>POWER OPTIONS
+<a name="POWER OPTIONS"></a>
+</h2>
+
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="6%">
+
+
+<p style="margin-top: 1em"><b>--ai</b></p></td>
+<td width="5%"></td>
+<td width="78%">
+
+
+<p style="margin-top: 1em">Auto-import bookmarks from
+Firefox, Google Chrome and Chromium browsers.</p></td></tr>
+</table>
+
+<p style="margin-left:11%;"><b>-e --export</b>
+<i>file</i></p>
+
+<p style="margin-left:22%;">Export bookmarks to Firefox
+bookmarks formatted HTML. Works with all search options.
+<br>
+Markdown is used if <i>file</i> has extension
+&rsquo;.md&rsquo;. Markdown format: [title](url), 1 entry
+per line. <br>
+Orgfile is used if <i>file</i> has extension
+&rsquo;.org&rsquo; Orgfile format: * [[url][title]], 1 entry
+per line. <br>
+A buku database is generated if <i>file</i> has extension
+&rsquo;.db&rsquo;.</p>
+
+<p style="margin-left:11%;"><b>-i --import</b>
+<i>file</i></p>
+
+<p style="margin-left:22%;">Import bookmarks from Firefox
+bookmarks formatted HTML. <i>file</i> is considered
+Firefox-exported JSON if it has &rsquo;.json&rsquo;
+extension, Markdown (compliant with --export format) if it
+is &rsquo;.md&rsquo;, Orgfile if the extension is
+&rsquo;.org&rsquo; or another buku database if the extension
+is &rsquo;.db&rsquo;.</p>
+
+<p style="margin-left:11%;"><b>-p --print</b>
+<i>[...]</i></p>
+
+<p style="margin-left:22%;">Show details (DB index, URL,
+title, tags and comment) of bookmark record by DB index. If
+no arguments, all records with actual index from DB are
+shown. Accepts hyphenated ranges and space-separated
+indices. A negative value (introduced for convenience)
+behaves like the tail utility, e.g., -n shows the details of
+the last n bookmarks.</p>
+
+<p style="margin-left:11%;"><b>-f --format</b> <i>N</i></p>
+
+<p style="margin-left:22%;">Show selective monochrome
+output with specific fields. Works with --print. Search
+results honour the option when used along with --json.
+Useful for creating batch scripts. <i><br>
+N</i> = 1, show only URL. <i><br>
+N</i> = 2, show URL and tags in a single line. <i><br>
+N</i> = 3, show only title. <i><br>
+N</i> = 4, show URL, title and tags in a single line.
+<i><br>
+N</i> = 5, show title and tags in a single line. <br>
+To omit DB index from printed results, use N0, e.g., 10, 20,
+30, 40, 50.</p>
+
+<p style="margin-left:11%;"><b>-j --json</b></p>
+
+<p style="margin-left:22%;">Output data formatted as JSON,
+works with --print output and search results.</p>
+
+<p style="margin-left:11%;"><b>--colors</b>
+<i>COLORS</i></p>
+
+<p style="margin-left:22%;">Set output colors. Refer to the
+<b>COLORS</b> section below for details.</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="6%">
+
+
+<p><b>--nc</b></p></td>
+<td width="5%"></td>
+<td width="78%">
+
+
+<p>Disable color output in all messages. Useful on
+terminals which can&rsquo;t handle ANSI color codes or
+scripted environments.</p></td></tr>
+</table>
+
+<p style="margin-left:11%;"><b>-n --count</b> <i>N</i></p>
+
+<p style="margin-left:22%;">Number of results to show per
+page (default 10).</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="6%">
+
+
+<p><b>--np</b></p></td>
+<td width="5%"></td>
+<td width="56%">
+
+
+<p>Do not show the prompt, run and exit.</p></td>
+<td width="22%">
+</td></tr>
+</table>
+
+<p style="margin-left:11%;"><b>-o --open</b>
+<i>[...]</i></p>
+
+<p style="margin-left:22%;">Open bookmarks by DB indices or
+ranges in browser. Open a random index if argument is
+omitted.</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="6%">
+
+
+<p><b>--oa</b></p></td>
+<td width="5%"></td>
+<td width="78%">
+
+
+<p>Open all search results immediately in the browser.
+Works best with --np. When used along with --update or
+--delete, URLs are opened in the browser first and then
+modified or deleted.</p></td></tr>
+</table>
+
+<p style="margin-left:11%;"><b>--replace</b> <i>old
+new</i></p>
+
+<p style="margin-left:22%;">Replace <i>old</i> tag with
+<i>new</i> tag if both are passed; delete <i>old</i> tag if
+<i>new</i> tag is not specified.</p>
+
+<p style="margin-left:11%;"><b>--shorten</b>
+<i>index|URL</i></p>
+
+<p style="margin-left:22%;">Shorten the URL at DB
+<i>index</i> or an independent <i>URL</i> using the tny.im
+URL shortener service.</p>
+
+<p style="margin-left:11%;"><b>--expand</b>
+<i>index|URL</i></p>
+
+<p style="margin-left:22%;">Expand the URL at DB
+<i>index</i> or an independent <i>URL</i> shortened using
+tny.im.</p>
+
+<p style="margin-left:11%;"><b>--cached</b>
+<i>index|URL</i></p>
+
+<p style="margin-left:22%;">Browse the latest cached
+version of the URL at DB <i>index</i> or an independent
+<i>URL</i> using the Wayback Machine. Useful for viewing the
+content of bookmarks which are not live any more.</p>
+
+<p style="margin-left:11%;"><b>--suggest</b></p>
+
+<p style="margin-left:22%;">Show a list of similar tags to
+choose from when adding a new bookmark.</p>
+
+<p style="margin-left:11%;"><b>--tacit</b></p>
+
+<p style="margin-left:22%;">Show lesser output. Reduces the
+verbosity of certain operations like add, update etc.</p>
+
+<p style="margin-left:11%;"><b>--threads</b></p>
+
+<p style="margin-left:22%;">Maximum number of parallel
+network connection threads to use during full DB refresh. By
+default 4 connections are spawned. <i>N</i> can range from 1
+to 10.</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p><b>-V</b></p></td>
+<td width="8%"></td>
+<td width="78%">
+
+
+<p>Check the latest upstream version available. This is
+FYI. It is possible the latest upstream released version is
+still not available in your package manager as the process
+takes a while.</p></td></tr>
+</table>
+
+<p style="margin-left:11%;"><b>-g --debug</b></p>
+
+<p style="margin-left:22%;">Show debug information and
+additional logs.</p>
+
+<h2>PROMPT KEYS
+<a name="PROMPT KEYS"></a>
+</h2>
+
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em"><b>1-N</b></p></td>
+<td width="7%"></td>
+<td width="67%">
+
+
+<p style="margin-top: 1em">Browse search results by indices
+and ranges.</p></td>
+<td width="11%">
+</td></tr>
+</table>
+
+<p style="margin-left:11%;"><b>O</b> <i>[id|range
+[...]]</i></p>
+
+<p style="margin-left:22%;">Try to open search results or
+indices (when not in a search context) in a GUI browser.
+Toggle try to open urls in a GUI based browser (even if
+BROWSER is set) if no arguments. Toggling is useful when
+trying to open bookmarks by DB index.</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="1%">
+
+
+<p><b>a</b></p></td>
+<td width="10%"></td>
+<td width="53%">
+
+
+<p>Open all search results in browser.</p></td>
+<td width="25%">
+</td></tr>
+</table>
+
+<p style="margin-left:11%;"><b>s</b> <i>keyword
+[...]</i></p>
+
+<p style="margin-left:22%;">Search for records with ANY
+keyword.</p>
+
+<p style="margin-left:11%;"><b>S</b> <i>keyword
+[...]</i></p>
+
+<p style="margin-left:22%;">Search for records with ALL
+keywords.</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="1%">
+
+
+<p><b>d</b></p></td>
+<td width="10%"></td>
+<td width="78%">
+
+
+<p>Toggle deep search to match substrings
+(&rsquo;pen&rsquo; matches &rsquo;opened&rsquo;).</p></td></tr>
+</table>
+
+<p style="margin-left:11%;"><b>r</b> <i>expression</i></p>
+
+<p style="margin-left:22%;">Run a regular expression
+search.</p>
+
+<p style="margin-left:11%;"><b>t</b> <i>[...]</i></p>
+
+<p style="margin-left:22%;">Search bookmarks by a tag. List
+all tags alphabetically, if no arguments.</p>
+
+<p style="margin-left:11%;"><b>g</b> <i>taglist id|range
+[...] [&gt;&gt;|&gt;|&lt;&lt;] [record id|range ...]</i></p>
+
+<p style="margin-left:22%;">Append, set, remove specific or
+all tags by indices and/or ranges to bookmark indices and/or
+ranges (see <b>EXAMPLES</b> section below). Search by
+space-separated taglist id(s) and/or range if records are
+omitted.</p>
+
+<p style="margin-left:11%;"><b>o</b> <i>id|range
+[...]</i></p>
+
+<p style="margin-left:22%;">Browse bookmarks by indices
+and/or ranges.</p>
+
+<p style="margin-left:11%;"><b>p</b> <i>id|range
+[...]</i></p>
+
+<p style="margin-left:22%;">Print bookmarks by indices
+and/or ranges.</p>
+
+<p style="margin-left:11%;"><b>w</b> <i>[editor|id]</i></p>
+
+<p style="margin-left:22%;">Edit and add or update a
+bookmark.</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="6%">
+
+
+<p><b>c id</b></p></td>
+<td width="5%"></td>
+<td width="69%">
+
+
+<p>Copy url at search result index to clipboard.</p></td>
+<td width="9%">
+</td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="6%">
+
+
+<p><b>?</b></p></td>
+<td width="5%"></td>
+<td width="69%">
+
+
+<p>Show help on prompt keys.</p></td>
+<td width="9%">
+</td></tr>
+</table>
+
+<p style="margin-left:11%;"><b>q, ^D, double Enter</b></p>
+
+<p style="margin-left:22%;">Exit buku.</p>
+
+<h2>ENVIRONMENT
+<a name="ENVIRONMENT"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em"><b>Completion
+scripts</b></p>
+
+<p style="margin-left:22%;">Shell completion scripts for
+Bash, Fish and Zsh can be found in: <i><br>
+
+https://github.com/jarun/buku/blob/master/auto-completion</i></p>
+
+<p style="margin-left:11%;"><b>BROWSER</b></p>
+
+<p style="margin-left:22%;">Overrides the default browser.
+Refer to: <i><br>
+http://docs.python.org/library/webbrowser.html</i></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="9%">
+
+
+<p><b>EDITOR</b></p></td>
+<td width="2%"></td>
+<td width="78%">
+
+
+<p>If defined, will be used as the editor to edit bookmarks
+with option --write.</p></td></tr>
+</table>
+
+<p style="margin-left:11%;"><b>https_proxy</b></p>
+
+<p style="margin-left:22%;">If defined, will be used to
+access http and https resources through the configured
+proxy. Supported format: <br>
+http[s]://[username:password@]proxyhost:proxyport/</p>
+
+<p style="margin-left:11%;"><b>GUI integration</b></p>
+
+<p style="margin-left:22%;"><b>buku</b> can be integrated
+in a GUI environment with simple tweaks. Please refer to:
+<i><br>
+
+https://github.com/jarun/buku/wiki/System-integration</i></p>
+
+<h2>COLORS
+<a name="COLORS"></a>
+</h2>
+
+
+
+<p style="margin-left:11%; margin-top: 1em"><i><b>buku</b></i>
+allows you to customize the color scheme via a five-letter
+string, reminiscent of BSD <b>LSCOLORS</b>. The five letters
+represent the colors of</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="1%">
+
+
+<p>-</p></td>
+<td width="2%"></td>
+<td width="37%">
+
+
+<p>index</p></td>
+<td width="49%">
+</td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="1%">
+
+
+<p>-</p></td>
+<td width="2%"></td>
+<td width="37%">
+
+
+<p>title</p></td>
+<td width="49%">
+</td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="1%">
+
+
+<p>-</p></td>
+<td width="2%"></td>
+<td width="37%">
+
+
+<p>URL</p></td>
+<td width="49%">
+</td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="1%">
+
+
+<p>-</p></td>
+<td width="2%"></td>
+<td width="37%">
+
+
+<p>description/comment/note</p></td>
+<td width="49%">
+</td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="1%">
+
+
+<p>-</p></td>
+<td width="2%"></td>
+<td width="37%">
+
+
+<p>tag</p></td>
+<td width="49%">
+</td></tr>
+</table>
+
+<p style="margin-left:11%;">respectively. The five-letter
+string is passed is as the argument to <br>
+the <b>--colors</b> option, or as the value of the
+environment variable <b><br>
+BUKU_COLORS</b>. <br>
+We offer the following colors/styles:</p>
+
+<p style="margin-left:11%; margin-top: 1em">The default
+colors string is <i>oKlxm</i>, which stands for</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="1%">
+
+
+<p>-</p></td>
+<td width="2%"></td>
+<td width="35%">
+
+
+<p>bright cyan index</p></td>
+<td width="51%">
+</td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="1%">
+
+
+<p>-</p></td>
+<td width="2%"></td>
+<td width="35%">
+
+
+<p>bold bright green title</p></td>
+<td width="51%">
+</td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="1%">
+
+
+<p>-</p></td>
+<td width="2%"></td>
+<td width="35%">
+
+
+<p>bright yellow URL</p></td>
+<td width="51%">
+</td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="1%">
+
+
+<p>-</p></td>
+<td width="2%"></td>
+<td width="35%">
+
+
+<p>normal description</p></td>
+<td width="51%">
+</td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="1%">
+
+
+<p>-</p></td>
+<td width="2%"></td>
+<td width="35%">
+
+
+<p>bright blue tag</p></td>
+<td width="51%">
+</td></tr>
+</table>
+
+<p style="margin-left:11%;">Note that</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="1%">
+
+
+<p>-</p></td>
+<td width="2%"></td>
+<td width="86%">
+
+
+<p>Bright colors (implemented as \x1b[90m - \x1b[97m) may
+not be available in all color-capable terminal
+emulators;</p> </td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="1%">
+
+
+<p>-</p></td>
+<td width="2%"></td>
+<td width="86%">
+
+
+<p>Some terminal emulators draw bold text in bright colors
+instead;</p> </td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="1%">
+
+
+<p>-</p></td>
+<td width="2%"></td>
+<td width="86%">
+
+
+<p>Some terminal emulators only distinguish between bold
+and bright colors via a default-off switch.</p></td></tr>
+</table>
+
+<p style="margin-left:11%;">Please consult the manual of
+your terminal emulator as well as <i><br>
+https://en.wikipedia.org/wiki/ANSI_escape_code</i> for
+details.</p>
+
+<h2>EXAMPLES
+<a name="EXAMPLES"></a>
+</h2>
+
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p style="margin-top: 1em">1.</p></td>
+<td width="3%"></td>
+<td width="55%">
+
+
+<p style="margin-top: 1em"><b>Edit and add</b> a bookmark
+from editor:</p></td>
+<td width="28%">
+</td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -w <br>
+buku -w &rsquo;gedit -w&rsquo; <br>
+buku -w &rsquo;macvim -f&rsquo; -a https://ddg.gg search
+engine, privacy</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+</td>
+<td width="3%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em">The first command picks editor
+from the environment variable <i>EDITOR</i>. The second
+command opens gedit in blocking mode. The third command
+opens macvim with option -f and the URL and tags populated
+in template.</p></td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p>2.</p></td>
+<td width="3%"></td>
+<td width="83%">
+
+
+<p><b>Add</b> a bookmark with <b>tags</b> &rsquo;search
+engine&rsquo; and &rsquo;privacy&rsquo;, <b>comment</b>
+&rsquo;Search engine with perks&rsquo;, <b>fetch page
+title</b> from the web:</p></td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -a
+https://ddg.gg search engine, privacy -c Search engine with
+perks</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+</td>
+<td width="3%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em">In the output, &gt;: url, +:
+comment, #: tags.</p></td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p>3.</p></td>
+<td width="3%"></td>
+<td width="83%">
+
+
+<p><b>Add</b> a bookmark with tags &rsquo;search
+engine&rsquo; &amp; &rsquo;privacy&rsquo; and <b>immutable
+custom title</b> &rsquo;DDG&rsquo;:</p></td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -a
+https://ddg.gg search engine, privacy --title
+&rsquo;DDG&rsquo; --immutable 1</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+</td>
+<td width="3%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em">Note that URL must precede
+tags.</p> </td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p>4.</p></td>
+<td width="3%"></td>
+<td width="83%">
+
+
+<p><b>Add</b> a bookmark <b>without a title</b> (works for
+update too):</p></td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -a
+https://ddg.gg search engine, privacy --title</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p style="margin-top: 1em">5.</p></td>
+<td width="3%"></td>
+<td width="60%">
+
+
+<p style="margin-top: 1em"><b>Edit and update</b> a
+bookmark from editor:</p></td>
+<td width="23%">
+</td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -w
+15012014</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+</td>
+<td width="3%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em">This will open the existing
+bookmark&rsquo;s details in the editor for modifications.
+Environment variable <i>EDITOR</i> must be set.</p></td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p>6.</p></td>
+<td width="3%"></td>
+<td width="83%">
+
+
+<p><b>Update</b> existing bookmark at index 15012014 with
+new URL, tags and comments, fetch title from the web:</p></td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -u
+15012014 --url http://ddg.gg/ --tag web search, utilities -c
+Private search engine</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p style="margin-top: 1em">7.</p></td>
+<td width="3%"></td>
+<td width="81%">
+
+
+<p style="margin-top: 1em"><b>Fetch and update only
+title</b> for bookmark at 15012014:</p></td>
+<td width="2%">
+</td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -u
+15012014</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p style="margin-top: 1em">8.</p></td>
+<td width="3%"></td>
+<td width="69%">
+
+
+<p style="margin-top: 1em"><b>Update only comment</b> for
+bookmark at 15012014:</p></td>
+<td width="14%">
+</td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -u
+15012014 -c this is a new comment</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+</td>
+<td width="3%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em">Applies to --url, --title and
+--tag too.</p></td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p>9.</p></td>
+<td width="3%"></td>
+<td width="83%">
+
+
+<p><b>Export</b> bookmarks tagged &rsquo;tag 1&rsquo; or
+&rsquo;tag 2&rsquo; to HTML, Markdown, Orgfile or a new
+database:</p> </td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -e
+bookmarks.html --stag tag 1, tag 2 <br>
+buku -e bookmarks.md --stag tag 1, tag 2 <br>
+buku -e bookmarks.org --stag tag 1, tag 2 <br>
+buku -e bookmarks.db --stag tag 1, tag 2</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+</td>
+<td width="2%"></td>
+<td width="77%">
+
+
+<p style="margin-top: 1em">All bookmarks are exported if
+search is not opted.</p></td>
+<td width="6%">
+</td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p>10.</p></td>
+<td width="2%"></td>
+<td width="77%">
+
+
+<p><b>Import</b> bookmarks from HTML, Markdown or
+Orgfile:</p> </td>
+<td width="6%">
+</td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -i
+bookmarks.html <br>
+buku -i bookmarks.md <br>
+buku -i bookmarks.db</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">11.</p></td>
+<td width="2%"></td>
+<td width="69%">
+
+
+<p style="margin-top: 1em"><b>Delete only comment</b> for
+bookmark at 15012014:</p></td>
+<td width="14%">
+</td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -u
+15012014 -c</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+</td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em">Applies to --title and --tag
+too. URL cannot be deleted without deleting the
+bookmark.</p> </td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p>12.</p></td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p><b>Update</b> or refresh <b>full DB</b> with page titles
+from the web:</p></td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -u <br>
+buku -u --tacit (show only failures and exceptions)</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+</td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em">This operation can update the
+title or description fields of non-immutable bookmarks by
+parsing the fetched page. Fields are updated only if the
+fetched fields are non-empty. Tags remain untouched.</p></td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p>13.</p></td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p><b>Delete</b> bookmark at index 15012014:</p></td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -d
+15012014</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+</td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em">The last index is moved to the
+deleted index to keep the DB compact. Add --tacit to delete
+without confirmation.</p></td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p>14.</p></td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p><b>Delete all</b> bookmarks:</p></td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku
+-d</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">15.</p></td>
+<td width="2%"></td>
+<td width="55%">
+
+
+<p style="margin-top: 1em"><b>Delete</b> a <b>range or
+list</b> of bookmarks:</p></td>
+<td width="28%">
+</td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -d
+100-200 <br>
+buku -d 100 15 200</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">16.</p></td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em"><b>Search</b> bookmarks for
+<b>ANY</b> of the keywords &rsquo;kernel&rsquo; and
+&rsquo;debugging&rsquo; in URL, title or tags:</p></td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku kernel
+debugging <br>
+buku -s kernel debugging</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">17.</p></td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em"><b>Search</b> bookmarks with
+<b>ALL</b> the keywords &rsquo;kernel&rsquo; and
+&rsquo;debugging&rsquo; in URL, title or tags:</p></td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -S
+kernel debugging</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">18.</p></td>
+<td width="2%"></td>
+<td width="77%">
+
+
+<p style="margin-top: 1em"><b>Search</b> bookmarks
+<b>tagged</b> &rsquo;general kernel concepts&rsquo;:</p></td>
+<td width="6%">
+</td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku --stag
+general kernel concepts</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">19.</p></td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em"><b>Search</b> for bookmarks
+matching <b>ANY</b> of the tags &rsquo;kernel&rsquo;,
+&rsquo;debugging&rsquo;, &rsquo;general kernel
+concepts&rsquo;:</p> </td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku --stag
+kernel, debugging, general kernel concepts</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">20.</p></td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em"><b>Search</b> for bookmarks
+matching <b>ALL</b> of the tags &rsquo;kernel&rsquo;,
+&rsquo;debugging&rsquo;, &rsquo;general kernel
+concepts&rsquo;:</p> </td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku --stag
+kernel + debugging + general kernel concepts</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">21.</p></td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em"><b>Search</b> for bookmarks
+matching any of the keywords &rsquo;hello&rsquo; or
+&rsquo;world&rsquo;, excluding the keywords
+&rsquo;real&rsquo; and &rsquo;life&rsquo;, matching both the
+tags &rsquo;kernel&rsquo; and &rsquo;debugging&rsquo;, but
+<b>excluding</b> the tags &rsquo;general kernel
+concepts&rsquo; and &rsquo;books&rsquo;:</p></td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku hello
+world --exclude real life --stag &rsquo;kernel + debugging -
+general kernel concepts, books&rsquo;</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">22.</p></td>
+<td width="2%"></td>
+<td width="55%">
+
+
+<p style="margin-top: 1em">List <b>all unique tags</b>
+alphabetically:</p> </td>
+<td width="28%">
+</td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku
+--stag</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">23.</p></td>
+<td width="2%"></td>
+<td width="55%">
+
+
+<p style="margin-top: 1em">Run a <b>search and update</b>
+the results:</p></td>
+<td width="28%">
+</td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -s
+kernel debugging -u --tag + linux kernel</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">24.</p></td>
+<td width="2%"></td>
+<td width="55%">
+
+
+<p style="margin-top: 1em">Run a <b>search and delete</b>
+the results:</p></td>
+<td width="28%">
+</td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -s
+kernel debugging -d</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">25.</p></td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em"><b>Encrypt or decrypt</b> DB
+with <b>custom number of iterations</b> (15) to generate
+key:</p> </td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -l 15
+<br>
+buku -k 15</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+</td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em">The same number of iterations
+must be specified for one lock &amp; unlock instance.
+Default is 8, if omitted.</p></td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p>26.</p></td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p><b>Show details</b> of bookmarks at index 15012014 and
+ranges 20-30, 40-50:</p></td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -p
+20-30 15012014 40-50</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">27.</p></td>
+<td width="2%"></td>
+<td width="58%">
+
+
+<p style="margin-top: 1em">Show details of the <b>last 10
+bookmarks</b>:</p> </td>
+<td width="25%">
+</td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -p
+-10</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">28.</p></td>
+<td width="2%"></td>
+<td width="75%">
+
+
+<p style="margin-top: 1em"><b>Show all</b> bookmarks with
+real index from database:</p></td>
+<td width="8%">
+</td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -p <br>
+buku -p | more</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">29.</p></td>
+<td width="2%"></td>
+<td width="57%">
+
+
+<p style="margin-top: 1em"><b>Replace tag</b> &rsquo;old
+tag&rsquo; with &rsquo;new tag&rsquo;:</p></td>
+<td width="26%">
+</td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku
+--replace &rsquo;old tag&rsquo; &rsquo;new
+tag&rsquo;</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">30.</p></td>
+<td width="2%"></td>
+<td width="45%">
+
+
+<p style="margin-top: 1em"><b>Delete tag</b> &rsquo;old
+tag&rsquo; from DB:</p></td>
+<td width="38%">
+</td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku
+--replace &rsquo;old tag&rsquo;</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">31.</p></td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em"><b>Append (or delete) tags</b>
+&rsquo;tag 1&rsquo;, &rsquo;tag 2&rsquo; to (or from)
+existing tags of bookmark at index 15012014:</p></td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -u
+15012014 --tag + tag 1, tag 2 <br>
+buku -u 15012014 --tag - tag 1, tag 2</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">32.</p></td>
+<td width="2%"></td>
+<td width="58%">
+
+
+<p style="margin-top: 1em"><b>Open URL</b> at index
+15012014 in browser:</p></td>
+<td width="25%">
+</td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -o
+15012014</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">33.</p></td>
+<td width="2%"></td>
+<td width="81%">
+
+
+<p style="margin-top: 1em">List bookmarks with <b>no title
+or tags</b> for bookkeeping:</p></td>
+<td width="2%">
+</td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -S
+blank</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">34.</p></td>
+<td width="2%"></td>
+<td width="55%">
+
+
+<p style="margin-top: 1em">List bookmarks with <b>immutable
+title</b>:</p> </td>
+<td width="28%">
+</td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku -S
+immutable</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">35.</p></td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em"><b>Shorten</b> the URL
+www.google.com and the URL at index 20:</p></td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>buku
+--shorten www.google.com <br>
+buku --shorten 20</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">36.</p></td>
+<td width="2%"></td>
+<td width="83%">
+
+
+<p style="margin-top: 1em"><b>Append, remove tags at
+prompt</b> (taglist index to the left, bookmark index to the
+right):</p> </td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em">// append tags
+at taglist indices 4 and 6-9 to existing tags in bookmarks
+at indices 5 and 2-3 <b><br>
+buku (? for help) g 4 9-6 &gt;&gt; 5 3-2</b> <br>
+// set tags at taglist indices 4 and 6-9 as tags in
+bookmarks at indices 5 and 2-3 <b><br>
+buku (? for help) g 4 9-6 &gt; 5 3-2</b> <br>
+// remove all tags from bookmarks at indices 5 and 2-3
+<b><br>
+buku (? for help) g &gt; 5 3-2</b> <br>
+// remove tags at taglist indices 4 and 6-9 from tags in
+bookmarks at indices 5 and 2-3 <b><br>
+buku (? for help) g 4 9-6 &lt;&lt; 5 3-2</b></p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="4%">
+
+
+<p style="margin-top: 1em">37.</p></td>
+<td width="2%"></td>
+<td width="54%">
+
+
+<p style="margin-top: 1em">List bookmarks with <b>colored
+output</b>:</p> </td>
+<td width="29%">
+</td></tr>
+</table>
+
+<p style="margin-left:22%; margin-top: 1em"><b>$ buku
+--colors oKlxm -p</b></p>
+
+<h2>AUTHOR
+<a name="AUTHOR"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em">Arun Prakash
+Jana &lt;engineerarun@gmail.com&gt;</p>
+
+<h2>HOME
+<a name="HOME"></a>
+</h2>
+
+
+
+<p style="margin-left:11%; margin-top: 1em"><i>https://github.com/jarun/buku</i></p>
+
+<h2>WIKI
+<a name="WIKI"></a>
+</h2>
+
+
+
+<p style="margin-left:11%; margin-top: 1em"><i>https://github.com/jarun/buku/wiki</i></p>
+
+<h2>REPORTING BUGS
+<a name="REPORTING BUGS"></a>
+</h2>
+
+
+
+<p style="margin-left:11%; margin-top: 1em"><i>https://github.com/jarun/buku/issues</i></p>
+
+<h2>LICENSE
+<a name="LICENSE"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em">Copyright
+&copy; 2015-2021 Arun Prakash Jana
+&lt;engineerarun@gmail.com&gt;.</p>
+
+<p style="margin-left:11%; margin-top: 1em">License GPLv3+:
+GNU GPL version 3 or later
+&lt;http://gnu.org/licenses/gpl.html&gt;. <br>
+This is free software: you are free to change and
+redistribute it. There is NO WARRANTY, to the extent
+permitted by law.</p>
+<hr>
+</body>
+</html>
