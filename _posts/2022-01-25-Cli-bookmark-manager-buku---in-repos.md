@@ -7,6 +7,10 @@ tags: linux cli
 ---
 [Wiki](https://github.com/jarun/buku/wiki/System-integration).
 
+Import bookmarks from browsers
+
+    buku --ai
+
 Search (regex) - seems to be case insensitive
 
     buku -r thing
@@ -17,10 +21,6 @@ Encrypt, decrypt database
 
     buku -l
     buku -k
-    
-Import bookmarks from browsers
-
-    buku --ai
     
 List last 3 added
 
