@@ -30,6 +30,6 @@ Open bookmark numero 285
 
     buku -o 285
     
-Edit bookmark 285 using geany, comment is possible
+Edit bookmark 285 using geany, comment (that becomes searchable) is possible
 
     export EDITOR=geany; buku -w 285
