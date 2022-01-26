@@ -25,3 +25,11 @@ Import bookmarks from browsers
 List last 3 added
 
     buku -p -3
+    
+Open bookmark numero 285
+
+    buku -o 285
+    
+Edit bookmark 285 using geany, comment is possible
+
+    export EDITOR=geany; buku -w 285
