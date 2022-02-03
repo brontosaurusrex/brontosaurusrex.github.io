@@ -5,6 +5,7 @@ date: '2022-02-03 11:05'
 title: Gradients
 tags: mine 
 ---
+
 <a href="https://i.imgur.com/mwxDAFR.png#nohash" rel="noreferrer"><img src="https://i.imgur.com/mwxDAFRb.png"></a>
 <a href="https://i.imgur.com/qHr96Xr.png#nohash" rel="noreferrer"><img src="https://i.imgur.com/qHr96Xrb.png"></a>
 <a href="https://i.imgur.com/voul0jS.png#nohash" rel="noreferrer"><img src="https://i.imgur.com/voul0jSb.png"></a>
