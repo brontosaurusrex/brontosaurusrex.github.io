@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2022-02-15 10:41'
-title: A monosspace font designed for developers
+title: A monospace font designed for developers
 tags: misc cli bash 
 ---
 [https://news.ycombinator.com/item?id=30336809](https://news.ycombinator.com/item?id=30336809)  
