@@ -23,4 +23,5 @@ tags: misc cli bash
 - [Nerd fonts](https://www.nerdfonts.com/) - Various, patched to include nerd stuff
 - [And 108 more of them](https://www.programmingfonts.org/#monoid)
 
-
+Jetbrains mono experiment  
+<a href="https://i.imgur.com/OUAGcVn.png#nohash" rel="noreferrer"><img src="https://i.imgur.com/OUAGcVnl.png"></a>
