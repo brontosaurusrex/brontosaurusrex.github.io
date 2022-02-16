@@ -521,6 +521,9 @@ _A collection of pure POSIX sh alternatives to external processes_
 ### [https://hn.algolia.com/?q=bash](https://hn.algolia.com/?q=bash)  
 Search for 'bash' in hacker news.
 
+### [pure bash bible](https://github.com/dylanaraps/pure-bash-bible)  
+A collection of pure bash alternatives to external processes.
+
 ## Index
 {:.no_toc}
 
