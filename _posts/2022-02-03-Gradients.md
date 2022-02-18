@@ -32,3 +32,8 @@ Noise overlay used
 <a href="https://i.imgur.com/TfolRAP.png#nohash" rel="noreferrer"><img src="https://i.imgur.com/TfolRAPb.png"></a>
   
 Generated with [wallcolGradient](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/wallcolGradient) or [wallcol2DGradient](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/wallcol2DGradient).
+
+HCL  
+[https://howlettstudios.com/articles/2017/5/6/the-problem-with-hsv](https://howlettstudios.com/articles/2017/5/6/the-problem-with-hsv)  
+> HSV claims to separate out Hue, Saturation, and Brightness/Value, but changes to the Hue can cause dramatic changes to the perceived brightness. What would it look like if we corrected for these errors and built the corrections directly into the color space?
+> Introducing Hue Chroma Lightness (HCL). 
