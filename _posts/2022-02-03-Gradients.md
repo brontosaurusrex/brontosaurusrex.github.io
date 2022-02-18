@@ -37,3 +37,26 @@ HCL
 [https://howlettstudios.com/articles/2017/5/6/the-problem-with-hsv](https://howlettstudios.com/articles/2017/5/6/the-problem-with-hsv)  
 > HSV claims to separate out Hue, Saturation, and Brightness/Value, but changes to the Hue can cause dramatic changes to the perceived brightness. What would it look like if we corrected for these errors and built the corrections directly into the color space?
 > Introducing Hue Chroma Lightness (HCL). 
+
+[RGB to HCL](https://www.chilliant.com/rgb2hsv.html)  
+
+    Converting RGB to HCL
+      float3 RGBtoHCL(in float3 RGB)
+      {
+        float3 HCL;
+        float H = 0;
+        float U = min(RGB.r, min(RGB.g, RGB.b));
+        float V = max(RGB.r, max(RGB.g, RGB.b));
+        float Q = HCLgamma / HCLy0;
+        HCL.y = V - U;
+        if (HCL.y != 0)
+        {
+          H = atan2(RGB.g - RGB.b, RGB.r - RGB.g) / PI;
+          Q *= U / V;
+        }
+        Q = exp(Q);
+        HCL.x = frac(H / 2 - min(frac(H), frac(-H)) / 6);
+        HCL.y *= Q;
+        HCL.z = lerp(-U, V, Q) / (HCLmaxL * 2);
+        return HCL;
+      }
