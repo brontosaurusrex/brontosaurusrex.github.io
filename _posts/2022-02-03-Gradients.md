@@ -60,3 +60,9 @@ HCL
         HCL.z = lerp(-U, V, Q) / (HCLmaxL * 2);
         return HCL;
       }
+
+How about  
+
+    convert xc:#FFBED8 -colorspace HCL txt:
+    # ImageMagick pixel enumeration: 1,1,65535,hcl
+    0,0: (336,25.4902%,83.2929%)  #EEEE4141D53A  hcl(336,25.4902%,83.2929%)
