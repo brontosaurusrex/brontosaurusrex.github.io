@@ -192,3 +192,10 @@ Haven't finished it yet. Stuck at 50%.
 ## Deadlines Don't Care if Janet Doesn't Like Her Photo (David Thorne - 2021)
 
 > I like the yellow chair. It adds a splash of Melissa's personality to an otherwise coherent space. I also like the bee and think we should all incorporate animated gifs into our emails.
+
+## The Man from the Future: The Visionary Life of John von Neumann (Ananyo Bhattacharya - 2022)
+
+> Call me Johnny, he urged the Americans invited to the wild parties he threw at his grand house in Princeton. Though 
+> he never shed a Hungarian accent that made him sound like horror-film legend Bela Lugosi, von Neumann felt that Janos 
+> his real name - sounded altogether too foreign in his new home. Beneath the bonhomie and the sharp suit was a mind 
+> of unimaginable brilliance.
