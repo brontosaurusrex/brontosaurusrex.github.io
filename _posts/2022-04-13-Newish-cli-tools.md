@@ -9,5 +9,6 @@ tags: linux cli bash
 
 fd (find),  
 duf, dust (du),  
-sd (sed),  
+sd (sed),
+croc (file transfer via relay),    
 and more.
