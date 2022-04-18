@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2022-04-18 10:26'
+date: '2022-04-18 10:05'
 title: Black hole (gimped)
 tags: misc 
 ---
