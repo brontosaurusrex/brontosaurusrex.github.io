@@ -1,0 +1,70 @@
+I"
+
+<h2 id="apt-and-dpkg">apt and dpkg</h2>
+
+<h3 id="list-files-in-package">list files in package</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>dpkg-query -L package
+# or if not installed
+apt-file list package
+</code></pre></div></div>
+
+<h3 id="search">search</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>apt-cache search string
+# alias 'search' in stretchbang
+
+aptitude search '?and(~i, ~Araring-backports)'
+# list installed with backport upgrades
+
+aptitude search '~Abackports ?not(~S ~i ~Abackports)'
+# list all available backport packages (installed or not)
+</code></pre></div></div>
+
+<h3 id="version">version</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>apt-cache policy packname
+# or just
+apt-cache policy
+# some sort of repository status
+</code></pre></div></div>
+
+<h3 id="update--upgrade">update / upgrade</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt update &amp;&amp; sudo apt dist-upgrade
+# alias 'up' in stretchbang
+</code></pre></div></div>
+
+<h3 id="install-from-backports">install from backports</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install -t stretch-backports packname
+</code></pre></div></div>
+
+<h3 id="install-with-no-recommends">install with no recommends</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install --no-install-recommends packname
+# only the main dependencies (packages in the Depends field) are installed.
+</code></pre></div></div>
+
+<h3 id="clean-stuff">clean stuff</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt autoremove # removes unused deps
+sudo apt autoclean  # clears downloaded cache
+</code></pre></div></div>
+
+<h3 id="dontbreakdebian">DontBreakDebian</h3>
+
+<p><a href="https://wiki.debian.org/DontBreakDebian">https://wiki.debian.org/DontBreakDebian</a></p>
+
+<h2 id="sysinfo">SysInfo</h2>
+
+<h3 id="ram">ram</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo /usr/sbin/dmidecode --type memory
+</code></pre></div></div>
+
+<h3 id="general">general</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>inxi -F -c 0
+</code></pre></div></div>
+:ET

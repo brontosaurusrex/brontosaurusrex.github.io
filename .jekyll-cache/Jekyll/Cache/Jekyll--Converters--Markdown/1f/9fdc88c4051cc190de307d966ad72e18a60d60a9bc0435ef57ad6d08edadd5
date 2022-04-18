@@ -1,0 +1,15 @@
+I"<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sox orig.wav 90.wav tempo 0.9
+</code></pre></div></div>
+
+<p>Mp3 also possible if</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install libsox-fmt-mp3  
+</code></pre></div></div>
+
+<p>then</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sox orig.mp3 85.mp3 tempo 0.85
+</code></pre></div></div>
+
+<p>or else.</p>
+:ET

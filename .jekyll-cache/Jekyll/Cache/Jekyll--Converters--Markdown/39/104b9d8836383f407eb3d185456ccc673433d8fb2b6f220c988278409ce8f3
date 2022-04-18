@@ -1,0 +1,19 @@
+I"�<p><a href="https://www.nushell.sh/">https://www.nushell.sh/</a></p>
+
+<p>From the book</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; ls | where size &gt; 1kb
+───┬──────────────┬──────┬────────┬────────────
+ # │ name         │ type │ size   │ modified
+───┼──────────────┼──────┼────────┼────────────
+ 0 │ Gemfile      │ File │ 1.1 KB │ 3 days ago
+ 1 │ Gemfile.lock │ File │ 6.9 KB │ 3 days ago
+ 2 │ LICENSE      │ File │ 1.1 KB │ 3 days ago
+ 3 │ SUMMARY.md   │ File │ 3.7 KB │ 3 days ago
+───┴──────────────┴──────┴────────┴────────────
+</code></pre></div></div>
+
+<blockquote>
+  <p>Nu takes cues from a lot of familiar territory: traditional shells like bash, object based shells like PowerShell, functional programming, systems programming, and more.</p>
+</blockquote>
+:ET

@@ -1,0 +1,475 @@
+I"�y<h2 class="no_toc" id="table-of-contents">Table of contents</h2>
+
+<ul id="markdown-toc">
+  <li><a href="#ruby-books" id="markdown-toc-ruby-books">Ruby books</a></li>
+  <li><a href="#loops" id="markdown-toc-loops">Loops</a></li>
+  <li><a href="#integer-to-float" id="markdown-toc-integer-to-float">Integer to float</a></li>
+  <li><a href="#string" id="markdown-toc-string">String</a>    <ul>
+      <li><a href="#multiline" id="markdown-toc-multiline">Multiline</a></li>
+    </ul>
+  </li>
+  <li><a href="#interpolation" id="markdown-toc-interpolation">Interpolation</a></li>
+  <li><a href="#regex" id="markdown-toc-regex">Regex</a></li>
+  <li><a href="#arrays" id="markdown-toc-arrays">Arrays</a>    <ul>
+      <li><a href="#populate-and-empty-an-array" id="markdown-toc-populate-and-empty-an-array">Populate and empty an array</a></li>
+      <li><a href="#iterate-over-array" id="markdown-toc-iterate-over-array">Iterate over array</a></li>
+      <li><a href="#convert-on-the-fly" id="markdown-toc-convert-on-the-fly">Convert on the fly</a></li>
+    </ul>
+  </li>
+  <li><a href="#hashes" id="markdown-toc-hashes">Hashes</a>    <ul>
+      <li><a href="#hashes-within-hashes" id="markdown-toc-hashes-within-hashes">Hashes Within Hashes</a></li>
+    </ul>
+  </li>
+  <li><a href="#if-and-unless" id="markdown-toc-if-and-unless">if and unless</a></li>
+  <li><a href="#ternary-operator" id="markdown-toc-ternary-operator">Ternary operator</a></li>
+  <li><a href="#while-and-until" id="markdown-toc-while-and-until">While and Until</a></li>
+  <li><a href="#code-blocks-closures" id="markdown-toc-code-blocks-closures">Code blocks (closures)</a>    <ul>
+      <li><a href="#method-can-send-multiple-parameters-to-block" id="markdown-toc-method-can-send-multiple-parameters-to-block">Method can send multiple parameters to block.</a></li>
+      <li><a href="#yield" id="markdown-toc-yield">yield</a></li>
+      <li><a href="#safely-closing-the-file-with-the-block" id="markdown-toc-safely-closing-the-file-with-the-block">Safely closing the file with the block</a></li>
+    </ul>
+  </li>
+  <li><a href="#date-and-time" id="markdown-toc-date-and-time">Date and time</a></li>
+  <li><a href="#ranges" id="markdown-toc-ranges">Ranges</a></li>
+  <li><a href="#symbols" id="markdown-toc-symbols">Symbols</a></li>
+  <li><a href="#variables" id="markdown-toc-variables">Variables</a></li>
+  <li><a href="#real-software-i-wrote" id="markdown-toc-real-software-i-wrote">Real software I wrote</a></li>
+  <li><a href="#never-version-of-ruby-on-debian-using-rbenv" id="markdown-toc-never-version-of-ruby-on-debian-using-rbenv">Never version of Ruby on Debian using Rbenv</a></li>
+</ul>
+
+<h2 id="ruby-books">Ruby books</h2>
+
+<p><a href="https://whatpixel.com/best-ruby-books/">https://whatpixel.com/best-ruby-books/</a><br />
+<a href="https://poignant.guide">https://poignant.guide</a></p>
+
+<h2 id="loops">Loops</h2>
+
+<p>Say woot</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="mi">5</span><span class="p">.</span><span class="nf">times</span> <span class="p">{</span> <span class="nb">print</span> <span class="s2">"woot "</span> <span class="p">}</span> 
+<span class="c1">#woot woot woot woot woot =&gt; 5</span>
+</code></pre></div></div>
+
+<p>Unnamed parameter passed from iterator to the ‘chute’, where it gets a name n.</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="mi">1</span><span class="p">.</span><span class="nf">upto</span><span class="p">(</span><span class="mi">6</span><span class="p">)</span> <span class="p">{</span> <span class="o">|</span><span class="n">n</span><span class="o">|</span> <span class="nb">print</span> <span class="n">n</span> <span class="p">}</span> 
+<span class="c1">#123456=&gt; 1</span>
+</code></pre></div></div>
+
+<p>Similar, with spaces, n gets converted to string</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="mi">1</span><span class="p">.</span><span class="nf">upto</span><span class="p">(</span><span class="mi">6</span><span class="p">)</span> <span class="p">{</span> <span class="o">|</span><span class="n">n</span><span class="o">|</span> <span class="nb">print</span> <span class="n">n</span><span class="p">.</span><span class="nf">to_s</span> <span class="o">+</span> <span class="s2">" "</span> <span class="p">}</span> 
+<span class="c1">#1 2 3 4 5 6 =&gt; 1</span>
+</code></pre></div></div>
+
+<p>Similar with do-end, puts is similar to print, but will add new-line</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="mi">1</span><span class="p">.</span><span class="nf">upto</span><span class="p">(</span><span class="mi">6</span><span class="p">)</span> <span class="k">do</span> <span class="o">|</span><span class="n">n</span><span class="o">|</span> 
+    <span class="nb">puts</span> <span class="n">n</span>
+<span class="k">end</span>
+</code></pre></div></div>
+
+<h2 id="integer-to-float">Integer to float</h2>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">x</span> <span class="o">=</span> <span class="mi">10</span>
+<span class="n">y</span> <span class="o">=</span> <span class="mi">3</span>
+<span class="nb">puts</span> <span class="n">x</span><span class="p">.</span><span class="nf">to_f</span> <span class="o">/</span> <span class="n">y</span><span class="p">.</span><span class="nf">to_f</span>
+<span class="c1">#3.333333333333333</span>
+</code></pre></div></div>
+
+<h2 id="string">String</h2>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">x</span><span class="o">=</span><span class="s2">"Test"</span>
+<span class="n">y</span><span class="o">=</span><span class="s2">"String"</span>
+<span class="c1"># if after the fact?</span>
+<span class="nb">puts</span> <span class="s2">"Shiny!"</span> <span class="k">if</span> <span class="n">x</span> <span class="o">+</span> <span class="n">y</span> <span class="o">==</span> <span class="s2">"TestString"</span> 
+<span class="c1">#Shiny!</span>
+</code></pre></div></div>
+
+<h3 id="multiline">Multiline</h3>
+
+<p>Quotation marks replaced with %q and any wisely choosen delimeter</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">x</span> <span class="o">=</span> <span class="sx">%q( woot
+woot
+woot)</span>
+
+<span class="nb">puts</span> <span class="n">x</span>
+
+<span class="c1">#woot</span>
+<span class="c1">#woot</span>
+<span class="c1">#woot</span>
+</code></pre></div></div>
+
+<h2 id="interpolation">Interpolation</h2>
+
+<p>Expressions (and logic) directly in strings. Interpolation refers to the process of inserting the result of an expression into a string literal.</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">x</span> <span class="o">=</span> <span class="mi">10</span> <span class="p">;</span> <span class="n">y</span> <span class="o">=</span> <span class="mi">20</span>
+<span class="nb">puts</span> <span class="s2">"</span><span class="si">#{</span><span class="n">x</span><span class="si">}</span><span class="s2"> + </span><span class="si">#{</span><span class="n">y</span><span class="si">}</span><span class="s2"> = </span><span class="si">#{</span><span class="n">x</span> <span class="o">+</span> <span class="n">y</span><span class="si">}</span><span class="s2">"</span>
+<span class="mi">10</span> <span class="o">+</span> <span class="mi">20</span> <span class="o">=</span> <span class="mi">30</span>
+</code></pre></div></div>
+
+<h2 id="regex">Regex</h2>
+
+<p>For digits</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">string</span> <span class="o">=</span> <span class="s2">"Dog cost $100 and cat is $10"</span>                
+<span class="n">string</span><span class="p">.</span><span class="nf">scan</span><span class="p">(</span><span class="sr">/\d+/</span><span class="p">)</span> <span class="k">do</span> <span class="o">|</span><span class="n">x</span><span class="o">|</span> <span class="p">;</span> <span class="nb">puts</span> <span class="n">x</span> <span class="p">;</span> <span class="k">end</span>               
+<span class="c1">#100</span>
+<span class="c1">#10</span>
+<span class="c1"># \d = any digit and + = match one or many</span>
+</code></pre></div></div>
+
+<p>For set of vowels</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="s2">"spamer"</span><span class="p">.</span><span class="nf">scan</span><span class="p">(</span><span class="sr">/[aeiou]/</span><span class="p">)</span> <span class="p">{</span> <span class="o">|</span><span class="n">vowel</span><span class="o">|</span> <span class="nb">puts</span> <span class="n">vowel</span> <span class="p">}</span>        
+<span class="c1">#a</span>
+<span class="c1">#e</span>
+</code></pre></div></div>
+
+<p>Match should return array of hits</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">puts</span> <span class="s2">"string with vowels"</span> <span class="k">if</span> <span class="s2">"This is a test"</span><span class="p">.</span><span class="nf">match</span><span class="p">(</span><span class="sr">/[aeiou]/</span><span class="p">)</span>
+<span class="n">string</span> <span class="n">with</span> <span class="n">vowels</span>
+</code></pre></div></div>
+
+<h2 id="arrays">Arrays</h2>
+
+<h3 id="populate-and-empty-an-array">Populate and empty an array</h3>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">x</span> <span class="o">=</span> <span class="p">[]</span>
+<span class="n">x</span> <span class="o">&lt;&lt;</span> <span class="s2">"Woot"</span>
+<span class="n">x</span> <span class="o">&lt;&lt;</span> <span class="s2">"is"</span>
+<span class="n">x</span> <span class="o">&lt;&lt;</span> <span class="s2">"this?"</span>
+<span class="nb">puts</span> <span class="n">x</span><span class="p">.</span><span class="nf">pop</span>
+<span class="nb">puts</span> <span class="n">x</span><span class="p">.</span><span class="nf">pop</span>
+<span class="nb">puts</span> <span class="n">x</span><span class="p">.</span><span class="nf">pop</span>
+</code></pre></div></div>
+
+<h3 id="iterate-over-array">Iterate over array</h3>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">[</span> <span class="s2">"a"</span><span class="p">,</span> <span class="s2">"b"</span><span class="p">,</span> <span class="s2">"c"</span><span class="p">].</span><span class="nf">each</span> <span class="p">{</span> <span class="o">|</span><span class="n">element</span><span class="o">|</span> <span class="nb">puts</span> <span class="n">element</span> <span class="p">}</span>
+<span class="c1">#a</span>
+<span class="c1">#b</span>
+<span class="c1">#c</span>
+</code></pre></div></div>
+
+<p>or the same with do..end</p>
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">[</span> <span class="s2">"a"</span><span class="p">,</span> <span class="s2">"b"</span><span class="p">,</span> <span class="s2">"c"</span><span class="p">].</span><span class="nf">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">e</span><span class="o">|</span> 
+    <span class="nb">puts</span> <span class="n">e</span>
+<span class="k">end</span>
+<span class="c1">#a</span>
+<span class="c1">#b</span>
+<span class="c1">#c</span>
+</code></pre></div></div>
+
+<h3 id="convert-on-the-fly">Convert on the fly</h3>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">[</span> <span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span> <span class="p">].</span><span class="nf">collect</span> <span class="p">{</span> <span class="o">|</span><span class="n">e</span><span class="o">|</span> <span class="n">e</span><span class="o">*</span><span class="mi">2</span> <span class="p">}</span>
+<span class="c1">#[2, 4, 6, 8]</span>
+</code></pre></div></div>
+
+<h2 id="hashes">Hashes</h2>
+
+<p>This are key-&gt;value type of arrays (also known as lists or dictionaries)</p>
+
+<blockquote>
+  <p>A Hash is a dictionary-like collection of unique keys and their values. Also called associative arrays, they are similar to Arrays, but where an Array uses integers as its index, a Hash allows you to use any object type.</p>
+</blockquote>
+
+<p>One is two and two is three:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="n">h</span> <span class="o">=</span> <span class="p">{</span> <span class="mi">1</span> <span class="o">=&gt;</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">2</span> <span class="o">=&gt;</span> <span class="mi">3</span> <span class="p">}</span>
+ <span class="n">h</span><span class="p">.</span><span class="nf">each</span> <span class="p">{</span> <span class="o">|</span><span class="n">k</span><span class="p">,</span> <span class="n">v</span><span class="o">|</span> <span class="nb">puts</span> <span class="s2">"</span><span class="si">#{</span><span class="n">k</span><span class="si">}</span><span class="s2"> = </span><span class="si">#{</span><span class="n">v</span><span class="si">}</span><span class="s2">"</span> <span class="p">}</span>
+<span class="c1">#1 = 2</span>
+<span class="c1">#2 = 3</span>
+</code></pre></div></div>
+
+<p>^ Not sure why interpolation is needed here.</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">p</span> <span class="n">h</span><span class="p">.</span><span class="nf">keys</span>
+<span class="c1">#[1, 2]</span>
+</code></pre></div></div>
+
+<p>^ What keys are in hash? (also h.values)</p>
+
+<p>Btw: h.methods should show all methods for the object.</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">h</span><span class="p">.</span><span class="nf">methods</span>
+<span class="c1">#=&gt; [:index, :&lt;=, :replace, :==, :clear, :&gt;=, :[], :to_h, :[]=, :include?, :empty?, :eql?, :fetch, :shift, :select!, :keep_if, :values_at, :inspect, :delete_if, :reject!, :assoc, :rassoc, :compact, :compact!, :flatten, :length, :size, :each, :&lt;, :&gt;, :default, :rehash, :store, :default=, :default_proc, :default_proc=, :to_hash, :to_proc, :each_key, :to_a, :to_s, :each_pair, ...</span>
+</code></pre></div></div>
+
+<p>To determine the type of an object (in ruby that seems to eq to class)</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">h</span><span class="p">.</span><span class="nf">class</span>
+<span class="c1">#=&gt; Hash</span>
+
+<span class="mi">42</span><span class="p">.</span><span class="nf">class</span>
+<span class="c1">#Integer</span>
+
+<span class="mf">42.1</span><span class="p">.</span><span class="nf">class</span>
+<span class="c1">#Float</span>
+
+<span class="mi">42</span><span class="p">.</span><span class="nf">methods</span>
+<span class="c1">#=&gt; [:-@, :**, :&lt;=&gt;, :upto, :&lt;&lt;, :&lt;=, :&gt;=, :==, :chr, :===, :&gt;&gt;, :[], :%, :&amp;, :inspect, :+, :ord, :-, :/, :*, :size, :succ, :&lt;, :&gt;, :to_int, :coerce, :divmod, :to_s, :to_i, :fdiv, :modulo, :remainder, :abs, :magnitude, :integer?, :numerator, :denominator, :floor, :ceil, :round, ...</span>
+
+<span class="mi">42</span><span class="p">.</span><span class="nf">even?</span>
+<span class="c1">#=&gt; true</span>
+
+<span class="o">-</span><span class="mi">42</span><span class="p">.</span><span class="nf">abs</span>
+<span class="c1">#=&gt; 42</span>
+
+<span class="mf">42.1111</span><span class="p">.</span><span class="nf">floor</span> 
+<span class="c1">#=&gt; 42</span>
+</code></pre></div></div>
+
+<h3 id="hashes-within-hashes">Hashes Within Hashes</h3>
+
+<blockquote>
+  <p>It’s possible to have hashes (or, indeed, any sort of object) within hashes, and even arrays within hashes, within hashes! Because everything is an object and hashes and arrays can contain any other objects, there exists the ability to create giant tree structures with hashes and arrays.</p>
+</blockquote>
+
+<h2 id="if-and-unless">if and unless</h2>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">age</span> <span class="o">=</span> <span class="mi">100</span>
+<span class="nb">puts</span> <span class="s2">"No!"</span> <span class="k">if</span> <span class="n">age</span> <span class="o">&lt;</span> <span class="mi">100</span>
+<span class="c1">#=&gt; nil</span>
+<span class="nb">puts</span> <span class="s2">"No!"</span> <span class="k">if</span> <span class="n">age</span> <span class="o">&lt;</span> <span class="mi">101</span>
+<span class="c1">#No!</span>
+</code></pre></div></div>
+
+<p>Unless is the opposite of if</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">puts</span> <span class="s2">"Yes!"</span> <span class="k">unless</span> <span class="n">age</span> <span class="o">&lt;</span> <span class="mi">100</span>
+<span class="c1">#Yes!</span>
+<span class="nb">puts</span> <span class="s2">"Yes!"</span> <span class="k">unless</span> <span class="n">age</span> <span class="o">&lt;</span> <span class="mi">101</span>
+<span class="c1">#=&gt; nil</span>
+</code></pre></div></div>
+
+<p>Multiline</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">he</span> <span class="o">=</span> <span class="s2">"the one"</span>
+<span class="k">if</span> <span class="n">he</span> <span class="o">==</span> <span class="s2">"the one"</span>
+    <span class="nb">puts</span> <span class="s2">"wow"</span>
+<span class="k">end</span>
+<span class="c1">#wow</span>
+</code></pre></div></div>
+
+<h2 id="ternary-operator">Ternary operator</h2>
+
+<blockquote>
+  <p>Ternary (from Latin ternarius) is an adjective meaning “composed of three items”.</p>
+</blockquote>
+
+<p>A short version of if/else</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">age</span> <span class="o">=</span> <span class="mi">50</span>
+<span class="n">result</span> <span class="o">=</span> <span class="n">age</span> <span class="o">&lt;</span> <span class="mi">50</span> <span class="p">?</span> <span class="s2">"young"</span> <span class="p">:</span> <span class="s2">"old"</span>
+<span class="nb">puts</span> <span class="n">result</span>
+<span class="c1">#old</span>
+</code></pre></div></div>
+
+<p>Structure is</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;condition&gt; ? &lt;result if true&gt; : &lt;result if false&gt;
+</code></pre></div></div>
+
+<h2 id="while-and-until">While and Until</h2>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">x</span> <span class="o">=</span> <span class="mi">0</span>
+<span class="k">while</span> <span class="n">x</span> <span class="o">&lt;</span> <span class="mi">12</span>
+    <span class="nb">print</span> <span class="n">x</span><span class="p">.</span><span class="nf">to_s</span> <span class="o">+</span> <span class="s2">" "</span>
+    <span class="n">x</span> <span class="o">+=</span> <span class="mi">1</span>
+<span class="k">end</span>
+<span class="c1">#0 1 2 3 4 5 6 7 8 9 10 11</span>
+</code></pre></div></div>
+
+<h2 id="code-blocks-closures">Code blocks (closures)</h2>
+
+<blockquote>
+  <p>What if we could pass a chunck of code into a method, like it was an argument? We could put the looping code at the top and bottom of the method, and then in the middle, we could run the code that was passed in!</p>
+</blockquote>
+
+<blockquote>
+  <p>A <strong>block</strong> is a chunk of code that you associate with a method call.</p>
+</blockquote>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">my_method</span><span class="p">(</span><span class="o">&amp;</span><span class="n">my_block</span><span class="p">)</span> <span class="c1"># takes block as a parameter, notice ampersand thing</span>
+    <span class="nb">puts</span> <span class="s2">"We are in the method, soon to invoke block"</span>
+    <span class="n">my_block</span><span class="p">.</span><span class="nf">call</span> <span class="c1"># calling block</span>
+    <span class="nb">puts</span> <span class="s2">"We are back in the method"</span>
+<span class="k">end</span>
+
+<span class="c1"># A block</span>
+<span class="n">my_method</span> <span class="k">do</span>
+    <span class="nb">puts</span> <span class="s2">"We are in the block"</span>
+<span class="k">end</span>
+</code></pre></div></div>
+
+<p>Ampersand in method definition will make ruby expect a block and convert it to an object and store it in that parameter. Block is a chunck of code that you pass into a method. The call method invokes the block’s code.</p>
+
+<h3 id="method-can-send-multiple-parameters-to-block">Method can send multiple parameters to block.</h3>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># method</span>
+<span class="k">def</span> <span class="nf">give</span><span class="p">(</span><span class="o">&amp;</span><span class="n">my_block</span><span class="p">)</span>
+    <span class="n">my_block</span><span class="p">.</span><span class="nf">call</span><span class="p">(</span><span class="s2">"string one"</span><span class="p">,</span> <span class="s2">"string two"</span><span class="p">)</span>
+<span class="k">end</span>
+
+<span class="c1"># block</span>
+<span class="n">give</span> <span class="k">do</span> <span class="o">|</span><span class="n">parameter1</span><span class="p">,</span> <span class="n">parameter2</span><span class="o">|</span>
+    <span class="nb">puts</span> <span class="s2">"My method gave me"</span>
+    <span class="nb">puts</span> <span class="n">parameter1</span><span class="p">,</span> <span class="n">parameter2</span>
+<span class="k">end</span>
+<span class="c1">#My method gave me</span>
+<span class="c1">#string one</span>
+<span class="c1">#string two</span>
+</code></pre></div></div>
+
+<h3 id="yield">yield</h3>
+
+<blockquote>
+  <ol>
+    <li>produce or provide (a natural, agricultural, or industrial product).</li>
+    <li>give way to arguments, demands, or pressure.</li>
+  </ol>
+</blockquote>
+
+<p>Yield is easier way to accept blocks.</p>
+
+<blockquote>
+  <p>The <strong>yield</strong> keyword will find and invoke block a method was called with with no need to declare a parameter.</p>
+</blockquote>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">woot</span>
+    <span class="k">yield</span>
+    <span class="k">yield</span> <span class="c1"># can also pass parameters: yield "string one", "string two"</span>
+<span class="k">end</span>
+</code></pre></div></div>
+
+<p>is the same as</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">woot</span><span class="p">(</span><span class="o">&amp;</span><span class="n">my_block</span><span class="p">)</span>
+    <span class="n">my_block</span><span class="p">.</span><span class="nf">call</span>
+    <span class="n">my_block</span><span class="p">.</span><span class="nf">call</span>
+<span class="k">end</span>
+</code></pre></div></div>
+
+<p>Block can also return values.</p>
+
+<h3 id="safely-closing-the-file-with-the-block">Safely closing the file with the block</h3>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">lines</span> <span class="o">=</span> <span class="p">[]</span> <span class="c1"># making lines var working outside the scope of a block</span>
+<span class="no">File</span><span class="p">.</span><span class="nf">open</span><span class="p">(</span><span class="s2">"review.txt"</span><span class="p">)</span> <span class="k">do</span> <span class="o">|</span><span class="n">review</span><span class="o">|</span>
+    <span class="n">lines</span> <span class="o">=</span> <span class="n">review</span><span class="p">.</span><span class="nf">readlines</span> 
+    <span class="c1"># ^ local block var, can't be seen outside, </span>
+    <span class="c1"># unless lines is defined before the block</span>
+<span class="k">end</span> <span class="c1"># closes the file</span>
+
+<span class="nb">puts</span><span class="p">.</span><span class="nf">lines</span><span class="p">.</span><span class="nf">length</span>
+</code></pre></div></div>
+
+<h2 id="date-and-time">Date and time</h2>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">puts</span> <span class="no">Time</span><span class="p">.</span><span class="nf">now</span>
+<span class="nb">puts</span> <span class="no">Time</span><span class="p">.</span><span class="nf">now</span> <span class="o">+</span> <span class="mi">60</span> <span class="c1"># seconds</span>
+</code></pre></div></div>
+
+<h2 id="ranges">Ranges</h2>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">(</span><span class="s1">'A'</span><span class="o">..</span><span class="s1">'Z'</span><span class="p">).</span><span class="nf">to_a</span><span class="p">.</span><span class="nf">each</span> <span class="p">{</span> <span class="o">|</span><span class="n">l</span><span class="o">|</span> <span class="nb">print</span> <span class="n">l</span> <span class="p">}</span>
+<span class="c1">#ABCDEFGHIJKLMNOPQRSTUVWXYZ</span>
+ <span class="p">(</span><span class="mi">1</span><span class="o">..</span><span class="mi">42</span><span class="p">).</span><span class="nf">each</span> <span class="p">{</span> <span class="o">|</span><span class="n">l</span><span class="o">|</span> <span class="nb">print</span> <span class="n">l</span><span class="p">.</span><span class="nf">to_s</span> <span class="o">+</span> <span class="s2">" "</span> <span class="p">}</span>
+<span class="c1">#1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 </span>
+</code></pre></div></div>
+
+<h2 id="symbols">Symbols</h2>
+
+<p><a href="http://rubylearning.com/satishtalim/ruby_symbols.html">http://rubylearning.com/satishtalim/ruby_symbols.html</a></p>
+
+<blockquote>
+  <p>A symbol looks like a variable name but it’s prefixed with a colon. Examples - :action, :line_items. You don’t have to pre-declare a symbol and they are guaranteed to be unique. There’s no need to assign some kind of value to a symbol - Ruby takes care of that for you. Ruby also guarantees that no matter where it appears in your program, a particular symbol will have the same value.</p>
+</blockquote>
+
+<h2 id="variables">Variables</h2>
+
+<p>Local</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">function</span>
+    <span class="n">x</span> <span class="o">=</span> <span class="mi">50</span>
+    <span class="nb">puts</span> <span class="n">x</span>
+<span class="k">end</span>
+
+<span class="n">x</span> <span class="o">=</span> <span class="mi">10</span>
+<span class="n">function</span>
+<span class="nb">puts</span> <span class="n">x</span>
+<span class="c1">#50</span>
+<span class="c1">#10</span>
+</code></pre></div></div>
+
+<p>$Global</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">function</span>
+    <span class="nb">puts</span> <span class="vg">$x</span>
+<span class="k">end</span>
+
+<span class="vg">$x</span> <span class="o">=</span> <span class="mi">10</span>
+<span class="n">function</span>
+<span class="c1"># 10</span>
+</code></pre></div></div>
+
+<p>@Object</p>
+
+<p>@@Class</p>
+
+<h2 id="real-software-i-wrote">Real software I wrote</h2>
+
+<p><a href="https://raw.githubusercontent.com/brontosaurusrex/ruby/master/bin/divisors">Divisors</a> = first blood, find all divisors for natural numbers</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>./divisors 2 3 4 1111 1117
+(2) [1, 2] prime
+(3) [1, 3] prime
+(4) [1, 2, 4]
+(1111) [1, 11, 101, 1111]
+(1117) [1, 1117] prime
+</code></pre></div></div>
+
+<p>Lets prove a 10 digit prime in 44 seconds</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>time ./divisors 1073807359
+(1073807359) [1, 1073807359] prime
+./divisors 1073807359  44.38s user 0.00s system 99% cpu 44.382 total
+</code></pre></div></div>
+
+<p>p.s. Same thing took 29:27,09 total (1/2 hour) on pi3.</p>
+
+<h2 id="never-version-of-ruby-on-debian-using-rbenv">Never version of Ruby on Debian using Rbenv</h2>
+
+<p>Latest stable is 2.7.1 at the time of this writing</p>
+
+<p><a href="https://linuxize.com/post/how-to-install-ruby-on-debian-10/">https://linuxize.com/post/how-to-install-ruby-on-debian-10/</a></p>
+
+<p>Mostly like this</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd
+curl -sL https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-installer | bash -
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' &gt;&gt; ~/.zshrc
+echo 'eval "$(rbenv init -)"' &gt;&gt; ~/.zshrc
+source ~/.zshrc
+rbenv -v
+rbenv install -l
+rbenv install 2.7.1
+rbenv global 2.7.1
+ruby -v
+</code></pre></div></div>
+
+<p><a href="https://rubyreferences.github.io/rubychanges/2.7.html">2.7.1</a> seems worthy (as opposed to version 2.5.5 in Buster), if nothing else irb will get automagic line padding, also experimental stuff like <a href="https://speakerdeck.com/k_tsj/pattern-matching-new-feature-in-ruby-2-dot-7">pattern matching</a>.</p>
+
+<p>If the rbenv install fails, try</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install autoconf bison build-essential libssl-dev libyaml-dev libreadline-dev zlib1g-dev libncurses5-dev libffi-dev libgdbm6 libgdm-dev
+</code></pre></div></div>
+
+<p>NOTAFIX: In case of WSL all kind of connection trouble may occur due to the thing trying to use ipv6, to disable that globally <a href="https://askubuntu.com/questions/958876/how-to-disable-ipv6-on-windows-subsystem-for-linux/1013248#1013248">read this</a>.</p>
+
+:ET

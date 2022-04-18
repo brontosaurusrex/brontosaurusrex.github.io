@@ -1,0 +1,106 @@
+I"
+<h2 id="bin">~/bin</h2>
+
+<h3 id="bman">bman</h3>
+
+<p>Manual page in browser. To define browser:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>xdg-settings set default-web-browser google-chrome.desktop
+</code></pre></div></div>
+
+<h3 id="bloby">bloby</h3>
+
+<p>Stores configs.</p>
+
+<h3 id="noise">noise</h3>
+
+<p>Noisy wallpaper.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>noise +++ -p # p is permanent
+</code></pre></div></div>
+
+<h3 id="dfasci">dfasci</h3>
+
+<p>Disk space usage.</p>
+
+<h3 id="duh2">duh2</h3>
+
+<p>Dir space usage.</p>
+
+<h3 id="epub2pdf-svg2pdf-scg2png">epub2pdf, svg2pdf, scg2png</h3>
+
+<p>Epub to pdf, svg to pdf …</p>
+
+<h3 id="showmesomefonts">showMeSomeFonts</h3>
+
+<p>Urxvt and fonts.</p>
+
+<h3 id="getblender28">getBlender28</h3>
+
+<p>Download and unpack latest Blender to ~/apps/blender28/.</p>
+
+<h3 id="bcterm-pycalc">bcterm, pycalc</h3>
+
+<p>Pyhton session that acts like a calc.</p>
+
+<h3 id="printvolcont">printVolCont</h3>
+
+<p>Tint2 volume thing.</p>
+
+<h3 id="thumb2018">thumb2018</h3>
+
+<p>Thumbnail maker.</p>
+
+<h3 id="newpost">newPost</h3>
+
+<p>Jekyll (configure blog path before usage)</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>newPost "the post title" tag1 tag2 tagN
+</code></pre></div></div>
+
+<h3 id="rplay">rplay</h3>
+
+<p>Old audio player with r128 correction.</p>
+
+<h3 id="printwaverform">printWaverform</h3>
+
+<p>New audio player with waveform.</p>
+
+<h3 id="bronto">bronto</h3>
+
+<p>ASCII logo.</p>
+
+<h3 id="findosaurus">findosaurus</h3>
+
+<p>An attempt at ‘find’ command simplification.</p>
+
+<h3 id="pipesysinfo">pipeSysInfo</h3>
+
+<p>Small sysinfo, also usefull as openbox menu. Generaly speaking scripts that start with ‘pipe’ are usually openbox/xml related.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pipeSysInfo      # cli
+pipeSysInfo pipe # xml
+</code></pre></div></div>
+
+<h3 id="screenrex-screenrexhuff">screenrex, screenrexHuff</h3>
+
+<p>Video screen recorders, config the script before use.</p>
+
+<h3 id="randomwordfromdict">randomWordFromDict</h3>
+
+<p>limpidity.</p>
+
+<h3 id="push">push</h3>
+
+<p>File(s) to remote ssh, configure before use.</p>
+
+<h3 id="open">open</h3>
+
+<p>Simulates osx open command.</p>
+
+<h3 id="clock">clock</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>tty-clock -C 4 -c -f ''
+</code></pre></div></div>
+
+:ET

@@ -1,0 +1,11 @@
+I"+<p><a href="https://github.com/antonmedv/fx">https://github.com/antonmedv/fx</a><br />
+There is standalone binary. <a href="https://github.com/antonmedv/fx#related">Related tools</a>, also jq (should be in repos) and <a href="https://github.com/tomnomnom/gron">gron</a>. <br />
+<img src="https://camo.githubusercontent.com/1bdef90eaab60a00024adb27a167e2ccdf713869bdf186350299b42d36311f2d/68747470733a2f2f6d6564762e696f2f6173736574732f66782e676966" style="mix-blend-mode: multiply;" /></p>
+
+<p>Example, getting latest xkcd comics url</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>curl -s https://xkcd.com/info.0.json | fx .img | xsel --clipboard
+</code></pre></div></div>
+
+<p><a href="https://news.ycombinator.com/item?id=29861043">HN debate</a>.</p>
+:ET

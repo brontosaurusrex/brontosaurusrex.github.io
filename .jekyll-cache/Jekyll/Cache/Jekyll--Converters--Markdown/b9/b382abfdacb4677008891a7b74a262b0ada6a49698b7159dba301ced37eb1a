@@ -1,0 +1,461 @@
+I"1Q<p><a href="#toc" id="markdown-toc-toc"><img src="/media/stretchBangLogo.png" style="max-width:1032px; position:relative; left:50%; transform:translate(-50%, 0%); margin-top: -100px; margin-bottom: -110px" /></a></p>
+
+<h1 id="severely-out-of-date">Severely out of date</h1>
+
+<p>This guide is now severely out of date, handle with care.</p>
+
+<h1 id="install-debian-9">Install Debian 9</h1>
+
+<p><a href="https://www.debian.org/distrib/netinst">Official iso</a> or <a href="https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/">with non-free firmware</a></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>md5sum *.iso # or
+md5sum -c MD5SUMS
+# firmware-9.1.0-amd64-netinst.iso: OK
+</code></pre></div></div>
+
+<p>Install base system, skip creating root user and sudo should be the automagic default. When asked for additional stuff only select <em>standard system utilities</em> and <em>SSH server</em> if you so wish.</p>
+
+<p>Boot into cli, install/configure git, sed, vim</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install git apt-transport-https sed vim
+git config --global core.editor "vim" # optional
+</code></pre></div></div>
+
+<h2 id="get-stretchbang-git-and-apply-configs">get stretchbang git and apply configs</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd &amp;&amp; mkdir source &amp;&amp; cd source
+git clone https://github.com/brontosaurusrex/stretchbang
+cd stretchbang
+git config credential.helper store # optional
+# git checkout 01   # optionally checkout version tagged as 01
+./overwriteConfigs  # copy user stuff, themes, fonts, icons ...
+./fixPaths          # in .wbar and .Xresources
+./makeUserDirs      # mkdir documents downloads images ...
+</code></pre></div></div>
+
+<p>sources.list with some https power</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo cp -b etc/apt/sources.list /etc/apt
+sudo apt update &amp;&amp; sudo apt dist-upgrade
+</code></pre></div></div>
+
+<p>Network-manager</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd source/stretchbang
+sudo cp -b etc/network/interfaces /etc/network
+</code></pre></div></div>
+
+<p><a href="https://wiki.debian.org/NetworkManager">https://wiki.debian.org/NetworkManager</a></p>
+
+<h3 id="install-packages">Install packages</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># automatic
+cd ~/source/stretchbang/packs
+sudo ./installLess # or sudo ./installAll
+
+# or manual
+cd ~/source/stretchbang/packs
+sudo apt install -y $(cat base.list)
+sudo apt install -y --no-install-recommends \
+$(cat baseNoInstallRec.list)
+# libreoffice, gimp, inkscape:
+sudo apt install -y $(cat extra.list)
+
+# reboot
+systemctl reboot
+</code></pre></div></div>
+
+<p>Should now boot into lightdm / openbox.</p>
+
+<p><a href="https://virtualboxes.org/doc/installing-guest-additions-on-debian/">Virtual box guest additions.</a></p>
+
+<hr />
+
+<h1 id="themes-icons-fonts">Themes, icons, fonts</h1>
+<p>Arc-Darker for ‘Widget’, Arc-Dark_ob_border_kv for ‘Window Border’ in lxappearance. ‘Papirus GTK b’ for icons. Cuprum is the main font.</p>
+
+<p>Darker version would be Adapta-Nokto for gtk and openbox, ‘Breeze Dark Papirus GTK b full’ for icons, .Xresources.adaptaColors, ‘browser’ script for firefox (patched to wbar and ob menu).</p>
+
+<p>edit: Another nice icon set is <a href="https://github.com/Nitrux/luv-icon-theme">luv</a>. With inheritance in index.theme set to</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Inherits=breeze-dark-Papirus-GTK-b_full
+</code></pre></div></div>
+
+<p>or some other Papirus variant.</p>
+
+<p>To make a quick dark version <a href="https://brontosaurusrex.github.io/2018/01/11/luv-icon-theme/">see here</a>.</p>
+
+<h1 id="wbar">wbar</h1>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install --no-install-recommends wbar wbar-config
+sudo rm /etc/xdg/autostart/wbar.desktop # start wbar in ob autostart
+</code></pre></div></div>
+
+<ul>
+  <li>wbar does not autohide and will not take place on desktop &lt; fix it with some openbox margins (bottom in this case)</li>
+  <li>wbar does not behave very friendly in multi-monitor enviroments.</li>
+  <li>wbar config is local floating point character dependent</li>
+</ul>
+
+<p>The easiest way to reload wbar is right-clicking it.</p>
+
+<h1 id="compile-new-version-of-tint2">Compile new version of tint2</h1>
+
+<p>This is optional, either run <em>~/source/stretchbang/compileTint2</em> or</p>
+
+<p>Install dependencies
+<a href="https://gitlab.com/o9000/tint2/wikis/Install#dependencies">https://gitlab.com/o9000/tint2/wikis/Install#dependencies</a></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd ~/source
+git clone https://gitlab.com/o9000/tint2.git
+cd tint2
+# checkout if you want specific version, see page
+mkdir build &amp;&amp; cd build
+# sudo apt install cmake
+cmake ..
+make
+# make a soft link in ~/bin,
+# at next login the new tint2 will be started
+ln -s ~/source/tint2/build/tint2 ~/bin/tint2
+</code></pre></div></div>
+
+<h1 id="expected-behaviour">Expected behaviour</h1>
+
+<h2 id="printvolcont-in-tint2">printVolCont in tint2</h2>
+<p><em>~/bin/printVolCont</em> is something that can be used to control ALSA master volume, alternative would be volumeicon-alsa or pnmixer.</p>
+
+<h2 id="install-firefox-addons">Install firefox addons</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Run the script
+./firefoxAddons
+</code></pre></div></div>
+
+<p>Click the blue install buttons (as needed) and restart the browser.</p>
+
+<p>To enable smooth scrolling and scrolling with middle-mice-hold button go to <em>about:preferences#advanced</em> and enable stuff under Browsing (autoscrolling, smooth scrolling, hardware accelearation, spelling) as needed.</p>
+
+<p>Edit: Note that with Quantum alsa is no longer supported, also check some design tweaks here:<br />
+<a href="https://brontosaurusrex.github.io/2018/09/08/firefox-quantum/">https://brontosaurusrex.github.io/2018/09/08/firefox-quantum/</a></p>
+
+<h2 id="hosts-file">hosts file</h2>
+<p><a href="http://someonewhocares.org/hosts/zero/">http://someonewhocares.org/hosts/zero/</a></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd /etc || exit
+# copy/backup original
+sudo cp hosts hosts.bak # or sudo cp hosts{,.bak}
+cp hosts ~/tmp/orig
+cd ~/tmp || exit
+# get the bad-sites host blocking file
+wget http://someonewhocares.org/hosts/zero/hosts -O zero
+# cat them together
+cat zero orig &gt; hosts
+sudo cp -b hosts /etc
+</code></pre></div></div>
+
+<h2 id="geany">geany</h2>
+<p><a href="https://cdn.scrot.moe/images/2017/08/01/geany.png"><img src="https://cdn.scrot.moe/images/2017/08/01/geany.png" alt="geany.png" /></a></p>
+
+<h2 id="openbox-menu-and-pipe-script">openbox menu and pipe script</h2>
+<p>Static menu with a dynamic twist (powered by <em>pipeMisc</em> and <em>pipeSysInfo</em>).</p>
+
+<p><img src="/media/stretchMenu.png" alt="menu" /></p>
+
+<p>update: pipeMisc is now a generator that outputs ~/bin/misc.xml file,  which is constructed from ~/bin/misc template and in openbox menu read via your average cat (still as pipemenu). Reason: speed.</p>
+
+<h1 id="basic-hotkeys">Basic hotkeys</h1>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>*Launchers*
+
+SUPER (W in rc.xml) +
+space   openbox menu
+w       browser (script)
+f       thunar
+t       urxvt
+e       geany
+v       alsamixer
+m       toggle mute
+x       xkill
+Tab     openbox combined menu
+
+ALT +
+space   gmrun
+
+*Windows*
+
+ALT +
+y,x     left/right half
+c       center window x
+v       full width, quite some height
+m       move to next monitor
+f2      openbox client menu
+
+SUPER +
+f11     fullscreen
+f12     toggle compton # ~/bin/toggleCompton
+s       toggle show desktop
+
+SUPER + ALT +
+c       center window y
+
+SHIFT + ALT +
+left    send to desktop leqft
+right   send to desktop right
+
+Run *hotkeys* or *shortcuts* in terminal for more.
+</code></pre></div></div>
+
+<h1 id="aliases-and-bin-scripts">Aliases and ~/bin scripts</h1>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>fsize 18       # set urxvt font size
+weather        # weather
+today          # small weather
+pipeSysInfo    # extremly basic sysinfo
+bronto         # asci brontographics
+findosaurus -h # find files using find (beta)
+duh            # ncdu's lil brother - disk space usage
+lst            # ls by date
+up             # apt update/upgrade
+search         # apt-cache search
+bman           # man in firefox
+</code></pre></div></div>
+
+<h1 id="autologin">Autologin</h1>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo vi /etc/lightdm/lightdm.conf
+# under [Seat:*] enable
+autologin-user=yourUserName
+</code></pre></div></div>
+
+<h1 id="locale">locale</h1>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>locale -a # list available
+sudo dpkg-reconfigure locales # add some
+</code></pre></div></div>
+
+<p>Making <a href="https://brontosaurusrex.github.io/2017/08/09/gsimplecal-localized/">gsimplecal</a> to start week with your <a href="https://wiki.archlinux.org/index.php/locale">locale</a>.</p>
+
+<p><a href="https://wiki.debian.org/Locale">https://wiki.debian.org/Locale</a>
+<a href="https://wiki.debian.org/ChangeLanguage">https://wiki.debian.org/ChangeLanguage</a></p>
+
+<h2 id="set-keyboard-layout">set keyboard layout</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>setxkbmap us
+setxkbmap de
+</code></pre></div></div>
+
+<h2 id="read-keyboard-layout">read keyboard layout</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>setxkbmap -query # or
+setxkbmap -query | grep layout # or
+setxkbmap -query | grep layout | tr -d 'layout:' | tr -d ' '
+</code></pre></div></div>
+
+<hr />
+
+<h1 id="bleeding-edge">Bleeding edge</h1>
+
+<h2 id="libreoffice-from-backports">libreoffice (from backports)</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install -t stretch-backports libreoffice libreoffice-gtk3
+# xy = language code you want (might be in xy-zw format)
+sudo apt install -t stretch-backports libreoffice-l10n-xy myspell-xy
+# optional icon theme
+sudo apt install -t stretch-backports libreoffice-style-breeze
+</code></pre></div></div>
+
+<p><a href="https://extensions.libreoffice.org/extensions/languagetool">Languagetool</a> extension also exists (untested).</p>
+
+<h2 id="tilix-from-backports">tilix (from backports)</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install -t stretch-backports tilix
+cd .config/tilix
+# to use stretchbang config
+dconf load /com/gexperts/Tilix/ &lt; tilix.dconf
+# or run the provided script.
+</code></pre></div></div>
+
+<p><a href="https://cdn.scrot.moe/images/2018/02/10/thisIsASingleTilixWindow2.png"><img src="https://cdn.scrot.moe/images/2018/02/10/tilixThumb.png" alt="cosIcan.md.png" /></a></p>
+
+<h2 id="gimp-210x">gimp 2.10.x</h2>
+
+<h3 id="flatpak">flatpak</h3>
+
+<p><a href="https://brontosaurusrex.github.io/2018/04/27/gimp-2-10-released/">https://brontosaurusrex.github.io/2018/04/27/gimp-2-10-released/</a></p>
+
+<h3 id="appimage">appimage</h3>
+
+<p><a href="https://discuss.pixls.us/t/gimp-2-10-0-rc1-appimage-available-for-download/7101">https://discuss.pixls.us/t/gimp-2-10-0-rc1-appimage-available-for-download/7101</a></p>
+
+<h2 id="krita">krita</h2>
+
+<p><a href="https://binary-factory.kde.org/job/Krita_Nightly_Appimage_Build/">https://binary-factory.kde.org/job/Krita_Nightly_Appimage_Build/</a></p>
+
+<h2 id="mpv">mpv</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install libncurses5-dev liblua5.1-0.dev devscripts equivs
+cd ~/source
+git clone https://github.com/mpv-player/mpv-build &amp;&amp; cd mpv-build
+# rm any old mpv-build(TAB)
+mk-build-deps
+sudo dpkg -i mpv-build-deps(TAB).deb
+sudo apt-get install -f
+# ./use-mpv-release
+./rebuild -j4
+ln -s ~/source/mpv-build/mpv/build/mpv ~/bin/mpv
+</code></pre></div></div>
+
+<h2 id="adapta-theme">adapta (theme)</h2>
+
+<p><a href="https://github.com/adapta-project/adapta-gtk-theme">https://github.com/adapta-project/adapta-gtk-theme</a></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install autoconf automake libgdk-pixbuf2.0-dev libglib2.0-dev libsass0 libxml2-utils pkg-config sassc parallel
+cd ~/source
+git clone https://github.com/adapta-project/adapta-gtk-theme
+cd adapta(TAB)
+./autogen.sh --enable-parallel --disable-gnome
+make
+sudo make install
+</code></pre></div></div>
+
+<p>Left aligned window titles in openbox</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># example:
+cd /usr/share/themes/Adapta-Nokto/openbox-3
+sudo sh -c 'echo "window.label.text.justify: left" &gt;&gt; themerc'
+</code></pre></div></div>
+
+<p><a href="https://cdn.scrot.moe/images/2017/09/05/cosIcan.png"><img src="https://cdn.scrot.moe/images/2017/09/05/cosIcanThumb.jpg" alt="cosIcan.md.png" /></a></p>
+
+<p><a href="https://brontosaurusrex.github.io/2017/08/23/per-app-theme">Keeping firefox-esr bright.</a> Also check <em>.Xresources.adaptaColors.</em></p>
+
+<h2 id="mandelbulber2">mandelbulber2</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>firefox \
+https://sourceforge.net/projects/mandelbulber/files/latest/download
+# unpack to ~/source (unp mandelTAB) and read the README
+# For stretch it should look like:
+sudo apt install build-essential libqt5gui5 qt5-default libpng16-16 libpng-dev qttools5-dev qttools5-dev-tools libgomp1 libgsl-dev qtmultimedia5-dev libsndfile1-dev libqt5multimedia5-plugins liblzo2-2 liblzo2-dev
+# cd to where you unpacked
+cd makefiles
+qmake mandelbulber.pro
+make all
+# will take a while
+cd ..
+./install
+# delete old settings
+rm -rf ~/mandelbulber ~/.mandelbulber # careful
+</code></pre></div></div>
+
+<p>To have a <a href="https://forums.bunsenlabs.org/viewtopic.php?id=4151">gtk2-like-look</a> consistent with the rest of the system</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install qt5-style-plugins libqt5svg5
+</code></pre></div></div>
+
+<p>Into ~/.xsessionrc add</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>for qt5 apps
+#export QT_STYLE_OVERRIDE=GTK+
+export QT_QPA_PLATFORMTHEME=gtk2
+</code></pre></div></div>
+
+<p><a href="https://scrot.moe/search/images/?q=mandelbulber"><img src="https://cdn.scrot.moe/images/2017/09/02/mandelThumb.jpg" alt="mandel" /></a></p>
+
+<h2 id="atomio">atom.io</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd ~/tmp &amp;&amp; wget https://atom.io/download/deb -O atom.deb
+sudo dpkg -i atom.deb &amp;&amp; rm atom.deb
+</code></pre></div></div>
+
+<p><a href="https://cdn.scrot.moe/images/2017/09/02/atomMarkdown.png"><img src="https://cdn.scrot.moe/images/2017/09/02/atomMarkdown.png" alt="atom" /></a></p>
+
+<h2 id="blender">blender</h2>
+
+<p>Get one from <a href="https://builder.blender.org/download/">https://builder.blender.org/download/</a> or try the script</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>./bin/getBlender
+</code></pre></div></div>
+
+<p>which should download/unpack new one to ~/apps/blender. Script should also work for updates, since it will move/backup old version automagically.</p>
+
+<p>Blender configs might be in</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>~/.config/blender/2.79
+# ^ Nuke that if you wish to start fresh.
+</code></pre></div></div>
+
+<h2 id="sift">sift</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>./getSift # sift to ~/bin
+</code></pre></div></div>
+
+<p><a href="https://sift-tool.org/">Grep on steroids</a>. Also check ack (should be installed).</p>
+
+<h1 id="comments">Comments?</h1>
+
+<p>wow, <a href="https://github.com/brontosaurusrex/stretchbang/issues">so value</a>.</p>
+
+<h1 id="donate">Donate</h1>
+
+<p>You can support the good couse by sending some zcash (ZEC) to this transparent address:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>t1ZARh9pACR2kp7xVJCtC5Xsw8agcFWZy3G
+</code></pre></div></div>
+
+<p>or ethereum (ETH) to this address:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>0x3be5db568f839d700ec32f81627d3218adccef4a
+</code></pre></div></div>
+
+<h1 class="no_toc" id="toc">TOC</h1>
+
+<ul id="markdown-toc">
+  <li><a href="#severely-out-of-date" id="markdown-toc-severely-out-of-date">Severely out of date</a></li>
+  <li><a href="#install-debian-9" id="markdown-toc-install-debian-9">Install Debian 9</a>    <ul>
+      <li><a href="#get-stretchbang-git-and-apply-configs" id="markdown-toc-get-stretchbang-git-and-apply-configs">get stretchbang git and apply configs</a>        <ul>
+          <li><a href="#install-packages" id="markdown-toc-install-packages">Install packages</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="#themes-icons-fonts" id="markdown-toc-themes-icons-fonts">Themes, icons, fonts</a></li>
+  <li><a href="#wbar" id="markdown-toc-wbar">wbar</a></li>
+  <li><a href="#compile-new-version-of-tint2" id="markdown-toc-compile-new-version-of-tint2">Compile new version of tint2</a></li>
+  <li><a href="#expected-behaviour" id="markdown-toc-expected-behaviour">Expected behaviour</a>    <ul>
+      <li><a href="#printvolcont-in-tint2" id="markdown-toc-printvolcont-in-tint2">printVolCont in tint2</a></li>
+      <li><a href="#install-firefox-addons" id="markdown-toc-install-firefox-addons">Install firefox addons</a></li>
+      <li><a href="#hosts-file" id="markdown-toc-hosts-file">hosts file</a></li>
+      <li><a href="#geany" id="markdown-toc-geany">geany</a></li>
+      <li><a href="#openbox-menu-and-pipe-script" id="markdown-toc-openbox-menu-and-pipe-script">openbox menu and pipe script</a></li>
+    </ul>
+  </li>
+  <li><a href="#basic-hotkeys" id="markdown-toc-basic-hotkeys">Basic hotkeys</a></li>
+  <li><a href="#aliases-and-bin-scripts" id="markdown-toc-aliases-and-bin-scripts">Aliases and ~/bin scripts</a></li>
+  <li><a href="#autologin" id="markdown-toc-autologin">Autologin</a></li>
+  <li><a href="#locale" id="markdown-toc-locale">locale</a>    <ul>
+      <li><a href="#set-keyboard-layout" id="markdown-toc-set-keyboard-layout">set keyboard layout</a></li>
+      <li><a href="#read-keyboard-layout" id="markdown-toc-read-keyboard-layout">read keyboard layout</a></li>
+    </ul>
+  </li>
+  <li><a href="#bleeding-edge" id="markdown-toc-bleeding-edge">Bleeding edge</a>    <ul>
+      <li><a href="#libreoffice-from-backports" id="markdown-toc-libreoffice-from-backports">libreoffice (from backports)</a></li>
+      <li><a href="#tilix-from-backports" id="markdown-toc-tilix-from-backports">tilix (from backports)</a></li>
+      <li><a href="#gimp-210x" id="markdown-toc-gimp-210x">gimp 2.10.x</a>        <ul>
+          <li><a href="#flatpak" id="markdown-toc-flatpak">flatpak</a></li>
+          <li><a href="#appimage" id="markdown-toc-appimage">appimage</a></li>
+        </ul>
+      </li>
+      <li><a href="#krita" id="markdown-toc-krita">krita</a></li>
+      <li><a href="#mpv" id="markdown-toc-mpv">mpv</a></li>
+      <li><a href="#adapta-theme" id="markdown-toc-adapta-theme">adapta (theme)</a></li>
+      <li><a href="#mandelbulber2" id="markdown-toc-mandelbulber2">mandelbulber2</a></li>
+      <li><a href="#atomio" id="markdown-toc-atomio">atom.io</a></li>
+      <li><a href="#blender" id="markdown-toc-blender">blender</a></li>
+      <li><a href="#sift" id="markdown-toc-sift">sift</a></li>
+    </ul>
+  </li>
+  <li><a href="#comments" id="markdown-toc-comments">Comments?</a></li>
+  <li><a href="#donate" id="markdown-toc-donate">Donate</a></li>
+</ul>
+
+<h3 class="no_toc"><a href="#">^</a></h3>
+:ET

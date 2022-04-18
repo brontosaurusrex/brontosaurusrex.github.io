@@ -1,0 +1,298 @@
+I"�^<h2 class="no_toc" id="toc">TOC</h2>
+
+<ul id="markdown-toc">
+  <li><a href="#the-selfish-gene" id="markdown-toc-the-selfish-gene">The Selfish Gene</a></li>
+  <li><a href="#to-explain-the-world" id="markdown-toc-to-explain-the-world">To Explain the World</a></li>
+  <li><a href="#creativity-inc-overcoming-the-unseen-forces-that-stand-in-the-way-of-true-inspiration" id="markdown-toc-creativity-inc-overcoming-the-unseen-forces-that-stand-in-the-way-of-true-inspiration">Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</a></li>
+  <li><a href="#rework-change-the-way-you-work-forever" id="markdown-toc-rework-change-the-way-you-work-forever">ReWork: Change the Way You Work Forever</a></li>
+  <li><a href="#css-master" id="markdown-toc-css-master">CSS MASTER</a></li>
+  <li><a href="#tesla-man-out-of-time" id="markdown-toc-tesla-man-out-of-time">Tesla: Man Out of Time</a></li>
+  <li><a href="#byte-of-vim" id="markdown-toc-byte-of-vim">Byte of vim</a></li>
+  <li><a href="#masterminds-of-programming" id="markdown-toc-masterminds-of-programming">Masterminds Of Programming</a></li>
+  <li><a href="#simple-sabotage-field-manual" id="markdown-toc-simple-sabotage-field-manual">Simple Sabotage Field Manual</a></li>
+  <li><a href="#unix-history" id="markdown-toc-unix-history">Unix history</a></li>
+  <li><a href="#parallel-worlds" id="markdown-toc-parallel-worlds">Parallel Worlds</a></li>
+  <li><a href="#alan-turing-and-his-contemporaries-building-the-worlds-first-computers" id="markdown-toc-alan-turing-and-his-contemporaries-building-the-worlds-first-computers">Alan Turing and his contemporaries, Building the world’s first computers</a></li>
+  <li><a href="#surely-youre-joking-mr-feynman" id="markdown-toc-surely-youre-joking-mr-feynman">“Surely You’re Joking, Mr. Feynman!”</a></li>
+  <li><a href="#chasing-new-horizons-inside-the-epic-first-mission-to-pluto" id="markdown-toc-chasing-new-horizons-inside-the-epic-first-mission-to-pluto">Chasing New Horizons: Inside the Epic First Mission to Pluto</a></li>
+  <li><a href="#space-odyssey---stanley-kubrick-arthur-c-clarke-and-the-making-of-a-masterpiece" id="markdown-toc-space-odyssey---stanley-kubrick-arthur-c-clarke-and-the-making-of-a-masterpiece">Space Odyssey - Stanley Kubrick, Arthur C. Clarke, and the Making of a Masterpiece</a></li>
+  <li><a href="#memory-machines---the-evolution-of-hypertext-belinda-barnet" id="markdown-toc-memory-machines---the-evolution-of-hypertext-belinda-barnet">Memory Machines - The Evolution of Hypertext (Belinda Barnet)</a></li>
+  <li><a href="#dot-con-the-art-of-scamming-a-scammer-james-veitch" id="markdown-toc-dot-con-the-art-of-scamming-a-scammer-james-veitch">Dot Con: The Art of Scamming a Scammer (James Veitch)</a></li>
+  <li><a href="#rakety-i-lyudi" id="markdown-toc-rakety-i-lyudi">Rakety i lyudi</a></li>
+  <li><a href="#the-linux-programming-interface" id="markdown-toc-the-linux-programming-interface">The Linux Programming Interface</a></li>
+  <li><a href="#a-new-kind-of-science-stephen-wolfram---2002" id="markdown-toc-a-new-kind-of-science-stephen-wolfram---2002">A New Kind of Science (Stephen Wolfram - 2002)</a></li>
+  <li><a href="#beginning-ruby-from-novice-to-professional" id="markdown-toc-beginning-ruby-from-novice-to-professional">Beginning Ruby: From Novice to Professional</a></li>
+  <li><a href="#to-sleep-in-a-sea-of-stars-christopher-paolini---2020" id="markdown-toc-to-sleep-in-a-sea-of-stars-christopher-paolini---2020">To Sleep in a Sea of Stars (Christopher Paolini - 2020)</a></li>
+  <li><a href="#the-long-way-to-a-small-angry-planet-becky-chambers---2014" id="markdown-toc-the-long-way-to-a-small-angry-planet-becky-chambers---2014">The Long Way to a Small, Angry Planet (Becky Chambers - 2014)</a></li>
+  <li><a href="#the-god-equation-the-quest-for-a-theory-of-everything-michio-kaku---2021" id="markdown-toc-the-god-equation-the-quest-for-a-theory-of-everything-michio-kaku---2021">The God Equation: The Quest for a Theory of Everything (Michio Kaku - 2021)</a></li>
+  <li><a href="#the-testaments-margaret-atwood---2019" id="markdown-toc-the-testaments-margaret-atwood---2019">The Testaments (Margaret Atwood - 2019)</a></li>
+  <li><a href="#sixteen-different-flavours-of-hell-david-thorne---2020" id="markdown-toc-sixteen-different-flavours-of-hell-david-thorne---2020">Sixteen Different Flavours of Hell (David Thorne - 2020)</a></li>
+  <li><a href="#the-sparrow-mary-doria-russell---1996" id="markdown-toc-the-sparrow-mary-doria-russell---1996">The Sparrow (Mary Doria Russell - 1996)</a></li>
+  <li><a href="#based-on-a-true-story-not-a-memoir-norm-macdonald---2016" id="markdown-toc-based-on-a-true-story-not-a-memoir-norm-macdonald---2016">Based on a True Story: (Not) A Memoir (Norm Macdonald - 2016)</a></li>
+  <li><a href="#deadlines-dont-care-if-janet-doesnt-like-her-photo-david-thorne---2021" id="markdown-toc-deadlines-dont-care-if-janet-doesnt-like-her-photo-david-thorne---2021">Deadlines Don’t Care if Janet Doesn’t Like Her Photo (David Thorne - 2021)</a></li>
+  <li><a href="#the-man-from-the-future-the-visionary-life-of-john-von-neumann-ananyo-bhattacharya---2022" id="markdown-toc-the-man-from-the-future-the-visionary-life-of-john-von-neumann-ananyo-bhattacharya---2022">The Man from the Future: The Visionary Life of John von Neumann (Ananyo Bhattacharya - 2022)</a></li>
+</ul>
+
+<h2 id="the-selfish-gene">The Selfish Gene</h2>
+
+<blockquote>
+  <p>is a 1976 book on evolution by Richard Dawkins, in which he builds upon the principal theory of George C. Williams’s Adaptation and Natural Selection (1966). Dawkins uses the term “selfish gene” as a way of expressing the gene-centred view of evolution as opposed to the views focused on the organism and the group, popularising ideas developed during the 1960s by W. D. Hamilton and others. From the gene-centred view, it follows that the more two individuals are genetically related, the more sense (at the level of the genes) it makes for them to behave selflessly with each other.</p>
+</blockquote>
+
+<h2 id="to-explain-the-world">To Explain the World</h2>
+
+<blockquote>
+  <p>A masterful commentary on the history of science from the Greeks to modern times, by Nobel Prize-winning physicist Steven Weinberg—a thought-provoking and important book by one of the most distinguished scientists and intellectuals of our time.</p>
+</blockquote>
+
+<h2 id="creativity-inc-overcoming-the-unseen-forces-that-stand-in-the-way-of-true-inspiration">Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</h2>
+
+<blockquote>
+  <p>Creativity, Inc. is a book for managers who want to lead their employees to new heights, a manual for anyone who strives for originality, and the first-ever, all-access trip into the nerve center of Pixar Animation—into the meetings, postmortems, and “Braintrust” sessions where some of the most successful films in history are made. It is, at heart, a book about how to build a creative culture—but it is also, as Pixar co-founder and president Ed Catmull writes, “an expression of the ideas that I believe make the best in us possible.”</p>
+</blockquote>
+
+<h2 id="rework-change-the-way-you-work-forever">ReWork: Change the Way You Work Forever</h2>
+
+<blockquote>
+  <p>Rework is the perfect playbook for anyone who’s ever dreamed of doing it on their own. Hardcore entrepreneurs, small-business owners, people stuck in day jobs who want to get out, and artists who don’t want to starve anymore will all find valuable inspiration and guidance in these pages.</p>
+</blockquote>
+
+<h2 id="css-master">CSS MASTER</h2>
+
+<blockquote>
+  <p>TIFFANY B. BROWN, CSS has grown from a language for formatting documents into a robust language for designing web applications. Its syntax is easy to learn, making CSS a great entry point for those new to programming. Indeed, it’s often the second language that developers learn, right behind HTML.</p>
+</blockquote>
+
+<h2 id="tesla-man-out-of-time">Tesla: Man Out of Time</h2>
+
+<blockquote>
+  <p>Margaret Cheney explores the brilliant and prescient mind of Nikola Tesla, one of the twentieth century’s greatest scientists and inventors. (TO READ)</p>
+</blockquote>
+
+<h2 id="byte-of-vim">Byte of vim</h2>
+
+<p><a href="https://vim.swaroopch.com">https://vim.swaroopch.com/</a></p>
+
+<h2 id="masterminds-of-programming">Masterminds Of Programming</h2>
+
+<p><a href="/2016/11/25/masterminds-of-programming">2016/11/25/masterminds-of-programming</a></p>
+
+<h2 id="simple-sabotage-field-manual">Simple Sabotage Field Manual</h2>
+
+<p><a href="/2016/08/11/simple-sabotage-field-manual">2016/08/11/simple-sabotage-field-manual</a></p>
+
+<h2 id="unix-history">Unix history</h2>
+
+<p><a href="/2016/08/25/unix-history">2016/08/25/unix-history</a></p>
+
+<h2 id="parallel-worlds">Parallel Worlds</h2>
+
+<blockquote>
+  <p>A Journey Through Creation, Higher Dimensions, and the Future of the Cosmos is a popular science book by Michio Kaku first published in 2004.</p>
+</blockquote>
+
+<h2 id="alan-turing-and-his-contemporaries-building-the-worlds-first-computers">Alan Turing and his contemporaries, Building the world’s first computers</h2>
+
+<blockquote>
+  <p>Whilst mercury delay-line storage systems were being developed at NPL, Cambridge and elsewhere, another line of research had been started in America. Engineers at the Massachusetts Institute of Technology (MIT) had attempted to memorise, or store, a radar scan using electrostatic charges inside a cathode ray tube (CRT). (1946)</p>
+</blockquote>
+
+<p>^ This one is probably not worth reading, besides those little interesting pieces of computer history info.</p>
+
+<h2 id="surely-youre-joking-mr-feynman">“Surely You’re Joking, Mr. Feynman!”</h2>
+
+<p>Anekdotes, but the main idea is ‘how to think about things’.</p>
+
+<blockquote>
+  <p>It’s nice that I got some money ­­ I was able to buy a beach house ­­ but altogether, I think it would have been much nicer not to have had the Prize ­­ because you never, any longer, can be taken straightforwardly in any public situation.</p>
+</blockquote>
+
+<h2 id="chasing-new-horizons-inside-the-epic-first-mission-to-pluto">Chasing New Horizons: Inside the Epic First Mission to Pluto</h2>
+
+<blockquote>
+  <p>In January of 2006, a tiny one-thousand-pound spacecraft, mounted on top of a powerful 224-foot-tall rocket, blasted off from Cape Canaveral, Florida. Thus began the longest and farthest journey of exploration our species has ever attempted—a journey to explore Pluto, the last of the unvisited planets known at the dawn of the Space Age. That spaceship, aptly named New Horizons, carried the hopes and dreams of a team of scientists and engineers who had poured much of their lives into what had—at many times—seemed an improbable quest.</p>
+</blockquote>
+
+<blockquote>
+  <p>There were many reasons that some expected Pluto to be a relatively dead world, geologically speaking. After all, it is such a small planet, and it lacks the tidal heat sources that being in a giant planet’s satellite system would provide. Also, it is far from the Sun and solar heating is weak. So, by the conventional wisdom born of exploring the rest of the solar system, Pluto should have been largely or even completely geologically inactive for eons. But the conventional wisdom was seriously wrong. New Horizons found a wide range of surface ages, ranging from ancient and heavily cratered to completely fresh-looking areas with no craters at all— meaning that Pluto has been geologically active throughout its 4- billion-year history. In fact, Pluto has been alive and kicking throughout history, and is even today. Why that is so is the subject of intense scientific debate and modeling, and it portends that we can expect more surprises when other small planets in the Kuiper Belt are explored.</p>
+</blockquote>
+
+<h2 id="space-odyssey---stanley-kubrick-arthur-c-clarke-and-the-making-of-a-masterpiece">Space Odyssey - Stanley Kubrick, Arthur C. Clarke, and the Making of a Masterpiece</h2>
+
+<blockquote>
+  <p>HAL’s red eye was actually a Nikon 8-millimeter wide-angle lens lit from behind.</p>
+</blockquote>
+
+<blockquote>
+  <p>On hearing that they still hadn’t figured out how HAL could overhear them, Lyndon looked at Dullea and Lockwood as though it was the most obvious thing in the world. “He could just read your lips,” he said. There was a moment of thunderstruck silence. “God, that’s a great idea!” Kubrick exclaimed. They had their answer.</p>
+</blockquote>
+
+<h2 id="memory-machines---the-evolution-of-hypertext-belinda-barnet">Memory Machines - The Evolution of Hypertext (Belinda Barnet)</h2>
+
+<blockquote>
+  <p><a href="https://en.wikipedia.org/wiki/Douglas_Engelbart">Engelbart</a> believes that human beings live within an existing technical and cultural system, an ‘augmentation’ system. We are born with a particular set of genetic capabilities, and then we build on these innate capabilities using tools, techniques, skills, language and technology. There is no ‘naked ape’; from the moment we are born we are always already augmented by language, tools and technologies. This augmentation system defines the limits of what is possible for us as a species.</p>
+</blockquote>
+
+<blockquote>
+  <p>One dream in particular has recurred throughout this book: a device that ‘enables associative connections that attempt to partially reflect the ‘intricate web of trails carried by the cells of the brain’ (Wardrip-Fruin 2003, 35). More precisely, a tool for thought – a tool that might organize the mass of deeply tangled data that surrounds us. For the world grows more and more complex every day, and the information we are expected to keep track of proliferates at every click. How are we to keep track of the mess? The problem that Bush identified in 1945 is just as urgent today.</p>
+</blockquote>
+
+<h2 id="dot-con-the-art-of-scamming-a-scammer-james-veitch">Dot Con: The Art of Scamming a Scammer (James Veitch)</h2>
+
+<blockquote>
+  <p>And the poem?</p>
+</blockquote>
+
+<h2 id="rakety-i-lyudi">Rakety i lyudi</h2>
+
+<p><a href="https://www.nasa.gov/connect/ebooks/rockets_people_vol1_detail.html">https://www.nasa.gov/connect/ebooks/rockets_people_vol1_detail.html</a></p>
+
+<blockquote>
+  <p>Boris Chertok’s sixty-year-long career and the many successes and failures of the Soviet space program constitute the core of his memoirs, Rockets and People</p>
+</blockquote>
+
+<h2 id="the-linux-programming-interface">The Linux Programming Interface</h2>
+
+<blockquote>
+  <p>In this authoritative work, Linux programming expert Michael Kerrisk provides detailed descriptions of the system calls and library functions that you need in order to master the craft of system programming</p>
+</blockquote>
+
+<blockquote>
+  <p>A process doesn’t know where it is located in RAM or, in general, whether a particular part of its memory space is currently resident in memory or held in the swap area (a
+reserved area of disk space used to supplement the computer’s RAM). Similarly, a process doesn’t know where on the disk drive the files it accesses are being held; it
+simply refers to the files by name. A process operates in isolation; it can’t directly
+communicate with another process. A process can’t itself create a new process or even end its own existence. Finally, a process can’t communicate directly with the input and output devices attached to the computer. By contrast, a running system has one kernel that knows and controls every-thing. The kernel facilitates the running of all processes on the system. The kernel decides which process will next obtain access to the CPU, when it will do so, and for…</p>
+</blockquote>
+
+<p>Absosmurfly essential reading, wish I found this before.</p>
+
+<h2 id="a-new-kind-of-science-stephen-wolfram---2002">A New Kind of Science (Stephen Wolfram - 2002)</h2>
+
+<p><a href="https://en.wikipedia.org/wiki/A_New_Kind_of_Science">https://en.wikipedia.org/wiki/A_New_Kind_of_Science</a></p>
+
+<blockquote>
+  <p>The remarkable feature of simple programs is that a significant percentage of them are capable of producing great complexity. Simply enumerating all possible variations of almost any class of programs quickly leads one to examples that do unexpected and interesting things. This leads to the question: if the program is so simple, where does the complexity come from? In a sense, there is not enough room in the program’s definition to directly encode all the things the program can do. Therefore, simple programs can be seen as a minimal example of emergence.</p>
+</blockquote>
+
+<p><a href="https://www.youtube.com/watch?v=-t1_ffaFXaoa">Video</a></p>
+
+<h2 id="beginning-ruby-from-novice-to-professional">Beginning Ruby: From Novice to Professional</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>5.times { print "woot " } 
+woot woot woot woot woot =&gt; 5
+</code></pre></div></div>
+
+<h2 id="to-sleep-in-a-sea-of-stars-christopher-paolini---2020">To Sleep in a Sea of Stars (Christopher Paolini - 2020)</h2>
+
+<blockquote>
+  <p>With subsequent attempts, the xeno grew more
+receptive, and she was able to get the same
+result with a sense of focused concern—easy
+to produce given the circumstances. While the
+mask was in place, Kira lay for a while, staring
+at the EM fields around her: the giant, hazy
+loops emanating from the Valkyrie ’s fusion
+drive and the generator it fed. The smaller,
+brighter loops clustered around the interior of
+the shuttle and stitched one segment of paneling
+to another with tiny threads of energy.</p>
+</blockquote>
+
+<p>A long book, quasi sci-fi, I made the cloud read it to me out loud (AWS polly).</p>
+
+<h2 id="the-long-way-to-a-small-angry-planet-becky-chambers---2014">The Long Way to a Small, Angry Planet (Becky Chambers - 2014)</h2>
+
+<blockquote>
+  <p>Life aboard the Wayfarer is chaotic and crazy—exactly what Rosemary wants. It’s also about to get extremely dangerous when the crew is offered the job of a lifetime. Tunneling wormholes through space to a distant planet is definitely lucrative and will keep them comfortable for years.</p>
+</blockquote>
+
+<p>Another sci-fi.</p>
+
+<h2 id="the-god-equation-the-quest-for-a-theory-of-everything-michio-kaku---2021">The God Equation: The Quest for a Theory of Everything (Michio Kaku - 2021)</h2>
+
+<blockquote>
+  <p>The God Equation: The Quest for a Theory of Everything is a popular science book by the futurist and physicist Michio Kaku.</p>
+</blockquote>
+
+<p>It was an easy read, Kaku knows how to deal with mortals. I did miss the futuristic part a bit. To my old self it feels I read at least 10 similar books in the previous years. Up to date (I hope) and with all the resources nicely quoted at the end. Also I don’t care about anthropic principles (this surely must all be wrong?) or I don’t understand how this must be applied to real stuff (experiments). The voices from cloud also read this to me (amazon polly).</p>
+
+<p>p.s. The good futuristic part is Ligo put in space, multiple satelites linked with lasers that will listen to the voices of big bang, or (drums) voices from the mother universe - start of creation - god doing its dice thing.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Anthropic_principle">https://en.wikipedia.org/wiki/Anthropic_principle</a></p>
+<blockquote>
+  <p>In 1961, Robert Dicke noted that the age of the universe, as seen by living observers, cannot be random.[9] Instead, biological factors constrain the universe to be more or less in a “golden age”, neither too young nor too old.[10] If the universe were one tenth as old as its present age, there would not have been sufficient time to build up appreciable levels of metallicity (levels of elements besides hydrogen and helium) especially carbon, by nucleosynthesis. Small rocky planets did not yet exist.</p>
+</blockquote>
+
+<p>No.</p>
+
+<h2 id="the-testaments-margaret-atwood---2019">The Testaments (Margaret Atwood - 2019)</h2>
+
+<p><a href="https://en.wikipedia.org/wiki/The_Testaments">From wikipedia</a></p>
+<blockquote>
+  <p>It is a sequel to The Handmaid’s Tale (1985).[2] The novel is set 15 years after the events of The Handmaid’s Tale. It is narrated by Aunt Lydia, a character from the previous novel; Agnes, a young woman living in Gilead; and Daisy, a young woman living in Canada.[3]</p>
+</blockquote>
+
+<p>From the book</p>
+<blockquote>
+  <p>When I’d first begun reading these files, I was appalled and sickened. Was someone trying to cause me distress? Or were the files part of my education? Was my mind being hardened? Was I being prepared for the tasks I would later be performing as an Aunt?</p>
+</blockquote>
+
+<blockquote>
+  <p>This was what the Aunts did, I was learning. They recorded. They waited. They used their information to achieve goals known only to themselves. Their weapons were powerful but contaminating secrets, as the Marthas had always said. Secrets, lies, cunning, deceit-but the secrets, the lies, the cunning, and the deceit of others as well as their own.</p>
+</blockquote>
+
+<p>Praise be.</p>
+
+<h2 id="sixteen-different-flavours-of-hell-david-thorne---2020">Sixteen Different Flavours of Hell (David Thorne - 2020)</h2>
+
+<blockquote>
+  <p>I get all the information I need from algorithms customised to generate content sympathetic to my views.</p>
+</blockquote>
+
+<p><a href="https://27bslash6.com">https://27bslash6.com</a></p>
+
+<h2 id="the-sparrow-mary-doria-russell---1996">The Sparrow (Mary Doria Russell - 1996)</h2>
+
+<blockquote>
+  <p>In the year 2019, the SETI program at Arecibo Observatory discovers radio broadcasts of music from the vicinity of Alpha Centauri. The first expedition to Rakhat, the world that is sending the music, is organized by the Society of Jesus (Jesuits), known for its missionary, linguistic and scientific activities since the time of its founder, Ignatius of Loyola.</p>
+</blockquote>
+
+<p>Haven’t finished it yet. Stuck at 50%.</p>
+
+<h2 id="based-on-a-true-story-not-a-memoir-norm-macdonald---2016">Based on a True Story: (Not) A Memoir (Norm Macdonald - 2016)</h2>
+
+<blockquote>
+  <p>“This sketch is gonna be big, Lorne, real big. Comedy is about what people relate to, and everybody has an answering machine. My God, did you even read it?”</p>
+</blockquote>
+
+<blockquote>
+  <p>“Yes, I read it, Norm, but it’s hardly a sketch. First of all, the host is barely in it. Sandler and Farley have no lines at all. As far as I can tell, it’s just you talking about how you don’t answer your phone anymore and how, later, you tell the person who phoned that you never got the message and that they must have left it on someone else’s answering machine. Then Sandler and Farley laugh for an uncomfortably long time.”</p>
+</blockquote>
+
+<blockquote>
+  <p>“Right, they laugh for a long time because what I’m saying is really funny.”</p>
+</blockquote>
+
+<blockquote>
+  <p>“Well, wouldn’t it be a better idea to let the audience decide whether it’s really funny?”</p>
+</blockquote>
+
+<blockquote>
+  <p>“With all due respect, Lorne, I think that would be the worst thing we could possibly do. Believe me, I’ve been down that road before.”</p>
+</blockquote>
+
+<h2 id="deadlines-dont-care-if-janet-doesnt-like-her-photo-david-thorne---2021">Deadlines Don’t Care if Janet Doesn’t Like Her Photo (David Thorne - 2021)</h2>
+
+<blockquote>
+  <p>I like the yellow chair. It adds a splash of Melissa’s personality to an otherwise coherent space. I also like the bee and think we should all incorporate animated gifs into our emails.</p>
+</blockquote>
+
+<h2 id="the-man-from-the-future-the-visionary-life-of-john-von-neumann-ananyo-bhattacharya---2022">The Man from the Future: The Visionary Life of John von Neumann (Ananyo Bhattacharya - 2022)</h2>
+
+<blockquote>
+  <p>Call me Johnny, he urged the Americans invited to the wild parties he threw at his grand house in Princeton. Though 
+he never shed a Hungarian accent that made him sound like horror-film legend Bela Lugosi, von Neumann felt that Janos 
+his real name - sounded altogether too foreign in his new home. Beneath the bonhomie and the sharp suit was a mind 
+of unimaginable brilliance.</p>
+</blockquote>
+:ET

@@ -1,0 +1,6 @@
+I"Y<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo mkdir /mnt/share
+$ sudo mount -t drvfs '\\server\share' /mnt/share
+</code></pre></div></div>
+
+<p><a href="https://superuser.com/questions/1128634/how-to-access-mounted-network-drive-on-windows-linux-subsystem">superuser source</a>.</p>
+:ET

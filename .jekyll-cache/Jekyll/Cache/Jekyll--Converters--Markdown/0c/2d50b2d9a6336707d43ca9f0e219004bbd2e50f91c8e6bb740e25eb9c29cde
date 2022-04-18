@@ -1,0 +1,164 @@
+I"�<h2 id="learning-links">learning links</h2>
+
+<p><a href="http://learnpython.org/">http://learnpython.org/</a></p>
+
+<h2 id="echo-floating-point-with-4-digits-argument-specifier">echo floating point with 4 digits, “argument specifier”</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>f=3.3465922378323784
+print "%.4f" % f
+</code></pre></div></div>
+
+<p>This should also round corectly, giving 3.3466</p>
+
+<h2 id="functions">functions</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># function
+def sum_two_numbers(a, b):
+    return a + b
+
+# call
+x = sum_two_numbers(1,2)
+print x
+</code></pre></div></div>
+
+<p>a placeholder <code class="language-plaintext highlighter-rouge">pass</code></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>def somefunc():
+    pass #this is a null statement/placeholder    
+</code></pre></div></div>
+
+<h2 id="can-i-have-functions-at-the-bottom-of-the-script">Can I have functions at the bottom of the script?</h2>
+
+<p>As sort of the <code class="language-plaintext highlighter-rouge">gosub</code> old basic approach</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>def main():
+    # my code
+
+def other()
+    ....
+
+def another()
+    ....
+
+def andmore()
+    ....
+
+main()
+</code></pre></div></div>
+
+<p>People say yes.</p>
+
+<h2 id="objects">objects</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Objects are an encapsulation of variables and functions into a single entity. Objects get their variables and functions from classes. Classes are essentially a template to create your objects. 
+
+class MyClass:
+    variable = "blah"
+
+    def function(self):
+        print "This is a message inside the class."
+
+# define object
+myobjectx = MyClass()    # assign the above class(template) to an object 
+print myobjectx.variable # the variable inside of the newly created object "myobjectx"
+
+# another object of the same class
+myobjecty = MyClass()
+myobjecty.variable = "yackity" # change variable
+print myobjecty.variable
+</code></pre></div></div>
+
+<h2 id="dictionaries">dictionaries</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>phonebook = {
+    "John" : 938477566,
+    "Jack" : 938377264,
+    "Jill" : 947662781
+}
+
+# write your code here
+phonebook["Jake"] = 938273443
+del phonebook["Jill"]
+
+# testing code
+if "Jake" in phonebook:
+    print "Jake is listed in the phonebook."
+if "Jill" not in phonebook:
+    print "Jill is not listed in the phonebook."
+</code></pre></div></div>
+
+<h2 id="modules">modules</h2>
+
+<p><a href="http://www.learnpython.org/en/Modules_and_Packages">http://www.learnpython.org/en/Modules_and_Packages</a></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>import urllib
+# which functions are implemented in each module
+dir(urllib)
+# When we find the function in the module we want to use, we can read about it more using the help function, inside the Python interpreter
+help(urllib.urlopen)
+</code></pre></div></div>
+
+<h2 id="lost">lost</h2>
+
+<p>In this exercise, you will need to print an alphabetically sorted list of all functions in the re module, which contain the word find</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>import re
+
+# Your code goes here
+find_members = []
+for member in dir(re):
+    if "find" in member:
+        find_members.append(member)
+
+print sorted(find_members)
+</code></pre></div></div>
+
+<p>find_members is a <code class="language-plaintext highlighter-rouge">list</code> type of structure (something similar to array) and <code class="language-plaintext highlighter-rouge">sorted</code> is a sorting thing (function).</p>
+
+<p>So if i say</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>somelist = [9,8,7]
+print sorted(somelist)
+# [7, 8, 9] &lt; should happen
+</code></pre></div></div>
+
+<h2 id="list-comprehensions">List Comprehensions</h2>
+
+<blockquote>
+  <p>Using a list comprehension, create a new list called “newlist” out of the list “numbers”, which contains only the positive numbers from the list, as integers.</p>
+</blockquote>
+
+<p>After quite some trouble I got this</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>numbers = [34.6, -203.4, 44.9, 68.3, -12.2, 44.6, 12.7]
+newlist = []
+
+for stuff in numbers:
+    
+    #print stuff
+    stuff = int(stuff)
+    
+    if stuff &gt; 0: # this should probably be if 'stuff &gt;= 0:'
+        newlist.append(stuff)
+    
+print newlist
+</code></pre></div></div>
+
+<p>which does work, but the official solution is this 3 liner</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>numbers = [34.6, -203.4, 44.9, 68.3, -12.2, 44.6, 12.7]
+newlist = [int(x) for x in numbers if x &gt; 0] # &lt; what is this? Yeah that is an actual 'List Comprehension'
+print(newlist)
+</code></pre></div></div>
+
+<h2 id="about-printf-style-formatting">About printf style formatting</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># example
+print "Result: %d" % result
+</code></pre></div></div>
+
+<p><a href="https://en.wikipedia.org/wiki/Printf_format_string">https://en.wikipedia.org/wiki/Printf_format_string</a></p>
+
+<p>The <code class="language-plaintext highlighter-rouge">% results</code> part seems to be called ‘string interpolation’.</p>
+
+:ET

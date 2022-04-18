@@ -1,0 +1,77 @@
+I";	<style>
+ol > li:hover {
+  color: #2693ff;
+}
+</style>
+
+<p><a href="#toc" id="markdown-toc-toc"><img src="/media/blender_logo.png" style="max-width:100%; position:relative; left:50%; transform:translate(-50%, 0%); margin-top: -70px; margin-bottom: 0px" /></a></p>
+
+<h2 id="3d-representation">3d representation</h2>
+
+<ol>
+  <li>Solid</li>
+  <li>Poligonal</li>
+  <li>Voxels</li>
+  <li>Various curves/nurbs</li>
+  <li>What else? Volumetrics are what exactly?</li>
+</ol>
+
+<p>What are the tasks that can be achieved with blender (3d print?)</p>
+
+<h2 id="general-quick-overview-of-the-blender--gui">General quick overview of the Blender &amp; GUI</h2>
+
+<ol>
+  <li>3d view</li>
+  <li>Outliner</li>
+  <li>Properties</li>
+  <li>Timeline</li>
+  <li>Shader editor and node editors in general</li>
+</ol>
+
+<h2 id="more-gui">More GUI</h2>
+
+<ol>
+  <li>Spliting/merging panes, full screen, full sreen pane, ect</li>
+  <li>T, N subpanes</li>
+  <li>Hotkeys, hotkey options, manual patching …</li>
+  <li>Preferences and what is there (addons…)</li>
+</ol>
+
+<h2 id="3d-view-navigation">3d view navigation</h2>
+
+<ol>
+  <li>Basic mice stuff explained</li>
+  <li>Numeric keypad views</li>
+  <li>Camera view (N tab explained)</li>
+  <li>Various shader views: solid, wire, devlook, renderer (cycles, eevee)</li>
+</ol>
+
+<h2 id="model-something-poly-modeling">Model something, poly modeling</h2>
+
+<p>For example extrude and bevel an invaders character.<br />
+<em>Not clear what a 3d version of invader really is?</em></p>
+
+<p><img src="/media/spaceInvaders.svg" style="max-width:200px" /></p>
+
+<p>Ngons<br />
+<a href="https://www.youtube.com/watch?v=BjnCV2PIkKA">https://www.youtube.com/watch?v=BjnCV2PIkKA</a></p>
+
+<h2 id="28-keyboard-shortcuts">2.8 Keyboard shortcuts</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Tab &amp; 1 2 3     toggle edit mode and select vertex, edge or face mode
+ctrl + Tab      pie menu
+shift + space   play (depends)
+space           search (depends)
+ctrl + space    fullscreen window
+z               solid, wireframe ...
+q               quick favorites
+</code></pre></div></div>
+
+<h2 id="render-something-with-cycles">Render something with cycles</h2>
+
+<p>Model a quick scene, define materials, lights, render image.</p>
+
+<h2 id="animation">Animation</h2>
+
+<p>Keyframes, procedural, on a path.</p>
+:ET

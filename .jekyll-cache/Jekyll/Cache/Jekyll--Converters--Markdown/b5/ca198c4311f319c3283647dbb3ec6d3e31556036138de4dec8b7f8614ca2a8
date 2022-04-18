@@ -1,0 +1,42 @@
+I"<h2 id="settingsjson">settings.json</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{
+    "window.zoomLevel": 1,
+    "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "Monokai Dimmed",
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": true,
+        "markdown": false
+    },
+    "workbench.activityBar.visible": false,
+    "telemetry.telemetryLevel": "off",
+    "editor.fontFamily": "'Fira code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.mouseWheelZoom": true,
+    "editor.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.lineHeight": 1.5,
+    "editor.minimap.renderCharacters": false,
+    "workbench.sideBar.location": "right",
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "block",
+    "editor.cursorSurroundingLines": 3,
+    "editor.wordWrap": "on",
+    "editor.fontSize": 15,
+
+}
+</code></pre></div></div>
+
+<p>Perhaps a good starting point.</p>
+
+<h2 id="nice-themes">Nice themes</h2>
+
+<p>Monokai pro (Filter machines) &lt; Turns out they will popup for some registration details…</p>
+
+<p><img src="https://user-images.githubusercontent.com/4248721/145226658-35907702-a0bc-4ceb-b674-d39f0dfdac1d.png" alt="vscodeMonokai-fs8" /><br />
+Other cool words are: <s>Dracula, Nord</s>, Gruvbox and Zen.<br />
+Atom material theme is also good.<br />
+And Abyss (already installed) is interesting.</p>
+:ET

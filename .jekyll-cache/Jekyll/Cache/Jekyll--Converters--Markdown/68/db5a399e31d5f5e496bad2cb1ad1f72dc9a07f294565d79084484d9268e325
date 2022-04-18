@@ -1,0 +1,35 @@
+I"#<p><a href="https://github.com/jarun/buku/wiki/System-integration">Wiki</a> &amp; <a href="/buku.htm">man</a>.</p>
+
+<p>Import bookmarks from browsers</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>buku --ai
+</code></pre></div></div>
+
+<p>Search (regex) - seems to be case insensitive</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>buku -r thing
+# behaves like *thing*, will find
+# something, things, ect
+</code></pre></div></div>
+
+<p>Encrypt, decrypt database</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>buku -l
+buku -k
+</code></pre></div></div>
+
+<p>List last 3 added</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>buku -p -3
+</code></pre></div></div>
+
+<p>Open bookmark numero 285</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>buku -o 285
+</code></pre></div></div>
+
+<p>Edit bookmark 285 using geany, comment (that becomes searchable) is possible</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>export EDITOR=geany; buku -w 285
+</code></pre></div></div>
+:ET

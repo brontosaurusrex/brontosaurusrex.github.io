@@ -1,0 +1,71 @@
+I"�<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">KEY</th>
+      <th style="text-align: left">ACTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><code class="language-plaintext highlighter-rouge">ALT + TAB</code></td>
+      <td style="text-align: left">Open task switcher.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><code class="language-plaintext highlighter-rouge">⊞ + TAB</code></td>
+      <td style="text-align: left">Open Task View.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><code class="language-plaintext highlighter-rouge">⊞ + ⮟</code></td>
+      <td style="text-align: left">Minimize 🗔.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><code class="language-plaintext highlighter-rouge">⊞ + ⮝</code></td>
+      <td style="text-align: left">Maximize 🗔.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><code class="language-plaintext highlighter-rouge">⊞ + M</code></td>
+      <td style="text-align: left">Minimize all ⊞ .</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><code class="language-plaintext highlighter-rouge">⊞ + D</code></td>
+      <td style="text-align: left">Display desktop.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><code class="language-plaintext highlighter-rouge">⊞ + Home</code></td>
+      <td style="text-align: left">Minimize all ⊞ except the active one.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><code class="language-plaintext highlighter-rouge">⊞ + Shift + M</code></td>
+      <td style="text-align: left">Restore all minimized ⊞ .</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><code class="language-plaintext highlighter-rouge">⊞ + Shift + ⮝</code></td>
+      <td style="text-align: left">Stretch 🗔 to the top and bottom of the screen.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><code class="language-plaintext highlighter-rouge">⊞ + ⮜</code></td>
+      <td style="text-align: left">Maximize the 🗔 on the left side of the screen.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><code class="language-plaintext highlighter-rouge">⊞ + ⮞</code></td>
+      <td style="text-align: left">Maximize the 🗔 on the right side of the screen.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><code class="language-plaintext highlighter-rouge">⊞ + Shift + ⮜ or ⮞</code></td>
+      <td style="text-align: left">Move a 🗔 from one monitor to another.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><code class="language-plaintext highlighter-rouge">⊞ + v</code></td>
+      <td style="text-align: left">Clipboard manager</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><code class="language-plaintext highlighter-rouge">⊞ + x</code></td>
+      <td style="text-align: left">Power User menu</td>
+    </tr>
+  </tbody>
+</table>
+:ET

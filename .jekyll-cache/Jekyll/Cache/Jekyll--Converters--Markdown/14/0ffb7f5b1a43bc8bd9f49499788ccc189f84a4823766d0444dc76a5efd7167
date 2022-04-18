@@ -1,0 +1,217 @@
+I"� <h2 id="vimrc-quicky">.vimrc quicky</h2>
+
+<p><a href="https://github.com/brontosaurusrex/postbang/blob/master/.vimrc">postbang/blob/master/.vimrc</a></p>
+
+<h2 id="copypaste">copy/paste</h2>
+
+<p>Debian/openbox/urxvt/vim8</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>apt install vim-gtk # vim-gtk3
+ctrl+alt+v &lt; should now work to paste stuff from other clipboard, or
+middle-mouse-button &lt; paste behaves differently
+"+p &lt; paste from other clipboard 
+"+gp &lt; this horror should paste as well
+"+yy &lt; copy current line
+"+y20 &lt; copy this and 20 lines below
+:help "+ &lt; actually finds clipboard related help
+</code></pre></div></div>
+
+<p>Possibly worth checking gvim for some ideas and to see what is terminal to blame for and what is vim’s fault. This is a huge showstopper.</p>
+
+<h2 id="spellcheck">spellcheck</h2>
+
+<p>soon.</p>
+
+<h2 id="tabs">tabs</h2>
+<p><a href="http://vim.wikia.com/wiki/Using_tab_pages">http://vim.wikia.com/wiki/Using_tab_pages</a></p>
+
+<p>Open multiple files in tabs:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vim -p one.txt two.txt three.txt
+</code></pre></div></div>
+
+<p>shortkeys in normal mode</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gt &lt; next
+gT &lt; previous
+{i}gt &lt; go to tab at position i
+</code></pre></div></div>
+
+<p>btw</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>:e filename &lt; opens file
+:tabe filename &lt; opens file in new tab
+:qall &lt; close all and exit
+</code></pre></div></div>
+
+<p>make each buffer appear in tab</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>:tab sball
+</code></pre></div></div>
+
+<h2 id="buffers">buffers</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>:buffers or :ls &lt; list buffers
+:bi &lt; jump to buffer i, where i is buffer number
+:bn :bp &lt; next, previous buffer
+</code></pre></div></div>
+
+<p><a href="https://sanctum.geek.nz/arabesque/buffers-windows-tabs/">Buffers, windows, and tabs</a></p>
+
+<h2 id="netrw---default-dir-browser-can-do-a-lot">netrw - default dir browser can do a lot</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>:Explore
+:Sexplore or :Sex &lt; in horizontal split
+:Vexplore &lt; in vertical split
+:Texplore &lt; in new tab
+</code></pre></div></div>
+
+<p><a href="https://shapeshed.com/vim-netrw/#netrw-the-unloved-directory-browser">configure explorer in .vimrc</a></p>
+
+<h2 id="searchreplace">search/replace</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/pattern
+?pattern &lt; backward
+n N &lt; repeat
+* &lt; search for word under cursor
+:%s/old/new/g &lt; replace
+:%s/old/new/gc &lt; with confirmations
+</code></pre></div></div>
+
+<p><a href="http://www.worldtimzone.com/res/vi.html">cheetsheet</a></p>
+
+<h2 id="obvious">obvious</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gg &lt; goto start of file
+G &lt; goto end of file
+end, home &lt; end, start of line (also 0 and $)
+i, o &lt; insert or insert on next line
+a &lt; insert after selected char
+dw &lt; delete word
+ci+brackets &lt; delete stuff inside brackets
+:w &lt; write
+:wq &lt; write and quit
+:q &lt; quit
+:q! &lt; quit without saving
+di( &lt; delete inside ()
+
+b &lt; to go to beginning of current or previous word
+w &lt; to go the beginning of next word
+e &lt; to go to the end of current or next word
+ge &lt; to go the end of the previous word
+# Try :h word-motions for more details and how to combine them with operations.
+</code></pre></div></div>
+
+<h2 id="less-obvious">less obvious</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ggVG &lt; select contents of entire file
+U &lt; selected text to UPPERCASE                                           
+u &lt; selected text to lowercase                                     
+:retab &lt; convert tabs to spaces 
+</code></pre></div></div>
+
+<h2 id="indent">Indent</h2>
+
+<p>In insert mode</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ctrl+t &lt; insert indent at start of line
+ctrl+d &lt; remove indent at start of line
+</code></pre></div></div>
+
+<p>In normal mode</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt;&gt; &lt; indent line by shiftwidth spaces
+&lt;&lt; &lt; deindent line 
+3&gt;&gt; &lt; indent 3 lines
+</code></pre></div></div>
+
+<p>In visual mode, select lines and »</p>
+
+<p><a href="https://stackoverflow.com/questions/235839/indent-multiple-lines-quickly-in-vi">Click for more</a></p>
+
+<h2 id="windows">windows</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>:split &lt; horizontal
+:vsplit &lt; vertical    
+ctrl+w+j &lt; move down a screen
+ctrl+w+k &lt; up
+ctrl+w+h &lt; left
+ctrl+w+l &lt; right    
+:only &lt; close others
+</code></pre></div></div>
+
+<h2 id="readinsert-a-file-or-command-output-into-current">read/insert a file or command output into current</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>:0r !ls &lt; insert output of ls before 0 line
+:0r !head ~/bin/somescript &lt; similar
+:r &lt; below the cursor
+:$r !pwd &lt; below the last line
+</code></pre></div></div>
+
+<p><a href="http://vim.wikia.com/wiki/Insert_a_file">http://vim.wikia.com/wiki/Insert_a_file</a></p>
+
+<h2 id="snippets">snippets</h2>
+
+<p><a href="https://brigade.engineering/sharpen-your-vim-with-snippets-767b693886db">https://brigade.engineering/sharpen-your-vim-with-snippets-767b693886db</a></p>
+
+<h2 id="to-shell-and-back-again">to shell and back again</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ctrl+z, fg &lt; will push vim to bg, fg in shell will bring it back
+</code></pre></div></div>
+
+<p><a href="http://stackoverflow.com/questions/1879219/how-to-temporarily-exit-vim-and-go-back">link</a></p>
+
+<p>or</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>:shell or just :sh "do your shell stuff" then 
+exit
+</code></pre></div></div>
+
+<p>insert output of the shell command to the current document</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>:r ! ls
+</code></pre></div></div>
+
+<h2 id="bang">Bang</h2>
+
+<p>One can also execute commands directly from the editor</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>:! python %
+</code></pre></div></div>
+
+<p>will run the active (must be saved) file with python interpreter.</p>
+
+<h2 id="debian">Debian</h2>
+
+<p>vi and vim are the same, they are symbolic links to</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/usr/bin/vim.basic
+</code></pre></div></div>
+
+<p>vi and vim are the same on OSX as well.</p>
+
+<h2 id="latest-vim-on-osx">latest vim on OSX</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>brew install vim # brew update &amp;&amp; brew upgrade # before that if needed
+# should install in /usr/local/bin/vim
+# do a softlink in user bin if defined and on $PATH, like
+cd $HOME/bin
+ln -s /usr/local/bin/vim vim # that should now call brew installed vim in the future sessions
+</code></pre></div></div>
+
+<h2 id="vim-8-and-plugins">vim 8 and plugins</h2>
+
+<p><a href="https://shapeshed.com/vim-packages">https://shapeshed.com/vim-packages</a></p>
+
+<h2 id="books">books</h2>
+
+<ul>
+  <li><a href="https://vim.swaroopch.com/">A Byte of Vim</a></li>
+</ul>
+
+<h2 id="resources">Resources</h2>
+
+<p>q: <a href="https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118">https://stackoverflow.com/questions/</a>
+a: <a href="https://gist.github.com/nifl/1178878">Your problem with Vim is that you don’t grok vi.</a></p>
+
+:ET
