@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2022-04-21 08:15'
-title: Add icon to HN
+title: Add icons to HN
 tags: misc 
 ---
 Chrome extension  
