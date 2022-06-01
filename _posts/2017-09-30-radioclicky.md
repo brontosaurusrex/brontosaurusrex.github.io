@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2022-06-01 22:00'
+date: '2022-06-01 12:00'
 title: radioClicky (updated)
 tags: mine cli bash linux
 ---
