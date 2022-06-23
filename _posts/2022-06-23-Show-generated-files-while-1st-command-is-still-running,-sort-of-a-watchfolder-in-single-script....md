@@ -52,4 +52,5 @@ Observe file creation and moving with
 ```bash
 watch -n 1 tree $HOME/tmp/test/
 ```
-This may be usefull with ffmpeg scene detection, showing frames in term, while ffmpeg is still generating new ones.
+- This may be useful with ffmpeg scene detection, showing frames in term, while ffmpeg is still generating new ones.
+- pid capturing still looks somehow weird, possibly incorrect
