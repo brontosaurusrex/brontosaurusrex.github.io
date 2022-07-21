@@ -199,3 +199,9 @@ Haven't finished it yet. Stuck at 50%.
 > he never shed a Hungarian accent that made him sound like horror-film legend Bela Lugosi, von Neumann felt that Janos 
 > his real name - sounded altogether too foreign in his new home. Beneath the bonhomie and the sharp suit was a mind 
 > of unimaginable brilliance.
+
+## The Elephant in the Universe: OUR HUNDRED-YEAR SEARCH FOR DARK MATTER (Govert Schilling - 2022)
+
+> Either there’s loads of dark matter out there,
+> frustratingly successful in escaping detection by today’s ultrasensitive
+> instruments. Or all these diligent scientists are chasing a phantom.
