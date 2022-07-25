@@ -14,4 +14,6 @@ tags: misc cli bash luv mine
 
 goal: Get descriptions from yt itself, using yt-dlp (and perhaps thumbnail links) and generate simple markdown page.
 
-A [slow script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/HNyoutubes) and [test build](/youtube).
+A HNyoutubes [slow script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/HNyoutubes) and [test build](/youtube).
+
+Uniqueness is not completely guaranteed, due to a naive url comparator (comes with sort -u).
