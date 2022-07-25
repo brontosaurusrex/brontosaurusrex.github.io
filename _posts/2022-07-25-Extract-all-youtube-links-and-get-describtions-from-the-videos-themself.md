@@ -12,5 +12,6 @@ tags: misc cli bash luv mine
     # filter stuff to only youtube like urls
     cat curl.htm | grep -Po '(?<=href=\")[^\"]*(?=\")' | grep you | sed 's/&#x2F;/\//g' | sort -u > woot.htm
 
+goal: Get descriptions from yt itself, using yt-dlp (and perhaps thumbnail links) and generate simple markdown page.
 
-get descriptions from yt itself, using yt-dlp (and perhaps thumbnail links?)
+A [slow script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/HNyoutubes) and [test build](/youtube).
