@@ -322,30 +322,17 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Twitter: https://twitter.com/nerdyandquirky
 
 
-## Baby Mantis Shrimp Strikes Captured in Slow Motion  [31]
-[![https://www.youtube.com/c/AntLab](https://i.ytimg.com/vi/kmTVIL0wv94/maxresdefault.jpg)](https://www.youtube.com/c/AntLab)  
-> Read more about Jacob's larval mantis shrimp research here:
-> https://doi.org/10.1242/jeb.235465
-> https://twitter.com/_JacobSHarrison
-> Read more about Prof. S.N. Patek's lab and research here:
-> https://pateklab.biology.duke.edu/
-> Read more about Prof. Megan Porter's research here:
-> https://manoa.hawaii.edu/biology/people/megan-porter
-> Peacock mantis shrimp footage via CC Flickr: https://www.flickr.com/photos/jphotos/
-> Music licensed from soundofpicture.com...
-
-
-## Drawing on a plasma display with a laser pointer  [32]
+## Drawing on a plasma display with a laser pointer  [31]
 [![https://www.youtube.com/c/AppliedScience](https://i.ytimg.com/vi/Oj4tRnLKN6U/hqdefault.jpg)](https://www.youtube.com/c/AppliedScience)  
 > Correction:  The orange display is running at 700Hz, 130V in the video.  Also, the laser emits no 365nm light.  I measured some as low as 380, but the tail isn't as long as I implied!  Thanks Matthew King for pointing this out in the comments.
 > I realize that I may have conflated the issues of one-resistor-per-pixel and the display's ability to maintain an image throughout row scanning.  They are separate problems that are both addressed by designing the panel to work on AC.  Each pixel can mai...
 
 
-## One man. One chainsaw.  [33]
+## One man. One chainsaw.  [32]
 [![https://www.youtube.com/c/arduinoversusevil2025](https://i.ytimg.com/vi_webp/cHyRshU_s_s/maxresdefault.webp)](https://www.youtube.com/c/arduinoversusevil2025)  
 
 
-## Mind-Blowing Power! How the James Webb Space Telescope JWST works  [34]
+## Mind-Blowing Power! How the James Webb Space Telescope JWST works  [33]
 [![https://www.youtube.com/c/ArvinAsh](https://i.ytimg.com/vi_webp/cXGJNAz1p3E/maxresdefault.webp)](https://www.youtube.com/c/ArvinAsh)  
 > Latest JWST Images: https://www.nasa.gov/mission_pages/webb/main/index.html
 > Graphics of JWST: https://tinyurl.com/y64twaol
@@ -359,7 +346,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 7:34 Instruments of the JW...
 
 
-## How Communism Nearly Starved Vietnam  [35]
+## How Communism Nearly Starved Vietnam  [34]
 [![https://www.youtube.com/c/Asianometry](https://i.ytimg.com/vi/d1qBvkBGpLM/hqdefault.jpg)](https://www.youtube.com/c/Asianometry)  
 > The victorious North Vietnamese - led by the Communist Party of Vietnam or CPV - then embarked on a series of economic measures to wipe away colonialist influence and bring socialism to the country.
 > However, these measures failed to achieve their goals and the country tilted dangerously close to a famine.
@@ -369,7 +356,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > - Twitter: https://twitter....
 
 
-## Creating a Pond of Flowers  [36]
+## Creating a Pond of Flowers  [35]
 [![https://www.youtube.com/c/AsuGreen11](https://i.ytimg.com/vi_webp/SudNE_DGc4U/maxresdefault.webp)](https://www.youtube.com/c/AsuGreen11)  
 > The flowers are floated from flowers blooming in the precincts of the shrine or brought by florists.
 > On days when the temperature is high, the flowers may wither within a day, but in the cooler season, they can last for about two weeks.
@@ -379,7 +366,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://www.instagr...
 
 
-## A Tour Of My Fossil Collection  [37]
+## A Tour Of My Fossil Collection  [36]
 [![https://www.youtube.com/c/AtlasPro1](https://i.ytimg.com/vi/cnNgrsraUI4/maxresdefault.jpg)](https://www.youtube.com/c/AtlasPro1)  
 > Support me on Patreon here: https://www.patreon.com/atlaspro
 > Follow me on Twitter @theatlaspro
@@ -393,20 +380,11 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://earthathome.org/quick-guide-common-fossils/
 
 
-## Inside America's Strategic Plant Vault  [38]
-[![https://www.youtube.com/c/AtomicFrontier](https://i.ytimg.com/vi_webp/Lz_8R00zSDk/maxresdefault.webp)](https://www.youtube.com/c/AtomicFrontier)  
-> Huge thanks to Harlan Scoboda and the team at the U.S. National Arboretum Herbarium.
-> ---------- II ----------
-> This video was brought to you by an unhealthy amount of coffee and our awesome Patrons at https://www.patreon.com/atomicfrontier.
-> ---------- II ----------
-> Hi, I'm James. I explore the world looking for interesting engineering stories which explore complex issues in interesting ways. I hold a First-Class Honours in Mechanical Engineering from the University of Western Australia and a...
-
-
-## This Is Britain! 🇬🇧 ( Nation of Madlads )  [39]
+## This Is Britain! 🇬🇧 ( Nation of Madlads )  [37]
 [![https://www.youtube.com/c/baldandbankrupt](https://i.ytimg.com/vi/7URQ2h5yORs/hqdefault.jpg)](https://www.youtube.com/c/baldandbankrupt)  
 
 
-## The Conservator, The Apprentice, and The Problem Part 2  [40]
+## The Conservator, The Apprentice, and The Problem Part 2  [38]
 [![https://www.youtube.com/c/BaumgartnerRestoration](https://i.ytimg.com/vi/1fyTUJmk0lg/hqdefault.jpg)](https://www.youtube.com/c/BaumgartnerRestoration)  
 > http://squarespace.com/Baumgartner to save 10% off your first purchase of a website or domain.
 > The arrival of a large, complicated and possibly important painting to the studio was a perfect opportunity to introduce a young conservation apprentice to the highs and lows of working with problematic paintings.
@@ -417,26 +395,14 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Instagram - https://www.in...
 
 
-## How do hardware timers work?  [41]
-[![https://www.youtube.com/c/beneater](https://i.ytimg.com/vi/g_koa00MBLg/maxresdefault.jpg)](https://www.youtube.com/c/beneater)  
-> More 6502 stuff: https://eater.net/6502
-> Support these videos on Patreon: https://www.patreon.com/beneater or https://eater.net/support for other ways to support.
-> Website: https://www.eater.net
-> Twitter: https://twitter.com/ben_eater
-> Patreon: https://patreon.com/beneater
-> Reddit: https://www.reddit.com/r/beneater
-> Special thanks to these supporters for making this video possible:
-> Aleksey Smolenchuk, Anders Carlsson, Andrew C. Young, Anson VanDoren, Anthanasius, a...
-
-
-## Exploring a Tesla model X headlight  [42]
+## Exploring a Tesla model X headlight  [39]
 [![https://www.youtube.com/c/Bigclive](https://i.ytimg.com/vi_webp/_toknJIOhEg/maxresdefault.webp)](https://www.youtube.com/c/Bigclive)  
 > https://www.youtube.com/c/efixx
 > This whole light was condemned and replaced because it seemed to be causing network issues.  In reality it was only the control module that seems to have an issue.  It comes off with four screws and two connectors.  There are three connections to the light - power and a single data line.
 > I strongly recommend against trying to open these lights, as they are glued shut with a tough adhesive, and after wasting a lot of time with an angry Dremel it took a Ryobi cor...
 
 
-## Believing is easy. Critical thinking takes deep focus. | Amishi Jha  [43]
+## Believing is easy. Critical thinking takes deep focus. | Amishi Jha  [40]
 [![https://www.youtube.com/c/bigthink](https://i.ytimg.com/vi_webp/Y9ABsREkc_0/maxresdefault.webp)](https://www.youtube.com/c/bigthink)  
 > Subscribe to Big Think on YouTube ► https://www.youtube.com/c/bigthink
 > Up Next ► How to catch a liar (assuming we want to) https://youtu.be/wq-poN6sLF8
@@ -444,7 +410,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > This is problematic because we feel like we're all in a collective crisis of attention. So it's very important...
 
 
-## The History of the A Button Challenge - Part 6: Conquering Tick Tock Clock  [44]
+## The History of the A Button Challenge - Part 6: Conquering Tick Tock Clock  [41]
 [![https://www.youtube.com/c/Bismuth9](https://i.ytimg.com/vi/G1E-P0dgg7I/hqdefault.jpg?v=62c4f4ed)](https://www.youtube.com/c/Bismuth9)  
 > Playlist: https://www.youtube.com/playlist?list=PL94lfiY18_CgWGQzweD_aVjsFXiRi6kn5
 > Patreon: https://www.patreon.com/bismuth9
@@ -458,7 +424,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 06:14 - Kick Recoil Momentum a...
 
 
-## I Studied a Year at a University and This Happened  [45]
+## I Studied a Year at a University and This Happened  [42]
 [![https://www.youtube.com/c/Bisqwit](https://i.ytimg.com/vi/L6Wnzapbav0/hqdefault.jpg)](https://www.youtube.com/c/Bisqwit)  
 > Become a member: https://youtube.com/Bisqwit/join
 > Twitter: https://twitter.com/RealBisqwit
@@ -469,11 +435,11 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Homepage: https://iki.fi/bisqwit/...
 
 
-## Best Communication Tip! #shorts  [46]
+## Best Communication Tip! #shorts  [43]
 [![https://www.youtube.com/c/bitescized](https://i.ytimg.com/vi/ScdfrTvN9g0/hqdefault.jpg)](https://www.youtube.com/c/bitescized)  
 
 
-## DIY IKEA Sofa Hoverboard  [47]
+## DIY IKEA Sofa Hoverboard  [44]
 [![https://www.youtube.com/c/bitlunislab](https://i.ytimg.com/vi_webp/_N6Dt34rLOY/maxresdefault.webp)](https://www.youtube.com/c/bitlunislab)  
 > https://github.com/lucysrausch/hoverboard-firmware-hack
 > https://github.com/EFeru/hoverboard-firmware-hack-FOC
@@ -488,7 +454,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Github Sponsors: https://github.c...
 
 
-## Aluminum TVC Mount | Scout Flights 2 and 3  [48]
+## Aluminum TVC Mount | Scout Flights 2 and 3  [45]
 [![https://www.youtube.com/c/BPSspace](https://i.ytimg.com/vi/Mq5alUV-AHI/hqdefault.jpg)](https://www.youtube.com/c/BPSspace)  
 > Help support BPS.space: https://www.patreon.com/bps_space
 > Second channel, mostly for KSP: https://www.youtube.com/user/musicmakr
@@ -499,12 +465,12 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > http://www.bps.space...
 
 
-## The surprising variety of simulating fluids - a vivid exploration  [49]
+## The surprising variety of simulating fluids - a vivid exploration  [46]
 [![https://www.youtube.com/c/braintruffle](https://i.ytimg.com/vi_webp/sSJmUmCHAJY/maxresdefault.webp)](https://www.youtube.com/c/braintruffle)  
 > Topics covered: rarefied gas dynamics, continuum gas dynamics, fluid motion descriptions & coordinates (spatially fixed (Eulerian), material-fixed (Lagrangian), arbitrary), reducibility aspects, motivation on modeling unresolved flow structures, ensemble averages of microscopically and macroscopically varying data, usefulness of the modeling hierarchy, simplifying and decoupling the evolution equations, Navier-Stokes equations, compressible flow and the incompressible flow assumptions, and buoy...
 
 
-## DIY Ultrasonic Cleaner Follow up: Foil Tests  [50]
+## DIY Ultrasonic Cleaner Follow up: Foil Tests  [47]
 [![https://www.youtube.com/c/BranchusCreations/featured](https://i.ytimg.com/vi_webp/33RiXyUFNj4/maxresdefault.webp)](https://www.youtube.com/c/BranchusCreations/featured)  
 > Many thanks to Jay from the House of Moth for his help with some of the experiments.
 > The House of Moth YouTube channel:
@@ -517,12 +483,12 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Tools/Products used (paid li...
 
 
-## STATURDAY CHAT LIVE with Brandon Foltz, Ep. 34  [51]
+## STATURDAY CHAT LIVE with Brandon Foltz, Ep. 34  [48]
 [![https://www.youtube.com/c/BrandonFoltz](https://i.ytimg.com/vi/APHS2vVO6XY/hqdefault.jpg?v=62d853fa)](https://www.youtube.com/c/BrandonFoltz)  
 > #statistics #datascience #machinelearning #livestream #qa...
 
 
-## The Five Best Rookie Pass Rushers of 2022  [53]
+## The Five Best Rookie Pass Rushers of 2022  [50]
 [![https://www.youtube.com/c/BrettKollmann](https://i.ytimg.com/vi_webp/TRm3_a9hb5I/maxresdefault.webp)](https://www.youtube.com/c/BrettKollmann)  
 > Patreon: https://www.patreon.com/user?u=3409713
 > Instagram: @brett_kollmann
@@ -533,7 +499,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > BFP on Spotify: https://open.spotify.com/show/6w5GeninFTtBagyBXQklLq
 
 
-## 5.3 Why Would We Need Logical Addresses?  [54]
+## 5.3 Why Would We Need Logical Addresses?  [51]
 [![https://www.youtube.com/c/BriefVid](https://i.ytimg.com/vi_webp/BpiLhZS0meQ/maxresdefault.webp)](https://www.youtube.com/c/BriefVid)  
 > Feel free to leave comments on the videos, Like us on Facebook, or follow us on Twitter :)
 > https://www.facebook.com/briefchannel/
@@ -541,7 +507,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Video created by Omer Rosenbaum. All rights reserved....
 
 
-## The Story of Brie, Explained  [55]
+## The Story of Brie, Explained  [52]
 [![https://www.youtube.com/c/BrightTripChannel](https://i.ytimg.com/vi_webp/7p__bkRSx6A/maxresdefault.webp)](https://www.youtube.com/c/BrightTripChannel)  
 > Check out the whole guide at https://www.brighttrip.com/courses/french-cheese-mapped?utm_source=youtube&utm_medium=video&utm_campaign=the-story-of-brie-explained
 > Leave a comment with any questions you have and we’ll make sure to include it in a future video.
@@ -551,12 +517,12 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Bright Trip on IG: https://www.instagram.com/bright.trip/
 
 
-## The Great British Fake Off | Quick D  [56]
+## The Great British Fake Off | Quick D  [53]
 [![https://www.youtube.com/c/CaptainDisillusion](https://i.ytimg.com/vi_webp/2OEwbocwYF8/maxresdefault.webp)](https://www.youtube.com/c/CaptainDisillusion)  
 > Captain Disillusion investigates a case of trademark-based VFX shenanigans....
 
 
-## All-in-One PCB Actuator Driver (Stamp Size)  [57]
+## All-in-One PCB Actuator Driver (Stamp Size)  [54]
 [![https://www.youtube.com/c/CarlBugeja](https://i.ytimg.com/vi/oe-3H8u-2eM/hqdefault.jpg)](https://www.youtube.com/c/CarlBugeja)  
 > Get a free trial of Altium Designer - https://carlbugeja.com/altium
 > PCB Manufacturer - https://www.pcbway.com
@@ -569,7 +535,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Youtube Channel - https://youtube.com/carlbugeja
 
 
-## Why there is no Arab superstate  [58]
+## Why there is no Arab superstate  [55]
 [![https://www.youtube.com/c/CaspianReport](https://i.ytimg.com/vi/w180Ysr1GZ0/maxresdefault.jpg)](https://www.youtube.com/c/CaspianReport)  
 > Going by modern metrics, an #Arab superstate would boast a population of 436 million and a GDP of 2.7 trillion USD, ranking 3rd and 7th respectively worldwide. So, why is there no Arab #superstate?
 > Support CaspianReport
@@ -579,7 +545,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > ✔ Merchandise ►https://teespring.com/stores/caspianreport
 
 
-## Casually Explained: Twitch Streamers  [59]
+## Casually Explained: Twitch Streamers  [56]
 [![https://www.youtube.com/c/CasuallyExplained](https://i.ytimg.com/vi_webp/l4Ioj4BA6N0/maxresdefault.webp)](https://www.youtube.com/c/CasuallyExplained)  
 > I stream sometimes on Twitch you can follow me there too.
 > ►https://www.twitch.tv/casuallyexplained
@@ -591,7 +557,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > ►https://www.reddit.com/r/casuallyexplained/...
 
 
-## Why would you scan things with a... mouse?  [60]
+## Why would you scan things with a... mouse?  [57]
 [![https://www.youtube.com/c/CathodeRayDude](https://i.ytimg.com/vi_webp/PDjleq0PJX0/maxresdefault.webp)](https://www.youtube.com/c/CathodeRayDude)  
 > Disclaimer: Since there was some concern over how people interpreted a couple things I said, I want to make my perspective clear. I know next to nothing about the companies I am badmouthing in this video, I just consider all modern businesses to be liars and all products to be untrustworthy and potentially unsafe. My comments are in general, not specific.
 > Support me on Patreon: https://www.patreon.com/cathoderaydude
@@ -599,7 +565,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 00:00 Product overview
 
 
-## Le manque de main d'oeuvre dans le secteur du tourisme - reportage #cdanslair 23.07.2021  [61]
+## Le manque de main d'oeuvre dans le secteur du tourisme - reportage #cdanslair 23.07.2021  [58]
 [![https://www.youtube.com/c/Cdanslairofficiel](https://i.ytimg.com/vi/UkNEAxGTwTY/hqdefault.jpg)](https://www.youtube.com/c/Cdanslairofficiel)  
 > | Notre site : http://www.france5.fr/emissions/c-dans-l-air
 > | Facebook : https://www.facebook.com/Cdanslairf5/
@@ -607,11 +573,11 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Pas un événement important qui ne soit évoqué, expliqué et analysé dans C dans l’air. Tout au long de la semaine, les deux journalistes donnent les clés pour comprendre dans sa globalité un événement ou un sujet de première importance, en permettant aux téléspectateurs d'intervenir dans le débat ou de pos...
 
 
-## SneakerCon + WeddingCon  [62]
+## SneakerCon + WeddingCon  [59]
 [![https://www.youtube.com/c/Channel5YouTube](https://i.ytimg.com/vi_webp/ixCaq4ShyUM/maxresdefault.webp)](https://www.youtube.com/c/Channel5YouTube)  
 
 
-## 5 Signs A Woman Is Attracted To You  [63]
+## 5 Signs A Woman Is Attracted To You  [60]
 [![https://www.youtube.com/c/Charismaoncommand](https://i.ytimg.com/vi/MwJ0n7wz3h0/hqdefault.jpg)](https://www.youtube.com/c/Charismaoncommand)  
 > https://bit.ly/3OcPZM6
 > Subscribe to Charisma On Command’s YouTube Account:
@@ -623,7 +589,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 2:52 - #4: Look for a "touch-me"
 
 
-## NOW: Searching For The Next Chess.com Global Champion! | CGC Play-in | Ft. Pruess & Tsatsalashvili 2022-07-25 21:53  [64]
+## NOW: Searching For The Next Chess.com Global Champion! | CGC Play-in | Ft. Pruess & Tsatsalashvili 2022-07-25 22:16  [61]
 [![https://www.youtube.com/c/chesscomlive](https://i.ytimg.com/vi/Th_g1SOIqvQ/maxresdefault.jpg)](https://www.youtube.com/c/chesscomlive)  
 > Sign up for FREE online play: http://www.Chess.com
 > Check us out on Twitch: https://www.twitch.tv/chess
@@ -633,7 +599,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > #chess #chesscom #chesscomglobal...
 
 
-## How to Repair and Remove Dents from your Car (DIY)  [66]
+## How to Repair and Remove Dents from your Car (DIY)  [63]
 [![https://www.youtube.com/c/chrisfix](https://i.ytimg.com/vi_webp/Wuu3Gd4Q6Uo/hqdefault.webp)](https://www.youtube.com/c/chrisfix)  
 > Pro Grade Body Filler: https://advanceautoparts.rt8x.net/Filler
 > Pro Grade Glazing Putty: https://advanceautoparts.rt8x.net/Putty
@@ -647,14 +613,14 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Respirator Filter: ...
 
 
-## Patrick Allen: On the geometry of deformation rings and the Taylor-Wiles hypothesis  [67]
+## Patrick Allen: On the geometry of deformation rings and the Taylor-Wiles hypothesis  [64]
 [![https://www.youtube.com/c/Cirm-mathFr](https://i.ytimg.com/vi_webp/QVU3LmqwFkE/maxresdefault.webp)](https://www.youtube.com/c/Cirm-mathFr)  
 > Recorded during the meeting "Galois Representations, Automorphic Forms and L-Functions"  the June 20, 2022 by the Centre International de Rencontres Mathématiques (Marseille, France)
 > Filmmaker: Guillaume Hennenfent
 > Find this video and other talks given by worldwide mathematicians on CIRM's Audiovisual Mathematics Library: http://library.cirm-math.fr. And discover all its functionalities: - Chapter markers and keywords to watch the parts of your choice in the video - Videos enrich...
 
 
-## Should the U.S. Build More Public Housing?  [68]
+## Should the U.S. Build More Public Housing?  [65]
 [![https://www.youtube.com/c/CityBeautiful](https://i.ytimg.com/vi/kw0KqSNHXqg/hqdefault.jpg)](https://www.youtube.com/c/CityBeautiful)  
 > I’m on Patreon! Consider supporting this channel: https://www.patreon.com/citybeautiful
 > Public Housing in the United States for being underfunded, crime-ridden, and poorly maintained. But with the housing crisis continuing to worsen, is it time to reconsider this housing option?
@@ -663,13 +629,13 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://cityobservatory.org/the-mortgage-interest-deduction-smaller-but-even-more-unfair/...
 
 
-## How the James Webb Telescope found WATER  [69]
+## How the James Webb Telescope found WATER  [66]
 [![https://www.youtube.com/c/CleoAbram](https://i.ytimg.com/vi/ampB1laCWF4/hqdefault.jpg)](https://www.youtube.com/c/CleoAbram)  
 > Check out Storyblocks to sign up for the Unlimited All-Access Plan: https://www.storyblocks.com/cleoabram
 > NASA just released the first pictures from the James Webb Space Telescope, the most powerful telescope ever built. They’re incredible. They show the deepest we’ve ever seen into space, stars being born, galaxies colliding. But the least beautiful one is my favorite. It’s the spectrum of exoplanet WASP 96-b. In simpler terms, it’s a picture of the atmosphere of a planet over 1,000 l...
 
 
-## Guilloche - The Straight-Line Engine #2 - Depth Of Cut  [70]
+## Guilloche - The Straight-Line Engine #2 - Depth Of Cut  [67]
 [![https://www.youtube.com/c/Clickspring](https://i.ytimg.com/vi/IoNK8wVz63Q/maxresdefault.jpg)](https://www.youtube.com/c/Clickspring)  
 > A start on the deep dive into operation of the Straight-Line Engine, with a bit more detail on the tool from the previous video. Do please enjoy!
 > ________________________________________________________
@@ -679,7 +645,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Charles Frodsham & Co.
 
 
-## Guilloche - The Straight-Line Engine #2 - Depth Of Cut  [71]
+## Guilloche - The Straight-Line Engine #2 - Depth Of Cut  [68]
 [![https://www.youtube.com/c/Clickspring/videos](https://i.ytimg.com/vi/IoNK8wVz63Q/maxresdefault.jpg)](https://www.youtube.com/c/Clickspring/videos)  
 > A start on the deep dive into operation of the Straight-Line Engine, with a bit more detail on the tool from the previous video. Do please enjoy!
 > ________________________________________________________
@@ -689,14 +655,14 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Charles Frodsham & Co.
 
 
-## Virtual Blue Noise Lighting - HPG 2022  [72]
+## Virtual Blue Noise Lighting - HPG 2022  [69]
 [![https://www.youtube.com/c/cmyuksel](https://i.ytimg.com/vi_webp/zQnhzKRHiyE/maxresdefault.webp)](https://www.youtube.com/c/cmyuksel)  
 > Virtual Blue Noise Lighting
 > Proc. ACM Comput. Graph. Interact. Tech. (Proceedings of HPG 2022), 5, 3, 2022
 > https://graphics.cs.utah.edu/research/projects/virtual-blue-noise-lighting/...
 
 
-## My Year in VRChat  [73]
+## My Year in VRChat  [70]
 [![https://www.youtube.com/c/CNLohr](https://i.ytimg.com/vi_webp/hVWlgh8QP5s/sddefault.webp)](https://www.youtube.com/c/CNLohr)  
 > Please do your own research before purchasing equipment!
 > Join the VRChat Discord here: https://discord.gg/vrchat
@@ -706,7 +672,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 1001 & SCRN - Treehouse In The Shade https://vrchat.com/home/world/wrld_551c30cb-0e56-4c69-9176-1...
 
 
-## AI Learns to play JUMP KING  [74]
+## AI Learns to play JUMP KING  [71]
 [![https://www.youtube.com/c/CodeBullet/videos](https://i.ytimg.com/vi_webp/DmQ4Dqxs0HI/maxresdefault.webp)](https://www.youtube.com/c/CodeBullet/videos)  
 > It's risk-free with Nord's 30-day money-back guarantee!
 > Please support the official game on steam, its pretty dope: https://store.steampowered.com/app/1061090/Jump_King/
@@ -718,7 +684,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Art created by @Dachi.ar...
 
 
-## The Anti-Smartphone Revolution  [75]
+## The Anti-Smartphone Revolution  [72]
 [![https://www.youtube.com/c/ColdFusion](https://i.ytimg.com/vi_webp/02mIRnPJm6g/maxresdefault.webp)](https://www.youtube.com/c/ColdFusion)  
 > My music: https://burnwater.bandcamp.com/
 > Correction: The Lightphone 2 actually has GPS and music capabilities.
@@ -730,7 +696,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > » Facebook | https://www.facebook.com/Col...
 
 
-## The Hunger | ContraPoints  [76]
+## The Hunger | ContraPoints  [73]
 [![https://www.youtube.com/c/ContraPoints](https://i.ytimg.com/vi_webp/RTRT794IQBg/hqdefault.webp)](https://www.youtube.com/c/ContraPoints)  
 > Support this channel: https://www.patreon.com/contrapoints
 > ✿Donate: https://paypal.me/contrapoints
@@ -745,7 +711,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > J.K. Rowling: https://you...
 
 
-## Can Moons Have Moons?  [77]
+## Can Moons Have Moons?  [74]
 [![https://www.youtube.com/c/CoolWorldsLab](https://i.ytimg.com/vi_webp/50xuuEolLR8/maxresdefault.webp)](https://www.youtube.com/c/CoolWorldsLab)  
 > Written & presented by Prof David Kipping
 > → Support our research program: https://www.coolworldslab.com/support
@@ -753,7 +719,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > THANK-YOU to our supporters D. Smith, M. Sloan, C. Bottaccini, D. Daughaday, A. Jones, S. Brownlee, N. Kildal, Z. Star, E. West, T. Zajonc, C. Wolfred, L. Skov, G. Benson, A. De Vaal, M. Elliott, B. Daniluk, M. Forbes, S. Vystoropskyi, S. Lee, Z. Danielson, C. Fitzgerald, C. Souter, M. Gillette, T. Jeffcoat, H. Jen...
 
 
-## The Best “Easy” Puzzle…But How Fast Can You Solve It?!?  [78]
+## The Best “Easy” Puzzle…But How Fast Can You Solve It?!?  [75]
 [![https://www.youtube.com/c/CrackingTheCryptic](https://i.ytimg.com/vi_webp/qX5WPYbT_AU/maxresdefault.webp)](https://www.youtube.com/c/CrackingTheCryptic)  
 > We've just released two packs featuring a new sudoku variant: Modular Lines.  The base pack is available to everyone FREE here:
 > https://www.patreon.com/posts/modular-lines-69391377
@@ -762,7 +728,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > We're extremely grateful to the team of setters behind these packs: FullDeck, Missing A Few Cards, JC Godart, jeremydover...
 
 
-## 🚨OUR NEW SERIES!🚨| Crash Course Public Health Preview!  [79]
+## 🚨OUR NEW SERIES!🚨| Crash Course Public Health Preview!  [76]
 [![https://www.youtube.com/c/crashcourse](https://i.ytimg.com/vi/PjdJ19ugXzQ/hqdefault.jpg)](https://www.youtube.com/c/crashcourse)  
 > Check out our shared playlist with APHA: https://www.youtube.com/playlist?list=PLDjqc55aK3kywF2dd97_Jh5iP0d2ARhdo
 > Vanessa’s channel: https://www.youtube.com/braincraft
@@ -773,7 +739,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Crash Course is on...
 
 
-## Apollo Comms Part 20: Pre-Modulation Processor Power Up  [80]
+## Apollo Comms Part 20: Pre-Modulation Processor Power Up  [77]
 [![https://www.youtube.com/c/CuriousMarc](https://i.ytimg.com/vi_webp/66LK1UxKHAM/maxresdefault.webp)](https://www.youtube.com/c/CuriousMarc)  
 > Apollo Comms Playlist: https://www.youtube.com/watch?v=v49ucdZcx9s&list=PL-_93BVApb58SXL-BCv4rVHL-8GuC2WGb
 > https://www.curiousmarc.com/space/apollo-s-band-communications
@@ -786,13 +752,13 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > - R&D Microwaves: ...
 
 
-## Xvive U6 Budget WIreless Microphone System  [81]
+## Xvive U6 Budget WIreless Microphone System  [78]
 [![https://www.youtube.com/c/curtisjudd](https://i.ytimg.com/vi/wJvFLqGKmls/hqdefault.jpg)](https://www.youtube.com/c/curtisjudd)  
 > If you’d like to learn how to make great dialogue audio for your film and video projects, please have a look at my courses including processing dialogue audio in Adobe Audition and DaVinci Resolve/Fairlight, recording sound, how to use the Zoom F4, F6, F8, and F8n, and how to get the most from the Sound Devices MixPre series of recorders. Our latest courses cover Sound for Live Streaming with the ATEM Mini and an Intro to Izotope RX. https://school.learnlightandsound.com
 > Support my work crea...
 
 
-## This Is What You'll Find On A Large Cinema Camera Rig!!  [82]
+## This Is What You'll Find On A Large Cinema Camera Rig!!  [79]
 [![https://www.youtube.com/c/CVPTV](https://i.ytimg.com/vi_webp/abVWBwRZWjU/maxresdefault.webp)](https://www.youtube.com/c/CVPTV)  
 > 📦 Order here - https://buff.ly/3B849es
 > 🔔 Subscribe - https://buff.ly/2ymYMJQ
@@ -805,12 +771,12 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Moving from Photography to Cinema Lenses!! - https://yo...
 
 
-## Talk by L. Peters: Learning Mixed Strategies in Trajectory Games (RSS 2022)  [83]
+## Talk by L. Peters: Learning Mixed Strategies in Trajectory Games (RSS 2022)  [80]
 [![https://www.youtube.com/c/CyrillStachniss](https://i.ytimg.com/vi_webp/gT52cKH9pvg/maxresdefault.webp)](https://www.youtube.com/c/CyrillStachniss)  
 > For more details see: https://lasse-peters.net/pub/lifted-games/...
 
 
-## Daniel Barenboim & Christoph Waltz on language, music and purpose  [84]
+## Daniel Barenboim & Christoph Waltz on language, music and purpose  [81]
 [![https://www.youtube.com/c/DanielBarenboim/videos](https://i.ytimg.com/vi_webp/aR50R3BKPuk/maxresdefault.webp)](https://www.youtube.com/c/DanielBarenboim/videos)  
 > ► All episodes of "Conversations with Christoph Waltz" can be found here: | https://youtube.com/playlist?list=PLErHuBsy75wxW-vYodYN24qlpikOYyIq7
 > ►Subscribe to the channel: | http://bit.ly/subscribebarenboim
@@ -818,7 +784,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Almost four years after “Parallels & Paradoxes” Daniel Barenboim and Christoph Waltz meet again for an interdisciplinary discourse at Pierre Boulez Saal in Berlin. Back then both discussed a wide...
 
 
-## Parallel Filter Tricks: Highpass and Lowpass Filters  [85]
+## Parallel Filter Tricks: Highpass and Lowpass Filters  [82]
 [![https://www.youtube.com/c/DanWorrall](https://i.ytimg.com/vi/le7oVIrt9oU/maxresdefault.jpg)](https://www.youtube.com/c/DanWorrall)  
 > Waves Tune (affiliate link)
 > https://waves.alzt.net/qn93mN
@@ -827,7 +793,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://www.vegascreativesoftware.com/us/vegas-pro/?_oB=vegas-pro&AffiliateID=55&phash=FL4Wje1syXqv4BCf&utm_source=MAGIX-PAP&utm_medium=Affiliate&utm_campaign=Affiliate_MAGIX-PAP&a_aid=5d88ecf7a6736...
 
 
-## Defunctland: The Bizarre Garfield Dark Ride  [86]
+## Defunctland: The Bizarre Garfield Dark Ride  [83]
 [![https://www.youtube.com/c/Defunctland](https://i.ytimg.com/vi_webp/KK3Yr80lPOY/maxresdefault.webp)](https://www.youtube.com/c/Defunctland)  
 > David Hahner Jr. - https://www.amazon.com/Kennywood-Images-America-David-Hahner/dp/073853563X/
 > Brian Butko - https://www.facebook.com/groups/Kennywood/
@@ -838,7 +804,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > XscreamThrills - https://www.youtube.co...
 
 
-## [VDBUH22] Peter Eijgermans - Angular Dependency Injection – Understanding hierarchical injectors  [87]
+## [VDBUH22] Peter Eijgermans - Angular Dependency Injection – Understanding hierarchical injectors  [84]
 [![https://www.youtube.com/c/Devoxx2015](https://i.ytimg.com/vi_webp/2T2icM2jRA8/maxresdefault.webp)](https://www.youtube.com/c/Devoxx2015)  
 > testable and flexible components and applications.
 > Why do we need DI in Angular?
@@ -848,7 +814,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > And finally give answer to the question how to define a highly scalable folder structure for your Angular project ?...
 
 
-## How does ray tracing produce hyper realistic graphics? | Bitwise  [88]
+## How does ray tracing produce hyper realistic graphics? | Bitwise  [85]
 [![https://www.youtube.com/c/DigiDigger](https://i.ytimg.com/vi/hAKWBYi2e_Q/maxresdefault.jpg)](https://www.youtube.com/c/DigiDigger)  
 > What's the next step beyond rasterization? How does ray- and pathtracing create these hyper realistic graphics? We'll look into the inner workings of ray tracing as well as some of the challenges associated with it.
 > 2:09 Problems with rasterization
@@ -860,7 +826,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > My patreon: https://www.patre...
 
 
-## DIY bench power supply with adjustable current limit  [89]
+## DIY bench power supply with adjustable current limit  [86]
 [![https://www.youtube.com/c/DiodeGoneWild](https://i.ytimg.com/vi_webp/6_8iSDkFqeM/maxresdefault.webp)](https://www.youtube.com/c/DiodeGoneWild)  
 > The previous episode:
 > https://youtu.be/1kIv1s98PBE
@@ -869,7 +835,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://www.instagram.com/savage_danyk/...
 
 
-## Pourquoi l'apnée est en théorie impossible  [90]
+## Pourquoi l'apnée est en théorie impossible  [87]
 [![https://www.youtube.com/c/dirtybiology](https://i.ytimg.com/vi/cf9buCz3U3E/hqdefault.jpg)](https://www.youtube.com/c/dirtybiology)  
 > Retrouvez mon livre audio ici ! https://www.audible.fr/pd/Le-grand-bordel-de-levolution-Livre-Audio/B0B2SHCCBT
 > L'épisode trop cool de Colas : https://www.youtube.com/watch?v=jJ3OuLnsETs
@@ -878,7 +844,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Une vidéo en français : https://www.youtube.com/watch?v=VZXC_3VWiIg
 
 
-## Who Has The Best Quantum Computer?  [91]
+## Who Has The Best Quantum Computer?  [88]
 [![https://www.youtube.com/c/DomainofScience](https://i.ytimg.com/vi/gcbMKt079l8/maxresdefault.jpg)](https://www.youtube.com/c/DomainofScience)  
 > #quantumcomputing #domainofscience
 > --- Get My Posters Here ----
@@ -890,7 +856,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Join the gang and help support me produce free and high qua...
 
 
-## An Astrophysicist reacts to JWST space memes  [92]
+## An Astrophysicist reacts to JWST space memes  [89]
 [![https://www.youtube.com/c/DrBecky](https://i.ytimg.com/vi_webp/yvqsL8-jylA/maxresdefault.webp)](https://www.youtube.com/c/DrBecky)  
 > See all the early release science project descriptions and proposals here, the data from which is now public: https://www.stsci.edu/jwst/science-execution/approved-ers-programs
 > All raw JWST data that has been made public is accessed via MAST: https://www.stsci.edu/jwst/science-execution/approved-ers-programs
@@ -898,7 +864,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Keep up-to-date with all things JWST on the NASA blog: https://blo...
 
 
-## Top 10 SUPER FOODS That Can Heal A FATTY LIVER  [93]
+## Top 10 SUPER FOODS That Can Heal A FATTY LIVER  [90]
 [![https://www.youtube.com/c/drekberg](https://i.ytimg.com/vi/XpFc0JtPvP8/hqdefault.jpg)](https://www.youtube.com/c/drekberg)  
 > 🔷 Top 10 Healthy Foods You Must Eat:  https://www.youtube.com/watch?v=F7gDIshc-S0&list=PLpTTF6wMDLR6uaZ2eT4YgkUDbklpqcijo
 > 🔷 Top 5 Best Fish You Should NEVER Eat & 5 Fish You Must Eat: https://www.youtube.com/watch?v=0hdVpzvLbYo&list=PLpTTF6wMDLR6uaZ2eT4YgkUDbklpqcijo
@@ -906,7 +872,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 🔷 Top 12 Worst Foods You Should NEVER Eat: https://www.youtube.com/watch?v=k3EA7TPWDjU&li...
 
 
-## The Top Mineral Deficiency in Rotator Cuff Repair / Pain / Tears  [94]
+## The Top Mineral Deficiency in Rotator Cuff Repair / Pain / Tears  [91]
 [![https://www.youtube.com/c/DrEricBergDC](https://i.ytimg.com/vi_webp/CvpAsARoiIY/maxresdefault.webp)](https://www.youtube.com/c/DrEricBergDC)  
 > ▶️ https://youtu.be/Z4IrYafP2NU
 > https://pubmed.ncbi.nlm.nih.gov/26921066/
@@ -920,7 +886,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 7:00 The best source of manganese
 
 
-## Scientist Answers Kids' Quirky Questions - Quack #9  [95]
+## Scientist Answers Kids' Quirky Questions - Quack #9  [92]
 [![https://www.youtube.com/c/DrNEMO](https://i.ytimg.com/vi_webp/NHcCr3u3DwY/maxresdefault.webp)](https://www.youtube.com/c/DrNEMO)  
 > Thank you to my patrons for supporting my work! Become my patron on Patreon: https://www.patreon.com/thisisdrnemo
 > 2nd Channel: https://www.youtube.com/channel/UCRL47G9qnE6SCr82J5-nqQQ/
@@ -933,14 +899,14 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Spreadshop US: https://shop.sp...
 
 
-## This Infinitely Differentiable Function Breaks Taylor Series  [96]
+## This Infinitely Differentiable Function Breaks Taylor Series  [93]
 [![https://www.youtube.com/c/DrTreforBazett](https://i.ytimg.com/vi_webp/X0razs3zR94/maxresdefault.webp)](https://www.youtube.com/c/DrTreforBazett)  
 > ►Check out MAPLE LEARN for your browser to do compute and graph math: https://www.maplesoft.com/products/learn/?p=TC-9857
 > ►Check out MapleSoft's YouTube channel: https://www.youtube.com/channel/UCq2MmZQ8-kqEVAnmL2GSMsQ. Thank you to MapleSoft for sponsoring today's video.
 > Taylor Series are incredible. We can approximate a function with the Taylor Polynomial, and then hope that when we take the infinite series we get a series that is equal to the original function. However, this doesn't alw...
 
 
-## Best of Nellie | Drugslab  [97]
+## Best of Nellie | Drugslab  [94]
 [![https://www.youtube.com/c/Drugslab](https://i.ytimg.com/vi/3bhcFqa4E8E/maxresdefault.jpg)](https://www.youtube.com/c/Drugslab)  
 > Spotify: http://bit.ly/drugslabspotify
 > Apple Music: http://bit.ly/drugslabapplemusic
@@ -951,7 +917,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Drugslab is een educatief YouTube kanaal over drugs. Op dit kanaal proberen Nellie Benner, Bastiaan Rosman en Dzifa Kusenuh de drugs uit die j...
 
 
-## The Dynamic Consequences of State-Building  [98]
+## The Dynamic Consequences of State-Building  [95]
 [![https://www.youtube.com/c/econimate](https://i.ytimg.com/vi/fCKFnRsTUKE/hqdefault.jpg)](https://www.youtube.com/c/econimate)  
 > Check the authors’ websites for the posted paper:
 > https://cedricchambru.github.io/
@@ -962,11 +928,11 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > http://www.econimate...
 
 
-## Measuring of Negative Health Utilities: A Conceptual Overview  [99]
+## Measuring of Negative Health Utilities: A Conceptual Overview  [96]
 [![https://www.youtube.com/c/EconJohnTutor](https://i.ytimg.com/vi_webp/Y-ta90-p98w/maxresdefault.webp)](https://www.youtube.com/c/EconJohnTutor)  
 
 
-## Debating a Maoist on Economic Imperialism & Trade | Unequal Exchange & Exploitation  [100]
+## Debating a Maoist on Economic Imperialism & Trade | Unequal Exchange & Exploitation  [97]
 [![https://www.youtube.com/c/Econoboi](https://i.ytimg.com/vi/8PhQV56Ecsw/hqdefault.jpg)](https://www.youtube.com/c/Econoboi)  
 > Ruka: https://www.youtube.com/channel/UCfiYn2IywYqvsz34mGIzefQ
 > Patreon: https://www.patreon.com/Econoboi
@@ -979,7 +945,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > #Economics #Imperialism ...
 
 
-## Are We Stuck Between Hyperinflation And A Recession?  [101]
+## Are We Stuck Between Hyperinflation And A Recession?  [98]
 [![https://www.youtube.com/c/EconomicsExplained](https://i.ytimg.com/vi/9Mjx5ooGm6U/hqdefault.jpg)](https://www.youtube.com/c/EconomicsExplained)  
 > Paid endorsement for Open To The Public Investing, member FINRA & SIPC. Not investment advice. All investing involves risk. New customers receive free stock with value $3-1,000; .3% receive the max value.
 > ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -989,7 +955,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Q&A Streams on EEII (2nd channel) → https://www.youtube.com/channel/UCO...
 
 
-## EEVblog 1488 - Tilt Five Augmented Reality AR Glasses - First Reaction!  [102]
+## EEVblog 1488 - Tilt Five Augmented Reality AR Glasses - First Reaction!  [99]
 [![https://www.youtube.com/c/EevblogDave](https://i.ytimg.com/vi_webp/pKuUKT-zU-g/hqdefault.webp)](https://www.youtube.com/c/EevblogDave)  
 > Unboxing, first reaction, and a bit of a first user review.
 > 00:00 - Tilt Five AR Kickstarter Glasses
@@ -1006,25 +972,25 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 24:37 - Physics demo + ambient...
 
 
-## The Heat Equation and the Steady State Heat Distribution via Laplace's Equation  [103]
+## The Heat Equation and the Steady State Heat Distribution via Laplace's Equation  [100]
 [![https://www.youtube.com/c/Eigensteve](https://i.ytimg.com/vi_webp/OoRwXVIXpL0/maxresdefault.webp)](https://www.youtube.com/c/Eigensteve)  
 > @eigensteve on Twitter
 > 1:24 Black-Body Radiation
 > 8:27 Different Boundary Conditions...
 
 
-## The Engineering of Droplets and their Formation in a Commercial Inkjet Printer  [104]
+## The Engineering of Droplets and their Formation in a Commercial Inkjet Printer  [101]
 [![https://www.youtube.com/c/engineerguyvideo](https://i.ytimg.com/vi_webp/-DckWNwE7R4/maxresdefault.webp)](https://www.youtube.com/c/engineerguyvideo)  
 
 
-## Blender Tutorial: Better Tiling Textures  [105]
+## Blender Tutorial: Better Tiling Textures  [102]
 [![https://www.youtube.com/c/Entagma](https://i.ytimg.com/vi/3G8SuMFe7JI/hqdefault.jpg)](https://www.youtube.com/c/Entagma)  
 > This tutorial uses Blender 3.3 Alpha. You can get this version from here: https://builder.blender.org/download/daily/
 > Even if you have a perfect tilable texture with seamless borders you often run into problems when tiling the same texture often to cover large areas. If your texture happens to be irregular you might want to give this tiling trick a try to make the repetition less apparent.
 > Download Scene File: https://www.entagma.com/downloads/B_BetterTilingTextures.zip
 
 
-## How Plate Tectonics Transformed Los Angeles  [106]
+## How Plate Tectonics Transformed Los Angeles  [103]
 [![https://www.youtube.com/c/eons](https://i.ytimg.com/vi/xZ4twDqSNaY/maxresdefault.jpg)](https://www.youtube.com/c/eons)  
 > PBS Member Stations rely on viewers like you. To support your local station, go to http://to.pbs.org/DonateEons
 > Produced by Complexly for PBS Digital Studios
@@ -1032,7 +998,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Kyle Brown, Stephen Patterson, Mark Foster, Karen Farrell, Trevor Long, Raphael Haase, daniel blankstein, Roberto Adrian Ramirez Flores, Jason Rostoker, Jonathan Rust, Avery Sanford, Mary Tevington, Bart & Elke van Iersel - De Jong, William ...
 
 
-## Wicker with Geometry Nodes - The Joy of Proceduralism  [107]
+## Wicker with Geometry Nodes - The Joy of Proceduralism  [104]
 [![https://www.youtube.com/c/Erindale](https://i.ytimg.com/vi/yYlUuXN-S-U/hqdefault.jpg?v=62a4b9bb)](https://www.youtube.com/c/Erindale)  
 > Starts properly at 20:13
 > Fun little process on creating wicker and other patterns on any mesh by using the UV map for mapping.
@@ -1044,7 +1010,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Baby model: https://free3d.com/3d-mode...
 
 
-## #150mmChallenge  [108]
+## #150mmChallenge  [105]
 [![https://www.youtube.com/c/essentialcraftsman](https://i.ytimg.com/vi/sQ4fTawsteQ/hqdefault.jpg)](https://www.youtube.com/c/essentialcraftsman)  
 > bringing this show to us.  Wonderful blacksmith story here: https://youtu.be/KSaRAgNcXhc
 > Enjoy EC? Join Essential Craftsman Academy!
@@ -1058,7 +1024,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Second Channel (Podcast video, family, misc content) htt...
 
 
-## Raptor 1 VS Raptor 2: What's New // What's Different  [109]
+## Raptor 1 VS Raptor 2: What's New // What's Different  [106]
 [![https://www.youtube.com/c/EverydayAstronaut](https://i.ytimg.com/vi/ALiNmzoo1_E/hqdefault.jpg)](https://www.youtube.com/c/EverydayAstronaut)  
 > If you’re more of a reader, here’s an article version of this video as well! - https://everydayastronaut.com/spacex-raptor-engine-comparison/
 > 01:50 - Overview of Raptor
@@ -1070,7 +1036,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > And extra big thanks to o...
 
 
-## Hollywood Scores & Soundtracks: What Do They Sound Like? Do They Sound Like Things?? Let's Find Out!  [110]
+## Hollywood Scores & Soundtracks: What Do They Sound Like? Do They Sound Like Things?? Let's Find Out!  [107]
 [![https://www.youtube.com/c/everyframeapainting](https://i.ytimg.com/vi_webp/IEfQ_9DIItI/maxresdefault.webp)](https://www.youtube.com/c/everyframeapainting)  
 > https://www.youtube.com/watch?v=7vfqkvwW2fs
 > And here’s a new Twitter account we made about temp music: https://twitter.com/SoundsLikeTemp
@@ -1085,7 +1051,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Inception owned by Wa...
 
 
-## AWESOME Excel trick to scrape data from web automatically  [111]
+## AWESOME Excel trick to scrape data from web automatically  [108]
 [![https://www.youtube.com/c/ExcelTutorials](https://i.ytimg.com/vi_webp/lFx0MkyBZsg/maxresdefault.webp)](https://www.youtube.com/c/ExcelTutorials)  
 > Thank you BrightData for sponsoring this video 😍
 > Ever wanted to gather some data from web and use it for analysis? You can use Excel's Power Query to setup and automate web scraping easily. In this tutorial, let's look at how we can combine US state population data with Chocolate Sales data in Excel.
@@ -1094,14 +1060,14 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Download the sample file from...
 
 
-## 15. The Nabataeans - The Final Days Of Petra  [112]
+## 15. The Nabataeans - The Final Days Of Petra  [109]
 [![https://www.youtube.com/c/FallofCivilizationsPodcast](https://i.ytimg.com/vi_webp/qSfFq02pK4s/maxresdefault.webp)](https://www.youtube.com/c/FallofCivilizationsPodcast)  
 > In this episode, we look at one of the most peculiar stories of civilizational survival to come down to us from the ancient world, the story of the Nabataeans. Find out how these once humble traders rose to become masters of the desert sands, and to defy empires. And discover what happened to finally bring down the empire of Nabataea.
 > SOURCES: https://www.patreon.com/posts/68007454
 > Sound engineering by A...
 
 
-## Excavator Repair.  Let’s Fix This Sloppy Hoe!  Yanmar Vio-50.  [113]
+## Excavator Repair.  Let’s Fix This Sloppy Hoe!  Yanmar Vio-50.  [110]
 [![https://www.youtube.com/c/FarmCraft101](https://i.ytimg.com/vi_webp/vWTWFDo_5rw/maxresdefault.webp)](https://www.youtube.com/c/FarmCraft101)  
 > Tick socks explained in this video: https://youtu.be/WDnPUDRQGm4
 > https://www.patreon.com/FarmCraft101
@@ -1114,14 +1080,14 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > http://aspireiq.go2cloud.org/aff_c?offer_id=5959&aff_id=16043
 
 
-## Kinetic energy: Newton vs. Einstein | Who's right?  [114]
+## Kinetic energy: Newton vs. Einstein | Who's right?  [111]
 [![https://www.youtube.com/c/fermilab](https://i.ytimg.com/vi_webp/6R7SHGBaUeU/maxresdefault.webp)](https://www.youtube.com/c/fermilab)  
 > https://www.youtube.com/watch?v=BhG_QZl8WVY&list=PLCfRa7MXBEspw_7ZSTVGCXpSswdpegQHX
 > Fermilab physics 101:
 > https://www.fnal.gov/pub/science/particle-physics-101/index.html
 
 
-## Fidelity: The 8 Trillion Dollar Private Company | A Finance Documentary  [115]
+## Fidelity: The 8 Trillion Dollar Private Company | A Finance Documentary  [112]
 [![https://www.youtube.com/c/Finaius](https://i.ytimg.com/vi/3jGYHuBrYYQ/hqdefault.jpg)](https://www.youtube.com/c/Finaius)  
 > Fidelity is a giant wall street firm that is owned by just one secretive family - The Johnsons. Get ready to learn about the unbelievable history of this financial conglomerate.
 > 𝐓𝐡𝐫𝐞𝐞 𝐁𝐨𝐨𝐤𝐬 𝐌𝐞𝐧𝐭𝐢𝐨𝐧𝐞𝐝 𝐢𝐧 𝐭𝐡𝐞 𝐟𝐢𝐥𝐦 -
@@ -1130,7 +1096,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 📘Beating the Street (https://amzn.to/3x8kUCv)
 
 
-## I Made Grinding Discs Fight, And This Happened!  [116]
+## I Made Grinding Discs Fight, And This Happened!  [113]
 [![https://www.youtube.com/c/FireballTool](https://i.ytimg.com/vi_webp/IuegOmA9mBc/maxresdefault.webp)](https://www.youtube.com/c/FireballTool)  
 > https://fireballtool.com/products/walter-flexcut-mill-scale-15l843-15l853
 > COMBICLICK® Fiber Disc and Backing Pad Combo (Part# 48194)
@@ -1141,7 +1107,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://fireballtool.com/products/gemini-grinding-and-cutting-whl-a-24-t-t27-4-1-2-x-1-8-x-7-8
 
 
-## TempleOS in 100 Seconds  [117]
+## TempleOS in 100 Seconds  [114]
 [![https://www.youtube.com/c/Fireship](https://i.ytimg.com/vi_webp/h7gf5M04hdg/maxresdefault.webp)](https://www.youtube.com/c/Fireship)  
 > #programming #tech #100SecondsOfCode
 > TempleOS Downloads https://templeos.org
@@ -1153,7 +1119,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Use code lORhwXd2 for 25% off your first payment.
 
 
-## Line Goes Up – The Problem With NFTs  [118]
+## Line Goes Up – The Problem With NFTs  [115]
 [![https://www.youtube.com/c/FoldingIdeas](https://i.ytimg.com/vi/YQ_xWvX1n9g/hqdefault.jpg)](https://www.youtube.com/c/FoldingIdeas)  
 > Sources and Further Reading
 > https://web3isgoinggreat.com/
@@ -1165,7 +1131,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://www.motherjones.com/politics/2021/11/who-goes-crypto-eth-bitcoin-etc-financializa...
 
 
-## A Special MPi-81 for an Infantry Fighting Vehicle  [119]
+## A Special MPi-81 for an Infantry Fighting Vehicle  [116]
 [![https://www.youtube.com/c/ForgottenWeapons](https://i.ytimg.com/vi/GGHVH9KH-_w/hqdefault.jpg)](https://www.youtube.com/c/ForgottenWeapons)  
 > http://www.patreon.com/ForgottenWeapons
 > http://www.floatplane.com/channel/ForgottenWeapons
@@ -1174,7 +1140,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > - A longer barrel to fit into the gun port...
 
 
-## Why and When to Stand on Your Motorcycle  [120]
+## Why and When to Stand on Your Motorcycle  [117]
 [![https://www.youtube.com/c/FortNine](https://i.ytimg.com/vi/GoK4hPtW-rg/maxresdefault.jpg)](https://www.youtube.com/c/FortNine)  
 > Shop Twin Pegs: https://twinpegs.no/
 > Shop Motorcycle Gear: https://frt9.co/a19lfg
@@ -1184,7 +1150,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Directed and Edited by Luke McAdam...
 
 
-## Making a LEGO Coffee Table  [121]
+## Making a LEGO Coffee Table  [118]
 [![https://www.youtube.com/c/frankhowarth](https://i.ytimg.com/vi/MUypPUKED3o/hqdefault.jpg)](https://www.youtube.com/c/frankhowarth)  
 > Tools used in this project can be found at
 > http://www.frankmakes.com/​
@@ -1199,7 +1165,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 4:52 (plywood prototype)
 
 
-## The Battle of May Island | Down the Rabbit Hole  [122]
+## The Battle of May Island | Down the Rabbit Hole  [119]
 [![https://www.youtube.com/c/FredrikKnudsen](https://i.ytimg.com/vi/IZS0RpOgdfQ/maxresdefault.jpg)](https://www.youtube.com/c/FredrikKnudsen)  
 > Patreon: https://www.patreon.com/fredrikknudsen
 > Twitter: https://twitter.com/FredInTheKnud
@@ -1211,14 +1177,14 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Illustrations by DerEineSchwarzeRabe: https://twitter.com/D_E_S_R...
 
 
-## Should You Actually Buy EXPENSIVE PASTA ? (will surprise you 100%)  [123]
+## Should You Actually Buy EXPENSIVE PASTA ? (will surprise you 100%)  [120]
 [![https://www.youtube.com/c/FrenchGuyCooking](https://i.ytimg.com/vi_webp/XRO4LehqFow/maxresdefault.webp)](https://www.youtube.com/c/FrenchGuyCooking)  
 > Honey finds coupons with one click. Thanks to Honey for sponsoring
 > I bought the most expensive and also the cheapest pasta out there. I paid $1 per kilo for the cheap pasta and $15 dollar per kilo for the most expensive pasta. How come ? Pasta is pasta right ? Or is it ?
 > The cheap pasta that I bought says nothing about where the grain comes from, what durum wheat they used, or where it was made. The expensive pasta is made from organic durum wheat, in Gragnano in Italy, the birthplace of dry p...
 
 
-## How to program an analog clock with a microcontroller  [124]
+## How to program an analog clock with a microcontroller  [121]
 [![https://www.youtube.com/c/FriendlyWire](https://i.ytimg.com/vi/oq0E5sjUxk8/hqdefault.jpg)](https://www.youtube.com/c/FriendlyWire)  
 > Main video: https://www.youtube.com/watch?v=N8rlLG6EXpk
 > Companion article: http://www.friendlywire.com/projects/analog-clock/
@@ -1231,20 +1197,20 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 01:41 Part 0: setting up the soft...
 
 
-## Regional Terms in the U.S. Defined  [125]
+## Regional Terms in the U.S. Defined  [122]
 [![https://www.youtube.com/c/GeographyKing](https://i.ytimg.com/vi/3b_v1KO_U8A/hqdefault.jpg)](https://www.youtube.com/c/GeographyKing)  
 > If you'd like to support the channel or purchase a pin for the viewer pin wall map, please visit my Patreon page:
 > https://www.patreon.com/geographyking
 > Album displayed: Slayer- "Reign in Blood" (1986)...
 
 
-## My experience with depression (and why I'm doing something mental to raise money for it)  [126]
+## My experience with depression (and why I'm doing something mental to raise money for it)  [123]
 [![https://www.youtube.com/c/GeoWizard](https://i.ytimg.com/vi_webp/rP4TIPSkGHI/maxresdefault.webp)](https://www.youtube.com/c/GeoWizard)  
 > So, the page isn't perfect in the sense that you can't actually see which charity is which. Simply click on each one to see which one it is.
 > Here's the link: https://www.justgiving.com/team/DribblingBritain2022
 
 
-## 2.5 Years Living In An Abandoned Ghost Town!  [127]
+## 2.5 Years Living In An Abandoned Ghost Town!  [124]
 [![https://www.youtube.com/c/GhostTownLiving](https://i.ytimg.com/vi_webp/5s42LHlJys0/sddefault.webp?v=62ddb3c8)](https://www.youtube.com/c/GhostTownLiving)  
 > Hey guys! It's been over 2 YEARS?! That I've been living up here at the abandoned mining town of Cerro Gordo. What a journey it's been! This past month or so has been all sorts of progress! From new restoration projects, mine explorations, baby animals, and so much more!
 > Thank you all so so much for supporting the town over these years!
@@ -1252,7 +1218,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Cerro Gordo T-Shirts and more: https://store.cerrogordomines.com/
 
 
-## Achieving High Performance with an Internal Developer Platform • Alex Bikfalvi • GOTO 2022  [128]
+## Achieving High Performance with an Internal Developer Platform • Alex Bikfalvi • GOTO 2022  [125]
 [![https://www.youtube.com/c/GotoConferences](https://i.ytimg.com/vi_webp/szVzIFhzFD4/maxresdefault.webp)](https://www.youtube.com/c/GotoConferences)  
 > Alex Bikfalvi - Product Lead at Adevinta, building Adevinta's Internal Developer Platform
 > Paving the Golden Path: Achieving High Performance with an Internal Developer Platform
@@ -1260,45 +1226,38 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > But how can we enable successful DevOps trans...
 
 
-## Peter Sarnak, Summation formulae in spectral theory and number theory [2021]  [129]
+## Peter Sarnak, Summation formulae in spectral theory and number theory [2021]  [126]
 [![https://www.youtube.com/c/GraduateMathematics/videos](https://i.ytimg.com/vi_webp/4l56nTwt-F4/maxresdefault.webp)](https://www.youtube.com/c/GraduateMathematics/videos)  
 > Peter Sarnak, Summation formulae in spectral theory and number theory
 > (Institute for Advanced Study and Princeton University)
 > Abstract: The Poisson Summation formula, Riemann-Guinand-Weil explicit formula, Selberg Trace Formula and Lefschetz Trace formula in the function field, are starting points for a number of Zeev Rudnick's works. We will review some of these before describing some recent applications (joint with P. Kurasov) of Lang's G_m conjectures to the additive structure of the spect...
 
 
-## Miguel Montero - A hike through the Swampland  [130]
+## Miguel Montero - A hike through the Swampland  [127]
 [![https://www.youtube.com/c/GraduatePhysics/videos](https://i.ytimg.com/vi_webp/H1JOc8Z6G1o/maxresdefault.webp)](https://www.youtube.com/c/GraduatePhysics/videos)  
 > Event website: www.birs.ca/events/2022/5-day-workshops/22w5083
 
 
-## The Milkmaid by Johannes Vermeer: Great Art Explained  [131]
-[![https://www.youtube.com/c/greatartexplained](https://i.ytimg.com/vi/z2hgtFBBbxk/hqdefault.jpg)](https://www.youtube.com/c/greatartexplained)  
-> Please consider supporting this channel on Patreon, thanks! https://www.patreon.com/user?u=53686503 Or if you prefer a one off donation - https://www.paypal.com/donate/?hosted...
-> By the mid 17th century, the art being produced in Catholic countries had become a powerful tool of propaganda, characterized by a heightened sense of drama, movement, and theatricality that had never been seen before.
-> But in the Protestant Netherlands, a new wave of realism was sweeping across the country. Johannes...
-
-
-## The Milkmaid by Johannes Vermeer: Great Art Explained  [132]
+## The Milkmaid by Johannes Vermeer: Great Art Explained  [128]
 [![https://www.youtube.com/c/GreatArtExplained](https://i.ytimg.com/vi/z2hgtFBBbxk/hqdefault.jpg)](https://www.youtube.com/c/GreatArtExplained)  
 > Please consider supporting this channel on Patreon, thanks! https://www.patreon.com/user?u=53686503 Or if you prefer a one off donation - https://www.paypal.com/donate/?hosted...
 > By the mid 17th century, the art being produced in Catholic countries had become a powerful tool of propaganda, characterized by a heightened sense of drama, movement, and theatricality that had never been seen before.
 > But in the Protestant Netherlands, a new wave of realism was sweeping across the country. Johannes...
 
 
-## Casting an Aluminum Souvenir | Scan, Print and Cast Aluminum  [133]
+## Casting an Aluminum Souvenir | Scan, Print and Cast Aluminum  [129]
 [![https://www.youtube.com/c/Grunblau](https://i.ytimg.com/vi/WSSAZ-yWHOs/maxresdefault.jpg)](https://www.youtube.com/c/Grunblau)  
 > Since moving to the Detroit area in 2005, I have always enjoyed walks on the public grounds at Cranbrook.  Daniela and I have been partial to Marshall Fredericks's sculpture "The Thinker"  and that is the subject for my trip into 3D digital tourism.
 > This sculpture was installed outside the Cranbrook Museum in 1940 as a sort of tongue-in-cheek reply to the more famous "The Thinker" by Auguste Rodin, installed outside of the Detroit Institute of Arts just down the road.
 > For this video, I will u...
 
 
-## Nagraception  [134]
+## Nagraception  [130]
 [![https://www.youtube.com/c/Hainbach](https://i.ytimg.com/vi/ogaViMxHnFs/hqdefault.jpg)](https://www.youtube.com/c/Hainbach)  
 > Btw the connection cable is the the official SN to 4, it does make a difference in level and clarity....
 
 
-## The Single Australian Farm That’s Bigger Than 49 Countries  [135]
+## The Single Australian Farm That’s Bigger Than 49 Countries  [131]
 [![https://www.youtube.com/c/halfasinteresting](https://i.ytimg.com/vi/YiSN21jKp4s/hqdefault.jpg)](https://www.youtube.com/c/halfasinteresting)  
 > Get a Half as Interesting t-shirt: https://standard.tv/collections/half-as-interesting
 > Suggest a video and get a free t-shirt if we use it: http://halfasinteresting.com/suggest
@@ -1309,7 +1268,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Check out my other channel: http://youtube.com/wend...
 
 
-## DIY Adaptive Optics?  [136]
+## DIY Adaptive Optics?  [132]
 [![https://www.youtube.com/channel/UC06HVrkOL33D5lLnCPjr6NQ](https://i.ytimg.com/vi_webp/2eiaW2Memqc/hqdefault.webp)](https://www.youtube.com/channel/UC06HVrkOL33D5lLnCPjr6NQ)  
 > Also, new shop who dis? Apologies for audio and sketchy camera work. Crisp cinematography and audio will be back soon 😅
 > 🥰 CONSIDER SUBSCRIBING 🥰
@@ -1321,15 +1280,15 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > - Vdovin, G., and M. Loktev. "Deformable Mirrors wit...
 
 
-## James Webb just found the oldest galaxy ever seen. And it's just getting started  [137]
+## James Webb just found the oldest galaxy ever seen. And it's just getting started  [133]
 [![https://www.youtube.com/channel/UC0QdW-H7_l0zh_CoNhlwoBw](https://i.ytimg.com/vi/w41z5V-eFxQ/sddefault.jpg?v=62decf94)](https://www.youtube.com/channel/UC0QdW-H7_l0zh_CoNhlwoBw)  
 
 
-## Lecture 21 (update): SHA-3 Hash Function by Christof Paar  [138]
+## Lecture 21 (update): SHA-3 Hash Function by Christof Paar  [134]
 [![https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg](https://i.ytimg.com/vi_webp/JWskjzgiIa4/maxresdefault.webp)](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)  
 
 
-## Apollo Comms Part 20: Pre-Modulation Processor Power Up  [139]
+## Apollo Comms Part 20: Pre-Modulation Processor Power Up  [135]
 [![https://www.youtube.com/channel/UC3bosUr3WlKYm4sBaLs-Adw](https://i.ytimg.com/vi_webp/66LK1UxKHAM/maxresdefault.webp)](https://www.youtube.com/channel/UC3bosUr3WlKYm4sBaLs-Adw)  
 > Apollo Comms Playlist: https://www.youtube.com/watch?v=v49ucdZcx9s&list=PL-_93BVApb58SXL-BCv4rVHL-8GuC2WGb
 > https://www.curiousmarc.com/space/apollo-s-band-communications
@@ -1342,7 +1301,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > - R&D Microwaves: ...
 
 
-## Quantum Resonant Tunneling Simulation  [140]
+## Quantum Resonant Tunneling Simulation  [136]
 [![https://www.youtube.com/channel/UC3L8AcX1xJEhTofnCF2MAaQ/videos](https://i.ytimg.com/vi/WsiaFEOZ0OI/hqdefault.jpg)](https://www.youtube.com/channel/UC3L8AcX1xJEhTofnCF2MAaQ/videos)  
 > In the visualization, the color hue shows the phase of the wave function of the electron ψ(x,y, t), while the opacity shows the amplitude.
 > The transmittance spectrum, computed by taking the Fourier transform of the incident and transmitted wavefunction, can be found at the end of the video.
@@ -1350,12 +1309,12 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > The source code of this example can be found in the qmsolve repository, an open-source python open-source package we made ...
 
 
-## Brahms Opus 118 No. 1 (Brahms, the progressive)  [141]
+## Brahms Opus 118 No. 1 (Brahms, the progressive)  [137]
 [![https://www.youtube.com/channel/UC3vYz1SAtcbRhsatydObGQw](https://i.ytimg.com/vi_webp/0Uc-1SGR8Xo/maxresdefault.webp)](https://www.youtube.com/channel/UC3vYz1SAtcbRhsatydObGQw)  
 > Dr. Wang currently teaches as an Assistant Professor of Piano at Baylor University. He received the Bachelor of Music and Masters of Music degrees at The Juilliard School studied with Oxana Yablonskaya and Joseph Kalichstein and a Doctorate of Musical Arts degree at Eastman school of music studied with Nelita True. His mentors have included Thomas Schumacher, Dan-Wen Wei, Alfred Brendel, Emanuel Ax, and Richard Goode....
 
 
-## Jordan Peterson Doesn't Understand Gender Discrimination  [142]
+## Jordan Peterson Doesn't Understand Gender Discrimination  [138]
 [![https://www.youtube.com/channel/UC4V_jMdRbbTrmBVJB6FDzgw](https://i.ytimg.com/vi/LKc_8fT6pGc/sddefault.jpg)](https://www.youtube.com/channel/UC4V_jMdRbbTrmBVJB6FDzgw)  
 > See every side of every news story with Ground News https://ground.news/unlearningeconomics
 > 3:14 Part 1: The Gender Pay Gap is Real, Actually
@@ -1368,17 +1327,17 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Discord: https://discord....
 
 
-## When Elise rejects Beethoven 😭  [143]
+## When Elise rejects Beethoven 😭  [139]
 [![https://www.youtube.com/channel/UC6tpkZhNpJiTnlUgoiUe9QQ](https://i.ytimg.com/vi/bZjLKjD9MAE/hqdefault.jpg)](https://www.youtube.com/channel/UC6tpkZhNpJiTnlUgoiUe9QQ)  
 
 
-## Cigar Indians and Embedded Bigotry | Twin Rabbit  [144]
+## Cigar Indians and Embedded Bigotry | Twin Rabbit  [140]
 [![https://www.youtube.com/channel/UC_7FDEMkBBWWcol7QPzToaw](https://i.ytimg.com/vi_webp/YToJf7nXmuo/maxresdefault.webp)](https://www.youtube.com/channel/UC_7FDEMkBBWWcol7QPzToaw)  
 > https://www.twitch.tv/tailoftworabbit
 > https://www.patreon.com/TwoRabbit​...
 
 
-## Sci-Fi Short Film "Antumbra" | DUST | Online Premiere  [145]
+## Sci-Fi Short Film "Antumbra" | DUST | Online Premiere  [141]
 [![https://www.youtube.com/channel/UC7sDT8jZ76VLV1u__krUutA](https://i.ytimg.com/vi_webp/pR3gHHJ897w/maxresdefault.webp)](https://www.youtube.com/channel/UC7sDT8jZ76VLV1u__krUutA)  
 > Major Remy Barnes is the first astronaut to make contact with extraterrestrials on board of an unidentified flying object in orbit around earth.
 > "Antumbra" by Boris Schaarschmidt
@@ -1390,7 +1349,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Major Remy Barnes is the first astronaut to make contact with extraterrestrials on board of an unidentified flying object in orbit around earth. As he en...
 
 
-## How PILOTS clean their WINDSHIELDS? Explained by CAPTAIN JOE  [146]
+## How PILOTS clean their WINDSHIELDS? Explained by CAPTAIN JOE  [142]
 [![https://www.youtube.com/channel/UC88tlMjiS7kf8uhPWyBTn_A](https://i.ytimg.com/vi/j5td5LBFc6Y/maxresdefault.jpg)](https://www.youtube.com/channel/UC88tlMjiS7kf8uhPWyBTn_A)  
 > INSTAGRAM FLYWITHCAPTAINJOE: https://goo.gl/TToDlg
 > MY WEBSITE: https://goo.gl/KGTSWK
@@ -1404,7 +1363,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Company iPad: https://amzn.to/2W1zM...
 
 
-## Graphs as geometric objects - Nathan Linial  [147]
+## Graphs as geometric objects - Nathan Linial  [143]
 [![https://www.youtube.com/channel/UC8aRaZ6_0weiS50pvCmo0pw](https://i.ytimg.com/vi_webp/kEZ0mMoMIAI/maxresdefault.webp)](https://www.youtube.com/channel/UC8aRaZ6_0weiS50pvCmo0pw)  
 > Topic: Graphs as geometric objects
 > Speaker: Nathan Linial
@@ -1412,7 +1371,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > It may seem quite obvious that graphs carry a lot of geometric structure.  Don't we learn in algorithm classes how to solve all-pairs-shortest-paths, minimum spanning trees etc.?  However, in this talk, I will try to impress on you the idea that there is much more to be discovered here.  For example: Let G=(V,E) be a graph and let w be a mapping from E to the positive reals.  Let us...
 
 
-## The Enforcement of Patriarchy (2) | Renegade Cut  [148]
+## The Enforcement of Patriarchy (2) | Renegade Cut  [144]
 [![https://www.youtube.com/channel/UC9infsKo33_2LUoiqXGgQWg](https://i.ytimg.com/vi_webp/P0PGRnRdKqM/maxresdefault.webp)](https://www.youtube.com/channel/UC9infsKo33_2LUoiqXGgQWg)  
 > #roevwade #patriarchy
 > BIBLIOGRAPHY AND FURTHER READING:
@@ -1423,14 +1382,14 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > [5] Adults and children implicitly associate brilliance with men more than women, Journal of Experimental Psychology. Daniel Storage, Tessa E.S. Charlesworth, Mahzarin R. ...
 
 
-## ReoNa - ライフ・イズ・ビューティフォー / INSIDE THE FIRST TAKE supported by ahamo  [149]
+## ReoNa - ライフ・イズ・ビューティフォー / INSIDE THE FIRST TAKE supported by ahamo  [145]
 [![https://www.youtube.com/channel/UC9zY_E8mcAo_Oq772LEZq8Q](https://i.ytimg.com/vi/R8Ur6jVtwz0/maxresdefault.jpg)](https://www.youtube.com/channel/UC9zY_E8mcAo_Oq772LEZq8Q)  
 > 7月1日からの1ヶ月間を通して、出演アーティストの映像を公開。
 > 「INSIDE THE FIRST TAKE supported by ahamo」の6組目は、”絶望系アニソンシンガー”として数々のアニメ主題歌を紡いできたReoNa。
 > 披露するのは「生きてりゃいいのよ」というメッセージを掲げ、日常の中にある小さな絶望に寄り添った楽曲「ライフ・イズ・ビューティフォー」。
 
 
-## Primitive Technology: Iron knife made from bacteria  [150]
+## Primitive Technology: Iron knife made from bacteria  [146]
 [![https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA](https://i.ytimg.com/vi/dhW4XFGQB4o/hqdefault.jpg)](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA)  
 > Subscribe: http://bit.ly/subPT | Never miss a video! Enable ‘ALL’ Notifications!
 > Watch my newsest content: https://youtube.com/playlist?list=PLGnWLXjIDnpBR4xqf3FO-xFFwE-ucq4Fj&playnext=1&index=2
@@ -1442,7 +1401,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Pyrotechnology: https://youtube.com...
 
 
-## 1908 Wine Corking Machine [Restoration]  [151]
+## 1908 Wine Corking Machine [Restoration]  [147]
 [![https://www.youtube.com/channel/UCasG9kJWi1eVxM0QkyqKVJQ](https://i.ytimg.com/vi/76XtdyYIt_0/hqdefault.jpg)](https://www.youtube.com/channel/UCasG9kJWi1eVxM0QkyqKVJQ)  
 > Several parts were broken or missing entirely and needed to be fixed or remade.  I also took the time to completely nickel-plate almost all parts of the tool back to its original lustre.
 > The tool was missing its original clamp foot, but luckily @jimmydiresta had several to spare.
@@ -1450,15 +1409,15 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Wrenches, screwdrivers, and socket drivers a...
 
 
-## Ret2plt to bypass NX and ASLR in Linux x64  [152]
+## Ret2plt to bypass NX and ASLR in Linux x64  [148]
 [![https://www.youtube.com/channel/UCB0KsBKlEcEUaNfd5ylQvCQ](https://i.ytimg.com/vi/JfTOst4F3pg/hqdefault.jpg)](https://www.youtube.com/channel/UCB0KsBKlEcEUaNfd5ylQvCQ)  
 
 
-## Bank Northern Line- Before and After  [153]
+## Bank Northern Line- Before and After  [149]
 [![https://www.youtube.com/channel/UCB4CG5PB7DCp4R4sxRqrRGQ](https://i.ytimg.com/vi_webp/OzrwJC5Yskc/maxresdefault.webp)](https://www.youtube.com/channel/UCB4CG5PB7DCp4R4sxRqrRGQ)  
 
 
-## NVIDIA GTC: When Simulation Becomes Reality! 🤯  [154]
+## NVIDIA GTC: When Simulation Becomes Reality! 🤯  [150]
 [![https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg](https://i.ytimg.com/vi_webp/QqHchIFPE7g/maxresdefault.webp)](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)  
 > If everything goes well, this will be my GTC talk:
 > https://www.nvidia.com/gtc/session-catalog/?ncid=so-face-527732&tab.catalogallsessionstab=16566177511100015Kus#/session/16559245032830019Q6q
@@ -1468,19 +1427,19 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:
 
 
-## What Every History Teacher Needs | History Battle Cards Review  [155]
+## What Every History Teacher Needs | History Battle Cards Review  [151]
 [![https://www.youtube.com/channel/UCbhl9yTKO6685Ssam0hXTCw](https://i.ytimg.com/vi/-mrKJLUjCbs/hqdefault.jpg)](https://www.youtube.com/channel/UCbhl9yTKO6685Ssam0hXTCw)  
 > https://www.etsy.com/listing/700031537/history-battle-cards-40-packs
 > #AmericanCivilWar #History #Fun #Play #games #Battles #History #HistoryGoneWilder #HaveHistoryWillTravel #Historynerd #Historygeek #HistoryCritique #historymemes #historyofart #historyinthemaking #historynerd #historychannel #historybuff #historylover #historylesson #historyfacts #historygeek #historyinpictures #historymaker #historylovers #historyteacher #historymakers #historymeme #historytour #historymade #historytv18 #his...
 
 
-## End of the Helicopter? (no) - MANPADS and helicopter losses in Ukraine  [156]
+## End of the Helicopter? (no) - MANPADS and helicopter losses in Ukraine  [152]
 [![https://www.youtube.com/channel/UCC3ehuUksTyQ7bbjGntmx3Q](https://i.ytimg.com/vi_webp/qnoKpXvj41A/maxresdefault.webp)](https://www.youtube.com/channel/UCC3ehuUksTyQ7bbjGntmx3Q)  
 > For these incredibly capable machines, the Ukraine War has been a challenging environment. After a flurry of aggressive use in the opening days (culminating in the assault on Hostomel Airport) the mass introduction of man portable air defence systems and a rush of early casualties seems to have forced both the Russian and Ukrainian attack helicopters into a much more conservative posture.
 > This raises the question - if a $200,000 missile can shoot down a helicopter worth tens of millions of do...
 
 
-## The Kelly Criterion  [157]
+## The Kelly Criterion  [153]
 [![https://www.youtube.com/channel/UCCcrR0XBH0aWbdffktUBEdw](https://i.ytimg.com/vi/-9JM9suCIHs/hqdefault.jpg)](https://www.youtube.com/channel/UCCcrR0XBH0aWbdffktUBEdw)  
 > 3:43 People Play Terribly
 > 4:46 The Best Strategy Possible
@@ -1491,33 +1450,17 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > I first came across the Kelly Criterion in [1], which features it as a powerful example of the relevance and usefulness of information theory. In chap...
 
 
-## "Serenity Now!" | Hourly SuperBlitz Arena #39 #chess  [158]
-[![https://www.youtube.com/channel/UCCDOQrpqLqKVcTCKzqarxLg](https://i.ytimg.com/vi/QBDi4pzkY1c/hqdefault.jpg)](https://www.youtube.com/channel/UCCDOQrpqLqKVcTCKzqarxLg)  
-> I'm a self-taught National Master in chess out of Pennsylvania, USA who was introduced to the game by my father in 1988 at the age of 8. The purpose of this channel is to share my knowledge of chess to help others improve their game. I enjoy continuing to improve my understanding of this great game, albeit slowly. Consider subscribing here on YouTube for frequent content, and/or connecting via any or all of the below social medias. Your support is greatly appreciated. Take care, bye. :D
-
-
-## Tree Talk: Tulip-poplar  [159]
+## Tree Talk: Tulip-poplar  [154]
 [![https://www.youtube.com/channel/UCcO0QnNhmtEpkLXgYPjaxug](https://i.ytimg.com/vi/FD50o_zcyT4/hqdefault.jpg)](https://www.youtube.com/channel/UCcO0QnNhmtEpkLXgYPjaxug)  
 > Other Alliance for the Chesapeake Bay staff featured in this Tree Talk (briefly) are Zach Carnegie, Maryland Forests Projects Coordinator, and Jim Kauffman, Pennsylvania Forests Projects Coordinator.
 > Want more goods from the woods? Subscribe to this channel, and our monthly newsletter at forestsforthebay.org/newsletter_signup.cfm ! Who are we, anyway? Forests for the Bay is an educational program of the Alliance for the Chesapeake Bay, a nonprofit organization dedicated to improving the health...
 
 
-## Turing Internship Network Information Session #TuringInternshipNetwork  [160]
+## Turing Internship Network Information Session #TuringInternshipNetwork  [155]
 [![https://www.youtube.com/channel/UCcr5vuAH5TPlYox-QLj4ySw](https://i.ytimg.com/vi_webp/s7pn6UCwDvo/maxresdefault.webp)](https://www.youtube.com/channel/UCcr5vuAH5TPlYox-QLj4ySw)  
 
 
-## Five years in 49 minutes  [161]
-[![https://www.youtube.com/channel/UCCWeRTgd79JL0ilH0ZywSJA](https://i.ytimg.com/vi/qiMR6yAFfyA/hqdefault.jpg)](https://www.youtube.com/channel/UCCWeRTgd79JL0ilH0ZywSJA)  
-> For more information than you could ever reasonably desire:
-> https://escholarship.org/content/qt9mj491xk/qt9mj491xk.pdf
-> Viewers of the channel are probably going to be most interested in all the fun machines featured in chapter 2, "Experimental Methods"
-> - Molecular beam epitaxy (making crystals in ultra high vacuum)
-> - X-ray diffraction (explained with almost no math)
-> - Electron microscopy (many variants)
-> I Dunno by grapes is licensed under a Creative Commons Attribution lic...
-
-
-## Luxury Vehicles and Happiness  [162]
+## Luxury Vehicles and Happiness  [156]
 [![https://www.youtube.com/channel/UCDXTQ8nWmx_EhZ2v-kp7QxA](https://i.ytimg.com/vi_webp/WbBVoe9Lr94/maxresdefault.webp)](https://www.youtube.com/channel/UCDXTQ8nWmx_EhZ2v-kp7QxA)  
 > This hedonic treadmill of conspicuous consumption is difficult to escape. An important question is whether people with luxury vehicles actually enjoy their vehicles more.
 > Referenced in this video:
@@ -1525,7 +1468,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Why don't we learn from poor choices? The consistency of ex...
 
 
-## PragerU and the Politics of Pain  [163]
+## PragerU and the Politics of Pain  [157]
 [![https://www.youtube.com/channel/UCecF2icZlEIJ__9XS6woPGw](https://i.ytimg.com/vi_webp/ZhWxDgJv7PI/maxresdefault.webp)](https://www.youtube.com/channel/UCecF2icZlEIJ__9XS6woPGw)  
 > 00:50 - What does it mean?
 > 08:34 - Is it good or bad?
@@ -1536,35 +1479,35 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > -------- Article About Paper Findings: https://insight.kellogg.northwestern.edu/article/se...
 
 
-## The Most Famous Elevated Metro System | Chicago "L"  [164]
+## The Most Famous Elevated Metro System | Chicago "L"  [158]
 [![https://www.youtube.com/channel/UCf4iKXL_SJQ5d0qsKkboRRQ](https://i.ytimg.com/vi/-bxtFX6d0Uo/hqdefault.jpg)](https://www.youtube.com/channel/UCf4iKXL_SJQ5d0qsKkboRRQ)  
 > A huge shoutout to Austin Busch, Bryan Ceja, Mika Anderson, and Steven Lucy for providing footage and helping with this video!
 > As always, leave a comment down below if you have ideas for our future videos. Like, subscribe, and hit the bell icon so you won't miss my next video!
 > FTC Disclosure: This video is sponsored by NordPass. All content presented is my own. There may be affiliate links, meaning I receive a small commission from purchases - feel free to use your own links! These are my 100...
 
 
-## Moby Dick: Bibliotheca Webinar  [165]
+## Moby Dick: Bibliotheca Webinar  [159]
 [![https://www.youtube.com/channel/UCFaYLR_1aryjfB7hLrKGRaQ](https://i.ytimg.com/vi_webp/DsX_Ok2tKU4/hqdefault.webp)](https://www.youtube.com/channel/UCFaYLR_1aryjfB7hLrKGRaQ)  
 > Please consider subscribing to be notified of future videos, as we upload Dr. Sugrue's vast archive of lectures.
 > Dr. Michael Sugrue earned his BA at the University of Chicago and PhD at Columbia University....
 
 
-## Important Channel Update  [166]
+## Important Channel Update  [160]
 [![https://www.youtube.com/channel/UCfKNHSWLE3CSs9PXK5RdQCA](https://i.ytimg.com/vi/C_UD4RBetzE/hqdefault.jpg)](https://www.youtube.com/channel/UCfKNHSWLE3CSs9PXK5RdQCA)  
 > So, as you've probably noticed, I've mostly laid low since March. During that time, personal problems somewhat spiraled out of control and curtailed what I was working on, although now I feel a lot more committed and able to deliver the goods starting from this month.
 > Note that this was recorded on June 30th, so when I say "today" in regards to the Jason Dawe video, I meant then.
 > If you like what I've done up to this point, then please follow my sister channel, Gearknob Productions, for more ...
 
 
-## Unsupervised 3D Learning in the Wild Workshop at ICCV21 - Panel 2 Discussion  [167]
+## Unsupervised 3D Learning in the Wild Workshop at ICCV21 - Panel 2 Discussion  [161]
 [![https://www.youtube.com/channel/UCFXBh2WNhGDXFNafOrOwZEQ/videos](https://i.ytimg.com/vi_webp/Ml746AnJsp0/maxresdefault.webp)](https://www.youtube.com/channel/UCFXBh2WNhGDXFNafOrOwZEQ/videos)  
 
 
-## Lecture 25: MIT 6.832 Underactuated Robotics (Spring 2022) | "Final Project Presentation "  [168]
+## Lecture 25: MIT 6.832 Underactuated Robotics (Spring 2022) | "Final Project Presentation "  [162]
 [![https://www.youtube.com/channel/UChfUOAhz7ynELF-s_1LPpWg](https://i.ytimg.com/vi/3g-w88nNW6E/hqdefault.jpg)](https://www.youtube.com/channel/UChfUOAhz7ynELF-s_1LPpWg)  
 
 
-## 3D Printed Stackable BRUSHLESS Motor Gearbox  [169]
+## 3D Printed Stackable BRUSHLESS Motor Gearbox  [163]
 [![https://www.youtube.com/channel/UCHS55yDvORmCpbM_3vNQQsQ](https://i.ytimg.com/vi_webp/G0DcM60lWSw/maxresdefault.webp)](https://www.youtube.com/channel/UCHS55yDvORmCpbM_3vNQQsQ)  
 > This video was sponsored by Brilliant
 > Thank you for watching the video! Links to the CAD for this project are below as well as links to the hardware needed to assemble it.
@@ -1576,7 +1519,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 5010 Brushless Motor: https://amzn.to/3cto6lJ
 
 
-## How the Frogs Cooked Dinner  [170]
+## How the Frogs Cooked Dinner  [164]
 [![https://www.youtube.com/channel/UCimiUgDLbi6P17BdaCZpVbg](https://i.ytimg.com/vi/P9Q3crLWQY8/hqdefault.jpg)](https://www.youtube.com/channel/UCimiUgDLbi6P17BdaCZpVbg)  
 > The music is Norma: Casta Diva by Vincenzo Bellini. If you haven't heard the Maria Callas version, you're in for a treat: https://youtu.be/s-TwMfgaDC8
 > New Geometry for Ocelots paperback version (you may need to change your region) ► https://tinyurl.com/bdfpbun3
@@ -1586,24 +1529,24 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > For sending personalised insults ► ...
 
 
-## Are Americans Getting Richer or Poorer? (Eco's Journal Club #1)  [171]
+## Are Americans Getting Richer or Poorer? (Eco's Journal Club #1)  [165]
 [![https://www.youtube.com/channel/UCJZV6sai-juDs4zAbAMVhfA](https://i.ytimg.com/vi/-Nc_THkV9DM/hqdefault.jpg)](https://www.youtube.com/channel/UCJZV6sai-juDs4zAbAMVhfA)  
 > If you're at all interested in politics, you've probably seen a graph of the divergence of worker productivity and wages, suggesting that for most people in the US, pay has stagnated since Reagan's presidency. But other sources, especially on the right, contest this, claiming that the last 40 years have been a period of unprecedent prosperity for Americans. So what's really going on? In this video, I dig into the latest academic literature on incomes in the US to figure out the truth of the mat...
 
 
-## The Future of Lithium-Ion Batteries  [172]
+## The Future of Lithium-Ion Batteries  [166]
 [![https://www.youtube.com/channel/UCKH_iLhhkTyt8Dk4dmeCQ9w](https://i.ytimg.com/vi_webp/_mJPuH9JSXM/maxresdefault.webp)](https://www.youtube.com/channel/UCKH_iLhhkTyt8Dk4dmeCQ9w)  
 > #Battery #Lithium-ion #Lithium-sulfur #Tesla #electric car #LYTEN...
 
 
-## Repairapthon 2022: First encounter  [173]
+## Repairapthon 2022: First encounter  [167]
 [![https://www.youtube.com/channel/UCKU5nwSWYXa3xfXGBlKyvdw/videos](https://i.ytimg.com/vi/XxYga5vVgZ0/maxresdefault.jpg)](https://www.youtube.com/channel/UCKU5nwSWYXa3xfXGBlKyvdw/videos)  
 > Music by Model Povedeniya
 > https://modelp.bandcamp.com/
 > https://www.patreon.com/necroware...
 
 
-## 2018 Mac Mini weakest link - Ripped Fan connector  [174]
+## 2018 Mac Mini weakest link - Ripped Fan connector  [168]
 [![https://www.youtube.com/channel/UCLaXgfNlVxY149shiA1pykQ](https://i.ytimg.com/vi/-QxclAEpsTo/hqdefault.jpg)](https://www.youtube.com/channel/UCLaXgfNlVxY149shiA1pykQ)  
 > ⭕ Need a repair? http://northridgefix.com/mail-in/
 > ⭕ Visit our ecommerce shop and buy all your tools at https://northridgefix.com
@@ -1614,12 +1557,12 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://northridgefix.com/?s=therm...
 
 
-## Free ML Bootcamp for Alignment #shorts  [175]
+## Free ML Bootcamp for Alignment #shorts  [169]
 [![https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg](https://i.ytimg.com/vi/4x3q1RbRphk/hqdefault.jpg)](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg)  
 > https://forum.effectivealtruism.org/posts/vvocfhQ7bcBR4FLBx/apply-to-the-second-iteration-of-the-ml-for-alignment...
 
 
-## Zig: System programming without the warts (S03 E04)  [176]
+## Zig: System programming without the warts (S03 E04)  [170]
 [![https://www.youtube.com/channel/UCl_rEKDGBw4myn0uOnPxYsg](https://i.ytimg.com/vi_webp/wie5YuzoUQI/maxresdefault.webp)](https://www.youtube.com/channel/UCl_rEKDGBw4myn0uOnPxYsg)  
 > • https://ziglang.org/learn/overview/
 > • https://www.youtube.com/watch?v=Gv2I7qTux7g
@@ -1633,7 +1576,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 19:59 Zig's Integration with C is that it's a...
 
 
-## Chopin | Nocturne Op.9 No.2 [With Sheet Music]  [177]
+## Chopin | Nocturne Op.9 No.2 [With Sheet Music]  [171]
 [![https://www.youtube.com/channel/UCLsMRd097KLJMvkNzC4rYAA](https://i.ytimg.com/vi_webp/1lstOKYVp8w/maxresdefault.webp)](https://www.youtube.com/channel/UCLsMRd097KLJMvkNzC4rYAA)  
 > In this video, you can follow my playing while the sheet music is shown.
 > Here is a complete tutorial on how to play it;
@@ -1647,13 +1590,13 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Visit the link below to check for av...
 
 
-## Coffee Certifications Explained  [178]
+## Coffee Certifications Explained  [172]
 [![https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ](https://i.ytimg.com/vi/PmwoSqg0dqI/hqdefault.jpg)](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ)  
 > This video breaks down four coffee certifications, and a couple of company's buying programs, into digestible sections, which I hope will help you make more informed decisions when buying coffee. There’s a lot of detail behind the logos that you see on bags of coffee in the grocery store and this video aims to clarify the different approaches these certifications take so you can decide which one best overlaps with your values.
 > 0:00 Introduction to these six certifications
 
 
-## Alien Biospheres: Part 13 - Biotic Interchange  [179]
+## Alien Biospheres: Part 13 - Biotic Interchange  [173]
 [![https://www.youtube.com/channel/UCMjTcpv56G_W0FRIdPHBn4A](https://i.ytimg.com/vi_webp/tmkIxeyRbqo/maxresdefault.webp)](https://www.youtube.com/channel/UCMjTcpv56G_W0FRIdPHBn4A)  
 > PATREON: https://www.patreon.com/biblaridion
 > MAIN DISCORD: https://discord.gg/AjvkZBzvka
@@ -1664,7 +1607,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Kramer, B. (2009). Electric Fish. In: Binder, M.D., Hirokawa, N., Windhorst, U. (eds) Ency...
 
 
-## FranLab Live!  Blow Up My Channel Edition  [180]
+## FranLab Live!  Blow Up My Channel Edition  [174]
 [![https://www.youtube.com/channel/UCMLgHbpJ8qYqj3CkdbvC0Ww](https://i.ytimg.com/vi/3YzxHpdz3wA/hqdefault.jpg?v=62dae3ad)](https://www.youtube.com/channel/UCMLgHbpJ8qYqj3CkdbvC0Ww)  
 > Superchat is active, so if you want to put some change in the hat to keep the Nixie tube on I'll give you a sonic salute!
 > Franklin Institute Feedback - https://www.fi.edu/contact
@@ -1675,16 +1618,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > FranArt Website - http://www.contourcorsets.com...
 
 
-## When Giant Land Crocodiles Terrorized the Mammals  [181]
-[![https://www.youtube.com/channel/UCOh5Ht3eB4914hMUfJkKa9g](https://i.ytimg.com/vi/N3RyXFuHARU/hqdefault.jpg)](https://www.youtube.com/channel/UCOh5Ht3eB4914hMUfJkKa9g)  
-> To support me on Patreon (thank you): https://www.patreon.com/MothLightMedia
-> To donate to my PayPal (thank you): https://www.paypal.me/mothlightmedia
-> To buy merchandise: teespring.com/en-GB/stores/moth-light...
-> Email: mothlightmedia@outlook.com
-> If I have used artwork that belongs to you but have neglected to credit it this will just be because I was unable to find one. If this has happened please contact me and I will add a credit. Some Art work has been altered for the purposes of better...
-
-
-## HP 820 G3 laptop - No backlight and a dead battery - Can we revive a dead battery? :D  [182]
+## HP 820 G3 laptop - No backlight and a dead battery - Can we revive a dead battery? :D  [175]
 [![https://www.youtube.com/channel/UCooKQlg-HZ0PFAPc4Ymg3RA](https://i.ytimg.com/vi/52Ux-m-A0O8/hqdefault.jpg)](https://www.youtube.com/channel/UCooKQlg-HZ0PFAPc4Ymg3RA)  
 > Microphone: https://amzn.to/3xakKJO
 > Discord: http://invite.ers.repair/
@@ -1693,7 +1627,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Tools https://www.youtube.com/watch?v=KZ4be5-MUZU...
 
 
-## Pilot Aborts Landing After HUGE Mistake | ATC vs Pilots  [183]
+## Pilot Aborts Landing After HUGE Mistake | ATC vs Pilots  [176]
 [![https://www.youtube.com/channel/UCovVc-qqwYp8oqwO3Sdzx7w](https://i.ytimg.com/vi_webp/_WkxkrtrFsg/maxresdefault.webp)](https://www.youtube.com/channel/UCovVc-qqwYp8oqwO3Sdzx7w)  
 > Be Part of the 74 Crew:
 > IG:  https://www.instagram.com/74gear/
@@ -1709,7 +1643,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Action Camera: https://geni.us/Actioncamera...
 
 
-## The History of Cyprus Explained in 10 minutes  [184]
+## The History of Cyprus Explained in 10 minutes  [177]
 [![https://www.youtube.com/channel/UCp9ZtilfKJds0iWytR_pnOQ](https://i.ytimg.com/vi/PF1uYm4l1Kc/hqdefault.jpg)](https://www.youtube.com/channel/UCp9ZtilfKJds0iWytR_pnOQ)  
 > The history of Cyprus explained from ancient times to modern.
 > Help support more videos like this over on Patreon
@@ -1717,7 +1651,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > #Cyprus #history #epimetheus...
 
 
-## Lessons from the Early Days of Semiconductors - Carver Mead - 4/24/2019  [185]
+## Lessons from the Early Days of Semiconductors - Carver Mead - 4/24/2019  [178]
 [![https://www.youtube.com/channel/UCPZvrtffxEZ7KZQ9dYCG0xg](https://i.ytimg.com/vi_webp/m99YI7HZs1o/maxresdefault.webp)](https://www.youtube.com/channel/UCPZvrtffxEZ7KZQ9dYCG0xg)  
 > A full version of this talk is available on Caltech Channel: https://youtu.be/qhJaq3kl6Dc
 > - Professor Carver Mead's Research: http://www.carvermead.caltech.edu/
@@ -1725,22 +1659,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Produced in association with Caltech Academic Media Technologies. ©2019 California Institute of Technology...
 
 
-## 4K City Life Video - The Best Views of TURUNC - Holiday Resort near Marmaris - Turkey Summer Trip  [186]
-[![https://www.youtube.com/channel/UCQ-JKqNo_T0yoeDZff1y7Kw](https://i.ytimg.com/vi_webp/2H5Dhi8vvo4/maxresdefault.webp)](https://www.youtube.com/channel/UCQ-JKqNo_T0yoeDZff1y7Kw)  
-> Video from: #Turunc, #Turkey
-> Video title: WONDERFUL WALK TO TURUNC SUMMER TRIP
-> Time of filming: Summer of 2021
-> Equipment used: Panasonic GH5, DJI Mavic Mini
-> Video type: City life video
-> Video resolution: #4K UHD
-> Producer: Roman Khomlyak, Pro Art Inc
-> Cinematographer: Roman Gamkalo
-> Editor and colorist: Albert Mardanshin
-> Supervising editor: Alexey Romanov
-> The Turunc village is all about sun, sea, and enjoyment! The history of this settlement officially began only 100 years ago. Until the 1970s, th...
-
-
-## Toshiba - The Scandalous Struggle  [187]
+## Toshiba - The Scandalous Struggle  [179]
 [![https://www.youtube.com/channel/UCQMyhrt92_8XM0KgZH6VnRg](https://i.ytimg.com/vi/NxUQ_JUgw18/hqdefault.jpg)](https://www.youtube.com/channel/UCQMyhrt92_8XM0KgZH6VnRg)  
 > To submit ideas and vote on future topics:
 > https://companymanideas.com
@@ -1750,11 +1669,11 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Adamant, Ahmad, Amy Westacott, Andrew Jeeves, Astra, Atsumari, Audria Richmond, aziz alfozan, Ballard Ingram, Blake Anderson, Brett Walton, Brian Dover, Brian Smith, Brooks Sparling, Chris Lion-Transler, Christian & Penny Gray, Cocacolabear12, Dandaley, Dominic Berlingeri, Dylan...
 
 
-## Let’s review some Disney piano covers 😜❤️ #disney #piano #shorts  [188]
+## Let’s review some Disney piano covers 😜❤️ #disney #piano #shorts  [180]
 [![https://www.youtube.com/channel/UCr0BMA5yu3AS0alkR7kYwEQ](https://i.ytimg.com/vi_webp/JwHUuLGd74Q/maxresdefault.webp)](https://www.youtube.com/channel/UCr0BMA5yu3AS0alkR7kYwEQ)  
 
 
-## The dangerous world of online child exploitation  [189]
+## The dangerous world of online child exploitation  [181]
 [![https://www.youtube.com/channel/UCrCTC5_t-HaVJ025DbYITiw](https://i.ytimg.com/vi/3kHSWC2NxGQ/hqdefault.jpg)](https://www.youtube.com/channel/UCrCTC5_t-HaVJ025DbYITiw)  
 > ✨You can support the channel on Patreon, and get to join our discord chat and bookclub: https://www.patreon.com/alicecappelle
 > Marie Doezema, France, where age of consent is up for debate, The Atlantic, March 2018: https://www.theatlantic.com/international/archive/2018/03/frances-existential-crisis-over-sexual-harassment-laws/550700/
@@ -1762,7 +1681,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Republican motherhood: https://www.ushistory.org/us/12d.as...
 
 
-## How do hardware timers work?  [190]
+## How do hardware timers work?  [182]
 [![https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA](https://i.ytimg.com/vi/g_koa00MBLg/maxresdefault.jpg)](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)  
 > More 6502 stuff: https://eater.net/6502
 > Support these videos on Patreon: https://www.patreon.com/beneater or https://eater.net/support for other ways to support.
@@ -1774,7 +1693,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Aleksey Smolenchuk, Anders Carlsson, Andrew C. Young, Anson VanDoren, Anthanasius, a...
 
 
-## Industrial Robot Built from Scratch. Jarvis 2.0, The Full Build : Jeremy Fielding 104  [191]
+## Industrial Robot Built from Scratch. Jarvis 2.0, The Full Build : Jeremy Fielding 104  [183]
 [![https://www.youtube.com/channel/UC_SLthyNX_ivd-dmsFgmJVg](https://i.ytimg.com/vi_webp/XasThxf_YGo/maxresdefault.webp)](https://www.youtube.com/channel/UC_SLthyNX_ivd-dmsFgmJVg)  
 > Other ways to support.
 > https://www.buymeacoffee.com/jeremyfielding
@@ -1790,15 +1709,15 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Social media, websites, and other chan...
 
 
-## Konica 2 Million PM Kit, J-3901 1200 PRO Paper Jam Error  [192]
+## Konica 2 Million PM Kit, J-3901 1200 PRO Paper Jam Error  [184]
 [![https://www.youtube.com/channel/UCSuSPbvmwLZv9CMdeSsWkFA](https://i.ytimg.com/vi_webp/PAHOCZRCJTo/maxresdefault.webp)](https://www.youtube.com/channel/UCSuSPbvmwLZv9CMdeSsWkFA)  
 
 
-## Bigfoot Hunting  [193]
+## Bigfoot Hunting  [185]
 [![https://www.youtube.com/channel/UCtqxG9IrHFU_ID1khGvx9sA](https://i.ytimg.com/vi_webp/wsXhk1xmYAI/maxresdefault.webp)](https://www.youtube.com/channel/UCtqxG9IrHFU_ID1khGvx9sA)  
 
 
-## Tips and Tricks for Neopixels Projects (Arduino, ESP8266/ ESP32)  [194]
+## Tips and Tricks for Neopixels Projects (Arduino, ESP8266/ ESP32)  [186]
 [![https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ](https://i.ytimg.com/vi/YQi0kudzc5A/hqdefault.jpg)](https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ)  
 > My second channel: https://www.youtube.com/channel/UCQwyP4Yd0-O49e05kMUJgQQ
 > Sketch: https://github.com/SensorsIot/Youtube-Subscriber-Counter/tree/master/YoutubeCounterNeopixelV1.0 (will no more work because Youtube changed its policy)
@@ -1808,11 +1727,11 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 3A and 8A Power Supply: https...
 
 
-## CPAIOR 2022: A Learning Large Neighborhood Search for the Staff Rerostering Problem  [195]
+## CPAIOR 2022: A Learning Large Neighborhood Search for the Staff Rerostering Problem  [187]
 [![https://www.youtube.com/channel/UCUBpU4mSYdIn-QzhORFHcHQ](https://i.ytimg.com/vi_webp/RWMUfmCsp60/maxresdefault.webp)](https://www.youtube.com/channel/UCUBpU4mSYdIn-QzhORFHcHQ)  
 
 
-## [LIVE] Connecting Neurons to a Computer: The New Plan  [196]
+## [LIVE] Connecting Neurons to a Computer: The New Plan  [188]
 [![https://www.youtube.com/channel/UCV5vCi3jPJdURZwAOO_FNfQ](https://i.ytimg.com/vi/p1C0qpqpAWc/hqdefault.jpg?v=62b200b7)](https://www.youtube.com/channel/UCV5vCi3jPJdURZwAOO_FNfQ)  
 > Donations: https://streamlabs.com/thethoughtemporium
 > https://twitter.com/lab_costa/status/1281282773647572992?s=20&t=VTpel-5PNTjFZ8sDpE-8bw
@@ -1824,11 +1743,11 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://twitter.com/DubladJitender/status/1482624704129212419?s=20&t=VTpel-5PNTjFZ8sDpE-8bw
 
 
-## Warping Cache Simulation of Polyhedral Programs  [197]
+## Warping Cache Simulation of Polyhedral Programs  [189]
 [![https://www.youtube.com/channel/UCwG9512Wm7jSS6Iqshz4Dpg](https://i.ytimg.com/vi_webp/-D0bnastfCA/maxresdefault.webp)](https://www.youtube.com/channel/UCwG9512Wm7jSS6Iqshz4Dpg)  
 
 
-## Finally Obtaining the Triforce in Ocarina of Time: Triforce Percent Explained  [198]
+## Finally Obtaining the Triforce in Ocarina of Time: Triforce Percent Explained  [190]
 [![https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g](https://i.ytimg.com/vi/qBK1sq1BQ2Q/hqdefault.jpg)](https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g)  
 > SGDQ2022 Triforce% run: https://youtu.be/2x_pqyrf9lA
 > Triforce% Website: https://gettriforce.link/
@@ -1841,13 +1760,13 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 28:17 Presenting Capabilities
 
 
-## Exercises | Software Foundations | LF | Basics  [199]
+## Exercises | Software Foundations in Coq | LF | Basics  [191]
 [![https://www.youtube.com/channel/UCX3XfA9qjWjymue2I_hcW1A](https://i.ytimg.com/vi_webp/eyanGM-n8Y0/maxresdefault.webp)](https://www.youtube.com/channel/UCX3XfA9qjWjymue2I_hcW1A)  
 > Textbook: https://clarksmr.github.io/sf-lectures/textbook/lf/toc.html
 > Supporting materials: https://github.com/clarksmr/sf-lectures/tree/main/notes/lf...
 
 
-## Think Tanks: How Fake Experts Shape the News  [200]
+## Think Tanks: How Fake Experts Shape the News  [192]
 [![https://www.youtube.com/channel/UCxt2r57cLastdmrReiQJkEg](https://i.ytimg.com/vi/3n3Hq7XSBjA/maxresdefault.jpg)](https://www.youtube.com/channel/UCxt2r57cLastdmrReiQJkEg)  
 > A video about how billionaire-funded right-wing “think tanks” such as the Heritage Foundation, Adam Smith Institute, Manhattan Institute and Institute of Economic Affairs manipulate the news to spread their propaganda.
 > 0:00 Think Tanks & Propaganda in the Media
@@ -1859,25 +1778,25 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > You can find an annotated bibliogr...
 
 
-## Worlds First DIY Wire EDM Lathe!  [201]
+## Worlds First DIY Wire EDM Lathe!  [193]
 [![https://www.youtube.com/channel/UCy4kgsAYxcraee8w5SfqXPA](https://i.ytimg.com/vi/czCgWDuHHOY/hqdefault.jpg)](https://www.youtube.com/channel/UCy4kgsAYxcraee8w5SfqXPA)  
 > https://www.baxedm.com/
 > Special thanks go to Riano Eindhoven for helping out on anodizing the aluminum parts used in this video:
 > https://www.riano.nl/...
 
 
-## WW2 Fighter Pilot Experience Levels  [202]
+## WW2 Fighter Pilot Experience Levels  [194]
 [![https://www.youtube.com/channel/UCynGrIaI5vsJQgHJAIp9oSg](https://i.ytimg.com/vi/0IM5D-eqasE/hqdefault.jpg)](https://www.youtube.com/channel/UCynGrIaI5vsJQgHJAIp9oSg)  
 > Please support this channel: https://www.patreon.com/GregsAirplanesandAutomobiles,Paypal: mistydawne2010@yahoo.com
 > Spitfire model build video: https://youtu.be/UrfkbOyBQUM...
 
 
-## Take vitamin D to fight Alzheimer's  [203]
+## Take vitamin D to fight Alzheimer's  [195]
 [![https://www.youtube.com/channel/UCZeeauIH98kSm8wQtAcr8Dg](https://i.ytimg.com/vi/OI8kMGQ2CCQ/hqdefault.jpg)](https://www.youtube.com/channel/UCZeeauIH98kSm8wQtAcr8Dg)  
 > Source: https://onlinelibrary.wiley.com/doi/full/10.1111/acel.13670...
 
 
-## bubblegum snowman  [204]
+## bubblegum snowman  [196]
 [![https://www.youtube.com/c/HBMmaster](https://i.ytimg.com/vi_webp/oGc1xzaaxgQ/maxresdefault.webp)](https://www.youtube.com/c/HBMmaster)  
 > http://patreon.com/hbmmaster
 > http://conlangcritic.bandcamp.com
@@ -1885,7 +1804,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > http://janmisali.tumblr.com...
 
 
-## The Congress of Vienna (Part 2) (1814 to 1815)  [205]
+## The Congress of Vienna (Part 2) (1814 to 1815)  [197]
 [![https://www.youtube.com/c/HistoriaCivilis](https://i.ytimg.com/vi/OGJHE6O7Mhk/hqdefault.jpg)](https://www.youtube.com/c/HistoriaCivilis)  
 > Donate | http://historiacivilis.com/donate
 > Merch | http://historiacivilis.com/merch
@@ -1899,21 +1818,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > A. Wess Mitchell, "The G...
 
 
-## A Religious Offering to Carna - Ancient Roman Puls Fabacia  [206]
-[![https://www.youtube.com/c/HistoricalItalianCooking](https://i.ytimg.com/vi_webp/USvIR13oQ_Q/maxresdefault.webp)](https://www.youtube.com/c/HistoricalItalianCooking)  
-> English https://www.amazon.com/dp/B08LHG6RR5
-> Italiano https://www.amazon.it/dp/B08LHF72ZR
-> Buy our new book “Early Italian Recipes. Vegetables, fruit, herbs, and flowers”
-> English https://www.amazon.com/dp/B0B4T8VPFQ
-> Italiano https://www.amazon.it/dp/B0B4V32FHR
-> Buy our book "De Observatione Ciborum"
-> English https://www.amazon.com/dp/B09K83NMXJ
-> Italiano https://www.amazon.it/dp/B09K821LYC
-> Buy our book “Registrum Coquine. A Medieval Cookbook”
-> English https://www.amazon.com/dp/B0953XLBS3
-
-
-## What Was The First Fungus?  [207]
+## What Was The First Fungus?  [198]
 [![https://www.youtube.com/c/HistoryoftheEarth](https://i.ytimg.com/vi_webp/KH9JVy-u5DQ/maxresdefault.webp)](https://www.youtube.com/c/HistoryoftheEarth)  
 > Written & researched by Leila Battison. Check out her channel:-
 > https://www.youtube.com/channel/UCXIk7euOGq6jkptjTzEz5kQ
@@ -1927,7 +1832,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > neoproterozoic canada northwest ter...
 
 
-## Where Are All The Hidden Dimensions?  [208]
+## Where Are All The Hidden Dimensions?  [199]
 [![https://www.youtube.com/c/HistoryoftheUniverse](https://i.ytimg.com/vi/9If-K9R3Ka4/hqdefault.jpg)](https://www.youtube.com/c/HistoryoftheUniverse)  
 > ----------------------------------------------------
 > Written by Joseph Conlon
@@ -1940,14 +1845,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Democritus By Didier ...
 
 
-## Secrets of the Voynich Manuscript  [209]
-[![https://www.youtube.com/c/hochelaga](https://i.ytimg.com/vi/CSYXCBqGcZo/hqdefault.jpg)](https://www.youtube.com/c/hochelaga)  
-> https://crowdmade.com/collections/hochelaga
-> The Voynich Manuscript is well-deserving of the title “the most mysterious book of all time”.
-> This fifteenth-century text is full of weird drawings: from alien plants with no biological counterpart to miniature people operating an array of unknown machines. And then there’s the writing: it’s composed in a mystery language, complete with a unique alphabet and grammar. To this day, no one has definitively solved this ancient code...
-
-
-## Review projector GammaBai Joy  [210]
+## Review projector GammaBai Joy  [200]
 [![https://www.youtube.com/c/HomoFaciens/videos](https://i.ytimg.com/vi_webp/Nn7i1ZETEmY/maxresdefault.webp)](https://www.youtube.com/c/HomoFaciens/videos)  
 > https://HOITG.de/s010.htm
 > You can buy the GammaBai Joy on Amazon:
@@ -1959,7 +1857,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > I would like to create a clear separation between my work as a tinkerer and teacher on http...
 
 
-## Simple Tweaks That Will Prevent Climbing Injuries and Save Energy | Anatomy of the Climb  [211]
+## Simple Tweaks That Will Prevent Climbing Injuries and Save Energy | Anatomy of the Climb  [201]
 [![https://www.youtube.com/c/HoopersBeta](https://i.ytimg.com/vi/3iIQ0eAWHJg/maxresdefault.jpg)](https://www.youtube.com/c/HoopersBeta)  
 > For business inquiries: hoopersbeta@gmail.com
 > // DAN’S COACHING INFO //
@@ -1971,7 +1869,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Want an in-person or e-consult with Jason? Go here: https://www.hoopersbeta.com/private-...
 
 
-## I did battle with the Mountain Dew Legend at Buffalo Wild Wings | How to Drink  [212]
+## I did battle with the Mountain Dew Legend at Buffalo Wild Wings | How to Drink  [202]
 [![https://www.youtube.com/c/howtodrink](https://i.ytimg.com/vi_webp/k_920O41XYs/maxresdefault.webp)](https://www.youtube.com/c/howtodrink)  
 > Use this link - - to head over to Curiada and take advantage of Yellowstone's current offer to cover your shipping costs when you add a bottle of their Yellowstone Select Kentucky Straight Bourbon to your cart, available for a limited time.
 > Limestone Branch: https://limestonebranch.com/spirits/yellowstone-select-kentucky-straight-bourbon/
@@ -1981,7 +1879,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Twitch: http://bit.ly/2VsOi3d
 
 
-## Making a monolithic telescope Part 3: Figuring & Testing  [213]
+## Making a monolithic telescope Part 3: Figuring & Testing  [203]
 [![https://www.youtube.com/c/HuygensOptics](https://i.ytimg.com/vi/2lf6uuU51Z8/maxresdefault.jpg)](https://www.youtube.com/c/HuygensOptics)  
 > 01:54 Required level of precision
 > 07:12 Measuring surface shapes with interferometry
@@ -1996,7 +1894,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Website with the best and most detailed information on telescope optics:
 
 
-## Missing Parts Monday weekly progress update and more!    Now without ghosts!  [214]
+## Missing Parts Monday weekly progress update and more!    Now without ghosts!  [204]
 [![https://www.youtube.com/c/IanDavisFpd](https://i.ytimg.com/vi_webp/YLq4iSzw5Es/hqdefault.webp)](https://www.youtube.com/c/IanDavisFpd)  
 > heres the link to the EIBOS kickstarter page.
 > https://www.kickstarter.com/projects/eibos3d/eibos-oceanus-3-in-1-automatic-resin-post-processing-system
@@ -2005,7 +1903,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Sermoon V1 Pro 3D printer: https://store...
 
 
-## The Last Human – A Glimpse Into The Far Future  [215]
+## The Last Human – A Glimpse Into The Far Future  [205]
 [![https://www.youtube.com/c/inanutshell](https://i.ytimg.com/vi_webp/LEENEFaVUzU/maxresdefault.webp)](https://www.youtube.com/c/inanutshell)  
 > Sources & further reading: https://sites.google.com/view/sources-last-human/
 > This video was created in partnership with the Open Philanthropy Project
@@ -2013,7 +1911,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > The future of humanity seems insecure. Rapid climate change, political division, our greed and failings make it hard to look at our species with a lot of optimism and so many people think our end is in sight. But humans always thought they lived in the end times. Every generation as...
 
 
-## Painting a Landscape with Maths  [216]
+## Painting a Landscape with Maths  [206]
 [![https://www.youtube.com/c/InigoQuilez](https://i.ytimg.com/vi/BFld4EBO2RE/hqdefault.jpg)](https://www.youtube.com/c/InigoQuilez)  
 > Support this channel: https://www.patreon.com/inigoquilez
 > Buy this painting in a metal, canvas or photographic paper print: https://www.redbubble.com/shop/ap/39843511
@@ -2024,7 +1922,18 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Support: https://www.patreon.com/inigoquilez
 
 
-## I 3D Printed a Transparent Combustion Engine in Resin  [217]
+## Let's Talk About When Things Go Wrong...  [207]
+[![https://www.youtube.com/c/InstituteofHumanAnatomy](https://i.ytimg.com/vi_webp/mopPoMh-Fxk/maxresdefault.webp)](https://www.youtube.com/c/InstituteofHumanAnatomy)  
+> Let's Talk About When Things Go Wrong...
+> In this video, Justin from the Institute of Human Anatomy discusses the conductive system of the heart, as well as some of the basics of heart arrhythmias.
+> https://beacons.page/instituteofhumananatomy
+> Support Us on Patreon!
+> https://www.patreon.com/instituteofhumananatomy
+> https://codexanatomy.com/?ref=IOHA
+> Coupon Code for 20% OFF: IOHA20
+
+
+## I 3D Printed a Transparent Combustion Engine in Resin  [208]
 [![https://www.youtube.com/c/Integza](https://i.ytimg.com/vi/cBRo1uH5H6Y/maxresdefault.jpg)](https://www.youtube.com/c/Integza)  
 > Cylinder-M16 1.6cc 4 Stroke Engine: https://social.thangs.com/m/163672
 > M16 1.6cc 4 Stroke Engine:https://www.stirlingkit.com/products/m16-1-6cc-mini-vertical-4-stroke-gasoline-engine-model-air-cooled-cooling-structure?_pos=1&_sid=266fa26cb&_ss=r
@@ -2032,13 +1941,13 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > (@SmarterEveryDay )How Does A Carburetor Work? | Transparent Carburetor at 28,546 fps Slow Mo - Smarter Every Day ...
 
 
-## Units of History - Warships of the Carthaginian Navy DOCUMENTARY  [218]
+## Units of History - Warships of the Carthaginian Navy DOCUMENTARY  [209]
 [![https://www.youtube.com/c/InvictaHistory](https://i.ytimg.com/vi/BlrRAy2RlqM/hqdefault.jpg)](https://www.youtube.com/c/InvictaHistory)  
 > Carthage is primarily remembered through its conflict with Rome over the course of the Punic Wars. However its history stretches far beyond this brief window and includes a long naval history worth discussing. In this video we seek to trace the long history of their exploits at sea starting from the rise of Carthage to the eventual fall of Carthage.
 > We begin by looking at the Phoenician ancestry of the Carthaginians. It was these people who had pioneered many early methods of ship construction...
 
 
-## HackTheBox - Catch  [219]
+## HackTheBox - Catch  [210]
 [![https://www.youtube.com/c/ippsec](https://i.ytimg.com/vi_webp/XAZI361XgRU/maxresdefault.webp)](https://www.youtube.com/c/ippsec)  
 > 01:00 - Start of nmap, going over some standard cookies and knowing the web technology behind it
 > 06:15 - Checking what the main webpage is, discovering an APK File
@@ -2049,13 +1958,13 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 16:30 - Using the Lets Chat API to dump messages from a room and discovering...
 
 
-## Why is Stratford So Complicated?  [220]
+## Why is Stratford So Complicated?  [211]
 [![https://www.youtube.com/c/JagoHazzard](https://i.ytimg.com/vi_webp/js1tgt2GI0s/sddefault.webp)](https://www.youtube.com/c/JagoHazzard)  
 > Ko-Fi: https://ko-fi.com/jagohazzard
 > Patreon: https://patreon.com/jagohazzard...
 
 
-## Painting This Botanical Study Nearly Broke My Brain  [221]
+## Painting This Botanical Study Nearly Broke My Brain  [212]
 [![https://www.youtube.com/c/JamesGurney](https://i.ytimg.com/vi/OOc5uwZ3sAw/maxresdefault.jpg)](https://www.youtube.com/c/JamesGurney)  
 > Topic covered: 1. Setting up the sketch easel, 2. Preliminary drawing in pencil. 3. Watercolor and gouache rendering, 3. Big brushes and bold moves at the end.
 > WATERCOLOR and GOUACHE
@@ -2069,7 +1978,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Viridian  https://...
 
 
-## Back To Basics! Fixed Point Numbers in C++  [222]
+## Back To Basics! Fixed Point Numbers in C++  [213]
 [![https://www.youtube.com/c/javidx9](https://i.ytimg.com/vi/ZMsrZvBmQnU/hqdefault.jpg)](https://www.youtube.com/c/javidx9)  
 > Patreon: https://www.patreon.com/javidx9
 > YouTube: https://www.youtube.com/javidx9
@@ -2081,7 +1990,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Homepage: https://www.onelonecoder.com...
 
 
-## Why are there no bridges in East London?  [223]
+## Why are there no bridges in East London?  [214]
 [![https://www.youtube.com/c/JayForeman](https://i.ytimg.com/vi/pWZ9ZVRQ0Nw/hqdefault.jpg)](https://www.youtube.com/c/JayForeman)  
 > Enter promo code jayforeman for 83% off and 3 extra months for FREE!
 > SEE NEW EPISODES EARLY, AND BEHIND-THE-SCENES EXTRAS...
@@ -2093,13 +2002,13 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Director of Photography / additional animation
 
 
-## What pretending to be crazy looks like  [224]
+## What pretending to be crazy looks like  [215]
 [![https://www.youtube.com/c/JCSCriminalPsychology](https://i.ytimg.com/vi_webp/Mwt35SEeR9w/maxresdefault.webp)](https://www.youtube.com/c/JCSCriminalPsychology)  
 > TCL- https://www.youtube.com/c/TRUECRIMELoser
 > Voice over - https://www.youtube.com/user/kizzume...
 
 
-## Implementing game saves in my custom engine (LIVE GAMEDEV)  [225]
+## Implementing game saves in my custom engine (LIVE GAMEDEV)  [216]
 [![https://www.youtube.com/c/jdhvideo](https://i.ytimg.com/vi/w-qDgFfoloE/hqdefault.jpg?v=62bed774)](https://www.youtube.com/c/jdhvideo)  
 > TWITTER: https://twitter.com/jdah__
 > GITHUB: https://github.com/jdah
@@ -2110,7 +2019,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > http://stackoverflow.com...
 
 
-## Implementing game saves in my custom engine (LIVE GAMEDEV)  [226]
+## Implementing game saves in my custom engine (LIVE GAMEDEV)  [217]
 [![https://www.youtube.com/c/jdhvideo/videos](https://i.ytimg.com/vi/w-qDgFfoloE/hqdefault.jpg?v=62bed774)](https://www.youtube.com/c/jdhvideo/videos)  
 > TWITTER: https://twitter.com/jdah__
 > GITHUB: https://github.com/jdah
@@ -2121,7 +2030,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > http://stackoverflow.com...
 
 
-## Scrapyard Server: Fastest all-SSD NAS!  [227]
+## Scrapyard Server: Fastest all-SSD NAS!  [218]
 [![https://www.youtube.com/c/JeffGeerling](https://i.ytimg.com/vi/xvE4HNJZeIg/hqdefault.jpg)](https://www.youtube.com/c/JeffGeerling)  
 > New Customers Exclusive – Get $25 off your purchase of any AMD and Intel Processor (limit one per customer): https://micro.center/69fd8f
 > Submit your build to the Micro Center Build Showcase: https://micro.center/b7a993
@@ -2132,7 +2041,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 2nd Channel: https://www.youtube.com/c/Geerli...
 
 
-## Building a Blower (DIY dust collector part 2)  [228]
+## Building a Blower (DIY dust collector part 2)  [219]
 [![https://www.youtube.com/c/JersWoodshop](https://i.ytimg.com/vi_webp/obRBX0MBuSA/hqdefault.webp)](https://www.youtube.com/c/JersWoodshop)  
 > Part 1, Building the Cyclone:
 > https://youtu.be/hn2lPDqwMKM
@@ -2144,7 +2053,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://youtube.com/playlist?list=PL...
 
 
-## More Oklahoma Onion Burgers | Kenji's  Cooking Show  [229]
+## More Oklahoma Onion Burgers | Kenji's  Cooking Show  [220]
 [![https://www.youtube.com/c/JKenjiLopezAlt](https://i.ytimg.com/vi_webp/vZ76sZR5U-A/maxresdefault.webp)](https://www.youtube.com/c/JKenjiLopezAlt)  
 > You can also see how my brain works because I probably blab about the same things as in the other video.
 > Here’s the first video: https://youtu.be/6wYjsdU6qgI
@@ -2153,7 +2062,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Here’s my New York Times article about these burgers (with a written recipe): https://www.nytimes.com/2022/07/19/dining/oklahoma-onion-bur...
 
 
-## How The U.S. Ruined Bread  [230]
+## How The U.S. Ruined Bread  [221]
 [![https://www.youtube.com/c/johnnyharris](https://i.ytimg.com/vi/FovIyqov1uA/hqdefault.jpg)](https://www.youtube.com/c/johnnyharris)  
 > Go to our sponsor https://betterhelp.com/johnnyharris for 10% off your first month of therapy with BetterHelp and get matched with a therapist who will listen and help.
 > I wanted to know why the bread in Europe tastes so much better than the bread in America, so I went to Paris to find out.
@@ -2162,7 +2071,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > You can read his new book “Pizza Quest: My...
 
 
-## Making a Rust crate compile faster  [231]
+## Making a Rust crate compile faster  [222]
 [![https://www.youtube.com/c/JonGjengset](https://i.ytimg.com/vi/pMiqRM5ooNw/hqdefault.jpg)](https://www.youtube.com/c/JonGjengset)  
 > Why is my Rust build so slow? https://fasterthanli.me/articles/why-is-my-rust-build-so-slow
 > -Zsparse-registry https://blog.rust-lang.org/2022/06/22/sparse-registry-testing.html
@@ -2172,7 +2081,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > cargo-bloat https://github.com/RazrFalcon/cargo-bloat
 
 
-## Correcting Farsightedness using the Near Point  [232]
+## Correcting Farsightedness using the Near Point  [223]
 [![https://www.youtube.com/c/JordanEdmundsEECS](https://i.ytimg.com/vi_webp/9hV5P9z0EKQ/maxresdefault.webp)](https://www.youtube.com/c/JordanEdmundsEECS)  
 > To support the creation of videos like these, get early access,  access to a community, behind-the scenes and more, join me on patreon:
 > https://patreon.com/edmundsj
@@ -2180,11 +2089,11 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > This is part of my series on geo...
 
 
-## Using AI to Identify Queer People on Twitter??? #shorts  [233]
+## Using AI to Identify Queer People on Twitter??? #shorts  [224]
 [![https://www.youtube.com/c/JordanHarrod](https://i.ytimg.com/vi/U_LhZDwkOsI/hqdefault.jpg)](https://www.youtube.com/c/JordanHarrod)  
 
 
-## How To Get A Job In Game Design - Part 2 - The Question I Wish Game Design Students Would Ask  [234]
+## How To Get A Job In Game Design - Part 2 - The Question I Wish Game Design Students Would Ask  [225]
 [![https://www.youtube.com/c/JorgeVinoRodriguez](https://i.ytimg.com/vi_webp/iGO0LdFDTpE/maxresdefault.webp)](https://www.youtube.com/c/JorgeVinoRodriguez)  
 > Questions? I will answer them in a future video! Ask them either below in the comments or on my Twitter: https://twitter.com/cubesos
 > Playlist: https://www.youtube.com/watch?v=eHX0UtFzjqA&list=PLW3Zl3wyJwWPoqjWDgybGxOAZhdUBAhyR
@@ -2194,14 +2103,14 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 08:24 Transitioning From Design To Other Roles...
 
 
-## Recurrent Neural Networks (RNNs), Clearly Explained!!!  [235]
+## Recurrent Neural Networks (RNNs), Clearly Explained!!!  [226]
 [![https://www.youtube.com/c/joshstarmer](https://i.ytimg.com/vi/AsNTP8Kwu80/hqdefault.jpg)](https://www.youtube.com/c/joshstarmer)  
 > This video has been dubbed using an artificial voice via https://aloud.area120.google.com to increase accessibility. You can change the audio track language in the Settings menu.
 > Este video ha sido doblado al español con voz artificial con https://aloud.area120.google.com para aumentar la accesibilidad. Puede cambiar el idioma de la pista de audio en el menú Configuración.
 > Este vídeo foi dublado para o português usando uma voz artificial via https://aloud.area1...
 
 
-## A global solar PV waste TSUNAMI is about to hit!  [236]
+## A global solar PV waste TSUNAMI is about to hit!  [227]
 [![https://www.youtube.com/c/JustHaveaThink/videos](https://i.ytimg.com/vi/fU8C5t2Jl48/hqdefault.jpg)](https://www.youtube.com/c/JustHaveaThink/videos)  
 > Help support this channels independence at
 > http://www.patreon.com/justhaveathink
@@ -2214,12 +2123,12 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Interested in mastering an...
 
 
-## Pachelbel's Canon (cello quartet arr. Malte Meyn)  [237]
+## Pachelbel's Canon (cello quartet arr. Malte Meyn)  [228]
 [![https://www.youtube.com/c/justinmsolomon](https://i.ytimg.com/vi_webp/Dk3L9HLwkPE/maxresdefault.webp)](https://www.youtube.com/c/justinmsolomon)  
 > (Edited in Premiere/Audition --- not perfectly sync'ed but close enough!)...
 
 
-## Unboxing "The Lightning Tamers" (Nonfiction history of science book)  [238]
+## Unboxing "The Lightning Tamers" (Nonfiction history of science book)  [229]
 [![https://www.youtube.com/c/KathyLovesPhysicsHistory](https://i.ytimg.com/vi/97AFyJy6MRA/maxresdefault.jpg)](https://www.youtube.com/c/KathyLovesPhysicsHistory)  
 > 👉 https://amzn.to/3I7N4mq
 > Link to website (to download first 3 chapters and read scripts):
@@ -2232,7 +2141,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 5:02 Unboxing "The Lightning Tamers"...
 
 
-## NVIDIA GTC: When Simulation Becomes Reality! 🤯  [239]
+## NVIDIA GTC: When Simulation Becomes Reality! 🤯  [230]
 [![https://www.youtube.com/c/K%C3%A1rolyZsolnai](https://i.ytimg.com/vi_webp/QqHchIFPE7g/maxresdefault.webp)](https://www.youtube.com/c/K%C3%A1rolyZsolnai)  
 > If everything goes well, this will be my GTC talk:
 > https://www.nvidia.com/gtc/session-catalog/?ncid=so-face-527732&tab.catalogallsessionstab=16566177511100015Kus#/session/16559245032830019Q6q
@@ -2242,7 +2151,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:
 
 
-## Turning a Torus Inside-Out (Punctured Torus Eversion)  [240]
+## Turning a Torus Inside-Out (Punctured Torus Eversion)  [231]
 [![https://www.youtube.com/c/keenancrane](https://i.ytimg.com/vi_webp/q0Y-qjXLslM/maxresdefault.webp)](https://www.youtube.com/c/keenancrane)  
 > The motion of the torus was computed using the algorithms developed in the paper
 > Chris Yu, Caleb Brakensiek, Henrik Schumacher, Keenan Crane
@@ -2251,7 +2160,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > To compute a sphere eversion, one typically starts with a "mid-surface," i.e., a symmetric surface that exhibits no preferred orientation, applies a tiny perturbation (to break symmetry) and minimizes an energy that encourages smoothn...
 
 
-## Discrete Math II - 8.2.2 Solving Second-Order Linear Homogeneous Recurrence Relations  [241]
+## Discrete Math II - 8.2.2 Solving Second-Order Linear Homogeneous Recurrence Relations  [232]
 [![https://www.youtube.com/c/KimberlyBrehm](https://i.ytimg.com/vi_webp/W_4CEKBm2v4/maxresdefault.webp)](https://www.youtube.com/c/KimberlyBrehm)  
 > I've linked a few (of my OLD) videos for you if you struggle with factoring quadratics.
 > Factoring Trinomials when a=1 https://youtu.be/MZPUUfIRRbc
@@ -2264,7 +2173,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Modeling Identical R...
 
 
-## How Porpoising was caused by the 2022 F1 Rules  [242]
+## How Porpoising was caused by the 2022 F1 Rules  [233]
 [![https://www.youtube.com/c/KYLEDRIVES](https://i.ytimg.com/vi_webp/kFzP65XuNsc/maxresdefault.webp)](https://www.youtube.com/c/KYLEDRIVES)  
 > 01:13 Recent Aero Rule Changes
 > 02:51 2022 Aero Regulations
@@ -2280,17 +2189,17 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Instagram: https://www.instagram.com/kyleengineers/
 
 
-## Unity's John Riccitiello wasn't wrong. But...  [243]
+## Unity's John Riccitiello wasn't wrong. But...  [234]
 [![https://www.youtube.com/c/Lantertronics](https://i.ytimg.com/vi/j5_qPEQv2A0/hqdefault.jpg)](https://www.youtube.com/c/Lantertronics)  
 
 
-## Roberto Duran Was a Master at Smothering His Opponent’s Punches While Crafting Space for His Own  [244]
+## Roberto Duran Was a Master at Smothering His Opponent’s Punches While Crafting Space for His Own  [235]
 [![https://www.youtube.com/c/LeeWylie1](https://i.ytimg.com/vi/gH0J5U5mpgY/hqdefault.jpg)](https://www.youtube.com/c/LeeWylie1)  
 > Please subscribe and hit the notification button for more Boxing Analysis, Boxing Film Study, and Boxing Highlights.
 > No copyright infringement intended. All content used in adherence to Fair Use copyright law....
 
 
-## What’s new on my other channels  [245]
+## What’s new on my other channels  [236]
 [![https://www.youtube.com/c/LessonsfromtheScreenplay](https://i.ytimg.com/vi_webp/IuaaTJxhSEc/maxresdefault.webp)](https://www.youtube.com/c/LessonsfromtheScreenplay)  
 > Check out our podcast @Beyond the Screenplay and our gaming channel @Story Mode!
 > Support this channel at: http://patreon.com/LFTScreenplay
@@ -2302,7 +2211,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > - Tricia Aurand (https://twitter.com/TriciaJeanA)
 
 
-## The Muslim Who Fought French Colonialism Through Non-Violence  [246]
+## The Muslim Who Fought French Colonialism Through Non-Violence  [237]
 [![https://www.youtube.com/c/LetsTalkReligion](https://i.ytimg.com/vi/HtzUfbHMoWE/maxresdefault.jpg)](https://www.youtube.com/c/LetsTalkReligion)  
 > Thank you to Brahdamon for kindly allowing me to use his footage. Check out his channel here:
 > https://www.youtube.com/c/Brahdamon
@@ -2312,11 +2221,11 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://www.youtube.com/watch?v=1Ovb44sbHR8&t=221s
 
 
-## The logo with 26 names #shorts  [247]
+## The logo with 26 names #shorts  [238]
 [![https://www.youtube.com/c/LinusBoman/videos](https://i.ytimg.com/vi/K8U0Hywq1MU/maxresdefault.jpg)](https://www.youtube.com/c/LinusBoman/videos)  
 
 
-## The Same Origin Policy - Hacker History  [248]
+## The Same Origin Policy - Hacker History  [239]
 [![https://www.youtube.com/c/LiveOverflow](https://i.ytimg.com/vi_webp/bSJm8-zJTzQ/maxresdefault.webp)](https://www.youtube.com/c/LiveOverflow)  
 > Cookies Explained: https://web.archive.org/web/19970605224124/http://help.netscape.com/kb/client/970226-2.html
 > Netscape 2.0b1 LiveScript: https://web.archive.org/web/20021212124306/http://wp.netscape.com:80/eng/mozilla/2.0/relnotes/windows-2.0b1.html
@@ -2324,11 +2233,11 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > JavaScript Documentation: https://web.archive.org/web/19970613234917/http://home.netscape.com/eng/mozilla/2.0/h...
 
 
-## [1459] A Ukrainian Lock With An Odd Past…  [249]
+## [1459] A Ukrainian Lock With An Odd Past…  [240]
 [![https://www.youtube.com/c/lockpickinglawyer](https://i.ytimg.com/vi_webp/stJRyhqSd20/maxresdefault.webp)](https://www.youtube.com/c/lockpickinglawyer)  
 
 
-## BUILDING NEW OLD STOCK ELECTRONIC KITS - PAIA 5700 DRUM Synthesizer  [250]
+## BUILDING NEW OLD STOCK ELECTRONIC KITS - PAIA 5700 DRUM Synthesizer  [241]
 [![https://www.youtube.com/c/LOOKMUMNOCOMPUTER](https://i.ytimg.com/vi/cD9QJgP_tag/hqdefault.jpg)](https://www.youtube.com/c/LOOKMUMNOCOMPUTER)  
 > if you'd like to see more videos on this project and much much more, including samples from this machine and a full 4 hour video of me building it. check and support here :- https://www.patreon.com/lookmumnocomputer
 > or you can use the super thanks button below the video!
@@ -2338,7 +2247,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > MODULAR PERFECTION FOR ALL YOUR SYNT...
 
 
-## Review: IRIDIUM KEYBOARD vs DESKTOP // Pros, cons and its poly aftertouch explored  [251]
+## Review: IRIDIUM KEYBOARD vs DESKTOP // Pros, cons and its poly aftertouch explored  [242]
 [![https://www.youtube.com/c/loopop](https://i.ytimg.com/vi_webp/XMeiGhwx99E/maxresdefault.webp)](https://www.youtube.com/c/loopop)  
 > ► Patreon: https://patreon.com/loopop
 > Check Iridium Keyboard prices here (affiliate links help the channel regardless of what you buy):
@@ -2348,7 +2257,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Other places I hang out:
 
 
-## The HIDDEN Screws of PRECISION  [252]
+## The HIDDEN Screws of PRECISION  [243]
 [![https://www.youtube.com/c/machinethinking](https://i.ytimg.com/vi_webp/isVQMHmzHNo/maxresdefault.webp)](https://www.youtube.com/c/machinethinking)  
 > https://www.patreon.com/machinethinking
 > http://machinethinking.co
@@ -2364,7 +2273,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://sketchfab.com/3d-...
 
 
-## Yoga Full Body Summer Flow | Kraft & Balance | 30 Min. stärken, dehnen und rundum gut fühlen  [253]
+## Yoga Full Body Summer Flow | Kraft & Balance | 30 Min. stärken, dehnen und rundum gut fühlen  [244]
 [![https://www.youtube.com/c/MadyMorrison](https://i.ytimg.com/vi/WeKeMgD_Nl4/hqdefault.jpg)](https://www.youtube.com/c/MadyMorrison)  
 > 30 Minuten fließendes, kreatives und belebendes Vinyasa Yoga.
 > Freut euch auf eine überraschende Sequenz zum Wachsen, Strahlen und rundum gut fühlen 😉
@@ -2377,18 +2286,18 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Du magst die Matte lieber in einem komplett...
 
 
-## Important DOGE PSA  [254]
+## Important DOGE PSA  [245]
 [![https://www.youtube.com/c/MarcoReps](https://i.ytimg.com/vi_webp/ciR2nfP19Yc/hqdefault.webp)](https://www.youtube.com/c/MarcoReps)  
 
 
-## How Will Machine Learning Impact Economics?  [255]
+## How Will Machine Learning Impact Economics?  [246]
 [![https://www.youtube.com/c/MarginalRevolutionUniversity](https://i.ytimg.com/vi_webp/kM8B2X8pdNA/maxresdefault.webp)](https://www.youtube.com/c/MarginalRevolutionUniversity)  
 > Guido Imbens is optimistic about the potential of using machine learning to estimate “personalized casual effects” in large data sets. He laments that econometrics journals have been too rigid in their expectations, turning away many useful insights from machine learning.
 > Josh Angrist has a less rosy view. He has yet to see machine learning make an impact on the work he’s doing. Instead, he’s seen cases where it can be very misleading.
 > More about Guido Imbens: https://www.gsb.stanfo...
 
 
-## I’ve Got a HUGE Secret Hiding Behind This Fake Office  [256]
+## I’ve Got a HUGE Secret Hiding Behind This Fake Office  [247]
 [![https://www.youtube.com/c/MarkRober](https://i.ytimg.com/vi/h8g9wfI9nGI/hqdefault.jpg)](https://www.youtube.com/c/MarkRober)  
 > Also, check out the first instruction and build video over at the Crunchlabs YouTube channel!! https://www.youtube.com/crunchlabs
 > Turn your idea into a business today with Shopify: http://shopify.com/markrober
@@ -2397,12 +2306,12 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > My brother Brian built me the arcade just cause he's ...
 
 
-## Mars sinkhole opens as microbial witness tube is deployed  [257]
+## Mars sinkhole opens as microbial witness tube is deployed  [248]
 [![https://www.youtube.com/c/MarsGuy](https://i.ytimg.com/vi/QnXhwWUrqTA/maxresdefault.jpg)](https://www.youtube.com/c/MarsGuy)  
 > To document any microbial stowaways from Earth that might contaminate Mars rock samples, Perseverance deployed its first Witness Tube. Mars responded by opening a sinkhole....
 
 
-## #29 The Roof is going Down  [258]
+## #29 The Roof is going Down  [249]
 [![https://www.youtube.com/c/MartijnDoolaard](https://i.ytimg.com/vi/2Ho6DJsKCuc/hqdefault.jpg)](https://www.youtube.com/c/MartijnDoolaard)  
 > 0:55 Taking down the first stones
 > 11:58 Using the wheelbarrow
@@ -2415,7 +2324,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > DONATE: https://www.paypal.com/donate/?hosted_button_id=ARZW35KWBMJN6
 
 
-## Why is calculus so ... EASY ?  [259]
+## Why is calculus so ... EASY ?  [250]
 [![https://www.youtube.com/c/Mathologer](https://i.ytimg.com/vi_webp/kuOxDh3egN0/maxresdefault.webp)](https://www.youtube.com/c/Mathologer)  
 > 00:49 Calculus made easy. Silvanus P. Thompson comes alive
 > 03:12 Part 1: Car calculus
@@ -2429,11 +2338,11 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 36:43 Creepy animations of Thompson and Leibniz
 
 
-## Re-leveling and weeding our patio  [260]
+## Re-leveling and weeding our patio  [251]
 [![https://www.youtube.com/c/Matthiaswandel](https://i.ytimg.com/vi/w0llTMDDgn0/hqdefault.jpg)](https://www.youtube.com/c/Matthiaswandel)  
 
 
-## So Easy Your Siding Guy Will Actually Do This  [261]
+## So Easy Your Siding Guy Will Actually Do This  [252]
 [![https://www.youtube.com/c/MattRisinger](https://i.ytimg.com/vi_webp/z011jFKcGsg/maxresdefault.webp)](https://www.youtube.com/c/MattRisinger)  
 > Check them out at: https://www.keenebuilding.com/
 > Check out Delta Millworks for awesome wood products: https://deltamillworks.com/
@@ -2447,11 +2356,11 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://www.buildproductions.com...
 
 
-## Homemade RC Bike Driving With NO Side Wheels(Crash Bars)  [262]
+## Homemade RC Bike Driving With NO Side Wheels(Crash Bars)  [253]
 [![https://www.youtube.com/c/MaxBrix](https://i.ytimg.com/vi/jN6oWTAJR-Q/hqdefault.jpg)](https://www.youtube.com/c/MaxBrix)  
 
 
-## I Gave The Companion Cube Superpowers  [263]
+## I Gave The Companion Cube Superpowers  [254]
 [![https://www.youtube.com/c/MentalCheckpoint](https://i.ytimg.com/vi/mZynu1zetoI/hqdefault.jpg)](https://www.youtube.com/c/MentalCheckpoint)  
 > PLAY NOW: https://tarodev.itch.io/shutter-labs
 > Support my game design hot takes on Patreon: https://bit.ly/2SwPWDB
@@ -2461,25 +2370,13 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > I made this game in 48 hours for the GMTK 2022 Game Jam alongside Tarodev, so make sure you check his channel out as well :D https://www.youtube.com...
 
 
-## HOW was THIS Allowed to HAPPEN?!  [264]
+## HOW was THIS Allowed to HAPPEN?!  [255]
 [![https://www.youtube.com/c/MentourPilotaviation/videos](https://i.ytimg.com/vi_webp/nj7nG6gJqsU/maxresdefault.webp)](https://www.youtube.com/c/MentourPilotaviation/videos)  
 > On the 7th March 2020, two Air Canada #aircraft experienced a close call on 06L at #Toronto Pearson International airport. The two aircraft involved were a #Boeing 777 and a much smaller #Embraer ERJ-190.  A Dash 8 also makes an appearance.  The weather on the day was beautiful with high clouds and a temperature of -5°. What could have caused just an event to take place? Let’s #explore!
 > If you want to support the work I do on the channel, join my Patreon crew and get awesome perks and help ...
 
 
-## These Squishy Dots Move So Fast You Might Miss Them  [265]
-[![https://www.youtube.com/c/microcosmos](https://i.ytimg.com/vi/4VW79deD0DQ/hqdefault.jpg)](https://www.youtube.com/c/microcosmos)  
-> From our vantage point, as relatively large organisms, it can be easy to overlook the microcosmos, because it’s simply too small to see. It floats in front of our eyes at all times, and yet we cannot make out details until we turn to other tools.
-> Shop the Microcosmos:
-> https://microcosmos.store/
-> Follow Journey to the Microcosmos:
-> Twitter: https://twitter.com/journeytomicro
-> Facebook: https://www.facebook.com/JourneyToMicro
-> Support the Microcosmos:
-> http://www.patreon.com/journeytomicro
-
-
-## Designing the Ultimate Small-Batch PCB Stencil Printer - Part 2  [266]
+## Designing the Ultimate Small-Batch PCB Stencil Printer - Part 2  [256]
 [![https://www.youtube.com/c/MicroTypeEngineering](https://i.ytimg.com/vi/k8zQJk7Lkoc/hqdefault.jpg?v=62c8b61a)](https://www.youtube.com/c/MicroTypeEngineering)  
 > This is something I've wanted to work on for some years now. Hopefully streaming the progress will make sure I keep at it!
 > -- Support me on Patreon! --
@@ -2489,7 +2386,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > MicroType Engineering is a full service electronics and mechanical product design firm. We offer turnkey support no matter how far along in the design process you are. We have full schematic capture, PCB design, f...
 
 
-## Can you figure out the pattern? Binary operation problem  [267]
+## Can you figure out the pattern? Binary operation problem  [257]
 [![https://www.youtube.com/c/MindYourDecisions](https://i.ytimg.com/vi/LTzLd9n7S7o/hqdefault.jpg)](https://www.youtube.com/c/MindYourDecisions)  
 > Subscribe: https://www.youtube.com/user/MindYourDecisions?sub_confirmation=1
 > Send me suggestions by email (address at end of many videos). I may not reply but I do consider all ideas!
@@ -2499,7 +2396,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://mindyourdecisions.com/blog/my-books/#worldwide
 
 
-## Our Lungs Have A Fatal Flaw  [268]
+## Our Lungs Have A Fatal Flaw  [258]
 [![https://www.youtube.com/c/minuteearth](https://i.ytimg.com/vi_webp/Kd4ubaE_sT4/maxresdefault.webp)](https://www.youtube.com/c/minuteearth)  
 > Our respiratory systems do a great job of protecting us, but they are no match for the smallest pollution particles created by the modern world.
 > To learn more about this topic, start your googling with these keywords:
@@ -2508,7 +2405,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > - PM 2.5: tiny particles or droplets in the air that are two and one half microns or l...
 
 
-## What is "spicy"?  [269]
+## What is "spicy"?  [259]
 [![https://www.youtube.com/c/MINUTEFOOD](https://i.ytimg.com/vi/9Fdeq35qBEg/maxresdefault.jpg)](https://www.youtube.com/c/MINUTEFOOD)  
 > Not all spicy sensations are the same, so what does “spicy” actually mean?
 > 𝗦𝘁𝗮𝗿𝘁 𝗲𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝘁𝗵𝗲 𝘀𝗰𝗶𝗲𝗻𝘁𝗶𝗳𝗶𝗰 𝗻𝗶𝘁𝘁𝘆-𝗴𝗿𝗶𝘁𝘁𝘆 𝗵𝗲𝗿𝗲:
@@ -2518,27 +2415,27 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > -https://www.jneurosci.org/content/jneuro/30/12/4353.full.pdf
 
 
-## The Trinity of Quality  [270]
+## The Trinity of Quality  [260]
 [![https://www.youtube.com/c/minutephysics](https://i.ytimg.com/vi/TWBEi4ZcLu4/maxresdefault.jpg)](https://www.youtube.com/c/minutephysics)  
 > In order to make something good, you need to have the right combination of three things: Quality, Discernment and Taste. This video is about quality vs quantity, the paradox of quality, how to make good content and good videos, etc. Based on my experience over the last decade running a collaborative creative business, MinuteEarth, where we do regular internal reflection and training on the craft of science communication.
 > Support MinutePhysics on Patreon! http://www.patreon.com/minutephysics
 
 
-## Lecture 11: Q&A (2020)  [271]
+## Lecture 11: Q&A (2020)  [261]
 [![https://www.youtube.com/c/MissingSemester](https://i.ytimg.com/vi_webp/Wz50FvGG6xU/maxresdefault.webp)](https://www.youtube.com/c/MissingSemester)  
 > Help us caption & translate this video!
 > https://amara.org/v/C1Ef4/...
 
 
-## Error-driven Input Modulation: Solving the Credit Assignment Problem without a Backward Pass  [272]
+## Error-driven Input Modulation: Solving the Credit Assignment Problem without a Backward Pass  [262]
 [![https://www.youtube.com/c/MITCBMM](https://i.ytimg.com/vi_webp/5SJBvMLw-7I/maxresdefault.webp)](https://www.youtube.com/c/MITCBMM)  
 
 
-## Printers need a vacation too  [273]
-[![https://www.youtube.com/c/MitchDavis2](https://i.ytimg.com/vi_webp/aGd9MPb2zfo/maxresdefault.webp)](https://www.youtube.com/c/MitchDavis2)  
+## Printers need a vacation too  [263]
+[![https://www.youtube.com/c/MitchDavis2](https://i.ytimg.com/vi_webp/aGd9MPb2zfo/sddefault.webp)](https://www.youtube.com/c/MitchDavis2)  
 
 
-## Lecture 13: Limits of Functions  [274]
+## Lecture 13: Limits of Functions  [264]
 [![https://www.youtube.com/c/mitocw](https://i.ytimg.com/vi_webp/cjeXg5rJ9D8/maxresdefault.webp)](https://www.youtube.com/c/mitocw)  
 > Instructor: Dr. Casey Rodriguez
 > View the complete course: http://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/
@@ -2549,27 +2446,27 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > More courses at https://ocw.mit.edu
 
 
-## Building a tiny steampunk "HDMI" display  [275]
+## Building a tiny steampunk "HDMI" display  [265]
 [![https://www.youtube.com/c/mitxela](https://i.ytimg.com/vi_webp/TfBQi_peHI4/maxresdefault.webp)](https://www.youtube.com/c/mitxela)  
 > https://patreon.com/mitxela
 > https://paypal.me/mitxela
 > https://mitxela.bandcamp.com...
 
 
-## DoorDash & The Myth of Profitable Food Delivery  [276]
+## DoorDash & The Myth of Profitable Food Delivery  [266]
 [![https://www.youtube.com/c/ModernMBA](https://i.ytimg.com/vi/IlZ51zeabhM/hqdefault.jpg)](https://www.youtube.com/c/ModernMBA)  
 > Food delivery seemed such an obvious million dollar business that as a starry-eyed 20 year old at the time, I left college to start a food delivery company, joining many others in the gold rush.  The market in 2014 was wide open for the taking.  DoorDash had not yet become a household name, UberEats was just spinning up, and GrubHub was used for looking up restaurant menus online.
 > Six years after my startup, it’s been interesting to see the continued hype of food delivery companies around th...
 
 
-## Designing a white, pink & blue noise generator from scratch  [277]
+## Designing a white, pink & blue noise generator from scratch  [267]
 [![https://www.youtube.com/c/MoritzKlein0](https://i.ytimg.com/vi/0yB_h_wFkh4/maxresdefault.jpg)](https://www.youtube.com/c/MoritzKlein0)  
 > ... through Patreon:  https://www.patreon.com/moritzklein
 > ... by buying my DIY kits: https://www.ericasynths.lv/shop/diy-kits-1/
 > In this episode, we're torturing an NPN transistor into creating some white noise – which we'll then filter to also get some pink and blue noise. If you want to build along, here's the bill of materials:
 
 
-## Logic Defying V5 Engine - Honda's RC211V Explained Like Never Before  [278]
+## Logic Defying V5 Engine - Honda's RC211V Explained Like Never Before  [268]
 [![https://www.youtube.com/c/mr2mk1hero](https://i.ytimg.com/vi/XjwTPY_fwKM/hqdefault.jpg)](https://www.youtube.com/c/mr2mk1hero)  
 > Support d4a: https://driving-4-answers-shop.fourthwall.com/
 > Official patent: https://patents.google.com/patent/US6745730B2/en
@@ -2578,16 +2475,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Now the big deal about the new bike is that it's engine was something that no one had ever seen...
 
 
-## Logic Defying V5 Engine - Honda's RC211V Explained Like Never Before  [279]
-[![https://www.youtube.com/c/mr2mk1hero/videos](https://i.ytimg.com/vi/XjwTPY_fwKM/hqdefault.jpg)](https://www.youtube.com/c/mr2mk1hero/videos)  
-> Support d4a: https://driving-4-answers-shop.fourthwall.com/
-> Official patent: https://patents.google.com/patent/US6745730B2/en
-> RC211V model: https://amzn.to/3PSE9Yv
-> In 2002 Honda introduced the RC211V motorcycle to MotoGP, the highest level of motorcycle racing in the world. The bike was a response to the chaning rules of Moto GP and replaced Honda's previous contender, the iconic two stroke NSR500.
-> Now the big deal about the new bike is that it's engine was something that no one had ever seen...
-
-
-## Restored Radio Receiver From 1957 Receives Signals From Half Way Across The Planet!  [280]
+## Restored Radio Receiver From 1957 Receives Signals From Half Way Across The Planet!  [269]
 [![https://www.youtube.com/c/MrCarlsonsLab](https://i.ytimg.com/vi/g3CUQaQ-_gM/hqdefault.jpg)](https://www.youtube.com/c/MrCarlsonsLab)  
 > To learn electronics in a very different and effective way, and gain access to Mr Carlson's personal designs and inventions, visit the Mr Carlson's Lab Patreon page here: https://www.patreon.com/MrCarlsonsLab
 > Part 1 of this GE CX371 receiver restoration: https://youtu.be/Lx1KC1hoRfw
@@ -2596,7 +2484,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Part 4 of this GE CX371 receiver restoration:  https://youtu...
 
 
-## Raising day from our May 2022 Timber Frame Class  [281]
+## Raising day from our May 2022 Timber Frame Class  [270]
 [![https://www.youtube.com/c/MrChickadee](https://i.ytimg.com/vi_webp/-_Shkyl26MU/maxresdefault.webp)](https://www.youtube.com/c/MrChickadee)  
 > Patreon page: https://www.patreon.com/mrchickadee
 > Follow me on Instagram: https://www.instagram.com/mr_chickadee1/
@@ -2607,29 +2495,18 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Free Download / Stream:  https://bit.ly/acoustic-folk-instrume...
 
 
-## Andrew Tate loves Putin & Russia  [282]
+## Andrew Tate loves Putin & Russia  [271]
 [![https://www.youtube.com/c/MultiNfz](https://i.ytimg.com/vi/CGP56EMr7mw/hqdefault.jpg)](https://www.youtube.com/c/MultiNfz)  
 > I'm sure if you've been on YouTube or Instagram recently, the persona of Andrew Tate is hard to ignore. He's a new ex-fighter podcasting star, mainly famous for dropping his "redpilled" takes about women and relationships. Tate, of course, has some political opinions as well. And it just so turns out that he is a huge fan of Putin and the Russian government, and he doesn't seem to sympathize much with Ukraine. He is actually quite a SIMP for Putin. Putin is almost a representation of what it mea...
 
 
-## What Happened To Giant Hovercraft?  [283]
-[![https://www.youtube.com/c/MustardChannel/featured](https://i.ytimg.com/vi/HnJLT8wFyhY/hqdefault.jpg)](https://www.youtube.com/c/MustardChannel/featured)  
-> Watch this video on Nebula: https://nebula.app/videos/mustard-what-happened-to-giant-hovercraft
-> Tracked Hovercraft: Britain's Train to Nowhere:  https://nebula.app/videos/mustard-tracked-hovercraft-britains-train-to-nowhere
-> Support Mustard on Patreon: https://www.patreon.com/MustardChannel
-> Mustard Merchandise: https://www.teespring.com/stores/mustard-store
-> Instagram: https://www.instagram.com/mustardchannel/
-> TikTok: https://www.tiktok.com/@mustardchannel
-> Facebook: https://www.facebook.com/Mus...
-
-
-## 1930s Desk Lamp - Restoration  [284]
+## 1930s Desk Lamp - Restoration  [272]
 [![https://www.youtube.com/c/mymechanics](https://i.ytimg.com/vi_webp/tllAaDaGShg/maxresdefault.webp)](https://www.youtube.com/c/mymechanics)  
 > My friend has found this lamp at the local junk yard. I really liked its design, so I bought it for $25. To be honest I first thought this should be a quick and easy project. Sure, to get the reflector back to shape would be challenging, but the rest should be pretty straight forward. How wrong I was! It took me 26 days in the workshop to complete this project.
 > It was really tricky to get the reflector back to shape. Thanks to my two sheet metal specialist friends I was able to achieve a nearly ...
 
 
-## Ender-3 V2 NEO - upgraded Ender3-V2 but something between V2 and S1  [285]
+## Ender-3 V2 NEO - upgraded Ender3-V2 but something between V2 and S1  [273]
 [![https://www.youtube.com/c/MyTechFun](https://i.ytimg.com/vi/84cDVu1Q6rk/hqdefault.jpg)](https://www.youtube.com/c/MyTechFun)  
 > Product Link: https://www.creality3dofficial.com/products/ender-3v2-neo-3d-printer?sca_ref=750123.XrJuB6OX
 > All Ender-3 related videos: https://www.mytechfun.com/videos/ender3
@@ -2643,7 +2520,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 14:17 Calibration cube (own...
 
 
-## Minicomputer Part 17: Welcome to the OS!  [286]
+## Minicomputer Part 17: Welcome to the OS!  [274]
 [![https://www.youtube.com/c/Nakazoto](https://i.ytimg.com/vi/kKChZhBIwz8/hqdefault.jpg)](https://www.youtube.com/c/Nakazoto)  
 > https://github.com/Nakazoto/CenturionComputer/wiki
 > If you want to support the channel please hop over to Patreon:
@@ -2659,23 +2536,14 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://ocremix.org/remix/OCR01847
 
 
-## Cave Wars: How Mammoth Cave National Park Came to Be  [287]
+## Cave Wars: How Mammoth Cave National Park Came to Be  [275]
 [![https://www.youtube.com/c/NationalParkDiaries](https://i.ytimg.com/vi/2xHP8lLX7bU/hqdefault.jpg)](https://www.youtube.com/c/NationalParkDiaries)  
 > The Kentucky Cave Wars were a pivotal era in the formation of Mammoth Cave National Park. Floyd Collins' death may have come during the peak of this toxic, and frequently ridiculous, competition for prime cave real estate, but it was far from an isolated incident.
 > The story of the Kentucky Cave Wars has its roots over a century earlier, when Mammoth Cave first opened its "doors" for tourism. That fateful decision set it on a path it would never look back on.
 > In this video, I tell you the st...
 
 
-## Why Saudi Arabia Builds a Floating City  [288]
-[![https://www.youtube.com/c/neoyoutube](https://i.ytimg.com/vi/L0Le8bT1RLE/maxresdefault.jpg)](https://www.youtube.com/c/neoyoutube)  
-> Follow neo on social media:
-> Twitter: twitter.com/NeoExplains
-> Facebook: facebook.com/NeoExplains
-> Saudi Arabia is building an octagonal City. It's called Oxagon and it consists of two parts, an area on land and a floating structure in the ocean. But why are they building this?
-> Map source by MapTiler / OpenStreetMap Contributors via Geolayers 3...
-
-
-## Folk House: The Beauty of Age - Zero Waste Life  [289]
+## Folk House: The Beauty of Age - Zero Waste Life  [276]
 [![https://www.youtube.com/c/NHKWORLDJAPAN](https://i.ytimg.com/vi_webp/BdjWDB21qio/maxresdefault.webp)](https://www.youtube.com/c/NHKWORLDJAPAN)  
 > https://www3.nhk.or.jp/nhkworld/en/ondemand/special/sdgs/?cid=wohk-yt-2207-zwl021-hp
 > More quality content available on NHK WORLD-JAPAN!
@@ -2683,14 +2551,14 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > A cozy inn’s distinctive look and feel evolved as it was transformed from an abandoned folk house through the use of discarded materials found around and about an old mining town....
 
 
-## NSGL #480 - What a Comeback!  [290]
+## NSGL #480 - What a Comeback!  [277]
 [![https://www.youtube.com/c/NickSibicky](https://i.ytimg.com/vi/IEjArnTfXHc/hqdefault.jpg)](https://www.youtube.com/c/NickSibicky)  
 > If you REALLY enjoy these videos, please consider supporting on Patreon!  http://www.patreon.com/nicksibicky
 > COMPLETE NICK SIBICKY GO LECTURE PLAYLIST: 
 > https://www.youtube.com/playlist?list=PLA1F22C258E9FF4BB...
 
 
-## How To Make Infrared Cooling Paint (Electricity Free Air Conditioning)  [291]
+## How To Make Infrared Cooling Paint (Electricity Free Air Conditioning)  [278]
 [![https://www.youtube.com/c/Nighthawkinlight](https://i.ytimg.com/vi_webp/N3bJnKmeNJY/maxresdefault.webp)](https://www.youtube.com/c/Nighthawkinlight)  
 > Here is a partial list of the resources and relevant websites I found while researching this project:
 > Article about CaCO3 and BaSO4 Radiative Cooling in Commercial-like Paints: https://www.sciencedirect.com/science/article/pii/S2666386420302368?via%3Dihub
@@ -2698,7 +2566,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Formation and Application of High Reflectivity Controllable Barium Sulfate Microspheres: https://www.mdpi.com/2073-4352/8/9/333/htm
 
 
-## I Tried Grocery Shopping for $2 in Russia  [292]
+## I Tried Grocery Shopping for $2 in Russia  [279]
 [![https://www.youtube.com/c/NikiProshin](https://i.ytimg.com/vi_webp/_QKbas1wfBE/sddefault.webp?v=62dd0e56)](https://www.youtube.com/c/NikiProshin)  
 > - Other Side of Inflation in Russia https://youtu.be/NQV4j_xGjnI
 > - Living on $2 for ONE DAY in Russia (previous episode) https://youtu.be/enFcU256MJ0
@@ -2710,20 +2578,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 00:00 Grocery shopping wi...
 
 
-## Pharmacokinetics | Drug Absorption  [293]
-[![https://www.youtube.com/c/ninjanerdscience](https://i.ytimg.com/vi/kkUxUBoM-hM/hqdefault.jpg)](https://www.youtube.com/c/ninjanerdscience)  
-> You can find the NOTES and ILLUSTRATIONS for this lecture on our website at:
-> https://www.ninjanerd.org
-> In this lecture Professor Zach Murphy will be presenting on Pharmacokinetics, specifically discussing drug absorption. We hope you enjoy this lecture and be sure to support us below!
-> 0:07 Drug Absorption Introduction
-> 0:43 Routes of Administration
-> 3:05 Mechanisms of Absorption
-> 10:26 Factors Affecting Absorption
-> 24:16 Bioavailability
-> 30:07 Factors Affec...
-
-
-## Markov Chains Clearly Explained! Part - 1  [294]
+## Markov Chains Clearly Explained! Part - 1  [280]
 [![https://www.youtube.com/c/NormalizedNerd/featured](https://i.ytimg.com/vi_webp/i3AkTO9HLXo/maxresdefault.webp)](https://www.youtube.com/c/NormalizedNerd/featured)  
 > #markovchain #datascience #statistics
 > For more videos please subscribe -
@@ -2735,18 +2590,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://twitter.com/normalized_nerd...
 
 
-## Slow TV Is A Weirdly Wild Ride [1 hour]  [295]
-[![https://www.youtube.com/c/NotExactlyNormal](https://i.ytimg.com/vi_webp/ngaW5tzywUs/maxresdefault.webp)](https://www.youtube.com/c/NotExactlyNormal)  
-> Grab Atlas VPN for $1.39/mo before the deal expires: https://atlasv.pn/NotExactlyNormal
-> Special Thanks to my Top Tier Patron:
-> Support me on Patreon: https://www.patreon.com/dylandubeau
-> Twitter: https://twitter.com/dylandubeau
-> Instagram: http://instagram.com/dylandubeau
-> Website: http://www.dylandubeau.com/
-> ----------------------------------------­-----------------------------
-
-
-## Are there 10^272,000 Universes? - Numberphile  [296]
+## Are there 10^272,000 Universes? - Numberphile  [281]
 [![https://www.youtube.com/c/numberphile](https://i.ytimg.com/vi/k_TEoUF12Yk/maxresdefault.jpg)](https://www.youtube.com/c/numberphile)  
 > More links & stuff in full description below ↓↓↓
 > We have a physics channel too: https://www.youtube.com/user/sixtysymbols
@@ -2757,7 +2601,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Penguin UK - https://www.penguin.co.uk/books/316/316964/fantastic-numbers-and-where-to-find-them/978024144...
 
 
-## Lab Notes: Making Copper Sulfate and Electrobonding Wires  [297]
+## Lab Notes: Making Copper Sulfate and Electrobonding Wires  [282]
 [![https://www.youtube.com/c/NurdRage](https://i.ytimg.com/vi_webp/vLEo57DXgiE/hqdefault.webp)](https://www.youtube.com/c/NurdRage)  
 > Through Patreon: https://www.patreon.com/NurdRage
 > Through Youtube Memberships: https://www.youtube.com/channel/UCIgKGGJkt1MrNmhq3vRibYA/join
@@ -2768,7 +2612,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Instagram: https://www.instagram.com/nurdrageyoutube/...
 
 
-## Great Barrier Reef Expedition - Objectivity 259  [298]
+## Great Barrier Reef Expedition - Objectivity 259  [283]
 [![https://www.youtube.com/c/ObjectivityVideos](https://i.ytimg.com/vi/qcJFYtHnbPY/hqdefault.jpg)](https://www.youtube.com/c/ObjectivityVideos)  
 > Featuring Keith Moore from The Royal Society speaking with Brady.
 > Objectivity on Patreon: https://www.patreon.com/objectivity
@@ -2781,12 +2625,12 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > The Royal Society's own YouTube channel: https://www.yo...
 
 
-## Unit 9 Overview | Big History Project  [299]
+## Unit 9 Overview | Big History Project  [284]
 [![https://www.youtube.com/c/OERProject](https://i.ytimg.com/vi_webp/hEvV7FxNz1o/maxresdefault.webp)](https://www.youtube.com/c/OERProject)  
 > Like what you see? This video is part of a comprehensive social studies curriculum from OER Project, a family of free, online social studies courses. OER Project aims to empower teachers by offering free and fully supported social studies courses for middle- and high-school students. Your account is the key to accessing our standards-aligned courses that are designed with built-in supports like leveled readings, audio recordings of texts, video transcripts, and more. Register today at oerprojec...
 
 
-## Biking to a Suburban IKEA: Read the Manual and You'll Be Fine (Ottawa)  [300]
+## Biking to a Suburban IKEA: Read the Manual and You'll Be Fine (Ottawa)  [285]
 [![https://www.youtube.com/c/OhTheUrbanity](https://i.ytimg.com/vi/18xAO62qQ-E/maxresdefault.jpg)](https://www.youtube.com/c/OhTheUrbanity)  
 > Help keep Urbanity rolling:
 > Join our Patreon: https://www.patreon.com/ohtheurbanity
@@ -2797,12 +2641,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Music we used: Medium Rock by Audionautix is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/. Art...
 
 
-## Remote village of Altay. Life in Russia Today. Altay. Shaman  [301]
-[![https://www.youtube.com/c/onedayincountryside](https://i.ytimg.com/vi_webp/6c5dIECGpqU/maxresdefault.webp)](https://www.youtube.com/c/onedayincountryside)  
-> The Altai Mountains, also spelled Altay Mountains, are a mountain range in Central and East Asia, where Russia, China, Mongolia and Kazakhstan converge. The region is inhabited by a sparse but ethnically diverse population, including Russians, Kazakhs, Altais and Mongols, though predominantly represented by indigenous ethnic minorities of semi-nomadic stock. The local economy is based on bovine, sheep, horse husbandry, hunting, agriculture, forestry, and mining. The controversial Altaic languag...
-
-
-## The Pig War - OverSimplified  [302]
+## The Pig War - OverSimplified  [286]
 [![https://www.youtube.com/c/OverSimplified](https://i.ytimg.com/vi/QLq6GEiHqR8/maxresdefault.jpg)](https://www.youtube.com/c/OverSimplified)  
 > MERCH (Plushie and new character pins OUT NOW!) - https://www.oversimplified.tv/merch
 > Support us on Patreon (please): https://www.patreon.com/oversimple
@@ -2815,21 +2654,11 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Thank you to our Patreon...
 
 
-## Inside the Mind of Open Mic Stand-up Comedians | PARAGRAPHIC  [303]
-[![https://www.youtube.com/c/PARAGRAPHIC](https://i.ytimg.com/vi_webp/iD33MCz_ARA/maxresdefault.webp)](https://www.youtube.com/c/PARAGRAPHIC)  
-> ➢ Behind the scenes: https://www.patreon.com/PARAGRAPHIC
-> ➢ See more from the creator community: https://www.multitude.video
-> ➢ Subscribe: https://www.youtube.com/channel/UCQtzPvhc-8PQrmxcZUVdI7Q?sub_confirmation=1
-> 200W Solar Panels: https://amzn.to/3pvTUdr
-> Solar Portable Power Station: https://amzn.to/3suo8PQ
-> 100 Amp Hour LiFePO4 Battery: https://amzn.to/35mJEx9
-
-
-## NIGHT OF THE COCONUT Merch Available Now! #shorts  [304]
+## NIGHT OF THE COCONUT Merch Available Now! #shorts  [287]
 [![https://www.youtube.com/c/patrickhwillems](https://i.ytimg.com/vi/x5abiIppsMM/maxresdefault.jpg)](https://www.youtube.com/c/patrickhwillems)  
 
 
-## What If We Live in a Superdeterministic Universe?  [305]
+## What If We Live in a Superdeterministic Universe?  [288]
 [![https://www.youtube.com/c/pbsspacetime](https://i.ytimg.com/vi/JnKzt6Xq-w4/maxresdefault.jpg)](https://www.youtube.com/c/pbsspacetime)  
 > Sign Up on Patreon to get access to the Space Time Discord!
 > https://www.patreon.com/pbsspacetime
@@ -2840,21 +2669,21 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://mailchi.mp/1a6eb8f2717d/...
 
 
-## Making a Spaceship from a Cardboard Box  [306]
+## Making a Spaceship from a Cardboard Box  [289]
 [![https://www.youtube.com/c/PeterDraws1](https://i.ytimg.com/vi_webp/6ZU_Wtx7Wdc/maxresdefault.webp)](https://www.youtube.com/c/PeterDraws1)  
 > secondary beepers and bloopers
 > zero-G fitness machines
 > control system modules
 
 
-## A Talking Chicken  [307]
+## A Talking Chicken  [290]
 [![https://www.youtube.com/c/PezzzasWork](https://i.ytimg.com/vi/vVZL4MeSY1o/hqdefault.jpg)](https://www.youtube.com/c/PezzzasWork)  
 > 00:58 Sound data sampling
 > 01:58 Add some physics
 > 02:56 Final result...
 
 
-## USB High Speed Routing (ULPI, Delay Tuning) - Phil's Lab #67  [308]
+## USB High Speed Routing (ULPI, Delay Tuning) - Phil's Lab #67  [291]
 [![https://www.youtube.com/c/PhilS94](https://i.ytimg.com/vi/wQ37NxSeP48/hqdefault.jpg)](https://www.youtube.com/c/PhilS94)  
 > Mixed-signal hardware design course: https://phils-lab-shop.fedevel.education
 > Free trial of Altium Designer: https://www.altium.com/yt/philslab
@@ -2869,14 +2698,14 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 05:09 ULPI Timing ...
 
 
-## Quantum tunnelling and the alpha particle paradox  [309]
+## Quantum tunnelling and the alpha particle paradox  [292]
 [![https://www.youtube.com/c/PhysicsExplainedVideos/videos](https://i.ytimg.com/vi_webp/_f8zeEI0oys/maxresdefault.webp)](https://www.youtube.com/c/PhysicsExplainedVideos/videos)  
 > You can help support this channel via the Physics Explained Patreon account: https://www.patreon.com/physicsexplained
 > You can follow me on instagram: https://www.instagram.com/physicsexpl...
 > You can follow me on Twitter: https://twitter.com/PhysicsExplain1...
 
 
-## Overnight in the Most Remote Camp on Earth  [310]
+## Overnight in the Most Remote Camp on Earth  [293]
 [![https://www.youtube.com/c/physicsgirl](https://i.ytimg.com/vi/ap7-Wci2-8k/hqdefault.jpg)](https://www.youtube.com/c/physicsgirl)  
 > Visit my sponsor BetterHelp for 10% off your first month - https://betterhelp.com/physicsgirl
 > Support Physics Girl videos → https://www.patreon.com/physicsgirl
@@ -2884,13 +2713,13 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Special thank you to our X-Ray tier patrons: Carlos Patricio, David Cichowski, Eddie Sabbah, Fabrice Eap, Gil Chesterton, Isabel Herstek, Margaux Lopez, Matt Kaminski, Michael Schneider, Patrick Olson, Vikram Bhat, Vincent Argiro, wc993219
 
 
-## How General Relativity Reshaped the Universe!  [311]
+## How General Relativity Reshaped the Universe!  [294]
 [![https://www.youtube.com/c/PhysicswithElliot](https://i.ytimg.com/vi_webp/V8fSYnY9Bj0/maxresdefault.webp)](https://www.youtube.com/c/PhysicswithElliot)  
 > Get the notes for free here: https://courses.physicswithelliot.com/notes-sign-up
 > Einstein's theory of gravity---general relativity---was the last great pillar of pre-quantum physics. Gravity, he says, results from the curvature of spacetime in the presence of massive objects like stars. Then lighter particles moving nearby just travel along the straightest possible routes that they can through this curved geometry, called geodesics. And yet over 200 years earlier  Newton wrote down a vastly si...
 
 
-## The Dark Side of Science: Cryonics Freezing the Dead to revive later | Short Documentary  [312]
+## The Dark Side of Science: Cryonics Freezing the Dead to revive later | Short Documentary  [295]
 [![https://www.youtube.com/c/PlainlyDifficult](https://i.ytimg.com/vi/3MBHaYnFfdA/maxresdefault.jpg)](https://www.youtube.com/c/PlainlyDifficult)  
 > Imagine being woken up after years of deep freeze cured of any disease, well this is the concept of Cryonics, that is freezing the dead for later revival........
 > Thank you to my Patreons, Youtube Members and Paypal Donors, your support keeps the lights on!
@@ -2898,7 +2727,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 15:07 Modern Day Cryonics
 
 
-## Could China Survive the Sanctions Against Russia?  [313]
+## Could China Survive the Sanctions Against Russia?  [296]
 [![https://www.youtube.com/c/PolyMatter](https://i.ytimg.com/vi_webp/Vnwji5doAbs/hqdefault.webp)](https://www.youtube.com/c/PolyMatter)  
 > Watch this video ad-free on Nebula: https://nebula.app/videos/polymatter-could-china-survive-the-sanctions-against-russia
 > Watch episode 3 of my new Nebula Original series on Nebula: "China's Rare Earth Dominance" https://nebula.app/videos/polymatter-chinas-rare-earth-dominance
@@ -2910,7 +2739,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Music by Graham Hae...
 
 
-## Monte Cassino Part 2: The Forgotten Reality  [314]
+## Monte Cassino Part 2: The Forgotten Reality  [297]
 [![https://www.youtube.com/c/PotentialHistory](https://i.ytimg.com/vi/ggden_EFHJQ/maxresdefault.jpg)](https://www.youtube.com/c/PotentialHistory)  
 > More on the Monastery bombing as mentioned in the video: https://apps.dtic.mil/dtic/tr/fulltext/u2/a406553.pdf
 > Thank you for permission to use a clip from WW2 EPIC BATTLES: https://www.youtube.com/channel/UCtrJhGjDUGBlbnqYSqzt7Lg
@@ -2921,23 +2750,23 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Further Reading/Viewing
 
 
-## What Happens When a Reservoir Goes Dry?  [315]
+## What Happens When a Reservoir Goes Dry?  [298]
 [![https://www.youtube.com/c/PracticalEngineeringChannel](https://i.ytimg.com/vi/wu9qy4DyKlo/hqdefault.jpg)](https://www.youtube.com/c/PracticalEngineeringChannel)  
 > 🧠Get 20% off an annual premium subscription of Brilliant at http://brilliant.org/PracticalEngineering
 > People use water at more or less a constant rate and yet, mother nature supplies it in unpredictable sloshes of rain or snow that can change with the seasons and often have considerable dry periods between them. If the sloshes get too far apart, we call it a drought. And at least one study has estimated that the past two decades have been the driest period in more than a thousand years for t...
 
 
-## Unity: 3D Surface Plotter - Texture Mapping  [316]
+## Unity: 3D Surface Plotter - Texture Mapping  [299]
 [![https://www.youtube.com/c/PracticalProgrammingwithDrXu](https://i.ytimg.com/vi_webp/yShM43yxtXg/sddefault.webp)](https://www.youtube.com/c/PracticalProgrammingwithDrXu)  
 > https://assetstore.unity.com/packages/slug/224386...
 
 
-## What in the World Happened to Professor Leonard?!  [317]
+## What in the World Happened to Professor Leonard?!  [300]
 [![https://www.youtube.com/c/ProfessorLeonard](https://i.ytimg.com/vi_webp/8h1lJwKbm8E/maxresdefault.webp)](https://www.youtube.com/c/ProfessorLeonard)  
 > Support: https://www.patreon.com/ProfessorLeonard...
 
 
-## Best Locking Pliers? 1980s USA Vise Grips, Snap On, Irwin, Milwaukee, Crescent, Tekton, CH Hanson  [318]
+## Best Locking Pliers? 1980s USA Vise Grips, Snap On, Irwin, Milwaukee, Crescent, Tekton, CH Hanson  [301]
 [![https://www.youtube.com/c/ProjectFarm](https://i.ytimg.com/vi/cdT9QxG9qe0/hqdefault.jpg)](https://www.youtube.com/c/ProjectFarm)  
 > ➡ Thank you for supporting the channel through memberships:
 > https://www.youtube.com/channel/UC2rzsm1Qi6N1X-wuOg_p0Ng/join
@@ -2947,17 +2776,17 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > ➡ Click here if you'd like to subscribe:   https://www.youtube.com/channel/UC2rzsm1Qi6N1X-wu...
 
 
-## "Just be yourself" is lazy advice.  [319]
+## "Just be yourself" is lazy advice.  [302]
 [![https://www.youtube.com/c/QOVESStudio](https://i.ytimg.com/vi/bkBGqGofhZU/hqdefault.jpg)](https://www.youtube.com/c/QOVESStudio)  
 
 
-## The Biggest Project in Modern Mathematics  [320]
+## The Biggest Project in Modern Mathematics  [303]
 [![https://www.youtube.com/c/QuantaScienceChannel](https://i.ytimg.com/vi/_bJeKUosqoY/hqdefault.jpg)](https://www.youtube.com/c/QuantaScienceChannel)  
 > Read more at Quanta Magazine: https://www.quantamagazine.org/what-is-the-langlands-program-20220531/
 > Quanta Magazine is an editorially independent publication supported by the Simons Foundation....
 
 
-## Еgypt's Ambitious Plan to Introduce High Speed Rail  [321]
+## Еgypt's Ambitious Plan to Introduce High Speed Rail  [304]
 [![https://www.youtube.com/c/RailwaysExplained](https://i.ytimg.com/vi/JPB-M_0RcbE/maxresdefault.jpg)](https://www.youtube.com/c/RailwaysExplained)  
 > ------------------------------------------------------------------------------------------------------------------------------------------------
 > Support Railways Explained on Patreon: https://www.patreon.com/railways_explained
@@ -2966,7 +2795,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > ------------------------------...
 
 
-## Everything might change forever this century (or we’ll go extinct)  [322]
+## Everything might change forever this century (or we’ll go extinct)  [305]
 [![https://www.youtube.com/c/RationalAnimations](https://i.ytimg.com/vi_webp/3K25VPdbAjU/maxresdefault.webp)](https://www.youtube.com/c/RationalAnimations)  
 > This video is based on Holden Karnofsky’s “most important century” blog post series: https://www.cold-takes.com/most-important-century/
 > Below, you can find additional sources and further readings.
@@ -2976,7 +2805,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 🟤 Ko-fi: https://ko-fi.com/...
 
 
-## Tim O'Reilly: How does Web3 Compare to Web 2.0? | RR: Understanding Crypto 8  [323]
+## Tim O'Reilly: How does Web3 Compare to Web 2.0? | RR: Understanding Crypto 8  [306]
 [![https://www.youtube.com/c/RATIONALREMINDER](https://i.ytimg.com/vi_webp/OfcHqqrudh4/maxresdefault.webp)](https://www.youtube.com/c/RATIONALREMINDER)  
 > Participate in our Community Discussion about this Episode:
 > https://community.rationalreminder.ca/t/understanding-crypto-8-tim-oreilly-is-web3-as-exciting-as-web-2-0-discussion-thread/18160
@@ -2987,13 +2816,13 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Join the Community — https://community.rationalreminde...
 
 
-## RAM Effect Vehicle - A New Type of Aircraft Wing Design?  [324]
+## RAM Effect Vehicle - A New Type of Aircraft Wing Design?  [307]
 [![https://www.youtube.com/c/rctestflight](https://i.ytimg.com/vi_webp/kbnTKuIOTdw/maxresdefault.webp)](https://www.youtube.com/c/rctestflight)  
 > All my GEV videos: https://www.rctestflight.com/ground-effect-vehicles
 > Support rctestflight: https://www.patreon.com/danielriley
 
 
-## The Problem with the Next Moon Mission  [325]
+## The Problem with the Next Moon Mission  [308]
 [![https://www.youtube.com/c/RealEngineering](https://i.ytimg.com/vi/0k9wIsKKgqo/hqdefault.jpg)](https://www.youtube.com/c/RealEngineering)  
 > Watch this video ad free on Nebula:
 > Links to everything I do:
@@ -3010,7 +2839,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > [1] NASA Mission To Study Mysterious Lunar Twilight Rays https://science.nasa.gov/scienc...
 
 
-## How Las Vegas Exists in America's Driest Desert  [326]
+## How Las Vegas Exists in America's Driest Desert  [309]
 [![https://www.youtube.com/c/RealLifeLore](https://i.ytimg.com/vi/4U1TkIdDbRA/hqdefault.jpg)](https://www.youtube.com/c/RealLifeLore)  
 > Please Subscribe: http://bit.ly/2dB7VTO​​​
 > Select videos courtesy of Getty Images
@@ -3018,20 +2847,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Special thanks to MapTiler / OpenStreetMap Contributors and GEOlayers 3...
 
 
-## Why Do Deep Sea Creatures Evolve Into Giants?  [327]
-[![https://www.youtube.com/c/realscience](https://i.ytimg.com/vi/uYR4ZMlLUwI/hqdefault.jpg)](https://www.youtube.com/c/realscience)  
-> Patreon: https://www.patreon.com/realscience
-> Instagram: https://www.instagram.com/stephaniesammann
-> Narrator/Producer: Stephanie Sammann
-> Editor: Dylan Hennessy (https://www.behance.net/dylanhennessy1)
-> Editor: David O'Sullivan
-> Illustrator/Animator: Kirtan Patel (https://kpatart.com/illustrations)
-> Illustrator: Elfy Chiang (https://www.elfylandstudios.com)
-> Animator: Mike Ridolfi (https://www.moboxgraphics.com/)
-> Animator: Eli Prenten (https://www.instagram.com/twistereli/)
-
-
-## PageRank: A Trillion Dollar Algorithm  [328]
+## PageRank: A Trillion Dollar Algorithm  [310]
 [![https://www.youtube.com/c/Reducible](https://i.ytimg.com/vi_webp/JGQe4kiPnrU/hqdefault.webp)](https://www.youtube.com/c/Reducible)  
 > 1:00 Defining Markov Chains
 > 2:00 Introducing the Problem
@@ -3048,25 +2864,25 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > In the late 1990's two PhD Students Larry ...
 
 
-## The Most Famous Elevated Metro System | Chicago "L"  [329]
+## The Most Famous Elevated Metro System | Chicago "L"  [311]
 [![https://www.youtube.com/c/RMTransit](https://i.ytimg.com/vi/-bxtFX6d0Uo/hqdefault.jpg)](https://www.youtube.com/c/RMTransit)  
 > A huge shoutout to Austin Busch, Bryan Ceja, Mika Anderson, and Steven Lucy for providing footage and helping with this video!
 > As always, leave a comment down below if you have ideas for our future videos. Like, subscribe, and hit the bell icon so you won't miss my next video!
 > FTC Disclosure: This video is sponsored by NordPass. All content presented is my own. There may be affiliate links, meaning I receive a small commission from purchases - feel free to use your own links! These are my 100...
 
 
-## Neos Wizardry (WIP)  [330]
+## Neos Wizardry (WIP)  [312]
 [![https://www.youtube.com/c/RobertBaruch](https://i.ytimg.com/vi_webp/-qeaWMIMchA/sddefault.webp)](https://www.youtube.com/c/RobertBaruch)  
 > Neos: https://neos.com...
 
 
-## 1619 Whatever Happened To Starlite The Wonder Material  [331]
+## 1619 Whatever Happened To Starlite The Wonder Material  [313]
 [![https://www.youtube.com/c/RobertMurraySmith](https://i.ytimg.com/vi_webp/nLN7s7M75CA/maxresdefault.webp)](https://www.youtube.com/c/RobertMurraySmith)  
 > If you want to have a look at those special videos become a member and join by clicking this link https://www.youtube.com/channel/UC4AkVj-qnJxNtKuz3rkq16A/join
 > Don't forget that you can buy my books and materials for your own experiments including our conductive inks at https://secure.workingink.co.uk/working-ink-shop/    - and for the many who have asked, yes, you can also donate to further our work, again through the shop....
 
 
-## What’s inside the shoe that saved Nike? Air Jordan 3  [332]
+## What’s inside the shoe that saved Nike? Air Jordan 3  [314]
 [![https://www.youtube.com/c/RoseAnvil](https://i.ytimg.com/vi_webp/cwRCR02sKQ0/maxresdefault.webp)](https://www.youtube.com/c/RoseAnvil)  
 > ND2 Email List - https://forms.gle/ty5LZ3ebexjXaNZ47
 > AIR JORDAN 3 RETRO 2018 - https://stockx.pvxt.net/KemeVA
@@ -3078,12 +2894,12 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > INSTAGRAM - https://www.instagram.com/...
 
 
-## Samm Sheperd 1994-2018  [333]
+## Samm Sheperd 1994-2018  [315]
 [![https://www.youtube.com/c/SammSheperd](https://i.ytimg.com/vi_webp/UUtTm9be07c/maxresdefault.webp)](https://www.youtube.com/c/SammSheperd)  
 > You may view Samm's Obituary by visiting https://tinyurl.com/y89m7mv8...
 
 
-## Tally Ho's King Planks (& more!) / rebuilding a wooden boat  [334]
+## Tally Ho's King Planks (& more!) / rebuilding a wooden boat  [316]
 [![https://www.youtube.com/c/SampsonBoatCo](https://i.ytimg.com/vi_webp/EjelCsptN9o/hqdefault.webp)](https://www.youtube.com/c/SampsonBoatCo)  
 > Become a Patron; http://www.patreon.com/sampsonboatco
 > Amazon Wishlist; http://a.co/76y5IZP
@@ -3092,7 +2908,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Also in this video; we meet the new shipwright on the team, we get a visit from Pancho the macaw, Leo catches the d...
 
 
-## "Z2" - Upgraded Homemade Silicon Chips  [335]
+## "Z2" - Upgraded Homemade Silicon Chips  [317]
 [![https://www.youtube.com/c/SamZeloof](https://i.ytimg.com/vi_webp/IS5ycm7VfXg/maxresdefault.webp)](https://www.youtube.com/c/SamZeloof)  
 > http://sam.zeloof.xyz/second-ic/
 > Check our Jeri Ellsworth's amazing work making the first transistors and logic gates at home https://www.youtube.com/watch?v=PdcKwOo7dmM&t=1s
@@ -3100,11 +2916,11 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Upgraded Homemade Silicon IC Fab Process...
 
 
-## Pen Wiggler  [336]
+## Pen Wiggler  [318]
 [![https://www.youtube.com/c/scanlime](https://i.ytimg.com/vi_webp/3a4-ZxISiRM/maxresdefault.webp)](https://www.youtube.com/c/scanlime)  
 
 
-## This Paradox Took 17 Years To Solve. It's Still Debated.  [337]
+## This Paradox Took 17 Years To Solve. It's Still Debated.  [319]
 [![https://www.youtube.com/c/Scienceasylum](https://i.ytimg.com/vi/PO4a2zO8zW8/maxresdefault.jpg)](https://www.youtube.com/c/Scienceasylum)  
 > Bell's spaceship paradox from special relativity has been tormenting physicists for decades. I try to settle the debate once and for all with the use of spacetime diagrams.
 > 00:57 Physical Paradoxes
@@ -3117,7 +2933,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > ________________________________
 
 
-## Supercritical Fluids  [338]
+## Supercritical Fluids  [320]
 [![https://www.youtube.com/c/ScienceClicEN](https://i.ytimg.com/vi/pXvxNFFlqKw/maxresdefault.jpg)](https://www.youtube.com/c/ScienceClicEN)  
 > This video is narrated by Octave Masson.
 > For more videos, subscribe to the YouTube channel : https://www.youtube.com/ScienceClicEN
@@ -3130,7 +2946,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > For more info: http://www.alessandror...
 
 
-## Supercritical Fluids  [339]
+## Supercritical Fluids  [321]
 [![https://www.youtube.com/c/ScienceClicEN/videos](https://i.ytimg.com/vi/pXvxNFFlqKw/maxresdefault.jpg)](https://www.youtube.com/c/ScienceClicEN/videos)  
 > This video is narrated by Octave Masson.
 > For more videos, subscribe to the YouTube channel : https://www.youtube.com/ScienceClicEN
@@ -3143,7 +2959,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > For more info: http://www.alessandror...
 
 
-## The JWST Pictures You Haven’t Seen Yet  [340]
+## The JWST Pictures You Haven’t Seen Yet  [322]
 [![https://www.youtube.com/c/SciShow](https://i.ytimg.com/vi/UK9G8JS8zGU/hqdefault.jpg)](https://www.youtube.com/c/SciShow)  
 > The James Webb Space Telescope released its first official batch of photos to the public, but they weren't the first images the telescope captured since they had taken a bunch while testing the cameras. Let's talk about some of those testing images and how they helped astronomers ensure JWST could deliver on its promise to "unfold the universe".
 > Hosted by: Hank Green
@@ -3151,7 +2967,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Support SciShow by becoming a patron on Patr...
 
 
-## Being a New Parent is Hard | Compilation  [341]
+## Being a New Parent is Hard | Compilation  [323]
 [![https://www.youtube.com/c/SciShowPsych](https://i.ytimg.com/vi_webp/cIH1FyNTzMw/maxresdefault.webp)](https://www.youtube.com/c/SciShowPsych)  
 > From the baby blues to helping your toddler through a temper tantrum, many things can make being a new parent a hard time for you and your child, but a bit of science can help us navigate this period of life.
 > Hosted by: Hank Green
@@ -3160,7 +2976,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Become a Patron and have your name featured in the description of every SciShow P...
 
 
-## Our Expanding Universe | Compilation  [342]
+## Our Expanding Universe | Compilation  [324]
 [![https://www.youtube.com/c/scishowspace](https://i.ytimg.com/vi/2hywNYzcRwM/hqdefault.jpg)](https://www.youtube.com/c/scishowspace)  
 > Hosted By: Reid Reimers
 > Huge thanks go to the following Patreon supporter for helping us keep SciShow Space free for everyone forever: Jason A Saslow, David Brooks, and AndyGneiss!
@@ -3170,7 +2986,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > SciShow on TikTok: https://www.tiktok.com/@sci...
 
 
-## Polishing and Releasing My Tiny Geography Game  [343]
+## Polishing and Releasing My Tiny Geography Game  [325]
 [![https://www.youtube.com/c/SebastianLague](https://i.ytimg.com/vi_webp/pNp4ug5F6To/hqdefault.webp)](https://www.youtube.com/c/SebastianLague)  
 > If you'd like to play the game, you can download it here: https://sebastian.itch.io/geographical-adventures
 > The project source is over here: https://github.com/SebLague/Geographical-Adventures
@@ -3179,7 +2995,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Project playlist: https://youtube.com/playlist?list=PLFt_AvWsXl0dT82XMtKATYPcVIhpu2fh6
 
 
-## Sevish - Everyone  [344]
+## Sevish - Everyone  [326]
 [![https://www.youtube.com/c/Sevish](https://i.ytimg.com/vi_webp/sxozAreA_qI/maxresdefault.webp)](https://www.youtube.com/c/Sevish)  
 > Album: Morphable by Sevish (5th August 2022)
 > https://sevish.com/bandcamp
@@ -3196,7 +3012,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://sevish.com...
 
 
-## Adversarial Examples in Deep Learning  [345]
+## Adversarial Examples in Deep Learning  [327]
 [![https://www.youtube.com/c/SimonsInstituteTOC](https://i.ytimg.com/vi/wlr04FsuyGQ/hqdefault.jpg)](https://www.youtube.com/c/SimonsInstituteTOC)  
 > Panelists: Sébastien Bubeck (Microsoft Research), Melanie Mitchell (Santa Fe Institute), and Laurens van der Maaten (Meta AI Research)
 > https://simons.berkeley.edu/events/adversarial
@@ -3204,13 +3020,13 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Optical illusions fool our brains into creating false perceptions. Something similar can be done with deep learning systems. Attackers can intentionally design inputs — known as adversarial examples — that can cause deep neural networks to make mistakes. The mistakes might be harmless (cl...
 
 
-## Shameless Copycat Guns in History  [346]
+## Shameless Copycat Guns in History  [328]
 [![https://www.youtube.com/c/Simplehistory](https://i.ytimg.com/vi/6gxA9veS_3I/hqdefault.jpg)](https://www.youtube.com/c/Simplehistory)  
 > It's risk-free thanks to their 30-day money-back guarantee!  🌏 ✌
 > Weapons manufacturing is the backbone of each country’s defense system. Having a domestic defense industry provides a country with the capability of defending its territory and interests independently. Production of weapons, even if they are small arms, is an expensive and complex business however. It takes a lot of time, expert knowledge, and money to design the weapon, test it, and finally put it into production. That is...
 
 
-## Total Synthesis of Ocellatusone C  [347]
+## Total Synthesis of Ocellatusone C  [329]
 [![https://www.youtube.com/c/SimplifyingSynthesis](https://i.ytimg.com/vi_webp/yR23aibs8NU/maxresdefault.webp)](https://www.youtube.com/c/SimplifyingSynthesis)  
 > SUPPORT THE CHANNEL ON PATREON:
 > https://www.patreon.com/SimplifyingSynthesis
@@ -3225,7 +3041,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > J. Org. Chem. 1983, 4...
 
 
-## Visualizing the 3D Schrödinger Equation: Quantum Eigenstates of a Particle Confined in 3D Wells  [348]
+## Visualizing the 3D Schrödinger Equation: Quantum Eigenstates of a Particle Confined in 3D Wells  [330]
 [![https://www.youtube.com/c/SimulatingPhysics/videos](https://i.ytimg.com/vi_webp/eCk8aIIEZSg/maxresdefault.webp)](https://www.youtube.com/c/SimulatingPhysics/videos)  
 > In this video, we visualize the solutions of the 3D Schrödinger Equation computed for more than a total of 500 eigenstates of 2, 4, 8, and 12 wells, illustrating what the molecular orbitals for a molecule with that number of atoms look like.
 > These simulations are made with qmsolve, an open-source python package that we are developing for solving and visualizing quantum physics. You can find the source code here:
@@ -3233,7 +3049,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > The way this simulator works is...
 
 
-## More I/O devices: Interrupt controller and timers - 16-bit Intel x86 breadboard computer [part 6]  [349]
+## More I/O devices: Interrupt controller and timers - 16-bit Intel x86 breadboard computer [part 6]  [331]
 [![https://www.youtube.com/c/SladorSoft](https://i.ytimg.com/vi_webp/8G3bwkIS3do/sddefault.webp)](https://www.youtube.com/c/SladorSoft)  
 > Intel 8088 16-bit computer on a breadboard.
 > In this video I add more peripherals and programme them. Here is what happens step by step:
@@ -3244,7 +3060,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > - add the programmable tim...
 
 
-## How Does Kodak Apply Light Sensitive Coating to Film? Kodak Tour Part 2 of 3 - Smarter Every Day 275  [350]
+## How Does Kodak Apply Light Sensitive Coating to Film? Kodak Tour Part 2 of 3 - Smarter Every Day 275  [332]
 [![https://www.youtube.com/c/smartereveryday](https://i.ytimg.com/vi/cAAJUHwh9F4/maxresdefault.jpg)](https://www.youtube.com/c/smartereveryday)  
 > http://www.patreon.com/smartereveryday
 > Kodak's Film Quality Control Process - Smarter Every Day 275-B
@@ -3257,11 +3073,11 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > The awesome people at Indie Film Lab is putting on a "Long Live Film Workshop" on October 17-20, 2022. It's a gather...
 
 
-## Fireside Chat with Sam Blackshear, Mysten Labs Co-Founder & CTO and Creator of the Move Language  [351]
+## Fireside Chat with Sam Blackshear, Mysten Labs Co-Founder & CTO and Creator of the Move Language  [333]
 [![https://www.youtube.com/c/StanfordBlockchainClub](https://i.ytimg.com/vi_webp/lnlFtYFCYVc/maxresdefault.webp)](https://www.youtube.com/c/StanfordBlockchainClub)  
 
 
-## The Inverted Whirlpool Paradox  [352]
+## The Inverted Whirlpool Paradox  [334]
 [![https://www.youtube.com/c/SteveMould](https://i.ytimg.com/vi/gHZB112xPcI/hqdefault.jpg)](https://www.youtube.com/c/SteveMould)  
 > The tea leaf paradox explained. A spinning vortex and cause liquids to seemingly defy gravity
 > You can buy my books here:
@@ -3272,7 +3088,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Cameron Leigh Middleton
 
 
-## 127: A Bright Future? Solar Panel Breakthroughs  [353]
+## 127: A Bright Future? Solar Panel Breakthroughs  [335]
 [![https://www.youtube.com/c/StillTBDPodcast](https://i.ytimg.com/vi_webp/nq4AzL_mRok/maxresdefault.webp)](https://www.youtube.com/c/StillTBDPodcast)  
 > 02:11 - Solar Panel Breakthrough Discussion
 > Watch the Undecided with Matt Ferrell episode, “Exploring Solar Panel Efficiency Breakthroughs in 2022”: https://youtu.be/m8crjuL8FFs?list=PLnTSM-ORSgi7UWp64ZlOKUPNXePMTdU4d
@@ -3283,11 +3099,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Support the show: https://pod.fan/still-to-be-determine...
 
 
-## Fixing my Concussion at Brain Camp - One Week at Cognitive FX  [354]
-[![https://www.youtube.com/c/StrangeParts/featured](https://i.ytimg.com/vi/zn-DMU7zsRU/maxresdefault.jpg)](https://www.youtube.com/c/StrangeParts/featured)  
-
-
-## I made a 100MPH flying hoop  [355]
+## I made a 100MPH flying hoop  [336]
 [![https://www.youtube.com/c/StuffMadeHere](https://i.ytimg.com/vi_webp/xHWXZyfhQas/maxresdefault.webp)](https://www.youtube.com/c/StuffMadeHere)  
 > Help support these videos on patreon: https://patreon.com/stuffmadehere
 > Get merch, support these projects: https://stuffmadehere.shop
@@ -3295,7 +3107,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > I've known this was the endgame for the robotic basketball hoop ever since I made the first one. It's time I actually did it....
 
 
-## The Hidden Shortcuts of Mario Kart Double Dash  [356]
+## The Hidden Shortcuts of Mario Kart Double Dash  [337]
 [![https://www.youtube.com/c/SummoningSalt](https://i.ytimg.com/vi/ToO7IeVx1y8/hqdefault.jpg)](https://www.youtube.com/c/SummoningSalt)  
 > https://www.patreon.com/summoningsalt
 > https://twitter.com/summoningsalt
@@ -3308,7 +3120,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Chris Doerksen (https://chrisdoerksen.bandcamp.com/)
 
 
-## The Aerodynamics of Speed  [357]
+## The Aerodynamics of Speed  [338]
 [![https://www.youtube.com/c/SuperfastMatt](https://i.ytimg.com/vi/ov5G4r5g5GQ/maxresdefault.jpg)](https://www.youtube.com/c/SuperfastMatt)  
 > Superfast Matt is supported by:
 > SendCutSend - For Fast laser cut parts, click here: https://bit.ly/34eGomq
@@ -3319,7 +3131,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Get Your SFM Merch: https://superfastmatt.creator-spring.com/listing/all-hail-the-algorithm...
 
 
-## Thor's Children - The History of the Delta Rocket - Part 1  [358]
+## Thor's Children - The History of the Delta Rocket - Part 1  [339]
 [![https://www.youtube.com/c/szyzyg](https://i.ytimg.com/vi/ZgWEYvJaTBo/hqdefault.jpg)](https://www.youtube.com/c/szyzyg)  
 > This covers the first 20 years of Delta design evolution, up to 1981 and the arrival of the Space Shuttle which was supposed to replace it.
 > Again, heavily influenced by Ed Kyle's History:
@@ -3331,7 +3143,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > If you really like what I do you can support me directly through Patreon
 
 
-## Musical Elitism - Why it is EVERYWHERE  [359]
+## Musical Elitism - Why it is EVERYWHERE  [340]
 [![https://www.youtube.com/c/Tantacrul](https://i.ytimg.com/vi/azpxUnIgsts/maxresdefault.jpg)](https://www.youtube.com/c/Tantacrul)  
 > Please consider supporting me on Patreon
 > https://www.patreon.com/Tantacrul
@@ -3348,19 +3160,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 59:55 - Final Thoughts
 
 
-## Medieval Table Manners  [360]
-[![https://www.youtube.com/c/tastinghistory](https://i.ytimg.com/vi_webp/SoFxrwuMuQs/maxresdefault.webp)](https://www.youtube.com/c/tastinghistory)  
-> The TASTING HISTORY COOKBOOK is available for preorder HERE: https://amzn.to/3NKTSaM
-> https://www.simonandschuster.com/books/Tasting-History/Max-Miller/9781982186180
-> Support the Channel with Patreon ► https://www.patreon.com/tastinghistory
-> Merch ► https://crowdmade.com/collections/tastinghistory
-> Instagram ► https://www.instagram.com/tastinghistorywithmaxmiller/
-> Twitter ► https://twitter.com/TastingHistory1
-> Tiktok ► TastingHistory
-> Reddit ► https://www.reddit.com/r/TastingHistory...
-
-
-## What else goes into building a jet engine? - Part 2  [361]
+## What else goes into building a jet engine? - Part 2  [341]
 [![https://www.youtube.com/c/TechIngredients](https://i.ytimg.com/vi/6rhQ4yADlE0/hqdefault.jpg)](https://www.youtube.com/c/TechIngredients)  
 > https://youtu.be/9q-UQriGSk8
 > Check out our jet engine playlist:
@@ -3371,7 +3171,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://www.techingredients.com/...
 
 
-## AMD Ryzen Threadripper Pro 5995WX Review: Your New Workstation CPU  [362]
+## AMD Ryzen Threadripper Pro 5995WX Review: Your New Workstation CPU  [342]
 [![https://www.youtube.com/c/TechTechPotato](https://i.ytimg.com/vi_webp/Q4-wLIZnQ3g/hqdefault.webp)](https://www.youtube.com/c/TechTechPotato)  
 > [00:00] The Worst Ryzen CPU
 > [00:42] Sponsor: http://armari.com
@@ -3391,7 +3191,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > [14:58] Crysis on C...
 
 
-## The Eco-Creators Helping the Climate Through Social Media | Zahra Biabani | TED  [363]
+## The Eco-Creators Helping the Climate Through Social Media | Zahra Biabani | TED  [343]
 [![https://www.youtube.com/c/TED](https://i.ytimg.com/vi_webp/FdbJHeqQh00/maxresdefault.webp)](https://www.youtube.com/c/TED)  
 > Countdown is TED's global initiative to accelerate solutions to the climate crisis. The goal: to build a better future by cutting greenhouse gas emissions in half by 2030, in the race to a zero-carbon world. Get involved at https://countdown.ted.com/sign-up
 > Learn more about #TEDCountdown:
@@ -3402,13 +3202,13 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Watch the full 2021 TED Countdown Globa...
 
 
-## Why did Haiti and the Dominican Republic Break Up? (Short Animated Documentary)  [364]
+## Why did Haiti and the Dominican Republic Break Up? (Short Animated Documentary)  [344]
 [![https://www.youtube.com/c/TenMinuteHistory](https://i.ytimg.com/vi/isGNQILKM0A/hqdefault.jpg)](https://www.youtube.com/c/TenMinuteHistory)  
 > A special thanks to my Patreon supporters below.
 > Ariel David Moya S...
 
 
-## 16  - Simulation on the GPU  [365]
+## 16  - Simulation on the GPU  [345]
 [![https://www.youtube.com/c/TenMinutePhysics](https://i.ytimg.com/vi/q4rNoupGr8U/hqdefault.jpg)](https://www.youtube.com/c/TenMinutePhysics)  
 > Ten Minute Physics Page:
 > https://matthias-research.github.io/pages/tenMinutePhysics/index.html
@@ -3421,17 +3221,17 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://www.lfd.uci.edu/~gohlke/pythonlibs/...
 
 
-## Why Wildlife Shows Should Not Be on Our Bucket List  [366]
+## Why Wildlife Shows Should Not Be on Our Bucket List  [346]
 [![https://www.youtube.com/c/TerraMaterOfficial](https://i.ytimg.com/vi/FG8PILqRGfg/maxresdefault.jpg)](https://www.youtube.com/c/TerraMaterOfficial)  
 > Found only on the islands of Borneo and Sumatra, orangutans are a critically endangered species. But despite this, these intelligent primates are regularly snatched from their forest homes and exploited as attractions in wildlife shows. Wildlife tourism is a multi-billion-dollar industry, and thanks to the rise of the selfie, it’s growing every year. But what’s really going on behind the scenes? We meet some of the orangutans suffering for selfies, and one of the lucky few to escape.
 
 
-## A Student Drank a Thermometer (Chempolation #8)  [367]
+## A Student Drank a Thermometer (Chempolation #8)  [347]
 [![https://www.youtube.com/c/ThatChemist2](https://i.ytimg.com/vi/4674-MMyxZ4/hqdefault.jpg)](https://www.youtube.com/c/ThatChemist2)  
 > Join the Community Discord! - https://discord.gg/thatchemist...
 
 
-## Vermont - The US Explained  [368]
+## Vermont - The US Explained  [348]
 [![https://www.youtube.com/c/ThatIsInterestingTII](https://i.ytimg.com/vi/PGhpNdxnWtg/hqdefault.jpg)](https://www.youtube.com/c/ThatIsInterestingTII)  
 > Get a Vermont State Print at the TII Store! - https://thatisinteresting.org/
 > Join the Patreon for behind the scenes videos and maps! - https://www.patreon.com/thatisinteresting
@@ -3440,7 +3240,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Thanks to Leafpool for talking about what it's like to live in Vermont - https://www.youtube.com/channel/UCV2Lq4WmH6rfs9glrh...
 
 
-## Live Coding: Koch Fractal Magic  [369]
+## Live Coding: Koch Fractal Magic  [349]
 [![https://www.youtube.com/c/TheArtofCodeIsCool](https://i.ytimg.com/vi/lz_PSyNVLR8/hqdefault.jpg)](https://www.youtube.com/c/TheArtofCodeIsCool)  
 > ========== Timetable ==========
 > 1:52 - Drawing using Koch coordinates
@@ -3456,7 +3256,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > ShaderToy: https://www.shadertoy.com/u...
 
 
-## China Has Reinvented the Stadium  [370]
+## China Has Reinvented the Stadium  [350]
 [![https://www.youtube.com/c/Theb1mGoogle](https://i.ytimg.com/vi_webp/zWiPoZ6me3w/maxresdefault.webp)](https://www.youtube.com/c/Theb1mGoogle)  
 > Download Unreal Engine for free - https://bit.ly/3AZh2Hy
 > Full story here - https://theb1m.com/video/china-xian-football-stadium-epic-games-zaha-hadid-architects
@@ -3468,7 +3268,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Content Partnership - Liam Marsh...
 
 
-## China Has Reinvented the Stadium  [371]
+## China Has Reinvented the Stadium  [351]
 [![https://www.youtube.com/c/Theb1mGoogle/featured](https://i.ytimg.com/vi_webp/zWiPoZ6me3w/maxresdefault.webp)](https://www.youtube.com/c/Theb1mGoogle/featured)  
 > Download Unreal Engine for free - https://bit.ly/3AZh2Hy
 > Full story here - https://theb1m.com/video/china-xian-football-stadium-epic-games-zaha-hadid-architects
@@ -3480,7 +3280,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Content Partnership - Liam Marsh...
 
 
-## Jamie Roadkill: The Artist Creating Sculptures out of Dead Animals  [372]
+## Jamie Roadkill: The Artist Creating Sculptures out of Dead Animals  [352]
 [![https://www.youtube.com/c/TheCreatorsProject](https://i.ytimg.com/vi_webp/lZtgi_Wkam0/maxresdefault.webp)](https://www.youtube.com/c/TheCreatorsProject)  
 > In our profile, Jamie describes how she started experimenting with found carcasses, and the initial responses from family and friends to her messy, disturbing and provocative work.
 > She also breaks down the step by step process of dismemberment, bone whitening, and articulating that turns roadkill into artworks.
@@ -3491,7 +3291,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > SUBSCRIBE to The Creators Project Newsl...
 
 
-## The global food crisis, explained  [373]
+## The global food crisis, explained  [353]
 [![https://www.youtube.com/c/TheEconomist](https://i.ytimg.com/vi/oQWaw5S4b3I/maxresdefault.jpg)](https://www.youtube.com/c/TheEconomist)  
 > 00:00 - The emerging global food crisis
 > 00:31 - Why is mass hunger on the rise?
@@ -3505,7 +3305,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > How the conflict i...
 
 
-## Perfect Summer Sipper, Aperol Spritz  [374]
+## Perfect Summer Sipper, Aperol Spritz  [354]
 [![https://www.youtube.com/c/TheEducatedBarfly](https://i.ytimg.com/vi/GEm88QIyRLg/maxresdefault.jpg)](https://www.youtube.com/c/TheEducatedBarfly)  
 > Full video here https://youtu.be/j8yArK13Q_E
 > 🍸 Top tools we recommend 🥄
@@ -3520,11 +3320,11 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 🥃 Old Fashioned Glass Heavy Base...
 
 
-## They Never Saw It Coming  [375]
+## They Never Saw It Coming  [355]
 [![https://www.youtube.com/c/TheModernMartialArtist](https://i.ytimg.com/vi_webp/eg24htCdBeA/sddefault.webp)](https://www.youtube.com/c/TheModernMartialArtist)  
 
 
-## The Hidden Rules of Modern Society | Philosophy Tube  [376]
+## The Hidden Rules of Modern Society | Philosophy Tube  [356]
 [![https://www.youtube.com/c/thephilosophytube](https://i.ytimg.com/vi/d_SYW1ElDb8/maxresdefault.jpg)](https://www.youtube.com/c/thephilosophytube)  
 > Nebula + CuriosityStream: https://curiositystream.com/philosophytube
 > Patreon: https://patreon.com/philosophytube
@@ -3539,7 +3339,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Brooke Ackerly, “Human Rights and the...
 
 
-## The Fall of Investment Platforms - Are Investors Protected in Bankruptcy?  [377]
+## The Fall of Investment Platforms - Are Investors Protected in Bankruptcy?  [357]
 [![https://www.youtube.com/c/ThePlainBagel](https://i.ytimg.com/vi/GK0LAnnk8Zs/maxresdefault.jpg)](https://www.youtube.com/c/ThePlainBagel)  
 > Coffeezilla's video on Voyager: https://youtu.be/uZYMtVBXUrE
 > 01:29 - Chapter 7 Bankruptcy
@@ -3552,7 +3352,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Crypto platforms are starting to file for bankruptcy, and investors want to know if their funds are safe. We'll dive into what protections exist, and which ones don't, in today's video.
 
 
-## Psychedelic therapy for depression: hope or hype? - with Alex Riley  [378]
+## Psychedelic therapy for depression: hope or hype? - with Alex Riley  [358]
 [![https://www.youtube.com/c/TheRoyalInstitution](https://i.ytimg.com/vi_webp/HV1NuxDYPW8/maxresdefault.webp)](https://www.youtube.com/c/TheRoyalInstitution)  
 > Buy Alex's book 'A Cure for Darkness' here: https://geni.us/60qBU
 > Subscribe for regular science videos: http://bit.ly/RiSubscRibe
@@ -3560,7 +3360,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Alex Riley is an award-winning science writer and scientist based in Bristol. He received a best feature award at...
 
 
-## I Made an Internet Time Machine  [379]
+## I Made an Internet Time Machine  [359]
 [![https://www.youtube.com/c/TheScienceElf](https://i.ytimg.com/vi/0OB1g8CUdbA/hqdefault.jpg)](https://www.youtube.com/c/TheScienceElf)  
 > Try out the Wayback Proxy:
 > https://github.com/richardg867/WaybackProxy
@@ -3574,14 +3374,14 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Moms on the Net - https://www.youtube.com/watch?v=jvTGOw7GcY4...
 
 
-## TSP #209 - Teardown, Repair & Analysis of an Agilent 83752A 10MHz - 20GHz RF Synthesized Sweeper  [380]
+## TSP #209 - Teardown, Repair & Analysis of an Agilent 83752A 10MHz - 20GHz RF Synthesized Sweeper  [360]
 [![https://www.youtube.com/c/Thesignalpath](https://i.ytimg.com/vi_webp/IDVm33SvNPQ/maxresdefault.webp)](https://www.youtube.com/c/Thesignalpath)  
 > www.TheSignalPath.com
 > www.YouTube.com/TheSignalPath​​​
 > www.Patreon.com/TheSignalPath...
 
 
-## [LIVE] Connecting Neurons to a Computer: The New Plan  [381]
+## [LIVE] Connecting Neurons to a Computer: The New Plan  [361]
 [![https://www.youtube.com/c/thethoughtemporium](https://i.ytimg.com/vi/p1C0qpqpAWc/hqdefault.jpg?v=62b200b7)](https://www.youtube.com/c/thethoughtemporium)  
 > Donations: https://streamlabs.com/thethoughtemporium
 > https://twitter.com/lab_costa/status/1281282773647572992?s=20&t=VTpel-5PNTjFZ8sDpE-8bw
@@ -3593,7 +3393,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://twitter.com/DubladJitender/status/1482624704129212419?s=20&t=VTpel-5PNTjFZ8sDpE-8bw
 
 
-## What's The Oldest Surviving Building On Earth?  [382]
+## What's The Oldest Surviving Building On Earth?  [362]
 [![https://www.youtube.com/c/TheTimTraveller](https://i.ytimg.com/vi/FVVidEzn_fY/hqdefault.jpg)](https://www.youtube.com/c/TheTimTraveller)  
 > INSTA - https://www.instagram.com/the.tim.traveller
 > TWIT - https://twitter.com/TheTimTraveller
@@ -3604,13 +3404,13 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Article in Ouest-France a...
 
 
-## PULSED MIG WELDING! at Home!  (HTP ProPulse)  [383]
+## PULSED MIG WELDING! at Home!  (HTP ProPulse)  [363]
 [![https://www.youtube.com/c/ThisOldTony](https://i.ytimg.com/vi_webp/Vvqv0MThNFI/hqdefault.webp)](https://www.youtube.com/c/ThisOldTony)  
 > This is my first real go at pulsed mig with the HTP ... come play along!
 > Music: Higher Octane / Vans in Japan & A Night Alone / TrackTribe....
 
 
-## How to Turn 50$ into 500$ using Chemistry?  [384]
+## How to Turn 50$ into 500$ using Chemistry?  [364]
 [![https://www.youtube.com/c/Thoisoi2/videos](https://i.ytimg.com/vi/UXCjrxLhx4M/maxresdefault.jpg)](https://www.youtube.com/c/Thoisoi2/videos)  
 > Technetium: https://www.onyxmet.com/
 > Patreon: https://www.patreon.com/Thoisoi?ty=h
@@ -3619,7 +3419,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Now I am going to tell you more about some expensive and toxic substances....
 
 
-## 227. Minimum Constraint Design  [385]
+## 227. Minimum Constraint Design  [365]
 [![https://www.youtube.com/c/THUNKShow](https://i.ytimg.com/vi/Akarqe17hFM/hqdefault.jpg)](https://www.youtube.com/c/THUNKShow)  
 > - Links for the Curious -
 > The Minimum Constraint Design & the First Axiom (Santos et al, 2009) - https://www.axiomaticdesign.com/wp-content/uploads/icad2009_15.pdf
@@ -3627,7 +3427,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > The Timeless Way of Building (Alexander, 1979) - https://www.june.kim/timeless-way...
 
 
-## James Blake: The Dubstep GOAT | a post-dubstep retrospective  [386]
+## James Blake: The Dubstep GOAT | a post-dubstep retrospective  [366]
 [![https://www.youtube.com/c/TimbahOnToast](https://i.ytimg.com/vi/4aHbrdrvT7M/maxresdefault.jpg)](https://www.youtube.com/c/TimbahOnToast)  
 > Support me on Patreon: https://www.patreon.com/timbah
 > Follow me on Twitter: @timbahontoast
@@ -3637,7 +3437,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://jumpingoffpoints.buzzsprout.com/...
 
 
-## Abortion: A Founding American Tradition? - Into Context  [387]
+## Abortion: A Founding American Tradition? - Into Context  [367]
 [![https://www.youtube.com/c/TimeGhost](https://i.ytimg.com/vi_webp/Cbzv_zx-0M8/maxresdefault.webp)](https://www.youtube.com/c/TimeGhost)  
 > Join us on Patreon: https://bit.ly/ICU_09_DE
 > Subscribe to our World War Two series: https://www.youtube.com/c/worldwartwo?sub_confirmation=1
@@ -3651,26 +3451,26 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Written by: Francis ...
 
 
-## AIR BEDnBUG - An Epic tale of our times - part comic strip, part flea circus, part movie  [388]
+## AIR BEDnBUG - An Epic tale of our times - part comic strip, part flea circus, part movie  [368]
 [![https://www.youtube.com/c/timhunkin1](https://i.ytimg.com/vi_webp/-6ZNORcaV-w/hqdefault.webp)](https://www.youtube.com/c/timhunkin1)  
 > https://www.timhunkin.com/a223_making-airbnb.htm...
 
 
-## POP SONG REVIEW: "Break My Soul" vs  "Falling Back"  [389]
+## POP SONG REVIEW: "Break My Soul" vs  "Falling Back"  [369]
 [![https://www.youtube.com/c/ToddintheShadows](https://i.ytimg.com/vi/vUXnaauoTS0/hqdefault.jpg)](https://www.youtube.com/c/ToddintheShadows)  
 > 👁️ Get CuriosityStream and Nebula for 26% off!
 > https://curiositystream.com/toddintheshadows.
 > Support Todd on Patreon! https://www.patreon.com/toddintheshadows...
 
 
-## FORGING AN ARROW HEAD, full process.  [390]
+## FORGING AN ARROW HEAD, full process.  [370]
 [![https://www.youtube.com/c/TodsWorkshop1](https://i.ytimg.com/vi_webp/-aSsD19dAgk/maxresdefault.webp)](https://www.youtube.com/c/TodsWorkshop1)  
 > The reason was to make a fundraising film for our Arrows vs Armour2  project, but it was funded almost immediately (thank you equally amazing people), so this film was not needed.  But we decided to put it out because we really like it, so just ignore any references to fundraising because we have all the finance we need.
 > We hope you enjoy this film and rest assured, the preparation for the Arrows vs Armour2 film is well underway.
 > You can find Will and his arrows here here: https://www.medieva...
 
 
-## The Newspaper of Ancient Rome  [391]
+## The Newspaper of Ancient Rome  [371]
 [![https://www.youtube.com/c/toldinstone](https://i.ytimg.com/vi/nNnmA8jcnk0/hqdefault.jpg)](https://www.youtube.com/c/toldinstone)  
 > Graffiti, gossip, and the daily gazette: it was easier – and harder – to get the news in ancient Rome than you might think…
 > Please consider supporting toldinstone on Patreon:
@@ -3680,7 +3480,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > If you're so inclined, you c...
 
 
-## A 400-year-old festival has the world's largest walking robot  [392]
+## A 400-year-old festival has the world's largest walking robot  [372]
 [![https://www.youtube.com/c/TomScottGo](https://i.ytimg.com/vi/KPPiOFaAlig/maxresdefault.jpg)](https://www.youtube.com/c/TomScottGo)  
 > Location camera: Moritz Janisch
 > Producer: Marcel Fenchel https://www.fenchel-janisch.com/
@@ -3691,12 +3491,12 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > and on Instagram as tomscottgo...
 
 
-## Dystopias  [393]
+## Dystopias  [373]
 [![https://www.youtube.com/c/umactually](https://i.ytimg.com/vi/t9R9Rq1KYx4/hqdefault.jpg)](https://www.youtube.com/c/umactually)  
 > Sign up for DROPOUT.tv to get new episodes of Um Actually and access to tons more exclusive content: https://www.dropout.tv...
 
 
-## How Graphene Could Solve Our Concrete Problem  [394]
+## How Graphene Could Solve Our Concrete Problem  [374]
 [![https://www.youtube.com/c/UndecidedMF](https://i.ytimg.com/vi_webp/Sew_2qPq5qI/maxresdefault.webp)](https://www.youtube.com/c/UndecidedMF)  
 > Watch Why This Fusion Tech May Be a Geothermal Energy Breakthrough - https://youtu.be/g8sjdOjNxIE?list=PLnTSM-ORSgi4dFnLD9622FK77atWtQVv7
 > Subject Zero Science: https://www.youtube.com/watch?v=K309K-DFqpE
@@ -3707,14 +3507,14 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Audio version - http://bit...
 
 
-## The Scientist Who Killed Millions and Saved Billions  [395]
+## The Scientist Who Killed Millions and Saved Billions  [375]
 [![https://www.youtube.com/c/veritasium](https://i.ytimg.com/vi/EvknN89JoWo/hqdefault.jpg)](https://www.youtube.com/c/veritasium)  
 > ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 > A huge thanks to Dan Charles for writing a fantastic biography of Fritz Haber, for taking the time to talk to us about it, and providing valuable feedback. This video would not be what it is without his contributions. http://site.danielcharles.us https://ve42.co/Charles
 > Huge thanks to Tom de Prinse from Explosions and Fire for helping us with...
 
 
-## How Death Row Executions Are Sparking Protests  [396]
+## How Death Row Executions Are Sparking Protests  [376]
 [![https://www.youtube.com/c/VICEAsia](https://i.ytimg.com/vi/yEEoCf7Rl7A/hqdefault.jpg?v=62d683ae)](https://www.youtube.com/c/VICEAsia)  
 > 64-year old Nazeri bin Lajim has been scheduled for execution by hanging on July 22, 2022. This is the 9th execution scheduled this year, just shortly after the State carried out a double execution on July 7, 2022. VICE World News followed his family in May 2022 to find out how the capital punishment inflicts the condemned individual and those closest to them.
 > Click here to SUBSCRIBE to VICE Asia: https://bit.ly/2LhqAR9
@@ -3722,7 +3522,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Check out our full video catalog: https://b...
 
 
-## Rethinking my PKM part 5: How do you organize your notes?  [397]
+## Rethinking my PKM part 5: How do you organize your notes?  [377]
 [![https://www.youtube.com/c/VisualPKM](https://i.ytimg.com/vi/AtdAAD47aQY/hqdefault.jpg)](https://www.youtube.com/c/VisualPKM)  
 > 00:45 The ingredients we all cook from
 > 01:15 We shape our tools and our tools shape us
@@ -3734,14 +3534,14 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > If you find  my videos helpful, please say thanks by buying me a coffee: https://ko-fi.com/zsolt...
 
 
-## What are These Boys Doing??  [398]
+## What are These Boys Doing??  [378]
 [![https://www.youtube.com/c/vlogbrothers](https://i.ytimg.com/vi_webp/PMKAUq5impM/maxresdefault.webp)](https://www.youtube.com/c/vlogbrothers)  
 > AwesomeCoffeeClub.com
 > Today I was reminded that my video about the James Webb Space Telescope from 2011 turned out to be a big deal internally for people working on JWST. It had undergone a lot of setbacks and not hitting budgets and there were a number of people who were starting to feel that maybe it would never happen, or wasn't worth the costs.
 > That was dragging on the people working on it, and then this rando YouTuber makes a video about how you can make the world better by decreasing su...
 
 
-## 5 Brutal First Hand Accounts of War Through The Ages (From Ancient Rome to The Somme)  [399]
+## 5 Brutal First Hand Accounts of War Through The Ages (From Ancient Rome to The Somme)  [379]
 [![https://www.youtube.com/c/VoicesofthePast](https://i.ytimg.com/vi/34oJxSMP6Co/hqdefault.jpg)](https://www.youtube.com/c/VoicesofthePast)  
 > -------------------------------------------------------------------
 > Gallic Wars by Julius Caesar translated by Henry John Edwards https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Caesar/Gallic_War/2*.html
@@ -3751,7 +3551,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://www.routledge.com/The-Diary-of-a-Manchu-...
 
 
-## Did People Used To Look Older?  [400]
+## Did People Used To Look Older?  [380]
 [![https://www.youtube.com/c/vsauce1](https://i.ytimg.com/vi/vjqt8T3tJIE/hqdefault.jpg)](https://www.youtube.com/c/vsauce1)  
 > https://twitter.com/tweetsauce
 > https://www.instagram.com/electricpants
@@ -3762,12 +3562,12 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 70s high school students: https://www.criticalpast.com/v...
 
 
-## CD Mistakes, Oversights, Screw-Ups & Botch-Jobs 💿  [401]
+## CD Mistakes, Oversights, Screw-Ups & Botch-Jobs 💿  [381]
 [![https://www.youtube.com/c/vwestlife](https://i.ytimg.com/vi_webp/pchmkGx4RHA/sddefault.webp)](https://www.youtube.com/c/vwestlife)  
 > #cd #fail #mistakes...
 
 
-## Tilemap PCB (Fix!) - VGA from Scratch - Part 9.5  [402]
+## Tilemap PCB (Fix!) - VGA from Scratch - Part 9.5  [382]
 [![https://www.youtube.com/c/weirdboyjim](https://i.ytimg.com/vi/iudA4v8fUqI/hqdefault.jpg)](https://www.youtube.com/c/weirdboyjim)  
 > I recently bought a soldering hot plate, this is the first full PCB using it.
 > Tilemap PCB - https://youtu.be/TpolGhGUe9Y
@@ -3781,7 +3581,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 18:49 The Frame of Shame!...
 
 
-## Self-Driving Cars [S1E4: RALPH]  [403]
+## Self-Driving Cars [S1E4: RALPH]  [383]
 [![https://www.youtube.com/c/WelchLabsVideo](https://i.ytimg.com/vi_webp/DIAKL0s4Mzs/maxresdefault.webp)](https://www.youtube.com/c/WelchLabsVideo)  
 > MORE: http://www.welchlabs.com
 > CODE: https://github.com/stephencwelch/self_driving_cars
@@ -3793,7 +3593,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > KITTI Dataset: http://www.cvlibs.net/datasets/kitti/index.php
 
 
-## How the YouTube Creator Economy Works  [404]
+## How the YouTube Creator Economy Works  [384]
 [![https://www.youtube.com/c/Wendoverproductions](https://i.ytimg.com/vi/eoWcQUjNM8o/hqdefault.jpg)](https://www.youtube.com/c/Wendoverproductions)  
 > Watch Jet Lag: The Game at http://youtube.com/jetlagthegame
 > Buy a Wendover Productions t-shirt: https://standard.tv/collections/wendover-productions/products/wendover-productions-shirt
@@ -3804,7 +3604,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Sponsorship Enquiries: wendover@standard.t...
 
 
-## The Porsche 928 is a Masterpiece  [405]
+## The Porsche 928 is a Masterpiece  [385]
 [![https://www.youtube.com/c/WesleyKagan](https://i.ytimg.com/vi/g2vexOB7Ce0/hqdefault.jpg)](https://www.youtube.com/c/WesleyKagan)  
 > And as always, My social media:
 > Instagram: https://www.instagram.com/wesleykagan
@@ -3813,7 +3613,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > For promotional inquiries: wesley.kagan@gmail.com...
 
 
-## James Webb Just Found The Most Distant Galaxy Ever Without Even Trying  [406]
+## James Webb Just Found The Most Distant Galaxy Ever Without Even Trying  [386]
 [![https://www.youtube.com/c/whatdamath](https://i.ytimg.com/vi_webp/SF3wF21fkRc/maxresdefault.webp)](https://www.youtube.com/c/whatdamath)  
 > Get a Wonderful Person shirt: https://teespring.com/stores/whatdamath
 > Alternatively, PayPal donations can be sent here: http://paypal.me/whatdamath
@@ -3823,7 +3623,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > #jwst #jameswebb #galaxy
 
 
-## How This Woman Walks Over Massive Canyons | Obsessed | WIRED  [407]
+## How This Woman Walks Over Massive Canyons | Obsessed | WIRED  [387]
 [![https://www.youtube.com/c/WIRED](https://i.ytimg.com/vi/RhE6abq4Za8/maxresdefault.jpg)](https://www.youtube.com/c/WIRED)  
 > Director: Corey Eisenstein
 > Director of Photography: Scott Rogers
@@ -3841,7 +3641,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Supervising Editor: Doug Larsen
 
 
-## Khemitology: Egyptian Tourism's Biggest Hoax?  [408]
+## Khemitology: Egyptian Tourism's Biggest Hoax?  [388]
 [![https://www.youtube.com/c/WorldofAntiquity](https://i.ytimg.com/vi/iDUNsGGEXm8/hqdefault.jpg)](https://www.youtube.com/c/WorldofAntiquity)  
 > Thanks to Anyextee for video footage of the Khemit shop. Full video can be seen here:
 > https://youtu.be/wJf_mNAkBcE
@@ -3852,22 +3652,12 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Supporters get access to behind-the-scenes videos, early-release videos, course discounts...
 
 
-## Why's There a Truck on the Train Tracks? - Railroad Basics  [409]
+## Why's There a Truck on the Train Tracks? - Railroad Basics  [389]
 [![https://www.youtube.com/c/WorldwideRailfan](https://i.ytimg.com/vi_webp/A2IS0y6zQvk/maxresdefault.webp)](https://www.youtube.com/c/WorldwideRailfan)  
 > #train#trains#railfan#highrail#mbta#amtrak#railfanning#maintenanceofway#mow#track#railroad...
 
 
-## Here's My First Attempt at Gold Plating During a Vintage Watch Restoration!  [410]
-[![https://www.youtube.com/c/wristwatchrevival](https://i.ytimg.com/vi_webp/ZHmRePXsI88/hqdefault.webp)](https://www.youtube.com/c/wristwatchrevival)  
-> Support Wristwatch Revival via Patreon: https://www.patreon.com/wristwatchrevival
-> Follow on Instagram for Project Updates in between video releases: @wristwatch_revival
-> ————————————————————————————————————
-> These are Amazon affiliate links to some of the equipment used for these videos and purchasing anything through them helps support the channel.
-> WATCHMAKING TOOLS AVAILABLE ON AMAZON:
-> Bergeon Screwdriver Set: https://a...
-
-
-## JEPA - A Path Towards Autonomous Machine Intelligence (Paper Explained)  [411]
+## JEPA - A Path Towards Autonomous Machine Intelligence (Paper Explained)  [390]
 [![https://www.youtube.com/c/YannicKilcher](https://i.ytimg.com/vi/jSdHmImyUjk/hqdefault.jpg)](https://www.youtube.com/c/YannicKilcher)  
 > Yann LeCun's position paper on a path towards machine intelligence combines Self-Supervised Learning, Energy-Based Models, and hierarchical predictive embedding models to arrive at a system that can teach itself to learn useful abstractions at multiple levels and use that as a world model to plan ahead in time.
 > 2:00 - Main Contributions
@@ -3876,14 +3666,14 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 20:15 - Introducing latent variables
 
 
-## RGB Ruined My Life: MiRage Mechanical Keyboard Mk2  [412]
+## RGB Ruined My Life: MiRage Mechanical Keyboard Mk2  [391]
 [![https://www.youtube.com/c/ZackFreedman](https://i.ytimg.com/vi_webp/ZfpNbW_dHbU/maxresdefault.webp)](https://www.youtube.com/c/ZackFreedman)  
 > Thanks to Bespoke Post for sponsoring this video! Head to https://bespokepost.com/freedman20 and use code FREEDMAN20 to learn more and get 20% off your first box.
 > Watch the first MiRage video first! https://youtu.be/Fg0V5M0llaE
 > The original MiRage modular mechanical keyboard had an incredible response - over 2000 people want to clack like Zack. I refocused on making the keyboard accessible to everyone, fix hardware mistakes, and make some improvements. Join my struggle to cram Cherry MX, Kail...
 
 
-## 🚛 🚗 The Interstate's Forgotten Code 🚗 🚛  [414]
+## 🚛 🚗 The Interstate's Forgotten Code 🚗 🚛  [393]
 [![https://www.youtube.com/greymatter](https://i.ytimg.com/vi_webp/8Fn_30AD7Pk/maxresdefault.webp)](https://www.youtube.com/greymatter)  
 > - Discuss this video: https://www.reddit.com/r/cgpgrey
 > - Driving a Tesla Across The Loneliest Road: https://www.youtube.com/watch?v=_naDg-guomA
@@ -3892,7 +3682,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Bob Kunz, Bobby, Nevin Spoljaric, Donal Botkin, BN-12, Andrew Bereza, Rebecca Wortham, Marco Arment, Richard Jenkins, Phil Gardner, George Lin, Martin...
 
 
-## 1. Introduction to Human Behavioral Biology  [415]
+## 1. Introduction to Human Behavioral Biology  [394]
 [![https://www.youtube.com/playlist?list=PL150326949691B199](https://i.ytimg.com/vi_webp/NNnIGh9g6fA/hqdefault.webp)](https://www.youtube.com/playlist?list=PL150326949691B199)  
 > http://www.stanford.edu
 > Stanford Department of Biology
@@ -3901,31 +3691,31 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > http://www.youtube.com/stanford...
 
 
-## The Western Tradition -  Episode 1 -  The Dawn of History (1989)  [416]
+## The Western Tradition -  Episode 1 -  The Dawn of History (1989)  [395]
 [![https://www.youtube.com/playlist?list=PL1U_8A7q8La1VfEa-HJifnO3r1JgOdSVP](https://i.ytimg.com/vi/XCyO8meahME/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PL1U_8A7q8La1VfEa-HJifnO3r1JgOdSVP)  
 > "The origins of the human race are traced from anthropoid ancestors to the agricultural revolution."
 > Produced by: WGBH Boston
 > Covering the ancient world through the age of technology, this illustrated lecture by Eugene Weber presents a tapestry of political and social events woven with many strands — religion, industry, agriculture, demography, government, economics, and art. A visual feast of over 2,700 images from the Metropolitan Museum of Art portrays ke...
 
 
-## What is Deep Learning?  [417]
+## What is Deep Learning?  [396]
 [![https://www.youtube.com/playlist?list=PLbg3ZX2pWlgKV8K6bFJr5dhM7oOClExUJ](https://i.ytimg.com/vi_webp/YulgDAaHBKw/sddefault.webp)](https://www.youtube.com/playlist?list=PLbg3ZX2pWlgKV8K6bFJr5dhM7oOClExUJ)  
 
 
-## A Controversial Theory About Gossip | Otherwords (feat. @Be Smart)  [418]
+## A Controversial Theory About Gossip | Otherwords (feat. @Be Smart)  [397]
 [![https://www.youtube.com/playlist?list=PL_lsQEz7yLOq07hUI2PPtLZ5N4JQWubcz](https://i.ytimg.com/vi/zHmoWNIO6eo/hqdefault.jpg)](https://www.youtube.com/playlist?list=PL_lsQEz7yLOq07hUI2PPtLZ5N4JQWubcz)  
 > Otherwords is a PBS web series on Storied that digs deep into this quintessential human trait of language and fınds the fascinating, thought-provoking, and funny stories behind the words and sounds we take for granted. Incorporating the fıelds of biology, history, cultural studies, literature, and more, linguistics has something for everyone and offers a unique perspective on what it means to be human.
 > Grooming, Gossip and the Evolution of Language (1996) by Robin Dunbar
 
 
-## The true cost of gold -  Lyla Latif  [419]
+## The true cost of gold -  Lyla Latif  [398]
 [![https://www.youtube.com/teded](https://i.ytimg.com/vi_webp/1nglN3mfZUw/maxresdefault.webp)](https://www.youtube.com/teded)  
 > In 2020, Mali produced over 71 tons of gold— an amount worth billions of dollars. But Mali saw only $850 million dollars from that gold. And this situation isn’t unique: a number of other gold-rich countries in Africa aren’t seeing the income they should given the price of gold. So, what’s going on? Lyla Latif digs into how foreign corporations exploit African nations for their resources.
 > Lesson by Lyla Latif, directed by Jeffig Le Bars, Jet Propulsion.
 > Support Our Non-Profit Miss...
 
 
-## RS485 Data Link / Scamp3 / Remote Control  [420]
+## RS485 Data Link / Scamp3 / Remote Control  [399]
 [![https://www.youtube.com/user/0033mer](https://i.ytimg.com/vi/2YD3pNjR1nY/hqdefault.jpg)](https://www.youtube.com/user/0033mer)  
 > ScampRS485.txt  code:
 > https://www.dropbox.com/s/1yecfmx820ojy2o/ScampRS485.txt?dl=0
@@ -3933,13 +3723,13 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://udamonic.com/what-is-a-scamp.html...
 
 
-## Ask Adam: Why is European food bland? Are closed mussels actually bad? Career advice? (PODCAST E19)  [421]
+## Ask Adam: Why is European food bland? Are closed mussels actually bad? Career advice? (PODCAST E19)  [400]
 [![https://www.youtube.com/user/aragusea](https://i.ytimg.com/vi/NkFCU8oVhFA/hqdefault.jpg)](https://www.youtube.com/user/aragusea)  
 > Thanks to 80,000 Hours for sponsoring this episode! Start planning a career that is meaningful, fulfilling, and helps solve the world’s most pressing problems: https://80000hours.org/ragusea
 > On this episode of of the Ask Adam Podcast, Adam addressing these pressing questions: Why does food from Northern Europe (AKA "White People Food") have such a bland taste? Are mussels that don't open during cooking actually dangerous? Adam will answer these questions along with providing creative career...
 
 
-## How to play broken octaves? - Pain in the forearm  [422]
+## How to play broken octaves? - Pain in the forearm  [401]
 [![https://www.youtube.com/user/aw4piano](https://i.ytimg.com/vi_webp/IwbmjmSnJwc/maxresdefault.webp)](https://www.youtube.com/user/aw4piano)  
 > ● More details available for my students and subscribers.
 > ● You can contact me on “Advanced Piano Coaching Online” - http://aw4piano.info/en/info1
@@ -3949,7 +3739,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > ● In general, if you feel that something i...
 
 
-## DIY IKEA Sofa Hoverboard  [423]
+## DIY IKEA Sofa Hoverboard  [402]
 [![https://www.youtube.com/user/bitlunislab](https://i.ytimg.com/vi_webp/_N6Dt34rLOY/maxresdefault.webp)](https://www.youtube.com/user/bitlunislab)  
 > https://github.com/lucysrausch/hoverboard-firmware-hack
 > https://github.com/EFeru/hoverboard-firmware-hack-FOC
@@ -3964,7 +3754,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Github Sponsors: https://github.c...
 
 
-## Why there is no Arab superstate  [424]
+## Why there is no Arab superstate  [403]
 [![https://www.youtube.com/user/CaspianReport](https://i.ytimg.com/vi/w180Ysr1GZ0/maxresdefault.jpg)](https://www.youtube.com/user/CaspianReport)  
 > Going by modern metrics, an #Arab superstate would boast a population of 436 million and a GDP of 2.7 trillion USD, ranking 3rd and 7th respectively worldwide. So, why is there no Arab #superstate?
 > Support CaspianReport
@@ -3974,12 +3764,12 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > ✔ Merchandise ►https://teespring.com/stores/caspianreport
 
 
-## Prelude and Fugue on Chelleri  [425]
+## Prelude and Fugue on Chelleri  [404]
 [![https://www.youtube.com/user/cedarvillemusic](https://i.ytimg.com/vi_webp/FHA_JKEBtHU/maxresdefault.webp)](https://www.youtube.com/user/cedarvillemusic)  
 > Dr. John Mortensen improvises a prelude and fugue at the 2022 Academy of Fortepiano Performance in Hunter, NY.  The piano is an 1873 Érard.  The fugue subject is from Fortunato Chelleri....
 
 
-## The Biggest LIE about Japan  [426]
+## The Biggest LIE about Japan  [405]
 [![https://www.youtube.com/user/cmbroad44](https://i.ytimg.com/vi/yKFVogGBZPY/hqdefault.jpg)](https://www.youtube.com/user/cmbroad44)  
 > 🍿 BEHIND the scenes Patreon: https://goo.gl/NWEoQm
 > ► WEEKLY Podcast: http://hyperurl.co/nhgr30
@@ -3995,7 +3785,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > ► MAIN Camera: https://amzn.to/2HSSdmy
 
 
-## Coding Math: Episode 58 - Array Math  [427]
+## Coding Math: Episode 58 - Array Math  [406]
 [![https://www.youtube.com/user/codingmath](https://i.ytimg.com/vi_webp/75Cbkoo4Gwg/maxresdefault.webp)](https://www.youtube.com/user/codingmath)  
 > Support Coding Math: http://patreon.com/codingmath
 > Support Coding Math: https://www.coinbase.com/bit101
@@ -4004,12 +3794,12 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > http://jsbin.com/kokagu/2/edit?html,js,output...
 
 
-## The Computer Chronicles - Gary Kildall Special (1995)  [428]
+## The Computer Chronicles - Gary Kildall Special (1995)  [407]
 [![https://www.youtube.com/user/ComputerChroniclesYT](https://i.ytimg.com/vi_webp/Tdj8gh9GPc4/sddefault.webp)](https://www.youtube.com/user/ComputerChroniclesYT)  
 > Special thanks to archive.org for hosting these episodes. Downloads of all these episodes and more can be found at: http://archive.org/details/computerchronicles...
 
 
-## Computing with Soft Robots - Computerphile  [429]
+## Computing with Soft Robots - Computerphile  [408]
 [![https://www.youtube.com/user/Computerphile](https://i.ytimg.com/vi/6eP7_iDJk4k/maxresdefault.jpg)](https://www.youtube.com/user/Computerphile)  
 > ORI Soft Robots group:
 > Perla Maiolino (speaker)
@@ -4022,14 +3812,14 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Computerphile is a sister project to Brady Haran's Numberphile. More at http://www.br...
 
 
-## Where have I been?  [430]
+## Where have I been?  [409]
 [![https://www.youtube.com/user/ControlLectures](https://i.ytimg.com/vi_webp/RBfqGFldjhA/maxresdefault.webp)](https://www.youtube.com/user/ControlLectures)  
 > Get the map of control theory: https://www.redbubble.com/shop/ap/55089837
 > Download eBook on the fundamentals of control theory (in progress): https://engineeringmedia.com
 > As you probably know, I have been neglecting my channel for a while now. I haven’t posted any new videos since November of last year, which I know is a long time to be waiting and I appreciate everyone who has stuck around and wondered when the next video will show up. I have been making videos, though, and if you haven't se...
 
 
-## What The Heck is Hacker Camping?  [431]
+## What The Heck is Hacker Camping?  [410]
 [![https://www.youtube.com/user/DeviantOllam](https://i.ytimg.com/vi/Vuuf3CoJ0Xs/hqdefault.jpg)](https://www.youtube.com/user/DeviantOllam)  
 > https://toorcamp.toorcon.net
 > ... everyone arrives either by ferry or on the occasionally little bush plane (but mostly by boat) and sets up an amazing art/tech/music scene at a campground that we take over once every two years.  Attending was nothing short of amazing for me this year, and I wanted to try to describe the experience to you folk.
@@ -4037,12 +3827,12 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > The folk making our stickers and other thin...
 
 
-## Facial Hair Tracking for High Fidelity Performance Capture  [432]
+## Facial Hair Tracking for High Fidelity Performance Capture  [411]
 [![https://www.youtube.com/user/DisneyResearchHub](https://i.ytimg.com/vi_webp/nzCW-3RaXas/sddefault.webp)](https://www.youtube.com/user/DisneyResearchHub)  
 > Publication link: https://studios.disneyresearch.com/2022/07/24/facial-hair-tracking-for-high-fidelity-performance-capture/...
 
 
-## Ford Raptor R's New V8 Engine - Meat's Back On The Menu  [433]
+## Ford Raptor R's New V8 Engine - Meat's Back On The Menu  [412]
 [![https://www.youtube.com/user/EngineeringExplained](https://i.ytimg.com/vi_webp/sQyhneqdA6Q/maxresdefault.webp)](https://www.youtube.com/user/EngineeringExplained)  
 > RAM TRX vs Ford Raptor - https://youtu.be/mUUHoQWpxVc
 > Subscribe to Engineering Explained for more videos! - https://goo.gl/VZstk7
@@ -4051,31 +3841,31 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > The Ford Raptor R features a 5.2L supercharged V8 producing 700 horsepower and 640 lb-ft of torque. The engine is derived from the Shelby GT500's 5.2L engine, which is based on the same overall architecture as the GT350's 5.2L engine, though the similarities are quite subtle....
 
 
-## Which marble will finish first?  [434]
+## Which marble will finish first?  [413]
 [![https://www.youtube.com/user/EugeneKhutoryansky](https://i.ytimg.com/vi/I9xBphwfpTE/hqdefault.jpg)](https://www.youtube.com/user/EugeneKhutoryansky)  
 
 
-## Servo Skull build Part 3  [435]
+## Servo Skull build Part 3  [414]
 [![https://www.youtube.com/user/evilted40](https://i.ytimg.com/vi/FT8jaV1WrKc/hqdefault.jpg?v=62d0d69a)](https://www.youtube.com/user/evilted40)  
 
 
-## The NEW Reston Station  [436]
+## The NEW Reston Station  [415]
 [![https://www.youtube.com/user/geofftech2](https://i.ytimg.com/vi/eZPZDu64g9Y/hqdefault.jpg)](https://www.youtube.com/user/geofftech2)  
 > My thanks to Stuart! His website is at: https://www.everylaststation.co.uk/...
 
 
-## Andrea L. Bertozzi: The Mathematics of Crime  [437]
+## Andrea L. Bertozzi: The Mathematics of Crime  [416]
 [![https://www.youtube.com/user/HarveyMuddCollegeEDU](https://i.ytimg.com/vi_webp/v4dwH3I5Tbc/maxresdefault.webp)](https://www.youtube.com/user/HarveyMuddCollegeEDU)  
 > Andrea L. Bertozzi (UCLA)
 > Law enforcement agencies across the country have discovered that partnering with a team of mathematicians and social scientists from UCLA can help them determine where crime is likely to occur. Dr. Bertozzi will talk about the fascinating story behind her participation on the UCLA team that developed a “predictive policing” computer program that zeros-in on areas that have the highest probability of crime. In addition, the use of mathematics in studying gang cri...
 
 
-## Frauke Kreuter - Universal Adaptability, Methodological Approach to Intersectionality, Heterogeneity  [438]
-[![https://www.youtube.com/user/IPAMUCLA](https://i.ytimg.com/vi_webp/70ZM3ZKvVgs/maxresdefault.webp)](https://www.youtube.com/user/IPAMUCLA)  
+## Guy Rothblum and Omer Reingold - A Multi-Group Approach to Algorithmic Fairness - IPAM at UCLA  [417]
+[![https://www.youtube.com/user/IPAMUCLA](https://i.ytimg.com/vi/jkCExtXO4dc/sddefault.jpg)](https://www.youtube.com/user/IPAMUCLA)  
 > Learn more online at: http://www.ipam.ucla.edu/programs/workshops/who-counts-sex-and-gender-bias-in-data/...
 
 
-## Why Every NATO Member Joined (And Why Everyone Else Hasn't)  [439]
+## Why Every NATO Member Joined (And Why Everyone Else Hasn't)  [418]
 [![https://www.youtube.com/user/JimBobJenkins](https://i.ytimg.com/vi/3zx3i9s7lLY/maxresdefault.jpg)](https://www.youtube.com/user/JimBobJenkins)  
 > The North Atlantic Treaty Organization is the most powerful alliance in the world. Some of the reasons countries do or do not join are straightforward. But others are downright bizarre. This video explains them all, including how the pyramid schemes and the word "North" kept two countries out for years.
 > 0:00 NATO: The World's Most Powerful Alliance
@@ -4084,7 +3874,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 4:02 Post-Cold War Expansion
 
 
-## The Jaimie Show | Feat. Dashaina | Episode 15.5  [440]
+## The Jaimie Show | Feat. Dashaina | Episode 15.5  [419]
 [![https://www.youtube.com/user/JMEMantzel](https://i.ytimg.com/vi/5bZc1q3OVBs/hqdefault.jpg?v=62dde941)](https://www.youtube.com/user/JMEMantzel)  
 > Send Jaimie an email! theadventurebuildermovie@gmail.com
 > Want to join one of Jaimie's membership options?
@@ -4096,7 +3886,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Adventure Builder Club Shop: http://sho...
 
 
-## NVIDIA GTC: When Simulation Becomes Reality! 🤯  [441]
+## NVIDIA GTC: When Simulation Becomes Reality! 🤯  [420]
 [![https://www.youtube.com/user/keeroyz](https://i.ytimg.com/vi_webp/QqHchIFPE7g/maxresdefault.webp)](https://www.youtube.com/user/keeroyz)  
 > If everything goes well, this will be my GTC talk:
 > https://www.nvidia.com/gtc/session-catalog/?ncid=so-face-527732&tab.catalogallsessionstab=16566177511100015Kus#/session/16559245032830019Q6q
@@ -4106,32 +3896,24 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:
 
 
-## $27,000 for 2 Car Garage   Part 1 Framing  [442]
+## $27,000 for 2 Car Garage   Part 1 Framing  [421]
 [![https://www.youtube.com/user/ken311953](https://i.ytimg.com/vi/TKpfyw_jtIg/hqdefault.jpg)](https://www.youtube.com/user/ken311953)  
 
 
-## 3-wheeled EV commuter equals 230 mpg, blends torque & safety  [443]
+## 3-wheeled EV commuter equals 230 mpg, blends torque & safety  [422]
 [![https://www.youtube.com/user/kirstendirksen](https://i.ytimg.com/vi/jI5Qzs2_FO4/hqdefault.jpg)](https://www.youtube.com/user/kirstendirksen)  
 > His FUV (fun utility vehicle) provides an open-air experience with a semi-enclosed cabin, tandem seating, power-assist handlebars, and regenerative braking.
 > Two front-mounted motors powered by a 20-kWh battery send it from 0 to 60 mph in 7.5-seconds. Arcimoto says the FUV battery range is 100 miles around town, about 66 miles at 55 mph. Its peak charge rate on a Level 2 charger is about 3.3 kW. It will fully charge in 4 hours on a Level 2 charger and 8 hours with a household 120-volt outlet....
 
 
-## A rambling video about friars, guilds, medieval cookery, herbalism, and what counted as 'fish'  [444]
-[![https://www.youtube.com/user/lindybeige](https://i.ytimg.com/vi/ymOEx1L0wD0/hqdefault.jpg)](https://www.youtube.com/user/lindybeige)  
-> Shot at Blackfriars in Newcastle, which was once a friary, then the headquarters of nine guilds, and is now a restaurant, where they take medieval cookery seriously.
-> Many thanks to Andy Hook, Giles Gasper, and Anthony O'Shaughnessy for their participation in this video.  https://www.blackfriarsrestaurant.co.uk
-> Support me on Patreon: https://www.patreon.com/Lindybeige
-> Buy the music - the music played at the end of my videos is now available here: https://lindybeige.bandcamp.com/track/the-mand...
-
-
-## The JB-Serial Monitor - Update V1.01  [445]
+## The JB-Serial Monitor - Update V1.01  [423]
 [![https://www.youtube.com/user/MacPuffdog](https://i.ytimg.com/vi/yDaE3KhiY-c/maxresdefault.jpg)](https://www.youtube.com/user/MacPuffdog)  
 > You can download the JB-Serial Monitor here: http://www.brokking.net/JB-Serial_Monitor.html
 > The previous video can be found here: https://youtu.be/LYzXxMHXucs
 > Please note that the source code of this program is not available. For now I only share the Windows exe file....
 
 
-## So Easy Your Siding Guy Will Actually Do This  [446]
+## So Easy Your Siding Guy Will Actually Do This  [424]
 [![https://www.youtube.com/user/mattrisinger](https://i.ytimg.com/vi_webp/z011jFKcGsg/maxresdefault.webp)](https://www.youtube.com/user/mattrisinger)  
 > Check them out at: https://www.keenebuilding.com/
 > Check out Delta Millworks for awesome wood products: https://deltamillworks.com/
@@ -4145,12 +3927,12 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://www.buildproductions.com...
 
 
-## Incorporating Behavior into Socio-Environmental Systems Modeling  [447]
+## Incorporating Behavior into Socio-Environmental Systems Modeling  [425]
 [![https://www.youtube.com/user/NaSESYNC](https://i.ytimg.com/vi_webp/rjrjX8dnR9g/maxresdefault.webp)](https://www.youtube.com/user/NaSESYNC)  
 > In this video, Gilligan provides an overview of efforts to include behavior change into socio-environmental models. He explains how latest studies go beyond describing behavior in simple economic terms (e.g., assuming rationale actor theory to maximize utility) to include both individual and collective interactions that influence decision making. Using a rich array of examples from his and others’ work, he shows how modelers are testing environmental and social outcomes using a variety of p...
 
 
-## New Guinea - lessons from a cradle of agriculture and languages  [448]
+## New Guinea - lessons from a cradle of agriculture and languages  [426]
 [![https://www.youtube.com/user/NativLang](https://i.ytimg.com/vi/QWLOCDYtVbQ/hqdefault.jpg)](https://www.youtube.com/user/NativLang)  
 > Aid: https://docs.google.com/document/d/1ywiOfzN5FZt2sh7s3V8EfCB54vUoHg4iA1VevAxgZeU/#heading=h.8iwaseaw0ce6
 > Voices: https://docs.google.com/document/d/1sI3YRMA6jM7GrqiWkGLXS-2FeMYGHhta1smhXQY6BG0/
@@ -4160,19 +3942,19 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Become my patron: https://www.pa...
 
 
-## I'm having a live book event at The Strand in NYC!  [449]
+## I'm having a live book event at The Strand in NYC!  [427]
 [![https://www.youtube.com/user/Nerdwriter1](https://i.ytimg.com/vi/O1uaFuHvjsY/hqdefault.jpg)](https://www.youtube.com/user/Nerdwriter1)  
 > Pre-order ESCAPE INTO MEANING:  https://www.simonandschuster.com/books/Escape-into-Meaning/Evan-Puschak/9781982163952...
 
 
-## Science Underlying Split Jet Stream Configurations Causing Life Threatening European Heat Waves  [450]
+## Science Underlying Split Jet Stream Configurations Causing Life Threatening European Heat Waves  [428]
 [![https://www.youtube.com/user/PaulHBeckwith](https://i.ytimg.com/vi_webp/Nr1Nk1hPf5s/maxresdefault.webp)](https://www.youtube.com/user/PaulHBeckwith)  
 > In the summer months, about 1/3 of the time a split jet stream is occurring, causing persistent heat domes and misery to primarily Western Europe, and also Europe as a whole.
 > Powerful Arctic Amplification, namely Arctic warming at least 4x faster than lower latitudes, has been occurring over the last several decades, caused primarily by albedo feedbacks from rapidly declining Arctic sea ice cover and greatly reduced spring snow cover over Arctic land masses.
 > With rapid land warming from expo...
 
 
-## Chenyin Li plays Mel Bonis's 'Mélisande' Op 109 No 5  [451]
+## Chenyin Li plays Mel Bonis's 'Mélisande' Op 109 No 5  [429]
 [![https://www.youtube.com/user/PianistMagazine](https://i.ytimg.com/vi/rs941bvOivw/hqdefault.jpg)](https://www.youtube.com/user/PianistMagazine)  
 > ◼️ A GIFT FOR OUR YOUTUBE VIEWERS: Want to keep learning with us? Enjoy 20% off a digital subscription to Pianist Magazine today ❤ https://pktmags.com/youtube20
 > ◼️ WHY NOT SUPPORT US? Thank you for watching this video! In order for us to keep making videos, we need your help. You can play your part by donating via the 'Thanks' button above, giving us a thumbs up, leaving a comment or subscribing to our channel.
@@ -4180,7 +3962,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Instagram – https://www.instagram....
 
 
-## Embrace the Delight - the August block set!  [452]
+## Embrace the Delight - the August block set!  [430]
 [![https://www.youtube.com/user/seseragistudio](https://i.ytimg.com/vi/w1gLxU9O9ys/hqdefault.jpg)](https://www.youtube.com/user/seseragistudio)  
 > Bonus content includes a trip to his Ome home/workshop, glimpses of the Ninja who work/play across the street from the Asakusa shop, a (rare) segment on inlaying boxwood into a cherry block, and a selection of clips from recent live streams.
 > https://mokuhankan.com
@@ -4191,11 +3973,11 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://mokuhankan.com/subscriptions/delight.html...
 
 
-## 2022 Machine Learning Summer School: Day 8 (June 15, 2022)  [453]
+## 2022 Machine Learning Summer School: Day 8 (June 15, 2022)  [431]
 [![https://www.youtube.com/user/SimonsFoundation](https://i.ytimg.com/vi_webp/odCzku972-w/maxresdefault.webp)](https://www.youtube.com/user/SimonsFoundation)  
 
 
-## My First Paper (Michael Merrifield) - Sixty Symbols  [454]
+## My First Paper (Michael Merrifield) - Sixty Symbols  [432]
 [![https://www.youtube.com/user/sixtysymbols](https://i.ytimg.com/vi/9V_-0WbtSPc/hqdefault.jpg)](https://www.youtube.com/user/sixtysymbols)  
 > More links and info below  ↓ ↓ ↓
 > Professor Merrifield is an astronomer at The University of Nottingham: http://bit.ly/NottsPhysics
@@ -4205,7 +3987,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Mike Merrifield on Twitter...
 
 
-## The unexpected logic behind rolling multiple dice and picking the highest.  [455]
+## The unexpected logic behind rolling multiple dice and picking the highest.  [433]
 [![https://www.youtube.com/user/standupmaths](https://i.ytimg.com/vi/X_DdGRjtwAo/hqdefault.jpg)](https://www.youtube.com/user/standupmaths)  
 > https://www.janestreet.com/IMO2022/
 > 2022 International Mathematical Olympiad!
@@ -4218,18 +4000,18 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Thanks to Gilad Levy for sending in the question. This is the best collection of maths about the problem we found at th...
 
 
-## New piano in the studio! Merci André Villeneuve  [456]
+## New piano in the studio! Merci André Villeneuve  [434]
 [![https://www.youtube.com/user/SteveMass1101](https://i.ytimg.com/vi_webp/R3TdroCPVOw/sddefault.webp)](https://www.youtube.com/user/SteveMass1101)  
 > Join the free group classes here: https://www.stevenmassicotte.ca/masterclasses.html
 > SUPPORT this channel: https://www.patreon.com/stevenmassicotte...
 
 
-## The Hidden Meaning and Logistics of Fountains  [457]
+## The Hidden Meaning and Logistics of Fountains  [435]
 [![https://www.youtube.com/user/stewarthicks](https://i.ytimg.com/vi/v9DJ-6xqs2Y/maxresdefault.jpg)](https://www.youtube.com/user/stewarthicks)  
 > How often do you really take notice of fountains? Yet, they seem to be in all the important places. In Chicago, you have really truly iconic fountains, like the one from the Married With Children intro. But how often do we really know the story behind even these iconic constructions? They clearly carry symbollic meaning, but what are they saying? Are they purely decoration, or is there a more pragmatic role? This video takes a close look at fountain designs and how they reflect our changing att...
 
 
-## Psychedelic therapy for depression: hope or hype? - with Alex Riley  [458]
+## Psychedelic therapy for depression: hope or hype? - with Alex Riley  [436]
 [![https://www.youtube.com/user/TheRoyalInstitution](https://i.ytimg.com/vi_webp/HV1NuxDYPW8/maxresdefault.webp)](https://www.youtube.com/user/TheRoyalInstitution)  
 > Buy Alex's book 'A Cure for Darkness' here: https://geni.us/60qBU
 > Subscribe for regular science videos: http://bit.ly/RiSubscRibe
@@ -4237,24 +4019,24 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Alex Riley is an award-winning science writer and scientist based in Bristol. He received a best feature award at...
 
 
-## TSP #209 - Teardown, Repair & Analysis of an Agilent 83752A 10MHz - 20GHz RF Synthesized Sweeper  [459]
+## TSP #209 - Teardown, Repair & Analysis of an Agilent 83752A 10MHz - 20GHz RF Synthesized Sweeper  [437]
 [![https://www.youtube.com/user/TheSignalPathBlog](https://i.ytimg.com/vi_webp/IDVm33SvNPQ/maxresdefault.webp)](https://www.youtube.com/user/TheSignalPathBlog)  
 > www.TheSignalPath.com
 > www.YouTube.com/TheSignalPath​​​
 > www.Patreon.com/TheSignalPath...
 
 
-## #359: Quick Tip: Selecting 10x passive probes for your oscilloscope - Bandwidth and Compensation...  [460]
+## #359: Quick Tip: Selecting 10x passive probes for your oscilloscope - Bandwidth and Compensation...  [438]
 [![https://www.youtube.com/user/w2aew](https://i.ytimg.com/vi_webp/2qLd_Y2EpNs/maxresdefault.webp)](https://www.youtube.com/user/w2aew)  
 > https://youtu.be/oxJQr4dKnys
 > https://youtu.be/SX4HGNWBe5M...
 
 
-## Creating super high quality video lectures to send to your students  [461]
+## Creating super high quality video lectures to send to your students  [439]
 [![https://www.youtube.com/user/WashingtonDeceit](https://i.ytimg.com/vi_webp/nFU5yyY7SEc/maxresdefault.webp)](https://www.youtube.com/user/WashingtonDeceit)  
 
 
-## A Final 8 Taboo Questions about History and Society.  [462]
+## A Final 8 Taboo Questions about History and Society.  [440]
 [![https://www.youtube.com/user/WhatifAltHist](https://i.ytimg.com/vi/CHBYlc2vH5g/hqdefault.jpg)](https://www.youtube.com/user/WhatifAltHist)  
 > Check out Pearl:https://pearl.link/whatifalthist
 > Check out Pillar:https://pillar.io/whatifalthist
@@ -4263,17 +4045,17 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Patreon, First 200 pages of cultural history of America and 400 of history of the new world alongside exclusive maps:https://www.patreon.com › whatifalthist...
 
 
-## The EMPH Student Experience  [463]
+## The EMPH Student Experience  [441]
 [![https://www.youtube.com/user/YaleCourses](https://i.ytimg.com/vi_webp/UKVqDAS9lPI/maxresdefault.webp)](https://www.youtube.com/user/YaleCourses)  
 
 
-## SLINGSHOT DVD 15 01 Title 01  [464]
+## SLINGSHOT DVD 15 01 Title 01  [442]
 [![https://www.youtube.com/watch?v=0AsJXjK0CSo](https://i.ytimg.com/vi_webp/0AsJXjK0CSo/hqdefault.webp)](https://www.youtube.com/watch?v=0AsJXjK0CSo)  
 > Leave a like and Subscribe
 > Thanks for watching my videos....
 
 
-## My Philosophy on Teaching Writing—Brandon Sanderson  [465]
+## My Philosophy on Teaching Writing—Brandon Sanderson  [443]
 [![https://www.youtube.com/watch?v=0cf-qdZ7GbA&amp;list=PLSH_xM-KC3Zv-79sVZTTj-YA6IAqh8qeQ](https://i.ytimg.com/vi_webp/0cf-qdZ7GbA/maxresdefault.webp)](https://www.youtube.com/watch?v=0cf-qdZ7GbA&amp;list=PLSH_xM-KC3Zv-79sVZTTj-YA6IAqh8qeQ)  
 > Stay up to date by following my newsletter: https://www.brandonsanderson.com/#signupform
 > Signed books and swag: https://store.brandonsanderson.com/
@@ -4285,23 +4067,23 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Frequently asked questions: https://faq.brandonsanderson.com/...
 
 
-## TLA+: Catch design mistakes before they're too expensive to fix (S02 E09 C02) #shorts  [466]
+## TLA+: Catch design mistakes before they're too expensive to fix (S02 E09 C02) #shorts  [444]
 [![https://www.youtube.com/watch?v=1drTz6GYpZU](https://i.ytimg.com/vi_webp/1drTz6GYpZU/maxresdefault.webp)](https://www.youtube.com/watch?v=1drTz6GYpZU)  
 
 
-## Particle Fever (Documentary)  [467]
+## Particle Fever (Documentary)  [445]
 [![https://www.youtube.com/watch?v=5Lx109jdGCc](https://i.ytimg.com/vi/5Lx109jdGCc/sddefault.jpg)](https://www.youtube.com/watch?v=5Lx109jdGCc)  
 > For the first time, a film gives audiences a front row seat to a significant and inspiring scientific breakthrough as it happens. Particle Fever follows six brilliant scientists during the launch of the Large Hadron Collider, marking the start-up of the biggest and most expensive experiment in the history of the planet, pushing the edge of human innovation.
 > As they seek to unravel the mysteries of the universe, 10,000 scientists from over 100 countries joined forces in pursuit of a single goal...
 
 
-## ENGINE BALANCE: Inline 3 vs. Inline 4 vs. Inline 5 vs. Inline 6  [468]
+## ENGINE BALANCE: Inline 3 vs. Inline 4 vs. Inline 5 vs. Inline 6  [446]
 [![https://www.youtube.com/watch?v=82rxavW0A3c](https://i.ytimg.com/vi/82rxavW0A3c/maxresdefault.jpg)](https://www.youtube.com/watch?v=82rxavW0A3c)  
 > So why is this happening? It's happening because the piston is connected to the crankshaft by a connecting rod and the connecting rod doesn't just go up and down in a simple reciprocating motion. Instead the connecting rod steps out from a linear path of travel both left and right.
 > What is primary engine balance? The source of primary balance or imbalance is simply the mass of the reciprocating parts of your enigine, which means that your pistons are the greatest potential source of a primary ...
 
 
-## Corroded Caving Carabiners and Hangers Break Tests  [469]
+## Corroded Caving Carabiners and Hangers Break Tests  [447]
 [![https://www.youtube.com/watch?v=AE69L7wwm64](https://i.ytimg.com/vi/AE69L7wwm64/hqdefault.jpg)](https://www.youtube.com/watch?v=AE69L7wwm64)  
 > The homemade hangers broke crazy low.  The normal looking one broke respectably at 23kN but the others broke at 7kN and 10kN which is way too low for a hanger.  And the weird titanium one had such a small bolt that the bolt snapped at 10kN.
 > Read the bolting bible at https://www.hownot2.com/boltingbible
@@ -4310,7 +4092,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 👉👉👉Shirts and hats http://www.hownot2swag.com...
 
 
-## Veritasium: A Story of YouTube Propaganda  [470]
+## Veritasium: A Story of YouTube Propaganda  [448]
 [![https://www.youtube.com/watch?v=CM0aohBfUTc](https://i.ytimg.com/vi_webp/CM0aohBfUTc/maxresdefault.webp)](https://www.youtube.com/watch?v=CM0aohBfUTc)  
 > A video about Veritasium, Science YouTube, misinformation and Why You Should Want Driverless Cars On Roads Now (or maybe not).
 > 00:00 Veritasium: A Story of YouTube Propaganda
@@ -4324,7 +4106,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > In this month's video,...
 
 
-## Primitive Technology: Iron knife made from bacteria  [471]
+## Primitive Technology: Iron knife made from bacteria  [449]
 [![https://www.youtube.com/watch?v=dhW4XFGQB4o&amp;t=606s](https://i.ytimg.com/vi/dhW4XFGQB4o/hqdefault.jpg)](https://www.youtube.com/watch?v=dhW4XFGQB4o&amp;t=606s)  
 > Subscribe: http://bit.ly/subPT | Never miss a video! Enable ‘ALL’ Notifications!
 > Watch my newsest content: https://youtube.com/playlist?list=PLGnWLXjIDnpBR4xqf3FO-xFFwE-ucq4Fj&playnext=1&index=2
@@ -4336,7 +4118,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Pyrotechnology: https://youtube.com...
 
 
-## Giant 13kJ  RUBY LASER CANNON! Test Shots and Overview!!  [472]
+## Giant 13kJ  RUBY LASER CANNON! Test Shots and Overview!!  [450]
 [![https://www.youtube.com/watch?v=DwYuHqCwXFI](https://i.ytimg.com/vi_webp/DwYuHqCwXFI/maxresdefault.webp)](https://www.youtube.com/watch?v=DwYuHqCwXFI)  
 > BIG thank you to Esco Optics for making me the mirrors for the laser. It turns out that finding mirrors that don't vaporize in a massive laser cavity like this is difficult, but coming up with the right coating was no problem for the Esco engineers.
 > social media sillyness:
@@ -4345,20 +4127,20 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > In this video I quickly go over the construction of this laser, and then do a few test shots with some plastic, ...
 
 
-## От постройки Турбо Реактивного двигателя до полета - всего один шаг  [473]
+## От постройки Турбо Реактивного двигателя до полета - всего один шаг  [451]
 [![https://www.youtube.com/watch?v=dYFYZ-g7fzA](https://i.ytimg.com/vi_webp/dYFYZ-g7fzA/maxresdefault.webp)](https://www.youtube.com/watch?v=dYFYZ-g7fzA)  
 > Канал Яндекс Дзен. Название канала Игорь Негода
 > Проект Реактивный самолет закончен ! Видео на канале будет выходить теперь без четкого графика.
 > Видео создано для тех кто не видел полного процесса постройки ТРД и самолета для него, но хочет увидеть !...
 
 
-## Richard Watson | An antidote to Universal Darwinism  [474]
+## Richard Watson | An antidote to Universal Darwinism  [452]
 [![https://www.youtube.com/watch?v=ENpdhwYoF5g](https://i.ytimg.com/vi/ENpdhwYoF5g/hqdefault.jpg)](https://www.youtube.com/watch?v=ENpdhwYoF5g)  
 > Watson’s research seeks to deepen our understanding of biological evolution by expanding the formal equivalence of learning and evolution—in particular, using connectionist models of cognition and learning. In this talk, he will introduce the concept of “natural induction” as a critique of the ideas of Universal Darwinism that focuses on the evolutionary potential of how organisms develop relationships by working together.
 > More information on this seminar is available here: https://sri...
 
 
-## Unison Programming Language (The Technium Podcast S02 E06)  [475]
+## Unison Programming Language (The Technium Podcast S02 E06)  [453]
 [![https://www.youtube.com/watch?v=EvJwaGHy768&amp;list=PLZ8NrLhP6GzuyU_xNdvPF7sFVTnPr2cLj](https://i.ytimg.com/vi/EvJwaGHy768/hqdefault.jpg)](https://www.youtube.com/watch?v=EvJwaGHy768&amp;list=PLZ8NrLhP6GzuyU_xNdvPF7sFVTnPr2cLj)  
 > We discuss the many implications of a language whose code is content addressable, from fast rename, easy caching, to feature flagging.
 > - Unison Lang https://www.unisonweb.org/
@@ -4368,7 +4150,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > - Python Environment XKCD https://xkcd.com/1987/...
 
 
-## Origins of Precision  [476]
+## Origins of Precision  [454]
 [![https://www.youtube.com/watch?v=gNRnrn5DE58](https://i.ytimg.com/vi_webp/gNRnrn5DE58/maxresdefault.webp)](https://www.youtube.com/watch?v=gNRnrn5DE58)  
 > https://www.patreon.com/machinethinking
 > This is the first video in a series of recreating the first micrometer. Before I introduce the project, I look into where precision comes from.
@@ -4380,13 +4162,13 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > http://creativecommons.org/licenses/by/3.0/
 
 
-## Injecting Cocaine Into Your Spine For Science  [477]
+## Injecting Cocaine Into Your Spine For Science  [455]
 [![https://www.youtube.com/watch?v=h0duLUAc9Pc](https://i.ytimg.com/vi/h0duLUAc9Pc/maxresdefault.jpg)](https://www.youtube.com/watch?v=h0duLUAc9Pc)  
 > This is 100% genuine archive footage from the Old England Journal of Medicine circa 1901, concerning Dr August Bier's infamous study examining cocaine as a spinal anaesthetic. Do not try this at home.
 > I can actually do a better German accent, which is basically just me doing a Werner Herzog impression, but I really tried hard to make this one appropriate for the period. Unfortunately I think it's just come out really stilted and monotonous but hey ho. Special thanks to Leon from @neo who kindl...
 
 
-## School of Life: A Bad YouTube Channel | Big Joel  [478]
+## School of Life: A Bad YouTube Channel | Big Joel  [456]
 [![https://www.youtube.com/watch?v=JlkJJygIoVU](https://i.ytimg.com/vi/JlkJJygIoVU/maxresdefault.jpg)](https://www.youtube.com/watch?v=JlkJJygIoVU)  
 > Support me on Patreon: https://www.patreon.com/bigjoel
 > Follow me on Twitch: https://www.twitch.tv/biggestjoel
@@ -4394,7 +4176,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Footnote on architecture: So, I want to be a bit specific here. I’m not claiming that modernism had NO impact on architecture, that would be silly. But this video makes a far more ambitious point: That modernism’s effect on architecture was SPECIFICALLY that it inspired architects to build less expensive and aesthetically appeal...
 
 
-## Transformers: One Model to Rule them All (The Technium Podcast S02 E08)  [479]
+## Transformers: One Model to Rule them All (The Technium Podcast S02 E08)  [457]
 [![https://www.youtube.com/watch?v=Kb0II5DuDE0&amp;list=PLZ8NrLhP6GzuyU_xNdvPF7sFVTnPr2cLj](https://i.ytimg.com/vi/Kb0II5DuDE0/hqdefault.jpg)](https://www.youtube.com/watch?v=Kb0II5DuDE0&amp;list=PLZ8NrLhP6GzuyU_xNdvPF7sFVTnPr2cLj)  
 > We discuss at a high level, its attention mechanism and its multimodal properties, and the types of applications this can be put to use now and in the future.
 > - Introductions to transformers
@@ -4404,7 +4186,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > - Attention is All you Need https://arxiv....
 
 
-## Turbo Jet - No Restricitons! You asked, I delivered.  [480]
+## Turbo Jet - No Restricitons! You asked, I delivered.  [458]
 [![https://www.youtube.com/watch?v=L2jHC_91ge8&amp;t=52s](https://i.ytimg.com/vi/L2jHC_91ge8/maxresdefault.jpg)](https://www.youtube.com/watch?v=L2jHC_91ge8&amp;t=52s)  
 > Online store -  bobbymcboost.com
 > // Please consider following me on my socials!
@@ -4412,7 +4194,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > facebook.com/BobbyMcBoost/...
 
 
-## Hydrogen Peroxide: going all the way  [481]
+## Hydrogen Peroxide: going all the way  [459]
 [![https://www.youtube.com/watch?v=LhEYaovWxl4](https://i.ytimg.com/vi_webp/LhEYaovWxl4/sddefault.webp)](https://www.youtube.com/watch?v=LhEYaovWxl4)  
 > 0:00 - i made it back
 > 1:11 - Peroxide is Baseball (idk)
@@ -4426,7 +4208,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 17:37 - peroxide in the peroxide...
 
 
-## "Fame" is an illusion we’ve made together. Here’s how to undo it. | Todd Rose for Big Think  [482]
+## "Fame" is an illusion we’ve made together. Here’s how to undo it. | Todd Rose for Big Think  [460]
 [![https://www.youtube.com/watch?v=ovBtoHkeK68](https://i.ytimg.com/vi/ovBtoHkeK68/maxresdefault.jpg)](https://www.youtube.com/watch?v=ovBtoHkeK68)  
 > Subscribe to Big Think on YouTube ►► https://www.youtube.com/c/bigthink
 > Up next ►► Why are we obsessed with celebrities? https://youtu.be/6oIQPKaN04A
@@ -4434,7 +4216,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > “We looked at the private opinions of the American pub...
 
 
-## Lecture 1 | Modern Physics: Classical Mechanics (Stanford)  [483]
+## Lecture 1 | Modern Physics: Classical Mechanics (Stanford)  [461]
 [![https://www.youtube.com/watch?v=pyX8kQ-JzHI&amp;list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e](https://i.ytimg.com/vi/pyX8kQ-JzHI/hqdefault.jpg)](https://www.youtube.com/watch?v=pyX8kQ-JzHI&amp;list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e)  
 > This Stanford Continuing Studies course is the first of a six-quarter sequence of classes exploring the essential theoretical foundations of modern physics. The topics covered in this course focus on classical mechanics. Leonard Susskind is the Felix Bloch Professor of Physics at Stanford University.
 > Complete playlist for the course:
@@ -4443,7 +4225,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > About Leonard Susskind: http://...
 
 
-## Making superconductors  [484]
+## Making superconductors  [462]
 [![https://www.youtube.com/watch?v=RS7gyZJg5nc&amp;t=93s](https://i.ytimg.com/vi_webp/RS7gyZJg5nc/maxresdefault.webp)](https://www.youtube.com/watch?v=RS7gyZJg5nc&amp;t=93s)  
 > -------------------------------------------
 > A few years ago, I saw a video about superconductors and it looked like anti-gravity magic. So, I decided to try and make some superconductors myself and to see if I could re-create the effect myself.
@@ -4453,7 +4235,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Nile talks about lab ...
 
 
-## Spinning Lego Propellers  [485]
+## Spinning Lego Propellers  [463]
 [![https://www.youtube.com/watch?v=TTui3shLRPk](https://i.ytimg.com/vi_webp/TTui3shLRPk/maxresdefault.webp)](https://www.youtube.com/watch?v=TTui3shLRPk)  
 > At the end I try to get a tandem helicopter build (externally powered) up in the air. Enjoy!
 > -Propeller 2 Blade 9 Diameter [2952]
@@ -4464,7 +4246,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > https://www.bricklink.com/v2/catalog/catalogitem.page?P=89509...
 
 
-## Copperhead Drive Improvements - Intermediate Drive  [486]
+## Copperhead Drive Improvements - Intermediate Drive  [464]
 [![https://www.youtube.com/watch?v=Wcl7WYLccIs](https://i.ytimg.com/vi/Wcl7WYLccIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=Wcl7WYLccIs)  
 > For a full overview of Copperhead, check out this video - https://youtu.be/HGgxyZpNHi8
 > Special Thanks to Copperhead's Sponsors:
@@ -4476,7 +4258,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Follow Copperhead on Facebook:  https://www.facebook.com/CausticCreations
 
 
-## Zig: System programming without the warts (S03 E04)  [487]
+## Zig: System programming without the warts (S03 E04)  [465]
 [![https://www.youtube.com/watch?v=wie5YuzoUQI&amp;list=PLZ8NrLhP6GzuyU_xNdvPF7sFVTnPr2cLj](https://i.ytimg.com/vi_webp/wie5YuzoUQI/maxresdefault.webp)](https://www.youtube.com/watch?v=wie5YuzoUQI&amp;list=PLZ8NrLhP6GzuyU_xNdvPF7sFVTnPr2cLj)  
 > • https://ziglang.org/learn/overview/
 > • https://www.youtube.com/watch?v=Gv2I7qTux7g
@@ -4490,7 +4272,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > 19:59 Zig's Integration with C is that it's a...
 
 
-## A new way to visualize General Relativity  [488]
+## A new way to visualize General Relativity  [466]
 [![https://www.youtube.com/watch?v=wrwgIjBUYVc](https://i.ytimg.com/vi/wrwgIjBUYVc/maxresdefault.jpg)](https://www.youtube.com/watch?v=wrwgIjBUYVc)  
 > For more videos, subscribe to the YouTube channel : https://www.youtube.com/ScienceClicEN
 > And if you liked this video, you can share it on social networks !
@@ -4502,14 +4284,14 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > For more info: http://www.alessandroroussel.com/en
 
 
-## Boeing's Fatal Flaw (full documentary) | FRONTLINE  [489]
+## Boeing's Fatal Flaw (full documentary) | FRONTLINE  [467]
 [![https://www.youtube.com/watch?v=wXMO0bhPhCw](https://i.ytimg.com/vi_webp/wXMO0bhPhCw/maxresdefault.webp)](https://www.youtube.com/watch?v=wXMO0bhPhCw)  
 > This journalism is made possible by viewers like you. Support your local PBS station here: http://www.pbs.org/donate.
 > In October 2018, a Boeing 737 Max passenger jet crashed shortly after takeoff off the coast of Indonesia. Five months later, following an eerily similar flight pattern, another 737 Max 8 went down in Ethiopia. Everyone on board the flights died.
 > "Boeing's Fatal Flaw," a FRONTLINE documentary in collaboration with The New York Times, tells the inside story of what led up to the...
 
 
-## 2 critical misconceptions about happiness | Tal Ben-Shahar | Big Think  [490]
+## 2 critical misconceptions about happiness | Tal Ben-Shahar | Big Think  [468]
 [![https://www.youtube.com/watch?v=xJL8A6vQyW0](https://i.ytimg.com/vi_webp/xJL8A6vQyW0/maxresdefault.webp)](https://www.youtube.com/watch?v=xJL8A6vQyW0)  
 > Subscribe to Big Think on YouTube ►► https://www.youtube.com/c/bigthink
 > Up next ►► Don’t chase happiness. Become antifragile https://youtu.be/e-or_D-qNqM
@@ -4518,7 +4300,7 @@ Webscraped from <https://news.ycombinator.com/item?id=32220192>
 > Tal Ben-Shahar, Harvard's "...
 
 
-## Numberphile v. Math: the truth about 1+2+3+...=-1/12  [491]
+## Numberphile v. Math: the truth about 1+2+3+...=-1/12  [469]
 [![https://www.youtube.com/watch?v=YuIIjLr6vUA](https://i.ytimg.com/vi_webp/YuIIjLr6vUA/maxresdefault.webp)](https://www.youtube.com/watch?v=YuIIjLr6vUA)  
 > This is my second attempt at doing this topic justice. This video is partly in response to feedback that I got on my first video. What a lot of you were interested in were more details about the analytic continuation business and the strange Numberphile/Ramanujan calculations. Responding to these requests, in this video I am taking a very different approach from the first video and really go all out and don't hold back in any respect. The result is a video that is a crazy 41.44 (almost 42 :) mi...
 
