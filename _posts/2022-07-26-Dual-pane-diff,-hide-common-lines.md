@@ -48,7 +48,7 @@ comm --help
     -2              suppress column 2 (lines unique to FILE2)
     -3              suppress column 3 (lines that appear in both files)
 
-comm action (neat, small, readable?)
+comm way (neat, small, readable?)
 
     comm -3 one.txt two.txt
 
