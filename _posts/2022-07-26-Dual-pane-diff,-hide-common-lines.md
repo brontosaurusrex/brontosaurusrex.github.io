@@ -16,7 +16,7 @@ Two files
     e           h
     f           i
 
-meld way (the correct looking way)
+meld way (the correct looking way, don't know how to hide common lines yet, but this is a search for a cli tool.)
 
 ![meld](/public/meld.png)
 
@@ -42,4 +42,19 @@ diff way (the other way)
     h  <
     i  <
 
-To be continued.
+comm --help
+
+    -1              suppress column 1 (lines unique to FILE1)
+    -2              suppress column 2 (lines unique to FILE2)
+    -3              suppress column 3 (lines that appear in both files)
+
+comm action (neat, small, readable?)
+
+    comm -3 one.txt two.txt
+
+    a
+    b
+    c
+            g
+            h
+            i
