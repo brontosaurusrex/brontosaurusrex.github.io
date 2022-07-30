@@ -524,6 +524,12 @@ Search for 'bash' in hacker news.
 ### [pure bash bible](https://github.com/dylanaraps/pure-bash-bible)  
 A collection of pure bash alternatives to external processes.
 
+## Other magic 
+
+### remove duplicated lines without sorting
+
+    awk '!x[$0]++'
+
 ## Index
 {:.no_toc}
 
