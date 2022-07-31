@@ -6,15 +6,16 @@ published: true
 <style>
   .page img {
   width: 550px;
-  height: 320px;
+  height: 308px;
   object-fit: cover;
 }
+
 </style>
 
 Scraped from <https://news.ycombinator.com/item?id=32220192>
 
 ## Clickbait is Unreasonably Effective  [2]
-[![https://www.youtube.com/watch?v=S2xHZPH5Sng](https://i.ytimg.com/vi/S2xHZPH5Sng/maxresdefault.jpg)](https://www.youtube.com/watch?v=S2xHZPH5Sng)  
+[![https://www.youtube.com/watch?v=S2xHZPH5Sng](https://i.ytimg.com/vi_webp/S2xHZPH5Sng/maxresdefault.webp)](https://www.youtube.com/watch?v=S2xHZPH5Sng)  
 > Check out http://kiwico.com/Veritasium50 for 50% off your first month of any subscription!
 > ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 > Special thanks to Patreon supporters: Alvaro Naranjo, Burt Humburg, Blake Byers, Dumky, Mike Tung, Evgeny Skvortsov, Meekay, Ismail Öncü Usta, Paul Peijzel, Crated Comments, Anna, Mac Malkawi, Michael Schneider, Oleksii Leonov, Jim Osmun, Tyson McDowell, Ludovic Robillard, Jim buckmaster, fanime96, Juan Benet, Ruslan Khroma,...
