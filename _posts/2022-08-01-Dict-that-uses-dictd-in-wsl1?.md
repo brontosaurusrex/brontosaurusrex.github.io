@@ -17,12 +17,19 @@ tags: linux cli
 
 4. test
 
-        dict craft | head                                                    
-    
-        From The Collaborative International Dictionary of English v.0.48 [gcide]:
-    
-        Craft \Craft\ (kr[.a]ft), n. [AS. cr[ae]ft strength, skill, art,
-            cunning; akin to OS., G., Sw., & Dan. kraft strength, D.
-            kracht, Icel. kraptr; perh. originally, a drawing together,
-            stretching, from the root of E. cramp.]
-            1. Strength; might; secret power. [Obs.] --Chaucer.         
+     dict gnu                                                                                                         ~
+     1 definition found
+     
+     From The Collaborative International Dictionary of English v.0.48 [gcide]:
+     
+     Gnu \Gnu\, n. [Hottentot gnu, or nju: cf. F. gnou.] (Zool.)
+         One of two species of large South African antelopes of the
+         genus {Catoblephas}, having a mane and bushy tail, and curved
+         horns in both sexes. [Written also {gnoo}.]
+         [1913 Webster]
+         
+         Note: The common gnu or wildebeest ({Catoblephas gnu}) is
+               plain brown; the brindled gnu or blue wildebeest ({C.
+               gorgon}) is larger, with transverse stripes of black on
+               the neck and shoulders.
+               [1913 Webster] 
