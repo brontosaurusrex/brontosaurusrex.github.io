@@ -9,22 +9,20 @@ tags: linux cli
 
 2. Disable all, but local server
 
-    sudo vim /etc/dictd/dict.conf
+        sudo vim /etc/dictd/dict.conf
 
 3. When dict is needed
 
-    sudo service dictd start
+        sudo service dictd start
 
 4. test
 
-    dict craft | head                                                                                  /usr/share/dict
-    2 definitions found
+        dict craft | head                                                    
     
-    From The Collaborative International Dictionary of English v.0.48 [gcide]:
+        From The Collaborative International Dictionary of English v.0.48 [gcide]:
     
         Craft \Craft\ (kr[.a]ft), n. [AS. cr[ae]ft strength, skill, art,
             cunning; akin to OS., G., Sw., & Dan. kraft strength, D.
             kracht, Icel. kraptr; perh. originally, a drawing together,
             stretching, from the root of E. cramp.]
-            1. Strength; might; secret power. [Obs.] --Chaucer.
-             
+            1. Strength; might; secret power. [Obs.] --Chaucer.         
