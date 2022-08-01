@@ -44,4 +44,4 @@ tags: linux cli
        dict -d wn gnu    # specifiy database
         
        # more dictionaries
-       sudo apt install dict-jargon dict-foldoc 
+       sudo apt install dict-jargon dict-foldoc dict-vera
