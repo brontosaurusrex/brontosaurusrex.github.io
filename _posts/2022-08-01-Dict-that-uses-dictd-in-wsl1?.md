@@ -11,9 +11,11 @@ tags: linux cli
 
         sudo vim /etc/dictd/dict.conf
 
-3. When dict is needed
+3. When dict is needed (will run on even if all wsl terminals are closed)
 
         sudo service dictd start
+
+        # test: service --status-all 
 
 4. test
 
