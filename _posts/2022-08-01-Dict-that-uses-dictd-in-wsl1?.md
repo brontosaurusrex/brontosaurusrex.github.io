@@ -7,6 +7,8 @@ tags: linux cli
 ---
 1. Install [dictd as any other package](https://www.xmodulo.com/how-to-look-up-dictionary-via-command-line-on-linux.html).
 
+        sudo apt install dictd dict-gcide dict-wn dict-moby-thesaurus
+
 2. Disable all, but local server
 
         sudo vim /etc/dictd/dict.conf
@@ -35,3 +37,8 @@ tags: linux cli
                  gorgon}) is larger, with transverse stripes of black on
                  the neck and shoulders.
                  [1913 Webster] 
+
+5. More
+
+       dict -D           # list databases
+       dict -d wn gnu    # specifiy database
