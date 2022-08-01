@@ -42,3 +42,6 @@ tags: linux cli
 
        dict -D           # list databases
        dict -d wn gnu    # specifiy database
+        
+       # more dictionaries
+       sudo apt install dict-jargon dict-foldoc 
