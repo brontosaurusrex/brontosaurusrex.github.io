@@ -41,7 +41,7 @@ tags: linux cli
 5. More
 
        dict -D           # list databases
-       dict -d wn gnu    # specifiy database
+       dict -d wn gnu    # specify database
         
        # more dictionaries
        sudo apt install dict-jargon dict-foldoc dict-vera
