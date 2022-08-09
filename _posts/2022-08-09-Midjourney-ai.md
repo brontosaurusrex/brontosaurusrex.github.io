@@ -7,19 +7,22 @@ tags: misc
 ---
 perfect debian wallpaper --ar 15:10
 
-[Imgur](https://i.imgur.com/HtjN8oI.png)  
-[Imgur](https://i.imgur.com/Af8gZnW.png)  
-[Imgur](https://i.imgur.com/OekM58y.png)
+[![image-nohash-th](https://i.imgur.com/HtjN8oIb.png)](https://i.imgur.com/HtjN8oI.png)
+[![image-nohash-th](https://i.imgur.com/Af8gZnWb.png)](https://i.imgur.com/Af8gZnW.png)
+[![image-nohash-th](https://i.imgur.com/OekM58yb.png)](https://i.imgur.com/OekM58y.png)
 
 black medium size schnauzer dog running at light speed, photography --ar 15:10
 
-[Imgur](https://i.imgur.com/2yuNqFO.png)  
-[Imgur](https://i.imgur.com/XNRK1RJ.png)  
-[Imgur](https://i.imgur.com/oJQMTUl.png)  
-[Imgur](https://i.imgur.com/oJR3h0v.png)  
+[![image-nohash-th](https://i.imgur.com/2yuNqFOb.png)](https://i.imgur.com/2yuNqFO.png)
+[![image-nohash-th](https://i.imgur.com/XNRK1RJb.png)](https://i.imgur.com/XNRK1RJ.png)
+[![image-nohash-th](https://i.imgur.com/oJQMTUlb.png)](https://i.imgur.com/oJQMTUl.png)
+[![image-nohash-th](https://i.imgur.com/oJR3h0vb.png)](https://i.imgur.com/oJR3h0v.png) 
 
 schnaucer attacking big white shark
 
-[Imgur](https://i.imgur.com/VdMG2Dk.png)
+[![image-nohash-th](https://i.imgur.com/VdMG2Dkb.png)](https://i.imgur.com/VdMG2Dk.png)
 
-fixme.
+
+
+
+
