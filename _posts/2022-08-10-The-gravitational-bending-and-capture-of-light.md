@@ -26,6 +26,6 @@ Prompt used:
 
 Where styles are:  
 > Mondrian  
-> Surrealism
-> Kandinsky
-> Davincy sketch style, hyper detailed
+> Surrealism  
+> Kandinsky  
+> Davincy sketch style, hyper detailed  
