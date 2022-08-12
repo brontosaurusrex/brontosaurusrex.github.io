@@ -26,7 +26,6 @@ Warning: Some are real nightmares.
 [![image-nohash-th](https://i.imgur.com/Ej1KU53b.png)](https://i.imgur.com/Ej1KU53.png)
 [![image-nohash-th](https://i.imgur.com/psFkWKwb.png)](https://i.imgur.com/psFkWKw.png)
 [![image-nohash-th](https://i.imgur.com/cLgAavEb.png)](https://i.imgur.com/cLgAavE.png)
-[![image-nohash-th](https://i.imgur.com/xT3Yuubb.png)](https://i.imgur.com/xT3Yuub.png)
 [![image-nohash-th](https://i.imgur.com/8Bmnttvb.png)](https://i.imgur.com/8Bmnttv.png)
 [![image-nohash-th](https://i.imgur.com/mPupqzlb.png)](https://i.imgur.com/mPupqzl.png)
 [![image-nohash-th](https://i.imgur.com/zuVqXGMb.png)](https://i.imgur.com/zuVqXGM.png)
