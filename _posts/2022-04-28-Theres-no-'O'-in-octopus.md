@@ -8,6 +8,8 @@ tags: misc mine
 Mostly GPT-NeoX 20B, with top-p set to 0.9.  
 [https://textsynth.com/playground.html](https://textsynth.com/playground.html)
 
+![unicorn as imagined by midjourney](https://i.imgur.com/2Q0D5sv.jpg)
+
 # tldr
 
 ## Unicorns
