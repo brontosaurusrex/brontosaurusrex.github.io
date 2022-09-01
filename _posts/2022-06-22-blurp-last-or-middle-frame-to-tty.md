@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2022-08-31 19:30'
+date: '2022-08-31 19:31'
 title: blurp last or middle frame or scene detected frames to tty, update 2
 tags: cli bash video 
 ---
