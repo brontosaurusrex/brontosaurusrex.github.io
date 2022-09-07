@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2022-09-07 14:20'
 title: DAR to VAR, bash
-tags: bash video 
+tags: bash video mine
 ---
 With ffprobe
 
