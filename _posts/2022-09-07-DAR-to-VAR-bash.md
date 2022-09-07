@@ -33,3 +33,4 @@ If DAR comes out as 1.7777 (16:9), and my new wanted width is 1000px, then heigh
     height = width / DAR
     height = 1000 / 1.7777
     height = 562.5 = 563 px
+    # or perhaps round to neareast even number, so 562
