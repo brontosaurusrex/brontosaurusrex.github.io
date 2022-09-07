@@ -48,3 +48,30 @@ Rounding to nearest even number, python maybe
     564
     print(woot(561))
     562
+
+Some bc and awk (better and returns 'correct' results)
+
+    awk_round () {
+        awk 'BEGIN{printf "%."'$1'"f\n", "'$2'"}'
+    }
+    even () {
+        local numr tmp
+        numr="$1"
+        tmp="$(echo "($numr) / 2" | bc -l)"
+        tmp="$(awk_round 0 "$tmp")"
+        tmp="$(( tmp * 2 ))"
+        echo "$tmp"
+    }
+
+    even "562.5"
+    562
+    even "562.6"
+    562
+    even "562.9"
+    562
+    even "563"
+    564
+    even "563.3"
+    564
+    even "563.9"
+    564
