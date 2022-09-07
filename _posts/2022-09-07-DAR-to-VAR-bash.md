@@ -25,3 +25,9 @@ With mediainfo
     file="20220721.mxf"
     DAR="$(mediainfo --Inform="Video;%DisplayAspectRatio%" "$file")"
     echo "$DAR" 
+
+So, if DAR comes out as 1.7777 (16:9), and my new wanted width is 1000px, then height would be
+
+    height = width / DAR
+    height = 1000 / 1.7777
+    height = 562.5 = 563 px
