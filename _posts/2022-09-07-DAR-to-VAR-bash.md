@@ -5,7 +5,8 @@ date: '2022-09-07 14:20'
 title: DAR to VAR, bash
 tags: bash video mine
 ---
-Shocking facts: 1440x1080 and 1920x1080 videos may both be marked with DAR=16:9, so to ge the DAR from input video:
+Shocking facts: 1440x1080 and 1920x1080 videos may both be marked with DAR=16:9. 
+To get the DAR from input video for purposes of calculating output resizing with 'square' pixels:
 
 With ffprobe
 
