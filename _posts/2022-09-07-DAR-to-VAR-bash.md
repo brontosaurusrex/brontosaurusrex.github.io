@@ -36,20 +36,7 @@ If DAR comes out as 1.7777 (16:9), and my new wanted width is 1000px, then heigh
     height = 562.5 = 563 px
     # or perhaps round to neareast even number, so 562
 
-Rounding to nearest even number, python maybe
-
-    import math
-    def woot(num):
-        return math.ceil(num / 2) * 2
-    
-    print(woot(562.5))
-    564 # really?
-    print(woot(563))
-    564
-    print(woot(561))
-    562
-
-Some bc and awk (better and returns 'correct' results)
+Some bc and awk (returns 'correct' results)
 
     awk_round () {
         awk 'BEGIN{printf "%."'$1'"f\n", "'$2'"}'
