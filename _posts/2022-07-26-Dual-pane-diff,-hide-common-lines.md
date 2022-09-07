@@ -58,3 +58,6 @@ comm way (neat, small, readable?)
             g
             h
             i
+
+Other tools, <https://news.ycombinator.com/item?id=32746258>
+
