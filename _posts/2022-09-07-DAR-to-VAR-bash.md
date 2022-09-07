@@ -36,7 +36,7 @@ If DAR comes out as 1.7777 (16:9), and my new wanted width is 1000px, then heigh
     height = 562.5 = 563 px
     # or perhaps round to neareast even number, so 562
 
-Some bc and awk (returns 'correct' results)
+Rounding to nearest even number, some bc and awk (returns 'correct' results)
 
     awk_round () {
         awk 'BEGIN{printf "%."'$1'"f\n", "'$2'"}'
