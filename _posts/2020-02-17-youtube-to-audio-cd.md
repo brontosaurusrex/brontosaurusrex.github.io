@@ -8,6 +8,10 @@ tags: audio mine
 * TOC
 {:toc}
 
+## Update 2022
+
+Meantime youtube-dl was superseded by yt-dlp, which should behave in similar fashion.
+
 ## Download
 
     youtube-dl -i -f 140 playlist
@@ -186,3 +190,12 @@ Asumming that template.htm has 'replaceme' string inside <pre> tags and it's in 
     # covers/1.pdf covers/2.pdf covers/3.pdf ...
     
     pdfunite **/*.pdf(n)  covers/1-16.pdf
+
+## Notes
+
+### What if playlist is private
+
+Windows example:
+
+    yt-dlp.exe --cookies-from-browser firefox -f 140 -o %(title)s.%(ext)s --restrict-filename https://www.youtube.com/playlist?list=abcdefg
+
