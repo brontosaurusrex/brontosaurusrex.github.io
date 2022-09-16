@@ -205,3 +205,12 @@ Haven't finished it yet. Stuck at 50%.
 > Either there’s loads of dark matter out there,
 > frustratingly successful in escaping detection by today’s ultrasensitive
 > instruments. Or all these diligent scientists are chasing a phantom.
+
+## The Kaiju Preservation Society (John Scalzi - 2022) 
+
+> "The barrier between our worlds right now is thin, and this 
+kaiju is feeding energy into it, but it's not thin enough for this or any other kaiju to get through, and if any 
+other kaiju comes along, she will move to fight it and in doing so remove the energy that's keeping the barrier 
+thin." 
+
+> We all need a pop song from time to time, particularly after a stretch of darkness.
