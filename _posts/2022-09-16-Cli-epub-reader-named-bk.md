@@ -7,5 +7,5 @@ tags: luv cli
 ---
 <https://github.com/aeosynth/bk> (written in rust)
 
-    bk -w 60 book.epub
+    bk -w 50 book.epub
     # when started F1 to see keybindings
