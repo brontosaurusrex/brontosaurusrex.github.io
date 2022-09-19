@@ -214,3 +214,7 @@ other kaiju comes along, she will move to fight it and in doing so remove the en
 thin." 
 
 > We all need a pop song from time to time, particularly after a stretch of darkness.
+
+## Hunt the Stars - Starlight's Shadow #1 (Jessie Mihaliki - 2022)
+
+> The leader was male: tall and muscular, with thick black hair, dark eyes, and skin a shade or two lighter than my own golden tan. He looked vaguely familiar, but I couldn’t immediately place him.
