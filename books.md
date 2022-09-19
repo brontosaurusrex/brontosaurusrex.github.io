@@ -218,3 +218,5 @@ thin."
 ## Hunt the Stars - Starlight's Shadow #1 (Jessie Mihaliki - 2022)
 
 > The leader was male: tall and muscular, with thick black hair, dark eyes, and skin a shade or two lighter than my own golden tan. He looked vaguely familiar, but I couldn’t immediately place him.
+
+Next book in series is ['Eclipse the moon'](https://www.jessiemihalik.com).
