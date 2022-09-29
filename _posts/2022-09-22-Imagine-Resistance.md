@@ -23,6 +23,6 @@ tags: misc luv
 [![image-nohash-th](https://i.imgur.com/Uv9nkWyb.png)](https://i.imgur.com/Uv9nkWy.png)
 [![image-nohash-th](https://i.imgur.com/yotCELvb.jpg)](https://i.imgur.com/yotCELv.jpg)
 [![image-nohash-th](https://i.imgur.com/qmMucMNb.png)](https://i.imgur.com/qmMucMN.png)
-[![image-nohash-th](https://i.imgur.com/A7NTZ1tb.png)](https://i.imgur.com/A7NTZ1t.png)
+
 
 Midjourney.
