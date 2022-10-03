@@ -19,3 +19,4 @@ tags: video mine
     echo "$crop"
 
 Idea: Jump to the middle of the movie, scan just 5 seconds and be happy.
+Maybe better: Speed up (or skip frames) the film to be only 5 seconds long and detect that.
