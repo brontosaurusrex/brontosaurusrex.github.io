@@ -9,3 +9,5 @@ tags: linux cli
 <https://news.ycombinator.com/item?id=33147270>
 
 Promises a neat lsp bash support.
+
+    npm i -g bash-language-server
