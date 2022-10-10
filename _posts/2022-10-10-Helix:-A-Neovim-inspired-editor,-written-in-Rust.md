@@ -7,3 +7,5 @@ tags: linux cli
 ---
 <https://helix-editor.com/>  
 <https://news.ycombinator.com/item?id=33147270>
+
+Promises a neat lsp bash support.
