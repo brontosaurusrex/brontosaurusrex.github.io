@@ -42,4 +42,4 @@ The logic is select > action
 
 ### There is no soft-wrap
 
-    :()
+    :(
