@@ -8,7 +8,9 @@ tags: linux cli
 <https://helix-editor.com/>  
 <https://news.ycombinator.com/item?id=33147270>
 
-Promises a neat lsp bash support.
+Promises a neat lsp bash support.  
+Will need [latest? nodejs/npm](https://github.com/nodesource/distributions/blob/master/README.md#debinstall), 
+the one in debian is too old.
 
     npm i -g bash-language-server
         
@@ -33,3 +35,11 @@ The logic is select > action
     
     Xdp
     Xdkp
+        
+### There is go menu
+
+    g
+
+### There is no soft-wrap
+
+    :()
