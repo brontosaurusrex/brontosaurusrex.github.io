@@ -11,3 +11,25 @@ tags: linux cli
 Promises a neat lsp bash support.
 
     npm i -g bash-language-server
+        
+## Notes
+
+The logic is select > action 
+
+### Change working directory and open file picker
+
+    :cd ~/somedir
+    SPACE, F
+        
+### Buffer picker
+
+    SPACE, b
+        
+### Delete line
+
+    xd
+        
+### Move line down/up one
+    
+    Xdp
+    Xdkp
