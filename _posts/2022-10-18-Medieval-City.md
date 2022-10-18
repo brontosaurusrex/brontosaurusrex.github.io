@@ -13,4 +13,6 @@ Export obj.
 Blender  
 FotoSketcher.
 
-[Example](https://i.imgur.com/yViXW0w.png).
+[![citygen2_ps1_fs_good-fs8.png-TGve8LDlExQIB5c-th](https://i.imgur.com/6DaGUulb.png)](https://i.imgur.com/6DaGUul.png)
+[![citygen2_ps1_fs_good_ps2-fs8.png-hcvoGNfCojYIIpZ-th](https://i.imgur.com/s8Y5pXqb.png)](https://i.imgur.com/s8Y5pXq.png)
+[![image-nohash-th](https://i.imgur.com/yViXW0wb.png)](https://i.imgur.com/yViXW0w.png)
