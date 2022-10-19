@@ -28,5 +28,11 @@ Shift string (rotate the four nodes)
     string="_bc_"                                                             
     echo ${string:2:2}${string:0:2}
     # c__b
+    
+    # Which is actually a__d
+    # for first char on the left (d is not allowed) that becomes
+    # a___, fits are [┃]=a_c_ and [┣]=abc_ and [┗]=ab__
+    ┏  or ┏ or ┏ 
+    ┃     ┣    ┗
 
 To be continued...
