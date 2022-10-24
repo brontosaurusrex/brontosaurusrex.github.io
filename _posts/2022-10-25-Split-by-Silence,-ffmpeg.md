@@ -49,8 +49,6 @@ Add empty line
 
     echo >> detect.log
 
-Note: If 1st is to be ignored, that means that the file is required to start with some silence
-
 Test loop
 
     awk_round () {
