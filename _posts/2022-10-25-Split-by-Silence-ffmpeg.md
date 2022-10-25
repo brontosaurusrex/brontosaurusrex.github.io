@@ -111,7 +111,7 @@ Add empty line
 
 echo >> list.txt
 
-Test loop (dual)
+Test loop (dual) - should return the split commands
 
     loop () {
         list="$1"
