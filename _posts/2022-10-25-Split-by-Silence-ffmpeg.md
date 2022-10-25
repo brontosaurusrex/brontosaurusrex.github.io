@@ -107,9 +107,9 @@ Example 'list.txt'
     8:42 Unstoppable - Sia
     12:17 Memories - Maroon 5
 
-Add empty line
+Add some empty lines
 
-echo >> list.txt
+    echo "\n\n" >> list.txt
 
 Test loop (dual) - should return the split commands
 
@@ -131,6 +131,50 @@ Test loop (dual) - should return the split commands
     }
     c="1"; loop list.txt; c="2"; loop list.txt
 
+Actual spliter script
 
+    #!/bin/bash
+
+    # spliter
+    # split local 'm4a audio file' by local 'list.txt' (yt chapters thing)
+    # example list.txt
+
+        # 0:00 As It Was - Harry Styles
+        # 2:39 Stay - The Kid LAROI with Justin Bieber
+        # 4:57 Bad Habits - Ed Sheeran 
+        # 8:42 Unstoppable - Sia
+        # 12:17 Memories - Maroon 5
+        # 15:22 Dance Monkey - Tones and I
+        # 18:49 Girls Like You - Maroon 5
+
+    # usage: spliter master.m4a list.txt
+
+    input="$1"; list="$2"
+
+    # Add some empty lines
+    echo "\n\n" >> "$list"
+
+    loop () {
+
+        tail -n +${c} "$list" | while read -r ssvar name ; read -r tovar _ ; do
+
+            # action
+            [ -z "${ssvar// }" ] && break
+            #pad counter
+            printf -v ccc "%03d" "$c"
+            if [ -z "${tovar// }" ]; then
+                #echo "empty tovar"
+                echo "-ss $ssvar ${c}_${name}.m4a"
+                ffmpeg "${quiet[@]}" -i "${input}" -ss "$ssvar" -c:a copy "${ccc}_${name}".m4a
+            else
+                echo "-ss $ssvar -to $tovar ${ccc}-${name}.m4a"
+                ffmpeg "${quiet[@]}" -i "${input}" -ss "$ssvar" -to "$tovar" -c:a copy "${ccc}_${name}".m4a
+            fi
+            (( c = c + 2 ))
+
+        done
+    }
+    quiet=(-hide_banner -loglevel quiet -nostats -nostdin)
+    c="1"; loop; c="2"; loop
 
 
