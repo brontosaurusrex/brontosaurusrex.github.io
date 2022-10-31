@@ -47,3 +47,8 @@ Action examples (see --help):
 First grid is randomly populated using random seed (can be extended later to support user input seeds), runs hardcoded number of generations, depending on the grid size, will exit prematurly if grid is empty (all are dead) or all are static. 
 
 Possible future: gif generation or just bitmap frames storage. Completely unoptimized, may even be wrong (not tested a lot). The static structures are 'correct', so I must be close.
+
+Playback example (will work in bash, but not in zsh)
+
+    # file was generate using : gameOfLife +++ | tee 30.txt
+    clear; while mapfile -t -n 31 ary && ((${#ary[@]})); do tput civis; printf '%s\n' "${ary[@]}"; sleep 0.1; tput cup 0 0; done < 30.txt; tput cnorm
