@@ -48,5 +48,5 @@ First grid is randomly populated using random seed (can be extended later to sup
 
 Possible future: gif generation or just bitmap frames storage. Completely unoptimized, may even be wrong (not tested a lot). The static structures are 'correct', so I must be close.
 
-[playGameOfLifeTxt is a player script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/playGameOfLifeTxt).
+[playGameOfLifeTxt is a player script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/playGameOfLifeTxt) for empty line delimited txt files.
 
