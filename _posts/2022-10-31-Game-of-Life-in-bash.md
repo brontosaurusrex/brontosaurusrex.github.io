@@ -5,7 +5,7 @@ date: '2022-10-31 08:16'
 title: Game of Life in bash
 tags: bash mine 
 ---
-[The script.](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/gameOfLife)
+[gameOfLife, the script.](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/gameOfLife)
 
 Action examples (see --help):
 
@@ -48,7 +48,5 @@ First grid is randomly populated using random seed (can be extended later to sup
 
 Possible future: gif generation or just bitmap frames storage. Completely unoptimized, may even be wrong (not tested a lot). The static structures are 'correct', so I must be close.
 
-Playback example (will work in bash, but not in zsh)
+[playGameOfLifeTxt is a player script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/playGameOfLifeTxt).
 
-    # file was generate using : gameOfLife +++ | tee 30.txt
-    clear; while mapfile -t -n 31 ary && ((${#ary[@]})); do tput civis; printf '%s\n' "${ary[@]}"; sleep 0.1; tput cup 0 0; done < 30.txt; tput cnorm
