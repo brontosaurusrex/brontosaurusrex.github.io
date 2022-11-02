@@ -62,10 +62,13 @@ or
 
     ffmpeg -f image2 -pattern_type glob -i "*.png" -c:v prores -pix_fmt yuv422p -an -r 12 gol160.mov
 
-And prores to gif (there should be a way to force 2 color palette and no dithering)
+And prores to gif (there should be a way to force 2 colors only?)
 
-    ffmpeg -i gol40.mov -vf palettegen=32 pal.png 
+    ffmpeg -i gol40.mov -vf palettegen=16 pal.png 
     ffmpeg -i gol40.mov -i pal.png -filter_complex \
-    "fps=12,paletteuse" gol40.gif
+    "fps=12,paletteuse=dither=none" gol40.gif
 
 [rasterizeGameOfLifeTxt is a png generator script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/rasterizeGameOfLifeTxt).
+
+And a gif  
+![gif](https://i.imgur.com/WEfneIF.gif)
