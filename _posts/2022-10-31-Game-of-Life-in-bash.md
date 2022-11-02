@@ -44,7 +44,7 @@ Action examples (see --help):
     ⬛⬛⬜⬜⬜⬜⬜⬜⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬜
 
 
-First grid is randomly populated using random seed (can be extended later to support user input seeds), runs hardcoded number of generations, depending on the grid size, will exit prematurly if grid is empty (all are dead) or all are static. 
+First grid is randomly populated using random seed (can be extended later to support user input seeds - implemented), runs hardcoded number of generations (can be now user defined), depending on the grid size, will exit prematurly if grid is empty (all are dead) or all are static. 
 
 Possible future: gif generation or just bitmap frames storage. Completely unoptimized, may even be wrong (not tested a lot). The static structures are 'correct', so I must be close.
 
