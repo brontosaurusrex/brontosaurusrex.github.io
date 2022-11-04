@@ -16,3 +16,12 @@ Install
 then unpack/rename [this](https://the.exa.website/#installation) to ~/bin/exa
 
 ![exa-fs8.png]({{site.baseurl}}/media/exa-fs8.png)
+
+2022 edit:
+
+Nice replacement for my 'lst' alias
+
+    # before
+    alias lst='ls -clhtr'
+    # after
+    alias lst='exa --sort modified -la --icons --no-permissions'
