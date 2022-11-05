@@ -11,8 +11,7 @@ exa,
 
     alias lst='exa --sort modified -la --icons --no-permissions'
  
-bat, 
-JetBrainsMono NF (normal)
+bat, fzf, JetBrainsMono NF (normal)
 
 Tmux.conf 2022
 
