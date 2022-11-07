@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2022-11-04 19:47'
-title: Shape catcher dot come
+title: Shape catcher dot com
 tags: misc cli bash 
 ---
 [https://shapecatcher.com/](https://shapecatcher.com/)
