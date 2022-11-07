@@ -53,6 +53,11 @@ Possible rasterizer:
 
     pango-view --background=white --antialias=none --font=mono -qo out.png example.txt
 
+Or just screenshot the active window/terminal (on machines with Xorg)
+
+    maim -i "$(xdotool getactivewindow)" woot.png
+    # actually xdotool should be only run once and store the var
+
 Then from frames to prores
 
     ffmpeg -i 201c730b7599d48c30cf254f3ade83fb-%03d.png -c:v prores -pix_fmt yuv422p -an -r 12 gol40.mov
