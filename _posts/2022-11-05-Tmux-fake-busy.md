@@ -7,7 +7,7 @@ tags: linux cli mine
 ---
 [![image-nohash-md](https://i.imgur.com/OVRdoD5l.png)](https://i.imgur.com/OVRdoD5.png)
 
-exa,
+exa (alt: logo-ls),
 
     alias lst='exa --sort modified -la --icons --no-permissions'
  
