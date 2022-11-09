@@ -16,3 +16,6 @@ Due to output limted to 1920px in size, workaround to get to orig size could be 
     convert "$orig" \( "$color" -resize "$size" \) -compose colorize -composite original_colorized.png
 
 ^ This should look the same (or very similar) as upsized layer overlayed in color mode in photoshop.
+
+Example colorization of a fairly abstract 3d render of a city  
+[![image-nohash-md](https://i.imgur.com/0hXTJN9l.png)](https://i.imgur.com/0hXTJN9.png)
