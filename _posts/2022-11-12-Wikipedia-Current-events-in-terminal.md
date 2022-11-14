@@ -23,3 +23,5 @@ Notes:
 As alias
 
     alias events='w3m -dump https://en.wikipedia.org/wiki/Portal:Current_events | grep -v -e "^  • edit" -e "^  • watch" -e "^  • history" | cat -s | less +/"$(date "+%B %d")"'
+
+Note: There is also ``less --mouse`` 
