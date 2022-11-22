@@ -9,6 +9,10 @@ Fuzzy launch (eval is dangerous)
 
     eval "$(compgen -c | fzy -p "launch >> ")"
 
+Fuzzy launch (with exploding array, should be less dangerous)
+
+    unset arr;arr=();arr+=($(compgen -c | fzy -p "launch >> ")) && "${arr[@]}"
+
 Fuzzy cd (cd is not dangerous)
 
     cd "$(fd -t d -d 1 | fzy)"
