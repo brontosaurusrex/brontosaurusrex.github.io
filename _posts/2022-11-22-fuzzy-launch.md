@@ -23,7 +23,7 @@ Fuzzy cd (cd is not dangerous)
     cd "$(fd -t d -d 1 | fzy)"
 
  * find directories, max depth 1 and pipe that to fuzzy finder
- * Both fzy and fd are in the Debian repos
+ * Both fzy and fd (fd-find) are in the Debian repos
 
  Fuzzy cd v2 (using fzf instead of fzy)
 
