@@ -21,6 +21,19 @@ Fuzzy cd (cd is not dangerous)
  * find directories, max depth 1 and pipe that to fuzzy finder
  * Both fzy and fd are in the Debian repos
 
+Noninteractive fuzzy search history and available commands v1, just list, don't run anything
+
+    echo -n "search history and commands > " && read var && { tail -1000 ~/.bash_history & compgen -c; } | fzy -e "$var" | uniq | head -10 | column
+
+Noninteractive fuzzy search history and available commands v2
+
+    echo -n "search history and commands > " && read var && \
+    { { history | awk '{$1=""; print $0;}' | sed 's/^ //g'; } & compgen -c; } \
+    | fzy -e "$var" | uniq | head -10 | column
+
+ * Depending on the history config this may fail due to different history format between bash and zsh for example
+ * awk removes 1st column and sed removes leading spaces
+
 Links
 
 <https://gist.github.com/wknapik/5101aaea12172eff6ab6b2fb7666143c>  
