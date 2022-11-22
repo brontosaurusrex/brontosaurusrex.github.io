@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2022-11-22 00:48'
-title: fuzzy launch
+title: Fuzzy launch
 tags: cli bash 
 ---
 Fuzzy launch (eval is dangerous)
