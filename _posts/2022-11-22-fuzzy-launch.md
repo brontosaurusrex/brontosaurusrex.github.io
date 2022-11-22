@@ -20,14 +20,14 @@ Fuzzy launch v2 (with exploding array, less dangerous)
 
 Fuzzy cd (cd is not dangerous)
 
-    cd "$(fd -t d -d 1 | fzy)"
+    cd "$(fdfind -t d -d 1 | fzy)"
 
  * find directories, max depth 1 and pipe that to fuzzy finder
- * Both fzy and fd (fd-find) are in the Debian repos
+ * Both fzy and fdfind (fd-find) are in the Debian repos
 
  Fuzzy cd v2 (using fzf instead of fzy)
 
-    cd "$(fd -H -L -t d -d 3 | fzf -0 --height=10 --layout=reverse)"
+    cd "$(fdfind -H -L -t d -d 3 | fzf -0 --height=10 --layout=reverse)"
     # alias cdf
 
  * find directories, max depth 3 and pipe that to fuzzy finder
