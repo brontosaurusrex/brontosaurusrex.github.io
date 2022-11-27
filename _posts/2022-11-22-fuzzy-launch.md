@@ -78,3 +78,19 @@ Adding ctrl+t (interactive search files) and ctrl+r (interactive search history)
 
     # fzf
     source /usr/share/doc/fzf/examples/key-bindings.zsh
+
+## Digging and binding
+
+    bindkey | grep fzf
+    "^R" fzf-history-widget
+    "^T" fzf-file-widget
+    "^[c" fzf-cd-widget
+
+So it turns out that fzf already comes with some sort of 'cdf'.
+
+## Bindind keys in zsh 
+
+    bindkey -s '^[k' 'cdf\n'    # alt+k
+    bindkey -s '^[l' 'launch\n' # alt+l
+
+Magic symbols were found by running 'showkey -a', part of kdb package.
