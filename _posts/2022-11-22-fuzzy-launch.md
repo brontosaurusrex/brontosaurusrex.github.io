@@ -51,6 +51,18 @@ Noninteractive fuzzy search history and available commands v2, just list, don't 
  * Depending on the history config this may fail due to different history format between bash and zsh for example
  * awk removes 1st column and sed removes leading spaces
 
+Making this a function that can function in .bash_aliases as well
+
+    # functions
+    comhis () {
+        # Noninteractive fuzzy search history and available commands 
+        if (( $# )) ; then
+            var="$*"
+            { { history | awk '{$1=""; print $0;}' | sed 's/^ //g'; } & compgen -c; } \
+            | fzy -e "$var" | uniq | head -20 | column
+        fi
+    }
+
 ## Links
 
 <https://gist.github.com/wknapik/5101aaea12172eff6ab6b2fb7666143c>  

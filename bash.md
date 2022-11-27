@@ -60,7 +60,9 @@ Only if one is not already there, should also be recursive
 
 ## Exit if var is empty
 
-    [[ -z "$url" ]] && (echo "no url for you" && exit 1)
+    [[ -z "$url" ]] && { echo "no url for you" ; exit 1; }
+    # or is empty or has spaces only:
+    [[ -z "${url// }" ]] && { echo "no url for you" ; exit 1; }
 
 ## Benchmark script
 
