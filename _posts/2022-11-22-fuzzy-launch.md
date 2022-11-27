@@ -28,7 +28,9 @@ Fuzzy cd (cd is not dangerous)
  Fuzzy cd v2 (using fzf instead of fzy)
 
     cd "$(fdfind -H -L -t d -d 3 | fzf -0 --height=10 --layout=reverse)"
-    # alias cdf
+    # alias cdf, or start the search at root
+    cd "$(fd -H -L -t d -d 3 . "/" | fzf -0 --height=10 --layout=reverse)"
+    # alias cdff
 
  * find directories, max depth 3 and pipe that to fuzzy finder
  * -H, -L : also show hidden dirs and links
