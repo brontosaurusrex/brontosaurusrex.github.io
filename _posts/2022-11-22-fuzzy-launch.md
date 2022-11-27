@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2022-11-22 00:48'
-title: Fuzzy launch
+title: The whole thing is fuzzy to me
 tags: cli bash 
 ---
 ## launch
