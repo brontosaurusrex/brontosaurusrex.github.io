@@ -63,6 +63,10 @@ Making this a function that can function in .bash_aliases as well
         fi
     }
 
+## Demo
+
+<https://asciinema.org/a/oDodjH9TcVuumN2Ea6w5eWB0z>
+
 ## Links
 
 <https://gist.github.com/wknapik/5101aaea12172eff6ab6b2fb7666143c>  
