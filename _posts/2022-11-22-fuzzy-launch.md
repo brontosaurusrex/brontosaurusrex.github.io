@@ -72,6 +72,7 @@ Making this a function that can function in .bash_aliases as well
 <https://gist.github.com/wknapik/5101aaea12172eff6ab6b2fb7666143c>  
 <https://github.com/jhawthorn/fzy>  
 <https://jdhao.github.io/2019/06/13/zsh_bind_keys/>  
+<https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline>  
 
 ## Notes
 
