@@ -32,4 +32,4 @@ Assuming that the tree looks like:
     └── papirus
         └── Alacritty.ico
 
-and yaml want's to be next to executable.
+and yaml config want's to be next to executable.
