@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2023-01-04 10:58'
-title: Mpv - preview thumbnails
+title: Mpv - thumbnail preview
 tags: video 
 ---
 ![scrot](media/thumbnailer.jpg)
