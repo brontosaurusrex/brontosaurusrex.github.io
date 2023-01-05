@@ -35,9 +35,10 @@ Check the example in documentation and populate the conf as you wish, I have cha
     autogenerate_max_duration=10600
     thumbnail_width=400
     thumbnail_height=400
-    thumbnail_count=350
-    min_delta=1
+    thumbnail_count=1350
+    min_delta=0.1
     max_delta=90
+    cache_directory=f:\cache\mpv_thumbs\
 
 In mpv.conf add
 
