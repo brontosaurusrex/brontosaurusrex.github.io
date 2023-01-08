@@ -55,4 +55,5 @@ To increase thumbnailing speed, duplicate the server lua script few times
 
 If the scripts don't wanna autorun on startup, the magic shortkey is 'T' (that is shift+t).
 
+Cons: Can't get top part of the ui to show up on mouse over (that's the one with close icon X). This is quite cpu intensive, fan loud.
 
