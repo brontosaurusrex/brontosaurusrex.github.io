@@ -17,4 +17,10 @@ Note that the fonts can be provided from subfodler 'fonts' next to mpv.exe (wind
     └── fonts
         └── Roboto-Regular.ttf
 
-which should make entire config portable.
+which should make entire config portable.  
+edit:  
+
+or 
+
+    osd-font="Roboto Condensed"
+
