@@ -5,7 +5,7 @@ date: '2023-01-04 10:58'
 title: Mpv - thumbnail preview
 tags: video 
 ---
-![scrot](media/thumbnailer.jpg)
+![scrot](/media/thumbnailer.jpg)
 
 The source
 
