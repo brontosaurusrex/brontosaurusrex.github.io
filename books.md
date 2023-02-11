@@ -220,3 +220,7 @@ thin."
 > The leader was male: tall and muscular, with thick black hair, dark eyes, and skin a shade or two lighter than my own golden tan. He looked vaguely familiar, but I couldn’t immediately place him.
 
 Next book in series is ['Eclipse the moon'](https://www.jessiemihalik.com).
+
+## Project Hail Mary (Andy Weir - 2021)
+
+> Thinking rationally, you can't make spaceships without a civilization and you can't have civilization without being able to communicate. So of course they have language. It's interesting that communication is done with sound, like humans do. Coincidence? Maybe not. Maybe that's just the easiest way to evolve that trait. 
