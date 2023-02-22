@@ -9,6 +9,8 @@ tags: cli bash
 
     cd . # untested
 
+Testing implementation (not battle proven or tested): [when](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/when).
+
 Other, suggested by chatgpt (all untested):
 
 > If you suspect that the directory listing is being cached by your shell or file system, you can try one of the following commands to force a refresh:
