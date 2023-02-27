@@ -22,3 +22,5 @@ The more dumb approach might work (removing inotifywait), comparing two ls outpu
     diff -u ls.txt ls2.txt | grep "^[+]"
     # if the comparion in not null, then mv ls2.txt to ls.txt
     # and wait/repeat
+
+edit: [dumbwhen]((https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/dumbwhen) could be the thing.
