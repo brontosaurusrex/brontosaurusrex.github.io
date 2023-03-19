@@ -47,6 +47,27 @@ sci-fi photorealistic imagination --tile --v 5
 [![image-nohash-th](https://i.imgur.com/Ls33ud3b.png)](https://i.imgur.com/Ls33ud3.png)
 [![image-nohash-th](https://i.imgur.com/PnW08zlb.png)](https://i.imgur.com/PnW08zl.png)
 
+Prompt:  
+cute small robots build from scrap parts --tile  
+
+[![image-nohash-th](https://i.imgur.com/YjSUQWKb.png)](https://i.imgur.com/YjSUQWK.png)
+[![image-nohash-th](https://i.imgur.com/1QQdjv2b.png)](https://i.imgur.com/1QQdjv2.png)
+[![image-nohash-th](https://i.imgur.com/iOojNxZb.png)](https://i.imgur.com/iOojNxZ.png)
+[![image-nohash-th](https://i.imgur.com/VaZlAjKb.png)](https://i.imgur.com/VaZlAjK.png)
+[![image-nohash-th](https://i.imgur.com/Pt2iawpb.png)](https://i.imgur.com/Pt2iawp.png)
+[![image-nohash-th](https://i.imgur.com/faakgzEb.png)](https://i.imgur.com/faakgzE.png)
+[![image-nohash-th](https://i.imgur.com/2nYyLb0b.png)](https://i.imgur.com/2nYyLb0.png)
+[![image-nohash-th](https://i.imgur.com/pnGIVgYb.png)](https://i.imgur.com/pnGIVgY.png)
+[![image-nohash-th](https://i.imgur.com/FvkaF6Hb.png)](https://i.imgur.com/FvkaF6H.png)
+[![image-nohash-th](https://i.imgur.com/0eFiQOeb.png)](https://i.imgur.com/0eFiQOe.png)
+[![image-nohash-th](https://i.imgur.com/ytI8YKJb.png)](https://i.imgur.com/ytI8YKJ.png)
+[![image-nohash-th](https://i.imgur.com/BzlmIrlb.png)](https://i.imgur.com/BzlmIrl.png)
+[![image-nohash-th](https://i.imgur.com/qGsZP2ib.png)](https://i.imgur.com/qGsZP2i.png)
+[![image-nohash-th](https://i.imgur.com/IXtJDENb.png)](https://i.imgur.com/IXtJDEN.png)
+[![image-nohash-th](https://i.imgur.com/JxO7Nwfb.png)](https://i.imgur.com/JxO7Nwf.png)
+[![image-nohash-th](https://i.imgur.com/AA8m1YNb.png)](https://i.imgur.com/AA8m1YN.png)
+[![image-nohash-th](https://i.imgur.com/YJnryVTb.png)](https://i.imgur.com/YJnryVT.png)
+
 
 
 ## Not a tile, 21:9
