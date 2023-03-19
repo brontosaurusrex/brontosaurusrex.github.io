@@ -5,7 +5,12 @@ date: '2023-03-19 17:48'
 title: Midjourney (v5)
 tags: misc mine 
 ---
-### --tile
+### Tile
+
+Prompts used:  
+sci-fi spaceship interior with lots of details, cinematic lightning --tile --v 5  
+sci-fi integrated circuits and cables imagination, photo --tile --v 5  
+sci-fi photorealistic imagination --tile --v 5  
 
 [![image-nohash-th](https://i.imgur.com/gqgLJhjb.png)](https://i.imgur.com/gqgLJhj.png)
 [![image-nohash-th](https://i.imgur.com/wXKc0iIb.png)](https://i.imgur.com/wXKc0iI.png)
@@ -42,10 +47,7 @@ tags: misc mine
 [![image-nohash-th](https://i.imgur.com/Ls33ud3b.png)](https://i.imgur.com/Ls33ud3.png)
 [![image-nohash-th](https://i.imgur.com/PnW08zlb.png)](https://i.imgur.com/PnW08zl.png)
 
-Prompts used:  
-sci-fi spaceship interior with lots of details, cinematic lightning --tile --v 5  
-sci-fi integrated circuits and cables imagination, photo --tile --v 5  
-sci-fi photorealistic imagination --tile --v 5  
+
 
 ## Not a tile, 21:9
 
@@ -81,3 +83,25 @@ sci-fi integrated circuits and cables that almost look like a city, cinematic ve
 [![image-nohash-th](https://i.imgur.com/N7meApKb.png)](https://i.imgur.com/N7meApK.png)
 [![image-nohash-th](https://i.imgur.com/6l1wjMDb.png)](https://i.imgur.com/6l1wjMD.png)
 [![image-nohash-th](https://i.imgur.com/u9JkxaBb.png)](https://i.imgur.com/u9JkxaB.png)
+[![image-nohash-th](https://i.imgur.com/FaUSmrkb.png)](https://i.imgur.com/FaUSmrk.png)
+[![image-nohash-th](https://i.imgur.com/vooVpuUb.png)](https://i.imgur.com/vooVpuU.png)
+[![image-nohash-th](https://i.imgur.com/UONu4fqb.png)](https://i.imgur.com/UONu4fq.png)
+[![image-nohash-th](https://i.imgur.com/M9vg6VRb.png)](https://i.imgur.com/M9vg6VR.png)
+[![image-nohash-th](https://i.imgur.com/84q0KYQb.png)](https://i.imgur.com/84q0KYQ.png)
+[![image-nohash-th](https://i.imgur.com/lAz8a9Fb.png)](https://i.imgur.com/lAz8a9F.png)
+[![image-nohash-th](https://i.imgur.com/EeETQ37b.png)](https://i.imgur.com/EeETQ37.png)
+
+Prompt:  
+Lots of small robots working to build sci-fi integrated circuits and cables that almost look like a city with some really tall buildings, cinematic very detailed, very low depth of field --ar 21:9  
+
+[![image-nohash-th](https://i.imgur.com/20mdQBFb.png)](https://i.imgur.com/20mdQBF.png)
+[![image-nohash-th](https://i.imgur.com/MnAHQu7b.png)](https://i.imgur.com/MnAHQu7.png)
+[![image-nohash-th](https://i.imgur.com/lYDk4WOb.png)](https://i.imgur.com/lYDk4WO.png)
+[![image-nohash-th](https://i.imgur.com/3Xzk2J9b.png)](https://i.imgur.com/3Xzk2J9.png)
+[![image-nohash-th](https://i.imgur.com/Nr8E5LTb.png)](https://i.imgur.com/Nr8E5LT.png)
+[![image-nohash-th](https://i.imgur.com/oK2zmt8b.png)](https://i.imgur.com/oK2zmt8.png)
+[![image-nohash-th](https://i.imgur.com/yA9wbsCb.png)](https://i.imgur.com/yA9wbsC.png)
+[![image-nohash-th](https://i.imgur.com/D1cfuRNb.png)](https://i.imgur.com/D1cfuRN.png)
+[![image-nohash-th](https://i.imgur.com/G3Mh4mPb.png)](https://i.imgur.com/G3Mh4mP.png)
+[![image-nohash-th](https://i.imgur.com/ZHCHZyab.png)](https://i.imgur.com/ZHCHZya.png)
+[![image-nohash-th](https://i.imgur.com/lhZTSKxb.png)](https://i.imgur.com/lhZTSKx.png)
