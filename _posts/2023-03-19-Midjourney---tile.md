@@ -126,3 +126,8 @@ Lots of small robots working to build sci-fi integrated circuits and cables that
 [![image-nohash-th](https://i.imgur.com/G3Mh4mPb.png)](https://i.imgur.com/G3Mh4mP.png)
 [![image-nohash-th](https://i.imgur.com/ZHCHZyab.png)](https://i.imgur.com/ZHCHZya.png)
 [![image-nohash-th](https://i.imgur.com/lhZTSKxb.png)](https://i.imgur.com/lhZTSKx.png)
+
+Prompt:  
+Battle robot build from scrap parts looking itself in the mirror after the battle --ar 21:9
+
+[![image-nohash-th](https://i.imgur.com/UlxZOgUb.png)](https://i.imgur.com/UlxZOgU.png)
