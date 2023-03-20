@@ -131,3 +131,7 @@ Prompt:
 Battle robot build from scrap parts looking itself in the mirror after the battle --ar 21:9
 
 [![image-nohash-th](https://i.imgur.com/UlxZOgUb.png)](https://i.imgur.com/UlxZOgU.png)
+
+## Post
+
+<https://i.imgur.com/wmWxzLS.png>
