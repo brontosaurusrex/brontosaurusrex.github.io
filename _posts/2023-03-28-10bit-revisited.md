@@ -13,7 +13,7 @@ Progressive example:
 
 Interlaced example:
 
-    -profile:v high422 -pix_fmt yuv422p10le -c:v libx264 -flags +ildct+ilme -top 1 -preset slow -tune film -crf 18
+    -profile:v high422 -pix_fmt yuv422p10le -c:v libx264 -flags +ildct+ilme -top 1 -preset slow -tune film -crf 18 -threads 0
 
 or use encoder specific flags, like '-x264opts interlaced=1', there seems to be no difference with ffmpeg version
 
