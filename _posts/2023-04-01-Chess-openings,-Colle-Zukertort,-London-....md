@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2023-04-01 08:11'
-title: Chess openings, Colle Zukertort, London ...
+title: Chess openings, Colle Zuckertort, London, Torre ...
 tags: misc 
 ---
 Colle (NM Robert Ramirez)   
