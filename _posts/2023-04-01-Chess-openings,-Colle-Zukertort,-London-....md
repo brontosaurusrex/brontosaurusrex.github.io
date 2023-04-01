@@ -11,3 +11,5 @@ London (NM Robert Ramirez) and the opposite side castling attack
 <https://www.youtube.com/watch?v=Gvo8oOzjLO4>  
 London, the Colle, and the Torre Attack (GM Ben Finegold)  
 <https://www.youtube.com/watch?v=QMeFXxKpGmQ>  
+
+Notes: The same pawn structure, only white's dark squared bishop ends on three different squares.
