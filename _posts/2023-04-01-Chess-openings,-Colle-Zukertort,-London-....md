@@ -15,6 +15,5 @@ London (NM Robert Ramirez) and the opposite side castling attack
 <img src="https://lichess1.org/export/fen.gif?fen=rn1q1rk1%2Fpbp2ppp%2F1p1bpn2%2F3p4%2F3P1B2%2F2PBPN2%2FPP1NQPPP%2FR3K2R+w+KQ+-+3+9&color=white&lastMove=e7d6&variant=standard&theme=blue&piece=cburnett" style="width: 300px;">  
 London, the Colle, and the Torre Attack (GM Ben Finegold)  
 <https://www.youtube.com/watch?v=QMeFXxKpGmQ>  
-<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rk1%2Fpp1nbppp%2F4pn2%2F2ppN1B1%2F3P4%2F2PBP3%2FPP1N1PPP%2FR2QK2R+b+KQ+-+6+8&color=white&lastMove=f3e5&variant=standard&theme=blue&piece=cburnett" style="width: 300px;"> 
-
+<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rk1%2Fpp1nbppp%2F4pn2%2F2ppN1B1%2F3P4%2F2PBP3%2FPP1N1PPP%2FR2QK2R+b+KQ+-+6+8&color=white&lastMove=f3e5&variant=standard&theme=blue&piece=cburnett" style="width: 300px;">  
 Notes: The same pawn structure, only white's dark squared bishop ends on three different squares.
