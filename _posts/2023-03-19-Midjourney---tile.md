@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2023-03-19 17:48'
 title: Midjourney (v5)
-tags: misc mine 
+tags: misc mine ai
 ---
 ### Tile
 

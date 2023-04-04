@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2022-08-12 09:40'
 title: Various midjourney experiments
-tags: misc 
+tags: misc ai
 ---
 Warning: Some are real nightmares.
 

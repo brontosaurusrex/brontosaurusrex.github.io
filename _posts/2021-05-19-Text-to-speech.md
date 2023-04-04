@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2021-05-26 8:00'
 title: Text to speech
-tags: audio 
+tags: audio ai 
 ---
 ## Flite and android are free
 

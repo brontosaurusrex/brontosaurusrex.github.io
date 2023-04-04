@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2022-08-09 15:37'
 title: Midjourney ai
-tags: misc 
+tags: misc ai 
 ---
 perfect debian wallpaper --ar 15:10
 

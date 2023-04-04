@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2022-08-10 10:51'
 title: The gravitational bending and capture of light
-tags: misc 
+tags: misc ai 
 ---
 As seen by midjourney
 

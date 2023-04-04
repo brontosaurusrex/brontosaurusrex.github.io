@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2022-04-28 07:30'
 title: Theres no 'O' in octopus
-tags: misc mine 
+tags: misc mine ai 
 ---
 Mostly GPT-NeoX 20B, with top-p set to 0.9.  
 [https://textsynth.com/playground.html](https://textsynth.com/playground.html)

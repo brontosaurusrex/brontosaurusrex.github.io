@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2022-09-22 08:26'
 title: Imagine Midjourney
-tags: misc luv 
+tags: misc luv ai
 ---
 
 [![image-nohash-th](https://i.imgur.com/dIj7QkUb.png)](https://i.imgur.com/dIj7QkU.png)

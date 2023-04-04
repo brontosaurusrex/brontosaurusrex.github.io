@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2022-10-19 16:07'
 title: Palette Ai colorizer
-tags: luv 
+tags: luv ai 
 ---
 <https://palette.fm/>  
 <https://news.ycombinator.com/item?id=33261494>  
