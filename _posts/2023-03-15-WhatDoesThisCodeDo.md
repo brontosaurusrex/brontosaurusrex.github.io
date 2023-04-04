@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2023-03-15 09:20'
 title: WhatDoesThisCodeDo
-tags: misc web 
+tags: misc web ai 
 ---
 [https://whatdoesthiscodedo.com](https://whatdoesthiscodedo.com)  
 
