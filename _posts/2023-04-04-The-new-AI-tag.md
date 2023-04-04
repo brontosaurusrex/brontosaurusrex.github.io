@@ -6,7 +6,7 @@ title: The new AI tag
 tags: mine 
 ---
 <a href="/tag/ai"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/HAL9000.svg" style="mix-blend-mode: color-dodge; width: 450px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/HAL9000.svg" style="mix-blend-mode: color-dodge; width: 350px;">
 </a>
 
 
