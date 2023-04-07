@@ -9,4 +9,6 @@ Tabby
 <https://github.com/TabbyML/tabby>  
 <https://news.ycombinator.com/item?id=35470915>
 
+![img](https://user-images.githubusercontent.com/388154/229353706-230d70e1-7d09-48e2-a884-4da768bccf6f.png)  
+
 > Self-hosted AI coding assistant. An opensource / on-prem alternative to GitHub Copilot.
