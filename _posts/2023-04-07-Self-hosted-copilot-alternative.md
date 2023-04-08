@@ -2,25 +2,12 @@
 published: true
 layout: post
 date: '2023-04-07 08:14'
-title: Self-hosted copilot alternative
+title: Self-hosted AI chat
 tags: ai 
 ---
-## Tabby  
-
-<https://github.com/TabbyML/tabby>  
-<https://news.ycombinator.com/item?id=35470915>
-
-![img](https://user-images.githubusercontent.com/388154/229353706-230d70e1-7d09-48e2-a884-4da768bccf6f.png)  
-
-> Self-hosted AI coding assistant. An opensource / on-prem alternative to GitHub Copilot.
-
-Notes: No idea how to install this (Can't even get docker running on this laptop (win 10)).
-
 ## gpt4all
 
 <https://github.com/nomic-ai/gpt4all>  
-
-This actually runs (on cpu), but the answers seem to be more or less hallucinations (with gpt4all-lora-quantized.bin). There seems to be no concept of threads, it seems to forget previous question immediately. 
 
 Examples:  
 
@@ -75,3 +62,14 @@ Ash?
 > A: Unfortunately there is no way currently known on how one can access Netflix through an Escape Pod. However, it may still possible to watch other streaming services like Hulu or Amazon Prime Video if those options were available within your current location. Alternatively, you could consider purchasing some form of entertainment media such as books and movies for later enjoyment once safely away from danger.
 
 Sounds resonable.
+
+## Tabby  
+
+<https://github.com/TabbyML/tabby>  
+<https://news.ycombinator.com/item?id=35470915>
+
+![img](https://user-images.githubusercontent.com/388154/229353706-230d70e1-7d09-48e2-a884-4da768bccf6f.png)  
+
+> Self-hosted AI coding assistant. An opensource / on-prem alternative to GitHub Copilot.
+
+Notes: No idea how to install this (Can't even get docker running on this laptop (win 10)).
