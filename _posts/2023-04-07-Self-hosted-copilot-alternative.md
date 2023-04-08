@@ -12,3 +12,5 @@ Tabby
 ![img](https://user-images.githubusercontent.com/388154/229353706-230d70e1-7d09-48e2-a884-4da768bccf6f.png)  
 
 > Self-hosted AI coding assistant. An opensource / on-prem alternative to GitHub Copilot.
+
+Notes: No idea how to install this (Can't even get docker running on this laptop (win 10)).
