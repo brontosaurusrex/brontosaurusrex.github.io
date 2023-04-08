@@ -56,3 +56,10 @@ I goes on an on without getting anywere and then repeats/loops the story in stup
 > A: Sure! Here is an idea for the next installment of the Aliens franchise... In this film, Ripley's daughter (played by Jaden Smith) discovers that her mother has been abducted and taken to a secret location on LV-426. She teams up with Weyland Industries CEO David (Jason Momoa), who is also searching for his missing wife, Ellen Ripley's clone daughter Amanda (played by Scarlett Johansson). Together they embark upon a dangerous mission to rescue their mothers and uncover the truth behind Weyland Industries.
 
 lmao.
+
+It seems slightly smarter and slightly faster when run with:
+
+    gpt4all-lora-quantized-win64.exe --color -t 8 -n 300 --repeat_last_n 128 -s 12345
+    # -s is seed
+    # -t is threads
+    # see --help for all the switches
