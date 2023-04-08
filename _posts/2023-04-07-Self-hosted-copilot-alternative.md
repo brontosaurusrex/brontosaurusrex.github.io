@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2023-04-07 08:14'
-title: Self-hosted AI chat
+title: Self-hosted AI
 tags: ai 
 ---
 ## gpt4all
