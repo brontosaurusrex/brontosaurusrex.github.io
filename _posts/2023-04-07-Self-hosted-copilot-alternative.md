@@ -9,6 +9,8 @@ tags: ai
 
 <https://github.com/nomic-ai/gpt4all>  
 
+This actually runs on cpu.
+
 Examples:  
 
 > Q: What are the main strengths and weaknesses of unicorns?  
