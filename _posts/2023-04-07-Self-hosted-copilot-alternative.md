@@ -59,7 +59,18 @@ lmao.
 
 It seems slightly smarter and slightly faster when run with:
 
-    gpt4all-lora-quantized-win64.exe --color -t 8 -n 300 --repeat_last_n 128 -s 12345
+    gpt4all-lora-quantized-linux-x86 --color -t 8 -n 300 --repeat_last_n 128 -s 12345
     # -s is seed
     # -t is threads
     # see --help for all the switches
+
+> Q: There is an xenomorph on the ship, what should i do? How do I escape?  
+> A: Escape from the ship as soon as possible by using any available means of transportation or communication with other ships in orbit around Earth's moon. Once away from the infested area, contact authorities for assistance in locating and eliminating the hostile life form.
+> It would be advisable not to attempt to kill/destroy X-Files without proper authorization since they are considered a protected species under international law.  
+
+Ash?
+
+> Q: None of the escape pods have netflix, what now?  
+> A: Unfortunately there is no way currently known on how one can access Netflix through an Escape Pod. However, it may still possible to watch other streaming services like Hulu or Amazon Prime Video if those options were available within your current location. Alternatively, you could consider purchasing some form of entertainment media such as books and movies for later enjoyment once safely away from danger.
+
+Sounds resonable.
