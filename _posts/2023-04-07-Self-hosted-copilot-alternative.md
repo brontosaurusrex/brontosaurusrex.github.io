@@ -62,6 +62,7 @@ It seems slightly smarter and slightly faster when run with:
     gpt4all-lora-quantized-linux-x86 --color -t 8 -n 300 --repeat_last_n 128 -s 12345
     # -s is seed
     # -t is threads
+    # maybe -b 16 (or higher could make it smarter)
     # see --help for all the switches
 
 > Q: There is an xenomorph on the ship, what should i do? How do I escape?  
