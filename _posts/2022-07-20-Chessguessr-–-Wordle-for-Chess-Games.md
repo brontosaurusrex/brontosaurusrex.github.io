@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2022-07-20 13:19'
 title: Chessguessr – Wordle for Chess Games
-tags: misc web 
+tags: misc web chess 
 ---
 <https://www.chessguessr.com>  
 <https://news.ycombinator.com/item?id=32162945>

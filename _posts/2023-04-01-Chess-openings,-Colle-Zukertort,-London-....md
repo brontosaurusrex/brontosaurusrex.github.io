@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2023-04-01 08:11'
 title: Chess openings, Colle Zuckertort, London, Torre ...
-tags: misc 
+tags: misc chess 
 ---
 Colle (NM Robert Ramirez)   
 <https://www.youtube.com/watch?v=HhjW_c7tgo8>  
