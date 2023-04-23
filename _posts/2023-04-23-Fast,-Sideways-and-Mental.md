@@ -14,4 +14,4 @@ About the car:
 - 345 horsepower
 - six-speed sequential transmission (Rear wheel drive?)
 
-![image of the blue car](https://otagorally.com/wp-content/uploads/2021/11/Frank-Kelly-two-wheels.jpg)
+![image of the blue car](https://i.imgur.com/IuER5Jv.jpg)
