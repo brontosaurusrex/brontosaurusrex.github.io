@@ -3,9 +3,9 @@ published: true
 layout: post
 date: '2023-05-04 18:05'
 title: Stable diffusion, tiles
-tags: 
+tags: ai 
 ---
-Computed locally, using <https://github.com/AUTOMATIC1111/stable-diffusion-webui>  
+Computed locally, using [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui).  
 [![image-nohash-th](https://i.imgur.com/w83q8Vfb.png)](https://i.imgur.com/w83q8Vf.png)
 [![image-nohash-th](https://i.imgur.com/HkDVQCXb.png)](https://i.imgur.com/HkDVQCX.png)
 [![image-nohash-th](https://i.imgur.com/AZrKJXhb.png)](https://i.imgur.com/AZrKJXh.png)
