@@ -5,7 +5,15 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date: "%_d. %_m. %Y" }}</span>
-  {{ content }}
+
+        <!-- old original include -->
+        <!-- { { content } } -->
+
+        <!-- new anchored include -->
+        <!-- https://github.com/allejo/jekyll-anchor-headings -->
+        {% include anchor_headings.html html=content anchorBody=" ↓ " anchorClass="anchors" %}
+
+        
   
     <!-- tags http://longqian.me/2017/02/09/github-jekyll-tag/ -->
 

@@ -8,7 +8,12 @@ layout: default
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
   
-  {{ content }}
+        <!-- old original include -->
+        <!-- { { content } } -->
+
+        <!-- new anchored include -->
+        <!-- https://github.com/allejo/jekyll-anchor-headings -->
+        {% include anchor_headings.html html=content anchorBody=" ↓ " anchorClass="anchors" %}
 </div>
 
 

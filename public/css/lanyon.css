@@ -719,3 +719,18 @@ input[type="submit"] {
 :root {
   color-scheme: dark;
 }
+
+/* by me to hide anchor links next to h2,h3... */
+
+a.anchors
+{
+    text-decoration: none;
+    /* color: transparent; */
+    opacity: 0;
+}
+
+a:hover.anchors
+{
+    /* color: black; */
+    opacity: 100;
+}
