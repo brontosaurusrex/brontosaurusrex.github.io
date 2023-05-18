@@ -27,4 +27,9 @@ CMX3600 example:
     003  AX       B     C        10:32:48:11 10:32:59:22 00:00:24:24 00:00:36:10 
     * FROM CLIP NAME: FILE NAME.mov
 
+Using free Auto-Editor:  
+<https://www.youtube.com/watch?v=Kvl6Y2dIDX0>  
 
+> Auto-Editor is a command line application for automatically editing video and audio by analyzing a variety of methods, most notably audio loudness.
+
+<https://github.com/WyattBlue/auto-editor>
