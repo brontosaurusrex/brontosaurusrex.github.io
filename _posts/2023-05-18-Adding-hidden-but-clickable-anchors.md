@@ -7,16 +7,19 @@ tags: web mine
 ---
 to post and page layouts.
 
-New file  
+New file
+ 
     _includes/anchor_headings.html
 
-Changed files  
+Changed files
+
 	_layouts/post.html
 	_layouts/page.html
 
 were changed from 'content' to a longer version according to the software and docs found here: <https://github.com/allejo/jekyll-anchor-headings>.
 
-and at the bottom of lanyon css we have this:  
+and at the bottom of lanyon css we have this:
+
     /* by me to hide anchor links next to h2,h3... */
 
     a.anchors
