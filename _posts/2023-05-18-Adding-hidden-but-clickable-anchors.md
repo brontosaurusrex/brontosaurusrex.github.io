@@ -35,4 +35,4 @@ and at the bottom of lanyon css we have this:
         opacity: 100;
     }
 
-To hide the links until mouse over. Consequently this is only affects separated 'posts' view and 'pages'.
+To hide the links until mouse over. Consequently this only affects separated 'posts' view and 'pages'.
