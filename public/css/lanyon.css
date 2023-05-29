@@ -32,6 +32,8 @@
 ::-moz-focus-inner {border:0;}
 
 
+
+
 /*
  * Global resets
  *
@@ -43,7 +45,6 @@ html,
 body {
     overflow-x: hidden;
     background-image: url("/public/mozillaGrain.png");
-    
     
 } 
 
