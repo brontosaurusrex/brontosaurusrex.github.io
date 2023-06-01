@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2023-06-01 14:35'
 title: Yamaha 1000cc starting up
-tags: audio 
+tags: audio luv
 ---
 <!-- main wavesurfer.js lib -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/wavesurfer.js/1.2.3/wavesurfer.min.js"></script>
