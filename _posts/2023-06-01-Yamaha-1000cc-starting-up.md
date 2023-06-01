@@ -29,7 +29,7 @@ wavesurfer.load('/audio/yamaha1000cc.opus');
 
 </script>
 
-[/audio/closeEnc.opus](/audio/yamaha1000cc.opus)
+[/audio/yamaha1000cc.opus](/audio/yamaha1000cc.opus)
 
 
 For no special reason (Zoom h4n build in stereo mic). 
