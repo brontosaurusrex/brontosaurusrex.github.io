@@ -224,3 +224,7 @@ Next book in series is ['Eclipse the moon'](https://www.jessiemihalik.com).
 ## Project Hail Mary (Andy Weir - 2021)
 
 > Thinking rationally, you can't make spaceships without a civilization and you can't have civilization without being able to communicate. So of course they have language. It's interesting that communication is done with sound, like humans do. Coincidence? Maybe not. Maybe that's just the easiest way to evolve that trait. 
+
+## Let's Eat Grandma's Pills (David Thorne - 2022)
+
+> “Okay, but are you 800% pleased?” 
