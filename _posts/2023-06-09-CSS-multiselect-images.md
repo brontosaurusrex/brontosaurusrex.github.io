@@ -41,6 +41,6 @@ css:
 JS version:  
 <https://jsfiddle.net/9jdgyqvc/>
 
-^ Should make html part less verbose, recommended.
+^ Should make html part less verbose, recommended. The ul/li stuff may not be needed (img tag should be enough).
 
 Thanks to #css/libera, user hmw[at].
