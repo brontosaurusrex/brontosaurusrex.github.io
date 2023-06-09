@@ -43,4 +43,7 @@ JS version:
 
 ^ Should make html part less verbose, recommended. The ul/li stuff may not be needed (img tag should be enough).
 
+JS version 2 (lazy):
+<https://jsfiddle.net/9jdgyqvc/2/>
+
 Thanks to #css/libera, user hmw[at].
