@@ -9,34 +9,34 @@ tags: web
 
 html: 
 
-  <ul class="selectables">
-    <label>
-      <input type="checkbox">
-      <img src="//dummyimage.com/100x100">
-    </label>
-    <label>
-      <input type="checkbox">
-      <img src="//dummyimage.com/100x100">
-    </label>
-    <label>
-      <input type="checkbox">
-      <img src="//dummyimage.com/100x100">
-    </label>
-  </ul>
+    <ul class="selectables">
+      <label>
+        <input type="checkbox">
+        <img src="//dummyimage.com/100x100">
+      </label>
+      <label>
+        <input type="checkbox">
+        <img src="//dummyimage.com/100x100">
+      </label>
+      <label>
+        <input type="checkbox">
+        <img src="//dummyimage.com/100x100">
+      </label>
+    </ul>
 
 css:
 
-  ul.selectables li {
-    display:inline-block;
-  }
+    ul.selectables li {
+      display:inline-block;
+    }
 
-  ul.selectables input {
-    display:none;
-  }
+    ul.selectables input {
+      display:none;
+    }
 
-  ul.selectables input:checked + img {
-    outline:solid 2px red;
-  }
+    ul.selectables input:checked + img {
+      outline:solid 2px red;
+    }
 
 JS version:  
 <https://jsfiddle.net/9jdgyqvc/>
