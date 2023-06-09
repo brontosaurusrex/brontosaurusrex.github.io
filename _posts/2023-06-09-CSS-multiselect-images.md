@@ -41,4 +41,6 @@ css:
 JS version:  
 <https://jsfiddle.net/9jdgyqvc/>
 
+^ Should make html part less verbose, recommended.
+
 Thanks to #css/libera, user hmw[at].
