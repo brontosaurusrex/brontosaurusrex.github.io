@@ -5,6 +5,8 @@ date: '2023-06-12 04:45'
 title: HP Omen, stupid way to wsl2 and gui apps
 tags: 
 ---
+After trying to install Ubuntu as wsl2 in win10 home edition and got 'Error 0x80370102':
+
 1. In bios make sure virtualization is enabled (f10 at boot)
 1. win10, 'windows features', enable stuff like 'virtual machine platform' and 'windows hypervisor platform'
 1. make sure wsl version default is set to 2.
