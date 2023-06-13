@@ -46,4 +46,4 @@ JS version:
 JS version 2 (lazy):
 <https://jsfiddle.net/9jdgyqvc/2/>
 
-Thanks to #css/libera, user hmw[at].
+Thanks to #css/libera irc.
