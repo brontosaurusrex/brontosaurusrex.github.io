@@ -96,3 +96,8 @@ So it turns out that fzf already comes with some sort of 'cdf'.
     bindkey -s '^[l' 'launch\n' # alt+l
 
 Magic symbols were found by running 'showkey -a', part of kdb package.
+
+## Links
+
+<https://thevaluable.dev/fzf-shell-integration/>
+
