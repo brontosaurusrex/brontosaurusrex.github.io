@@ -19,3 +19,9 @@ tags: video
 
 > Expand or shrink the view, show entire timeline (toggle).
 
+There are two kinda unfortunatelly named: 'Trim Next Edit to Playhead' and 'Trim Previous Edit to Playhead', which I had remapped to:
+
+    F2 and F3
+
+This will trim active clip to playhead position (removing before or removing after). Note: This will also trim everything on all active tracks.
+
