@@ -62,7 +62,7 @@ published: true
 
 ## "Surely You're Joking, Mr. Feynman!"
 
-Anekdotes, but the main idea is 'how to think about things'.
+Anecdotes, but the main idea is 'how to think about things'.
 
 > It's nice that I got some money ­­ I was able to buy a beach house ­­ but altogether, I think it would have been much nicer not to have had the Prize ­­ because you never, any longer, can be taken straightforwardly in any public situation.
 
@@ -228,6 +228,8 @@ Next book in series is ['Eclipse the moon'](https://www.jessiemihalik.com).
 ## Let's Eat Grandma's Pills (David Thorne - 2022)
 
 > “Okay, but are you 800% pleased?” 
+
+This feeling that good comedy is actually uncovering who we are, either intentionally or by accident. Or as chatCGP would say: "This profound sentiment that exceptional comedy has the innate ability to reveal our true selves, whether by deliberate design or fortuitous happenstance."
 
 ## Fractal Noise (Christopher Paolini - 2023)
 
