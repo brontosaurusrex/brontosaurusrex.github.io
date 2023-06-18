@@ -228,3 +228,9 @@ Next book in series is ['Eclipse the moon'](https://www.jessiemihalik.com).
 ## Let's Eat Grandma's Pills (David Thorne - 2022)
 
 > “Okay, but are you 800% pleased?” 
+
+## Fractal Noise (Christopher Paolini - 2023)
+
+> A hole. A circular hole.
+
+Way to slow for my taste.
