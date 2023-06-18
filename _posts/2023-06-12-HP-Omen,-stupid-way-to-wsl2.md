@@ -11,7 +11,7 @@ After trying to install Ubuntu as wsl2 in win10 home edition and got 'Error 0x80
 1. win10, 'windows features', enable stuff like 'virtual machine platform' and 'windows hypervisor platform'
 1. make sure wsl version default is set to 2.
 1. if on windows home use this workaround to install hyper-v stuff <https://www.wintips.org/how-to-enable-hyper-v-on-windows-10-11-home/>, a bat file run as root.
-1. again 'windows features' and the new hyper-v should be there, but make sure to DISABLE it, otherwise expect bsod.
+1. again 'windows features' and the new hyper-v should be there, but make sure to DISABLE it, otherwise expect BSOD.
 1. powershell, install and lauch new vm: wsl --install -d Ubuntu-22.04
 1. inside Ubuntu install some gui app, like geany
 1. launch geany

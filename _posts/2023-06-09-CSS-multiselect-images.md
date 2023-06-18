@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2023-06-09 13:34'
-title: CSS multiselect images
+title: CSS multi-select images
 tags: web 
 ---
 <https://jsfiddle.net/qpbsfz6o/>
