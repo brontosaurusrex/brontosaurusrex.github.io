@@ -7,7 +7,7 @@ tags: video mine
 ---
 Get the waveform image at dual HD resolution for example
 
-	ffmpeg -i "music.m4a" -lavfi showwavespic=s=3840x2160:colors=FFD700 waveformbig.png 
+	ffmpeg -i "music.m4a" -filter_complex "aformat=channel_layouts=mono,showwavespic=s=3840x2160:colors=999999" -frames:v 1 waveformbig.png
 
 scale down
 
