@@ -35,3 +35,5 @@ Last
 	ffmpeg -i tmp.mp4 -i overlay.png -filter_complex "[0:v][1:v]overlay=x='if(gte(t,0), -w+(t)*(main_w-overlay_w)/$duration, NAN)':y='(main_h-overlay_h)/2'" -c:a copy final.mp4
 
 scrot: <https://i.imgur.com/YtrqzeH.png>
+
+Note: This can be a lot shorter and could make an interesting script.
