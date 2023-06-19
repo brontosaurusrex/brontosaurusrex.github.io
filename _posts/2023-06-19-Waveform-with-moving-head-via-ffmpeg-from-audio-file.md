@@ -36,4 +36,4 @@ Last
 
 scrot: <https://i.imgur.com/YtrqzeH.png>
 
-Note: This can be a lot shorter and could make an interesting script.
+Notes: This can be a lot shorter and could make an interesting script. It appears as if head is not completely in sync with audio.
