@@ -21,6 +21,8 @@ get the composed image to be the same leght as audio
 
 	ffmpeg -loop 1 -i comp.png -i music.m4a -acodec copy -shortest tmp.mp4
 
+edit: shortest may not be the correct way to handle this (Perhaps get duration in one step and then use '-to duration' in next step) 
+
 get the duration into variable
 
 	duration="$(ffprobe -i tmp.mp4 -show_entries format=duration -v quiet -of csv="p=0")"
