@@ -38,4 +38,4 @@ scrot: <https://i.imgur.com/YtrqzeH.png>
 
 Notes: This can be a lot shorter and could make an interesting script. It appears as if head is not completely in sync with audio.
 
-FIXME
+FIXME: 1. audio not exactly in sync with head, 2. use modern ffmpeg syntax.
