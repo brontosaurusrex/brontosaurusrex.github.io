@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-date: '2022-10-10 09:55'
-title: Helix, A Neovim inspired editor, written in Rust
+date: '2023-06-22 09:55'
+title: Helix, A Neovim inspired editor, written in Rust (update)
 tags: linux cli 
 ---
 <https://helix-editor.com/>  
@@ -43,3 +43,6 @@ The logic is select > action
 ### There is no soft-wrap
 
     :(
+
+EDIT: 22. jun 2023: We have a softwrap now:  
+<https://helix-editor.com/news/release-23-03-highlights/>
