@@ -5,6 +5,8 @@ date: '2023-06-19 11:29'
 title: Waveform with moving head via ffmpeg from audio file
 tags: video mine 
 ---
+Triggered by this thread: <https://hydrogenaud.io/index.php/topic,124316>.
+
 Get the waveform image at dual HD resolution for example
 
 	ffmpeg -i "music.m4a" -filter_complex "aformat=channel_layouts=mono,showwavespic=s=3840x2160:colors=999999" -frames:v 1 waveformbig.png
