@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2023-06-19 11:29'
+date: '2023-06-25 11:29'
 title: Waveform with moving head via ffmpeg from audio file
 tags: video mine 
 ---
