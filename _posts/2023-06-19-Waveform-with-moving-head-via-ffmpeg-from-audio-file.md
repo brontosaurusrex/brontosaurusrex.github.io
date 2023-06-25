@@ -7,6 +7,8 @@ tags: video mine
 ---
 Triggered by this thread: <https://hydrogenaud.io/index.php/topic,124316>.
 
+## Main
+
 Get the waveform image at dual HD resolution for example
 
 	ffmpeg -i "music.m4a" -filter_complex "aformat=channel_layouts=mono,showwavespic=s=3840x2160:colors=999999" -frames:v 1 waveformbig.png
@@ -41,6 +43,8 @@ scrot: <https://i.imgur.com/YtrqzeH.png>
 Notes: This can be a lot shorter and could make an interesting script. It appears as if head is not completely in sync with audio.
 
 FIXME: 1. audio not exactly in sync with head, 2. use modern ffmpeg syntax.
+
+## Misc
 
 Overlay some text with font  
 <https://fonts.google.com/specimen/Lacquer?query=Lacquer>
