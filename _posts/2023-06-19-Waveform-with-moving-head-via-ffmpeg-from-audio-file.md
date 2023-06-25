@@ -56,3 +56,14 @@ Overlay some text with font
 gives
 
 [![text-fs8.png-rBxuwNSwYn9geeG-md](https://i.imgur.com/TYpFHYTl.png)](https://i.imgur.com/TYpFHYT.png)
+
+or for multiline text
+
+	# replace
+	text='Penguins - glade to glory'
+	# with
+	textfile=text.txt
+
+Possibly good tmp storage for font.ttf would be
+
+	"$HOME/.cache/audio2videoWaveform/font.ttf"
