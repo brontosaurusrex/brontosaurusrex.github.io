@@ -41,3 +41,14 @@ scrot: <https://i.imgur.com/YtrqzeH.png>
 Notes: This can be a lot shorter and could make an interesting script. It appears as if head is not completely in sync with audio.
 
 FIXME: 1. audio not exactly in sync with head, 2. use modern ffmpeg syntax.
+
+Overlay some text with font  
+<https://fonts.google.com/specimen/Lacquer?query=Lacquer>
+
+	wget https://github.com/Lacquer-Font/Lacquer/blob/master/fonts/ttf/Lacquer-Regular.ttf\?raw\=true -O font.ttf
+
+	ffmpeg -i penguins.png -filter_complex "[0:v]scale=w=1920:h=1080,drawtext=text='Penguins - glade to glory':fontsize=45:fontfile=font.ttf:x=50:y=50:fontcolor=black:box=1:boxcolor=white@0.5[text]" -map "[text]" -c:v png -y text.png
+
+gives
+
+[![text-fs8.png-rBxuwNSwYn9geeG-md](https://i.imgur.com/TYpFHYTl.png)](https://i.imgur.com/TYpFHYT.png)
