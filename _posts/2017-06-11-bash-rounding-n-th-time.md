@@ -11,8 +11,8 @@ This bash function
 
     # awk_round
 
-    awk_round () {
-        awk 'BEGIN{printf "%."'$1'"f\n", "'$2'"}'
+    round () { 
+        awk 'BEGIN{printf "%."'"$1"'"f\n", "'"$2"'"}'
     }
 
     awk_round "$1" "$2"

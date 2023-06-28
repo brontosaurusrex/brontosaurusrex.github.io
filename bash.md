@@ -137,8 +137,8 @@ Such grep sequence will behave as logical AND, there are other shorter ways.
 
     # awk_round
 
-    awk_round () {
-        awk 'BEGIN{printf "%."'$1'"f\n", "'$2'"}'
+    round () { 
+        awk 'BEGIN{printf "%."'"$1"'"f\n", "'"$2"'"}'
     }
 
     awk_round "$1" "$2"
