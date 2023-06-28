@@ -67,3 +67,10 @@ or for multiline text
 Possibly good tmp storage for font.ttf would be
 
 	"$HOME/.cache/audio2videoWaveform/font.ttf"
+
+## Preliminary script
+
+<https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/audio2videoWaveformNG>
+
+Kinda working, but the results are not that pretty. Will make fat tmp files (gigabytes).  
+<https://i.imgur.com/68PunQQ.png>
