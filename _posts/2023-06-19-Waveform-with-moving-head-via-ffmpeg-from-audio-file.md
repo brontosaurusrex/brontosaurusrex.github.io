@@ -40,7 +40,7 @@ Last
 
 scrot: <https://i.imgur.com/YtrqzeH.png>
 
-Notes: This can be a lot shorter and could make an interesting script. It appears as if head is not completely in sync with audio. The final container format may be MATROŠKA (mkv), since it suports wide variety of audio codecs (AAC, FLAC, mp3...), so audio transcoding may be omitted.
+Notes: This can be a lot shorter and could make an interesting script. It appears as if head is not completely in sync with audio. The final container format may be MATROŠKA (mkv), since it supports wide variety of audio codecs (AAC, FLAC, mp3...), so audio transcoding may be omitted.
 
 FIXME: 1. audio not exactly in sync with head, 2. use modern ffmpeg syntax.
 
