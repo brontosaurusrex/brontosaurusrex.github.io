@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2023-06-25 11:29'
+date: '2023-06-28 11:29'
 title: Waveform with moving head via ffmpeg from audio file
 tags: video mine 
 ---
@@ -70,7 +70,8 @@ Possibly good tmp storage for font.ttf would be
 
 ## Preliminary script
 
+This takes the ideas ^, but it's a different beast:
+
 <https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/audio2videoWaveformNG>
 
-Kinda working, but the results are not that pretty (due to bad alpha, merging images first with something that supports overlay,screen,multiply modes would fix that (image magicks)). Will make fat tmp files (gigabytes). Consider 21:9 - 1920x804 is something that youtube is happy about (to test).  
-<https://i.imgur.com/68PunQQ.png>
+Gives: <https://youtu.be/iMeYtMcmjug>
