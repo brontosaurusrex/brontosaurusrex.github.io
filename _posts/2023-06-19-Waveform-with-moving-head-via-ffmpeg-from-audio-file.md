@@ -74,3 +74,9 @@ Possibly good tmp storage for font.ttf would be
 
 Kinda working, but the results are not that pretty (due to bad alpha, merging images first with something that supports overlay,screen,multiply modes would fix that (image magicks)). Will make fat tmp files (gigabytes). Consider 21:9 - 1920x804 is something that youtube is happy about (to test).  
 <https://i.imgur.com/68PunQQ.png>
+
+With this font  
+<https://fonts.google.com/specimen/Agdasima?query=agda>  
+gives:  
+<https://youtu.be/-PRiJsJKx8U>  
+<https://youtu.be/X738_PfQS8M>
