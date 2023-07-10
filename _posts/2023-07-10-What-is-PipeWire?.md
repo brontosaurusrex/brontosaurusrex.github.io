@@ -9,3 +9,6 @@ PipeWire is replacement for pulseaudio, while also providing compatibility layer
 
 	qpwgraph
 	pw-top
+
+<https://wiki.archlinux.org/title/PipeWire>  
+<https://github.com/wwmm/easyeffects>
