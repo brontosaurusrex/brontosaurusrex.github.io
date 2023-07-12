@@ -1,0 +1,22 @@
+---
+published: true
+layout: post
+date: '2023-07-12 08:59'
+title: Minecraft world generation
+tags: misc luv 
+---
+<https://www.youtube.com/watch?v=ob3VwY4JyzE>
+
+__Multioctave perlin noise__  
+\+
+multiple spline controlled height maps:
+- continentalnes
+- erosion
+- peaks & valleys
+
+\+
+3d noise
+\+
+caves
+\+ 
+biomes (2d tables for surface, some sort of 3d for caves)
