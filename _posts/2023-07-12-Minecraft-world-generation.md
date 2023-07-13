@@ -20,3 +20,6 @@ multiple spline controlled height maps:
 caves
 \+ 
 biomes (2d tables for surface, some sort of 3d for caves)
+
+tools:  
+<https://github.com/Auburn/FastNoise2>
