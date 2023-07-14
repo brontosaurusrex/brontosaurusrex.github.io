@@ -23,3 +23,6 @@ biomes (2d tables for surface, some sort of 3d for caves)
 
 tools:  
 <https://github.com/Auburn/FastNoise2>
+
+Something funny with blender:  
+<https://i.imgur.com/gezZYFS.png>
