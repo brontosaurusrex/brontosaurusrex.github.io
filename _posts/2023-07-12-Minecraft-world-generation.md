@@ -25,4 +25,7 @@ tools:
 <https://github.com/Auburn/FastNoise2>
 
 Something funny with blender:  
-<https://i.imgur.com/gezZYFS.png>
+<https://i.imgur.com/gezZYFS.png>  
+
+Anim experiment that looks like something from very first startrek pilot:  
+<iframe width="100%" height="500" style="mix-blend-mode: screen;" src="https://www.youtube.com/embed/csDtyytLWSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
