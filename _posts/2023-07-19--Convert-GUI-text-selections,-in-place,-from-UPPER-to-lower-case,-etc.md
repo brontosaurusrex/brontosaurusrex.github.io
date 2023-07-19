@@ -20,7 +20,7 @@ How about plain bash 4 (no awk, sed):
     clip="${string^^}"; echo "upper: $clip"
 
     # capital 1st letter
-    IFS=" " read -r -a array <<< "$string"; cliparr=( "${array[@]^*}" ); echo "capital: ${cliparr[*]}"
+    string="${string,,}"; IFS=" " read -r -a array <<< "$string"; cliparr=( "${array[@]^*}" ); echo "capital: ${cliparr[*]}"
 
 Full script for key binding that should work with x apps:
 <https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/upperLower>
