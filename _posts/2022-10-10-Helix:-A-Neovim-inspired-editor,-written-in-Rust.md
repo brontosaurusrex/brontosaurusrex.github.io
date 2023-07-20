@@ -46,3 +46,6 @@ The logic is select > action
 
 EDIT: 22. jun 2023: We have a softwrap now:  
 <https://helix-editor.com/news/release-23-03-highlights/>
+
+Fresh build in Debian 12:  
+[![image-nohash-md](https://i.imgur.com/9l4oJjxl.png)](https://i.imgur.com/9l4oJjx.png)
