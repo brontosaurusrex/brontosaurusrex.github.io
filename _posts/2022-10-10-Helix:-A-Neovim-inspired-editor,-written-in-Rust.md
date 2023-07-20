@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2023-06-22 09:55'
+date: '2023-07-20 09:55'
 title: Helix, A Neovim inspired editor, written in Rust (update)
 tags: linux cli 
 ---
@@ -49,3 +49,12 @@ EDIT: 22. jun 2023: We have a softwrap now:
 
 Fresh build in Debian 12:  
 [![image-nohash-md](https://i.imgur.com/9l4oJjxl.png)](https://i.imgur.com/9l4oJjx.png)
+
+### config.toml
+
+.config/helix/config.toml
+
+    theme = "rose_pine_moon"
+    [editor]
+    true-color = true
+
