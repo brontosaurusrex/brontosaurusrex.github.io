@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2023-07-19 07:43'
+date: '2023-07-20 12:43'
 title:  Convert GUI text selections, in place, from UPPER to lower case, etc
 tags: bash linux 
 ---
@@ -21,7 +21,9 @@ How about plain bash 4 (no awk, sed):
 
     # capital 1st letter
     string="${string,,}"; IFS=" " read -r -a array <<< "$string"; cliparr=( "${array[@]^*}" ); echo "capital: ${cliparr[*]}"
+    # ^ doesn't support multiline, see ˇ the new script that uses awk instead
 
-Full script for key binding that should work with x apps:
-<https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/upperLower>
+
+Full script for key bindings:
+<https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/upperLower2>
 
