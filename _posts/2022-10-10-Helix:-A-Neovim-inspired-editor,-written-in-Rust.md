@@ -58,3 +58,4 @@ Fresh build in Debian 12:
     [editor]
     true-color = true
 
+^ with urxvt in mind.
