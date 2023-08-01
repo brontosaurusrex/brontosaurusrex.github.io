@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2023-08-01 12:04'
+date: '2023-08-01 10:04'
 title: Dune 2 in browser and in dosbox
 tags: misc
 ---
