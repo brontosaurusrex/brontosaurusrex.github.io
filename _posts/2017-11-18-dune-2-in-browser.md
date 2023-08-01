@@ -29,6 +29,18 @@ and alt+enter to enter fullscreen, alt+tab to get back to the system.
 
 scrot: <https://i.imgur.com/jLRSPea.png>
 
+Example total commander laucher:
+
+	Command: %COMMANDER_PATH%\..\util\dosbox\app\DOSBox\DOSBox.exe
+	Parameter: -c "mount d ." -c "d:" -c "dune2"
+	Start Path: %COMMANDER_PATH%\..\util\dune2\
+	Icon file: whatever
+	Tooltip: dune2 dosbox
+
+Or a bat file launcher:
+
+	dosbox -c "mount d c:\dl\Downloads\dune2" -c "d:" -c "dune2"
+
 ## misc
 
 [https://lutris.net/games/dune-2000/](https://lutris.net/games/dune-2000/)
