@@ -73,3 +73,6 @@ And prores to gif (there should be a way to force 2 colors only?)
     "fps=12,paletteuse=dither=none" gol40.gif
 
 [rasterizeGameOfLifeTxt is a png generator script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/rasterizeGameOfLifeTxt).
+
+Cool links:  
+<https://oimo.io/works/life/> (remember to zoom in, zoom out)
