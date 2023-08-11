@@ -25,6 +25,9 @@ Notes:
     
 Make sure the 'correct' nerd font is installed, in my case 'JetBrainsMonoNL Nerd Font' seems to show all the icons.
 
+Problems:  
+When yy it will complain that no clipboard provider is set, opening lua/core/init.lua and typing :so (source current) fixes the problem for the current session. No idea how to debug.
+
 scrot:  
 [![image-nohash-th](https://i.imgur.com/K0MG21el.png)](https://i.imgur.com/K0MG21e.png)
 
