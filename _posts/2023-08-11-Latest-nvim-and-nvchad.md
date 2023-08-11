@@ -24,3 +24,5 @@ Notes:
     space + ch = cheetshit
     
 Make sure the 'correct' nerd font is installed, in my case 'JetBrainsMonoNL Nerd Font' seems to show all the icons.
+
+Excellent nvchad overview video: <https://www.youtube.com/watch?v=Mtgo-nP_r8Y>
