@@ -25,4 +25,7 @@ Notes:
     
 Make sure the 'correct' nerd font is installed, in my case 'JetBrainsMonoNL Nerd Font' seems to show all the icons.
 
+scrot:  
+[![image-nohash-th](https://i.imgur.com/K0MG21el.png)](https://i.imgur.com/K0MG21e.png)
+
 Excellent nvchad overview video: <https://www.youtube.com/watch?v=Mtgo-nP_r8Y>
