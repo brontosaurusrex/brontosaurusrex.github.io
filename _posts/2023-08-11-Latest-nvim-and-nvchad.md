@@ -18,4 +18,9 @@ Write a lil script, named 'neo' or something
 
 See: <https://nvchad.com/docs/quickstart/install>
 
-Notes: space + th to change theme
+Notes: 
+
+    space + th = change theme
+    space + ch = cheetshit
+    
+Make sure the 'correct' nerd font is installed, in my case 'JetBrainsMonoNL Nerd Font' seems to show all the icons.
