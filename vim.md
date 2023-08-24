@@ -3,6 +3,7 @@ layout: page
 title: vim learning notes
 published: true
 ---
+Last update: 24. 8. 2023
 
 ## .vimrc quicky
 
