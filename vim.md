@@ -23,10 +23,6 @@ Debian/openbox/urxvt/vim8
 
 Possibly worth checking gvim for some ideas and to see what is terminal to blame for and what is vim's fault. This is a huge showstopper.
 
-## spellcheck 
-
-soon.
-
 ## tabs
 [http://vim.wikia.com/wiki/Using_tab_pages](http://vim.wikia.com/wiki/Using_tab_pages)  
 
@@ -105,6 +101,12 @@ make each buffer appear in tab
     U < selected text to UPPERCASE                                           
     u < selected text to lowercase                                     
     :retab < convert tabs to spaces 
+
+## autocomplete
+
+In insert mode start typing something and then
+
+    ctrl+n
 
 ## Indent
 
