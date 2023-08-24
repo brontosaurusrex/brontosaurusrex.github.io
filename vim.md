@@ -7,7 +7,7 @@ Last update: 24. 8. 2023
 
 ## .vimrc quicky
 
-[postbang/blob/master/.vimrc](https://github.com/brontosaurusrex/postbang/blob/master/.vimrc)
+[~/.vimrc](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.vimrc)
 
 ## copy/paste
 
