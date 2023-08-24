@@ -149,6 +149,12 @@ In visual mode, select lines and >>
 
 [https://brigade.engineering/sharpen-your-vim-with-snippets-767b693886db](https://brigade.engineering/sharpen-your-vim-with-snippets-767b693886db)
 
+## not a snippet
+
+Just insert head part of say previous file that will now act as a template
+
+    :r !head previous_file
+
 ## to shell and back again
 
     ctrl+z, fg < will push vim to bg, fg in shell will bring it back
