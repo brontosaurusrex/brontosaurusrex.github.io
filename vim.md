@@ -3,7 +3,22 @@ layout: page
 title: vim learning notes
 published: true
 ---
-Last update: 24. 8. 2023
+Last update: 25. 8. 2023
+
+## help
+
+Show help in top window or left window
+
+    help leader
+    vert help leader
+
+change window focus
+
+    ctrl+ww
+
+change ordering
+
+    ctrl+wr
 
 ## .vimrc quicky
 
