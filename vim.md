@@ -37,8 +37,6 @@ Debian/openbox/urxvt/vim8
     "+y20 < copy this and 20 lines below
     :help "+ < actually finds clipboard related help
 
-Possibly worth checking gvim for some ideas and to see what is terminal to blame for and what is vim's fault. This is a huge showstopper.
-
 ## tabs
 [http://vim.wikia.com/wiki/Using_tab_pages](http://vim.wikia.com/wiki/Using_tab_pages)  
 
