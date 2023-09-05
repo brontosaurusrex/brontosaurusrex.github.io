@@ -26,6 +26,7 @@ My button would be:
 
 	Command: cm_SetAttrib
 	Icon file: %COMMANDER_PATH%\..\ico\papirus\commix.ico
+    tooltip: change comments
 
 Comments are stored in hidden text file named 'descript.ion' and will persist when file is copied (with total commander i guess). Hotkey for editing single file is CTRL+Z.
 
@@ -36,7 +37,7 @@ Comments are stored in hidden text file named 'descript.ion' and will persist wh
 a button like:
 
 	Command: OPENATTRIBUTES=ok
-	Icon file: dunno
+	Icon file: %COMMANDER_PATH%\..\ico\actions\checkbox.ico
 	tooltip: set comment to <<<
 
 assuming there is 'files/change attributes' setting saved with name 'ok'.
