@@ -5,6 +5,8 @@ date: '2023-09-05 08:35'
 title: Total commander - Add/Change comments for multiple files
 tags: misc 
 ---
+## multiclick way, set to anything
+
 <https://www.ghisler.ch/board/viewtopic.php?t=30708>
 
 > 1. create button with cm_SetAttrib command
@@ -26,6 +28,18 @@ My button would be:
 	Icon file: %COMMANDER_PATH%\..\ico\papirus\commix.ico
 
 Comments are stored in hidden text file named 'descript.ion' and will persist when file is copied (with total commander i guess). Hotkey for editing single file is CTRL+Z.
+
+## singleclick way, set to something predefined
+
+<https://www.ghisler.ch/board/viewtopic.php?t=80031>
+
+a button like:
+
+	Command: OPENATTRIBUTES=ok
+	Icon file: dunno
+	tooltip: set comment to <<<
+
+assuming there is 'files/change attributes' setting saved with name 'ok'.
 
 ---
 This is what chatGPT has to say about descript.ion:
