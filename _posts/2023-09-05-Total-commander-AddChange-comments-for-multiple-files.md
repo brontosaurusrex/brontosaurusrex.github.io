@@ -25,8 +25,9 @@ My button would be:
 	Command: cm_SetAttrib
 	Icon file: %COMMANDER_PATH%\..\ico\papirus\commix.ico
 
-Comments are stored in hidden text file named 'descript.ion' and will persist when file is copied (with total commander i guess).
+Comments are stored in hidden text file named 'descript.ion' and will persist when file is copied (with total commander i guess). Hot key for editing single file is CTRL+Z.
 
+---
 This is what chatGPT has to say about descript.ion:
 
 A "descript.ion" file is typically a plain text file used to store descriptions or metadata for files in a specific directory or folder. These description files were commonly used in older operating systems like MS-DOS and some early versions of Windows, such as Windows 3.x and Windows 95. The purpose of these files was to provide additional information about the files in a directory, such as a brief description, author, or any other relevant details.
