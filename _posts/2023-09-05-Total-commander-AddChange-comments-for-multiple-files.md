@@ -25,7 +25,7 @@ My button would be:
 	Command: cm_SetAttrib
 	Icon file: %COMMANDER_PATH%\..\ico\papirus\commix.ico
 
-Comments are stored in hidden text file named 'descript.ion' and will persist when file is copied (with total commander i guess). Hot key for editing single file is CTRL+Z.
+Comments are stored in hidden text file named 'descript.ion' and will persist when file is copied (with total commander i guess). Hotkey for editing single file is CTRL+Z.
 
 ---
 This is what chatGPT has to say about descript.ion:
