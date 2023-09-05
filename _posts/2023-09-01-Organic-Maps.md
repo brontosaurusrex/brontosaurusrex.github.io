@@ -10,4 +10,4 @@ tags: misc luv
 <https://organicmaps.app/>  
 <https://news.ycombinator.com/item?id=37347447>
 
-![praga](https://organicmaps.app/images/screenshots/prague.jpg)
+<img src="https://organicmaps.app/images/screenshots/prague.jpg" style="max-width: 640px;">
