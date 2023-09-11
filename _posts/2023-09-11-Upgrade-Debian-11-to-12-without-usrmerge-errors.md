@@ -12,7 +12,7 @@ In 11:
 	cd
 	ls -l / > state1.txt
 
-Install 'usrmerge' in 11. As soon as it is installed it will run any warn that this is one way only process (can't be reversed automagically).
+Install 'usrmerge' in 11. As soon as it is installed it will run and warn that this is one way only process (can't be reversed automagically).
 
 	apt install usrmerge
 	# and say yes
@@ -46,8 +46,10 @@ For my WSL1 needs it may look like:
 
 then
 
-	sudo apt update && sudo apt dist-upgrade
+	sudo apt update && sudo apt dist-upgrade -y
 
-This will take forever.
+few months later, cleanup
 
-To be continued, maybe.
+    sudo apt autoremove && sudo apt autoclean
+
+
