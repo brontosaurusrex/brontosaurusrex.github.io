@@ -30,7 +30,7 @@ should return bunch of symlinks now
 	libx32 -> usr/libx32
 	sbin -> usr/sbin
 
-Now upgrejd:
+Now upgrayedd:
 
 Probably delete anything in /etc/apt/sources.list
 
