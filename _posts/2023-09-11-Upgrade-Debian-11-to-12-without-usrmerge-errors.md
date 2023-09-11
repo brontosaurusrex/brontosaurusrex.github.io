@@ -7,6 +7,8 @@ tags: linux cli
 ---
 Following notes are for my WSL1/Debian install, but they may apply broadly.
 
+Recommendation: 1st [clone the 11](/2023/09/11/How-would-you-go-about-cloning-a-WSL-distro/) and then upgrade the clone.
+
 In 11:
 
 	cd
@@ -52,4 +54,9 @@ few months later, cleanup
 
     sudo apt autoremove && sudo apt autoclean
 
+optionally add something like 
 
+	# info
+	cat /etc/*-release | grep PRETTY | cut --delimiter="\"" -f2 | lolcat
+
+to .zshrc or .bashrc.
