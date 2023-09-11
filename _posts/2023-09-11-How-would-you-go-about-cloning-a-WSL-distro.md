@@ -27,3 +27,7 @@ with
 
 	[user]
 	default=username
+
+restart wsl
+
+    wsl --shutdown
