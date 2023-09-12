@@ -60,3 +60,8 @@ optionally add something like
 	cat /etc/*-release | grep PRETTY | cut --delimiter="\"" -f2 | lolcat
 
 to .zshrc or .bashrc.
+
+## Notes
+
+If WSL1 to WSL1 is needed, the workaround could be to block usrmerge before update  
+<https://askubuntu.com/questions/1358789/is-it-possible-to-prevent-usrmerge-package-installation-on-systems-upgraded-from>
