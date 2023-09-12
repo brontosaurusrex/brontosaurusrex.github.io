@@ -5,9 +5,9 @@ date: '2023-09-11 21:08'
 title: Upgrade Debian 11 (bullseye) to 12 (bookworm) without usrmerge errors
 tags: linux cli 
 ---
-Following notes are for my WSL1/Debian install, but they may apply broadly.
+Following notes are for my 'WSL1/Debian cloned to WSL2/Debian' install.
 
-Recommendation: 1st [clone the 11](/2023/09/11/How-would-you-go-about-cloning-a-WSL-distro/) and then upgrade the clone.
+Recommendation: 1st [clone the 11](/2023/09/11/How-would-you-go-about-cloning-a-WSL-distro/) and then upgrade the clone. Make sure the clone is WSL version 2 (otherwise expect problems with usrmerge).
 
 In 11:
 
@@ -38,7 +38,7 @@ Probably delete anything in /etc/apt/sources.list
 
 	sudo vi /etc/apt/sources.list
 
-For my WSL1 needs it may look like:
+For my WSL2 needs it may look like:
 	
 	deb https://deb.debian.org/debian/ bookworm main
 	deb https://deb.debian.org/debian/ bookworm-updates main
