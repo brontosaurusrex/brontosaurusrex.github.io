@@ -5,6 +5,8 @@ date: '2023-09-11 21:08'
 title: Upgrade Debian 11 (bullseye) to 12 (bookworm) without usrmerge errors
 tags: linux cli 
 ---
+## WSL1 -> WSL2
+
 Following notes are for my 'WSL1/Debian cloned to WSL2/Debian' install.
 
 Recommendation: 1st [clone the 11](/2023/09/11/How-would-you-go-about-cloning-a-WSL-distro/) and then upgrade the clone. Make sure the clone is WSL version 2 (otherwise expect problems with usrmerge).
@@ -61,7 +63,7 @@ optionally add something like
 
 to .zshrc or .bashrc.
 
-## Notes
+## WSL1 -> WSL1 ?
 
 If WSL1 to WSL1 is needed, the workaround could be to block usrmerge before update  
 <https://askubuntu.com/questions/1358789/is-it-possible-to-prevent-usrmerge-package-installation-on-systems-upgraded-from>
