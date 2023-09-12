@@ -67,3 +67,17 @@ to .zshrc or .bashrc.
 
 If WSL1 to WSL1 is needed, the workaround could be to block usrmerge before update  
 <https://askubuntu.com/questions/1358789/is-it-possible-to-prevent-usrmerge-package-installation-on-systems-upgraded-from>
+
+Two files in /etc/apt/preferences.d
+
+pin-usrmerge holds
+
+    Package: usrmerge
+    Pin: version *
+    Pin-Priority: -1337
+
+and the same for pin-usr-is-merged
+
+    Package: usr-is-merged
+    Pin: version *
+    Pin-Priority: -1337
