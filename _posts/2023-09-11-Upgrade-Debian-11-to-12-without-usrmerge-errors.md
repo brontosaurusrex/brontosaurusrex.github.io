@@ -81,3 +81,7 @@ and the same for pin-usr-is-merged
     Package: usr-is-merged
     Pin: version *
     Pin-Priority: -1337
+
+## screenshot of WSL1 bookworm
+
+<https://i.imgur.com/Qx7xIg8.png>
