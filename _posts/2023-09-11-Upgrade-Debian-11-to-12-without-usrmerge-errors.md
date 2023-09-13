@@ -66,7 +66,8 @@ to .zshrc or .bashrc.
 ## WSL1 -> WSL1 ?
 
 If WSL1 to WSL1 is needed, the workaround could be to block usrmerge before update  
-<https://askubuntu.com/questions/1358789/is-it-possible-to-prevent-usrmerge-package-installation-on-systems-upgraded-from>
+<https://askubuntu.com/questions/1358789/is-it-possible-to-prevent-usrmerge-package-installation-on-systems-upgraded-from>  
+<https://github.com/microsoft/WSL/issues/8927>
 
 Two files in /etc/apt/preferences.d
 
