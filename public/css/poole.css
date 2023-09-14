@@ -133,7 +133,9 @@ dd {
 hr {
   position: relative;
   margin: 1.5rem 0;
-  border: 1px solid #7E7E7E;
+  color: #555;
+  border-style: dotted;
+  /* border: 1px solid #7E7E7E; */
 
 }
 
