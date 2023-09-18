@@ -9,3 +9,7 @@ tags: blender
 <https://www.youtube.com/watch?v=9cWl50mfj5g>
 
 > Conjure is a Signed Distance Field editor for Blender. Instead of triangles, it uses Signed Distance Functions of primitive shapes together with Boolean operations to create complex objects. It is essentially Blender’s native Metaballs, but on steroids. By raymarching this mathematical representation, a watertight flawless object can be rendered. Currently conversion to mesh is not yet supported, but is actively being worked on.
+
+Also  
+<https://clavicula.link/>  
+<https://www.youtube.com/playlist?list=PLNkhpsgsKTDDqcXsMKDOjYGqST8On5lSt>
