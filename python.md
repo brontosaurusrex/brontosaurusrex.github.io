@@ -153,6 +153,17 @@ which does work, but the official solution is this 3 liner
 
 The `% results` part seems to be called 'string interpolation'.
 
+---
+
+## More ways to print stuff
+
+    v = 10
+    print('speed is', v, 'm/s')
+    print('speed is ' + str(v) + ' m/s')
+    print(f'speed is {v} m/s')
+
+should all produce the same result.
+
 
 
 
