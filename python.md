@@ -171,7 +171,7 @@ should all produce the same result.
 
 Input seems to be string, so lets convert that to float prior to math stuff.
    
-## if else while radom truth
+## if else while random truth
 
     from random import randint
     
