@@ -3,10 +3,6 @@ layout: page
 title: python notes
 published: true
 ---
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/default.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
-
 ## learning links
 
 [http://learnpython.org/](http://learnpython.org/)
@@ -174,4 +170,18 @@ should all produce the same result.
     print("result", x)
 
 Input seems to be string, so lets convert that to float prior to math stuff.
+   
+## if else while radom truth
+
+    from random import randint
     
+    i = 0
+    while i < 5:
+        var = randint(0, 1)
+    
+        if var:
+            print("true")
+        else:
+            print("false")
+    
+        i = i + 1
