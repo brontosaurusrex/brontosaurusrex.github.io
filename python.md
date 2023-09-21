@@ -164,7 +164,11 @@ The `% results` part seems to be called 'string interpolation'.
 
 should all produce the same result.
 
+## user input
 
+    var = float(input("enter the number: "))
+    x = var ** 2
+    print("result", x)
 
-
+Input seems to be string, so lets convert that to float prior to math stuff.
     
