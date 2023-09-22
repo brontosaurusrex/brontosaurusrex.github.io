@@ -19,3 +19,6 @@ usage
     j --help
     j -s   # for stats
     j rex  # to visit a previously visited dir that has rex in its name
+
+Alternatives:  
+<https://github.com/ajeetdsouza/zoxide> (also in repos)
