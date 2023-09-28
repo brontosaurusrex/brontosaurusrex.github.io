@@ -9,3 +9,12 @@ tags: video
 
 <https://github.com/tomasklaen/uosc>  
 > Feature-rich minimalist proximity-based UI for MPV player.
+
+Maybe add to bundled mpv.conf:
+
+    # mine
+    hwdec=auto
+    sub-auto=fuzzy
+    save-position-on-quit
+    autofit-larger=88%
+    --af = loudnorm
