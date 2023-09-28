@@ -1,10 +1,26 @@
 ---
 published: true
 layout: post
-date: '2023-01-04 10:58'
-title: Mpv - thumbnail preview
+date: '2023-09-28 10:58'
+title: Mpv - thumbnail preview, update
 tags: video 
 ---
+## Option 1 (doesn't cache thumbs)
+![scrot of option1](https://i.imgur.com/08keH7n.png)  
+
+<https://github.com/po5/thumbfast>
+
+Add/populate your mpv fodler like this:
+
+    ├── script-opts
+    │   └── thumbfast.conf
+    ├── scripts
+    │   ├── osc.lua
+    │   └── thumbfast.lua
+
+Profit.
+
+## Option 2 (does cache thumbs)
 ![scrot](/media/thumbnailer.jpg)
 
 The source

@@ -7,4 +7,4 @@ tags: misc video
 ---
 <https://joyorscooter.com/collections/best-electric-scooters/products/electric-scooter-s10s-model>  
 <https://www.youtube.com/watch?v=vWULuG6pmWI>  
-<img src="https://joyorscooter.com/cdn/shop/products/S-Series-S10-S-Black-2-1-jpg_720x.webp" style="mix-blend-mode: multiply;">
+<img src="https://i.imgur.com/f9xJYqT.png" style="mix-blend-mode: multiply;">
