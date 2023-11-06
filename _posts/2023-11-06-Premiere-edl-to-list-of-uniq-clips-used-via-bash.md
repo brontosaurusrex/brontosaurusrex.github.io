@@ -2,8 +2,8 @@
 published: true
 layout: post
 date: '2023-11-06 20:24'
-title: Premiere edl to list of uniq clips used via bash
-tags: video 
+title: Premiere edl to list of uniq clips used (linux cli)
+tags: video bash cli
 ---
 
     (grep '\*' | cut -d ':' -f 2 | cut -c 2- | sort | uniq) < test.edl
