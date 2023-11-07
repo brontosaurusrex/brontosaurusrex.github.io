@@ -8,3 +8,7 @@ tags: misc video
 <https://joyorscooter.com/collections/best-electric-scooters/products/electric-scooter-s10s-model>  
 <https://www.youtube.com/watch?v=vWULuG6pmWI>  
 <img src="https://i.imgur.com/f9xJYqT.png" style="mix-blend-mode: multiply;">
+
+Max tire pressure: 3,44 bar (50 psi)  
+Toggle dual drive: Long press + (3 sec)  
+Unlock speed limit: + and - together, then power button to go to the p10, - or + to go to 0, then again + and - together to get out of menu.
