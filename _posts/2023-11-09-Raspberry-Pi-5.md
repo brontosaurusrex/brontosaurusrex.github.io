@@ -12,7 +12,7 @@ tags: linux luv
 | sandisk sd card 512 GB| 48 |
 | Active cooler | 7 |
 | or Passive cooler | ? |
-| micro hdmi to hdmi cabel | ? |
-| | 170 |
+| micro hdmi to hdmi cabel | 7 |
+| | 177 |
 
 Active cooler ideas: ACTIVE COOLER FOR RASPBERRY PI 5, RASPBERRY PI SC1148  
