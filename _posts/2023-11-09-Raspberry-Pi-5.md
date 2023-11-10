@@ -15,6 +15,9 @@ tags: linux luv
 | micro hdmi to hdmi cabel | 7 |
 | | 177 |
 
-Active cooler ideas: ACTIVE COOLER FOR RASPBERRY PI 5, RASPBERRY PI SC1148  
+Active cooler ideas: 
+
+ACTIVE COOLER FOR RASPBERRY PI 5, RASPBERRY PI SC1148  
+Ice cooler <https://www.youtube.com/watch?v=QUgltsRPlMU>  
 
 ![pi5](https://i.imgur.com/Wi5SwSi.png)
