@@ -11,4 +11,5 @@ tags: misc video
 
 Max tire pressure: 3,44 bar (50 psi)  
 Toggle dual drive: Long press + (3 sec)  
-Unlock speed limit: + and - together, then power button to go to the p10, - or + to go to 0, then again + and - together to get out of menu.
+Unlock speed limit: + and - together, then power button to go to the p10, - or + to go to 0, then again + and - together to get out of menu.  
+Max speed: Seems to be limited to 45 kph (28 mph)  
