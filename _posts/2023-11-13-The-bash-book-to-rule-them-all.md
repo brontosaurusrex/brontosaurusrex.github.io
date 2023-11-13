@@ -10,4 +10,3 @@ tags: cli bash linux
 <https://fabiensanglard.net/bash/index.html>  
 <https://news.ycombinator.com/item?id=38187450>  
 
-![book cover](https://m.media-amazon.com/images/I/81F7HgLS+mL._SL1500_.jpg) 
