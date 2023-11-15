@@ -10,3 +10,6 @@ tags: blender
 <https://www.youtube.com/watch?v=jDEijCwz6to>  
 
 ![wood](https://public-files.gumroad.com/gwbwju2fxp6l7stppux8clva6s69)
+
+References:  
+<https://freestocktextures.com/photos-wood/>
