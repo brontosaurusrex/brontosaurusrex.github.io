@@ -42,6 +42,14 @@ a button like:
 
 assuming there is 'files/change attributes' setting saved with name 'ok'.
 
+edit: Noncomplete unicode support seems to be fixed in total commander > 11.02
+
+## btw
+
+For single item the shortkey to change comment is 
+
+    ctrl + z
+
 ---
 This is what chatGPT has to say about descript.ion:
 
