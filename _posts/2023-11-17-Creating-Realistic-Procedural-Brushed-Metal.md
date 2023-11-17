@@ -7,4 +7,5 @@ tags: blender
 ---
 <https://www.youtube.com/watch?v=YRKIAdMYcr0>
 
-My (poor) try: <https://i.imgur.com/BLGvJpY.png>
+My (poor) try: <https://i.imgur.com/8zlpFDw.png>   
+with a bit of post: <https://i.imgur.com/BLGvJpY.png>
