@@ -10,4 +10,4 @@ tags: misc cli
 
 In Debian repos, command name is `rg`.
 
-There is also [ugrep](ugrep.com), which can also searh pdfs, documents, e-books and image metadata. Command name is `ug`. Also in repos.
+There is also [ugrep](https://ugrep.com), which can also searh pdfs, documents, e-books and image metadata. Command name is `ug`. Also in repos.
