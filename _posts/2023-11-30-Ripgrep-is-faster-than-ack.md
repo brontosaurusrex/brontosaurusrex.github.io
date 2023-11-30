@@ -29,7 +29,8 @@ Searching for word 'parallel' in my 'blog' fodler
     ug --save-config --ignore-files --no-tree
     ug parallel         - took 4s
 
-Where `rg -uuu` should disable all filters, like ignoring git stuff. Where `ug --save-config --ignore-files --no-tree` should do the opposite.
+Where `rg -uuu` should disable all filters, like ignoring git stuff.  
+Where `ug --save-config --ignore-files --no-tree` should do the opposite.
 
 ## Fuzzy
 
