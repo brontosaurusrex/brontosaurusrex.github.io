@@ -14,6 +14,10 @@ gg why not
 He is gonna loose his pokimen (Pokémon?)  
 I'll just take the juicer (?)  
 minority report  
+bees, 2 beezzzzz  
+ice skater  
+clog the toilet  
+horsie, pony  
 
 ## When things go bad (rarely)
 
