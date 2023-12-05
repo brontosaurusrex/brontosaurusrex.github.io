@@ -7,17 +7,16 @@ tags: chess
 ---
 ## Pro Chess Terminology
 
-Classic kebab  
-Kebab on the 7th  
+Classic kebab, kebab on the 7th  
 diz rooks  
-gg why not  
 He is gonna loose his pokimen (Pokémon?)  
 I'll just take the juicer (?)  
 minority report  
 bees, 2 beezzzzz  
 ice skater  
 clog the toilet  
-horsie, pony  
+horsie, pony, donkey  
+gg why not   
 
 ## When things go bad (rarely)
 
