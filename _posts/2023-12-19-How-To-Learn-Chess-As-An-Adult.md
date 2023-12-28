@@ -13,4 +13,4 @@ tags: chess
 
 Interesting.
 
-<https://i.imgur.com/pWVs8IE.jpg>
+![image](/media/youwon.png "Actual screenshot!")
