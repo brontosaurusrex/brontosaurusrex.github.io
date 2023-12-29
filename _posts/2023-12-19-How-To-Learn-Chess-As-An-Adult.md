@@ -14,4 +14,3 @@ tags: chess
 Interesting.
 
 ![image](/media/youwon.png "Actual screenshot!")  
-^ FIXME, image wasn't uploaded
