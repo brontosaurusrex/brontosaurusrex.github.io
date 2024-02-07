@@ -44,7 +44,8 @@
 html,
 body {
     overflow-x: hidden;
-    background-image: url("/public/mozillaGrain.png");
+    /*background-image: url("/public/mozillaGrain.png");*/
+    background-image: url("/public/noise2024.png");
     
 } 
 
