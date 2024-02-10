@@ -13,6 +13,18 @@
 
 }
 
+@font-face {
+    font-family: 'Junction';
+    src: url('junction-bold.eot');
+    src: url('junction-bold.eot?#iefix') format('embedded-opentype'),
+         url('junction-bold.woff') format('woff'),
+         url('junction-bold.ttf') format('truetype'),
+         url('junction-bold.svg#junctionregular') format('svg');
+    font-weight: 700;
+    font-style: bold;
+
+
+}
 
 
 @font-face {

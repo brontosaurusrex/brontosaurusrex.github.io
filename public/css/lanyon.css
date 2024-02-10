@@ -57,16 +57,17 @@ body {
 }
 
 html {
-  font-family: "Junction", Georgia, "Times New Roman", serif;
-  
+  font-family: 'Junction', Georgia, "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Dancing Script', Helvetica, Arial, sans-serif;
-  font-weight: 400;
+  /*font-family: 'Dancing Script', Helvetica, Arial, sans-serif;*/
+  font-family: 'Junction', Helvetica, Arial, sans-serif;
+  font-style: bold;
+  font-weight: 700;
 
   /*color: #CB6317;*/
-  color: #ececec;
+  color: #fc885b;
 
   text-wrap: balance;
   mix-blend-mode: color-dodge;  

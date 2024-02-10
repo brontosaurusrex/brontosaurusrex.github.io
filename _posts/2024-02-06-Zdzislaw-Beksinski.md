@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2024-02-06 09:41'
-title: Zdzisław Beksiński
+title: Zdzislaw Beksinski
 tags: misc 
 ---
 <a href="https://i.imgur.com/VkCzA2p.jpg"><img src="https://i.imgur.com/VkCzA2pl.jpg" title="source: imgur.com" /></a>
