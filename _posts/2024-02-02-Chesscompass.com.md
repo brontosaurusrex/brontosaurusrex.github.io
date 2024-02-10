@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2024-02-02 18:18'
 title: Chesscompass.com
-tags: 
+tags: chess
 ---
 [https://www.chesscompass.com/](https://www.chesscompass.com)  
 
