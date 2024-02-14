@@ -396,7 +396,8 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #28C1D7;
+  /*color: #28C1D7;*/
+  color: #287ded;
 
   
 }
