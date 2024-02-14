@@ -8,6 +8,8 @@ tags: cli bash video
 3 simple scripts to blurp [last](https://raw.githubusercontent.com/brontosaurusrex/singularity/master/bin/lastFrame) or [middle](https://raw.githubusercontent.com/brontosaurusrex/singularity/master/bin/middleFrame) or [scene detected](https://raw.githubusercontent.com/brontosaurusrex/singularity/master/bin/sceneFrame) frames to tty.    
 edit: There is also a version of [scene detected that generates some html](https://raw.githubusercontent.com/brontosaurusrex/singularity/master/bin/sceneFrameMitHtml).
 
+edit: Known bugs: When the scene counter reaches 1000, things break (probably won't fix).
+
 lastFrame demo    
 [![image-nohash-md](https://i.imgur.com/xTUyJTYl.png)](https://i.imgur.com/xTUyJTY.png)
 
