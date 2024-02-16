@@ -16,4 +16,5 @@ Max speed: Seems to be limited to 45 kph (28 mph)
 
 ---
 
-Flat rear tire at 760 km range (30 eur to fix), a piece of glass found.
+Flat rear tire at 760 km range (30 eur to fix), a piece of glass found.  
+Flat front tire at 800 km range (30 eur to fix), a piece of glass found.
