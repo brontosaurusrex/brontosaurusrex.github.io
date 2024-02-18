@@ -236,3 +236,10 @@ This feeling that good comedy is actually uncovering who we are, either intentio
 > A hole. A circular hole.
 
 Way to slow for my taste.
+
+## Axiom's End (Lindsay Ellis - 2020)
+
+Wikipedia:  
+> Following a meteor strike not far from where they live, Cora's family is abducted by government agents while Cora flees from a monstrous alien creature that broke into their house at night. The alien eventually catches Cora, implanting a tracking and communication device into her, using her as a human puppet to launch an infiltration of the Googleplex for unknown reasons.
+
+What.
