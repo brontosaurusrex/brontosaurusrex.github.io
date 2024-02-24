@@ -44,7 +44,8 @@
 html,
 body {
     overflow-x: hidden;
-    background-image: url("/public/mozillaGrain.png");
+    /*background-image: url("/public/mozillaGrain.png");*/
+    background-image: url("/public/noise2024.png");
     
 } 
 
@@ -56,19 +57,20 @@ body {
 }
 
 html {
-  font-family: "Junction", Georgia, "Times New Roman", serif;
-  
+  font-family: 'Junction', Georgia, "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Linden", Helvetica, Arial, sans-serif;
-  font-weight: 400;
+  /*font-family: 'Dancing Script', Helvetica, Arial, sans-serif;*/
+  font-family: 'Junction', Helvetica, Arial, sans-serif;
+  font-style: bold;
+  font-weight: 700;
 
-  color: #CB6317;
+  /*color: #CB6317;*/
+  color: #fc885b;
 
   text-wrap: balance;
-
-  
+  mix-blend-mode: color-dodge;  
 }
 
 
@@ -394,7 +396,8 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #28C1D7;
+  /*color: #28C1D7;*/
+  color: #287ded;
 
   
 }
@@ -643,7 +646,7 @@ a.pagination-item:hover {
 
   /* border-top: dotted #cccccc 1px; */  
   
-  background-image: url("/public/mozillaGrain.png");
+  background-image: url("/public/noise2024footer.png");
 
   /* background-image: url("/public/grass_sm2.png"); */
 
