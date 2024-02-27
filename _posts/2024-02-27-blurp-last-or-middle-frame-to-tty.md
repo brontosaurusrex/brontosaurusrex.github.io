@@ -6,7 +6,7 @@ title: blurp last or middle frame or scene detected frames to tty, update 2
 tags: cli bash video 
 ---
 3 simple scripts to blurp [last](https://raw.githubusercontent.com/brontosaurusrex/singularity/master/bin/lastFrame) or [middle](https://raw.githubusercontent.com/brontosaurusrex/singularity/master/bin/middleFrame) or [scene detected](https://raw.githubusercontent.com/brontosaurusrex/singularity/master/bin/sceneFrame) frames to tty.    
-edit: There is also a version of [scene detected that generates some html](https://raw.githubusercontent.com/brontosaurusrex/singularity/master/bin/sceneFrameMitHtml) < This is the hero version>.
+edit: There is also a version of [scene detected that generates some html](https://raw.githubusercontent.com/brontosaurusrex/singularity/master/bin/sceneFrameMitHtml) < This is the hero version.
 
 edit: Known bugs: When the scene counter reaches 1000, things break. edit2: Most likely, almost certainly the bug is already at the ffmeg line:
 
