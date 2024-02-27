@@ -27,3 +27,5 @@ sceneFrame demo
 
 p.s. Also tested with kitty term and seems to work fine  
 [![image-nohash-md](https://i.imgur.com/MgIyOG0l.png)](https://i.imgur.com/MgIyOG0.png)
+
+(This post and scripts were first posted 22. 6. 2022.)
