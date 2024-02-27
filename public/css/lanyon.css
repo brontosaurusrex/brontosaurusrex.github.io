@@ -63,7 +63,6 @@ html {
 h1, h2, h3, h4, h5, h6 {
   /*font-family: 'Dancing Script', Helvetica, Arial, sans-serif;*/
   font-family: 'Junction', Helvetica, Arial, sans-serif;
-  font-style: bold;
   font-weight: 700;
 
   /*color: #CB6317;*/
@@ -239,8 +238,9 @@ img {
   color: rgba(255,255,255,.6);
   background-color: #196080;
   opacity: 0.75;
+  
   -webkit-transition: all .3s ease-in-out;
-          transition: all .3s ease-in-out;
+          transition: all .3s ease-in-out; 
 }
 @media (min-width: 30rem) {
   .sidebar {
