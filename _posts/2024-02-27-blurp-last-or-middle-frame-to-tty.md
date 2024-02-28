@@ -19,6 +19,16 @@ edit: Known bugs: When the scene counter reaches 1000, things break. edit2: Most
 
 where %03d can obviously only host 999 numbers, duh. FIX THE SCRIPT.
 
+edit3: Another bug was in this grep:
+
+    var="$(grep "n: \+$frame " "$tmp/detect.log")"
+
+but detect.log gaining 1000ths detection will actually not match (there is no space no more in front of the number), possible solution would be:
+
+    # \s matches any whitespace chars (including newline, tab), and you can use * to match ZERO or more of them
+    var="$(grep "n:\s*$frame " "$tmp/detect.log")";
+
+
 lastFrame demo    
 [![image-nohash-md](https://i.imgur.com/xTUyJTYl.png)](https://i.imgur.com/xTUyJTY.png)
 
