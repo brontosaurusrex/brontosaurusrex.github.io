@@ -2,11 +2,15 @@
 published: true
 layout: post
 date: '2024-02-27 19:31'
-title: blurp last or middle frame or scene detected frames to tty, update 3
+title: Blurp last or middle frame or scene detected frames to tty, update 3
 tags: cli bash video 
 ---
+## Scripts
+
 3 simple scripts to blurp [last](https://raw.githubusercontent.com/brontosaurusrex/singularity/master/bin/lastFrame) or [middle](https://raw.githubusercontent.com/brontosaurusrex/singularity/master/bin/middleFrame) or [scene detected](https://raw.githubusercontent.com/brontosaurusrex/singularity/master/bin/sceneFrame) frames to tty.    
 edit: There is also a version of [scene detected that generates some html](https://raw.githubusercontent.com/brontosaurusrex/singularity/master/bin/sceneFrameMitHtml) < This is the hero version.
+
+## Bug hunt (sceneFrameMitHtml)
 
 edit: Known bugs: When the scene counter reaches 1000, things break. edit2: Most likely, almost certainly the bug is already at the ffmeg line:
 
@@ -28,6 +32,9 @@ but detect.log gaining 1000ths detection will actually not match (there is no sp
     # \s matches any whitespace chars (including newline, tab), and you can use * to match ZERO or more of them
     var="$(grep "n:\s*$frame " "$tmp/detect.log")";
 
+Probably fixed.
+
+## Demos & screenshots
 
 lastFrame demo    
 [![image-nohash-md](https://i.imgur.com/xTUyJTYl.png)](https://i.imgur.com/xTUyJTY.png)
