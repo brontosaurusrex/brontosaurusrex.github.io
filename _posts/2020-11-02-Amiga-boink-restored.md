@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2020-11-02 20:24'
+date: '2024-03-04 10:00'
 title: Amiga boink restored
 tags: blender 
 ---
@@ -14,3 +14,5 @@ tags: blender
 [![image-nohash-th](https://i.imgur.com/I8uqh82b.png)](https://i.imgur.com/I8uqh82.png)
 [![image-nohash-th](https://i.imgur.com/MUUEBOEb.png)](https://i.imgur.com/MUUEBOE.png)  
 ^Just a sphere with some blendkit materials.
+
+Original post date: 2020-11-02
