@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 date: '2024-03-05 11:45'
 title: chessboard.js
