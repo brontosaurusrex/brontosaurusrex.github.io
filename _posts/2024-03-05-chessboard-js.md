@@ -105,7 +105,7 @@ Where chessboard part (js, img, css) is hosted on 'my' server in /public/js/ches
         })
         </script>
 
-## FEN to svg chessboard using python
+# FEN to svg chessboard using python
 
 Using venv:
 
