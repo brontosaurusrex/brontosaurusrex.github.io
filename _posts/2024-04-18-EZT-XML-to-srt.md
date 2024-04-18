@@ -7,5 +7,5 @@ tags: video
 ---
 How to convert xml eztitles files to plain old srt?
 
-This one can:
-(https://www.videohelp.com/software/Subtitle-Edit)[https://www.videohelp.com/software/Subtitle-Edit]
+This one can:  
+[https://www.videohelp.com/software/Subtitle-Edit](https://www.videohelp.com/software/Subtitle-Edit)
