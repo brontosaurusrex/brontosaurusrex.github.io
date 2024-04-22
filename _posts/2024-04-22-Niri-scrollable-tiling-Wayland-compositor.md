@@ -1,0 +1,12 @@
+---
+published: true
+layout: post
+date: '2024-04-22 06:54'
+title: Niri scrollable-tiling Wayland compositor
+tags: linux 
+---
+[https://github.com/YaLTeR/niri/](https://github.com/YaLTeR/niri/)
+
+> Windows are arranged in columns on an infinite strip going to the right. Opening a new window never causes existing windows to resize.
+
+[https://private-user-images.githubusercontent.com/1794388/324153487-ce178da2-af9e-4c51-876f-8709c241d95e.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM3Njg5MDQsIm5iZiI6MTcxMzc2ODYwNCwicGF0aCI6Ii8xNzk0Mzg4LzMyNDE1MzQ4Ny1jZTE3OGRhMi1hZjllLTRjNTEtODc2Zi04NzA5YzI0MWQ5NWUubXA0P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQyMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MjJUMDY1MDA0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZmU5ZTJmMTU3ZTZiZmU0NjdhMGFiOTAyNGU4NTZmYzkyNzE4MjhlNzM5ZTFhMzhmN2ZhZDgzZGU5YTUwNjE0ZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.MtvgnWCT3YDy3HQuHinhfXUyYMBepQTbiar1mBszkCs](Video demo).
