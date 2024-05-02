@@ -149,9 +149,11 @@ img {
     width: 935px;
     max-width: 935px;
 */
+
+    width: 550px;
     margin-top:     -4.5rem;
-    margin-bottom:  -1.0rem;
-    margin-left: -90px;
+    margin-bottom:  0;  /* -1.0rem; */
+    margin-left: -50px;     /* -90px; */
     /* b: Z index must be smaller than navigation block, this is not working */
     z-index: -10;
     
