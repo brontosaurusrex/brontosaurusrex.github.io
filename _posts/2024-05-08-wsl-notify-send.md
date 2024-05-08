@@ -8,14 +8,18 @@ tags: bash cli linux
 [https://github.com/stuartleeks/wsl-notify-send](https://github.com/stuartleeks/wsl-notify-send)  
 [https://stuartleeks.com/posts/wsl-github-cli-windows-notifications-part-1/](https://stuartleeks.com/posts/wsl-github-cli-windows-notifications-part-1/)   
 
-Prequel:
+## Prequel:
 
     Make a folder, say C:\bin
     Add that to the user windows %PATH%
     from cmd, check path with: echo %PATH%
     put wsl-notify-send.exe there
 
-Example, run from Debian:
+[How to add folder to Path illustrated.](https://stackoverflow.com/questions/44272416/how-to-add-a-folder-to-path-environment-variable-in-windows-10-with-screensho)
+
+## Example:
+
+As seen from Debian:
 
     wsl-notify-send.exe --category $WSL_DISTRO_NAME "done calculating"
 
