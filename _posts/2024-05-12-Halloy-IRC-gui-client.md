@@ -12,3 +12,31 @@ tags: misc
 It tiles nicely and likes mice.
 
 ![comic](https://imgs.xkcd.com/comics/team_chat_2x.png)
+
+Config so far:
+
+    # Halloy config.
+    #
+    # For a complete list of available options,
+    # please visit https://halloy.squidowl.org/configuration/index.html
+    
+    scale_factor = 1.35
+    
+    [buffer.server_messages.join]
+    enabled = true
+    smart = 1800
+    
+    [buffer.server_messages.part]
+    enabled = true 
+    smart = 1800
+    
+    [buffer.server_messages.quit]
+    enabled = true 
+    smart = 1800
+    
+    [servers.liberachat]
+    nickname = "mynick"
+    server = "irc.libera.chat"
+    channels = ["#halloy"]
+    
+[https://halloy.squidowl.org/configuration/buffer.html](https://halloy.squidowl.org/configuration/buffer.html)
