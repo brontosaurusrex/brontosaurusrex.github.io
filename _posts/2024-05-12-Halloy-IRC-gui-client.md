@@ -37,6 +37,10 @@ Config so far:
     [servers.liberachat]
     nickname = "mynick"
     server = "irc.libera.chat"
-    channels = ["#halloy"]
+    channels = ["#halloy","#ubuntu","#blender","#libera","##chat"]
     
+    [servers.liberachat.sasl.plain]
+    username = "mynick"
+    password = "pass"  
+
 [https://halloy.squidowl.org/configuration/buffer.html](https://halloy.squidowl.org/configuration/buffer.html)
