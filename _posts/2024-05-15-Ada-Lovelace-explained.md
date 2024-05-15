@@ -21,3 +21,7 @@ Let's break down the quote:
 In essence, Ada Lovelace is emphasizing that the Analytical Engine, and by extension any computer or machine, lacks independent creativity or intelligence. Its capabilities are limited to the instructions provided by its programmers. This insight was profound for her time and remains a foundational understanding in the field of computer science today. Computers execute tasks based on human-written programs, and their functionality is confined to what humans design and instruct them to do.
 
 p.s. Quote is from 1843.
+
+A. M. Turing (1950) Computing Machinery and Intelligence:  
+[https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf](https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf)
+
