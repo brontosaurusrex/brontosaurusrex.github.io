@@ -19,3 +19,5 @@ Let's break down the quote:
 - The Engine is capable of executing tasks and calculations, but only those that humans know how to instruct it to do. It relies entirely on the input and commands given by its human users.
 
 In essence, Ada Lovelace is emphasizing that the Analytical Engine, and by extension any computer or machine, lacks independent creativity or intelligence. Its capabilities are limited to the instructions provided by its programmers. This insight was profound for her time and remains a foundational understanding in the field of computer science today. Computers execute tasks based on human-written programs, and their functionality is confined to what humans design and instruct them to do.
+
+p.s. Quote is from 1843.
