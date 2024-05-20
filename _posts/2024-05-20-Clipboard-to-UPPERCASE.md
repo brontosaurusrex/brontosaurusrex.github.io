@@ -16,3 +16,6 @@ In Total commander, a button with:
     Tooltip: Clipboard to UPPERCASE
 
 p.s. In windows, make a script.bat out of it and make a soft link (shortcut), this so called shortcuts can also have shortkey (ctrl + alt + u) for example.
+
+![image](/media/shortcut.png)
+![image](/media/shortcut_shortkey.png)
