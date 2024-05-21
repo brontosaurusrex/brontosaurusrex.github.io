@@ -19,3 +19,6 @@ p.s. In windows, make a script.bat out of it and make a soft link (shortcut), th
 
 ![image](/media/shortcut.png)
 ![image](/media/shortcut_shortkey.png)
+
+Total commander can also rename files to Uppercase with single button click:  
+[https://www.ghisler.ch/board/viewtopic.php?p=455303&sid=bfafbe9446f3023230ccd16f57994dc4#p455303]( https://www.ghisler.ch/board/viewtopic.php?p=455303&sid=bfafbe9446f3023230ccd16f57994dc4#p455303)
