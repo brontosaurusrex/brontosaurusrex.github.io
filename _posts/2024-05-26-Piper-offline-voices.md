@@ -44,7 +44,7 @@ should produce something.
 var wavesurfer = WaveSurfer.create({
   container: '#waveform',
   waveColor: 'black',
-  progressColor: 'grey'
+  progressColor: 'white'
 });
 
 wavesurfer.load('/audio/neumann.opus');
