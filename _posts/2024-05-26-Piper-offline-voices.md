@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2024-05-26 18:33'
-title: Piper offline voices
+title: Piper offline voices (Text to speech)
 tags: audio cli linux 
 ---
 [https://github.com/rhasspy/piper](https://github.com/rhasspy/piper)
@@ -11,7 +11,8 @@ tags: audio cli linux
     
 - Download/unpack the piper tarball
 - Download voices from https://github.com/rhasspy/piper/blob/master/VOICES.md
-- Make sure the naming is correct, for example: alan.onnx and alan.onnx.json
+- Make sure the naming is correct, for example:  
+`alan.onnx` and `alan.onnx.json`.
 
 Maybe add ~/piper to PATH in .zshrc
 
@@ -51,4 +52,4 @@ wavesurfer.load('/audio/neumann.opus');
 
 </script>
 
-
+p.s. [Post from 2021](/2021/05/26/Text-to-speech/).
