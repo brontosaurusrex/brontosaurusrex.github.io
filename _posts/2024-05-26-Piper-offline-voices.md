@@ -53,3 +53,7 @@ wavesurfer.load('/audio/neumann.opus');
 </script>
 
 p.s. [Post from 2021](/2021/05/26/Text-to-speech/).
+
+Winners so far:
+
+    cat sample.txt | piper -m ~/piper/en_GB-semaine-medium.onnx --debug --length_scale 1.3 --output_file sample_semain_slow.wav
