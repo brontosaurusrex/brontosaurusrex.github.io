@@ -13,8 +13,8 @@ published: true
 
 /me do NOT track, log, spy or are in any way aware of the user presence on this site. 
 
-This blog is hosted using 3rd party tech, curently '[github pages](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement)' and '[imgur image hosting](https://blog.imgur.com/tag/gdpr/)' where /me is [neither Controller, neither Processor](https://advisera.com/eugdpracademy/knowledgebase/eu-gdpr-controller-vs-processor-what-are-the-differences/). Their rules might apply.
- 
+This blog is hosted using 3rd party tech, curently '[github pages](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement)', '[imgur image hosting](https://imgur.com/privacy)' and '[imgbox image hosting](https://imgur.com/privacy)' where /me is [neither Controller, neither Processor](https://advisera.com/eugdpracademy/knowledgebase/eu-gdpr-controller-vs-processor-what-are-the-differences/). Their rules will apply. 
+
 ## Thinkering and development
 
 ### I went through this (running away from wordpress):
