@@ -334,6 +334,13 @@ Also works nicely interactively
     ${exe[job]} 
     ${exe[myserv]}
 
+### Exit if array is empty one-liner
+
+    (( ${#array[@]} )) || { echo "array is empty"; exit 1; }
+
+where `(( ${#array[@]} ))` checks the array length.
+    
+
 ## [[ brackets ]] = Test
 
 (http://mywiki.wooledge.org/BashFAQ/031)[http://mywiki.wooledge.org/BashFAQ/031]
