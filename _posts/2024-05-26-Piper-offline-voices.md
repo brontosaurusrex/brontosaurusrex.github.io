@@ -5,7 +5,10 @@ date: '2024-05-26 18:33'
 title: Piper offline voices (Text to speech)
 tags: audio cli linux 
 ---
-[https://github.com/rhasspy/piper](https://github.com/rhasspy/piper)
+## Piper
+
+[https://github.com/rhasspy/piper](https://github.com/rhasspy/piper) < piper  
+[https://github.com/rhasspy/piper/blob/master/VOICES.md](https://github.com/rhasspy/piper/blob/master/VOICES.md) < *.onnx voices
 
     mkdir piper && cd piper
     
@@ -66,4 +69,23 @@ From json:
         "poppy": 3
     }
 
+Note that one can playback/'stream' even when piper is still generating audio, examples:
+
+With aplay (Can't seem to figure out the --interactive aplay switch does nothing)
+
+    cat "$file" | piper -m "${voicespath}/${voices[$rand]}" --output-raw  2>/dev/null | aplay -i -r 22050 -f S16_LE -t raw - || exit
+
+With mpv (Can get into undesirable states when space is pressed to pause playback)
+
+    cat "$file" | piper -m "${voicespath}/${voices[$rand]}" --output-raw 2>/dev/null | mpv --demuxer=rawaudio --demuxer-rawaudio-format=s16le --demuxer-rawaudio-rate=22050 --audio-samplerate=22050 --demuxer-rawaudio-channels=1 --no-resume-playback --msg-level=all=no --no-video -
+
+With ffmpeg in between piper and mpv (Can get into undesirable states when space is pressed to pause playback)
+
+    cat "$file" | piper -m "${voicespath}/${voices[$rand]}" --output-raw 2>/dev/null | ffmpeg -vn -f s16le -ar 22050 -ac 1 -i - -f wav - 2>/dev/null | mpv --no-resume-playback --msg-level=all=no --no-video - 2>/dev/null || exit 1
+
+
 p.s. [Post from 2021](/2021/05/26/Text-to-speech/).
+
+## Piperread (bash script)
+
+[piperread](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/piperread).
