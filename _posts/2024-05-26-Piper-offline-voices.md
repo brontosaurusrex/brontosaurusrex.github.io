@@ -1,14 +1,16 @@
 ---
 published: true
 layout: post
-date: '2024-05-26 18:33'
+date: '2024-06-01 10:00'
 title: Piper offline voices (Text to speech)
 tags: audio cli linux 
 ---
 ## Piper
 
 [https://github.com/rhasspy/piper](https://github.com/rhasspy/piper) < piper  
-[https://github.com/rhasspy/piper/blob/master/VOICES.md](https://github.com/rhasspy/piper/blob/master/VOICES.md) < *.onnx voices
+[https://github.com/rhasspy/piper/blob/master/VOICES.md](https://github.com/rhasspy/piper/blob/master/VOICES.md) < *.onnx voices  
+[https://piper.wide.video](https://piper.wide.video) < web version  
+[https://ssamjh.nz/create-custom-piper-tts-voice](https://ssamjh.nz/create-custom-piper-tts-voice) < record and train your own
 
     mkdir piper && cd piper
     
