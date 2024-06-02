@@ -248,3 +248,7 @@ What.
 
 [goodreads:](https://www.goodreads.com/en/book/show/45252)  
 > The year is 2380. The Intersolar Commonwealth, a sphere of stars some four hundred light-years in diameter, contains more than six hundred worlds, interconnected by a web of transport "tunnels" known as wormholes. At the farthest edge of the Commonwealth, astronomer Dudley Bose observes the impossible: Over one thousand light-years away, a star... vanishes. It does not go supernova. It does not collapse into a black hole. It simply disappears. 
+
+## Alien Clay (Adrian Tchaikovsky - 2024)
+
+> On the distant world of Kiln lie the ruins of an alien civilization. It's the greatest discovery in humanity's spacefaring history - yet who were its builders and where did they go?
