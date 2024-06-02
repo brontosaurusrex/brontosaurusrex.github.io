@@ -91,3 +91,5 @@ p.s. [Post from 2021](/2021/05/26/Text-to-speech/).
 ## Piperread (bash script)
 
 [piperread](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/piperread).
+
+![piperread help screen](https://images2.imgbox.com/10/b5/b4QMbPbc_o.png)
