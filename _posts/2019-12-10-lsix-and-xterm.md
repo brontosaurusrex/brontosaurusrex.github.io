@@ -17,13 +17,16 @@ Start xterm with
     
 vt340 seem to enable sixel support.
 
-Get the [lsix script](https://github.com/hackerb9/lsix).
+Get the [lsix bash script](https://github.com/hackerb9/lsix).
 
 > Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 
 [![lsix.png-eaI1fWed0zQVBDi-md](https://i.imgur.com/a6kMShx.png)](https://i.imgur.com/a6kMShx.png)
 
 Default urxvt can't and won't.
+
+Notes: this is how lsix checks for sixel support:  
+[https://github.com/hackerb9/lsix/blob/3a431793a747df3f9340519555527da9b10d040a/lsix#L86](https://github.com/hackerb9/lsix/blob/3a431793a747df3f9340519555527da9b10d040a/lsix#L86)
 
 ## Another way
 
