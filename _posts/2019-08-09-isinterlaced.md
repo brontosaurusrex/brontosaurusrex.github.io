@@ -7,7 +7,7 @@ tags: video bash mine
 ---
 [Idea from here.](http://www.aktau.be/2013/09/22/detecting-interlaced-video-with-ffmpeg/)
 
-[isInterlaced script](https://raw.githubusercontent.com/brontosaurusrex/stretchbang/master/bin/isInterlaced)
+[isInterlaced script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/bin/isInterlaced)
 
 Usage on multiple files
 
