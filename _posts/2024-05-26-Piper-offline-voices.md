@@ -88,7 +88,7 @@ With ffmpeg in between piper and mpv (* Can get into undesirable states when spa
 
 p.s. [Post from 2021](/2021/05/26/Text-to-speech/).
 
-* _Only true in wsl2, doesn't happen in 'real' linux._
+\* _Only true in wsl2, doesn't happen in 'real' linux._
 
 ## Piperread (bash script)
 
