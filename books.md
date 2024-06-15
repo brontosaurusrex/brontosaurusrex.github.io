@@ -252,3 +252,10 @@ What.
 ## Alien Clay (Adrian Tchaikovsky - 2024)
 
 > On the distant world of Kiln lie the ruins of an alien civilization. It's the greatest discovery in humanity's spacefaring history - yet who were its builders and where did they go?
+
+## Binti (Novella by Nnedi Okorafor - 2015)
+
+From wikipedia:  
+> The novella has 3 sequels. The first, Binti: Home, was released on January 31, 2017. The third installment, Binti: The Night Masquerade, was released in January 2018, and was nominated for the 2019 Hugo Award for Best Novella. Subsequently, DAW/Penguin/PRH published an omnibus edition of the three novellas with an additional short story titled "Binti: Sacred Fire", which serves as an interlude between Binti and Home.
+
+> A young woman named Binti is the first member of the Himba people from Earth to be accepted into the prestigious intergalactic university Oomza Uni. Upon being notified of her acceptance, Binti runs away from home and boards a transport ship to Oomza Uni. While in transit, the ship is hijacked by the Meduse, a jellyfish-like alien species that was previously at war with the Khoush
