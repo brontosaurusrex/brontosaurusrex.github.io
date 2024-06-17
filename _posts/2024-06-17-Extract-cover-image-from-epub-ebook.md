@@ -11,3 +11,5 @@ It may extract multiple images, not perfect in any sense:
     unzip "$file" "$(zipinfo -1 $file | grep -i cover | grep -E '\.jpg|\.jpeg|\.png')"
 
 p.s. epub may not have any cover.
+
+[Quick and dirty script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/.experiments/bin/epub2txtMany).
