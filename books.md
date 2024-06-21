@@ -259,3 +259,17 @@ From wikipedia:
 > The novella has 3 sequels. The first, Binti: Home, was released on January 31, 2017. The third installment, Binti: The Night Masquerade, was released in January 2018, and was nominated for the 2019 Hugo Award for Best Novella. Subsequently, DAW/Penguin/PRH published an omnibus edition of the three novellas with an additional short story titled "Binti: Sacred Fire", which serves as an interlude between Binti and Home.
 
 > A young woman named Binti is the first member of the Himba people from Earth to be accepted into the prestigious intergalactic university Oomza Uni. Upon being notified of her acceptance, Binti runs away from home and boards a transport ship to Oomza Uni. While in transit, the ship is hijacked by the Meduse, a jellyfish-like alien species that was previously at war with the Khoush
+
+## Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age (Michael A. Hiltzik - 1999)
+
+From chatgpt:  
+> chronicles the groundbreaking innovations at Xerox's Palo Alto Research Center (PARC) during the 1970s, which laid the foundation for the personal computing revolution. The book delves into the creative minds and transformative inventions that emerged from PARC, profoundly shaping modern technology.
+
+Xerox PARC's main innovations include:
+
+* Graphical User Interface (GUI): The development of user-friendly interfaces with windows, icons, and menus, which became the standard for personal computers.
+* Ethernet: A pioneering networking technology that allowed computers to communicate over a local area network (LAN).
+* Laser Printing: The creation of the first laser printer, revolutionizing document printing with high-speed and high-quality output.
+* Personal Computer (Alto): The design and development of the Alto, one of the first personal computers, featuring a GUI, mouse, and network capabilities.
+* Object-Oriented Programming: Advances in programming paradigms, including the development of the Smalltalk programming language, which emphasized objects and modularity.
+* Bitmapped Displays: Innovations in display technology that allowed for the use of high-resolution graphics on screens.
