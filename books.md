@@ -273,3 +273,14 @@ Xerox PARC's main innovations include:
 * Personal Computer (Alto): The design and development of the Alto, one of the first personal computers, featuring a GUI, mouse, and network capabilities.
 * Object-Oriented Programming: Advances in programming paradigms, including the development of the Smalltalk programming language, which emphasized objects and modularity.
 * Bitmapped Displays: Innovations in display technology that allowed for the use of high-resolution graphics on screens.
+
+## Hackers: Heroes of the Computer Revolution - 25th anniversary edition (Steven Levy - 1984/2010)
+
+> To a hacker, a closed door is an insult, and a locked door is an outrage. Just as information should be clearly and elegantly transported within a computer, and just as software should be freely disseminated, hackers believed people should be allowed access to files or tools which might promote the hacker quest to find out and improve the way the world works. When a hacker needed something to help him create, explore, or fix, he did not bother with such ridiculous concepts as property rights. 
+
+Hacker Ethics (TL;DR):  
+* Information should be free (passwords are unnecessary).
+* Computers should be decentralized (a humorous stance towards IBM and timesharing concepts).
+* Mistrust authority.
+* Oppose bureaucracy.
+* You can create art and beauty on a computer.
