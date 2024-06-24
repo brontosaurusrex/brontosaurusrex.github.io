@@ -278,7 +278,7 @@ Xerox PARC's main innovations include:
 
 > To a hacker, a closed door is an insult, and a locked door is an outrage. Just as information should be clearly and elegantly transported within a computer, and just as software should be freely disseminated, hackers believed people should be allowed access to files or tools which might promote the hacker quest to find out and improve the way the world works. When a hacker needed something to help him create, explore, or fix, he did not bother with such ridiculous concepts as property rights. 
 
-Hacker Ethics (TL;DR):  
+1st generation Hacker Ethics (TL;DR):  
 * Information should be free (passwords are unnecessary).
 * Computers should be decentralized (a humorous stance towards IBM and timesharing concepts).
 * Mistrust authority.
