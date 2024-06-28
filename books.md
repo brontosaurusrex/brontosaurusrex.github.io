@@ -284,3 +284,11 @@ Xerox PARC's main innovations include:
 * Mistrust authority.
 * Oppose bureaucracy.
 * You can create art and beauty on a computer.
+
+## Annie Bot (Sierra Greer - 2024)
+
+Goodreads:  
+> Doug says he loves that Annie’s artificial intelligence makes her seem more like a real woman, but the more human Annie becomes, the less perfectly she behaves. As Annie's relationship with Doug grows more intricate and difficult, she starts to wonder whether Doug truly desires what he says he does. In such an impossible paradox, what does Annie owe herself?
+
+ChatGPT:  
+> Too silly for 2024, yet intriguing enough to keep you reading.
