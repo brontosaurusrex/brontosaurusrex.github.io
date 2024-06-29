@@ -12,3 +12,6 @@ tags: web misc luv
 
 The site frozen in time (1994?):  
 [http://mosaic.mcom.com/index.html](http://mosaic.mcom.com/index.html)
+
+Version 1.2? (The most used version?):  
+![mosaic](https://upload.wikimedia.org/wikipedia/commons/e/ea/NCSA_Mosaic_Browser_Screenshot.png)
