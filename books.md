@@ -292,3 +292,9 @@ Goodreads:
 
 ChatGPT:  
 > Too silly for 2024, yet intriguing enough to keep you reading.
+
+## Semiosis (Sue Burke - 2018)
+
+Wikipedia:  
+> Semiosis is about colonists starting a new life on the planet Pax and their alliances with sentient indigenous plant species.
+> The sequel to Semiosis, Interference was published in October 2019
