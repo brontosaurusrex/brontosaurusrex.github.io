@@ -298,3 +298,8 @@ ChatGPT:
 Wikipedia:  
 > Semiosis is about colonists starting a new life on the planet Pax and their alliances with sentient indigenous plant species.
 > The sequel to Semiosis, Interference was published in October 2019
+
+## Interference (Sue Burke - 2019)
+
+Wikipedia:  
+> About a hundred years after the events in Semiosis, a new expedition to Pax from Earth is launched. Contact with the Pax colonists had been lost soon after they landed on the planet. On Pax the new arrivals find descendants of the original colonists living side-by-side in a glass city with alien arthropod-like Glassmakers, and Stevland, a sentient rainbow bamboo. Stevland oversees a fragile peace between the Pax humans and the Glassmakers. The Earthlings, as the new arrivals are called, interfere with this delicate balance, causing divisions in the colony and amongst themselves.
