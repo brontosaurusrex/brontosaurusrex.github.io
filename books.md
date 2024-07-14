@@ -308,4 +308,4 @@ Wikipedia:
 
 > The last remnant of mankind has traveled across galaxies in search of a fabled planet that was terraformed and intended as a new Earth. They discover that the planet is not as uninhabited as they had presumed, and find it under the stewardship of a fiercely-protective artificial intelligence in orbit.
 
-> The next in the series, Children of Ruin, was published in 2019. A third book, Children of Memory, was published in 2022.[
+> The next in the series, Children of Ruin, was published in 2019. A third book, Children of Memory, was published in 2022.
