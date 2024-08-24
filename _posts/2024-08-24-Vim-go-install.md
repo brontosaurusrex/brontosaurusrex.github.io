@@ -21,3 +21,10 @@ To run currently opened go file do:
 
     :GoRun %
     
+
+
+
+
+
+
+
