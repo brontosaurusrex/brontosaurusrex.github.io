@@ -115,6 +115,9 @@ make each buffer appear in tab
     U < selected text to UPPERCASE                                           
     u < selected text to lowercase                                     
     :retab < convert tabs to spaces 
+    >> ident
+    5>> ident 5 lines    
+    << reduce ident    
 
 ## autocomplete
 
