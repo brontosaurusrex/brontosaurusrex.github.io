@@ -115,9 +115,6 @@ make each buffer appear in tab
     U < selected text to UPPERCASE                                           
     u < selected text to lowercase                                     
     :retab < convert tabs to spaces 
-    >> ident
-    5>> ident 5 lines    
-    << reduce ident    
 
 ## autocomplete
 
@@ -125,7 +122,7 @@ In insert mode start typing something and then
 
     ctrl+n
 
-## Indent
+## Indent (not ident)
 
 In insert mode
 
