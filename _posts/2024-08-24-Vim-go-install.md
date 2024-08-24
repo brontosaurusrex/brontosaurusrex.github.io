@@ -9,7 +9,7 @@ tags: linux cli
 
 Use Vim 8 packages method. Make sure .vimrc includes:
 
-    "vim-go https://github.com/fatih/vim-go/wiki/Tutorial#quick-setup
+    " vim-go https://github.com/fatih/vim-go/wiki/Tutorial#quick-setup
     " No clue what this ˇ is.
     filetype plugin indent on 
 

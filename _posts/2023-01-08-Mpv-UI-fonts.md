@@ -2,25 +2,25 @@
 published: true
 layout: post
 date: '2023-01-08 14:09'
-title: Mpv UI fonts
+title: Mpv UI and subtitle fonts
 tags: video 
 ---
 Slightly more readable UI font (windows), in mpv.conf
 
-    osd-font="Roboto"
+    osd-font="Roboto Condensed"
     osd-font-size=28
-    #osd-bold=yes
 
 Note that the fonts can be provided from subfodler 'fonts' next to mpv.exe (windows)
 
     ├── mpv.exe
     └── fonts
-        └── Roboto-Regular.ttf
+        └── RobotoCondensed-Regular.ttf
 
-which should make entire config portable.  
-edit:  
+Subtitle font is also configurable
 
-or 
+    # subs
+    sub-font-size=45
+    sub-font="Roboto Condensed"
+    sub-border-size=1.5
 
-    osd-font="Roboto Condensed"
 
