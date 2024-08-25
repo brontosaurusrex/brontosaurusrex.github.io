@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Debian admin
+title: Debian
 published: true
 ---
 

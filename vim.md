@@ -1,9 +1,9 @@
 ---
 layout: page
-title: vim learning notes
+title: vim
 published: true
 ---
-Last update: 25. 8. 2023
+Last update: 24. 8. 2024
 
 ## help
 

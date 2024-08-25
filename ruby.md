@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ruby notes
+title: ruby
 published: true
 ---
 
