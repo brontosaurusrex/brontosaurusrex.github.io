@@ -212,8 +212,10 @@ pre code {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #6d837f;
-  border-left: .01rem solid #7e836d;
+  /*color: #6d837f;*/
+  color: #71a5d6;
+  /*border-left: .01rem solid #7e836d;*/
+  border-left: .01rem solid #71a5d6;
 }
 blockquote p:last-child {
   margin-bottom: 0;
