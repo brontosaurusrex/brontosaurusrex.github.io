@@ -21,6 +21,10 @@ To run currently opened go file do:
 
     :GoRun %
     
+btw: plain vim equivalent would be
+
+    :!go run %
+    
 
 
 
