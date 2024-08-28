@@ -17,7 +17,7 @@ Effective go [https://go.dev/doc/effective_go](https://go.dev/doc/effective_go)
 
 ### Books
 
-Learn to Build Professional Web Applications with Go [https://lets-go.alexedwards.net](https://lets-go.alexedwards.net/)  
+- Learn to Build Professional Web Applications with Go [https://lets-go.alexedwards.net](https://lets-go.alexedwards.net/)  
 - John Arundel - For the Love of Go. (2023) > (reading now)
 - John Arundel - The Power of Go_ Tools (2024)
 - Jon Bodner - Learning Go_ An Idiomatic Approach to Real-world Go Programming, 2nd Edition (2024) > (reading now)
