@@ -37,8 +37,11 @@ This appears to work independently from Vim-go and gives some helpfull autocompl
 
 ![youCompleteMe](/media/youCompleteMe.png)
 
-
-
-
-
+> How deep is your love?  
+> How deep is your love?  
+> How deep is your love?  
+> I really mean to learn  
+> 'Cause we're living in a world of fools  
+> Breaking us down when they all should let us be  
+> We belong to you and me (na-na-na-na-na)
 
