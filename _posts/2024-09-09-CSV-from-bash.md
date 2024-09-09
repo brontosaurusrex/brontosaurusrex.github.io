@@ -20,3 +20,7 @@ Assuming the var is url, download with specific name:
 or as oneliner:
 
     curl "$(csvcut -c 'foto one' file.csv | head -21 | tail -1)" -o foto1.jpg
+
+Maybe some checks:
+
+    file -b foto1.jpg | grep 'JPEG image data' && echo "is jpeg"
