@@ -16,3 +16,7 @@ Find column by name 'foto one' and assign row 21 to some bash variable:
 Assuming the var is url, download with specific name:
 
     curl "${foto1}" -o foto1.jpg
+
+or as oneliner:
+
+    curl "$(csvcut -c 'foto one' file.csv | head -21 | tail -1)" -o foto1.jpg
