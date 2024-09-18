@@ -10,7 +10,7 @@ tags: misc cli
 
 In Debian repos, command name is `rg`.
 
-There is also [ugrep](https://ugrep.com), which can also searh pdfs, documents, e-books and image metadata. Command name is `ug`. Also in repos.
+There is also [ugrep](https://ugrep.com), which can also searh pdfs, documents, e-books and image metadata. Command name is `ug`. Also in repos. Update: there is also [rga (ripgrep-all)](https://github.com/phiresky/ripgrep-all), which alows searching pdf, docx, sqlite, jpg, movie subtitles (mkv, mp4), etc and has some sort of `fzf` integration as well. Some debate on [HN](https://news.ycombinator.com/item?id=41567262).
 
 ## Benchmarks
 
