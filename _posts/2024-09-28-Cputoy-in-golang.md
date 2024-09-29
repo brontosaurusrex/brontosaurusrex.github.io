@@ -15,3 +15,5 @@ tags: misc linux cli mine
     |||||||
     |||
     ||||||||||||||||||||
+
+Print cpu usage in Linux with some vertical bars.
