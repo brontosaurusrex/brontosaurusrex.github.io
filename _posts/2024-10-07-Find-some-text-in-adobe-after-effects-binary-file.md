@@ -34,3 +34,4 @@ may return
     -e b = encoding type is 16bit Unicode
 
 The rest should be clear from examples.
+Note: This will not find or display utf8 (or any multibyte char) correctly.
