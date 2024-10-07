@@ -8,6 +8,8 @@ tags: linux cli
 ## example 1
 
     strings -a -e b marilyn.aep | grep -i mar
+    # or interactive fuzzy finder:
+    strings -a -e b marilyn.aep | fzf 
 
 may return
 
