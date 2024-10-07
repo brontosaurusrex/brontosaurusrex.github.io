@@ -17,7 +17,7 @@ may return
 
 ## example 2
 
-    strings -a -e b marilyn\ razl\ \(converted\).aep | grep DIN | sort | uniq                                                                                                                     /mnt/b/brontosaurusrex_small/becomingMarilyn
+    strings -a -e b marilyn.aep | grep DIN | sort | uniq
 
 may return
 
