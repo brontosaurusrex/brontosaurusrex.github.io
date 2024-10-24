@@ -5,6 +5,8 @@ date: '2024-10-24 16:54'
 title: Access time mistery
 tags: linux cli bash 
 ---
+### facts
+
     mount | grep ' / '
 
 shall show the mount options, it prints this for my Debian WSL2 install:
@@ -27,3 +29,11 @@ will return dir listing sorted by access time, newer last.
     # find . -maxdepth 1  -type f -amin +60 -delete
 
 will delete files older that an hour from current dir.
+
+![img](/media/actually.png)
+
+### To avoid unreliable atime in scripting
+
+We could mark file age by using specific __touch__, before atime (or mtime) related code is called, for example:
+
+    touch $file.wav && play $file.wav
