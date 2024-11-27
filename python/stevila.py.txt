@@ -1,0 +1,72 @@
+# Najdi vsa števila od 1 do 100 deljiva s 3 in 5.
+
+# Rešuješ po delčkih
+
+# 1. Kako sploh izpisati števila od 1-100 (omejim se na 1-10, da ne gledam predolgih izpisov, logika bo enaka)
+# Poguglam 'python range' in dobim https://www.w3schools.com/python/ref_func_range.asp
+# range(start, stop, step)
+
+# Tale ne bo v redu, ker se začne z ničlo:
+x = range(11)
+for n in x:
+  print(n)
+
+# Tale bo v redu:
+x = range(1, 11, 1)
+for n in x:
+  print(n)
+  
+# A obstaja krajša verzija
+for n in range(1, 11, 1):
+  print(n)
+
+# A je n tipa FLOAT?
+for n in range(1, 11, 1):
+  print(n, type(n))
+
+# Ne, vsi n-ji so tipa INT
+# poguglam:
+# 'does number type need to be float for mod to operate properly in python?'
+# google pravi, da je vseeno
+
+# test, izpiši ostanke od deljenja s tri
+print("ostanki deljenja s tri")
+for n in range(1,101,1):
+    print(n % 3) # % je znak za mod/modula, to je ostanek od deljenja
+
+# dodaj if
+print("ali je deljivo s 3")
+for n in range(1,101,1):
+    if n % 3 == 0:
+        print(n)
+
+# Dodaj še pogoj deljivosti s 5
+print("ali je deljivo s 3 in 5")
+for n in range(1,101,1):
+    if n % 3 == 0:
+        if n % 5 ==0:
+            print(n)
+
+# vrne
+15
+30
+45
+60
+75
+90
+
+# Ali je ta dva pogoja možno napisati lepše, morda v eni vrstici
+# poguglam 'python if and'
+
+# Lepši zapis
+print("ali je deljivo s 3 in 5")
+for n in range(1,101,1):
+    if n % 3 == 0 and n % 5 ==0:
+        print(n)
+
+# 'optimizacija', ali pomeni deljivost s 3 in 5 enako kot
+# deljivost s 15?
+print("ali je deljivo s 15")
+for n in range(1,101,1):
+    if n % 15 == 0:
+        print(n)
