@@ -27,6 +27,48 @@ To make it spit where the pem stuff is, use
 
     sudo certbot certificates
 
-## An example nginx virtual host with https
+## wordpress
 
-    copy/paste here. 
+When you try to install a theme or plugin and wordpress asks you about your FTP credentials, add this line to wp-config.php
+
+    define('FS_METHOD', 'direct');
+
+## An example nginx virtual host with https
+    
+    server {
+
+        listen 80;
+        listen [::]:80;
+        listen 443 ssl;
+        listen [::]:443 ssl;
+
+        ssl_certificate /etc/letsencrypt/live/mydomain.duckdns.org/fullchain.pem;
+        ssl_certificate_key /etc/letsencrypt/live/mydomain.duckdns.org/privkey.pem;
+
+        server_name mydomain.duckdns.org;
+
+        root /var/www/html/mydomain.duckdns.org/wordpress;
+        index index.php index.html index.htm;
+
+        # Handle requests
+        location / {
+            try_files $uri $uri/ /index.php?$args;
+            # Only if you want to lock out the world:
+            auth_basic           "Who are you?";
+            auth_basic_user_file /etc/apache2/.htpasswd;
+        }
+
+        # PHP processing
+        location ~ \.php$ {
+            include snippets/fastcgi-php.conf;
+            # will depend on your php version
+            fastcgi_pass unix:/run/php/php8.2-fpm.sock;
+            fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+            include fastcgi_params;
+        }
+
+        # Deny access to .htaccess files
+        location ~ /\.ht {
+            deny all;
+        }
+    }
