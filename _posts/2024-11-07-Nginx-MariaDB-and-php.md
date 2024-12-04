@@ -42,12 +42,12 @@ When you try to install a theme or plugin and wordpress asks you about your FTP 
         listen 443 ssl;
         listen [::]:443 ssl;
 
-        ssl_certificate /etc/letsencrypt/live/mydomain.duckdns.org/fullchain.pem;
-        ssl_certificate_key /etc/letsencrypt/live/mydomain.duckdns.org/privkey.pem;
+        ssl_certificate /etc/letsencrypt/live/mydomain.org/fullchain.pem;
+        ssl_certificate_key /etc/letsencrypt/live/mydomain.org/privkey.pem;
 
         server_name mydomain.duckdns.org;
 
-        root /var/www/html/mydomain.duckdns.org/wordpress;
+        root /var/www/html/mydomain.org/wordpress;
         index index.php index.html index.htm;
 
         # Handle requests
