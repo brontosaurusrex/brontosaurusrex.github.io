@@ -15,3 +15,5 @@ https://www.youtube.com/watch?v=R8o7T5f3UuA&t=190s
  - Zebra (90%-95% should be ok for slog)
  - Overexpose a stop or two to get rid of some of the noise in blacks
  - Maybe don't shoot in slog at lower lightning conditions at all?
+
+Sony luts: [https://www.sony-mea.com/en/electronics/support/software/00263050](https://www.sony-mea.com/en/electronics/support/software/00263050)
