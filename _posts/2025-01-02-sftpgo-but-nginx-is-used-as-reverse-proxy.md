@@ -5,6 +5,8 @@ date: '2025-01-02 20:40'
 title: sftpgo with nginx as reverse proxy
 tags: web cli linux
 ---
+![sftplogo?](https://sftpgo.com/assets/img/logo.png)
+
 Situtation: nginx running and already using few virtual hosts.  
 Want: File sharing service similar to wetransfer, only interested in web browser drag/drop at the moment.
 
