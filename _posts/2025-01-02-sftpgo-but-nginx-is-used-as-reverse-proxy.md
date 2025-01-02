@@ -10,7 +10,7 @@ Want: File sharing service similar to wetransfer, only interested in web browser
 
 Install sftpgo as instructed by their page, it should bind to 127.0.0.1:8080 by default?
 
-Add a new virtual host to nginx that my look like this:
+Add a new virtual host to nginx that may look like this (mostly generated using chatgpt):
 
     server {
         server_name myfiles.duckdns.org;
