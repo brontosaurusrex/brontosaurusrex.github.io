@@ -5,9 +5,10 @@ date: '2025-01-02 20:40'
 title: sftpgo with nginx as reverse proxy
 tags: web cli linux
 ---
-Situtation: nginx running and already using few virtual things.
+Situtation: nginx running and already using few virtual hosts.  
+Want: File sharing service similar to wetransfer, only interested in web browser drag/drop at the moment.
 
-Install sftpgo as instructed by their page, it should bind to 127.0.0.1:8080
+Install sftpgo as instructed by their page, it should bind to 127.0.0.1:8080 by default?
 
 Add a new virtual host to nginx that my look like this:
 
