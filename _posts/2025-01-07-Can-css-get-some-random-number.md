@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2025-01-07 10:17'
-title: Can css get some random number based on url or filename to be used as an offset for background position?
+title: Can css get some random number based on url or ...
 tags: web 
 ---
 No, but js can said the gpt.
