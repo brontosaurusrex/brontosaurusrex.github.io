@@ -19,4 +19,15 @@ or not.
 
     mediainfo --Inform="General;%Format_Commercial_IfAny%" file.mxf
 
-It appears only single field can be requested at one run?
+## 3. Multiple fields?
+
+It appears only single field can be requested at one run, unless you specify custom template (untested):
+
+custom.txt
+
+    General;%Format_Commercial%
+    Video;%Width%
+
+cli
+
+    mediainfo --Inform=file://custom.txt file.mxf
