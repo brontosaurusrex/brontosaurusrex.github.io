@@ -6,5 +6,6 @@ title: Breaking Paywalls
 tags: misc 
 ---
 [https://lifehacker.com/how-to-bypass-a-paywall-to-read-an-article-for-free](https://lifehacker.com/how-to-bypass-a-paywall-to-read-an-article-for-free)  
+[https://archive.ph](https://archive.ph)  
 [https://www.shacklefree.in/](https://www.shacklefree.in/)  
 [https://12ft.io/](https://12ft.io/)
