@@ -49,4 +49,4 @@ So this is statically build site and I don't particulary fancy the idea of plugi
 
 ## Me?
 
-Videographer, Linux entusiast, Blender noob, slightly interested in web as well, always wanted to fly, also like that poor horse to really get what a recursive subdivision is.
+Videographer, Linux entusiast, Blender noob, slightly interested in web as well, always wanted to fly, accidental impressionist and post-gravitational artist, also like that poor horse to really get what a recursive subdivision is.
