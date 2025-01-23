@@ -5,7 +5,7 @@ date: '2023-04-21 08:41'
 title: The Vienna Game
 tags: chess 
 ---
-Fianchetto (3.g3) varitation (NM Robert Ramirez)   
+Fianchetto (3.g3) variation (NM Robert Ramirez)   
 <https://www.youtube.com/watch?v=xZGs48xcnao>
 
 Something like:  
