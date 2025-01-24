@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2025-01-24 13:37'
-title: Blurp last or middle frame or scene detected frames to tty, update 3
+title: Blurp last or middle frame or scene detected frames to tty, update 4
 tags: cli bash video 
 ---
 ## Scripts
