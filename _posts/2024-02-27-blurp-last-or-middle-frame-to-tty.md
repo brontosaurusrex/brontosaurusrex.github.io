@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2024-02-27 19:31'
+date: '2025-01-24 13:37'
 title: Blurp last or middle frame or scene detected frames to tty, update 3
 tags: cli bash video 
 ---
@@ -44,5 +44,17 @@ sceneFrame demo
 
 p.s. Also tested with kitty term and seems to work fine  
 [![image-nohash-md](https://i.imgur.com/MgIyOG0l.png)](https://i.imgur.com/MgIyOG0.png)
+
+## scdet
+
+There is another way to do scene detection using scdet filter,
+
+    # help
+    ffmpeg -h filter=scdet
+    # example
+    ffmpeg -i file.mxf -vf "scdet=threshold=0.2" -f null - 2> scdet.log 
+
+which supposedly uses a different kind of detection. Untested.
+Filter is not mentionied in ffmpeg docs due to experimental nature?
 
 (This post and scripts were first posted 22. 6. 2022.)
