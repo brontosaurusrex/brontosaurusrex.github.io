@@ -2,13 +2,11 @@
 layout: page
 title: client side search
 published: true
-tags: 
 ---
-
 
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.1.0"></script>
 
-<input type="text" id="search" placeholder="Type to search...">
+<input style="width:66%; padding:45px; font-size:110%; border:5px solid black;" type="text" id="search" placeholder="Type to search..." autofocus>
 <div id="results"></div>
 <script>
     let searchIndex = [];
@@ -16,9 +14,10 @@ tags:
         const response = await fetch('../search.json');
         searchIndex = await response.json();
         window.fuse = new Fuse(searchIndex, {
-            keys: ['title', 'content', 'tags'],
+            keys: ['date', 'title', 'content', 'tags'],
             includeScore: true,
-            threshold: 0.5
+            //findAllMatches: true,
+            threshold: 0.7
         });
     }
     document.getElementById('search').addEventListener('input', function() {
@@ -30,7 +29,11 @@ tags:
             results.forEach(({ item }) => {
                 const div = document.createElement('div');
                 div.className = 'result';
-                div.innerHTML = `<a href="${item.id}">${item.title}</a><p>${item.content.substring(0, 100)}...</p>`;
+                div.innerHTML = `
+  <a href="${item.id}">${item.title}</a>
+  ${item.date ? ` <small>(${item.date})</small>` : ''}
+  <p>${item.content.substring(0, 100)}...</p>
+`;
                 resultsContainer.appendChild(div);
             });
         }
