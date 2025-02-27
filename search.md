@@ -1,6 +1,6 @@
 ---
 layout: page
-title: client side search
+title: Client side search
 published: true
 ---
 
