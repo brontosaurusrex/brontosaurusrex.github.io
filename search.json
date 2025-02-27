@@ -4,28 +4,34 @@ permalink: /search.json
 ---
 
 [
-  {% assign post_count = site.posts | size %}
-  {% assign page_count = site.pages | size %}
-  {% assign total_count = post_count | plus: page_count %}
-  {% assign item_index = 0 %}
+  {% assign blacklist = "/atom.xml,/sitemap.xml,/blogmap" | split: "," %}
+  {% assign first_item = true %}
 
   {% for post in site.posts %}
-    {
-      "date": {{ post.date | jsonify }},
-      "id": {{ post.url | jsonify }},
-      "title": {{ post.title | jsonify }},
-      "content": {{ post.content | strip_html | strip_newlines | jsonify }},
-      "tags": {{ post.tags | jsonify }}
-    }{% assign item_index = item_index | plus: 1 %}{% if item_index < total_count %},{% endif %}
+    {% unless blacklist contains post.url %}
+      {% unless first_item %},{% endunless %}
+      {
+        "date": {{ post.date | jsonify }},
+        "id": {{ post.url | jsonify }},
+        "title": {{ post.title | jsonify }},
+        "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+        "tags": {{ post.tags | jsonify }}
+      }
+      {% assign first_item = false %}
+    {% endunless %}
   {% endfor %}
 
   {% for page in site.pages %}
-    {
-      "date": {{ page.date | jsonify }},
-      "id": {{ page.url | jsonify }},
-      "title": {{ page.title | jsonify }},
-      "content": {% if page.content %}{{ page.content | strip_html | strip_newlines | jsonify }}{% else %}"No content available"{% endif %},
-      "tags": {{ page.tags | jsonify }}
-    }{% assign item_index = item_index | plus: 1 %}{% if item_index < total_count %},{% endif %}
+    {% unless blacklist contains page.url %}
+      {% unless first_item %},{% endunless %}
+      {
+        "date": {{ page.date | jsonify }},
+        "id": {{ page.url | jsonify }},
+        "title": {{ page.title | jsonify }},
+        "content": {% if page.content %}{{ page.content | strip_html | strip_newlines | jsonify }}{% else %}"No content available"{% endif %},
+        "tags": {{ page.tags | jsonify }}
+      }
+      {% assign first_item = false %}
+    {% endunless %}
   {% endfor %}
 ]

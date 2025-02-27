@@ -17,7 +17,7 @@ published: true
             keys: ['date', 'title', 'content', 'tags'],
             includeScore: true,
             //findAllMatches: true,
-            threshold: 0.7
+            threshold: 0.6
         });
     }
     document.getElementById('search').addEventListener('input', function() {
