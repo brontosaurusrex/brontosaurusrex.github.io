@@ -20,6 +20,16 @@ published: true
             threshold: 0.6
         });
     }
+
+    // Function to format the date
+    function formatDate(dateString) {
+        const date = new Date(dateString);
+        const year = date.getFullYear();
+        const month = String(date.getMonth() + 1).padStart(2, '0'); // Months are zero-based
+        const day = String(date.getDate()).padStart(2, '0');
+        return `${day}. ${month}. ${year}`;
+    }
+
     document.getElementById('search').addEventListener('input', function() {
         const query = this.value;
         const resultsContainer = document.getElementById('results');
@@ -31,7 +41,7 @@ published: true
                 div.className = 'result';
                 div.innerHTML = `
   <a href="${item.id}">${item.title}</a>
-  ${item.date ? ` <small>(${item.date})</small>` : ''}
+  ${item.date ? ` <small>(${formatDate(item.date)})</small>` : ''}
   <p>${item.content.substring(0, 100)}...</p>
 `;
                 resultsContainer.appendChild(div);
@@ -40,4 +50,3 @@ published: true
     });
     loadData();
 </script>
-
