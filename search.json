@@ -2,24 +2,28 @@
 layout: none
 permalink: /search.json
 ---
+
 [
+  {% assign post_count = site.posts | size %}
+  {% assign page_count = site.pages | size %}
+  {% assign total_count = post_count | plus: page_count %}
+  {% assign item_index = 0 %}
 
   {% for post in site.posts %}
-  {
-    "id": "{{ post.url | escape }}",
-    "title": "{{ post.title | escape }}",
-    "content": "{{ post.content | strip_html | strip_newlines | escape }}",
-    "tags": "{{ post.tags | join: ', ' | escape }}"
-  }{% unless forloop.last %},{% endunless %}
+    {
+      "id": {{ post.url | jsonify }},
+      "title": {{ post.title | jsonify }},
+      "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+      "tags": {{ post.tags | jsonify }}
+    }{% assign item_index = item_index | plus: 1 %}{% if item_index < total_count %},{% endif %}
   {% endfor %}
 
   {% for page in site.pages %}
-  {
-    "id": "{{ page.url | escape }}",
-    "title": "{{ page.title | escape }}",
-    "content": "{{ page.content | strip_html | strip_newlines | escape }}"
-
-  }{% unless forloop.last %},{% endunless %}
+    {
+      "id": {{ page.url | jsonify }},
+      "title": {{ page.title | jsonify }},
+      "content": {% if page.content %}{{ page.content | strip_html | strip_newlines | jsonify }}{% else %}"No content available"{% endif %},
+      "tags": {{ page.tags | jsonify }}
+    }{% assign item_index = item_index | plus: 1 %}{% if item_index < total_count %},{% endif %}
   {% endfor %}
-
 ]
