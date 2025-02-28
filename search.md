@@ -15,7 +15,7 @@ published: true
 
 <input style="width:100%; padding:15px; margin-bottom:25px; margin-top:25px; font-size:110%; opacity:0.8;" type="text" id="search" placeholder="Type to search..." autofocus>
 
-<div id="results"></div>
+<div id="results">Supercharged by <a href="https://www.fusejs.io/">Fuse.js</a></div>
 <script>
     let searchIndex = [];
     async function loadData() {

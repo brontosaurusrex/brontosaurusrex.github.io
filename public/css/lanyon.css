@@ -148,9 +148,10 @@ img {
 /*
     width: 935px;
     max-width: 935px;
-*/
 
-    width: 550px;
+
+    width: 550px; */
+
     margin-top:     -4.5rem;
     margin-bottom:  0;  /* -1.0rem; */
     margin-left: -50px;     /* -90px; */
