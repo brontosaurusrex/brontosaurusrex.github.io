@@ -23,21 +23,19 @@
 
             
       </div>
-
-       
-      
-
-
-
-      <div class="container content">
+        <div class="container content">
           
           
-          <!-- <a href="/"><img class="brontologo" src="/public/brontolabs.svg" alt="brontologo" style="mix-blend-mode: color-dodge;"></a> -->
-          <a href="/"><img class="brontologo" src="/public/brontolabs.svg" alt="brontologo"></a> 
-    <!-- <a href="/"><div>
-        <object class="brontologo" style="max-width: 130%;
-    height: auto; margin-left: -120px; pointer-events: none;" type="image/svg+xml" data="/media/wordcloud2019c.svg">
-        </object></div></a> -->
+          <!-- <a href="/"><img class="brontologo" src="/public/brontolabs.svg" alt="brontologo" style="mix-blend-mode: color-dodge;"></a> 
+          <a href="/"><img class="brontologo" src="/public/brontolabs_links.svg" alt="brontologo"></a> 
+          <img class="brontologo" src="/public/brontolabs_links.svg" alt="brontologo">  -->
+
+          <!-- Linked svg in this example has two embeded links, so the body should jump to root and head to the new client side search -->
+          <object type="image/svg+xml" data="/public/brontolabs_links.svg" class="brontologo" style="mix-blend-mode: multiply;"></object> 
+
+          <!-- <a href="/"><div> -->
+
+
       
         {{ content }}
 
