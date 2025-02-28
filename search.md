@@ -1,12 +1,20 @@
 ---
-layout: page
+layout: search
 title: Client side search
 published: true
 ---
 
+<style>
+  input#search {
+  display: block;
+  margin: 0 auto; /* Centers horizontally */
+}
+</style>
+
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.1.0"></script>
 
-<input style="width:66%; padding:45px; font-size:110%; border:5px solid black;" type="text" id="search" placeholder="Type to search..." autofocus>
+<input style="width:100%; padding:15px; margin-bottom:25px; margin-top:25px; font-size:110%; opacity:0.8;" type="text" id="search" placeholder="Type to search..." autofocus>
+
 <div id="results"></div>
 <script>
     let searchIndex = [];
@@ -16,8 +24,10 @@ published: true
         window.fuse = new Fuse(searchIndex, {
             keys: ['date', 'title', 'content', 'tags'],
             includeScore: true,
-            //findAllMatches: true,
-            threshold: 0.6
+            findAllMatches: true,
+            distance: 2000000,
+            includeMatches: true,
+            threshold: 0.3
         });
     }
 
