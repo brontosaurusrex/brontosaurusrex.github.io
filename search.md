@@ -23,16 +23,17 @@ published: true
         searchIndex = await response.json();
         window.fuse = new Fuse(searchIndex, {
           keys: [
-            { name: 'date', weight: 0.6 },    // Higher weight for the date key
-            { name: 'title', weight: 0.3 },   // Example weight
-            { name: 'content', weight: 0.3 }, // Example weight
+            { name: 'date', weight: 0.4 },    // Higher weight for the date key
+            { name: 'title', weight: 0.4 },   // Example weight
+            { name: 'content', weight: 0.4 }, // Example weight
             { name: 'tags', weight: 0.1 }     // Example weight
           ],
           includeScore: true,
-          findAllMatches: true,
+          findAllMatches: false,
           distance: 2000000,
           includeMatches: true,
-          threshold: 0.3
+          threshold: 0.3,
+          shouldSort: true
         });
     }
 
