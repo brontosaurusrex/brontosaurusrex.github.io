@@ -304,8 +304,16 @@ Wikipedia:
 Wikipedia:  
 > About a hundred years after the events in Semiosis, a new expedition to Pax from Earth is launched. Contact with the Pax colonists had been lost soon after they landed on the planet. On Pax the new arrivals find descendants of the original colonists living side-by-side in a glass city with alien arthropod-like Glassmakers, and Stevland, a sentient rainbow bamboo. Stevland oversees a fragile peace between the Pax humans and the Glassmakers. The Earthlings, as the new arrivals are called, interfere with this delicate balance, causing divisions in the colony and amongst themselves.
 
-## Children of Time (Adrian Tchaikovsky -2015)
+## Children of Time (Adrian Tchaikovsky - 2015)
 
 > The last remnant of mankind has traveled across galaxies in search of a fabled planet that was terraformed and intended as a new Earth. They discover that the planet is not as uninhabited as they had presumed, and find it under the stewardship of a fiercely-protective artificial intelligence in orbit.
 
 > The next in the series, Children of Ruin, was published in 2019. A third book, Children of Memory, was published in 2022.
+
+## Just Because It Happened To You Doesn't Make It Interesting (David Thorne - 2024)
+
+jetty  
+/ˈdʒɛti/  
+noun  
+a landing stage or small pier at which boats can dock or be moored.  
+"Ben jumped ashore and tied the rowboat up to the small wooden jetty"
