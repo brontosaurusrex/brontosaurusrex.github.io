@@ -9,6 +9,6 @@ Install
 
     apt install python3-ttconv
 
-Convert example
+Convert stl to srt subtitles
 
     ttconv convert -i test.stl -o test.srt
