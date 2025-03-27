@@ -1,15 +1,11 @@
 ---
-layout: mine
-title: Blender 2.8 course
 published: true
+layout: post
+date: '2024-01-01 13:37'
+title: Blender course
+tags: blender 
 ---
-<style>
-ol > li:hover {
-  color: #2693ff;
-}
-</style>
-
-<a href="#toc" id="markdown-toc-toc"><img src="{{site.baseurl}}/media/blender_logo.png" style="max-width:100%; position:relative; left:50%; transform:translate(-50%, 0%); margin-top: -70px; margin-bottom: 0px"></a>
+<img src="{{site.baseurl}}/media/blender_logo.png">
 
 ## 3d representation
 
