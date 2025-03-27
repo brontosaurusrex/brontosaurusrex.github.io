@@ -25,3 +25,7 @@ paginate:         7
 collections:
     bucentaur:
         output: true
+
+exclude:
+  - informatika/
+  # Only listed directories will be processed
