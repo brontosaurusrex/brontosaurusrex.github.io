@@ -33,8 +33,6 @@ Edit: tinypress replaced with prose.io. Edit2: Nowadays it's a script called '[n
 - Being annoyed by the jekyll's idea of "front matter", I mean can't this be automatic or what ..., realized that included metadata is basically a good thing, posts are actually engine-independent on the long run. Saw that github understands "front matter" at some level. Edit: prose.io deals with frontmatter automagically as well if configured corectly.
 - Actually installed jekyll offline to do some more problematic positioning of the elements and some other hacks to the theme.
 
-Now the posting speed is almost equal to using wordpress (after about 20 days of using this), decided that images should all be hosted by 3rd party providers (thanks to scrots.moe).
-
 Cons:
 - Google is slow to index the site, so my "google this page" thingy is kinda useless. Edit: This is highly related to the fact that I don't have a top level domain for this blog.
 - Slightly complicated posting (compared to wordpress), there is no server-side image resizing for example.
