@@ -61,11 +61,5 @@ https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Nodes/Nodes_Efficie
 
 Many more https://www.blenderguru.com/articles/12-useful-blender-addons-everyone-should-use
 
-## materials
 
-- [3dwolf PBR](https://www.3d-wolf.com/products/materials.html)
-
-## Shortcut infographics
-
-[infographics](https://tplinnovator.files.wordpress.com/2015/09/blender3d-shortcuts-infographic.jpg)  
 
