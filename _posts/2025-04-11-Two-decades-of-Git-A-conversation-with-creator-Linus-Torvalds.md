@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2025-04-11 10:13'
-title: Two decades of Git: A conversation with creator Linus Torvalds
+title: Two decades of Git (Linus Torvalds)
 tags: linux 
 ---
 <https://www.youtube.com/watch?v=sCr_gb8rdEI>
