@@ -19,3 +19,7 @@ tags: misc cli linux
 
     (+ 1 2 3)
     ; should return 6
+
+## Books
+<https://gigamonkeys.com/book/>  
+> Practical Common Lisp published by Apress These pages now contain the final text as it appears in the book.
