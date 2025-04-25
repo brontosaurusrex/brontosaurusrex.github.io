@@ -20,6 +20,20 @@ tags: misc cli linux
     (+ 1 2 3)
     ; should return 6
 
+Hello world (~% stands for newline)
+
+    (format t "hello world~%")
+
+Hello world as a function
+
+    (defun hello-world () (format t "hello world~%"))
+    (hello-world)
+
+Hello world as a selfpropeled script with shebang that works on Debian
+
+    #!/usr/bin/sbcl --script
+    (format t "hello world~%")
+
 ## Books
 <https://gigamonkeys.com/book/>  
 > Practical Common Lisp published by Apress These pages now contain the final text as it appears in the book.
