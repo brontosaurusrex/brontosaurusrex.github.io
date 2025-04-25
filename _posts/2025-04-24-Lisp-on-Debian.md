@@ -17,6 +17,8 @@ tags: misc cli linux
 
 ## Test
 
+Add 3 numbers
+
     (+ 1 2 3)
     ; should return 6
 
