@@ -317,3 +317,8 @@ jetty
 noun  
 a landing stage or small pier at which boats can dock or be moored.  
 "Ben jumped ashore and tied the rowboat up to the small wooden jetty"
+
+## Shroud (Adrian Tchaikovsky - 2025)
+
+https://goldsborobooks.com/products/shroud :  
+> Under no circumstances can a human survive Shroud’s inhospitable surface – but a catastrophic accident forces Juna Ceelander and Mai Ste Etienne to make an emergency landing in a barely adequate escape vehicle. Alone, and fighting for survival, the two women embark on a gruelling journey across land, sea and air in search of salvation. But as they travel, Juna and Mai begin to understand Shroud’s unnerving alien species. It also begins to understand them. If they escape Shroud, they’ll somehow have to explain the impossible and translate the incredible. That is, if they make it back at all . . .

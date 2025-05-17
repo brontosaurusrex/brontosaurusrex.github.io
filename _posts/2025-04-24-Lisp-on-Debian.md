@@ -46,6 +46,6 @@ In zellij or tmux run
 
     sbcl --load ~/.vim/pack/plugins/start/slimv/slime/start-swank.lisp
 
-Open vim test.lisp or something, type ,c for start and ,e for eval.
+Open vim test.lisp or something, type ,c for start and ,e for eval. ctrl+ww to switch to repl, i to edit it.
 
 ![vimlisp](/media/vimlisp.png)
