@@ -366,3 +366,10 @@ https://goldsborobooks.com/products/shroud :
 ## There Is No Antimemetics Division (Sam Hughes - 2020)
 
 > How do you fight a war against an enemy with effortless, perfect camouflage, when you can never even know that you're at war? Welcome to the Antimemetics Division. No, this is not your first day.
+
+## Blindsight (Peter Watts - 2006)
+
+Wikipedia:  
+> In the year 2082, tens of thousands of coordinated comet-like objects of an unknown origin, dubbed "Fireflies", burn up in the Earth's atmosphere in a precise grid, while momentarily broadcasting across an immense portion of the electromagnetic spectrum, catching humanity off guard and alerting it to an undeniable extraterrestrial presence. It is suspected that the entire planet has been surveyed in one effective sweep.
+
+It has vampires, Augmented humans, smart aliens (with no self-awareness). Skip this one.
