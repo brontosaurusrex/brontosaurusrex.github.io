@@ -5,6 +5,8 @@ date: '2025-05-28 20:28'
 title: Colorize some string based on its hash
 tags: bash 
 ---
+![scrot](/media/colorizeString.png)
+
     #!/bin/bash
     
     # colorizeStringBasedOnHash
@@ -33,3 +35,4 @@ So
     ./colorizeStringBasedOnHash "bark bark bark bark bark"
 
 should always come out as pink. Run without parameters for random string. Not all terminals will support that (they have to be truecolor or something).
+
