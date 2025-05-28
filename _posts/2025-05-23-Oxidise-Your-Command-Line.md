@@ -7,6 +7,8 @@ tags: cli linux
 ---
 Rust.
 
+> Rust is a general-purpose programming language emphasizing performance, type safety, and concurrency. It enforces memory safety...
+
 <https://www.youtube.com/watch?v=rWMQ-g2QDsI>
 
     Packages mentioned, find them all on lib.rs:
