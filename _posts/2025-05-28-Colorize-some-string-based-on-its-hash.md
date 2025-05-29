@@ -56,4 +56,4 @@ and then just hash % 360 to get a hue.
 
 ## Notes
 
-Both md5sum and cksum are part of coreutils (should be present on any debianish system). Btw: Speed difference seems insignificant.
+Both md5sum and cksum are part of coreutils (should be present on any debianish system). Btw: Speed difference seems insignificant (cksum default crc32 vs md5sum).
