@@ -5,6 +5,10 @@ date: '2025-05-29 09:44'
 title: The GNU Core Utilities
 tags: linux 
 ---
+<https://www.gnu.org/software/coreutils/>
+
+> The GNU Core Utilities are the basic file, shell and text manipulation utilities of the GNU operating system. These are the core utilities which are expected to exist on every operating system.
+
 <https://www.maizure.org/projects/decoded-gnu-coreutils>
 
 | | | | | |
