@@ -7,7 +7,7 @@ tags: linux
 ---
 <https://www.maizure.org/projects/decoded-gnu-coreutils>
 
- | | | | |
+| | | | | |
 | :--------: | :-------: | :--------: | :-------: | :--------: |
 | arch     | base64  | basename | cat     | chcon    |
 | chgrp | chmod | chown | chroot | cksum |
@@ -29,3 +29,4 @@ tags: linux
 | tsort | tty | uname | unexpand | uniq |
 | unlink | uptime | users | vdir | wc |
 |who | whoami | yes | | |
+| | | | | |
