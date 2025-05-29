@@ -8,7 +8,7 @@ tags: linux
 <https://www.maizure.org/projects/decoded-gnu-coreutils>
 
 | | | | | |
-| :--------: | :-------: | :--------: | :-------: | :--------: |
+| :-------- | :------- | :-------- | :------- | :-------- |
 | arch     | base64  | basename | cat     | chcon    |
 | chgrp | chmod | chown | chroot | cksum |
 | comm | cp | csplit | cut | date |
