@@ -36,3 +36,9 @@ So
 
 should always come out as pink. Run without parameters for random string. Not all terminals will support that (they have to be truecolor or something).
 
+![actually](/media/actually.png)
+
+For the purposes of similar brightness between generated colors one could just do: 
+- hue from hash (instead of rgb), getting range 0-359 (hue=$(($hash % 360)).
+- make sat and light static (sat=someValue, light=someOtherValue)
+- Convert that HSL to RGB (see chatgpt generated formulas for that)
