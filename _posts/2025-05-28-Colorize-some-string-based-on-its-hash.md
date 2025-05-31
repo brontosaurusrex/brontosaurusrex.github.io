@@ -57,3 +57,23 @@ and then just hash % 360 to get a hue.
 ## Notes
 
 Both md5sum and cksum are part of coreutils (should be present on any debianish system). Btw: Speed difference seems insignificant (cksum default crc32 vs md5sum).
+
+## HSL edition: sinestesia
+
+> Synesthesia is a neurological condition where stimulation of one sense triggers an involuntary experience in another sense. For example, someone with synesthesia might see colors when hearing music or taste textures. It's not a medical disorder, but a unique and often fascinating sensory phenomenon. 
+
+The script:  
+<https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/sinesthesia>  
+
+Usage:
+
+    sinestesia "bark bark"
+    # or
+    cat some.txt | sinestesia
+
+Change:
+
+      local sat="20"
+      local light="88"
+
+for more/less saturated/light colors. Only hue is now derived from hash.
