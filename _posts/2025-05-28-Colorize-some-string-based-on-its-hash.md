@@ -73,8 +73,8 @@ Usage:
 
 Change:
 
-      local sat="20"
-      local light="88"
+      local sat="20"    # 0-100
+      local light="88"  # 0-100
 
 for more/less saturated/light colors. Only hue is now derived from hash.
 
