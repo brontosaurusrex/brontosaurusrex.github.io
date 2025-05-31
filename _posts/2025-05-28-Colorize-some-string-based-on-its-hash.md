@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2025-05-31 13:37'
+date: '2025-05-30 13:37'
 title: Colorize some string based on its hash
 tags: bash 
 ---
