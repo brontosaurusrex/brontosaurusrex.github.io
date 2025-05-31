@@ -38,7 +38,7 @@ So
 
 should always come out as pink. Run without parameters for random string. Not all terminals will support that (they have to be truecolor or something).
 
-## Some thoughts
+### Some thoughts
 
 ![actually](/media/actually.png)
 
@@ -54,7 +54,7 @@ For the purposes of similar brightness between generated colors one could just d
 
 and then just hash % 360 to get a hue.
 
-## Notes
+### Notes
 
 Both md5sum and cksum are part of coreutils (should be present on any debianish system). Btw: Speed difference seems insignificant (cksum default crc32 vs md5sum).
 
