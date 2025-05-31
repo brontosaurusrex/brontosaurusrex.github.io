@@ -62,7 +62,7 @@ Both md5sum and cksum are part of coreutils (should be present on any debianish 
 
 > Synesthesia is a neurological condition where stimulation of one sense triggers an involuntary experience in another sense. For example, someone with synesthesia might see colors when hearing music or taste textures. It's not a medical disorder, but a unique and often fascinating sensory phenomenon. 
 
-The script:  
+The script (sinesthesia):  
 <https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/sinesthesia>  
 
 Usage:
@@ -89,3 +89,21 @@ for more/less saturated/light colors. Only hue is now derived from hash.
 ### Scrot
 
 ![sinesthesia](/media/sinestesia.png)
+
+## And another script, colorize based on color names
+
+The script (crayon):  
+<https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/crayon>
+
+Usage:
+
+    cat sometext.txt | crayon tomato
+    crayon red "yellow"
+
+Shortened color names should also work:
+
+    crayon mato "woot"
+    # would be the same as
+    crayon tomato "woot"
+
+Color names sourced from [this page](https://htmlcolorcodes.com/color-names).
