@@ -78,4 +78,6 @@ Change:
 
 for more/less saturated/light colors. Only hue is now derived from hash.
 
+### Scrot
+
 ![sinestesia](/media/sinestesia.png)
