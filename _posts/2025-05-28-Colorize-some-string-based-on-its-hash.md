@@ -77,3 +77,5 @@ Change:
       local light="88"
 
 for more/less saturated/light colors. Only hue is now derived from hash.
+
+![sinestesia](/media/sinestesia.png)
