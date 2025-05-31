@@ -78,6 +78,14 @@ Change:
 
 for more/less saturated/light colors. Only hue is now derived from hash.
 
+### Usage example from another script
+
+    if command -v sinesthesia >/dev/null 2>&1; then
+        cat "$file" | fmt -w ${width} | sed 's/ \{1,\}/ /g' | sinesthesia
+    else
+        cat "$file" | fmt -w ${width} | sed 's/ \{1,\}/ /g'
+    fi
+
 ### Scrot
 
 ![sinestesia](/media/sinestesia.png)
