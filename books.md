@@ -380,3 +380,13 @@ It has vampires, Augmented humans, smart aliens (with no self-awareness). Skip t
 
 Wikipedia:  
 > A scientific expedition on an alien planet goes awry when one of its members is attacked by a giant native creature. She is saved by the expedition's SecUnit (Security Unit), a cyborg security agent. The SecUnit has secretly hacked the governor module that allows it to be controlled by humans and has named itself Murderbot, as it is heavily armed and designed for combat. However, it prefers to spend its time watching soap operas and is uncomfortable interacting with humans.
+
+Novels:
+
+    All Systems Red         (2017)
+    Artificial Condition    (2018)
+    Rogue Protocol          (2018)
+    Exit Strategy           (2018)
+    Network Effect          (2020)
+    Fugitive Telemetry      (2021)
+    System Collapse         (2023)
