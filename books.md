@@ -373,3 +373,10 @@ Wikipedia:
 > In the year 2082, tens of thousands of coordinated comet-like objects of an unknown origin, dubbed "Fireflies", burn up in the Earth's atmosphere in a precise grid, while momentarily broadcasting across an immense portion of the electromagnetic spectrum, catching humanity off guard and alerting it to an undeniable extraterrestrial presence. It is suspected that the entire planet has been surveyed in one effective sweep.
 
 It has vampires, Augmented humans, smart aliens (with no self-awareness). Skip this one.
+
+## 	All Systems Red - The Murderbot Diaries (Martha Wells - 20017)
+
+"As a heartless killing machine, I was a complete failure."
+
+Wikipedia:  
+> A scientific expedition on an alien planet goes awry when one of its members is attacked by a giant native creature. She is saved by the expedition's SecUnit (Security Unit), a cyborg security agent. The SecUnit has secretly hacked the governor module that allows it to be controlled by humans and has named itself Murderbot, as it is heavily armed and designed for combat. However, it prefers to spend its time watching soap operas and is uncomfortable interacting with humans.
