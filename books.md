@@ -374,7 +374,7 @@ Wikipedia:
 
 It has vampires, Augmented humans, smart aliens (with no self-awareness). Skip this one.
 
-## 	All Systems Red - The Murderbot Diaries (Martha Wells - 20017)
+## 	All Systems Red - The Murderbot Diaries (Martha Wells - 2017)
 
 "As a heartless killing machine, I was a complete failure."
 
