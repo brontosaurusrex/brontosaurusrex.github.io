@@ -390,3 +390,10 @@ Novels:
     Network Effect          (2020)
     Fugitive Telemetry      (2021)
     System Collapse         (2023)
+
+## Artificial Condition - The Murderbot Diaries #2 (Martha Wells - 2018)
+
+Wikipedia:  
+> Murderbot hacks its way onto unmanned cargo ships to travel toward the mining facility where it once malfunctioned. It hopes to learn more about the initial incident in which it went rogue, of which it has little memory. Murderbot reluctantly befriends the unexpectedly powerful, intrusive bot that pilots the research transport in which it is making the final leg of its journey to RaviHyral, the station where the incident occurred. Murderbot allows this artificial intelligence—which it has dubbed ART (Asshole Research Transport) due to its sarcastic personality—to make physical modifications to the SecUnit's body that will better allow it to pass for an augmented human, and to disconnect the data port at the back of its neck which had been used to insert a combat override module in the previous book.
+
+ART rocks.
