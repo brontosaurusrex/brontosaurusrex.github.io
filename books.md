@@ -397,3 +397,8 @@ Wikipedia:
 > Murderbot hacks its way onto unmanned cargo ships to travel toward the mining facility where it once malfunctioned. It hopes to learn more about the initial incident in which it went rogue, of which it has little memory. Murderbot reluctantly befriends the unexpectedly powerful, intrusive bot that pilots the research transport in which it is making the final leg of its journey to RaviHyral, the station where the incident occurred. Murderbot allows this artificial intelligence—which it has dubbed ART (Asshole Research Transport) due to its sarcastic personality—to make physical modifications to the SecUnit's body that will better allow it to pass for an augmented human, and to disconnect the data port at the back of its neck which had been used to insert a combat override module in the previous book.
 
 ART rocks.
+
+## Rogue Protocol - The Murderbot Diaries #3 (Martha Wells - 2018)
+
+Wikipedia:  
+> Murderbot makes its way to a recently abandoned GrayCris terraforming facility in orbit over the planet Milu to collect further evidence of the company's past crimes. Befriending a pet-like humanoid bot named Miki as a means to keep its presence hidden, the SecUnit secretly follows a team of humans sent to assess the facility before a new company takes possession of it. Murderbot is forced to reveal itself when the humans are attacked by a hostile combat robot and one of the researchers is captured. 
