@@ -90,6 +90,14 @@ for more/less saturated/light colors. Only hue is now derived from hash.
 
 ![sinesthesia](/media/sinestesia.png)
 
+### Update: The perceptual brightness
+
+Colors should now be more 'perceptually balanced' due to a new awk function added, named 'gamma_correct'. 
+
+ChatGPT explanation:  
+> gamma_correct adjusts RGB colors so they all have roughly the same perceived brightness by converting them to linear RGB, normalizing luminance, and converting back to sRGB.
+
+
 ## And another script, colorize based on color names
 
 The script (crayon):  
