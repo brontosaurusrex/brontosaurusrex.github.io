@@ -88,7 +88,7 @@ for more/less saturated/light colors. Only hue is now derived from hash.
 
 ### Scrot
 
-![sinesthesia](/media/sinestesia.png)
+![sinesthesia](/media/sinesthesia.png)
 
 ### Update: The perceptual brightness
 
@@ -97,6 +97,7 @@ Colors should now be more 'perceptually balanced' due to a new awk function adde
 ChatGPT explanation:  
 > gamma_correct adjusts RGB colors so they all have roughly the same perceived brightness by converting them to linear RGB, normalizing luminance, and converting back to sRGB.
 
+![sinesthesia2](/media/sinesthesia2.png)
 
 ## And another script, colorize based on color names
 
