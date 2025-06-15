@@ -7,12 +7,12 @@ tags: cli bash linux
 ---
 Get the path
 
-    # Get windows username
-    win_user=$(cmd.exe /c "echo %USERNAME%" | tr -d '\r') || exit
-    echo "Windows username: $win_user"
+    # get linux path to windows %LOCALAPPDATA%
+    # and assume the rest is hardcoded
+    wslpath="$(wslpath "$(cmd.exe /c "echo %LOCALAPPDATA%\Packages\Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe\LocalState" | tr -d '\r')")"
 
-    # All these methods assume WSL is installed under the current user profile (not as system-wide).
-    cd "$(wslpath -a C:\\Users\\${win_user}\\AppData\\Local\\Packages\\Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe\\LocalState)" || exit
+    # All these methods assume WSL is installed under the 'current user profile' (not as system-wide).
+    cd "$wslpath" || exit
 
     pwd
 
