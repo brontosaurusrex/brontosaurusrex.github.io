@@ -20,10 +20,17 @@ Get the path
 
 Assumes current user profile type of installation ...
 
+Figure out the guid manually by inspecting the settings.json. (There should be a way to do this automagically, but my 'Bookworm' is not listed in 'wsl --list' for some reason)
+
+    "guid": "{1cd9302d-337e-54e1-bb87-c45069dc5a47}", < This
+    "hidden": false,
+    "icon": null,
+    "name": "bookworm (12)",
+    "scrollbarState": "hidden",
+    "source": "Windows.Terminal.Wsl"
+    etc ...
+
 Do the jq magic
 
     cp settings.json setting.json.bak || exit # backup
-    jq '(.profiles.list[] | select(.name == "bookworm (12)")).font.face = "Fira Code"' settings.json > tmp.json
-    cp tmp.json settings.json
-
-Unclear at this point on how to get the name of the distro currently active automagically, that is "bookworm (12)" in this example.
+    jq '(.profiles.list[] | select(.guid == "{1cd9302d-337e-54e1-bb87-c45069dc5a47}")).font.face = "Fira Code"' settings.json > tmp.json && mv tmp.json settings.json
