@@ -402,3 +402,12 @@ ART rocks.
 
 Wikipedia:  
 > Murderbot makes its way to a recently abandoned GrayCris terraforming facility in orbit over the planet Milu to collect further evidence of the company's past crimes. Befriending a pet-like humanoid bot named Miki as a means to keep its presence hidden, the SecUnit secretly follows a team of humans sent to assess the facility before a new company takes possession of it. Murderbot is forced to reveal itself when the humans are attacked by a hostile combat robot and one of the researchers is captured. 
+
+Read all of them but 'System Collapse'.
+
+## Spin (Robert Charles Wilson - 2005)
+
+Wikipedia:  
+> Tyler is friends with the couple's thirteen-year-old twins: Jason, a brilliant student who is being groomed to take over the family business, and Diane, with whom Tyler falls in love. One night the three children witness all the stars simultaneously disappear. Telecommunications suffer as every satellite falls out of orbit simultaneously.
+
+> It is the first book in the Spin trilogy, with Axis (the second) published in 2007 and Vortex published in July 2011. In January 2015, Syfy announced it was developing a six-hour miniseries based on the book.
