@@ -411,3 +411,23 @@ Wikipedia:
 > Tyler is friends with the couple's thirteen-year-old twins: Jason, a brilliant student who is being groomed to take over the family business, and Diane, with whom Tyler falls in love. One night the three children witness all the stars simultaneously disappear. Telecommunications suffer as every satellite falls out of orbit simultaneously.
 
 > It is the first book in the Spin trilogy, with Axis (the second) published in 2007 and Vortex published in July 2011. In January 2015, Syfy announced it was developing a six-hour miniseries based on the book.
+
+## Bobiverse #1 - We Are Legion (We Are Bob) (Dennis E. Taylor - 2016)
+
+godreads:
+
+> We are Legion follows the story of Bob, who after dying in the 21st century, is put on ice and revived hundreds of years later as a sentient AI that does not have a real body. He is told his mission is to explore the stars as a special type of probe that can self-replicate, with each new probe piloted by clones of the original AI, creating a legion of “Bobs”. There are many different viewpoints from several of the Bob clones, each with distinct personalities. The plot follows Bob through his adventures exploring the universe as he encounters new planets, new intelligent life, hostile probes, and eventually saving the human race from extinction.
+
+wikipedia:
+
+> A self-replicating machine is a type of autonomous robot that is capable of reproducing itself autonomously using raw materials found in the environment, thus exhibiting self-replication in a way analogous to that found in nature.
+
+> A von Neumann probe is a spacecraft capable of replicating itself. It is a concatenation of two concepts: a Von Neumann universal constructor (self-replicating machine) and a probe (an instrument to explore or examine something).The concept is named after Hungarian American mathematician and physicist John von Neumann
+
+Books in bobiverse series:
+
+    Book One: We Are Legion (We Are Bob)
+    Book Two: For We Are Many
+    Book Three: All These Worlds
+    Book Four: Heaven’s River
+    Book Five: Not Til We Are Lost
