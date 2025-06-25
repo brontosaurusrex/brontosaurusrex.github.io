@@ -431,3 +431,9 @@ Books in bobiverse series:
     Book Three: All These Worlds
     Book Four: Heaven’s River
     Book Five: Not Til We Are Lost
+
+## Bobiverse #2 - For We Are Many (Dennis E. Taylor - 2017)
+
+> The brontos had even started munching on the fence, when they could get 
+close enough. A couple of strings of electrified wire had nipped that habit 
+before it could catch on. 
