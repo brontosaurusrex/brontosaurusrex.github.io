@@ -4,47 +4,58 @@ title: about
 published: true
 ---
 
-## This blog operates under this principles
+## This blog operates under these principles
 
-> Freedom of speech is the right to communicate one's opinions and ideas without fear of government retaliation or censorship. The term freedom of expression is sometimes used synonymously, but includes any act of seeking, receiving and imparting information or ideas, regardless of the dinosaur used.
-
+> Freedom of speech is the right to communicate one's opinions and ideas without fear of government retaliation or censorship. The term *freedom of expression* is sometimes used synonymously, but includes any act of seeking, receiving, and imparting information or ideas—regardless of the dinosaur used.
 
 ## Privacy
 
-/me do NOT track, log, spy or are in any way aware of the user presence on this site. 
+/me does NOT track, log, spy on, or in any way remain aware of the user's presence on this site.
 
-This blog is hosted using 3rd party tech, curently '[github pages](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement)', '[imgur image hosting](https://imgur.com/privacy)' and '[imgbox image hosting](https://imgur.com/privacy)' where /me is [neither Controller, neither Processor](https://advisera.com/eugdpracademy/knowledgebase/eu-gdpr-controller-vs-processor-what-are-the-differences/). Their rules will apply. 
+This blog is hosted using third-party tech, currently:  
+- [GitHub Pages](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement)  
+- [Imgur image hosting](https://imgur.com/privacy)  
+- [Imgbox image hosting](https://imgbox.com/privacy)
 
-## Thinkering and development
-
-### I went through this (running away from wordpress):
-
-- Do a blog from scratch (build bash engine, which was slow but kinda working) and actually had a nice search-engine like index.
-- Realized that without some sort of web interface, writing blogs would be really boring, slow, ....
-- Long pause, almost went back to wordpress
-- Back to drawing board, did some research on how people blog in 2015/2016
-- After a while reading about jekyll and similar solutions realized that there is 3rd party service called tinypress, which could be used to post to github hosted jekyll page.
-- The idea to write jekyll template from scratch, got bored, since it is not only about jekyll, but building a mobile friendly site < more that I was prepared to deal with
-- Evil hackish plans growing, decided to go with more "Do it fast to get something working, fix it later" approach. < It went really really fast from this point on.
-- Found [lanyon theme](https://github.com/poole/lanyon), uploaded it and add some posts using tinypress
-- Changing the theme slightly > at this point there is a working / online blog without even running jekyll offline on my machine [https://brontosaurusrex.github.io/2016/01/02/1st-tinypress-post/](https://brontosaurusrex.github.io/2016/01/02/1st-tinypress-post/)
-- Realized that tinypress has bugs and lacks features (concluded that with some workarounds it is still good enough for scribble posts, which can be later fixed offline with a real text editor or perhaps using github's online one) < 99% of my posts are quick scribbles anyway, so no big deal.
-Edit: tinypress replaced with prose.io. Edit2: Nowadays it's a script called '[newPost](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/bin/newPost)' and Vim/Geany.
-- Being annoyed by the jekyll's idea of "front matter", I mean can't this be automatic or what ..., realized that included metadata is basically a good thing, posts are actually engine-independent on the long run. Saw that github understands "front matter" at some level. Edit: prose.io deals with frontmatter automagically as well if configured corectly.
-- Actually installed jekyll offline to do some more problematic positioning of the elements and some other hacks to the theme.
-
-Cons:
-- Google is slow to index the site, so my "google this page" thingy is kinda useless. Edit: This is highly related to the fact that I don't have a top level domain for this blog.
-- Slightly complicated posting (compared to wordpress), there is no server-side image resizing for example.
-
-Pros:
-- Obviously using git my site is fully backuped on multiple machines.
-- Hosted by not-me, so I don't have to deal with boring server security (should be easily regenerated and uploaded to any server if github drops).
+Where /me is [neither Controller nor Processor](https://advisera.com/eugdpracademy/knowledgebase/eu-gdpr-controller-vs-processor-what-are-the-differences/). Their rules apply.
 
 ## Comments?
 
-So this is statically build site and I don't particulary fancy the idea of plugin in disqus or any 3rd party service like that, but you may use [githubs "issues" device](https://github.com/brontosaurusrex/brontosaurusrex.github.io/issues/new) for expressing your thoughts. 
+This is a statically built site, and I don’t particularly fancy plugging in Disqus or any third-party service like that—but you may use [GitHub's "issues" device](https://github.com/brontosaurusrex/brontosaurusrex.github.io/issues/new) to express your thoughts.
 
 ## Me?
 
-Videographer, Linux entusiast, Blender noob, slightly interested in web as well, always wanted to fly, accidental impressionist and post-gravitational artist (strong post-gravitational impressionism tendencies), also like that poor horse to really get what a recursive subdivision is.
+Videographer, Linux enthusiast, Blender noob, kind of into web pages. Always wanted to fly. Accidental impressionist and post-gravitational artist.
+
+## Tinkering and development (very old, but keeping this text here for historical purposes)
+
+### I went through this (running away from WordPress):
+
+- Built a blog from scratch (with a Bash engine—it was slow, but kinda worked) and actually had a nice search-engine-like index.
+- Realized that without some sort of web interface, writing blogs would be really boring and slow...
+- Took a long pause, almost went back to WordPress.
+- Returned to the drawing board and did some research on how people blogged in 2015/2016.
+- After reading about Jekyll and similar solutions, discovered a third-party service called Tinypress that could post to a GitHub-hosted Jekyll page.
+- Thought about writing a Jekyll template from scratch—got bored, since it’s not just about Jekyll, but also building a mobile-friendly site < more than I was prepared to deal with.
+- Evil hackish plans grew; decided to go with a “do it fast to get something working, fix it later” approach. < It went really, really fast from that point on.
+- Found the [Lanyon theme](https://github.com/poole/lanyon), uploaded it, and added some posts using Tinypress.
+- Modified the theme slightly > at this point there was a working/online blog without even running Jekyll offline on my machine: [https://brontosaurusrex.github.io/2016/01/02/1st-tinypress-post/](https://brontosaurusrex.github.io/2016/01/02/1st-tinypress-post/)
+- Realized Tinypress has bugs and lacks features. Concluded that with some workarounds, it’s still good enough for scribble posts, which can later be fixed offline with a real text editor—or maybe GitHub’s online one. < 99% of my posts are quick scribbles anyway, so no big deal.
+
+_Edit:_ Tinypress was replaced with Prose.io.  
+_Edit 2:_ Nowadays it’s a script called ['newPost'](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/master/bin/newPost) and Vim/Geany.
+
+- Annoyed by Jekyll’s idea of “front matter” (can’t this be automatic or what...?), but eventually realized that included metadata is actually a good thing—posts are engine-independent in the long run. GitHub understands front matter to some extent.  
+_Edit:_ Prose.io handles front matter automagically if configured correctly.
+
+- Actually installed Jekyll offline to do some more problematic element positioning and other theme hacks.
+
+### Cons:
+- Google is slow to index the site, so my “Google this page” thing is kinda useless.  
+  _Edit:_ This is probably because I don’t have a top-level domain.
+- Slightly complicated posting (compared to WordPress). For example, no server-side image resizing.
+
+### Pros:
+- Since I use Git, my site is fully backed up on multiple machines.
+- Hosted by someone else, so I don’t have to deal with boring server security.  
+  _(Should be easy to regenerate and upload to any server if GitHub drops it.)_
