@@ -437,3 +437,40 @@ Books in bobiverse series:
 > The brontos had even started munching on the fence, when they could get 
 close enough. A couple of strings of electrified wire had nipped that habit 
 before it could catch on. 
+
+## Revolution in the Valley: The Insanely Great Story of How the Mac Was Made (Andy Hertzfeld, Steve Capps - 2005)
+
+Wikipedia:  
+> is a nonfiction book written by Andy Hertzfeld about the birth of the Apple Macintosh personal computer. The author was a core member of the team that built the Macintosh system software and the chief creator of the Mac's radical new user interface software.The book is a collection of anecdotes tracing the development of the Macintosh from a secret project in 1979 through its "triumphant introduction" in 1984. These anecdotes were originally published on the author's Folklore.org web site.
+
+<https://www.folklore.org>
+
+<pre style="line-height: 100%; color: #000000; background-color: transparent;">
+  ███ ███ ███ █   ███ ███  █ █  
+  █    █  █ █ █   █   █ █  █ █  
+  ███  █  █ █ █   ███ █ █  █ █  
+    █  █  █ █ █   █   █ █       
+  ███  █  ███ ███ ███ █ █  █ █  
+                                
+ █████                          
+█     █  ████ ████ ████ █   ███ 
+█ ███ █  █  █ █  █ █  █ █   █   
+█ █   █  ████ ████ ████ █   ███ 
+█ ███ █  █  █ █    █    █   █   
+█     █  █  █ █    █    ███ ███ 
+ █████                          
+                                
+ █████████████████████████████  
+ █   █   █   █   █   █   █   █  
+ █   █   █ █████████ █   █   █  
+ █   █   ██  █   █  ██   █   █  
+ █   █  ██   █  ██   ██  █   █  
+ █   █ █ █ █ █  ██ █ █ █ █   █  
+ █   █ █ █   █  ██   █ █ █   █  
+ █   █ █ █   █████   █ █ █   █  
+ █   █ █ █   █   █   █ █ █   █  
+ █   █ █ █   █████   █ █ █   █  
+ █   █████   █   █   █████   █  
+ █████████████████████████████  
+ </pre>
+ > We put a hidden icon in the ROM
