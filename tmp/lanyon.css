@@ -26,6 +26,12 @@
  * Reverse layout
  * Themes
  */
+ 
+/* b: disable ants in firefox */ 
+:focus {outline:none;}
+::-moz-focus-inner {border:0;}
+
+
 
 
 /*
@@ -38,22 +44,32 @@
 html,
 body {
     overflow-x: hidden;
-    background-image: url("/public/mozillaGrain.png");
-    
+    /*background-image: url("/public/mozillaGrain.png");*/
+    background-image: url("/public/noise2024.png");
     
 } 
 
 html {
-  font-family: "Junction", Georgia, "Times New Roman", serif;
-  
+  height: 100%;
+}
+body {
+  min-height: 100%;
+}
+
+html {
+  font-family: 'Junction', Georgia, "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Linden", Helvetica, Arial, sans-serif;
-  font-weight: 400;
-  color: #313131;
-  
-  
+  /*font-family: 'Dancing Script', Helvetica, Arial, sans-serif;*/
+  font-family: 'Junction', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+
+  /*color: #CB6317;*/
+  color: #fc885b;
+
+  text-wrap: balance;
+  mix-blend-mode: color-dodge;  
 }
 
 
@@ -87,7 +103,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 56rem) {
   .container {
-    max-width: 38rem;
+    max-width: 40rem;
   }
 }
 
@@ -122,29 +138,60 @@ h1, h2, h3, h4, h5, h6 {
 /* image max width bronto */
 
 img {
-    max-width: 720px;
+    max-width: 100%;
+    height: auto;
 }
 
 
 .brontologo {
     margin: auto; 
-    width: 850px;
-    max-width: 100%;
-    margin-top:     -4.6rem;
-    margin-bottom:  -1rem;
+/*
+    width: 935px;
+    max-width: 935px;
+    width: 550px; */
+
+    margin-top:     -4.5rem;
+    margin-bottom:  0;  /* -1.0rem; */
+    margin-left: -50px;     /* -90px; */
+    /* b: Z index must be smaller than navigation block, this is not working */
     z-index: -10;
+    
+  /*
     overflow: visible;
+    display: block; */
+    
+    /* mix-blend-mode: luminosity; */
+    /* mix-blend-mode: overlay; */
+    
   }
-  
-@media screen and (max-width: 600px) {
+
+/* b: i dont want to deal with this! */
+@media screen and (max-width: 900px) {
 
     .brontologo {
-
-    visibility: hidden;
-    display: none;
+    
+    max-width: 600px;
+    margin-left: -20px;
+    /* display: none; */
+    /* visibility: hidden; */
   }
+}
 
+/* b: i dont want to deal with this! */
+@media screen and (max-width: 608px) {
 
+    .brontologo {
+/*
+    display: none; 
+    visibility: hidden; 
+*/
+    max-width: 380px;
+    margin-left: -10px;
+
+    margin-top:     -7.5rem;
+    margin-bottom:     -3.5rem;
+
+  }
 }
   
   
@@ -182,18 +229,24 @@ img {
   left: -14rem;
   width: 14rem;
   visibility: hidden;
-  overflow-y: auto;
-  font-family: Linden, "PT Sans", Helvetica, Arial, sans-serif;
+  overflow-x: hidden;
+  /* font-family: Linden, "PT Sans", Helvetica, Arial, sans-serif; */
+  font-family: Junction, "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
+
+
+  
     
   color: rgba(255,255,255,.6);
-  background-color: #202020;
+  background-color: #196080;
+  opacity: 0.75;
+  
   -webkit-transition: all .3s ease-in-out;
-          transition: all .3s ease-in-out;
+          transition: all .3s ease-in-out; 
 }
 @media (min-width: 30rem) {
   .sidebar {
-    font-size: .75rem; /* 14px */
+    font-size: .6rem; /* 14px */
   }
 }
 
@@ -211,14 +264,16 @@ img {
   font-size: 120%;
 }
 
+
+
 /* Sidebar nav */
 .sidebar-nav {
-  border-bottom: 1px solid rgba(255,255,255,.1);
+  border-bottom: 0px solid rgba(255,255,255,.1);
 }
 .sidebar-nav-item {
   display: block;
   padding: .5rem 1rem;
-  border-top: 1px solid rgba(255,255,255,.1);
+  border-top: 0px solid rgba(255,255,255,.1);
 }
 .sidebar-nav-item.active,
 a.sidebar-nav-item:hover,
@@ -231,6 +286,7 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48rem) {
   .sidebar-item {
     padding: 1.5rem;
+
   }
   .sidebar-nav-item {
     padding-left:  1.5rem;
@@ -252,7 +308,7 @@ a.sidebar-nav-item:focus {
   display: block;
   width: 2.2rem;
   padding: .5rem .65rem;
-  color: #505050;
+  color: #B7B7B7;
   background-color: transparent;
   border-radius: 4px;
   cursor: pointer;
@@ -344,7 +400,9 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  /*color: #28C1D7;*/
+  color: #287ded;
+
   
 }
 .page-title,
@@ -359,7 +417,7 @@ a.sidebar-nav-item:focus {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: #d1d1d1;
 }
 
 /* Related posts */
@@ -408,7 +466,7 @@ a.sidebar-nav-item:focus {
 .pagination-item {
   display: block;
   padding: 1rem;
-  border: 1px solid #eee;
+  /* border: 1px solid #7e836d; */
 }
 .pagination-item:first-child {
   margin-bottom: -1px;
@@ -416,7 +474,7 @@ a.sidebar-nav-item:focus {
 
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
-  background-color: #f5f5f5;
+  background-color: #196080;
 }
 
 @media (min-width: 30rem) {
@@ -579,36 +637,110 @@ a.pagination-item:hover {
 
 .brontofooter {
 
-  color: black; 
   text-align: center;
   padding:        1rem;
+
   padding-bottom: 6rem;
   padding-top:    4rem;
-  width: 100%;
-  background-color: #fcfcfc;
-  background-color: #ececec;
-
-
-  border-top: dotted #cccccc 1px;  
   
-  background-image: url("/public/mozillaGrain.png");
+
+
+  background-color: #031f29; 
+
+
+  /* border-top: dotted #cccccc 1px; */  
+  
+  background-image: url("/public/noise2024footer.png");
+
+  /* background-image: url("/public/grass_sm2.png"); */
 
 }
 
+.brontofooter a {
+
+  
+  
+}
+
+
+.tags {
+        font-size: .75rem;
+}
+
+/*
+a.tags:link {
+        color: #C9614B;
+}
+*/
+
+
 /* this should apply to searchform only by bronto */
 
-input[type="text"] {	
-/*	font-size: 26px; */
-	color: #fff;
-	background-color: #191C1E;
-	border: none ;
-	margin:0px ; 
-	padding:10px ;
-	border-radius: 5px;
-	opacity: 0.8;
+input[type="text"] {  
+/*  font-size: 26px; */
+  color: #fff;
+  background-color: #094763;
+  border: none ;
+  margin:0px ; 
+
+  border-radius: 5px;
+  opacity: 0.8;
     filter: alpha(opacity=80); /* For IE8 and earlier */
     font-family: Junction, "PT Sans", Helvetica, Arial, sans-serif;
-  	font-size: .875rem; /* 15px */
+    font-size: .875rem; /* 15px */
     font-size: .75rem; 
-  	width: 100%;
+    width: 100%;
+    
+    padding-top: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    
+}
+
+input[type="submit"] {  
+/*  font-size: 26px; */
+  color: #ddd;
+  background-color: transparent;
+  border: none ;
+
+  border-radius: 5px;
+  opacity: 0.8;
+    filter: alpha(opacity=80); /* For IE8 and earlier */
+    font-family: Junction, "PT Sans", Helvetica, Arial, sans-serif;
+    font-size: .875rem; /* 15px */
+    font-size: .75rem; 
+    width: 100%;
+    text-align: left;
+    
+    padding-top: 12px;
+
+    padding-right: 10px;
+    padding-bottom: 10px;
+    
+}
+
+::placeholder {
+  color: #ddd;
+  opacity: 1; /* Firefox */
+}
+
+/* by me https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme */
+:root {
+  color-scheme: dark;
+}
+
+/* by me to hide anchor links next to h2,h3... */
+
+a.anchors
+{
+    text-decoration: none;
+    /* color: transparent; */
+    opacity: 0;
+}
+
+a:hover.anchors
+{
+    /* color: black; */
+    opacity: 100;
 }
