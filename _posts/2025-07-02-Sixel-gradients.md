@@ -6,6 +6,8 @@ title: Sixel experiments
 tags: misc cli 
 ---
 
+## some tests
+
 RYGB gradient
 
     convert \
@@ -22,3 +24,10 @@ Gime me some text
 
 
 may be continued...
+
+## chafa
+
+    apt install chafa
+
+Git <https://github.com/hpjansson/chafa>.  
+May be a nice middle utility for sceneDetectMitHtml script, seems to support sixels and kitty and everything else (not fully tested).
