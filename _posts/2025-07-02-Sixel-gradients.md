@@ -23,7 +23,7 @@ Gime me some text
     convert -size 920x180 xc:white -fill black -font Helvetica-Bold -pointsize 162 -gravity center -annotate 0 "Hello, Sixel" sixel:
 
 
-may be continued...
+to be continued...
 
 ## chafa
 
@@ -31,7 +31,8 @@ may be continued...
 
     apt install chafa
 
-Git <https://github.com/hpjansson/chafa>.  
+Git <https://github.com/hpjansson/chafa>.
+
 May be a nice middle utility for sceneDetectMitHtml script, seems to support sixels and kitty and everything else (not fully tested).
 
 Force sixels, center image, max width in terms of terminal chars is 100x100 and fix weird pixel aspect ratio:
