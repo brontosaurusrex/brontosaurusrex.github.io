@@ -33,3 +33,7 @@ may be continued...
 
 Git <https://github.com/hpjansson/chafa>.  
 May be a nice middle utility for sceneDetectMitHtml script, seems to support sixels and kitty and everything else (not fully tested).
+
+Force sixels, center image, max width in terms of terminal chars is 100x100 and fix weird pixel aspect ratio:
+
+    chafa -f sixels -C on -s 100x100 --font-ratio=12/16 cupra.png
