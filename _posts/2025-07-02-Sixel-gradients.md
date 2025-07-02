@@ -27,6 +27,8 @@ may be continued...
 
 ## chafa
 
+> Chafa is a command-line utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal.
+
     apt install chafa
 
 Git <https://github.com/hpjansson/chafa>.  
