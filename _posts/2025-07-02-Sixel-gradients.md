@@ -37,3 +37,16 @@ May be a nice middle utility for sceneDetectMitHtml script, seems to support six
 Force sixels, center image, max width in terms of terminal chars is 100x100 and fix weird pixel aspect ratio:
 
     chafa -f sixels -C on -s 100x100 --font-ratio=12/16 cupra.png
+
+Quasy support for transparency:
+
+    convert -size 920x180 xc:none -fill black -font Helvetica-Bold -pointsize 162 -gravity center -annotate 0 "Hello, Sixel" test.png
+    chafa -f sixels --font-ratio=12/16 test.png
+
+or one-liner:
+
+    convert -size 920x180 xc:none -fill red -font Helvetica-Bold \
+    -pointsize 150 -gravity center -annotate 0 "Hello, Sixel" png:- \
+    | chafa -f sixels --font-ratio=12/16 -C on -
+
+![chafa in action](/media/helloSixelChafa.png)
