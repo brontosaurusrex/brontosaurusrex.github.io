@@ -4,7 +4,15 @@ title: books
 published: true
 ---
 
-## TOC
+<!-- Reverse toc css? -->
+<style>
+  #markdown-toc {
+  display: flex;
+  flex-direction: column-reverse;
+}
+</style>
+
+## Reverse TOC
 {:.no_toc}
 
 * TOC
