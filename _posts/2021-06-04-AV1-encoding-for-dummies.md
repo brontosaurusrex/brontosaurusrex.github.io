@@ -186,3 +186,8 @@ Retry with `--preset 1` CQP
     ffmpeg -i in.mov  -nostdin -f rawvideo -pix_fmt yuv420p - | SvtAv1EncApp -i stdin --fps 25 --rc 0 --preset 1 -q 30 -w 1920 -h 1080 --film-grain 50 -b svt_q1_cqp.ivf
 
 Only slightly faster (~0.3 fps) than aom, cpu decently, but not perfectly saturated. This took 90 minutes to encode 30s clip, producing ~4000 kbps file with very nice quality. Not transparent. Subjective: Due to noise synthesis not kicking in when parts of the video are less noisy the quality feels a bit variable, but not in an annoying way.
+
+## edit: 2025: Netflix take on 'film grain synthesis'
+
+<https://12ft.io/https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b>  
+<https://news.ycombinator.com/item?id=44456779>
