@@ -27,7 +27,9 @@ Add
       font-size: 10pt !important;
     }
 
-Restart firefox, profit. Tabs should be curved a little and font should be bigger. This should not affect the web zoom / size of the web pages.
+to the userChrome.css.
+
+Restart firefox, profit. Tabs should be curved a little and font should be bigger. This should NOT affect the web zoom / size of the web pages.
 
 ## Full userChrome.css example
 
