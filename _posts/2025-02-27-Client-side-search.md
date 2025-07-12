@@ -18,7 +18,3 @@ p.s.
 
  - gziped /search.json is around 260k (and expands to 860k), which I think is more than good enough. Data taken from chrome Network/Headers in Developer tools.
  - SVG logo with 2 links doesn't show transparency correctly when called via object tag, so it's now FAT part of _layouts/default.html, not so good.
-
-## Misc about search
-
-word2vec engine from scratch: <https://bernsteinbear.com/blog/simple-search/> (Also about sqlite running client side as Wasm compile.)
