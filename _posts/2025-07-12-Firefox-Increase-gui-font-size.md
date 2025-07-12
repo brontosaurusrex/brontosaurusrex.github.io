@@ -31,6 +31,16 @@ to the userChrome.css.
 
 Restart firefox, profit. Tabs should be curved a little and font should be bigger. This should NOT affect the web zoom / size of the web pages.
 
+## Btw
+
+You can also change the font
+
+    /* Increase gui font */
+    * {
+    font-family: "3270 Nerd Font", sans-serif !important;
+    font-size: 13pt !important;
+    }
+
 ## Full userChrome.css example
 
     /* put me in ~/.mozilla/firefox/_yourprofile_/chrome/userChrome.css */
