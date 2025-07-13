@@ -23,8 +23,7 @@ published: true
         searchIndex = await response.json();
         window.fuse = new Fuse(searchIndex, {
           keys: [
-            { name: 'date', weight: 0.9 },    // Higher weight for the date key
-            { name: 'title', weight: 0.4 },   // Example weight
+            { name: 'title', weight: 0.5 },   // Example weight
             { name: 'content', weight: 0.4 }, // Example weight
             { name: 'tags', weight: 0.1 }     // Example weight
           ],
