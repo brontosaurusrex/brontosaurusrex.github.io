@@ -14,7 +14,7 @@ permalink: /search.json
         "date": {{ post.date | jsonify }},
         "id": {{ post.url | jsonify }},
         "title": {{ post.title | jsonify }},
-        "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+        "content": {{ post.content | strip_html | jsonify }},
         "tags": {{ post.tags | jsonify }}
       }
       {% assign first_item = false %}
@@ -28,7 +28,7 @@ permalink: /search.json
         "date": {{ page.date | jsonify }},
         "id": {{ page.url | jsonify }},
         "title": {{ page.title | jsonify }},
-        "content": {% if page.content %}{{ page.content | strip_html | strip_newlines | jsonify }}{% else %}"No content available"{% endif %},
+        "content": {% if page.content %}{{ page.content | strip_html | jsonify }}{% else %}"No content available"{% endif %},
         "tags": {{ page.tags | jsonify }}
       }
       {% assign first_item = false %}
