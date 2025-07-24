@@ -26,9 +26,9 @@ Total commander can also rename files to Uppercase with single button click:
 ## camelCase to CAMEL CASE
 
     from:		        to:	
-    notePadHERE 	    NOTE PAD HERE
+    notePadHERE         NOTE PAD HERE
     HTMLParser 	        HTML PARSER
-    brontoSaurusRex 	BRONTO SAURUS REX
+    brontoSaurusRex     BRONTO SAURUS REX
 
 Powershell command (by deepseek)
 
