@@ -22,3 +22,22 @@ p.s. In windows, make a script.bat out of it and make a soft link (shortcut), th
 
 Total commander can also rename files to Uppercase with single button click:  
 [https://www.ghisler.ch/board/viewtopic.php?p=455303&sid=bfafbe9446f3023230ccd16f57994dc4#p455303]( https://www.ghisler.ch/board/viewtopic.php?p=455303&sid=bfafbe9446f3023230ccd16f57994dc4#p455303)
+
+## camelCase to CAMEL CASE
+
+    from:		        to:	
+    notePadHERE 	    NOTE PAD HERE
+    HTMLParser 	        HTML PARSER
+    brontoSaurusRex 	BRONTO SAURUS REX
+
+Powershell command (by deepseek)
+
+    Set-Clipboard -Value ((Get-Clipboard) -creplace '([a-z])([A-Z])', '$1 $2' -creplace '([A-Z]+)([A-Z][a-z])', '$1 $2').ToUpper()
+
+Total commander button
+
+    Command: powershell -command "Set-Clipboard -Value ((Get-Clipboard) -creplace '([a-z])([A-Z])', '$1 $2' -creplace '([A-Z]+)([A-Z][a-z])', '$1 $2').ToUpper()"
+    Icon file: %COMMANDER_PATH%\..\ico\papirus\font-select-symbolic.ico
+    Tooltip: camelCase to CAMEL CASE
+
+Note: Icon is not really representative.
