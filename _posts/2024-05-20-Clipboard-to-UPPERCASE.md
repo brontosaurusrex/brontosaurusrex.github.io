@@ -40,4 +40,8 @@ Total commander button
     Icon file: %COMMANDER_PATH%\..\ico\papirus\font-select-symbolic.ico
     Tooltip: camelCase to CAMEL CASE
 
-Note: Icon is not really representative.
+Note: Icon is not really representative. Unclear how to implement that in TC for file renaming curently but should be possible with the
+
+> New pseudo environment variables %$CLIPBOARD%, %$CLIPNAME% and %$CLIPNAME_NE% to access clipboard content, e.g. in button commands
+
+implemented in 11.50.
