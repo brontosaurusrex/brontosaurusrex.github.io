@@ -81,6 +81,8 @@ Testing so far:
 Will produce something like:  
 ![vscode with some typst extension](https://images2.imgbox.com/06/65/Ehc02qmQ_o.png)
 
+Or in pdf form: [typstTest.pdf](/media/typstTest.pdf)
+
 Docs: <https://typst.app/docs/tutorial/writing-in-typst/>
 
 ## Install vscode extension
