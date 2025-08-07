@@ -5,6 +5,11 @@ date: '2025-08-07 17:46'
 title: Presentation with Typst
 tags: web misc 
 ---
+Produce a simple presentation template with say 3-5 different layouts that can be chosen like:
+ - Full page text
+ - Left text, right image
+ - Right text, left image
+
 Main idea: Do Not use any online services, produce everything offline.
 
 ## Install typst
