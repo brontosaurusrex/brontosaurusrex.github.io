@@ -8,7 +8,7 @@ tags: linux
 A History and a Memoir by Brian Kernighan:  
 <https://www.youtube.com/watch?v=WEb_YL1K1Qg>
 
-What words can you make on a calculator if you hold it upside down? (31 minute of the video). On a modern Linux command is the same:
+What words can you make on a calculator if you hold it upside down? (31 minute of the video). On a modern Linux, command is the same:
 
     grep '^[behilos]*$' /usr/share/dict/words | column
 
