@@ -6,7 +6,7 @@ title: Revised Openbox rc.xml tiling keys and actions
 tags: linux mine 
 ---
     <!-- brontosaurusrex start -->
-    <!-- ALT + y, x, c, v -->
+    <!-- ALT + y or z, x, c, v -->
     
     <!-- left side -->
     <keybind key="A-z">
@@ -78,20 +78,19 @@ tags: linux mine
     </keybind>
     <!-- brontosaurusrex end -->
     
-### Hotkeys (assuming querty keyboard)
+### Hotkeys (assuming querty or qwertz keyboard)
 
     alt +
-    z = 50% left
-    x = 50% right
-    c = center x
-    v = maximize
-    m = move to next monitor
+    y or z = 50% left
+         x = 50% right
+         c = center x
+         v = maximize
+         m = move to next monitor
     
-    alt + win +
-    c = center y
+         alt + win + c = center y
     
-    win +
-    F11 = force full-screen toggle
+         win +
+         F11 = force full-screen toggle
     
 ### Misc
 
