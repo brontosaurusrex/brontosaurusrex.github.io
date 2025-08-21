@@ -87,10 +87,11 @@ tags: linux mine
          v = maximize
          m = move to next monitor
     
-         alt + win + c = center y
+    alt + win + 
+    c = center y
     
-         win +
-         F11 = force full-screen toggle
+    win +
+    F11 = force full-screen toggle
     
 ### Misc
 
