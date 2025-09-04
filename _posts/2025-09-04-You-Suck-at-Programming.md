@@ -5,6 +5,8 @@ date: '2025-09-04 11:37'
 title: You Suck at Programming
 tags: bash 
 ---
+> Creating a PERSISTENT Progress Bar on the Terminal with Bash! v2 Progress Bar
+
 video:  
 <https://www.youtube.com/watch?v=r2rbAvXMcXQ>
 
