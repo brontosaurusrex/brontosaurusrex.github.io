@@ -16,3 +16,5 @@ Output will be series of png's, like:
     out-02.png
     out-03.png
     ...
+
+[Man page](https://linuxcommandlibrary.com/man/pdftocairo).
