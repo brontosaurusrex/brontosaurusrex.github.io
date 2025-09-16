@@ -9,7 +9,7 @@ This will speed-up video and all tracks of audio, also reencodes the video:
 
     ffmpeg -i in.mov -r 25 -map 0 -c:v prores -filter_complex "[0:a]atempo=25/24[a]" -map "[a]" -c:a pcm_s24le out.mov
 
-Not sure why video reencoding is needed.
+Not sure why video reencoding is needed. Somehow 9 audio tracks are generated (input is 8 track).
 
 p.s. This one NOT working as expected:
 
