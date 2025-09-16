@@ -1,11 +1,11 @@
 ---
-published: true
+published: false
 layout: post
 date: '2025-09-16 08:24'
 title: 24 > 25 fps with ffmpeg
 tags: video 
 ---
-This will speed-up video and all tracks of audio, also reencodes the video:
+This will speed-up video and all tracks of audio, also reencodes the video, not working as expected:
 
     ffmpeg -i in.mov -r 25 -map 0 -c:v prores -filter_complex "[0:a]atempo=25/24[a]" -map "[a]" -c:a pcm_s24le out.mov
 
