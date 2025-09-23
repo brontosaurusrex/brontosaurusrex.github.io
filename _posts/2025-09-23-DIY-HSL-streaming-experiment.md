@@ -72,4 +72,4 @@ player.htm
     </body>
     </html>
 
-Notes: Latency is significanti (5-10s).
+Notes: Latency is significant (5 - 30 s).
