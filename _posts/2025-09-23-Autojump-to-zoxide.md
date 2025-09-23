@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2025-09-23 14:37'
-title: Autojump to zoxide
+title: Autojump to Zoxide
 tags: linux cli 
 ---
 1. Install zoxide from the page, the curl command  
