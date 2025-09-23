@@ -32,3 +32,5 @@ in .bash_aliases or similar file
 
     # autojump to zoxide
     alias j='z'
+
+Apt remove autojump, clean autojump entries from .zshrc.
