@@ -36,3 +36,5 @@ in .bash_aliases or similar file
 Apt remove autojump, clean autojump entries from .zshrc.
 
 Besides 'z' command, there is also 'zi' which provides interactive fuzzy search over zoxide history.
+
+Debate: <https://news.ycombinator.com/item?id=45342943>.
