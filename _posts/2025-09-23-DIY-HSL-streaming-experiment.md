@@ -32,6 +32,8 @@ stream.bat
     -f hls -hls_time 3 -hls_list_size 6 -hls_flags delete_segments+append_list+omit_endlist+program_date_time ^
     -hls_segment_type fmp4 -hls_fmp4_init_filename init.mp4 stream.m3u8
 
+* Latency may be reduced by using smaller '-bufsize 900k'.
+
 player.htm
 
     <!DOCTYPE html>
