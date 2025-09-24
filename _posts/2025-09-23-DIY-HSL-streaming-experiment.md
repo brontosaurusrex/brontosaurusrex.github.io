@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2025-09-23 19:40'
-title: DIY HSL streaming experiment
+title: HLS streaming experiment
 tags: video cli web 
 ---
 Note: Code written by AI. All experiments done on win10 machine.
@@ -74,4 +74,4 @@ player.htm
     </body>
     </html>
 
-Notes: Latency is significant (5 - 30 s).
+Notes: Latency is significant (5 - 30 s). 
