@@ -27,12 +27,15 @@ python server.py
 stream.bat
 
     ffmpeg -f gdigrab -video_size 1920x1080 -framerate 25 -i desktop ^
-    -c:v h264_nvenc -preset llhq -tune ll -pix_fmt yuv420p ^
-    -g 30 -keyint_min 30 -sc_threshold 0 -b:v 4500k -maxrate 4500k -bufsize 9000k ^
-    -f hls -hls_time 3 -hls_list_size 6 -hls_flags delete_segments+append_list+omit_endlist+program_date_time ^
-    -hls_segment_type fmp4 -hls_fmp4_init_filename init.mp4 stream.m3u8
+    -c:v h264_nvenc -preset p6 -tune ll -pix_fmt yuv420p ^
+    -b:v 6000k -maxrate 6000k -bufsize 1000k ^
+    -g 50 -keyint_min 25 ^
+    -f hls -hls_time 3 -hls_list_size 6 ^
+    -hls_flags delete_segments+append_list+omit_endlist ^
+    -hls_segment_type fmp4 -hls_fmp4_init_filename init.mp4 ^
+    stream.m3u8
 
-* Latency may be reduced by using smaller '-bufsize 900k'.
+* Latency may be reduced by using smaller '-bufsize', but the video quality will suffer (at some point very visible jumping).
 
 player.htm
 
