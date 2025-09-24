@@ -77,4 +77,4 @@ player.htm
     </body>
     </html>
 
-Notes: Latency is significant (5 - 30 s). 
+Notes: Latency is significant (5 - 30 s). CPU usage is still high, possibly ffmpeg is doing something weird (-video_size ? Can't i just select monitor 1 somehow?)
