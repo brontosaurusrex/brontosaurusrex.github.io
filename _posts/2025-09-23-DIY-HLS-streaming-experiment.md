@@ -27,15 +27,28 @@ python server.py
 stream.bat
 
     ffmpeg -f gdigrab -video_size 1920x1080 -framerate 25 -i desktop ^
-    -c:v h264_nvenc -preset p6 -tune ll -pix_fmt yuv420p ^
-    -b:v 6000k -maxrate 6000k -bufsize 1000k ^
-    -g 50 -keyint_min 25 ^
-    -f hls -hls_time 3 -hls_list_size 6 ^
+    -c:v h264_nvenc -preset p6 -tune ull ^
+    -b:v 6000k -maxrate 6000k -bufsize 1200k ^
+    -g 50 ^
+    -f hls -hls_time 1 -hls_list_size 3 ^
     -hls_flags delete_segments+append_list+omit_endlist ^
     -hls_segment_type fmp4 -hls_fmp4_init_filename init.mp4 ^
     stream.m3u8
 
 * Latency may be reduced by using smaller '-bufsize', but the video quality will suffer (at some point very visible jumping).
+
+or/and possibly better
+
+stream_gfxcapture.bat (seems to reduce latency for some reason, in loopback mode i get close to 3s. Note that we are now in Variable-Frame-Rate mode.)
+
+    ffmpeg -filter_complex gfxcapture=monitor_idx=0:output_fmt=8bit:max_framerate=50 ^
+    -c:v h264_nvenc -preset p6 -tune ull ^
+    -b:v 6000k -maxrate 6000k -bufsize 1200k ^
+    -g 50 ^
+    -f hls -hls_time 1 -hls_list_size 3 ^
+    -hls_flags delete_segments+append_list+omit_endlist ^
+    -hls_segment_type fmp4 -hls_fmp4_init_filename init.mp4 ^
+    stream.m3u8
 
 player.htm
 
@@ -77,4 +90,4 @@ player.htm
     </body>
     </html>
 
-Notes: Latency is significant (5 - 30 s). CPU usage is still high, possibly ffmpeg is doing something weird (-video_size ? Can't i just select monitor 1 somehow?). [Stuff to try](https://trac.ffmpeg.org/wiki/Capture/Desktop#Win10WinRTUWPbasedWindows.Graphics.Capture).
+Notes: Latency is significant (5 - 30s). CPU usage is still high, possibly ffmpeg is doing something weird (-video_size ? Can't i just select monitor 1 somehow?). [Stuff to try](https://trac.ffmpeg.org/wiki/Capture/Desktop#Win10WinRTUWPbasedWindows.Graphics.Capture).
