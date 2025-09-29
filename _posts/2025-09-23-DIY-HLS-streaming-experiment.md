@@ -5,6 +5,8 @@ date: '2025-09-23 19:40'
 title: HLS streaming experiment
 tags: video cli web 
 ---
+## HLS
+
 Note: Code written by AI. All experiments done on win10 machine.
 
 Goal: Stream my desktop for the purpose of teaching.  
@@ -90,4 +92,8 @@ player.htm
     </body>
     </html>
 
-Notes: Latency is significant (5 - 30s). CPU usage is still high, possibly ffmpeg is doing something weird (-video_size ? Can't i just select monitor 1 somehow?). [Stuff to try](https://trac.ffmpeg.org/wiki/Capture/Desktop#Win10WinRTUWPbasedWindows.Graphics.Capture).
+## Notes
+
+Latency is significant (5 - 30s). CPU usage is still high, possibly ffmpeg is doing something weird (-video_size ? Can't i just select monitor 1 somehow?). [Stuff to try](https://trac.ffmpeg.org/wiki/Capture/Desktop#Win10WinRTUWPbasedWindows.Graphics.Capture). < FIXED, gfxcapture is the king.
+
+There is also (very similar?) DASH standard, where one could use HEVC encoding, but chrome/firefox will not work with that (mpv/vlc should).
