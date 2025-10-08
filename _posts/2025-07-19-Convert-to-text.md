@@ -37,3 +37,13 @@ or
 
     # package: pandoc
     pandoc -f html -t plain file.htm -o file.txt
+
+## docx
+
+    # package: pandoc
+    pandoc -s some.docx -o some.txt
+
+or (different output than with pandoc when tables are in game)
+
+    # package: docx2txt
+    docx2txt some.docx
