@@ -16,3 +16,5 @@ Change keyboard layout:
     sway input type:keyboard xkb_layout <country code>
 
 Copy foot and sway configs to your home dir. (To be continued)
+
+[Sway wiki](https://github.com/swaywm/sway/wiki).
