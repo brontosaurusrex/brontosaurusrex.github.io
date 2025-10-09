@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2025-10-09 06:54'
 title: Sway on Trixie
-tags: 
+tags: linux
 ---
 Install:
 
