@@ -53,3 +53,6 @@ put
 in .config/foot/foot.ini
 
     include=/usr/share/foot/themes/catppuccin-frappe
+
+So far  
+<a href="https://images2.imgbox.com/56/55/I9AVxc0S_o.png" target="_blank"><img src="https://thumbs2.imgbox.com/56/55/I9AVxc0S_t.png" alt="image"></a>
