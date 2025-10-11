@@ -56,3 +56,28 @@ in .config/foot/foot.ini
 
 So far  
 <a href="https://images2.imgbox.com/56/55/I9AVxc0S_o.png" target="_blank"><img src="https://thumbs2.imgbox.com/56/55/I9AVxc0S_t.png" alt="image"></a>
+
+## Built-in bar status_command
+
+A bash script in $HOME/bin/swayStatusCommand
+
+    #!/bin/bash
+
+    main () {
+
+        awk '/MemTotal/ {t=$2} /MemAvailable/ {a=$2} END {printf("%.1f", a/t*100)}' /proc/meminfo
+        echo -n "% memory free | "
+        date +'%Y-%m-%d %H:%M'
+
+    }
+
+        print="$(main)"
+        echo "$print"
+
+and in sway config under 'bar'
+
+    status_command while $HOME/bin/swayStatusCommand; do sleep 1; done
+    
+will display free mem in percents before the clock.
+
+                         
