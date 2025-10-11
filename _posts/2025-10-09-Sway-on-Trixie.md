@@ -93,3 +93,6 @@ In .zshrc add
     }
 
 
+## clipboard (clipman?)
+
+to be continued ...
