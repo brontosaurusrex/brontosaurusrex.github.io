@@ -81,3 +81,15 @@ and in sway config under 'bar'
 will display free mem in percents before the clock.
 
 <a href="https://images2.imgbox.com/9a/bd/Axws0ppz_o.png" target="_blank"><img src="https://thumbs2.imgbox.com/9a/bd/Axws0ppz_t.png" alt="image"></a> 
+
+## Foot having dynamic titles
+
+In .zshrc add
+
+    # term info for foot?
+    # Called when executing a command
+    function preexec {
+        print -Pn "\e]0;${(q)1}\e\\"
+    }
+
+
