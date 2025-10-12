@@ -92,6 +92,17 @@ In .zshrc add
         print -Pn "\e]0;${(q)1}\e\\"
     }
 
+Or easier/better looking, just disable titlebars in sway config
+
+    # border
+    default_border pixel 6
+    default_floating_border pixel 6
+    #for_window [app_id="foot"] border pixel 4
+
+Resizing with mice will be easier on fatter borders btw.
+
+<a href="https://images2.imgbox.com/5c/35/A1ObKpXE_o.png" target="_blank"><img src="https://thumbs2.imgbox.com/5c/35/A1ObKpXE_t.png" alt="image"></a>
+
 
 ## clipboard (clipman?)
 
