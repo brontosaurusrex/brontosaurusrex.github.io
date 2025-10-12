@@ -98,6 +98,9 @@ Or easier/better looking, just disable titlebars in sway config
     default_border pixel 6
     default_floating_border pixel 6
     #for_window [app_id="foot"] border pixel 4
+    # hide split indicator borders when only one window?
+    hide_edge_borders smart
+
 
 Resizing with mice will be easier on fatter borders btw.
 
