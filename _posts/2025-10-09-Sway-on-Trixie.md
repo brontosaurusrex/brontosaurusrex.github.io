@@ -80,7 +80,7 @@ and in sway config under 'bar'
     
 will display free mem in percents before the clock.
 
-<a href="https://images2.imgbox.com/9a/bd/Axws0ppz_o.png" target="_blank"><img src="https://thumbs2.imgbox.com/9a/bd/Axws0ppz_t.png" alt="image"></a> 
+<a href="https://images2.imgbox.com/0e/6e/rKwaVBzM_o.png" target="_blank"><img src="https://thumbs2.imgbox.com/9a/bd/Axws0ppz_t.png" alt="image"></a> 
 
 ## Foot having dynamic titles
 
