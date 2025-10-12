@@ -117,6 +117,9 @@ Use gnome-tweaks to change font(cuprum)/theme...
     grim        takes screenshots
     viewnior    shows pictures
 
+## other ppl configs (examples)
+<https://gist.github.com/rmrt1n/10c24dc597f5b31f432694fb95329bff>
+
 ## clipboard (clipman?)
 
 to be continued ...
