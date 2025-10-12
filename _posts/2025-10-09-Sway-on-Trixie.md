@@ -106,6 +106,16 @@ Resizing with mice will be easier on fatter borders btw.
 
 <a href="https://images2.imgbox.com/5c/35/A1ObKpXE_o.png" target="_blank"><img src="https://thumbs2.imgbox.com/5c/35/A1ObKpXE_t.png" alt="image"></a>
 
+## gtk stuff
+
+Use gnome-tweaks to change font(cuprum)/theme...
+
+<a href="https://images2.imgbox.com/62/77/F4aSRltJ_o.png" target="_blank"><img src="https://thumbs2.imgbox.com/62/77/F4aSRltJ_t.png" alt="image"></a>
+
+## tools
+
+    grim        takes screenshots
+    viewnior    shows pictures
 
 ## clipboard (clipman?)
 
