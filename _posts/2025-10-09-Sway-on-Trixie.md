@@ -111,6 +111,7 @@ Resizing with mice will be easier on fatter borders btw.
 Use gnome-tweaks to change font(cuprum) or nwg-look to change theme.
 
 <a href="https://images2.imgbox.com/62/77/F4aSRltJ_o.png" target="_blank"><img src="https://thumbs2.imgbox.com/62/77/F4aSRltJ_t.png" alt="image"></a>
+<a href="https://images2.imgbox.com/00/11/qrBoLBcK_o.png" target="_blank"><img src="https://thumbs2.imgbox.com/00/11/qrBoLBcK_t.png" alt="image"></a>
 
 ## wmenu-run
 
