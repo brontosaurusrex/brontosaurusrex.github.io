@@ -127,6 +127,15 @@ to have wmenu show at the bottom of the screen and in vertical fashion.
 
 <a href="https://images2.imgbox.com/19/b4/fVkHnf6m_o.png" target="_blank"><img src="https://thumbs2.imgbox.com/19/b4/fVkHnf6m_t.png" alt="image"></a>
 
+## wallpaper and making sway bar transparent (why not)
+
+    output * bg /home/b/wallpapers/bunsenDark2.png fill
+    # and in bar colors section
+    background #30344600
+    
+<a href="https://images2.imgbox.com/b6/c1/9di6WXTX_o.png" target="_blank"><img src="https://thumbs2.imgbox.com/b6/c1/9di6WXTX_t.png" alt="image"></a>
+
+
 ## tools
 
     grim        takes screenshots
