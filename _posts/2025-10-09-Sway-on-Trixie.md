@@ -124,6 +124,8 @@ with
 
 to have wmenu show at the bottom of the screen and in vertical fashion.
 
+<a href="https://images2.imgbox.com/19/b4/fVkHnf6m_o.png" target="_blank"><img src="https://thumbs2.imgbox.com/19/b4/fVkHnf6m_t.png" alt="image"></a>
+
 ## tools
 
     grim        takes screenshots
