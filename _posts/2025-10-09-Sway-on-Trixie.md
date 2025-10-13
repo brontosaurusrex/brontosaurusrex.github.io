@@ -112,6 +112,18 @@ Use gnome-tweaks to change font(cuprum) or nwg-look to change theme.
 
 <a href="https://images2.imgbox.com/62/77/F4aSRltJ_o.png" target="_blank"><img src="https://thumbs2.imgbox.com/62/77/F4aSRltJ_t.png" alt="image"></a>
 
+## wmenu-run
+
+In sway config replace 
+
+    set $menu wmenu-run
+
+with 
+
+    set $menu wmenu-run -b -l 5 -f "monospace 14"
+
+to have wmenu show at the bottom of the screen and in vertical fashion.
+
 ## tools
 
     grim        takes screenshots
