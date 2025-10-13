@@ -76,7 +76,7 @@ A bash script in $HOME/bin/swayStatusCommand
 
 and in sway config under 'bar'
 
-    status_command while $HOME/bin/swayStatusCommand; do sleep 1; done
+    status_command while $HOME/bin/swayStatusCommand; do sleep 3; done
     
 will display free mem in percents before the clock.
 
