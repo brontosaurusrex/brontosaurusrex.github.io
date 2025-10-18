@@ -156,6 +156,12 @@ Connect to a network (prompt for password):
 
     sudo nmcli device wifi connect 'WIFI_SSID' --ask 
 
+## catppuccin theme for geany
+
+<https://github.com/catppuccin/geany>
+
+[![image](https://thumbs2.imgbox.com/c8/00/Wyq85JD4_t.png)](https://images2.imgbox.com/c8/00/Wyq85JD4_o.png)
+
 ## other ppl configs (examples)
 <https://gist.github.com/rmrt1n/10c24dc597f5b31f432694fb95329bff>  
 <https://github.com/rbnis/legacy-dotfiles/blob/master/.config/sway/config>
