@@ -123,7 +123,15 @@ with
 
     set $menu wmenu-run -b -l 5 -f "monospace 14"
 
-to have wmenu show at the bottom of the screen and in vertical fashion.
+to have wmenu show at the bottom of the screen and in vertical fashion. Change some shortkeys in sway config
+
+    # Swap focus between the tiling area and the floating area
+    # was $mod+spaces
+    bindsym $mod+t focus mode_toggle
+    
+    # Start your launcher
+    bindsym $mod+d exec $menu
+    bindsym $mod+space exec $menu
 
 <a href="https://images2.imgbox.com/19/b4/fVkHnf6m_o.png" target="_blank"><img src="https://thumbs2.imgbox.com/19/b4/fVkHnf6m_t.png" alt="image"></a>
 
