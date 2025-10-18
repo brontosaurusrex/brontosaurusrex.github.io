@@ -140,6 +140,21 @@ to have wmenu show at the bottom of the screen and in vertical fashion.
 
     grim        takes screenshots
     viewnior    shows pictures
+    nmcli       manage connection
+
+## nmcli notes
+
+Scan for networks: 
+
+    nmcli device wifi rescan 
+
+List available networks: 
+
+    nmcli device wifi list 
+
+Connect to a network (prompt for password): 
+
+    sudo nmcli device wifi connect 'WIFI_SSID' --ask 
 
 ## other ppl configs (examples)
 <https://gist.github.com/rmrt1n/10c24dc597f5b31f432694fb95329bff>  
