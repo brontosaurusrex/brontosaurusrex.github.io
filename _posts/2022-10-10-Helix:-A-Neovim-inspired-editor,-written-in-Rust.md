@@ -18,6 +18,10 @@ the one in debian is too old.
 
 The logic is select > action 
 
+### tutor
+
+    :tutor
+
 ### Change working directory and open file picker
 
     :cd ~/somedir
@@ -72,3 +76,7 @@ Example .config/helix/config.toml (helix 25.07.1 (a05c151b))
 
     [editor.soft-wrap]
     enable = true
+
+### keyboard shortcuts / keymap
+
+<https://docs.helix-editor.com/keymap.html>
