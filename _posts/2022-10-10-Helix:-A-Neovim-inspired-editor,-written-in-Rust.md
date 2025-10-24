@@ -5,7 +5,8 @@ date: '2023-07-20 09:50'
 title: Helix, A Neovim inspired editor, written in Rust (update)
 tags: linux cli 
 ---
-<https://helix-editor.com/>  
+<https://helix-editor.com>
+<https://docs.helix-editor.com> 
         
 ## 2023
 
