@@ -64,7 +64,7 @@ Fresh build in Debian 12:
 
 ### There is softwrap now
 
-Example .config/helix/config.toml
+Example .config/helix/config.toml (helix 25.07.1 (a05c151b))
 
     theme = "catppuccin_macchiato"
     [editor]
