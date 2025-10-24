@@ -59,3 +59,16 @@ Fresh build in Debian 12:
     true-color = true
 
 ^ with urxvt in mind.
+
+## 2025
+
+### There is softwrap now
+
+Example .config/helix/config.toml
+
+    theme = "catppuccin_macchiato"
+    [editor]
+    true-color = true
+
+    [editor.soft-wrap]
+    enable = true
