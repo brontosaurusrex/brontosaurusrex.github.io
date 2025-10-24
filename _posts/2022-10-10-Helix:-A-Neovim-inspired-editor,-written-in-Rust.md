@@ -34,6 +34,16 @@ The logic is select > action
 ### Delete line
 
     xd
+
+### Delete 3 lines
+
+Either
+
+    xxxd
+
+or
+
+    3xd    
         
 ### Move line down/up one
     
@@ -82,3 +92,19 @@ Example .config/helix/config.toml (helix 25.07.1 (a05c151b))
 ### keyboard shortcuts / keymap
 
 <https://docs.helix-editor.com/keymap.html>
+
+### copy (yank) / paste
+
+    y, p
+
+### copy (yank) / paste to system clipboard
+
+    space + y, space + p
+
+### Goto line 300
+
+    :300
+
+### Multiple cursors
+
+    C and ; to delete last one 
