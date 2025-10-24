@@ -77,6 +77,8 @@ Example .config/helix/config.toml (helix 25.07.1 (a05c151b))
     [editor.soft-wrap]
     enable = true
 
+[![image](https://thumbs2.imgbox.com/12/d2/SXFq4L7f_t.png)](https://images2.imgbox.com/12/d2/SXFq4L7f_o.png)
+
 ### keyboard shortcuts / keymap
 
 <https://docs.helix-editor.com/keymap.html>
