@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2025-10-25 08:00'
+date: '2025-10-25 02:00'
 title: Helix, A Neovim inspired editor, written in Rust (update)
 tags: linux cli 
 ---
