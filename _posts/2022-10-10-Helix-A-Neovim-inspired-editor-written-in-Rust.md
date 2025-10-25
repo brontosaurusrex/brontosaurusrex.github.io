@@ -105,7 +105,7 @@ Example .config/helix/config.toml (helix 25.07.1 (a05c151b))
 
 ### copy (yank) / paste to system clipboard
 
-    space + y, space + p
+    SPACE + y, SPACE + p
 
 ### Goto line 300
 
