@@ -7,7 +7,7 @@ tags: linux cli
 ---
 > By starting from scratch we were able to learn from our experience with Vim and make some breaking changes. The result is a much smaller codebase and a modern set of defaults. It's easier to get started if you've never used a modal editor before, and there's much less fiddling with config files.
 
-<https://helix-editor.com>
+<https://helix-editor.com>  
 <https://docs.helix-editor.com> 
         
 ## 2023
