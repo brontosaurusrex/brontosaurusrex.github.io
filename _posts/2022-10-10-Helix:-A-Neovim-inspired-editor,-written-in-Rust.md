@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2023-07-20 09:50'
+date: '2025-10-25 08:00'
 title: Helix, A Neovim inspired editor, written in Rust (update)
 tags: linux cli 
 ---
@@ -10,7 +10,8 @@ tags: linux cli
         
 ## 2023
 
-The logic is select > action 
+The logic is select > action
+Everything is a selection, jumping word by word with w, also selects the word.
 
 ### tutor
 
