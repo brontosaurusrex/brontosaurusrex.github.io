@@ -20,6 +20,10 @@ The logic is select > action
 
     :cd ~/somedir
     SPACE, F
+
+### Open command palette
+
+    SPACE, ?
         
 ### Buffer picker
 
