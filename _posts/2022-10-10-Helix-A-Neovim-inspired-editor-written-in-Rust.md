@@ -114,3 +114,6 @@ Example .config/helix/config.toml (helix 25.07.1 (a05c151b))
 ### Multiple cursors
 
     C and ; to delete last one 
+
+
+    
