@@ -95,6 +95,9 @@ Example .config/helix/config.toml (helix 25.07.1 (a05c151b))
 
 [![image](https://thumbs2.imgbox.com/12/d2/SXFq4L7f_t.png)](https://images2.imgbox.com/12/d2/SXFq4L7f_o.png)
 
+A slightly more complete config:
+<https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.config/helix/config.toml>
+
 ### keyboard shortcuts / keymap
 
 <https://docs.helix-editor.com/keymap.html>
@@ -114,6 +117,4 @@ Example .config/helix/config.toml (helix 25.07.1 (a05c151b))
 ### Multiple cursors
 
     C and ; to delete last one 
-
-
     
