@@ -172,7 +172,8 @@ Connect to a network (prompt for password):
 
 ## other ppl configs (examples)
 <https://gist.github.com/rmrt1n/10c24dc597f5b31f432694fb95329bff>  
-<https://github.com/rbnis/legacy-dotfiles/blob/master/.config/sway/config>
+<https://github.com/rbnis/legacy-dotfiles/blob/master/.config/sway/config>  
+<https://www.youtube.com/watch?v=sKOWqAm70jc> (just a guy linux)
 
 ## clipboard (clipman?)
 

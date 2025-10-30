@@ -118,7 +118,7 @@ A slightly more complete config:
 
     C and ; to delete last one 
 
-### command pallete    
+### search command pallete    
 
     space + ?
 
@@ -127,3 +127,8 @@ Search with bindings
     %b A-c
 
 ^ shall find if something is bind to ALT+c.
+
+### Feature or bug? (25.07.1 (a05c151b))
+
+'i' for insert mode, type 'abc[space][space][return]'.
+Go line up and inspect the end of the line, spaces are gone :O.   
