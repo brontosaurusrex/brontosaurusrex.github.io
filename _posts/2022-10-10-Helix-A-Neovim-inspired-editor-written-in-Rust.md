@@ -117,4 +117,13 @@ A slightly more complete config:
 ### Multiple cursors
 
     C and ; to delete last one 
-    
+
+### command pallete    
+
+    space + ?
+
+Search with bindings
+
+    %b A-c
+
+^ shall find if something is bind to ALT+c.
