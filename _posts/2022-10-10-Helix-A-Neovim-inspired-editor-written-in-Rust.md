@@ -130,5 +130,8 @@ Search with bindings
 
 ### Feature or bug? (25.07.1 (a05c151b))
 
-'i' for insert mode, type 'abc[space][space][return]'.
+'i' for insert mode, type
+
+    'abc[space][space][return]'.
+
 Go line up and inspect the end of the line, spaces are gone :O.   
