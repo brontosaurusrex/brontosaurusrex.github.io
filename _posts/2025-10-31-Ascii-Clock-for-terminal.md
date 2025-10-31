@@ -10,7 +10,7 @@ Around 30x30 chars ascii analog clock for the terminal, mostly written by chatgp
 
 Config: To change aspect to fit your specific terminal, change ASPECT variable.
 
-<img src="/media/clockascii.png" style="mix-blend-mode: lighten; max-width: 450px;">
+<img src="/media/clockascii.png" style="mix-blend-mode: lighten; max-width: 500px;">
 
 Note, to test drawings, one can use faketime command
 
