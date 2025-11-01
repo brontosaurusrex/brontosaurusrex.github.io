@@ -14,4 +14,4 @@ Config: To change aspect to fit your specific terminal, change ASPECT variable.
 
 Note, to test drawings, one can use faketime command
 
-    faketime '17:30:00' clockascii
+    faketime '13:37:00' clockascii
