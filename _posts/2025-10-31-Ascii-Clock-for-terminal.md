@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2025-10-31 16:39'
-title: Ascii Analog Clock for terminal
+title: Ugly little analog clock for terminal (bash + awk)
 tags: cli bash 
 ---
 Around 30x30 chars ascii analog clock for the terminal, mostly written by chatgpt.  
@@ -15,3 +15,5 @@ Config: To change aspect to fit your specific terminal, change ASPECT variable.
 Note, to test drawings, one can use faketime command
 
     faketime '13:37:00' clockascii
+
+Sidenote: 1st script completed using Helix IDE.
