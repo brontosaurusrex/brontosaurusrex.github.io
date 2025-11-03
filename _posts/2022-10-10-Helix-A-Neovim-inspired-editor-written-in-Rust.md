@@ -9,6 +9,11 @@ tags: linux cli
 
 <https://helix-editor.com>  
 <https://docs.helix-editor.com> 
+
+<https://helix-editor.vercel.app/start-here/basics/> < unofficial docs<br>
+<https://github.com/stevenhoy/helix-cheat-sheet> < unofficial cheat sheet pdf<br>
+<https://news.ycombinator.com/item?id=45784596> < One of hacker news debates
+
         
 ## 2023
 
