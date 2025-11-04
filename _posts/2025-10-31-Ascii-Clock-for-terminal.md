@@ -16,4 +16,7 @@ Note, to test drawings, one can use faketime command
 
     faketime '13:37:00' clockascii
 
-Sidenote: 1st script completed using Helix IDE.
+Maybe better sizes for hands:
+
+    HOUR_LEN=7
+    MIN_LEN=10

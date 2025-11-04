@@ -148,3 +148,10 @@ Search with bindings
     'abc[space][space][return]'.
 
 Go line up and inspect the end of the line, spaces are gone :O.   
+
+### Making an inherited theme with background removed
+
+in ~/.config/helix/themes/catppuccin_macchiato_transparent.toml put
+
+    inherits = "catppuccin_macchiato"
+    "ui.background" = { bg = "none" }
