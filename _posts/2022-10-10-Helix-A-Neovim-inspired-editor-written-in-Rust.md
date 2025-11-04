@@ -36,6 +36,14 @@ Everything is a selection, jumping word by word with w, also selects the word.
 ### Buffer picker
 
     SPACE, b
+
+### Yank selection to clipboard
+
+    SPACE, y
+
+### Paste selection from clipboard
+
+    SPACE, p
         
 ### Delete line
 
