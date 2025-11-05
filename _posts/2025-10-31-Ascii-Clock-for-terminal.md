@@ -20,3 +20,8 @@ Maybe better sizes for hands:
 
     HOUR_LEN=7
     MIN_LEN=10
+
+or the one where minute hand overrides the ticks:
+
+    HOUR_LEN=8
+    MIN_LEN=13
