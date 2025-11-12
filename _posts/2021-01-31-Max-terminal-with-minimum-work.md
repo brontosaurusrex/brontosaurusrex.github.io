@@ -47,6 +47,12 @@ and paste
     [cmd_duration]
     min_time = 10000
 
+In .zshrc you will also need to comment out
+
+    #autoload -Uz promptinit
+    #promptinit
+    #prompt adam1
+
 ✨ Achievement unlocked: Cute prompt for which you wasted very little time and can be used with bash as well.
 
 🙄 In urxvt a lot of special symbols will not display, some creative solutions might be needed, for example to replace lock with some read-only ascii
