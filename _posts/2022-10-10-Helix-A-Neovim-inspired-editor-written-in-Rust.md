@@ -162,3 +162,11 @@ in ~/.config/helix/themes/catppuccin_macchiato_transparent.toml put
     # or :insert-output
 
 will put output of the command into current document.
+
+
+## Toc
+{:.no_toc}
+
+* TOC
+{:toc}
+
