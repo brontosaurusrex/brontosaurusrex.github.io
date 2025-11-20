@@ -155,3 +155,10 @@ in ~/.config/helix/themes/catppuccin_macchiato_transparent.toml put
 
     inherits = "catppuccin_macchiato"
     "ui.background" = { bg = "none" }
+
+## Commands
+
+    :append-output tail ~/.zshrc
+    # or :insert-output
+
+will put output of the command into current document.
