@@ -15,4 +15,5 @@ tags: video
 > 48:19 – The Multi-Everettian View
 > and much more
 
-
+And an image of 'Schrödinger's cat in quantum superposition'  
+![cat](https://images2.imgbox.com/75/a1/yPFO1F2m_o.jpg)
