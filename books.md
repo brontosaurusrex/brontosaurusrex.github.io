@@ -482,3 +482,7 @@ Wikipedia:
  █████████████████████████████  
  </pre>
  > We put a hidden icon in the ROM
+
+## Touched (Walter Mosley - 2023)
+
+> A science fiction novel, a man who wakes up with two new pieces of knowledge: that humanity is a destructive virus and he is the "Cure". The book explores themes of humanity, technology, and existence.
