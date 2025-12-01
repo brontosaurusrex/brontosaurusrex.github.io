@@ -16,7 +16,7 @@ tags: cli bash
     # https://github.com/kevinboone/epub2txt2
     epub2txt -a -n file.epub > file.txt
 
-or much slower:
+or much slower (and should also work for mobi, pdf, azw3, docx ...):
 
     # Needs X
     # package: calibre
