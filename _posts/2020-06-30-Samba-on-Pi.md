@@ -28,3 +28,8 @@ Note that if you want to share home fodler, you have to make such user a samba p
     sudo smbpasswd -a ticho
 
 ![samba logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_Samba_Software.svg/1200px-Logo_Samba_Software.svg.png)
+
+Edit, 2025: In win11 one must(?) run this two commands in powershell admin mode:
+
+    Set-SmbClientConfiguration -RequireSecuritySignature $false
+    Set-SmbClientConfiguration -EnableInsecureGuestLogons $true
