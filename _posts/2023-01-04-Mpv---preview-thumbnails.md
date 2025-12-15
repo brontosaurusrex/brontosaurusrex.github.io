@@ -20,6 +20,10 @@ Add/populate your mpv fodler like this:
 
 Profit.
 
+edit 2025: Alternative UI-s that also support thumbfast:  
+<https://github.com/eatsu/mpv-osc-youtube-ui>  
+<https://github.com/tomasklaen/uosc>
+
 ## Option 2 (does cache thumbs)
 ![scrot](/media/thumbnailer.jpg)
 
