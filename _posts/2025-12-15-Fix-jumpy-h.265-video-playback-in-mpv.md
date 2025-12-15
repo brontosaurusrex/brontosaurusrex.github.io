@@ -5,6 +5,8 @@ date: '2025-12-15 17:36'
 title: Fix jumpy h.265 video playback in mpv?
 tags: video
 ---
+<https://github.com/mpv-player/mpv/issues/7707>
+
 In mpv.conf
 
   vo=gpu
