@@ -9,12 +9,12 @@ tags: video
 
 In mpv.conf
 
-  vo=gpu
-  gpu-api=auto
-  hwdec=d3d11va-copy
-  hwdec-codecs=all
-  opengl-pbo=yes
+    vo=gpu
+    gpu-api=auto
+    hwdec=d3d11va-copy
+    hwdec-codecs=all
+    opengl-pbo=yes
 
 Seems to fix jumpy playback of 10 bit h.265 on win11 machine. Where most likely fix (according to ai) is
 
-  hwdec=d3d11va-copy
+    hwdec=d3d11va-copy
