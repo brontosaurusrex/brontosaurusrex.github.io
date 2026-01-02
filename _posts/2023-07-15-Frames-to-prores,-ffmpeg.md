@@ -18,3 +18,7 @@ chatgpt explainer:
 - -pix_fmt yuv422p10le: Specifies the pixel format as yuv422p10le, which stands for 10-bit 4:2:2 YUV color space.
 - -an: Disables audio recording, ensuring the output file won't contain any audio.
 - -r 25: Sets the output frame rate to 25 frames per second.
+
+edit 2025: Note that ffmpeg assumes input frame rate is 25, which may not be the case, for example if input frame rate is supposed to be 60, then:
+
+    ffmpeg -framerate 60 -f image2 -pattern_type glob -i "*.png" -c:v prores -pix_fmt yuv422p10le -an -r 60 out.mov
