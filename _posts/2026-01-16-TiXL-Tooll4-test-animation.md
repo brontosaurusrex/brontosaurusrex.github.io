@@ -11,3 +11,5 @@ tags: video misc
 
 Two meshes combined via 'CombineMeshes', animated displacement via 'DisplaceMeshNoise' powered via 'PerlinNoise'.
 Mesh is never rendered out, but vertices are changed into 'points' via 'MeshVerticesToPoints'. Rest should be self-explainable. No keyframes of any kind, all animation is powered via 'PerlinNoise'.
+
+TiXL Tooll4 seems to work pretty well with this old gpu (GeForce GTX 980 / 4GB).
