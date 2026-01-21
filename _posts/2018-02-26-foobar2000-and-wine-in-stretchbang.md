@@ -28,3 +28,6 @@ In _preferences/Default User Interface_ add custom column for track replaygain w
 [http://wiki.hydrogenaud.io/index.php?title=Foobar2000:Title_Formatting_Reference#.25replaygain_track_gain.25](http://wiki.hydrogenaud.io/index.php?title=Foobar2000:Title_Formatting_Reference#.25replaygain_track_gain.25)
     
 Now you can select it in playlist view (right mice button on the top, stuff ...). In preferences set all fonts to cuprum (9).
+
+
+
