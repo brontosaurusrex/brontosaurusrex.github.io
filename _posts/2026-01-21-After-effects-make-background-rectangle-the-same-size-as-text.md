@@ -8,7 +8,7 @@ tags: video
 If my text layer is named 'text', then this js will be in the background rectangle 'Size':
 
     // Define the text layer to follow
-    var textLayer = thisComp.layer("saša janez maechtig"); // Replace with your text layer name
+    var textLayer = thisComp.layer("text"); // Replace with your text layer name
 
     // Get the size of the text
     var textRect = textLayer.sourceRectAtTime(time, false);
