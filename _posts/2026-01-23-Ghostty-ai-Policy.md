@@ -6,6 +6,5 @@ title: Ghostty ai Policy
 tags: linux misc 
 ---
 <https://gothub.lunar.icu/ghostty-org/ghostty/blob/main/AI_POLICY.md>  
-<https://news.ycombinator.com/item?id=46730504>  
-![image](https://cdn.terminaltrove.com/m/ba9ea688-db03-4ce6-ae21-20fc9570634a.png)
+<https://news.ycombinator.com/item?id=46730504>
 
