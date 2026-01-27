@@ -11,7 +11,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    margin: 0;
+  }
+
+  html, body {
+    height: 100%;
   }
 
   .game {
@@ -128,8 +132,18 @@
   }
 
   function guess(color) {
+    const isCorrect = (color === correctColor);
+
+    // Human-readable console log
+    console.log(
+      `Square: ${currentSquare} | ` +
+      `Your guess: ${color} | ` +
+      `Correct answer: ${correctColor} | ` +
+      `Result: ${isCorrect ? 'correct' : 'wrong'}`
+    );
+
     total++;
-    if (color === correctColor) {
+    if (isCorrect) {
       correct++;
       document.getElementById('result').textContent = '✅ Correct';
     } else {
@@ -164,3 +178,4 @@
 
 </body>
 </html>
+
