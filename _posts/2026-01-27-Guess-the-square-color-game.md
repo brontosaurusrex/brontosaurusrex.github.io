@@ -24,3 +24,4 @@ var board = Chessboard('board', config)
 <br>
 [♘ Guess the square color](/guessboard.htm).
 
+Changelog: Fixed some css issues with scrollers (maybe). History log is now visible in js console.
