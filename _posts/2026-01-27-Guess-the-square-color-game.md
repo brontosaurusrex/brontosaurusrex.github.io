@@ -25,3 +25,10 @@ var board = Chessboard('board', config)
 [♘ Guess the square color](/guessboard.htm).
 
 Changelog: Fixed some css issues with scrollers (maybe). History log is now visible in js console.
+
+Observation: If you add numbers and the result is even, then the square is black.
+
+    a1 = 1 + 1 = 2  = black
+    e4 = 5 + 4 = 9  = white
+    h8 = 8 + 8 = 16 = black
+    d3 = 4 + 3 = 7  = white
