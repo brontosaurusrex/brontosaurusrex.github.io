@@ -26,6 +26,8 @@ var board = Chessboard('board', config)
 
 Changelog: Fixed some css issues with scrollers (maybe). History log is now visible in js console.
 
+> The console object provides access to the browser's debugging console (or terminal in Node. js). It is used to log information, debug code, and interact with the runtime environment during development.
+
 Observation: If you add numbers and the result is even, then the square is black.
 
     a1 = 1 + 1 = 2  = black
