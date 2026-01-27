@@ -24,7 +24,7 @@ var board = Chessboard('board', config)
 <br>
 [♘ Guess the square color](/guessboard.htm).
 
-Changelog: Fixed some css issues with scrollers (maybe). History log is now visible in js console.
+Changelog: Fixed some css issues with scrollers (maybe). History log is now visible in js console (Ctrl+Shift+K in firefox).
 
 > The console object provides access to the browser's debugging console (or terminal in Node. js). It is used to log information, debug code, and interact with the runtime environment during development.
 
