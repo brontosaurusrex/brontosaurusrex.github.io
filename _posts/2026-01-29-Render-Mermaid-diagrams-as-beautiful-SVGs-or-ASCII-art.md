@@ -8,4 +8,4 @@ tags: misc
 <https://github.com/lukilabs/beautiful-mermaid>  
 <https://news.ycombinator.com/item?id=46804828>
 
-[diagram](https://raw.githubusercontent.com/lukilabs/beautiful-mermaid/refs/heads/main/hero.png)
+[Example diagram](https://raw.githubusercontent.com/lukilabs/beautiful-mermaid/refs/heads/main/hero.png).
