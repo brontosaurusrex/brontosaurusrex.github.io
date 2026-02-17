@@ -36,7 +36,7 @@ priorities!
 
 ___How Would You Have Felt If You Hadn't Eaten Breakfast? Answer with one word please___
 
-Sluggish.
+__Sluggish.__
 
 ## ollama run deepseek-r1
 
