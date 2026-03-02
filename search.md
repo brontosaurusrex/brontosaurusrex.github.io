@@ -15,7 +15,13 @@ published: true
 
 <input style="width:100%; padding:15px; margin-bottom:25px; margin-top:25px; font-size:110%; opacity:0.8;" type="text" id="search" placeholder="Type to search..." autofocus>
 
-<div id="results">Supercharged by <a href="https://www.fusejs.io/">Fuse.js</a></div>
+<div id="results"></div>
+
+<div>
+<img src="/media/fusejs_logo.png" style="max-width: 20px; height: auto">
+<small><a href="https://www.fusejs.io/">Fuse.js</a> config update 2026: <a href="https://www.fusejs.io/examples.html#extended-search">'useExtendedSearch'</a> is now set to true, which makes white space act as an AND operator and pipe ( | ) as an OR operator. To escape white space, use "double quotes".</small></div>
+
+
 <script>
     let searchIndex = [];
     async function loadData() {
@@ -32,7 +38,8 @@ published: true
           distance: 2000000,
           includeMatches: true,
           threshold: 0.3,
-          shouldSort: true
+          shouldSort: true,
+          useExtendedSearch: true,
         });
     }
 
