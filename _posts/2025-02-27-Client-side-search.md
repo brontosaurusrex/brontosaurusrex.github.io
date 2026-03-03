@@ -20,4 +20,4 @@ p.s.
  - SVG logo with 2 links doesn't show transparency correctly when called via object tag, so it's now FAT part of _layouts/default.html, not so good.
 
 <img src="/media/fusejs_logo.png" style="max-width: 20px; height: auto">
-<small><a href="https://www.fusejs.io/">Fuse.js</a> config update 2026: <a href="https://www.fusejs.io/examples.html#extended-search">'useExtendedSearch'</a> is now set to true, which makes white space act as an AND operator and pipe ( | ) as an OR operator. To escape white space, use "double quotes".
+<a href="https://www.fusejs.io/">Fuse.js</a> config update 2026: <a href="https://www.fusejs.io/examples.html#extended-search">'useExtendedSearch'</a> is now set to true, which makes white space act as an AND operator and pipe ( | ) as an OR operator. To escape white space, use "double quotes".
