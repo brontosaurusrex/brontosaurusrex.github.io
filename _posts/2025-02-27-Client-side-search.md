@@ -21,3 +21,5 @@ p.s.
 
 <img src="/media/fusejs_logo.png" style="max-width: 20px; height: auto">
 <a href="https://www.fusejs.io/">Fuse.js</a> config update 2026: <a href="https://www.fusejs.io/examples.html#extended-search">'useExtendedSearch'</a> is now set to true, which makes white space act as an AND operator and pipe ( | ) as an OR operator. To escape white space, use "double quotes".
+
+And another feature added by chatgpt is url parsing (?q=search) to make searches bookmarkable/shareable.
