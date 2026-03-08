@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2026-03-08 09:36'
 title: King's gambit
-tags: luv 
+tags: chess luv 
 ---
 Some crazy lines  
 <https://youtu.be/98Iqo5ZSy5c>
