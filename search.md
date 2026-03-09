@@ -9,6 +9,7 @@ published: true
     display: block;
     margin: 0 auto;
   }
+  input::placeholder { opacity: 0.3; }
 </style>
 
 <script src="/public/js/fuse.js"></script>
@@ -16,11 +17,13 @@ published: true
 <input style="width:100%; padding:15px; margin-bottom:25px; margin-top:25px; font-size:110%; opacity:0.8;" 
   type="text" 
   id="search" 
-  placeholder="Type to search..." 
+  placeholder="Search" 
   autofocus >
 
 <div id="results"></div>
 
+<div style="position: relative; top: -20px;"><small><a href="https://www.fusejs.io/">Powered by <img src="/media/fusejs_logo.png" style="max-width: 30px; height: auto; position: relative; top: 10px;"> Fuse.js</a></small></div>
+<!--
 <div>
   <img src="/media/fusejs_logo.png" style="max-width: 20px; height: auto">
   <small>
@@ -29,7 +32,7 @@ published: true
     is now set to true, which makes white space act as an AND operator and pipe ( | ) as an OR operator. 
     To escape white space, use "double quotes".
   </small>
-</div>
+</div> -->
 
 <script>
 let searchIndex = [];
