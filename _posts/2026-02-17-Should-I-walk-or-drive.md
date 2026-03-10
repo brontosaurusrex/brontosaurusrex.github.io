@@ -13,7 +13,13 @@ Questions:
 
 1. ___I want to wash my car. The car wash is 50 meters away. Should I walk or drive?___
 2. ___How Would You Have Felt If You Hadn't Eaten Breakfast?___
+3. ___A man and a goat are on one side of the river. They have a boat. How can they go across?___ (from <https://www.youtube.com/watch?v=CyyL0yDhr7I>)
 
+## TOC
+{:.no_toc}
+
+* TOC
+{:toc}
 
 ## ollama list
 
@@ -25,7 +31,7 @@ returns
     deepseek-r1:latest    6995872bfe4c    5.2 GB    4 days ago
     llama3.1:latest       46e0c10c039e    4.9 GB    4 days ago
 
-## ollama run llama3.2
+## ollama run llama3.2 / car & breakfast
 
 ___I want to wash my car. The car wash is 50 meters away. Should I walk or drive?___
 
@@ -38,7 +44,7 @@ ___How Would You Have Felt If You Hadn't Eaten Breakfast? Answer with one word p
 
 __Sluggish.__
 
-## ollama run deepseek-r1
+## ollama run deepseek-r1 / car & breakfast
 
 ___I want to wash my car. The car wash is 50 meters away. Should I walk or drive?___
 
@@ -312,3 +318,97 @@ for more detail.
 
 __Hungry__
 
+## ollama run llama3.1 / goat
+___A man and a goat are on one side of the river. They have a boat. How can they go across?___  
+This is a classic lateral thinking puzzle!
+
+The answer is that the man takes the goat across first, and then... the goat comes back to pick up the man!
+
+So, in this case, "the goat" isn't just an animal, but also a temporary ferry or taxi service for the man.
+
+## ollama run llama3.2 / goat
+___A man and a goat are on one side of the river. They have a boat. How can they go across?___  
+
+The classic puzzle!
+
+Is the answer... "They lead the goat across, then the goat leads the man across"?
+
+In other words, initially, the man would push the goat into the boat and then steer the boat to the other side of the river, while the goat
+pulls on a rope to stabilize the boat. Once they're both safely on the other side, the goat would lead the way for the man!
+
+Am I correct?
+
+___no___  
+.. The answer is... "They take turns crossing the river."
+
+One person gets in the boat and crosses the river, then the other person follows.
+
+Is that correct?
+
+___no___  
+I've got another idea. Is the answer... "The goat drives the boat"?
+
+In this scenario, the man is on the other side of the river, and he pushes the goat into the boat and gets in himself. Then, from behind,
+the goat pushes the boat to the other side.
+
+Am I right this time?
+
+___nope___  
+Let me think... Ah-ha! Got it!
+
+The answer is... "They take turns swimming."
+
+In this scenario, the man and the goat both swim across the river. One person swims to the other side, then they switch roles.
+
+Is that correct?
+
+## ollama run deepseek-r1 / goat
+
+___A man and a goat are on one side of the river. They have a boat. How can they go across?___ 
+
+...
+
+Typically in these puzzles, the boat can hold the man and one other item, but here there's only one other thing: the goat. But the goat isn't an "item" like a wolf or cabbage; it's an animal.
+
+...
+
+It doesn't mention any restrictions, so maybe the man can take the goat with him in the boat.
+
+But let's consider the boat size. If the boat can hold both, then it's simple: the man and the goat get in the boat and cross together.
+
+But that seems too easy, and probably not the intended puzzle, because usually, there's a constraint to make it interesting.
+...
+
+__The man and the goat can cross the river together in the boat, as there are no constraints mentioned in the problem. The man rows the boat with the goat as a passenger, and they both arrive on the other side in one trip. This assumes the boat can hold both the man and the goat, which is a common interpretation in such puzzles unless specified otherwise.__
+
+## ollama run ministral-3 / goat
+
+___A man and a goat are on one side of the river. They have a boat. How can they go across?___  
+
+The classic river crossing puzzle with a man and a goat can be solved with the boat! Here's how they can cross the river:
+
+1. **The man rows the boat to the other side of the river.**
+   - The man crosses alone, leaving the goat on the starting side.
+
+2. **The man returns to the original side with the boat.**
+   - Now, the goat is still on the starting side, and the man is back with the boat.
+
+3. **The man and the goat cross together in the boat.**
+   - Both the man and the goat are now on the other side of the river.
+
+This way, they both successfully cross the river using the boat.
+
+___why would he need to cross two times?___
+
+You're right to question that! If the goal is simply to get both the man and the goat to the other side of the river **without any
+constraints** (like limited boat capacity or other animals), the simplest solution is:
+
+**One-Trip Solution:**
+1. **The man and the goat get into the boat together and row across.**
+   - Both arrive safely on the other side.
+
+**Why the Confusion?**
+The classic river crossing puzzles (like the one with a wolf, goat, and cabbage) involve **constraints** (e.g., the goat can't be left
+alone with the wolf or cabbage). Since your scenario has **no such constraints**, the most straightforward answer is just to row together.
+
+Would you like to explore a more complex version with additional rules?
