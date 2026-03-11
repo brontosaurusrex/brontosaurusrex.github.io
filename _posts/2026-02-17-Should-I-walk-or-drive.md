@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2026-02-17 05:51'
-title: Should I walk or drive?
+title: The goat drives the boat?
 tags: ai
 ---
 ## Asking small local ais the 'trick' questions
