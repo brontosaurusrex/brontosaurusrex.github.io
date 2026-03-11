@@ -6,7 +6,7 @@ title: The goat drives the boat?
 tags: ai
 ---
 ## Asking small local ais the 'trick' questions
-
+{:.no_toc}
 <https://news.ycombinator.com/item?id=47031580>
 
 Questions:
