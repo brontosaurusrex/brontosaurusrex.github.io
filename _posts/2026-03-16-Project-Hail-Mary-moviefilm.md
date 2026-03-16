@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 date: '2026-03-16 10:07'
 title: Project Hail Mary moviefilm
@@ -12,3 +12,6 @@ The film repeatedly crosses the thin line between genuine feel-good moments and 
 ## Pros
 
 Visually beautiful. Ryan is mostly a good fit for the role. Rocky having five legs.
+
+
+FIXME: Make this longer/smarter before publishing
