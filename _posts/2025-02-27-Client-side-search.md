@@ -23,3 +23,5 @@ p.s.
 <a href="https://www.fusejs.io/">Fuse.js</a> config update 2026: <a href="https://www.fusejs.io/examples.html#extended-search">'useExtendedSearch'</a> is now set to true, which makes white space act as an AND operator and pipe ( | ) as an OR operator. To escape white space, use "double quotes".
 
 And another feature added by chatgpt is url parsing (?q=search) to make searches bookmarkable/shareable.
+
+19. 3. 2026: Another search update, timestamps are now generated in search.json, relevance of newer stuff should be slightly better now, time will tell (chatgpt vibe coded).
