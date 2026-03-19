@@ -24,4 +24,4 @@ p.s.
 
 And another feature added by chatgpt is url parsing (?q=search) to make searches bookmarkable/shareable.
 
-Another search update, timestamps are now generated in search.json, relevance of newer stuff should be slightly better now, time will tell (chatgpt vibe coded) - 19. 3. 2026
+Another search update, timestamps are now generated in search.json, relevance of newer stuff should be slightly better now, time will tell (chatgpt vibe coded).
