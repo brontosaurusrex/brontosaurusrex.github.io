@@ -12,7 +12,6 @@ permalink: /search.json
       {% unless first_item %},{% endunless %}
       {
         "date": {{ post.date | jsonify }},
-        "timestamp": {{ post.date | default: site.time | date: "%s" }},
         "id": {{ post.url | jsonify }},
         "title": {{ post.title | jsonify }},
         "content": {{ post.content | strip_html | jsonify }},
@@ -27,7 +26,6 @@ permalink: /search.json
       {% unless first_item %},{% endunless %}
       {
         "date": {{ page.date | jsonify }},
-        "timestamp": {{ page.date | default: site.time | date: "%s" }},
         "id": {{ page.url | jsonify }},
         "title": {{ page.title | jsonify }},
         "content": {% if page.content %}{{ page.content | strip_html | jsonify }}{% else %}"No content available"{% endif %},

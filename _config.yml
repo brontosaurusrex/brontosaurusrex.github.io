@@ -28,4 +28,5 @@ collections:
 
 exclude:
   - informatika/
+  - bak/
   # Only listed directories will be processed
