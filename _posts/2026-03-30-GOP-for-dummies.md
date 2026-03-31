@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2026-03-30 14:31'
+date: '2026-03-30 18:30'
 title: GOP for dummies
 tags: video 
 ---
