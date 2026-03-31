@@ -183,5 +183,6 @@ Veryslow x.264 preset
     29      B    250000 bytes
     30      B    250000 bytes
 
-Smart conclusion here.
+And a [version of this script](https://raw.githubusercontent.com/brontosaurusrex/singularity/refs/heads/master/bin/gop_with_graph) that adds [bitrate distribution ascii art](https://raw.githubusercontent.com/brontosaurusrex/singularity/refs/heads/master/data/bitrate_distribution.txt). 
+
 
