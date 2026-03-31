@@ -43,146 +43,140 @@ Chatgpt constructed bash script could look like
     }
     '
 
+Or a [version of this script](https://raw.githubusercontent.com/brontosaurusrex/singularity/refs/heads/master/bin/gop_with_graph) that adds bitrate distribution ascii art. Ascii bitrate is fit to fill normalized.
+
 Typical cineform mov, all frames are I frames (ffprobe will not return frame type, so script assumes I type):
 
-    gop cineform.mov
-    
-     1  I────   1428668 bytes
-     2  I────   1495596 bytes
-     3  I────   1478536 bytes
-     4  I────   1435628 bytes
-     5  I────   1500988 bytes
-     6  I────   1604252 bytes
-     7  I────   1473584 bytes
-     8  I────   1530488 bytes
-     9  I────   1637484 bytes
-    10  I────   1475332 bytes
-    11  I────   1525756 bytes
-    12  I────   1648728 bytes
-    13  I────   1450760 bytes
-    14  I────   1480096 bytes
-    15  I────   1468560 bytes
-    16  I────   1439028 bytes
-    17  I────   1501236 bytes
-    18  I────   1602928 bytes
-    19  I────   1481236 bytes
-    20  I────   1525344 bytes
-    21  I────   1622172 bytes
-    22  I────   1506064 bytes
-    23  I────   1529228 bytes
-    24  I────   1629456 bytes
-    25  I────   1452368 bytes
-    26  I────   1481740 bytes
-    27  I────   1448896 bytes
-    28  I────   1437796 bytes
-    29  I────   1486024 bytes
-    30  I────   1578068 bytes
+      273  I────    948632 bytes  ####################
+      274  I────    992096 bytes  #####################
+      275  I────   1122612 bytes  ########################
+      276  I────   1100060 bytes  ########################
+      277  I────   1022352 bytes  ######################
+      278  I────    986004 bytes  #####################
+      279  I────    965564 bytes  #####################
+      280  I────   1077204 bytes  #######################
+      281  I────   1076352 bytes  #######################
+      282  I────    950700 bytes  ####################
+      283  I────    975628 bytes  #####################
+      284  I────    965556 bytes  #####################
+      285  I────   1083288 bytes  #######################
+      286  I────   1135564 bytes  #########################
+      287  I────   1041004 bytes  ######################
+      288  I────   1002624 bytes  ######################
+      289  I────   1004092 bytes  ######################
+      290  I────   1119344 bytes  ########################
+      291  I────   1083284 bytes  #######################
+      292  I────   1004480 bytes  ######################
+      293  I────    914176 bytes  ####################
+      294  I────   1304372 bytes  ############################
+      295  I────   1377500 bytes  ##############################
+      296  I────   1250604 bytes  ###########################
+      297  I────   1313788 bytes  #############################
+      298  I────   1377376 bytes  ##############################
+      299  I────   1319956 bytes  #############################
+      300  I────   1391172 bytes  ##############################
+      301  I────   1433520 bytes  ###############################
+      302  I────   1386680 bytes  ##############################
 
 Typical ultrafast x.264 (screen recording), doesn't bother with B frames
 
-    gop ultrafastAVC.mp4 | head -n 30
-    
-     1  I────    911822 bytes
-     2    P      123747 bytes
-     3    P      394756 bytes
-     4    P       11416 bytes
-     5    P        6375 bytes
-     6    P        6773 bytes
-     7    P        6389 bytes
-     8    P       26484 bytes
-     9    P        6701 bytes
-    10    P        6503 bytes
-    11    P        6233 bytes
-    12    P        6066 bytes
-    13    P        6486 bytes
-    14    P        6548 bytes
-    15    P        6248 bytes
-    16    P        6245 bytes
-    17    P       59351 bytes
-    18    P        7809 bytes
-    19    P        6411 bytes
-    20    P        6887 bytes
-    21    P        6560 bytes
-    22    P        6165 bytes
-    23    P        6290 bytes
-    24    P        6671 bytes
-    25    P       25275 bytes
-    26    P        6727 bytes
-    27    P        6814 bytes
-    28    P        8137 bytes
-    29    P        7559 bytes
-    30    P        7283 bytes
+      240    P        5460 bytes  
+      241    P        6516 bytes  
+      242    P      384257 bytes  #############
+      243    P      362919 bytes  ############
+      244    P      326074 bytes  ###########
+      245    P      263442 bytes  #########
+      246    P       87488 bytes  ###
+      247    P       65892 bytes  ##
+      248    P        9293 bytes  
+      249    P        5598 bytes  
+      250    P        7197 bytes  
+      251  I────   1141412 bytes  #######################################
+      252    P        6487 bytes  
+      253    P        5613 bytes  
+      254    P        5381 bytes  
+      255    P        7852 bytes  
+      256    P        7703 bytes  
+      257    P        6832 bytes  
+      258    P        5816 bytes  
+      259    P        6258 bytes  
+      260    P        8294 bytes  
+      261    P        9133 bytes  
+      262    P        7064 bytes  
+      263    P        5916 bytes  
+      264    P        6739 bytes  
+      265    P        7497 bytes  
+      266    P       11224 bytes  
+      267    P        8326 bytes  
+      268    P        6563 bytes  
+      269    P        5772 bytes  
 
 Veryslow x.264 preset
 
-    gop veryslowAVC.mp4 | head -n 30
-
-     1  I────    159087 bytes
-     2      B     30468 bytes
-     3      B     49405 bytes
-     4      B     26404 bytes
-     5    P      106049 bytes
-     6      B     28771 bytes
-     7      B     45149 bytes
-     8      B     24049 bytes
-     9    P      100280 bytes
-    10      B     27993 bytes
-    11      B     43132 bytes
-    12      B     24211 bytes
-    13    P       88936 bytes
-    14      B     24944 bytes
-    15      B     41915 bytes
-    16      B     25152 bytes
-    17    P       92606 bytes
-    18      B     32308 bytes
-    19      B     47765 bytes
-    20      B     22979 bytes
-    21    P       80585 bytes
-    22      B     25030 bytes
-    23      B     51157 bytes
-    24      B     27996 bytes
-    25    P       53829 bytes
-    26  I────    138291 bytes
-    27      B      7836 bytes
-    28      B     11356 bytes
-    29      B      7449 bytes
-    30    P       27069 bytes
+      377  I────    315818 bytes  ######################
+      378      B     47189 bytes  ###
+      379      B     70166 bytes  #####
+      380      B     42643 bytes  ###
+      381    P      173192 bytes  ############
+      382      B     44142 bytes  ###
+      383      B     68863 bytes  ####
+      384      B     38564 bytes  ##
+      385    P      161360 bytes  ###########
+      386      B     41360 bytes  ##
+      387      B     74461 bytes  #####
+      388      B     41257 bytes  ##
+      389    P      156506 bytes  ###########
+      390      B     38385 bytes  ##
+      391      B     72214 bytes  #####
+      392      B     44863 bytes  ###
+      393    P      164925 bytes  ###########
+      394      B     37340 bytes  ##
+      395      B     70971 bytes  #####
+      396      B     42263 bytes  ###
+      397    P      148882 bytes  ##########
+      398      B     46404 bytes  ###
+      399      B     79438 bytes  #####
+      400      B     47978 bytes  ###
+      401    P      141652 bytes  ##########
+      402      B     45448 bytes  ###
+      403      B     74540 bytes  #####
+      404      B     49253 bytes  ###
+      405    P      121988 bytes  ########
+      406    P       66809 bytes  ####
+      407  I────    558483 bytes  ########################################
 
 50 mbit XDCAM mpeg2 thing, GOP is 12 frames long, encoding type is CBR
 
-    gop xdcam.mxf | head -n 30
+      139    P      621621 bytes  #####################################
+      140      B    122509 bytes  #######
+      141      B    240468 bytes  ##############
+      142    P      282998 bytes  #################
+      143      B    163902 bytes  #########
+      144      B    307325 bytes  ##################
+      145  I────    371411 bytes  ######################
+      146      B    154834 bytes  #########
+      147      B    134406 bytes  ########
+      148    P      214273 bytes  ############
+      149      B     82567 bytes  ####
+      150      B    169461 bytes  ##########
+      151    P      534457 bytes  ################################
+      152      B     51703 bytes  ###
+      153      B    112532 bytes  ######
+      154    P      515012 bytes  ###############################
+      155      B    116230 bytes  ######
+      156      B    240436 bytes  ##############
+      157  I────    460713 bytes  ###########################
+      158      B    172820 bytes  ##########
+      159      B    176916 bytes  ##########
+      160    P      317669 bytes  ###################
+      161      B     76998 bytes  ####
+      162      B    188748 bytes  ###########
+      163    P      537142 bytes  ################################
+      164      B     63332 bytes  ###
+      165      B    139571 bytes  ########
+      166    P      544844 bytes  ################################
+      167      B     89880 bytes  #####
+      168      B    258842 bytes  ###############
+      169  I────    496320 bytes  #############################
 
-     1  I────    250000 bytes
-     2      B    250000 bytes
-     3      B    250000 bytes
-     4    P      250000 bytes
-     5      B    250000 bytes
-     6      B    250000 bytes
-     7    P      250000 bytes
-     8      B    250000 bytes
-     9      B    250000 bytes
-    10    P      250000 bytes
-    11      B    250000 bytes
-    12      B    250000 bytes
-    13  I────    250000 bytes
-    14      B    250000 bytes
-    15      B    250000 bytes
-    16    P      250000 bytes
-    17      B    250000 bytes
-    18      B    250000 bytes
-    19    P      250000 bytes
-    20      B    250000 bytes
-    21      B    250000 bytes
-    22    P      250000 bytes
-    23      B    250000 bytes
-    24      B    250000 bytes
-    25  I────    250000 bytes
-    26      B    250000 bytes
-    27      B    250000 bytes
-    28    P      250000 bytes
-    29      B    250000 bytes
-    30      B    250000 bytes
-
-And a [version of this script](https://raw.githubusercontent.com/brontosaurusrex/singularity/refs/heads/master/bin/gop_with_graph) that adds [bitrate distribution ascii art](https://raw.githubusercontent.com/brontosaurusrex/singularity/refs/heads/master/data/bitrate_distribution.txt). 
-
-
+Smart conclusion here.
