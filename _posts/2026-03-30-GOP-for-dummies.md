@@ -5,7 +5,7 @@ date: '2026-03-30 18:30'
 title: GOP for dummies
 tags: video 
 ---
-GOP = Group of Pictures. Quote from <https://en.wikipedia.org/wiki/Group_of_pictures>  
+GOP = Group of Pictures. Quote from <https://en.wikipedia.org/wiki/Group_of_pictures>:  
 > Generally, the more I frames the video stream has, the more editable it is. However, having more I frames substantially increases bit rate needed to code the video.
 
 Chatgpt constructed bash script that echoes some I,P,B data in video stream could look like
