@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2026-04-04 13:03'
-title: Send file to local ollama model for fixing typos
+title: Send files or text to local Ollama model for fixing typos
 tags: misc ai 
 ---
 Example:
