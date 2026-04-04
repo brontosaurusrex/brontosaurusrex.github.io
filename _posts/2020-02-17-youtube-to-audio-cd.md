@@ -199,3 +199,28 @@ Windows example:
 
     yt-dlp.exe --cookies-from-browser firefox -f 140 -o %(title)s.%(ext)s --restrict-filename https://www.youtube.com/playlist?list=abcdefg
 
+### Burning from WSL2
+
+In admin powershell
+
+> Burning CDs from WSL2 requires passing a USB CD/DVD burner through to Linux using usbipd-win
+
+    winget install --interactive --exact dorssel.usbipd-win
+
+then 
+
+    usbipd list
+
+then to attach
+
+    usbipd bind --busid <busid>
+    usbipd attach --wsl --busid <busid>
+
+may return
+
+    usbipd: info: Using WSL distribution 'Debian' to attach; the device will be available in all WSL 2 distributions.
+    usbipd: info: Loading vhci_hcd module.
+    usbipd: info: Detected networking mode 'nat'.
+    usbipd: info: Using IP address x.x.x.x to reach the host.
+
+In Debian (wsl2) check id anything is there with dmesg and/or lsblk. Open k3b or similar and it should find the device.
