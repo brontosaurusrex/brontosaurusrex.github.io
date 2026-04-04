@@ -12,3 +12,11 @@ Example:
 There is also much slower, but I guess much smarter:
 
     --hidethinking
+
+[Tipos](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/tipos) script can take typed text or files as input.
+
+Example: 
+
+    tipos "what th hec is thi?
+    === Checking text: "what th hec is thi?" ===
+    What the heck is this?
