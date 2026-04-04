@@ -180,7 +180,7 @@ Asumming that template.htm has 'replaceme' string inside <pre> tags and it's in 
 
     sed -e "/replaceme/r tmp.txt" -e "/replaceme/d" ~/bin/template.htm > cover.htm
     
-### Merge
+### Merge pdf covers for easy printing
 
 [https://unixblogger.com/how-to-easily-merge-pdf-documents-under-linux/](https://unixblogger.com/how-to-easily-merge-pdf-documents-under-linux/)
 
