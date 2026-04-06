@@ -51,4 +51,4 @@ neofetch
 
 Runs quite slow (the GUI that is), but can decode HD H.265 video without a sweat.
 
-[![image](https://thumbs2.imgbox.com/ce/79/OM5JBPDG_t.png)](https://images2.imgbox.com/ce/79/OM5JBPDG_o.png)
+[![image](https://thumbs2.imgbox.com/9a/e0/Ly7SwTD7_t.png)](https://images2.imgbox.com/9a/e0/Ly7SwTD7_o.png)
