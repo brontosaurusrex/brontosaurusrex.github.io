@@ -5,7 +5,14 @@ date: '2026-04-08 10:32'
 title: To Cineform ffmpeg
 tags: video 
 ---
+Progressive
+
     ffmpeg -i input.mov -c:v cfhd -pix_fmt yuv422p10le -quality medium output.mov
+
+Interlaced?
+
+    ffmpeg -i input_interlaced.mov -flags +ildct -top 1 -c:v cfhd -pix_fmt yuv422p10le -quality medium output_interlaced.mov
+
 
 Acording to deepseek quality levels are
 
