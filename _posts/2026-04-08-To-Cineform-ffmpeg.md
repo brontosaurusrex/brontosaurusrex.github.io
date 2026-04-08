@@ -10,7 +10,7 @@ tags: video
 Acording to deepseek quality levels are
 
     Quality Setting   Numeric Value   Typical Use Case
-    film3+            0               Highest quality. Archival, VFX, heavy color grading
+    film3+            0               Highest quality. Archival, VFX, color grading
     film3             1               
     film2+            2               
     film2             3               
