@@ -23,7 +23,9 @@ permalink: /search.json
   {% endfor %}
 
   {% for page in site.pages %}
-    {% unless blacklist contains page.url %}
+  
+    {% unless blacklist contains page.url or page.url contains "/page" %}
+
       {% unless first_item %},{% endunless %}
       {
         "date": {{ page.date | jsonify }},
