@@ -26,8 +26,4 @@ And another feature added by chatgpt is url parsing (?q=search) to make searches
 
 Another search update, timestamps are now generated in search.json, relevance of newer stuff should be slightly better now, time will tell (chatgpt vibe coded).
 
-And another update to get rid of /page123 stuff in search.
-
-    {% for page in site.pages %}  
-        {% unless blacklist contains page.url or page.url contains "/page" %}
-    ...
+And another update to get rid of /page123 stuff in search. Extended 'unless' syntax.
