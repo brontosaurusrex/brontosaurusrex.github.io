@@ -182,12 +182,22 @@ Veryslow x.264 preset
 
 4k AVC / I frame only from Blackmagic resolve
 
-Format                                   : AVC
-Format/Info                              : Advanced Video Codec
-Format profile                           : High 4:2:2 Intra@L5.2
-Format settings, CABAC                   : No
-Format settings, GOP                     : N=1
-Format settings, wrapping mode           : Frame
+    Format                                   : AVC
+    Format/Info                              : Advanced Video Codec
+    Format profile                           : High 4:2:2 Intra@L5.2
+    Format settings, CABAC                   : No
+    Format settings, GOP                     : N=1
+    Format settings, wrapping mode           : Frame
+    Bit rate                                 : 500 Mb/s
+    Width                                    : 3 840 pixels
+    Height                                   : 2 160 pixels
+    Display aspect ratio                     : 16:9
+    Frame rate                               : 50.000 FPS
+    Standard                                 : Component
+    Color space                              : YUV
+    Chroma subsampling                       : 4:2:2
+    Bit depth                                : 10 bits
+    Scan type                                : Progressive
 
      1  I────   1260032 bytes  ########################################
      2  I────   1260032 bytes  ########################################
