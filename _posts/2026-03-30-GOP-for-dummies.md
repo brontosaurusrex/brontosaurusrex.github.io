@@ -44,7 +44,7 @@ Chatgpt constructed bash script that echoes some I,P,B data in video stream coul
     }
     '
 
-Or a [version of this script](https://raw.githubusercontent.com/brontosaurusrex/singularity/refs/heads/master/bin/gop_with_graph) that adds bitrate distribution ascii art. Ascii bitrate is fit to fill normalized.
+Or a [version of this script](https://raw.githubusercontent.com/brontosaurusrex/singularity/refs/heads/master/bin/gop_with_graph) that adds bitrate distribution ascii art. Ascii bitrate is fit to fill normalized, 2 pass calc needed.
 
 Typical cineform mov, all frames are I frames (ffprobe will not return frame type, so script assumes I type):
 
@@ -180,7 +180,7 @@ Veryslow x.264 preset
       168      B    258842 bytes  ###############
       169  I────    496320 bytes  #############################
 
-4k AVC / I frame only from Blackmagic resolve
+4k AVC / I frame only from Blackmagic resolve mxf
 
     Format                                   : AVC
     Format/Info                              : Advanced Video Codec
@@ -208,26 +208,5 @@ Veryslow x.264 preset
      7  I────   1260032 bytes  ########################################
      8  I────   1260032 bytes  ########################################
      9  I────   1260032 bytes  ########################################
-    10  I────   1260032 bytes  ########################################
-    11  I────   1260032 bytes  ########################################
-    12  I────   1260032 bytes  ########################################
-    13  I────   1260032 bytes  ########################################
-    14  I────   1260032 bytes  ########################################
-    15  I────   1260032 bytes  ########################################
-    16  I────   1260032 bytes  ########################################
-    17  I────   1260032 bytes  ########################################
-    18  I────   1260032 bytes  ########################################
-    19  I────   1260032 bytes  ########################################
-    20  I────   1260032 bytes  ########################################
-    21  I────   1260032 bytes  ########################################
-    22  I────   1260032 bytes  ########################################
-    23  I────   1260032 bytes  ########################################
-    24  I────   1260032 bytes  ########################################
-    25  I────   1260032 bytes  ########################################
-    26  I────   1260032 bytes  ########################################
-    27  I────   1260032 bytes  ########################################
-    28  I────   1260032 bytes  ########################################
-    29  I────   1260032 bytes  ########################################
-    30  I────   1260032 bytes  ########################################
 
 Smart conclusion here.
