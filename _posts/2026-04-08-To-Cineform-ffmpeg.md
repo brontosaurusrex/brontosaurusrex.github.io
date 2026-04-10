@@ -14,7 +14,7 @@ Interlaced?
     ffmpeg -i input_interlaced.mov -flags +ildct -top 1 -c:v cfhd -pix_fmt yuv422p10le -quality medium output_interlaced.mov
 
 
-Acording to deepseek quality levels are (confirmed by looking at libavcodec/cfhdenc.c)
+Acording to deepseek quality levels are (confirmed by looking at ffmpeg-8.1/libavcodec/cfhdenc.c)
 
     Quality Setting   Numeric Value   Typical Use Case
     film3+            0               Highest quality. Archival, VFX, color grading
