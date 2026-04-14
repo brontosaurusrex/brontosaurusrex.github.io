@@ -12,6 +12,6 @@ tags: video
 
 Quote
 
-> What is your Linux photo editing software of choice?
-> <https://github.com/andreavolpato/spektrafilm>
+> What is your Linux photo editing software of choice?  
+> <https://github.com/andreavolpato/spektrafilm>  
 > <https://www.darktable.org>
