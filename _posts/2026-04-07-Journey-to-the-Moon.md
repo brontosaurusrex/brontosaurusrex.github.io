@@ -7,4 +7,5 @@ tags: misc
 ---
 <https://www.nasa.gov/artemis-ii-multimedia> = root  
 <https://www.nasa.gov/gallery/journey-to-the-moon>  
-<https://www.nasa.gov/gallery/lunar-flyby>
+<https://www.nasa.gov/gallery/lunar-flyby>  
+<https://www.youtube.com/shorts/6WGro4XXM5k> = Reentry timelapse
