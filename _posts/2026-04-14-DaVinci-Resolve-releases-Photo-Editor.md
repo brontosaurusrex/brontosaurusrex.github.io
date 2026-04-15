@@ -10,6 +10,7 @@ tags: video
 ![image](https://images.blackmagicdesign.com/images/products/davinciresolve/photo/hero/hero-xl@2x.jpg?_v=1775782458)  
 overview:  
 <https://www.youtube.com/watch?v=HuKgfytA0lg>
+<https://www.youtube.com/watch?v=gy0nFc-6k58>
 
 Quick try, old Blender render (png was imported, not sure how to handle exr), adding additional dof with internaly calculated depth map + some rgb split type of effect in color page, before:  
 [![image](https://thumbs2.imgbox.com/cd/46/djROu2he_t.png)](https://images2.imgbox.com/cd/46/djROu2he_o.png)  
