@@ -7,9 +7,7 @@ tags: ai
 ---
 Asking local gemma4 model what is image about. Image used <https://unsplash.com/photos/letters-spelling-dad-energy-connected-to-plugs-yHCzLBZ1_vc>
 
-    ollama list | grep gemma
-    gemma4:latest          c6eb396dbd59    9.6 GB 
-
+    # gemma4:latest               c6eb396dbd59    9.6 GB 
     echo "Whats in this image?" | time ollama run gemma4 ./stuff03.png
 
 returns
