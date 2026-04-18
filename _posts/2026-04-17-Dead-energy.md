@@ -38,3 +38,7 @@ That is some seriously high self-confidence.
 > Chuck Norris doesn't need a power outlet. He generates his own grid.
 
 > Chuck Norris can look at a microwave and make it pop popcorn without warming up.
+
+## Who are you?
+
+> I am Gemma 4, a Large Language Model developed by Google DeepMind. I am an open weights model.
