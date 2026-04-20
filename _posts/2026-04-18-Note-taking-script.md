@@ -5,9 +5,8 @@ date: '2026-04-18 19:59'
 title: Note taking script
 tags: bash linux
 ---
-Script <https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/note>  
-needs: fzf, ripgrep  
-likes: batcat
+[Note taking bash script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/note).    
+needs: fzf, ripgrep; likes: batcat
 
     note --help
     Usage:>
@@ -45,6 +44,6 @@ should cat last changed note.
 
 should list files/notes to stdout, not sure if this is needed (open does similar job).
 
-Text editor, by default $EDITOR varibale is used, if undefined it will try to load hx (helix). Configure to your needs. By default notes will be stored in $HOME/notes, configure as needed.
+Text editor, by default $EDITOR variable is used, if undefined it will try to load hx (helix). Configure to your needs. By default notes will be stored in $HOME/notes, configure as needed.
 
 This is by far the most boring script I have (vibe coded) produced, pretty sure there must be gazzilions out there.
