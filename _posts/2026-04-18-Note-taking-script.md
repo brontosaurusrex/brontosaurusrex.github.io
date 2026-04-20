@@ -18,3 +18,5 @@ Demo <https://youtu.be/P1nukXHu5W4> so far.
       note h | -h | --help
       (pipe stands for or)
     Storage: /home/b/notes
+
+Soon.
