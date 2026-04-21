@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2026-04-18 19:59'
 title: Note taking script
-tags: bash linux
+tags: bash linux ai
 ---
 ## v1
 
