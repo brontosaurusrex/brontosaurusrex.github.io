@@ -5,7 +5,9 @@ date: '2026-04-18 19:59'
 title: Note taking script
 tags: bash linux
 ---
-[Note taking bash script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/note).    
+## v1
+
+[Note taking bash script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/notev1).    
 needs: fzf, ripgrep; likes: batcat
 
     note --help
@@ -47,3 +49,25 @@ should list files/notes to stdout, not sure if this is needed (open does similar
 Text editor, by default $EDITOR variable is used, if undefined it will try to load hx (helix). Configure to your needs. By default notes will be stored in $HOME/notes, configure as needed.
 
 This is by far the most boring script I have (vibe coded) produced, pretty sure there must be gazzilions out there.
+
+## v2
+
+An attempt at simplification of the flow/ux
+
+    note -h                                                                        bucentaur/.experiments/bin
+    Usage:
+      note "text"         → create/reopen note
+      note new "title"    → explicit title
+      note l              → list
+      note                → open (fzf)
+      note c              → cat latest
+      note s              → search (rg|fzf)
+      note h              → help
+
+Not needing the specific title is the idea, so
+
+    note nice weather today
+
+should produce something.
+
+[Note taking bash script v2](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/ experiments/bin/note).
