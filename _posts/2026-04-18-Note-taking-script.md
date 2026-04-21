@@ -68,6 +68,6 @@ Not needing the specific title is the idea, so
 
     note nice weather today
 
-should produce something.
+should produce something. Inbox idea (flow.md) was removed completely.
 
-[Note taking bash script v2](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/ experiments/bin/note).
+[Note taking bash script v2](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/note).
