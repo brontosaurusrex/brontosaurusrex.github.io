@@ -54,7 +54,7 @@ This is by far the most boring script I have (vibe coded) produced, pretty sure 
 
 An attempt at simplification of the flow/ux
 
-    note -h                                                                        bucentaur/.experiments/bin
+    note -h
     Usage:
       note "text"         → create/reopen note
       note new "title"    → explicit title
