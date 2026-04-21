@@ -23,7 +23,7 @@ needs: fzf, ripgrep; likes: batcat
 Multiple parameters to run same command, for example
 
     note
-:    # and
+    # and
     note open
 
 are the same (neat little dual pane tui is presented), and if you add a parameter (file name approximation)
