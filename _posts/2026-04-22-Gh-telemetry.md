@@ -6,8 +6,9 @@ title: Gh telemetry
 tags: misc 
 ---
 <https://xkcd.com/1597>  
+<https://cli.github.com/telemetry>  
 <https://news.ycombinator.com/item?id=47862331>
 
 opt out
 
-    gh config set telemetry disabled 
+    gh config set telemetry disabled
