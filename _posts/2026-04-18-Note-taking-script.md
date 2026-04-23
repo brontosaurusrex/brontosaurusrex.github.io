@@ -72,7 +72,7 @@ should produce something. Inbox idea (flow.md) was removed completely.
 
 [Note taking bash script v2](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/note).
 
-edit: 23.4.26 git sync and some cosmetic changes, batcat removed, cat it the real cat.
+edit: 23.4.26 git sync and some cosmetic changes, batcat removed, cat is the only real cat.
 
 ### about fzf scrolling
 
