@@ -74,5 +74,9 @@ should produce something. Inbox idea (flow.md) was removed completely.
 
 edit: 23.4.26 git sync and some cosmetic changes, batcat removed, cat it the real cat.
 
+### about fzf scrolling
+
+Up and down will select files, shift+up and shift+down will scroll the text pane on the right (mice should also work).
+
 Scrot ('open note' fzf tui):
 ![note image](/media/note.png)
