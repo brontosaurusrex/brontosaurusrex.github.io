@@ -54,15 +54,16 @@ This is by far the most boring script I have (vibe coded) produced, pretty sure 
 
 An attempt at simplification of the flow/ux
 
-    note -h
+    note h
     Usage:
-      note "text"         → create/reopen note
-      note new "title"    → explicit title
-      note l              → list
-      note                → open (fzf)
-      note c              → cat latest
-      note s              → search (rg|fzf)
-      note h              → help
+    note "text"         → create/reopen note
+    note n "title"      → explicit title
+    note l              → list
+    note o              → open (fzf)
+    note s              → search (rg|fzf)
+    note c              → cat latest
+    note rm             → move to .trash
+    note h              → help
 
 Not needing the specific title is the idea, so
 
