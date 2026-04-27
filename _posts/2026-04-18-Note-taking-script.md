@@ -5,22 +5,20 @@ date: '2026-04-18 19:59'
 title: Note taking script
 tags: bash linux ai
 ---
-## v1
+[Note taking bash script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/note).
 
-[Note taking bash script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/notev1).    
-needs: fzf, ripgrep; likes: batcat
+needs: fzf, ripgrep (rg)
 
     note --help
-    Usage:>
-      note + | new "title"
-      note l | list
-      note   | open [query]
-      note c | cat [query]
-      note g | grep | s <query>
-      note "quick note" (flow.md)
-      note h | -h | --help
-      (pipe stands for or)
-    Storage: /home/b/notes
+    Usage:
+    note "text"         → create/reopen note
+    note n "title"      → explicit title
+    note l              → list
+    note o              → open (fzf)
+    note s              → search (rg|fzf)
+    note c              → cat latest
+    note rm             → move to .trash
+    note h              → help
 
 Multiple parameters to run same command, for example
 
@@ -46,36 +44,18 @@ should cat last changed note.
 
 should list files/notes to stdout, not sure if this is needed (open does similar job).
 
-Text editor, by default $EDITOR variable is used, if undefined it will try to load hx (helix). Configure to your needs. By default notes will be stored in $HOME/notes, configure as needed.
+Text editor, by default $EDITOR variable is used, if undefined it will try to load hx (helix) or vim or nano. Configure to your needs. By default notes will be stored in $HOME/notes, configure as needed.
 
-This is by far the most boring script I have (vibe coded) produced, pretty sure there must be gazzilions out there.
 
-## v2
-
-An attempt at simplification of the flow/ux
-
-    note h
-    Usage:
-    note "text"         → create/reopen note
-    note n "title"      → explicit title
-    note l              → list
-    note o              → open (fzf)
-    note s              → search (rg|fzf)
-    note c              → cat latest
-    note rm             → move to .trash
-    note h              → help
-
-Not needing the specific title is the idea, so
+Not needing the specific title is the idea as well, so
 
     note nice weather today
 
-should produce something. Inbox idea (flow.md) was removed completely.
+shall make a note with filename '2026-04-27-nice-weather-today.md'.
 
-[Note taking bash script v2](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/note).
 
-edit: 23.4.26 git sync and some cosmetic changes, batcat removed, cat is the only real cat.
 
-### about fzf scrolling
+#### about fzf scrolling
 
 Up and down will select files, shift+up and shift+down will scroll the text pane on the right (mice should also work).
 
