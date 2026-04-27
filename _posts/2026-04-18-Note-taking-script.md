@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2026-04-18 19:59'
+date: '2026-04-27 10:00'
 title: Note taking script
 tags: bash linux ai
 ---
@@ -53,11 +53,13 @@ Not needing the specific title is the idea as well, so
 
 shall make a note with filename '2026-04-27-nice-weather-today.md'.
 
-
-
 #### about fzf scrolling
 
 Up and down will select files, shift+up and shift+down will scroll the text pane on the right (mice should also work).
 
 Scrot ('open note' fzf tui):
 ![note image](/media/note.png)
+
+#### Note syncing
+
+of $HOME/notes is up to the user. I use git.
