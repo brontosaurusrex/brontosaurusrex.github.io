@@ -141,6 +141,10 @@ Search with bindings
 
 ^ shall find if something is bind to ALT+c.
 
+### Open url under cursor
+
+    gf
+
 ### Feature or bug? (25.07.1 (a05c151b))
 
 'i' for insert mode, type
