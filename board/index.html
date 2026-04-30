@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>Chess Commander · Dual Board with Stockfish</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chessboard-js/1.0.0/chessboard-1.0.0.min.css" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chessboard-js/1.0.0/chessboard-1.0.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chess.js@0.10.3/chess.min.js"></script>
+    <style>
+        * { box-sizing: border-box; user-select: none; }
+        body {
+            background: linear-gradient(145deg, #1e2a2e 0%, #0f1a1f 100%);
+            font-family: 'Segoe UI', 'Inter', system-ui, sans-serif;
+            margin: 0;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        .commander {
+            max-width: 1500px;
+            width: 100%;
+            background: rgba(0,0,0,0.35);
+            backdrop-filter: blur(2px);
+            border-radius: 2.5rem;
+            box-shadow: 0 25px 45px rgba(0,0,0,0.4);
+            padding: 1.5rem;
+        }
+        .dual-panels {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2rem;
+            justify-content: center;
+            margin-bottom: 1.8rem;
+        }
+        .board-panel {
+            background: #1f2a24;
+            border-radius: 2rem;
+            padding: 1rem;
+            box-shadow: 0 12px 24px rgba(0,0,0,0.5);
+            border: 1px solid rgba(210,180,140,0.4);
+        }
+        .board-panel h3 {
+            text-align: center;
+            margin: 0 0 12px 0;
+            background: linear-gradient(135deg, #e9d6a7, #c7a86b);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+        .board-container { width: 460px; height: 460px; margin: 0 auto; }
+        .analysis-hub {
+            background: #1e2824e6;
+            border-radius: 2rem;
+            backdrop-filter: blur(12px);
+            padding: 1.2rem 2rem;
+            margin-top: 0.5rem;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem;
+            border: 1px solid #d4b87a40;
+        }
+        .eval-section { flex: 2; min-width: 180px; }
+        .eval-label { font-size: 0.75rem; text-transform: uppercase; font-weight: bold; color: #cddde0; margin-bottom: 5px; }
+        .eval-meter-bg {
+            background: #2d3a36;
+            border-radius: 40px;
+            height: 28px;
+            width: 100%;
+            overflow: hidden;
+            box-shadow: inset 0 1px 4px #00000055;
+            border: 1px solid #a67c52;
+        }
+        .eval-fill {
+            width: 50%;
+            height: 100%;
+            background: linear-gradient(90deg, #bc9a6c, #ecd9b4);
+            transition: width 0.2s ease-out;
+        }
+        .eval-numeric {
+            font-family: monospace;
+            font-size: 1.3rem;
+            font-weight: bold;
+            background: #00000066;
+            display: inline-block;
+            padding: 0.2rem 1rem;
+            border-radius: 32px;
+            margin-top: 6px;
+            color: #f7e5c2;
+        }
+        .bestmove-section {
+            flex: 3;
+            background: #0f1714b3;
+            border-radius: 1.6rem;
+            padding: 0.6rem 1rem;
+        }
+        .bestmove-title { font-size: 0.7rem; font-weight: 600; color: #b9cfc7; }
+        .bestmove-algebraic {
+            font-size: 1.4rem;
+            font-weight: 800;
+            font-family: monospace;
+            background: #2e3a32;
+            display: inline-block;
+            padding: 0.2rem 1.2rem;
+            border-radius: 2rem;
+            margin-top: 4px;
+            color: #ffdfaa;
+            border: 1px solid #dbb87c;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .bestmove-algebraic:hover {
+            background: #3e5a4a;
+            transform: scale(1.02);
+        }
+        .reset-btn {
+            background: #2a3b32;
+            border: none;
+            color: #f4e4c1;
+            padding: 8px 18px;
+            border-radius: 3rem;
+            font-weight: bold;
+            cursor: pointer;
+            border: 1px solid #a88856;
+            transition: all 0.2s;
+        }
+        .reset-btn:hover { background: #3f5a4b; transform: scale(0.97); }
+        @media (max-width: 1050px) {
+            .board-container { width: 380px; height: 380px; }
+            .analysis-hub { flex-direction: column; align-items: stretch; }
+        }
+        .footer-info { text-align: center; font-size: 0.7rem; color: #708d7e; margin-top: 1rem; }
+        .highlight-from { box-shadow: inset 0 0 0 3px #3ee03e, 0 0 0 3px #38b000; border-radius: 50%; }
+        .highlight-to { box-shadow: inset 0 0 0 3px #ff6666, 0 0 0 3px #c7252e; border-radius: 50%; }
+        .status-indicator {
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            margin-right: 6px;
+        }
+        .status-ready { background-color: #4ade80; box-shadow: 0 0 5px #4ade80; }
+        .status-thinking { background-color: #fbbf24; box-shadow: 0 0 5px #fbbf24; }
+        .status-error { background-color: #ef4444; box-shadow: 0 0 5px #ef4444; }
+        .bestmove-wrapper {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .play-best-move {
+            background: #4c7a5c;
+            border: none;
+            border-radius: 20px;
+            padding: 4px 12px;
+            font-size: 11px;
+            font-weight: bold;
+            color: white;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .play-best-move:hover {
+            background: #5e9570;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+<div class="commander">
+    <div class="dual-panels">
+        <div class="board-panel">
+            <h3>⚔️ WHITE BASE (bottom) ⚔️</h3>
+            <div id="boardWhiteContainer" class="board-container"></div>
+        </div>
+        <div class="board-panel">
+            <h3>🖤 BLACK BASE (bottom) 🖤</h3>
+            <div id="boardBlackContainer" class="board-container"></div>
+        </div>
+    </div>
+
+    <div class="analysis-hub">
+        <div class="eval-section">
+            <div class="eval-label">🔍 STOCKFISH EVALUATION</div>
+            <div class="eval-meter-bg">
+                <div id="evalFillBar" class="eval-fill" style="width:50%"></div>
+            </div>
+            <div id="evalText" class="eval-numeric">0.00</div>
+        </div>
+        <div class="bestmove-section">
+            <div class="bestmove-title">🎯 BEST MOVE (Stockfish)</div>
+            <div class="bestmove-wrapper">
+                <div id="bestMoveDisplay" class="bestmove-algebraic">—</div>
+                <button id="playBestMoveBtn" class="play-best-move" style="display:none;">▶ Play</button>
+            </div>
+        </div>
+        <button class="reset-btn" id="resetGameBtn">⟳ Reset Board</button>
+        <div class="engine-status" id="engineStatus">
+            <span class="status-indicator" id="statusIndicator"></span>
+            <span id="statusText">Initializing...</span>
+        </div>
+    </div>
+    <div class="footer-info">
+        ↔️ Total Commander style: both boards mirror same position | Drag on either board | Stockfish analyzes after each move
+    </div>
+</div>
+
+<script>
+    // ------------------------------
+    // LOCAL PIECE CONFIGURATION
+    // ------------------------------
+    const localPiecePath = '/img/chesspieces/wikipedia/{piece}.png';
+    const cdnPiecePath = 'https://raw.githubusercontent.com/ornicar/chessboard-image/master/img/chesspieces/wikipedia/{piece}.png';
+    
+    let activePiecePath = localPiecePath;
+    
+    async function verifyLocalPieces() {
+        const pieces = ['wP', 'wN', 'wB', 'wR', 'wQ', 'wK', 'bP', 'bN', 'bB', 'bR', 'bQ', 'bK'];
+        
+        for (const piece of pieces) {
+            const url = localPiecePath.replace('{piece}', piece);
+            try {
+                const response = await fetch(url, { method: 'HEAD', cache: 'no-cache' });
+                if (!response.ok) {
+                    console.log(`Local piece ${piece} not found, using CDN fallback`);
+                    activePiecePath = cdnPiecePath;
+                    return false;
+                }
+            } catch(e) {
+                console.log(`Cannot access local pieces, using CDN fallback`);
+                activePiecePath = cdnPiecePath;
+                return false;
+            }
+        }
+        console.log('✅ Using local pieces from /img/chesspieces/wikipedia/');
+        return true;
+    }
+    
+    // ------------------------------
+    // STOCKFISH SETUP
+    // ------------------------------
+    let stockfishWorker = null;
+    let isEngineReady = false;
+    let currentGame = new Chess();
+    let boardWhite = null, boardBlack = null;
+    let currentBestMoveUCI = null;
+    let analysisTimeout = null;
+    
+    function updateStatus(status, isThinking = false) {
+        const indicator = document.getElementById('statusIndicator');
+        const textEl = document.getElementById('statusText');
+        
+        if (isThinking) {
+            indicator.className = 'status-indicator status-thinking';
+            textEl.textContent = status;
+        } else if (status.includes('ready') || status.includes('✅')) {
+            indicator.className = 'status-indicator status-ready';
+            textEl.textContent = status;
+        } else if (status.includes('error') || status.includes('⚠️')) {
+            indicator.className = 'status-indicator status-error';
+            textEl.textContent = status;
+        } else {
+            indicator.className = 'status-indicator';
+            textEl.textContent = status;
+        }
+    }
+    
+    async function initStockfish() {
+        try {
+            updateStatus('Loading Stockfish...');
+            let stockfishUrl = 'https://cdn.jsdelivr.net/npm/stockfish.js@10.0.2/stockfish.js';
+            
+            const response = await fetch(stockfishUrl);
+            if (!response.ok) throw new Error('Failed to fetch Stockfish');
+            
+            const scriptText = await response.text();
+            const blob = new Blob([scriptText], { type: 'application/javascript' });
+            const blobUrl = URL.createObjectURL(blob);
+            stockfishWorker = new Worker(blobUrl);
+            URL.revokeObjectURL(blobUrl);
+            
+            stockfishWorker.onmessage = function(event) {
+                const line = event.data;
+                
+                if (line.includes('id name')) {
+                    updateStatus('✅ Stockfish ready');
+                    isEngineReady = true;
+                    sendPositionToStockfish();
+                }
+                
+                if (line.includes('bestmove')) {
+                    const match = line.match(/bestmove\s+(\S+)/);
+                    if (match && match[1] && match[1] !== '(none)') {
+                        const bestUCI = match[1];
+                        displayBestMoveAlgebraic(bestUCI);
+                        highlightBestMoveOnBoards(bestUCI);
+                        document.getElementById('playBestMoveBtn').style.display = 'inline-block';
+                    }
+                }
+                
+                if (line.includes('info') && line.includes('cp')) {
+                    const cpMatch = line.match(/cp\s+(-?\d+)/);
+                    if (cpMatch) {
+                        const cp = parseInt(cpMatch[1]) / 100;
+                        updateEvaluationDisplay(cp);
+                    }
+                }
+                
+                if (line.includes('info') && line.includes('pv') && !currentBestMoveUCI) {
+                    const pvMatch = line.match(/pv\s+(\S+)/);
+                    if (pvMatch && pvMatch[1]) {
+                        displayBestMoveAlgebraic(pvMatch[1]);
+                        highlightBestMoveOnBoards(pvMatch[1]);
+                        document.getElementById('playBestMoveBtn').style.display = 'inline-block';
+                    }
+                }
+            };
+            
+            stockfishWorker.onerror = function(err) {
+                console.error('Stockfish error:', err);
+                updateStatus('⚠️ Engine error - using simple eval');
+                useFallbackEvaluation();
+            };
+            
+            stockfishWorker.postMessage('uci');
+            setTimeout(() => {
+                if (stockfishWorker) stockfishWorker.postMessage('isready');
+            }, 100);
+            
+        } catch (err) {
+            console.error('Failed to load Stockfish:', err);
+            updateStatus('⚠️ Using simple evaluation');
+            useFallbackEvaluation();
+        }
+    }
+    
+    function sendPositionToStockfish() {
+        if (!stockfishWorker || !isEngineReady) return;
+        const fen = currentGame.fen();
+        stockfishWorker.postMessage('stop');
+        stockfishWorker.postMessage(`position fen ${fen}`);
+        stockfishWorker.postMessage('go depth 14');
+        updateStatus('Analyzing position...', true);
+        
+        setTimeout(() => {
+            if (isEngineReady) {
+                updateStatus('✅ Stockfish ready');
+            }
+        }, 1500);
+    }
+    
+    function scheduleAnalysis() {
+        if (analysisTimeout) clearTimeout(analysisTimeout);
+        analysisTimeout = setTimeout(() => {
+            if (stockfishWorker && isEngineReady) {
+                sendPositionToStockfish();
+            }
+        }, 200);
+    }
+    
+    function useFallbackEvaluation() {
+        isEngineReady = false;
+        updateStatus('📊 Simple evaluation');
+        
+        function evaluatePosition() {
+            const pieceValues = { p: 1, n: 3, b: 3, r: 5, q: 9, k: 0 };
+            let score = 0;
+            const board = currentGame.board();
+            for (let i = 0; i < 8; i++) {
+                for (let j = 0; j < 8; j++) {
+                    const piece = board[i][j];
+                    if (piece) {
+                        let value = pieceValues[piece.type];
+                        if (piece.color === 'b') value = -value;
+                        score += value;
+                    }
+                }
+            }
+            return score;
+        }
+        
+        setInterval(() => {
+            if (currentGame && !isEngineReady) {
+                const score = evaluatePosition();
+                updateEvaluationDisplay(score);
+                const moves = currentGame.moves({ verbose: true });
+                if (moves.length > 0 && !currentBestMoveUCI) {
+                    const randomMove = moves[Math.floor(Math.random() * moves.length)];
+                    const fallbackUCI = randomMove.from + randomMove.to;
+                    displayBestMoveAlgebraic(fallbackUCI);
+                    highlightBestMoveOnBoards(fallbackUCI);
+                }
+            }
+        }, 1000);
+    }
+    
+    function updateEvaluationDisplay(cpValue) {
+        const evalNumberSpan = document.getElementById('evalText');
+        const fillBar = document.getElementById('evalFillBar');
+        let percentage = 50;
+        
+        if (cpValue > 0) {
+            let advantage = Math.min(cpValue, 10);
+            percentage = 50 + (advantage / 10) * 45;
+            percentage = Math.min(95, percentage);
+        } else if (cpValue < 0) {
+            let advantage = Math.min(-cpValue, 10);
+            percentage = 50 - (advantage / 10) * 45;
+            percentage = Math.max(5, percentage);
+        }
+        
+        fillBar.style.width = percentage + '%';
+        let evalText = cpValue > 0 ? `+${cpValue.toFixed(2)}` : cpValue.toFixed(2);
+        if (cpValue > 5) evalText = `+${cpValue.toFixed(2)} ⚪⚪`;
+        else if (cpValue > 2) evalText = `+${cpValue.toFixed(2)} ⚪`;
+        else if (cpValue < -5) evalText = `${cpValue.toFixed(2)} ⚫⚫`;
+        else if (cpValue < -2) evalText = `${cpValue.toFixed(2)} ⚫`;
+        evalNumberSpan.innerText = evalText;
+    }
+    
+    function uciToAlgebraic(uci) {
+        if (!uci || uci.length < 4) return '?';
+        try {
+            const from = uci.substring(0,2);
+            const to = uci.substring(2,4);
+            const move = currentGame.moves({ verbose: true }).find(m => m.from === from && m.to === to);
+            return move ? move.san : uci;
+        } catch(e) { return uci; }
+    }
+    
+    function displayBestMoveAlgebraic(uciMove) {
+        if (!uciMove) return;
+        const algebraic = uciToAlgebraic(uciMove);
+        document.getElementById('bestMoveDisplay').innerHTML = algebraic;
+        currentBestMoveUCI = uciMove;
+    }
+    
+    function playBestMove() {
+        if (!currentBestMoveUCI) return;
+        
+        const from = currentBestMoveUCI.substring(0,2);
+        const to = currentBestMoveUCI.substring(2,4);
+        
+        const move = currentGame.move({
+            from: from,
+            to: to,
+            promotion: 'q'
+        });
+        
+        if (move) {
+            syncBoardsFromGame();
+            document.getElementById('playBestMoveBtn').style.display = 'none';
+        }
+    }
+    
+    function highlightBestMoveOnBoards(uciMove) {
+        if (!uciMove || uciMove.length < 4) return;
+        const fromSquare = uciMove.substring(0,2);
+        const toSquare = uciMove.substring(2,4);
+        
+        [boardWhite, boardBlack].forEach(board => {
+            if (!board || !board.el) return;
+            const containerId = board.el.id;
+            $(`#${containerId} .square-55d63`).removeClass('highlight-from highlight-to');
+            $(`#${containerId} .square-${fromSquare}`).addClass('highlight-from');
+            $(`#${containerId} .square-${toSquare}`).addClass('highlight-to');
+        });
+    }
+    
+    function clearHighlights() {
+        [boardWhite, boardBlack].forEach(board => {
+            if(board && board.el) {
+                $(`#${board.el.id} .square-55d63`).removeClass('highlight-from highlight-to');
+            }
+        });
+    }
+    
+    function syncBoardsFromGame() {
+        const fen = currentGame.fen();
+        if (boardWhite) boardWhite.position(fen);
+        if (boardBlack) boardBlack.position(fen);
+        if (currentBestMoveUCI) {
+            highlightBestMoveOnBoards(currentBestMoveUCI);
+        } else {
+            clearHighlights();
+        }
+        scheduleAnalysis();
+    }
+    
+    // FIXED: Correct onDrop handler for chessboard.js
+    // The callback receives (source, target, piece, newPos, oldPos, orientation)
+    // and should return true if the move is valid, false otherwise
+    function onMoveHandler(source, target, piece, newPos, oldPos, orientation) {
+        // Try to make the move
+        const move = currentGame.move({
+            from: source,
+            to: target,
+            promotion: 'q'  // Always promote to queen for simplicity
+        });
+        
+        if (move === null) {
+            // Invalid move
+            return false;
+        }
+        
+        // Valid move - update boards
+        currentBestMoveUCI = null;
+        document.getElementById('bestMoveDisplay').innerHTML = '—';
+        document.getElementById('playBestMoveBtn').style.display = 'none';
+        syncBoardsFromGame();
+        return true;
+    }
+    
+    function resetGame() {
+        currentGame = new Chess();
+        currentBestMoveUCI = null;
+        document.getElementById('bestMoveDisplay').innerHTML = '—';
+        document.getElementById('playBestMoveBtn').style.display = 'none';
+        syncBoardsFromGame();
+        clearHighlights();
+        updateEvaluationDisplay(0);
+        if (stockfishWorker && isEngineReady) {
+            sendPositionToStockfish();
+        }
+    }
+    
+    async function initBoards() {
+        await verifyLocalPieces();
+        
+        const whiteConfig = {
+            draggable: true,
+            position: 'start',
+            pieceTheme: activePiecePath,
+            onDrop: onMoveHandler
+        };
+        
+        const blackConfig = {
+            draggable: true,
+            position: 'start',
+            orientation: 'black',
+            pieceTheme: activePiecePath,
+            onDrop: onMoveHandler
+        };
+        
+        boardWhite = Chessboard('boardWhiteContainer', whiteConfig);
+        boardBlack = Chessboard('boardBlackContainer', blackConfig);
+        syncBoardsFromGame();
+    }
+    
+    // Initialize everything when DOM is ready
+    $(document).ready(function() {
+        initBoards();
+        initStockfish();
+        $('#resetGameBtn').on('click', () => resetGame());
+        $('#playBestMoveBtn').on('click', () => playBestMove());
+        
+        $('#bestMoveDisplay').on('click', function() {
+            if (currentBestMoveUCI) playBestMove();
+        });
+    });
+</script>
+</body>
+</html>
