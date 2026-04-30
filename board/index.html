@@ -2,246 +2,236 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <title>Chess Commander · Dual Board with Stockfish</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chess Commander</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chessboard-js/1.0.0/chessboard-1.0.0.min.css" />
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/chessboard-js/1.0.0/chessboard-1.0.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chess.js@0.10.3/chess.min.js"></script>
     <style>
-        * { box-sizing: border-box; user-select: none; }
+        * {
+            box-sizing: border-box;
+        }
         body {
-            background: linear-gradient(145deg, #1e2a2e 0%, #0f1a1f 100%);
-            font-family: 'Segoe UI', 'Inter', system-ui, sans-serif;
+            background: #2a2a2a;
+            font-family: 'Segoe UI', 'Consolas', monospace;
             margin: 0;
             min-height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
             padding: 20px;
         }
+        
         .commander {
-            max-width: 1500px;
-            width: 100%;
-            background: rgba(0,0,0,0.35);
-            backdrop-filter: blur(2px);
-            border-radius: 2.5rem;
-            box-shadow: 0 25px 45px rgba(0,0,0,0.4);
-            padding: 1.5rem;
+            max-width: 1000px;
+            margin: 0 auto;
         }
         .dual-panels {
             display: flex;
-            flex-wrap: wrap;
-            gap: 2rem;
+            gap: 20px;
             justify-content: center;
-            margin-bottom: 1.8rem;
+            margin-bottom: 20px;
         }
         .board-panel {
-            background: #1f2a24;
-            border-radius: 2rem;
-            padding: 1rem;
-            box-shadow: 0 12px 24px rgba(0,0,0,0.5);
-            border: 1px solid rgba(210,180,140,0.4);
+            background: transparent;
+            padding: 0;
+            position: relative;
         }
-        .board-panel h3 {
-            text-align: center;
-            margin: 0 0 12px 0;
-            background: linear-gradient(135deg, #e9d6a7, #c7a86b);
-            -webkit-background-clip: text;
-            background-clip: text;
-            color: transparent;
+        /* Turn indicator character */
+        .board-panel .turn-indicator {
+            position: absolute;
+            top: -22px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 14px;
+            font-weight: bold;
+            padding: 2px 8px;
+            background: transparent;
+            color: #888;
+            font-family: monospace;
+            letter-spacing: 1px;
+            opacity: 0;
+            transition: opacity 0.1s;
         }
-        .board-container { width: 460px; height: 460px; margin: 0 auto; }
+        .board-panel.active-turn .turn-indicator {
+            opacity: 1;
+            color: #4a8c4a;
+        }
+        .board-container {
+            width: 560px;
+            height: 560px;
+        }
         .analysis-hub {
-            background: #1e2824e6;
-            border-radius: 2rem;
-            backdrop-filter: blur(12px);
-            padding: 1.2rem 2rem;
-            margin-top: 0.5rem;
+            background: transparent;
+            padding: 15px;
             display: flex;
             flex-wrap: wrap;
             align-items: center;
             justify-content: space-between;
-            gap: 1rem;
-            border: 1px solid #d4b87a40;
+            gap: 15px;
+            max-width: 1000px;
         }
-        .eval-section { flex: 2; min-width: 180px; }
-        .eval-label { font-size: 0.75rem; text-transform: uppercase; font-weight: bold; color: #cddde0; margin-bottom: 5px; }
+        .eval-section {
+            flex: 2;
+            min-width: 200px;
+        }
+        .eval-label {
+            font-size: 11px;
+            color: #888;
+            margin-bottom: 4px;
+        }
         .eval-meter-bg {
-            background: #2d3a36;
-            border-radius: 40px;
-            height: 28px;
-            width: 100%;
-            overflow: hidden;
-            box-shadow: inset 0 1px 4px #00000055;
-            border: 1px solid #a67c52;
+            background: #333;
+            height: 20px;
+            position: relative;
         }
         .eval-fill {
-            width: 50%;
+            position: absolute;
+            left: 50%;
+            top: 0;
             height: 100%;
-            background: linear-gradient(90deg, #bc9a6c, #ecd9b4);
-            transition: width 0.2s ease-out;
+            background: #6b8c6b;
         }
         .eval-numeric {
             font-family: monospace;
-            font-size: 1.3rem;
+            font-size: 18px;
             font-weight: bold;
-            background: #00000066;
+            background: #111;
             display: inline-block;
-            padding: 0.2rem 1rem;
-            border-radius: 32px;
-            margin-top: 6px;
-            color: #f7e5c2;
+            padding: 2px 10px;
+            margin-top: 5px;
+            color: #6b8c6b;
         }
         .bestmove-section {
             flex: 3;
-            background: #0f1714b3;
-            border-radius: 1.6rem;
-            padding: 0.6rem 1rem;
         }
-        .bestmove-title { font-size: 0.7rem; font-weight: 600; color: #b9cfc7; }
-        .bestmove-algebraic {
-            font-size: 1.4rem;
-            font-weight: 800;
-            font-family: monospace;
-            background: #2e3a32;
-            display: inline-block;
-            padding: 0.2rem 1.2rem;
-            border-radius: 2rem;
-            margin-top: 4px;
-            color: #ffdfaa;
-            border: 1px solid #dbb87c;
-            cursor: pointer;
-            transition: all 0.2s;
+        .bestmove-title {
+            font-size: 11px;
+            color: #888;
+            margin-bottom: 4px;
         }
-        .bestmove-algebraic:hover {
-            background: #3e5a4a;
-            transform: scale(1.02);
-        }
-        .reset-btn {
-            background: #2a3b32;
-            border: none;
-            color: #f4e4c1;
-            padding: 8px 18px;
-            border-radius: 3rem;
-            font-weight: bold;
-            cursor: pointer;
-            border: 1px solid #a88856;
-            transition: all 0.2s;
-        }
-        .reset-btn:hover { background: #3f5a4b; transform: scale(0.97); }
-        @media (max-width: 1050px) {
-            .board-container { width: 380px; height: 380px; }
-            .analysis-hub { flex-direction: column; align-items: stretch; }
-        }
-        .footer-info { text-align: center; font-size: 0.7rem; color: #708d7e; margin-top: 1rem; }
-        .highlight-from { box-shadow: inset 0 0 0 3px #3ee03e, 0 0 0 3px #38b000; border-radius: 50%; }
-        .highlight-to { box-shadow: inset 0 0 0 3px #ff6666, 0 0 0 3px #c7252e; border-radius: 50%; }
-        .status-indicator {
-            display: inline-block;
-            width: 8px;
-            height: 8px;
-            border-radius: 50%;
-            margin-right: 6px;
-        }
-        .status-ready { background-color: #4ade80; box-shadow: 0 0 5px #4ade80; }
-        .status-thinking { background-color: #fbbf24; box-shadow: 0 0 5px #fbbf24; }
-        .status-error { background-color: #ef4444; box-shadow: 0 0 5px #ef4444; }
         .bestmove-wrapper {
-            display: inline-flex;
+            display: flex;
             align-items: center;
             gap: 8px;
         }
-        .play-best-move {
-            background: #4c7a5c;
-            border: none;
-            border-radius: 20px;
-            padding: 4px 12px;
-            font-size: 11px;
+        .bestmove-algebraic {
+            font-size: 20px;
             font-weight: bold;
-            color: white;
+            font-family: monospace;
+            background: #111;
+            display: inline-block;
+            padding: 4px 15px;
+            color: #deb887;
             cursor: pointer;
-            transition: all 0.2s;
+        }
+        .bestmove-algebraic:hover {
+            background: #222;
+        }
+        .play-best-move {
+            background: #3a5a3a;
+            border: none;
+            color: white;
+            padding: 4px 12px;
+            cursor: pointer;
+            font-family: monospace;
+            font-size: 11px;
         }
         .play-best-move:hover {
-            background: #5e9570;
-            transform: scale(1.05);
+            background: #4a6a4a;
+        }
+        button {
+            background: #333;
+            border: none;
+            color: #ddd;
+            padding: 6px 16px;
+            cursor: pointer;
+            font-family: monospace;
+            font-size: 12px;
+        }
+        button:hover {
+            background: #444;
+        }
+        .engine-status {
+            font-family: monospace;
+            font-size: 11px;
+            color: #888;
+        }
+        .footer-info {
+            text-align: center;
+            font-size: 10px;
+            color: #666;
+            margin-top: 15px;
+        }
+        .highlight-from {
+            box-shadow: inset 0 0 0 3px #4a8c4a;
+        }
+        .highlight-to {
+            box-shadow: inset 0 0 0 3px #8c6b4a;
+        }
+        @media (max-width: 1050px) {
+            .board-container { width: 380px; height: 380px; }
+            .board-panel .turn-indicator { top: -18px; font-size: 11px; }
         }
     </style>
 </head>
 <body>
 <div class="commander">
     <div class="dual-panels">
-        <div class="board-panel">
-            <h3>⚔️ WHITE BASE (bottom) ⚔️</h3>
-            <div id="boardWhiteContainer" class="board-container"></div>
-        </div>
-        <div class="board-panel">
-            <h3>🖤 BLACK BASE (bottom) 🖤</h3>
+        <div class="board-panel" id="panelBlack">
+            <div class="turn-indicator">▼</div>
             <div id="boardBlackContainer" class="board-container"></div>
+        </div>
+        <div class="board-panel" id="panelWhite">
+            <div class="turn-indicator">▼</div>
+            <div id="boardWhiteContainer" class="board-container"></div>
         </div>
     </div>
 
     <div class="analysis-hub">
         <div class="eval-section">
-            <div class="eval-label">🔍 STOCKFISH EVALUATION</div>
+            <div class="eval-label">STOCKFISH EVAL</div>
             <div class="eval-meter-bg">
-                <div id="evalFillBar" class="eval-fill" style="width:50%"></div>
+                <div id="evalFillBar" class="eval-fill" style="left:50%; width:0%"></div>
             </div>
             <div id="evalText" class="eval-numeric">0.00</div>
         </div>
         <div class="bestmove-section">
-            <div class="bestmove-title">🎯 BEST MOVE (Stockfish)</div>
+            <div class="bestmove-title">BEST MOVE</div>
             <div class="bestmove-wrapper">
                 <div id="bestMoveDisplay" class="bestmove-algebraic">—</div>
-                <button id="playBestMoveBtn" class="play-best-move" style="display:none;">▶ Play</button>
+                <button id="playBestMoveBtn" class="play-best-move" style="display:none;">PLAY</button>
             </div>
         </div>
-        <button class="reset-btn" id="resetGameBtn">⟳ Reset Board</button>
-        <div class="engine-status" id="engineStatus">
-            <span class="status-indicator" id="statusIndicator"></span>
-            <span id="statusText">Initializing...</span>
-        </div>
+        <button id="resetGameBtn">RESET</button>
+        <div class="engine-status" id="engineStatus">initializing...</div>
     </div>
     <div class="footer-info">
-        ↔️ Total Commander style: both boards mirror same position | Drag on either board | Stockfish analyzes after each move
+        drag on either board | indicator shows whose turn it is
     </div>
 </div>
 
 <script>
-    // ------------------------------
-    // LOCAL PIECE CONFIGURATION
-    // ------------------------------
-    const localPiecePath = '/img/chesspieces/wikipedia/{piece}.png';
+    const localPiecePath = 'img/chesspieces/wikipedia/{piece}.png';
     const cdnPiecePath = 'https://raw.githubusercontent.com/ornicar/chessboard-image/master/img/chesspieces/wikipedia/{piece}.png';
-    
     let activePiecePath = localPiecePath;
     
     async function verifyLocalPieces() {
         const pieces = ['wP', 'wN', 'wB', 'wR', 'wQ', 'wK', 'bP', 'bN', 'bB', 'bR', 'bQ', 'bK'];
-        
         for (const piece of pieces) {
             const url = localPiecePath.replace('{piece}', piece);
             try {
-                const response = await fetch(url, { method: 'HEAD', cache: 'no-cache' });
+                const response = await fetch(url, { method: 'HEAD' });
                 if (!response.ok) {
-                    console.log(`Local piece ${piece} not found, using CDN fallback`);
                     activePiecePath = cdnPiecePath;
-                    return false;
+                    return;
                 }
             } catch(e) {
-                console.log(`Cannot access local pieces, using CDN fallback`);
                 activePiecePath = cdnPiecePath;
-                return false;
+                return;
             }
         }
-        console.log('✅ Using local pieces from /img/chesspieces/wikipedia/');
-        return true;
+        console.log('using local pieces');
     }
     
-    // ------------------------------
-    // STOCKFISH SETUP
-    // ------------------------------
     let stockfishWorker = null;
     let isEngineReady = false;
     let currentGame = new Chess();
@@ -249,33 +239,24 @@
     let currentBestMoveUCI = null;
     let analysisTimeout = null;
     
-    function updateStatus(status, isThinking = false) {
-        const indicator = document.getElementById('statusIndicator');
-        const textEl = document.getElementById('statusText');
+    function updateTurnIndicator() {
+        const isWhiteTurn = currentGame.turn() === 'w';
+        const panelWhite = document.getElementById('panelWhite');
+        const panelBlack = document.getElementById('panelBlack');
         
-        if (isThinking) {
-            indicator.className = 'status-indicator status-thinking';
-            textEl.textContent = status;
-        } else if (status.includes('ready') || status.includes('✅')) {
-            indicator.className = 'status-indicator status-ready';
-            textEl.textContent = status;
-        } else if (status.includes('error') || status.includes('⚠️')) {
-            indicator.className = 'status-indicator status-error';
-            textEl.textContent = status;
+        if (isWhiteTurn) {
+            panelWhite.classList.add('active-turn');
+            panelBlack.classList.remove('active-turn');
         } else {
-            indicator.className = 'status-indicator';
-            textEl.textContent = status;
+            panelBlack.classList.add('active-turn');
+            panelWhite.classList.remove('active-turn');
         }
     }
     
     async function initStockfish() {
         try {
-            updateStatus('Loading Stockfish...');
-            let stockfishUrl = 'https://cdn.jsdelivr.net/npm/stockfish.js@10.0.2/stockfish.js';
-            
-            const response = await fetch(stockfishUrl);
-            if (!response.ok) throw new Error('Failed to fetch Stockfish');
-            
+            document.getElementById('engineStatus').innerText = 'loading stockfish...';
+            const response = await fetch('https://cdn.jsdelivr.net/npm/stockfish.js@10.0.2/stockfish.js');
             const scriptText = await response.text();
             const blob = new Blob([scriptText], { type: 'application/javascript' });
             const blobUrl = URL.createObjectURL(blob);
@@ -286,7 +267,7 @@
                 const line = event.data;
                 
                 if (line.includes('id name')) {
-                    updateStatus('✅ Stockfish ready');
+                    document.getElementById('engineStatus').innerText = 'ready';
                     isEngineReady = true;
                     sendPositionToStockfish();
                 }
@@ -294,9 +275,8 @@
                 if (line.includes('bestmove')) {
                     const match = line.match(/bestmove\s+(\S+)/);
                     if (match && match[1] && match[1] !== '(none)') {
-                        const bestUCI = match[1];
-                        displayBestMoveAlgebraic(bestUCI);
-                        highlightBestMoveOnBoards(bestUCI);
+                        displayBestMoveAlgebraic(match[1]);
+                        highlightBestMoveOnBoards(match[1]);
                         document.getElementById('playBestMoveBtn').style.display = 'inline-block';
                     }
                 }
@@ -319,106 +299,83 @@
                 }
             };
             
-            stockfishWorker.onerror = function(err) {
-                console.error('Stockfish error:', err);
-                updateStatus('⚠️ Engine error - using simple eval');
-                useFallbackEvaluation();
-            };
-            
             stockfishWorker.postMessage('uci');
-            setTimeout(() => {
-                if (stockfishWorker) stockfishWorker.postMessage('isready');
-            }, 100);
-            
+            setTimeout(() => stockfishWorker.postMessage('isready'), 100);
         } catch (err) {
-            console.error('Failed to load Stockfish:', err);
-            updateStatus('⚠️ Using simple evaluation');
+            document.getElementById('engineStatus').innerText = 'engine error';
             useFallbackEvaluation();
         }
     }
     
     function sendPositionToStockfish() {
         if (!stockfishWorker || !isEngineReady) return;
-        const fen = currentGame.fen();
         stockfishWorker.postMessage('stop');
-        stockfishWorker.postMessage(`position fen ${fen}`);
+        stockfishWorker.postMessage(`position fen ${currentGame.fen()}`);
         stockfishWorker.postMessage('go depth 14');
-        updateStatus('Analyzing position...', true);
-        
+        document.getElementById('engineStatus').innerText = 'analyzing...';
         setTimeout(() => {
-            if (isEngineReady) {
-                updateStatus('✅ Stockfish ready');
-            }
-        }, 1500);
+            if (isEngineReady) document.getElementById('engineStatus').innerText = 'ready';
+        }, 1000);
     }
     
     function scheduleAnalysis() {
         if (analysisTimeout) clearTimeout(analysisTimeout);
         analysisTimeout = setTimeout(() => {
-            if (stockfishWorker && isEngineReady) {
-                sendPositionToStockfish();
-            }
+            if (stockfishWorker && isEngineReady) sendPositionToStockfish();
         }, 200);
     }
     
     function useFallbackEvaluation() {
-        isEngineReady = false;
-        updateStatus('📊 Simple evaluation');
-        
         function evaluatePosition() {
-            const pieceValues = { p: 1, n: 3, b: 3, r: 5, q: 9, k: 0 };
+            const values = { p: 1, n: 3, b: 3, r: 5, q: 9, k: 0 };
             let score = 0;
             const board = currentGame.board();
             for (let i = 0; i < 8; i++) {
                 for (let j = 0; j < 8; j++) {
                     const piece = board[i][j];
                     if (piece) {
-                        let value = pieceValues[piece.type];
-                        if (piece.color === 'b') value = -value;
-                        score += value;
+                        let v = values[piece.type];
+                        if (piece.color === 'b') v = -v;
+                        score += v;
                     }
                 }
             }
             return score;
         }
-        
         setInterval(() => {
-            if (currentGame && !isEngineReady) {
-                const score = evaluatePosition();
-                updateEvaluationDisplay(score);
+            if (currentGame) {
+                updateEvaluationDisplay(evaluatePosition());
                 const moves = currentGame.moves({ verbose: true });
                 if (moves.length > 0 && !currentBestMoveUCI) {
                     const randomMove = moves[Math.floor(Math.random() * moves.length)];
-                    const fallbackUCI = randomMove.from + randomMove.to;
-                    displayBestMoveAlgebraic(fallbackUCI);
-                    highlightBestMoveOnBoards(fallbackUCI);
+                    displayBestMoveAlgebraic(randomMove.from + randomMove.to);
+                    highlightBestMoveOnBoards(randomMove.from + randomMove.to);
                 }
             }
         }, 1000);
     }
     
     function updateEvaluationDisplay(cpValue) {
-        const evalNumberSpan = document.getElementById('evalText');
         const fillBar = document.getElementById('evalFillBar');
-        let percentage = 50;
+        let percentage = 0;
+        let leftPos = 50;
         
         if (cpValue > 0) {
-            let advantage = Math.min(cpValue, 10);
-            percentage = 50 + (advantage / 10) * 45;
-            percentage = Math.min(95, percentage);
+            percentage = Math.min(cpValue, 10) / 10 * 45;
+            leftPos = 50;
         } else if (cpValue < 0) {
-            let advantage = Math.min(-cpValue, 10);
-            percentage = 50 - (advantage / 10) * 45;
-            percentage = Math.max(5, percentage);
+            percentage = Math.min(-cpValue, 10) / 10 * 45;
+            leftPos = 50 - percentage;
+        } else {
+            percentage = 0;
+            leftPos = 50;
         }
         
+        fillBar.style.left = leftPos + '%';
         fillBar.style.width = percentage + '%';
-        let evalText = cpValue > 0 ? `+${cpValue.toFixed(2)}` : cpValue.toFixed(2);
-        if (cpValue > 5) evalText = `+${cpValue.toFixed(2)} ⚪⚪`;
-        else if (cpValue > 2) evalText = `+${cpValue.toFixed(2)} ⚪`;
-        else if (cpValue < -5) evalText = `${cpValue.toFixed(2)} ⚫⚫`;
-        else if (cpValue < -2) evalText = `${cpValue.toFixed(2)} ⚫`;
-        evalNumberSpan.innerText = evalText;
+        
+        let text = cpValue > 0 ? `+${cpValue.toFixed(2)}` : cpValue.toFixed(2);
+        document.getElementById('evalText').innerText = text;
     }
     
     function uciToAlgebraic(uci) {
@@ -433,26 +390,21 @@
     
     function displayBestMoveAlgebraic(uciMove) {
         if (!uciMove) return;
-        const algebraic = uciToAlgebraic(uciMove);
-        document.getElementById('bestMoveDisplay').innerHTML = algebraic;
+        document.getElementById('bestMoveDisplay').innerHTML = uciToAlgebraic(uciMove);
         currentBestMoveUCI = uciMove;
     }
     
     function playBestMove() {
         if (!currentBestMoveUCI) return;
-        
         const from = currentBestMoveUCI.substring(0,2);
         const to = currentBestMoveUCI.substring(2,4);
-        
-        const move = currentGame.move({
-            from: from,
-            to: to,
-            promotion: 'q'
-        });
-        
+        const move = currentGame.move({ from: from, to: to, promotion: 'q' });
         if (move) {
-            syncBoardsFromGame();
+            currentBestMoveUCI = null;
+            document.getElementById('bestMoveDisplay').innerHTML = '—';
             document.getElementById('playBestMoveBtn').style.display = 'none';
+            syncBoardsFromGame(true);
+            updateTurnIndicator();
         }
     }
     
@@ -460,13 +412,11 @@
         if (!uciMove || uciMove.length < 4) return;
         const fromSquare = uciMove.substring(0,2);
         const toSquare = uciMove.substring(2,4);
-        
         [boardWhite, boardBlack].forEach(board => {
             if (!board || !board.el) return;
-            const containerId = board.el.id;
-            $(`#${containerId} .square-55d63`).removeClass('highlight-from highlight-to');
-            $(`#${containerId} .square-${fromSquare}`).addClass('highlight-from');
-            $(`#${containerId} .square-${toSquare}`).addClass('highlight-to');
+            $(`#${board.el.id} .square-55d63`).removeClass('highlight-from highlight-to');
+            $(`#${board.el.id} .square-${fromSquare}`).addClass('highlight-from');
+            $(`#${board.el.id} .square-${toSquare}`).addClass('highlight-to');
         });
     }
     
@@ -478,10 +428,27 @@
         });
     }
     
-    function syncBoardsFromGame() {
+    function syncBoardsFromGame(fromEngineMove = false) {
         const fen = currentGame.fen();
-        if (boardWhite) boardWhite.position(fen);
-        if (boardBlack) boardBlack.position(fen);
+        
+        const lastMove = currentGame.history({ verbose: true }).slice(-1)[0];
+        
+        if (lastMove && !fromEngineMove) {
+            const draggingBoard = lastMove.color === 'w' ? boardWhite : boardBlack;
+            const opponentBoard = lastMove.color === 'w' ? boardBlack : boardWhite;
+            
+            if (draggingBoard) {
+                draggingBoard.position(fen, false);
+            }
+            
+            if (opponentBoard) {
+                opponentBoard.position(fen, true);
+            }
+        } else {
+            if (boardWhite) boardWhite.position(fen);
+            if (boardBlack) boardBlack.position(fen);
+        }
+        
         if (currentBestMoveUCI) {
             highlightBestMoveOnBoards(currentBestMoveUCI);
         } else {
@@ -490,27 +457,33 @@
         scheduleAnalysis();
     }
     
-    // FIXED: Correct onDrop handler for chessboard.js
-    // The callback receives (source, target, piece, newPos, oldPos, orientation)
-    // and should return true if the move is valid, false otherwise
     function onMoveHandler(source, target, piece, newPos, oldPos, orientation) {
-        // Try to make the move
-        const move = currentGame.move({
-            from: source,
-            to: target,
-            promotion: 'q'  // Always promote to queen for simplicity
-        });
+        const move = currentGame.move({ from: source, to: target, promotion: 'q' });
         
         if (move === null) {
-            // Invalid move
             return false;
         }
         
-        // Valid move - update boards
         currentBestMoveUCI = null;
         document.getElementById('bestMoveDisplay').innerHTML = '—';
         document.getElementById('playBestMoveBtn').style.display = 'none';
-        syncBoardsFromGame();
+        
+        const isWhiteBoard = orientation === 'white';
+        const movingBoard = isWhiteBoard ? boardWhite : boardBlack;
+        const opponentBoard = isWhiteBoard ? boardBlack : boardWhite;
+        
+        const fen = currentGame.fen();
+        
+        if (movingBoard) {
+            movingBoard.position(fen, false);
+        }
+        
+        if (opponentBoard) {
+            opponentBoard.position(fen, true);
+        }
+        
+        updateTurnIndicator();
+        scheduleAnalysis();
         return true;
     }
     
@@ -519,44 +492,55 @@
         currentBestMoveUCI = null;
         document.getElementById('bestMoveDisplay').innerHTML = '—';
         document.getElementById('playBestMoveBtn').style.display = 'none';
-        syncBoardsFromGame();
+        
+        const fen = currentGame.fen();
+        if (boardWhite) boardWhite.position(fen);
+        if (boardBlack) boardBlack.position(fen);
+        
         clearHighlights();
         updateEvaluationDisplay(0);
-        if (stockfishWorker && isEngineReady) {
-            sendPositionToStockfish();
-        }
+        updateTurnIndicator();
+        if (stockfishWorker && isEngineReady) sendPositionToStockfish();
     }
     
     async function initBoards() {
         await verifyLocalPieces();
-        
-        const whiteConfig = {
+        boardWhite = Chessboard('boardWhiteContainer', {
             draggable: true,
             position: 'start',
             pieceTheme: activePiecePath,
-            onDrop: onMoveHandler
-        };
-        
-        const blackConfig = {
+            onDrop: onMoveHandler,
+            onDragStart: function(source, piece) {
+                const isWhiteTurn = currentGame.turn() === 'w';
+                const isDraggingWhite = piece[0] === 'w';
+                return (isWhiteTurn && isDraggingWhite) || (!isWhiteTurn && !isDraggingWhite);
+            }
+        });
+        boardBlack = Chessboard('boardBlackContainer', {
             draggable: true,
             position: 'start',
             orientation: 'black',
             pieceTheme: activePiecePath,
-            onDrop: onMoveHandler
-        };
+            onDrop: onMoveHandler,
+            onDragStart: function(source, piece) {
+                const isWhiteTurn = currentGame.turn() === 'w';
+                const isDraggingWhite = piece[0] === 'w';
+                return (isWhiteTurn && isDraggingWhite) || (!isWhiteTurn && !isDraggingWhite);
+            }
+        });
         
-        boardWhite = Chessboard('boardWhiteContainer', whiteConfig);
-        boardBlack = Chessboard('boardBlackContainer', blackConfig);
-        syncBoardsFromGame();
+        const fen = currentGame.fen();
+        if (boardWhite) boardWhite.position(fen);
+        if (boardBlack) boardBlack.position(fen);
+        updateTurnIndicator();
+        scheduleAnalysis();
     }
     
-    // Initialize everything when DOM is ready
     $(document).ready(function() {
         initBoards();
         initStockfish();
-        $('#resetGameBtn').on('click', () => resetGame());
-        $('#playBestMoveBtn').on('click', () => playBestMove());
-        
+        $('#resetGameBtn').on('click', resetGame);
+        $('#playBestMoveBtn').on('click', playBestMove);
         $('#bestMoveDisplay').on('click', function() {
             if (currentBestMoveUCI) playBestMove();
         });
