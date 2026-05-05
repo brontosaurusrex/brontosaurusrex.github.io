@@ -10,15 +10,22 @@ tags: bash linux ai
 needs: fzf, ripgrep (rg)
 
     note --help
+    
     Usage:
-    note "text"         → create/reopen note
-    note n "title"      → explicit title
-    note l              → list
-    note o              → open (fzf)
-    note s              → search (rg|fzf)
-    note c              → cat latest
-    note rm             → move to .trash
-    note h              → help
+
+      note n "title"          → new note with explicit title
+      note "text"             → create/reopen note
+      note l                  → list
+      note o                  → open (fzf)
+      note s                  → search (rg|fzf)
+      note c                  → cat latest
+      note rm                 → move to .trash
+      note pull               → git pull
+      note push               → git push
+      note --longhelp | less  → full help
+      note h                  → this help
+
+    Storage: /home/b/notes
 
 Multiple parameters to run same command, for example
 
