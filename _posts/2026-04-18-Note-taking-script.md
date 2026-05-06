@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2026-04-27 5:00'
+date: '2026-05-06 5:00'
 title: Note taking script
 tags: bash linux ai
 ---
@@ -70,3 +70,7 @@ Scrot ('open note' fzf tui):
 #### Note syncing
 
 of $HOME/notes is up to the user. I use git.
+
+#### noteurls ('plugin')
+
+[Separated script with similar](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/noteurls) tui that will extract urls from notes and open one in browser. 
