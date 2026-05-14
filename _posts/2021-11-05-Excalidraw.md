@@ -9,3 +9,5 @@ tags: web
 Note: Export as svg seems to only work in firefox, not in chrome.  
 
 ![](/media/excal.svg)
+
+As seen on 'Theo - t3․gg's youtube channel.
