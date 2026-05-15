@@ -74,3 +74,41 @@ of $HOME/notes is up to the user. I use git.
 #### noteurls ('plugin')
 
 [Separated script with similar](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/noteurls) tui that will extract urls from notes and open one or two in browser (tab toggles selected). 
+
+#### llm-md-fix
+
+[Fix markdown using local gemma4 model.](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/llm-md-fix) Will write 'fixed' version to stdout.
+
+    ╭───────────────────────────────────────────────────────────────────────╮
+    │ llm-md-fix — clean Markdown using a local LLM                         │
+    │                                                                       │
+    │ USAGE:                                                                │
+    │   llm-md-fix file.md        # rewrite file content                    │
+    │   cat file.md | llm-md-fix  # pipe input                              │
+    │   llm-md-fix                # reads stdin                             │
+    │                                                                       │
+    │ OPTIONS:                                                              │
+    │   -h, --help    Show this help                                        │
+    │                                                                       │
+    │ DESCRIPTION:                                                          │
+    │   Converts messy text into clean Markdown using a local Ollama model. │
+    │                                                                       │
+    │   Rules applied:                                                      │
+    │     - preserves content                                               │
+    │     - fixes Markdown structure                                        │
+    │     - converts raw URLs to Markdown links (when possible)             │
+    │     - preserves YAML frontmatter                                      │
+    │     - outputs ONLY Markdown                                           │
+    │                                                                       │
+    │ ENV:                                                                  │
+    │   MODEL   Ollama model name (default: gemma4)                         │
+    │                                                                       │
+    │ EXAMPLES:                                                             │
+    │   llm-md-fix notes.md                                                 │
+    │   cat notes.md | llm-md-fix                                           │
+    │   echo "https://example.com" | llm-md-fix                             │
+    ╰───────────────────────────────────────────────────────────────────────╯
+
+#### noteweb
+
+[Display notes in localy generated html page](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/noteweb) (needs rewrite).
