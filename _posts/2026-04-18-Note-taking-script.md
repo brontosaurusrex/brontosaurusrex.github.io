@@ -119,6 +119,8 @@ of $HOME/notes is up to the user. I use git.
 
 #### pipe to
 
+Find the 1st note that has 'jobs' in the title and pipe to terminal markdown renderer:
+
     note c jobs | glow -w 120
 
 Pretty neat markdown render in terminal. Glow is in Trixie repos.
