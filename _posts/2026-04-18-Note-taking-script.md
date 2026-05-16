@@ -5,6 +5,8 @@ date: '2026-05-06 5:00'
 title: Note taking script
 tags: bash linux ai
 ---
+## note
+
 [Note taking bash script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/note).
 
 needs: fzf, ripgrep (rg)
@@ -60,6 +62,8 @@ Not needing the specific title is the idea as well, so
 
 shall make a note with filename '2026-04-27-nice-weather-today.md'.
 
+## misc
+
 #### about fzf scrolling
 
 Up and down will select files, shift+up and shift+down will scroll the text pane on the right (mice should also work).
@@ -112,3 +116,9 @@ of $HOME/notes is up to the user. I use git.
 #### noteweb
 
 [Display notes in localy generated html page](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/noteweb) (needs rewrite).
+
+#### pipe to
+
+    note c jobs | glow -w 120
+
+Pretty neat markdown render in terminal. Glow is in Trixie repos.
