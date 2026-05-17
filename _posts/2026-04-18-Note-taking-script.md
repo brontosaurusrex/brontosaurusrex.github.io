@@ -81,7 +81,7 @@ of $HOME/notes is up to the user. I use git.
 
 #### llm-md-fix
 
-[Fix markdown using local gemma4 model.](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/llm-md-fix) Will write 'fixed' version to stdout.
+[Fix markdown using local gemma4 model.](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/llm-md-fix) Will write 'fixed' version to stdout. (Much faster version would be node cli tool `markdownlint --fix some.md`)
 
 #### noteweb
 
