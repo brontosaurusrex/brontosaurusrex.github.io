@@ -77,7 +77,7 @@ of $HOME/notes is up to the user. I use git.
 
 #### noteurls ('plugin')
 
-[Separated script with similar](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/noteurls) tui that will extract urls from notes and open one or two in browser (tab toggles selected). 
+[Separated script with similar](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/noteurls) tui that will extract urls from notes and open one or two in browser (tab toggles selected). Buggy when trying to open urls from markdown notes. FIXME
 
 #### llm-md-fix
 
