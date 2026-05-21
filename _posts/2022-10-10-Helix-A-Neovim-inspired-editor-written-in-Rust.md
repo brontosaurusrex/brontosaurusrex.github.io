@@ -167,6 +167,14 @@ in ~/.config/helix/themes/catppuccin_macchiato_transparent.toml put
 
 will put output of the command into current document.
 
+## Links
+
+chess in term, gum, cli, helix  
+<https://www.youtube.com/watch?v=tGYvUXYN-c0>
+
+VSCODE user tries Helix for 1 year  
+<https://www.youtube.com/watch?v=0OvVXlF8TMs>
+
 
 ## Toc
 {:.no_toc}
