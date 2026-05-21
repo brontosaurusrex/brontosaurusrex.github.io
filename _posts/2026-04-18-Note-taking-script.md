@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2026-05-06 5:00'
+date: '2026-05-18 5:00'
 title: Note taking script
 tags: bash linux ai
 ---
@@ -15,17 +15,17 @@ needs: fzf, ripgrep (rg)
     
     Usage:
 
-      note n "title"          → new note with explicit title
-      note "text"             → create/reopen note
-      note l                  → list
-      note o                  → open (fzf)
-      note s                  → search (rg|fzf)
-      note c                  → cat latest
-      note rm                 → move to .trash
-      note pull               → git pull
-      note push               → git push
-      note --longhelp | less  → full help
-      note h                  → this help
+    note n "title"          → new note with explicit title
+    note "text"             → create/reopen note
+    note l                  → list
+    note o                  → open (fzf)
+    note s                  → search (rg|fzf)
+    note c                  → cat latest n notes
+    note rm                 → move to .trash
+    note pull               → git pull
+    note push               → git push
+    note --longhelp | less  → full help
+    note h                  → this help
 
     Storage: /home/b/notes
 
@@ -46,8 +46,9 @@ it will open first filename that has some gemma in there. Search is similar.
 will open neat little tui as well, piping ripgrep output to fzf and behaving like file selector.
 
     note c
+    note c 3
 
-should cat last changed note.
+should cat last changed note or last 3 changed notes.
 
     note list
 
