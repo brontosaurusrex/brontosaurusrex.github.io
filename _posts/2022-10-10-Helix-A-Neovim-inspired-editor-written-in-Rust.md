@@ -37,6 +37,10 @@ Everything is a selection, jumping word by word with w, also selects the word.
 
     SPACE, b
 
+also
+
+    g-n and g-p (next, previous)
+
 ### Yank selection to clipboard
 
     SPACE, y
