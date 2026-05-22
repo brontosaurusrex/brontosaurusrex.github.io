@@ -95,3 +95,31 @@ Find the 1st note that has 'jobs' in the title and pipe to terminal markdown ren
     note c jobs | glow -w 120
 
 Pretty neat markdown render in terminal. Glow is in Trixie repos.
+
+#### convert to html and open in browser
+
+    note c jobs | pandoc -s -f markdown -t html5 -H style.css -o tmp.htm && xdg-open tmp.htm
+
+Would take first note that has 'jobs' in its name.
+
+Where style.css might be:
+
+    <style type="text/css">
+        p, ul, li   { font-family: "Noto Serif", serif; font-size: large }
+        /* .date   {font-size: small;} */
+        a       { font-family: "Noto Serif", serif; font-size: large }
+        pre     { font-size: large; color: #f5f5f5; background-color: #464876; padding: 20px; border-radius: 5px;}
+    blockquote  { margin: 0; color: #111111; border-left: 1px solid #999999;}
+        h1      { text-align: center; font-family: 'Noto Sans', sans; font-size: xxx-large }
+        h2, h3, h4      { font-family: "Noto Sans", sans; }
+        hr      { border-top: 1px solid black; visibility: hidden; }
+        a:link  { text-decoration: none; color: #111155; }
+        a:visited { text-decoration: none; color: #111155; }
+        a:hover { text-decoration: underline; }
+        a:active { text-decoration: underline; }
+        body, html {
+            background-color: #F5F5F5;
+            color: #111111;
+            line-height: 1.6;
+            }
+    </style>
