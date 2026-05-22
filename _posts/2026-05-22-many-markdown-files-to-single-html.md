@@ -17,4 +17,4 @@ merge into one
 
     pandoc 01.htm 02.htm 03.htm -o all.htm -H style.css -V title="" --metadata=title=" "
 
-There must be a simpler way.
+There must be a simpler way. (This needs to be a standalone script if functionality is desired.)
