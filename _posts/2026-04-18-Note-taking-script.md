@@ -5,6 +5,12 @@ date: '2026-05-18 5:00'
 title: Note taking script
 tags: bash linux ai
 ---
+## Teaser
+
+Another note‑taking app? Yes, there are billions. Basic CRUD for the CLI? Absolutely. No databases, no config files, no setup – Just a single bash script and a plain text directory. Unapologetically terminal‑first – Works over SSH, in tmux, on a Raspberry Pi, or on a 15‑year‑old laptop. If you have a shell, you have a notes app.
+
+If you're here for the code – it's one file. Read it, break it, change it. That's the point.
+
 ## note
 
 [Note taking bash script](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/note).
