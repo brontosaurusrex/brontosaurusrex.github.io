@@ -17,3 +17,8 @@ tags: misc
 
 > 11:43
 > writing in your own words you ensure that you truly understand it before you put it into your notetaking system so when you find yourself unable to rephrase an idea or to to write it down in your own words it's it's a very clear indication that you haven't fully grasped it yet ... 
+
+## Cli zettelkasten golang app
+
+<https://github.com/zk-org/zk> Looks very powerfull (untested).  
+<https://www.youtube.com/watch?v=Ck4TriLMR4s>
