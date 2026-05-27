@@ -24,3 +24,9 @@ tags: misc
 <https://www.youtube.com/watch?v=Ck4TriLMR4s>
 
 Author notes that organization/linking of notes should be done by depth, where more general concepts are at the top of the pyramid, and more specific at the bottom.
+
+## nb, another cli note taking script written in bash
+
+https://xwmx.github.io/nb (untested)
+
+> nb is a command line and local web note‑taking, bookmarking, archiving, and knowledge base application 
