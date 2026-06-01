@@ -486,3 +486,7 @@ Wikipedia:
 ## Touched (Walter Mosley - 2023)
 
 > A science fiction novel, a man who wakes up with two new pieces of knowledge: that humanity is a destructive virus and he is the "Cure". The book explores themes of humanity, technology, and existence.
+
+## The Dog Stars (Peter Heller - 2012)
+
+> Set in Colorado after the world's population has been ravaged by a pandemic, a man lives a lonesome existence in an airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he is flying his old Cessna, it sparks a hunt for the source of the sound.
