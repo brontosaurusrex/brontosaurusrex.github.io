@@ -18,7 +18,7 @@ Something like that in .zshrc
 
     # Preview configuration
     export FZF_CTRL_T_OPTS="
-      #--no-color
+      --no-color
       --prompt='file> '
       --pointer='>'
       --marker='*'
