@@ -28,7 +28,7 @@ Something like that in .zshrc
       --height=80%
       --reverse"
 
-And the preview script [fzf_preview_mine](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/fzf_preview_mine). Should handle a substet of txt, epub, pdf, video, audio, image files as 2nd pane fzf preview.
+And the preview script [fzf_preview_mine](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/fzf_preview_mine). Should handle a subset of txt, epub, pdf, video, audio, image files as 2nd pane fzf preview.
 
 ## Not mine
 
