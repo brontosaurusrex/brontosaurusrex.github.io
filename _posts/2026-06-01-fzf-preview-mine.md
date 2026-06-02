@@ -14,7 +14,7 @@ Something like that in .zshrc
     export FZF_DEFAULT_OPTS="--no-color --pointer='>' --color=fg:-1,bg:-1,hl:-1,fg+:-1,bg+:-1,hl+:-1,info:-1,prompt:-1,spinner:-1,pointer:-1,marker:-1,border:-1"
 
     # CTRL-T command - recent files first
-    export FZF_CTRL_T_COMMAND='find . -type f -not -path "./.git/*" -printf "%T@ %p\n" 2>/dev/null | sort -nr | cut -d" " -f2-'
+    export FZF_CTRL_T_COMMAND='find . -type f -not -path "./.git/*" -printf "%T@ %f\n" 2>/dev/null | sort -nr | cut -d" " -f2-'
 
     # Preview configuration
     export FZF_CTRL_T_OPTS="
