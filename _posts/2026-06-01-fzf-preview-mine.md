@@ -15,6 +15,8 @@ Something like that in .zshrc
 
     # CTRL-T command - recent files first
     export FZF_CTRL_T_COMMAND='find . -type f -not -path "./.git/*" -printf "%T@ %P\n" 2>/dev/null | sort -nr | cut -d" " -f2-'
+    # or faster find with fdfind
+    # export FZF_CTRL_T_COMMAND='fdfind . --type f --hidden --exclude .git --strip-cwd-prefix -x stat -c "%Y %n" {} \; 2>/dev/null | sort -nr | cut -d" " -f2-'
 
     # Preview configuration
     export FZF_CTRL_T_OPTS="
