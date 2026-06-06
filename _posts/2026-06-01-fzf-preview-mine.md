@@ -34,6 +34,13 @@ And the preview script [fzf_preview_mine](https://raw.githubusercontent.com/bron
 
 ![fzf_preview](/media/fzf-preview.png)
 
+## tested with
+
+    Chafa version 1.18.2
+    fzf 0.60 (devel)
+
+Never might be fine.
+
 ## Not mine
 
 <https://github.com/juanmitaboada/preview>  
