@@ -39,7 +39,7 @@ And the preview script [fzf_preview_mine](https://raw.githubusercontent.com/bron
     Chafa version 1.18.2
     fzf 0.60 (devel)
 
-Never might be fine.
+Newer might be fine.
 
 ## Not mine
 
