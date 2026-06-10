@@ -66,7 +66,8 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 
   /*color: #CB6317;*/
-  color: #fc885b;
+  /*color: #fc885b;*/
+  color: #C95D6C;
 
   text-wrap: balance;
   mix-blend-mode: color-dodge;  
