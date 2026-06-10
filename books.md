@@ -497,5 +497,3 @@ from goodreads
 
 > Ryan Crane wasn’t looking for trouble—just a cup of coffee. But when this cop spots a gunman emerging from an unmarked van, he leaps into action and unknowingly saves John Ward, a billionaire with presidential aspirations, from an assassination attempt.
 > As thanks for Ryan’s quick thinking, Ward offers him the chance of a lifetime: to join a group of lucky civilians chosen to accompany three veteran astronauts on the first manned mission to Saturn’s moon Titan.
-> A devoted family man, Ryan is reluctant to leave on this two-year expedition, yet with the encouragement of his loving wife—and an exorbitant paycheck guaranteeing lifetime care for their disabled son—he crews up and ventures into a new frontier.
-> But as the ship is circling Titan, it is rocked by an unexplained series of explosions. The crew works together to get back on course, and they return to Earth as heroes.
