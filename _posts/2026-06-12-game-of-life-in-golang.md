@@ -9,4 +9,4 @@ tags: cli linux
 
 ![scrot](https://raw.githubusercontent.com/brontosaurusrex/gameOfLifeGolang/refs/heads/main/scrot/golGolang.png)
 
-Deepseek spined this one from my old bash script. It is quite a lot faster.
+Deepseek spined this one from my [old bash script](/2022/10/31/Game-of-Life-in-bash). It is quite a lot faster.
