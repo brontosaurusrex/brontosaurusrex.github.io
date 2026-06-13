@@ -207,6 +207,8 @@ chess in term, gum, cli, helix
 VSCODE user tries Helix for 1 year  
 <https://www.youtube.com/watch?v=0OvVXlF8TMs>
 
+Neat overview  
+<https://www.youtube.com/watch?v=HcuDmSb-JBU>
 
 ## Toc
 {:.no_toc}
