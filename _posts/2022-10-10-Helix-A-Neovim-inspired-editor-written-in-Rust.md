@@ -119,6 +119,18 @@ A slightly more complete config:
 
 <https://docs.helix-editor.com/keymap.html>
 
+### select inside
+
+| Keys  | Meaning             |
+| ----- | ------------------- |
+| `mi"` | match inside quotes |
+| `ma"` | match around quotes |
+| `mi(` | inside parentheses  |
+| `ma(` | around parentheses  |
+| `mi{` | inside braces       |
+| `ma{` | around braces       |
+
+
 ### copy (yank) / paste
 
     y, p
