@@ -72,6 +72,10 @@ or
 
     g
 
+go to last modification
+
+    g.
+
 ### There is no soft-wrap
 
     :(
@@ -142,6 +146,8 @@ A slightly more complete config:
 ### Goto line 300
 
     :300
+    # or
+    300 gg
 
 ### Multiple cursors
 
@@ -156,6 +162,16 @@ Search with bindings
     %b A-c
 
 ^ shall find if something is bind to ALT+c.
+
+### jumplist / bookmarks
+
+save position
+
+    ctrl+s
+
+jump to saved markers
+
+    space, j
 
 ### Open url under cursor
 
