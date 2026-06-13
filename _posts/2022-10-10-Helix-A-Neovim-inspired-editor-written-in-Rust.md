@@ -173,6 +173,18 @@ jump to saved markers
 
     space, j
 
+### comment out, toggle
+
+    ctrl+c
+
+### rename symbol (for example function name)
+
+    space,r
+
+### jump to definition
+
+    gd
+
 ### Open url under cursor
 
     gf
