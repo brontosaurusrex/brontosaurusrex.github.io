@@ -181,9 +181,13 @@ jump to saved markers
 
     space,r
 
-### jump to definition
+### jump to definition (reverse of gr)
 
     gd
+
+### jump to reference (reverse of gd)
+
+    gr
 
 ### Open url under cursor
 
