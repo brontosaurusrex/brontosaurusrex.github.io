@@ -193,6 +193,20 @@ jump to saved markers
 
     gf
 
+### jump history (multiple buffers)
+
+    ctrl+o, ctrl+i
+
+### select based on syntax tree
+
+    alt+o, alt+i
+
+### registers (storage for text and other data)
+
+    "
+
+<https://docs.helix-editor.com/registers.html>
+
 ### Feature or bug? (25.07.1 (a05c151b))
 
 'i' for insert mode, type
