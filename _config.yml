@@ -9,7 +9,7 @@ plugins: 		[jekyll-sitemap, jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            "By strategically leveraging and continuously optimizing cross-functional, multi-level stakeholder synergies across dynamically interconnected and increasingly complex value-creation networks, we are proactively driving scalable, resilient, and sustainable end-to-end value generation across a fully integrated, digitally transformed, future-ready ecosystem architecture, thereby enabling enhanced collaborative governance paradigms, fostering continuous innovation-driven growth trajectories, and ensuring long-term, system-wide transformational impact across all strategic, operational, tactical, and emergent domains of activity."
+title:            "brontosaurusrex.github.io"
 tagline:          ""
 description:      'brontosaurusrex.github.io'
 url:              http://brontosaurusrex.github.io
