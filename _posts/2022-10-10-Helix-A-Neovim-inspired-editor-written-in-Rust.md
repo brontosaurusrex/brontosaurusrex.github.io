@@ -238,7 +238,8 @@ VSCODE user tries Helix for 1 year
 <https://www.youtube.com/watch?v=0OvVXlF8TMs>
 
 Neat overview  
-<https://www.youtube.com/watch?v=HcuDmSb-JBU>
+<https://www.youtube.com/watch?v=HcuDmSb-JBU>  
+<https://www.youtube.com/watch?v=xHebvTGOdH8>
 
 ## Toc
 {:.no_toc}
