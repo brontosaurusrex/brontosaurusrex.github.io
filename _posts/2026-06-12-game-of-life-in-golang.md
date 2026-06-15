@@ -15,7 +15,7 @@ Deepseek spined this one from my [old bash script](/2022/10/31/Game-of-Life-in-b
 
 ## web/wasm
 
-<https://brontosaurusrex.github.io/gameOfLifeGolang/>
+<https://brontosaurusrex.github.io/gameOfLifeGolang>
 
     h       = hide/show status
     space   = play/pause
