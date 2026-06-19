@@ -6,5 +6,6 @@ title: "Spread pager"
 tags: cli linux 
 ---
 Multicolumn pager (vibe coded in golang).  
-<https://github.com/brontosaurusrex/spread>  
+<https://github.com/brontosaurusrex/spread>
+  
 ![scrot](https://raw.githubusercontent.com/brontosaurusrex/spread/main/scrot/spread3columns.png)
