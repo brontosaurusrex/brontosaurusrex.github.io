@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2026-06-20 17:37 +0000'
 title: "Warning: Slopware ahead"
-tags: misc 
+tags: ai misc 
 ---
 <style>
 .zoom-container {
