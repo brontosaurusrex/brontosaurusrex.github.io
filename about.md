@@ -19,6 +19,14 @@ This blog is hosted using third-party tech, currently:
 
 Where /me is [neither Controller nor Processor](https://advisera.com/eugdpracademy/knowledgebase/eu-gdpr-controller-vs-processor-what-are-the-differences/). Their rules apply.
 
+## AI Warning
+
+Some of the elements offered on this page (scripts / golang code / text / images and more) may be AI generated or generated with little help from various cloud or local ai tools.
+
+<img src="/media/slopware02.svg" style="max-width:360px;">
+
+Not this sign, this is 100% me copy/pasting svgs found on the web (this sign should be under PG.)
+
 ## Comments?
 
 This is a statically built site, and I don’t particularly fancy plugging in Disqus or any third-party service like that—but you may use [GitHub's "issues" device](https://github.com/brontosaurusrex/brontosaurusrex.github.io/issues/new) to express your thoughts.
