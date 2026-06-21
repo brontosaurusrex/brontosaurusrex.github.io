@@ -26,7 +26,7 @@ Some of the elements offered on this page (scripts / golang code / text / images
 <a href="/media/slopware02.svg"><img src="/media/slopware02.svg" style="max-width: 360px; opacity: 0.7;" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.7'"></a>
 
 
-Not this sign, this is 100% me copy/pasting svgs found on the web (this sign should be under PG.)
+Not this sign, this is 100% me copy/pasting svgs found on the web (license for this svg sign: public domain.)
 
 ## Comments?
 
