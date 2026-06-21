@@ -8,4 +8,4 @@ tags: misc
 <img src="/media/slopware01.svg" style="max-width:360px;">
 <img src="/media/slopware02.svg" style="max-width:360px;">
 
-(license: both svg images, penguin and the sign were under pd, so this new svg is pd as well. Consult your legal department in case of unkown obstacles.)
+(license: both svg images, penguin and the sign were under pd, so this new svg is pd as well. Consult your legal department in case of unknown or slippery obstacles/surfaces.)
