@@ -23,7 +23,8 @@ Where /me is [neither Controller nor Processor](https://advisera.com/eugdpracade
 
 Some of the elements offered on this page (scripts / golang code / text / images and more) may be AI generated or generated with little help from various cloud or local ai tools.
 
-<img src="/media/slopware02.svg" style="max-width:360px;">
+<a href="/media/slopware02.svg"><img src="/media/slopware02.svg" style="max-width: 360px; opacity: 0.7;" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.7'"></a>
+
 
 Not this sign, this is 100% me copy/pasting svgs found on the web (this sign should be under PG.)
 
