@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2026-06-19 20:45 +0000'
 title: "Spread pager"
-tags: cli linux 
+tags: cli linux ai 
 ---
 Multicolumn pager (vibe coded in golang).  
 <https://github.com/brontosaurusrex/spread>
