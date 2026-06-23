@@ -28,4 +28,4 @@ tags: ai misc
 <span class="zoom-container">
 <img src="/media/slopware02.svg" style="max-width:360px;"></span>
 
-(license: both svg images, penguin and the sign were under pd, so this new svg is pd as well. Consult your legal department in case of unknown or slippery obstacles/surfaces.)
+(license: both svg images, penguin and the sign were under public domain, so this two are public domain as well. Consult your legal department in case of unknown or slippery obstacles/surfaces.)
