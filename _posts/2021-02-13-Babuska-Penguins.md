@@ -15,3 +15,5 @@ Last one
 [![image-nohash-md](https://i.imgur.com/SWgW8OZ.jpg)](https://i.imgur.com/ot1i5Ll.png)  
 Everything blender (tonemap/rh-simple)  
 [![image-nohash-md](https://i.imgur.com/g45iOeo.jpg)](https://i.imgur.com/5uEG4qD.png)
+2026: lowres ai oil paint effect (some online service)  
+[![image-oil-fx](https://thumbs2.imgbox.com/d6/4b/p5dKte9s_t.png)](https://images2.imgbox.com/d6/4b/p5dKte9s_o.png)
