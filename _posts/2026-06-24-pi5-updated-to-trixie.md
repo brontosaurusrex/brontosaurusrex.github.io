@@ -5,7 +5,7 @@ date: '2026-06-23 22:24 +0000'
 title: "Pi5 updated to Trixie"
 tags: linux 
 ---
-[![image](https://thumbs2.imgbox.com/de/60/CooGiz2F_t.png)](https://images2.imgbox.com/de/60/CooGiz2F_o.png)
+[![image](https://thumbs2.imgbox.com/8b/cb/xmuDSBcQ_t.png)](https://images2.imgbox.com/8b/cb/xmuDSBcQ_o.png)
 
 and true colors in tmux, .tmux.conf, add:
 
