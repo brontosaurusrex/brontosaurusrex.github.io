@@ -46,3 +46,7 @@ You have 3 new little shell scripts somewhere on $PATH: [hxloadline](https://raw
     "A-l" = ":sh hxloadline %{buffer_name}"
 
 And you can use __hxw__ instead of hx to load your files positioned on the stored line.
+
+## btw
+
+The [issue goes deeper](https://github.com/helix-editor/helix/issues/1133#issuecomment-974741546), undo history, command history, ect.
