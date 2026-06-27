@@ -21,5 +21,5 @@ so you open your file as
 
 and it should open with cursor on stored line.
 
-This is experimental workaround that will not work in all conditions and 'should' really be a core editors feature imho.  
+This is experimental workaround that will not work in all conditions and 'should' really be a __core__ editor feature imho.  
 p.s. Better version of this (instead of hxw) would be to just load cursor position from file with another keybind, but not sure how to do that, chatgpt feels it can't be done.
