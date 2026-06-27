@@ -8,9 +8,9 @@ tags: cli bash linux
 Script that we call from helix and it stores the current line (_hxsaveline_):  
 <https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/hxsaveline>
 
-Entry in your config.toml that binds ctrl+w to save current line via _hxsaveline_ script (under [keys.normal]):
+Entry in your config.toml that binds __alt+w__ to save current line via _hxsaveline_ script (under [keys.normal]):
 
-    "C-w" = ":sh hxsaveline %{buffer_name} %{cursor_line}"
+    "A-w" = ":sh hxsaveline %{buffer_name} %{cursor_line}"
 
 Wrapper that will read the stored line and open helix (_hxw_):  
 <https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/hxw>
@@ -24,9 +24,9 @@ and it should open with cursor on stored line.
 How about just reading and displaying stored line inside helix, this script (_hxloadline_):  
 <https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/hxloadline>
 
-and in your config.toml (under [keys.normal])
+and in your config.toml we will use free __alt+l__ (under [keys.normal])
 
-    "C-g" = ":sh hxloadline %{buffer_name}"
+    "A-l" = ":sh hxloadline %{buffer_name}"
 
 will just print stored line number and do nothing else, but one can 18gg.
 
