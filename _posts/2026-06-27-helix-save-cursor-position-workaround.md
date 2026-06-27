@@ -38,7 +38,7 @@ This is experimental workaround that will not work in all conditions and 'should
 
 ## Recap
 
-You have 3 new little shell scripts somewhere on $PATH: hxloadline, hxsaveline, hxw and something like this added to your config.toml under __[keys.normal]__
+You have 3 new little shell scripts somewhere on $PATH: [hxloadline](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/hxloadline), [hxsaveline](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/hxsaveline), [hxw](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/hxw) and something like this added to your config.toml under __[keys.normal]__
 
     # save cursor position with ctrl+w via small bash script
     "A-w" = ":sh hxsaveline %{buffer_name} %{cursor_line}"
