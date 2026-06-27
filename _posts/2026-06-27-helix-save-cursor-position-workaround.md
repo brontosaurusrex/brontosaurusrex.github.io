@@ -45,7 +45,7 @@ You have 3 new little shell scripts somewhere on $PATH: [hxloadline](https://raw
     # load cursor position and do nothing with it via small bash script
     "A-l" = ":sh hxloadline %{buffer_name}"
 
-And you can use __hxw__ instead of hx to load your files positioned on the stored line.
+And you can use __hxw__ instead of hx to load your files positioned on the stored line. Or use alt+l to display stored line and then :g 42.
 
 ## btw
 
