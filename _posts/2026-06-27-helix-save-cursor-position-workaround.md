@@ -28,7 +28,7 @@ and in your config.toml we will use free __alt+l__ (under [keys.normal])
 
     "A-l" = ":sh hxloadline %{buffer_name}"
 
-will just print stored line number and do nothing else, but one can 18gg.
+will just print stored line number and do nothing else, but one can 18gg or :g 18.
 
 [![loadline-display](https://thumbs2.imgbox.com/85/cd/UpC3gD1A_t.png)](https://images2.imgbox.com/85/cd/UpC3gD1A_o.png)
 
