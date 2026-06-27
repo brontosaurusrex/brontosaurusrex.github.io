@@ -5,6 +5,8 @@ date: '2026-06-27 06:41 +0000'
 title: "Helix save cursor position (manual workaround)"
 tags: cli bash linux 
 ---
+## Just do it
+
 Script that we call from helix and it stores the current line (_hxsaveline_):  
 <https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/hxsaveline>
 
@@ -33,3 +35,14 @@ will just print stored line number and do nothing else, but one can 18gg or :g 1
 [![loadline-display](https://thumbs2.imgbox.com/85/cd/UpC3gD1A_t.png)](https://images2.imgbox.com/85/cd/UpC3gD1A_o.png)
 
 This is experimental workaround that will not work in all conditions and 'should' really be a __core__ editor feature imho.
+
+## Recap
+
+You have 3 new little shell scripts somewhere on $PATH: hxloadline, hxsaveline, hxw and something like this added to your config.toml under __[keys.normal]__
+
+    # save cursor position with ctrl+w via small bash script
+    "A-w" = ":sh hxsaveline %{buffer_name} %{cursor_line}"
+    # load cursor position and do nothing with it via small bash script
+    "A-l" = ":sh hxloadline %{buffer_name}"
+
+And you can use __hxw__ instead of hx to load your files positioned on the stored line.
