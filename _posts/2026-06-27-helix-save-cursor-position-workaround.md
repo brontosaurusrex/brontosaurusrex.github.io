@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2026-06-27 06:41 +0000'
-title: "Helix save cursor position workaround"
+title: "Helix save cursor position (manual workaround)"
 tags: cli bash linux 
 ---
 Script that we call from helix and it stores the current line (_hxsaveline_):  
