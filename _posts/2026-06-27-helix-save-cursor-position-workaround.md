@@ -8,9 +8,9 @@ tags: cli bash linux
 Script that we call from helix and it stores the current line (hxsaveline):  
 <https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/hxsaveline>
 
-Entry in your config.toml that binds ctrl+w to save current line via hxsaveline script:
+Entry in your config.toml that binds ctrl+w to save current line via hxsaveline script (under [keys.normal]):
 
-    C-w = ":sh hxsaveline %{buffer_name} %{cursor_line}"
+    "C-w" = ":sh hxsaveline %{buffer_name} %{cursor_line}"
 
 Wrapper that will read the line (based on hash::realpath::filename) and open helix (hxw):  
 <https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/hxw>
@@ -20,6 +20,13 @@ so you open your file as
     hxw yourfile
 
 and it should open with cursor on stored line.
+
+How about just reading and displaying stored line inside helix, this script:
+<https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/hxloadline>
+
+and in your config.toml (under [keys.normal])
+
+    "C-g" = ":sh hxloadline %{buffer_name}"
 
 This is experimental workaround that will not work in all conditions and 'should' really be a __core__ editor feature imho.  
 p.s. Better version of this (instead of hxw) would be to just load cursor position from file with another keybind, but not sure how to do that, chatgpt feels it can't be done.
