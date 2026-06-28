@@ -49,4 +49,4 @@ And you can use __hxw__ instead of hx to load your files positioned on the store
 
 ## btw
 
-The [issue goes deeper](https://github.com/helix-editor/helix/issues/1133#issuecomment-974741546), undo history, command history, ect.
+The [issue goes deeper](https://github.com/helix-editor/helix/issues/1133#issuecomment-974741546), undo history, command history, etc.
