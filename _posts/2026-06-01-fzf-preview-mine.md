@@ -36,7 +36,7 @@ And the preview script [fzf_preview_mine](https://raw.githubusercontent.com/bron
 
 ![fzf_preview](/media/fzf-preview.png)
 
-Updated script also support exr and hdr images (with png caching) using oiiotool.
+edit: Updated script also support exr and hdr images (with png caching) using oiiotool.
 
 ## tested with
 
