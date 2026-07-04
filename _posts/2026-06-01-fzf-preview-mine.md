@@ -30,6 +30,8 @@ Something like that in .zshrc
       --height=80%
       --reverse"
 
+edit: can also omit 'export FZF_CTRL_T_COMMAND=' to have default fzf find behaviour.
+
 And the preview script [fzf_preview_mine](https://raw.githubusercontent.com/brontosaurusrex/bucentaur/refs/heads/master/.experiments/bin/fzf_preview_mine). Should handle a subset of txt, epub, pdf, video, audio, image files as 2nd pane fzf preview. Needs sixels and some apps like: ffmpeg, mediainfo, mpv, chafa, imagemagick convert (psd), inkscape (svg), atool (preview archives) ...
 
 ![fzf_preview](/media/fzf-preview.png)
