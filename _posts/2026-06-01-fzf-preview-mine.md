@@ -5,7 +5,12 @@ date: '2026-06-01 20:00 +0000'
 title: "Fzf preview mine"
 tags: cli bash linux 
 ---
-## Mine
+## SIXELS
+
+Image display part will only work with terminals that support sixels, and even then things get tricky.
+
+
+## Install
 
 Something like that in .zshrc
 
@@ -42,6 +47,7 @@ edit: Updated script also support exr and hdr images (with png caching) using oi
 
     Chafa version 1.18.2
     fzf 0.60 (devel)
+    wt 1.24.11321.0
 
 Newer might be fine.
 
