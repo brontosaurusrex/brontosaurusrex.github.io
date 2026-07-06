@@ -67,7 +67,9 @@ h1, h2, h3, h4, h5, h6 {
 
   /*color: #CB6317;*/
   /*color: #fc885b;*/
-  color: #C95D6C;
+  /*color: #C95D6C;*/
+  color: #d83659;
+  
 
   text-wrap: balance;
   mix-blend-mode: color-dodge;  
