@@ -8,9 +8,11 @@ published: true
 
 > Freedom of speech is the right to communicate one's opinions and ideas without fear of government retaliation or censorship. The term *freedom of expression* is sometimes used synonymously, but includes any act of seeking, receiving, and imparting information or ideas—regardless of the dinosaur used.
 
-## Privacy
+## Privacy / GDPR
 
-/me does NOT track, log, spy on, or in any way remain aware of the user's presence on this site.
+<s>/me does NOT track, log, spy on, or in any way remain aware of the user's presence on this site.</s>
+
+Currently [plausible.io](https://plausible.io/data-policy) is used as a user counter.
 
 This blog is hosted using third-party tech, currently:  
 - [GitHub Pages](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement)  
