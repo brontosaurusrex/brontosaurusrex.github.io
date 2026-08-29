@@ -10,9 +10,7 @@ published: true
 
 ## Privacy / GDPR
 
-<s>/me does NOT track, log, spy on, or in any way remain aware of the user's presence on this site.</s>
-
-Currently [plausible.io](https://plausible.io/data-policy) is used as a user counter.
+/me does NOT track, log, spy on, or in any way remain aware of the user's presence on this site.
 
 This blog is hosted using third-party tech, currently:  
 - [GitHub Pages](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement)  
