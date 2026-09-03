@@ -10,4 +10,4 @@ Read the 1st screen (and remember the shortcuts), drop the epub and start readin
 app <https://brontosaurusrex.github.io/smoothReader>  
 src <https://github.com/brontosaurusrex/smoothReader>
 
-I do like 'Noto Serif' for this one.
+I do like 'Alegreya' for this one.
