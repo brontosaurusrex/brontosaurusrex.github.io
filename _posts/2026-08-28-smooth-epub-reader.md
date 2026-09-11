@@ -5,9 +5,11 @@ date: '2026-08-28 20:58 +0000'
 title: "Smooth Epub Reader"
 tags: web mine ai 
 ---
-Read the 1st screen (and remember the shortcuts), drop the epub and start reading. This is purelly client side thing, epub will never leave your browser.
+Drop the epub and start reading.
 
 app <https://brontosaurusrex.github.io/smoothReader>  
 src <https://github.com/brontosaurusrex/smoothReader>
 
-I do like 'Alegreya' for this one.
+AI overview:
+
+> Smooth Reader is a small, browser-based EPUB reader built around continuous, native scrolling. It remembers each book’s position and appearance, works on desktop and mobile, and can read aloud using Piper. Books stay cached locally, while an optional private server library synchronizes them, including reading positions and settings between devices.
