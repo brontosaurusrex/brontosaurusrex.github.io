@@ -6,6 +6,8 @@ title: "Standardization is useful; monoculture is risky"
 tags: misc linux 
 ---
 
+TLDR: This is about CERN picking Debian for some of their fleet.
+
 <https://blog.melashri.net/posts/scientific-linux-mistake>  
 <https://news.ycombinator.com/item?id=49813286>
 
