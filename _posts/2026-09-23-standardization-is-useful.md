@@ -80,7 +80,7 @@ The lesson is not necessarily that Scientific Linux should be resurrected. AlmaL
 
 ## Why CERN Chose Debian 13 for Its Accelerator Computers
 
-CERN selected **Debian 13 (â€œTrixieâ€)** for approximately 2,200 industrial and embedded computers that control electronics throughout its accelerator complex. The central reason was simple: changing the operating system was considerably safer and cheaper than replacing decades' worth of functioning, deeply integrated hardware.
+CERN selected **Debian 13 (Trixie)** for approximately 2,200 industrial and embedded computers that control electronics throughout its accelerator complex. The central reason was simple: changing the operating system was considerably safer and cheaper than replacing decades' worth of functioning, deeply integrated hardware.
 
 ## Older hardware remains essential
 
