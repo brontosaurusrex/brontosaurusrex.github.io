@@ -121,7 +121,7 @@ Debian offered several advantages:
 
 ## Why Debian 13 specifically?
 
-Debian 13 fits CERN's accelerator schedule. CERN developed and tested its new environment using Debian 12 (â€œBookwormâ€), with plans to deploy Debian 13 from 2026.
+Debian 13 fits CERN's accelerator schedule. CERN developed and tested its new environment using Debian 12 (Bookworm), with plans to deploy Debian 13 from 2026.
 
 The preferred lifecycle is:
 
