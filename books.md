@@ -497,3 +497,9 @@ from goodreads
 
 > Ryan Crane wasn’t looking for trouble—just a cup of coffee. But when this cop spots a gunman emerging from an unmarked van, he leaps into action and unknowingly saves John Ward, a billionaire with presidential aspirations, from an assassination attempt.
 > As thanks for Ryan’s quick thinking, Ward offers him the chance of a lifetime: to join a group of lucky civilians chosen to accompany three veteran astronauts on the first manned mission to Saturn’s moon Titan.
+
+## Upgrade (Blake Crouch - 2022)
+
+> The novel explores the ethical and existential ramifications of genetic engineering, set in a near-future world where humanity grapples with the consequences of advanced human genetic enhancement.
+
+> Using the follicle I’d pulled from Kara’s hairbrush, my custom program had completed a comparative functional analysis between my genome and hers. She had targeted select genes in her DNA, further modifying their expression far beyond the thresholds set by our mother’s initial upgrade—primarily those gene network systems that controlled concentration, pattern recognition, and general cognition.
