@@ -3,3 +3,6 @@ _site
 *.swp
 .jekyll-metadata
 .jekyll-cache
+.bundle/
+vendor/bundle/
+vendor/cache/

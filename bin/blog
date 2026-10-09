@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd "$(dirname "${BASH_SOURCE[0]}")/.."
+export GEM_PATH="$PWD/vendor/bundle${GEM_PATH:+:$GEM_PATH}"
+export BUNDLE_GEMFILE="$PWD/Gemfile.local"
+bundle="$PWD/vendor/bundle/bin/bundle"
+# Ruby 3.4 installs SassC's library in the extension directory; SassC 2.4
+# still looks for it inside the gem. Repair that local path after installs.
+if [[ "${1:-serve}" == serve || "${1:-serve}" == build ]]; then
+  ruby -rbundler/setup -rfileutils -e '
+    spec = Gem::Specification.find_by_name("sassc")
+    target = File.join(spec.full_gem_path, "lib/sassc/libsass.so")
+    source = File.join(spec.extension_dir, "sassc/libsass.so")
+    FileUtils.ln_sf(source, target) if !File.exist?(target) && File.exist?(source)
+  '
+fi
+case "${1:-serve}" in
+  serve)
+    shift || true
+    exec "$bundle" exec jekyll serve --config _config.yml,_config.local.yml --host 127.0.0.1 "$@"
+    ;;
+  build)
+    shift
+    exec "$bundle" exec jekyll build --config _config.yml,_config.local.yml "$@"
+    ;;
+  *)
+    exec "$bundle" "$@"
+    ;;
+esac

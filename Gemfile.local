@@ -1,0 +1,15 @@
+source "https://rubygems.org"
+
+gem "jekyll", "~> 4.2.2"
+gem "jekyll-sitemap", "~> 1.4"
+gem "jekyll-paginate", "~> 1.1"
+gem "colorator", "~> 1.1"
+
+# These libraries are no longer bundled with recent Ruby versions.
+gem "webrick"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
+gem "erb"
+gem "liquid", "~> 4.0", ">= 4.0.4"

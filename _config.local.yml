@@ -1,0 +1,10 @@
+# Used only by bin/blog; GitHub continues to use _config.yml.
+exclude:
+  - informatika/
+  - bak/
+  - vendor/
+  - bin/
+  - README.md
+  - Gemfile.bak
+  - Gemfile.local
+  - Gemfile.local.lock
