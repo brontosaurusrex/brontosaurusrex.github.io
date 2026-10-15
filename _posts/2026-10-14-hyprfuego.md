@@ -5,6 +5,6 @@ date: '2026-10-14 21:10 +0000'
 title: "HyprFuego"
 tags: linux misc 
 ---
-A Compiz-inspired burn animation for closing Hyprland windows: soft, turbulent flames, a charred edge, drifting embers and translucent smoke. 
+A Compiz-inspired burn animation for closing Hyprland windows: soft, turbulent flames, a charred edge, drifting embers and translucent smoke. Essencials!
 
-https://www.youtube.com/watch?v=SLpOg2ZnfJc
+<https://www.youtube.com/watch?v=SLpOg2ZnfJc>
