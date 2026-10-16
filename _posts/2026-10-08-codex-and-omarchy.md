@@ -13,3 +13,6 @@ More omarchy
 
 Port of my Physical game as [omarchy plugin](https://github.com/brontosaurusrex/physical-omarchy-plugin)?    
 [![omarchy_physical](<https://imgpost.brontosaurusrex.workers.dev/i/150e5053-a765-4d02-902e-0fbd6d96d83f.avif>)](<https://imgpost.brontosaurusrex.workers.dev/i/ea69be33-993d-415e-9aeb-6c9e012afac4.avif>) [![screenshot-2026-10-14_19-11-45](<https://imgpost.brontosaurusrex.workers.dev/i/03ae4d4b-8340-4314-b00c-441d39e7c1c4.avif>)](<https://imgpost.brontosaurusrex.workers.dev/i/a9ca70a7-025c-499c-bdfb-53300f226104.avif>)
+
+Make non-active windows a little more transparent and make borders fully transparent.  
+[![inactiveTransparent](<https://imgpost.brontosaurusrex.workers.dev/i/b4ae3346-084e-4b03-a7e3-af72f698e68a.avif>)](<https://imgpost.brontosaurusrex.workers.dev/i/e9e61816-469a-4c1d-9d91-d3ecbfc19571.avif>)
