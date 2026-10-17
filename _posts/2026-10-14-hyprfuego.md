@@ -12,7 +12,9 @@ A Compiz-inspired burn animation for closing Hyprland windows: soft, turbulent f
 demo  
 <https://www.youtube.com/watch?v=SLpOg2ZnfJc>  
 flames can be theme related colors  
-<https://youtu.be/U415WyzVTfs>
+<https://youtu.be/U415WyzVTfs>  
+All themes auto test  
+<https://youtu.be/qK1Sr5xqJjM>  
 
 
 git <https://github.com/brontosaurusrex/hyprfuego>
