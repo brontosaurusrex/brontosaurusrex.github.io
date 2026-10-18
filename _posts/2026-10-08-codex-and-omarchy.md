@@ -17,5 +17,6 @@ Port of my Physical game as [omarchy plugin](https://github.com/brontosaurusrex/
 Make non-active windows a little more transparent and make borders fully transparent.  
 [![inactiveTransparent](<https://imgpost.brontosaurusrex.workers.dev/i/b4ae3346-084e-4b03-a7e3-af72f698e68a.avif>)](<https://imgpost.brontosaurusrex.workers.dev/i/e9e61816-469a-4c1d-9d91-d3ecbfc19571.avif>)
 
-Make windows to be centered and recentered after resizing
-[![scrollingLayoutWithCenteredWindows](<https://imgpost.brontosaurusrex.workers.dev/i/feb7a253-a8a1-4bf4-a312-acf6a4ca90f7.avif>)](<https://imgpost.brontosaurusrex.workers.dev/i/c5bc6f8b-322e-448c-994e-817572e3a3c0.avif>)
+Make windows to be centered and recentered after resizing  
+[![scrollingLayoutWithCenteredWindows](<https://imgpost.brontosaurusrex.workers.dev/i/feb7a253-a8a1-4bf4-a312-acf6a4ca90f7.avif>)](<https://imgpost.brontosaurusrex.workers.dev/i/c5bc6f8b-322e-448c-994e-817572e3a3c0.avif>)  
+<https://youtu.be/AUGiP5M2psk>
