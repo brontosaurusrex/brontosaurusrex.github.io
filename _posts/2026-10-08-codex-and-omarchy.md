@@ -20,3 +20,6 @@ Make non-active windows a little more transparent and make borders fully transpa
 Make windows to be centered and recentered after resizing  
 [![scrollingLayoutWithCenteredWindows](<https://imgpost.brontosaurusrex.workers.dev/i/feb7a253-a8a1-4bf4-a312-acf6a4ca90f7.avif>)](<https://imgpost.brontosaurusrex.workers.dev/i/c5bc6f8b-322e-448c-994e-817572e3a3c0.avif>)  
 <https://youtu.be/AUGiP5M2psk>
+
+My own fork/mod of strata  
+[![tetris](<https://imgpost.brontosaurusrex.workers.dev/i/6c264c60-ccc7-4b07-8b60-6e216e45a8da.avif>)](<https://imgpost.brontosaurusrex.workers.dev/i/72e9aab0-9f27-4832-bb9e-5ef4a27d2c78.avif>)
