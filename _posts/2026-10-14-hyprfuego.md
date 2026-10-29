@@ -5,10 +5,16 @@ date: '2026-10-14 21:10 +0000'
 title: "HyprFuego"
 tags: linux misc 
 ---
-![hyprfuego](https://imgpost.brontosaurusrex.workers.dev/i/47d82159-20a5-45e5-bd63-a5f2eab319b1.avif)
+[![hyprfuego](https://imgpost.brontosaurusrex.workers.dev/i/47d82159-20a5-45e5-bd63-a5f2eab319b1.avif)](https://imgpost.brontosaurusrex.workers.dev/i/47d82159-20a5-45e5-bd63-a5f2eab319b1.avif){:target="_blank" rel="noopener"}
 
 A Compiz-inspired burn animation for closing Hyprland windows: soft, turbulent flames, a charred edge, drifting embers and translucent smoke. Essentials!
 
-<https://www.youtube.com/watch?v=SLpOg2ZnfJc>
+demo  
+<https://www.youtube.com/watch?v=SLpOg2ZnfJc>  
+flames can be theme related colors  
+<https://youtu.be/U415WyzVTfs>  
+All themes auto test  
+<https://youtu.be/qK1Sr5xqJjM>  
+
 
 git <https://github.com/brontosaurusrex/hyprfuego>

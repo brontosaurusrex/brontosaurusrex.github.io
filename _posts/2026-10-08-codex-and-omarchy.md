@@ -5,7 +5,7 @@ date: '2026-10-08 20:23 +0000'
 title: "Codex and Omarchy"
 tags: linux cli 
 ---
-![codex2](https://imgpost.brontosaurusrex.workers.dev/i/c4f217a8-da28-403f-b951-6c68889b519d.avif)  
+[![codex2](https://imgpost.brontosaurusrex.workers.dev/i/c4f217a8-da28-403f-b951-6c68889b519d.avif)](https://imgpost.brontosaurusrex.workers.dev/i/c4f217a8-da28-403f-b951-6c68889b519d.avif){:target="_blank" rel="noopener"}  
 Trying to make a web image AVIF encoder uploader app and trying to figure out Omarchy and Codex.
 
 More omarchy  
@@ -13,3 +13,10 @@ More omarchy
 
 Port of my Physical game as [omarchy plugin](https://github.com/brontosaurusrex/physical-omarchy-plugin)?    
 [![omarchy_physical](<https://imgpost.brontosaurusrex.workers.dev/i/150e5053-a765-4d02-902e-0fbd6d96d83f.avif>)](<https://imgpost.brontosaurusrex.workers.dev/i/ea69be33-993d-415e-9aeb-6c9e012afac4.avif>) [![screenshot-2026-10-14_19-11-45](<https://imgpost.brontosaurusrex.workers.dev/i/03ae4d4b-8340-4314-b00c-441d39e7c1c4.avif>)](<https://imgpost.brontosaurusrex.workers.dev/i/a9ca70a7-025c-499c-bdfb-53300f226104.avif>)
+
+Make non-active windows a little more transparent and make borders fully transparent.  
+[![inactiveTransparent](<https://imgpost.brontosaurusrex.workers.dev/i/b4ae3346-084e-4b03-a7e3-af72f698e68a.avif>)](<https://imgpost.brontosaurusrex.workers.dev/i/e9e61816-469a-4c1d-9d91-d3ecbfc19571.avif>)
+
+Make windows to be centered and recentered after resizing  
+[![scrollingLayoutWithCenteredWindows](<https://imgpost.brontosaurusrex.workers.dev/i/feb7a253-a8a1-4bf4-a312-acf6a4ca90f7.avif>)](<https://imgpost.brontosaurusrex.workers.dev/i/c5bc6f8b-322e-448c-994e-817572e3a3c0.avif>)  
+<https://youtu.be/AUGiP5M2psk>
