@@ -146,7 +146,12 @@ img {
 }
 
 
+/* Firefox can collapse an unloaded <object> even with explicit dimensions.
+   Size its wrapper to keep following content stable while the SVG loads. */
 .brontologo {
+    display: block;
+    width: 550px;
+    height: 335px;
     margin: auto; 
 /*
     width: 935px;
@@ -167,6 +172,12 @@ img {
     /* mix-blend-mode: overlay; */
     
   }
+
+.brontologo > object {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
 
 /* b: i dont want to deal with this! */
 @media screen and (max-width: 900px) {
