@@ -11,8 +11,9 @@ Neat dark theme for omarchy.
 
 ![image](https://imgpost.brontosaurusrex.workers.dev/i/b38091c7-ce09-4cd2-81a1-db660d02cf55.avif)
 
-Additional walls (original images from upsplash)  
-[![spenser-sembrat-9H6ZPRr7j6Q-blackturq-no-text-4k](<https://imgpost.brontosaurusrex.workers.dev/i/2e1f1003-6cc9-4f54-8861-605160e9e97d.avif>)](<https://imgpost.brontosaurusrex.workers.dev/i/cea671a3-15b6-421b-9f38-a659c6747002.avif>) [![alex-knight-wfwUpfVqrKU-anime-contrast-4k](<https://imgpost.brontosaurusrex.workers.dev/i/9ef6c7bc-8276-43b1-9e10-4ae2dde1650b.avif>)](<https://imgpost.brontosaurusrex.workers.dev/i/d54204bb-6399-4b27-88f4-05882ff562c3.avif>)
+Additional walls<br>
+[![spenser-sembrat-9H6ZPRr7j6Q-blackturq-no-text-4k](<https://imgpost.brontosaurusrex.workers.dev/i/2e1f1003-6cc9-4f54-8861-605160e9e97d.avif>)](<https://imgpost.brontosaurusrex.workers.dev/i/cea671a3-15b6-421b-9f38-a659c6747002.avif>) [![alex-knight-wfwUpfVqrKU-anime-contrast-4k](<https://imgpost.brontosaurusrex.workers.dev/i/9ef6c7bc-8276-43b1-9e10-4ae2dde1650b.avif>)](<https://imgpost.brontosaurusrex.workers.dev/i/d54204bb-6399-4b27-88f4-05882ff562c3.avif>)  
+<small>Originals: [Spenser Sembrat](https://unsplash.com/photos/a-white-bullet-train-speeds-past-a-mountain-9H6ZPRr7j6Q) and [Alex Knight](https://unsplash.com/photos/empty-pathway-in-between-stores-wfwUpfVqrKU) ([Unsplash License](https://unsplash.com/license)).</small>
 
 <!--
 And some of mine  
